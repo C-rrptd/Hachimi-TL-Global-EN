@@ -1,0 +1,103 @@
+{
+    "title": "読書家あるある",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go see a movie to relax, and when I come out..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "H-hello. You're a trainer from the academy,\nright? Did you also happen to watch this movie?",
+            "choice_data_list": [
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "R-really?! If you don't mind, I'd love to know what\nyou thought of it."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sorry for asking all of a sudden. It's just... this\nmovie is based off one of my favorite books."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm so happy it got a movie adaptation, I can't\nhelp but want to know what others thought of it!",
+            "choice_data_list": [
+                "That final car chase was amazing.",
+                "The visuals were gorgeous."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Yes! That scene had me at the edge of my seat\ntoo!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's no wonder speed and tension are such\nimportant elements for movies...",
+            "choice_data_list": [
+                "They sure make things exciting, huh?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Y-yes, you're right! I feel like I've learned\nsomething new."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "By the way, in the novel, the hero and heroine\noriginally confessed to each other while fleeing\non foot..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "But I think the scene gained a lot more presence\nafter being changed to a car chase. The stunt\ndriving was breathtaking as well!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I wish they focused more on the subtleties of their\nemotions, though. For example, they could've\nabandoned the car and gone on foot so that..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O-oh! Sorry for rambling... I didn't mean to get so\ncarried away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Zenno Rob Roy's fangirling is just as fast-paced\nand action-packed as the film."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I know just what you mean! The visuals were\nstunning, and they perfectly captured the world\nand atmosphere that was in the book."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "The musical score was a perfect accompaniment\ntoo. Listening to it really refreshed me."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "In fact, I feel so energized, I'm sure I can do my\nvery best during training tomorrow."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "And the more I train, the stronger I'll become,\nwhich means I'm sure to do well in my next race!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "And if I keep winning, my life will become its own\nstory..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Then someone will write a book about me, and\nit'll get its own movie adaptation, and...",
+            "choice_data_list": [
+                "I'll go see it if they make a movie of your life."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "<i>Gasp!</i> No way... Did I say all that out loud?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Aaaaah! Please forget everything I said!"
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "title": "A Glowing Endorsement",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Everything's been going well since I've become Matikanetannhauser's\ntrainer. As she gazes at the clouds today though, she has something\non her mind."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm, I kinda want to mix it up with my training today..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, but don't get me wrong! That isn't to say that your regimen isn't\nplenty stimulating enough!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's just that I saw some really interesting training ideas on TV\nyesterday. Some runners actually do triathlons and even play tag!",
+            "choice_data_list": [
+                "(Huh. Something like that might be nice for a\nchange.)"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! And I've got just the idea for the both of you!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, hey there, Director!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I happened to be strolling over yonder when I heard you speaking of\nnovel training ideas. So listen to this!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "How would you like to get in some cardio, improve upon your\ningenuity on the track, <i>and</i> build up some mental fortitude—all while\nplaying a game?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I speak of cops and robbers, of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Loving the idea, Matikanetannhauser enthusiastically ropes plenty of\nother participants into our special training session."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Look at all this space! I didn't even know that we had access to a field\nlike this!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "It appears you can make a special request to use these grounds if\nyour training calls for it. We'll have no problem performing to our\nutmost here."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's get this party started! First, I'll explain the rules."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Five of us will make up the cop team, and five of us will be the\nrobbers. The cops will try to catch the robbers within the time limit!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "If even one robber manages to stay out of the cops' grasp when time's\nup, then their whole team wins! But if the cops catch all the robbers,\nthen they win!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Robbers still on the loose can rescue captured teammates, so the\ncops gotta stay sharp until the very end."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The winners will be treated to a super schmancy parfait, so be sure to\ngive it your all!"
+        },
+        {
+            "name": "Everyone",
+            "text": "Rock, paper, scissors, shoot! Shoot! ...Shoot! ...Shoot!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right, let's get to robbin'!"
+        },
+        {
+            "name": "Robber Team",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Our unit will apprehend these perps in record time. Officers, move\nout!"
+        },
+        {
+            "name": "Cop Team",
+            "text": "Right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A heated game of cops and robbers begins. Certain crooks find\nthemselves in the slammer without much recourse, however."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Grrr! This sucks, this sucks, this SUCKS! I almost got away too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Too bad. I guess the local precinct really knows what they're doing.\nSo who hasn't been caught yet... Whoa, only Tannhauser? Seriously?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, but she can really put up a fight when her head's in the game. We\ncan still win this! Keep it up, Tannhauser!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh? Maybe mayhaps I'm the only one left? Yikes, what do I do?\nShould I try to go save them? I'll have to get behind them somehow..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmm... Nothin' to it but to do it! Ei!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hm? I saw someone duck into the bushes over there. After her!"
+        },
+        {
+            "name": "Cop A",
+            "text": "Stop right there, Machitan! We've caught you red-handed!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew, they're <i>way</i> too sharp!"
+        },
+        {
+            "name": "Cop B",
+            "text": "<i>Huff... huff...</i> Only a... little more... You should just turn yourself in!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff...</i> Master thief Machitan doesn't get caught so easily!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "We've got plenty of officers rested and ready to tap in at multiple\npoints. Give it up Tannhauser, you're finished."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff... huff...</i> Ha... I don't... think sooo!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Oh, whoooa! Machitan's got some serious power! She just keeps\njuking 'em!"
+        },
+        {
+            "name": "Robber A",
+            "text": "It's been almost twenty minutes straight of this. How is she not totally\nexhausted by now?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's just the kind of runner Tannhauser is."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... pant... wheeze...</i>"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "We're getting nowhere, officers. We need a new formation—"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And there's my opening! See ya!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Machitan! YES! She's comin' to save us! You seriously rock!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff... huff...</i> Geh... Haaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The master thief manages to give her pursuers the slip and reach the\njail, but then..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "OUCH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...She slams headfirst into a tree and crumples onto the grass."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Tannhauser, in custody!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mumuu... I was so close to getting away with it too..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Still, that was one heck of a fight. Good on you for pushing so hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "The players on both teams are moved at having witnessed\nTannhauser's display of willpower and grit."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Muh... That's frustrating. I feel like I was so close, but I can never\nseem to win in the end.",
+            "choice_data_list": [
+                "Is that so?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah. Even back in my days at the junior club, I would sometimes get\nsick before races, not to mention the nosebleeds... It's always\nsomething."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Indeed! Matikanetannhauser can be a little slapdash."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Director! We just got back from the game! Wait, \"slapdash\"?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "That's right! Though I think we can say that's a story of the past! Not\nall can claim to face such lofty ambitions with as steady a mind as\nyou."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I see only the brightest of light emanating from our future star! I'm\nexpecting great things, and that is all I have to say! Ha ha ha!",
+            "choice_data_list": [
+                "And she's off...",
+                "And she's off..."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, that really helps. The director actually comes out to cheer me\nup when I'm feeling down quite often."
+        },
+        {
+            "name": "Monologue",
+            "text": "The director's words about Tannhauser ring true to me. I've got to\nmake sure she gets her chance to accomplish great things."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together with that amazing performance in today's cops and robbers\ngame, I can't help but feel a renewed sense of excitement for her\nfuture."
+        }
+    ]
+}

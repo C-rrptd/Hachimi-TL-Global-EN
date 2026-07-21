@@ -1,0 +1,42 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun is doing some mental practice\nright before her race..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So if someone gets in my way, I'll slam on the\nbreaks and...",
+            "choice_data_list": [
+                "(She looks really focused.)",
+                "(She looks really focused.)"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "...Huh?! Trainer?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa, you scared me! I had no idea you were\nhere! What's up?",
+            "choice_data_list": [
+                "You looked super focused.",
+                "You looked super focused."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah, I guess so. My heart just won't stop\npounding."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But... you'll be the one in a whole other world\nsoon, Trainer!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You'll totally be entranced by my running! ♪"
+        }
+    ]
+}

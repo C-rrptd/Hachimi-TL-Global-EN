@@ -1,0 +1,117 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio invites me to go visit a shrine for New\nYear's."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wow... Look at all these people!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If this many people are coming here to make a\nwish, then the gods must have their work cut out\nfor themselves!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, let's hurry up and get in line! At this rate,\neven the gods are gonna close up shop!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew! We finally crossed that off the list!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Thanks for coming with me! I sure wasn't\nexpecting it to be <i>this</i> crowded!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "To tell the truth, I was thinking about coming\nhere with Prez..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But given what I was planning to pray for, I\nfigured it'd be best to come with you instead.",
+            "choice_data_list": [
+                "What <i>did</i> you pray for?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. I prayed to become strong enough to\nsurpass Prez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm about to enter senior year, so I'm practically\nright on Prez's tail!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna enter a bunch of big-league races and\nbecome the greatest racer of them all!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Anyway, what did you pray for? You looked\npretty serious back there.",
+            "choice_data_list": [
+                "To look after your health.",
+                "To help you get even stronger.",
+                "To improve your skills."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wow! You were thinking about me?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, I won't leave it to chance! Last year made\nme realize just how important my body is!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I won't push myself and I'll make sure to take\nbreaks! I'll show you how much I can take care of\nmy health!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Help me get stronger?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, when you say it like that, I feel like I need\nto go at it even harder!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Very well. The great Teio shall grant your wish!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Improve my skills? You mean like... work on the\nstuff I'm good at?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So you think that's really important for me, huh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, okay! I'll take your words to heart!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...You know, now I think of it, doesn't your prayer\nsound more like a promise?",
+            "choice_data_list": [
+                "Effort is a key part in making wishes come true,\nafter all."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh yeah. I guess the gods help those who help\nthemselves."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then I wanna change my prayer to \"Enjoy\nwatching me as I surpass Prez!\""
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "We'd better get back in line! Come on—let's go,\nslowpoke!"
+        }
+    ]
+}

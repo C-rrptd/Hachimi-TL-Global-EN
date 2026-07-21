@@ -1,0 +1,221 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One night during the holidays, a scream\nunbefitting of such a season roars through the\nshopping district."
+        },
+        {
+            "name": "Shopping District Staff",
+            "text": "Stop, thief!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't just ignore something like that. I chase\nafter the fleeing figure and find..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! Trainer?!",
+            "choice_data_list": [
+                "El?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The shadowy figure I was chasing turns out to be\nEl Condor Pasa."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You... got me..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's right. The mysterious figure flitting\nthroughout the town like Santa on this special\nnight is..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "None other than me, El Condor Pasa, the\nSnowfall Smuggler!",
+            "choice_data_list": [
+                "...You know stealing is wrong, right?",
+                "...You know stealing is wrong, right?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait, wait, wait! Don't get me wrong, Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahem. I'm the Snowfall <i>Smuggler,</i> not <i>thief.</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "What I'm doin' is totally different!",
+            "choice_data_list": [
+                "And what <i>are</i> you doing exactly?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehehe, I'm smuggling holiday presents to\neveryone!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm a celebrity, after all! In my country, it's only\nnatural for celebrities to donate gifts!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I heard that masked wrestlers in Japan give\nschool bags to children too."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's why I've been secretly smuggling presents\nto the kids around here!",
+            "choice_data_list": [
+                "Don't you think it'd be better to just volunteer\nlike a normal person?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Well... there's a reason I can't just do it out in the\nopen...",
+            "choice_data_list": [
+                "Go on..."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You see... The reason is..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The Snowfall Smuggler can't reveal her true\nidentity!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Basically... she just really likes pretending to be\nthe \"Snowfall Smuggler.\""
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You gotta let me go, Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I've still got a ton of gifts to give out!",
+            "choice_data_list": [
+                "...Fine."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I acquiesce to her request, but that doesn't mean\nI think sneaking around is a great idea.",
+            "choice_data_list": [
+                "At least try to get permission from their parents\nfirst.",
+                "At least try to get permission from their parents\nfirst."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Bueno! That's a good idea. If I talk to their\nparents, we can keep the dream alive!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I promise I'll do that, Trainer. And with that..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm off! Chao!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She flips her cloak and takes off. Hopefully, this\nwill be a better way for her to take on the role of\nSanta."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not long after..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wee woo wee woo!</i>"
+        },
+        {
+            "name": "Boy",
+            "text": "Stop! Thief!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm not a thief! You've got it all wrong!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa is being chased by a child playing\npoliceman. It seems like people still think she is a\nplain old thief."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I've still got a ton of gifts to give out!",
+            "choice_data_list": [
+                "I really don't think it's a good idea...",
+                "I really don't think it's a good idea..."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Por qué no? Why not?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her she should give out the gifts in plain\nsight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her true identity will still be safe since she's\nwearing a mask anyway."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ooohhh, right! Duh! How did I not think of that?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right! I'll give some presents out at the park,\nthen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clang, clang!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Is everyone here? Good! <i>Swish! Fwoosh!</i> Who's\nthat lurking in the festive shadows?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It's the Snowfall Smuggler, delivering the finest\npresents to all the good boys and girls!"
+        },
+        {
+            "name": "Boy",
+            "text": "Hey! It's El Condor Pasa! El Condor Pasa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "W-wait, no, I'm not! I'm the Snowfall Smuggler,\nnot El Condor Pasa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Here's your present!"
+        },
+        {
+            "name": "Girl",
+            "text": "Forget the present! I wanna shake your hand! And\na hug! ♪"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait, wait, wait! This isn't what I was expecting!\nLine up, please!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Aaaghhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa is swarmed by children. They seem\nmuch happier to see her than to be getting gifts."
+        }
+    ]
+}

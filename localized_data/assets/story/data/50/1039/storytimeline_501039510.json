@@ -1,0 +1,208 @@
+{
+    "title": "じゃじゃウマ姫のパーティー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess and I have been invited to a\nparty held by one of King Halo's acquaintances."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "W-wooow! So... this is what a first-rate party is\nlike! Wh-what a magnificent venue, and such\namazing food!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Are you okay, Kawakami? Do you remember what\nto do first when arriving at a place like this?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eh? Ah, um, of course! Umm... I need to, uh..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh! I need to hoard all the most delicious food\nbefore anyone else gets a chance!"
+        },
+        {
+            "name": "King Halo",
+            "text": "No! You're supposed to greet the party organizer!\nCome on, we prepared for this!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ahhhhh!",
+            "choice_data_list": [
+                "Now, now. No need to be so harsh."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Don't spoil her! I understand that she's nervous,\nbut she's only going to embarrass herself at this\nrate."
+        },
+        {
+            "name": "King Halo",
+            "text": "Anyway, Kawakami, pull yourself together and\nlet's go greet the organizer! I'll come with you, so\nlook dignified!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Y-yes, ma'am!"
+        },
+        {
+            "name": "Party Organizer",
+            "text": "Oh, if it isn't King! How long has it been? It's so\ngood to see you again!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes, it has been some time since we last spoke. I'd\nlike to introduce you to my classmate, Kawa—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A p-pleasure to make your acquaintance, and\nhow do you do?! I am Kawakami Princess! Yes, it\nis very nice to meet you!"
+        },
+        {
+            "name": "King Halo",
+            "text": "..."
+        },
+        {
+            "name": "Party Organizer",
+            "text": "Hahaha, it's nice to see someone so enthusiastic!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "R-really?! Oh, I did it! You know, it was King who\ntaught me what to do! \"When greeting someone,\nproject your voice loudly and clearly!\""
+        },
+        {
+            "name": "King Halo",
+            "text": "W-well, let's not dwell on that, shall we?\nMoving on... I heard you did some work with my\nmother recently, is that right?"
+        },
+        {
+            "name": "Party Organizer",
+            "text": "Oh, yes. She truly is a world-class designer. Her\nrecent work was positively perfect. I have nothing\nbut gratitude."
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, no need for that. She's the one who's grateful\nfor all the help you give—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aaahhh! That just gave me a hilarious idea!\nSpeaking of help, King is always helping me, too!"
+        },
+        {
+            "name": "King Halo",
+            "text": "K-Kawakami?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That is... except the other day when I broke a\nteacup for the eighteenth time. She got so mad.\nShe was like, \"Clean this up at once! And don't\nask for help!\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Which leads to my knockout princess joke! What\nwould King give me if I were to spill hot tea\neverywhere?"
+        },
+        {
+            "name": "Party Organizer",
+            "text": "...I don't know. What <i>would</i> she give you?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Why, a proper <i>scalding,</i> of course!"
+        },
+        {
+            "name": "Party Organizer",
+            "text": "Hahahaha!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ahahahaha!"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Ohohoho!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Just what do you think you're doing?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eeek!"
+        },
+        {
+            "name": "King Halo",
+            "text": "My goodness, Kawakami! You're lucky our host is\na man of great tolerance. If it were anyone else,\nyou might've been kicked out!",
+            "choice_data_list": [
+                "L-look, at least she was giving it her best shot...",
+                "Could you teach her proper etiquette?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "\"Shot\"? More like her best active grenade!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "P-please don't be mad! I just thought it was a\ngreat chance to bust out a witty princess joke!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...Oh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "What? Have you realized the folly of what you\ndid?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Um, what does a furious King have in common\nwith the wonderful steak they served at the\nparty?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "They were both steaming! How's that one?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Not funny at all! Come here at once, Kawakami!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Nooo! Please forgive meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Kawakami Princess is still a ways away\nfrom conducting herself in a manner befitting a\nprincess."
+        },
+        {
+            "name": "King Halo",
+            "text": "You're right! I'll simply have to drill the\nfundamentals into her once again!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, but I truly did study in preparation for this\nparty. I learned all about the art of witty\nconversation..."
+        },
+        {
+            "name": "King Halo",
+            "text": "You would have been better off spending that\ntime studying etiquette."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now, I won't deny that it can be important to slip\nin a small joke during situations like that..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?! So my judgment was spot on?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "No, it was still unacceptable! For instance, why\nwas I the butt of your joke?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "E-eeek!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Kawakami Princess starts taking joke\nlessons from King Halo three times a week."
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "title": "どぎまぎアフタヌーンティー！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I decide to drop by a cafe to quench my thirst.\nThe cafe is packed, but I finally make it to the\nfront of the line to enter..."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Ding-a-ling! ♪ Welcome! ☆ Thank you for\nwaiting! Table for one?",
+            "choice_data_list": [
+                "Yes, please."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa! This place is super cute and fancy! I'm\ngonna stick out like a sore thumb!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Really? You appear to be fitting in perfectly well\nto me."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "I'm terribly sorry, but we don't have any empty\ntables at the moment..."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Um... Would you mind sharing your table with\nthese two patrons?",
+            "choice_data_list": [
+                "I don't mind at all."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh! You're a trainer from the academy! Are you\nsure? We'd really appreciate it!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well then, allow us to accept your kindness and\njoin you."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Thank you very much! ☆ I'll show you to your\ntable! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We sit at our table and look through the menu. As\nwe're about to order..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Um... For my drink, I'll have a, uh... Royal... Mari...\nMaririn? Please."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Certainly! ♪ One Royal ☆ Maririn! Would you like\nan Angel Ring to go with that? It's on our\nseasonal dessert menu!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Huh?! Oh, uh, yeah... One of those too."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Absolutely! ♪ Oh! You have a choice of three\nsizes for your drink—Dolly, Pretty, or Charming!\nWhich would you like? ☆"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "P-pretty? Charming? Um, uhhh..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Pardon us... This is our first time here. Might I\ntrouble you to explain the sizes?"
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Certainly! ☆ \"Dolly\" is a small, \"Pretty\" is a\nmedium, and..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After listening to the staff go through the unique\nsize names, we somehow manage to order three\ndrinks and a dessert."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Haha... Half of what she said was gibberish to\nme..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Phewww. I can finally relax. I was on edge that\nwhole time..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Your composure really saved my glutes, Ardan.\nThanks!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, I should be the one thanking you for the\ninvitation. You've given me the opportunity to\nexperience this whimsical cafe.",
+            "choice_data_list": [
+                "You two seem really close.",
+                "You two seem really close."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, we've been meeting regularly at Mejiro\nfamily gatherings ever since we were young. Ryan\nhas always been so kindhearted."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "She would always teach me new games or show\nme secret spots. I have many fun and fond\nmemories with her."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ahaha! I almost forgot about that! You're older\nthan me, so I loved how you'd always listen to\nwhat I had to say."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, and I still really appreciate that about you,\neven now!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ehehe, but of course. I'll gladly lend you an ear\nwhenever you may need it."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Ding-a-ling! ♪ Thank you for waiting! Here are\nyour Royal ☆ Maririns aaand your Angel Ring!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So this is a Royal Maririn... It's black tea."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And this Angel Ring... appears to be a very large\nBaumkuchen."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's as big as a whole cake! Looks like a lot to\neat...",
+            "choice_data_list": [
+                "You two can finish it if you share it!",
+                "You two can finish it if you share it!",
+                "How about getting it to go?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's as big as a whole cake! Looks like a lot to\neat...",
+            "choice_data_list": [
+                "You two can finish it if you share it!",
+                "You two can finish it if you share it!",
+                "How about getting it to go?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Indeed. Let's cut it and have half each, Ryan."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan makes a silent, elegant cut through\nthe Baumkuchen. Unfortunately..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Oh dear, I seem to have split it unevenly. You\ncan have the large portion, Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "No, you cut it for me, so you should eat the\nbigger piece!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ehehe, you needn't be shy. Besides, I'd like to be\nthe mature and responsible Umamusume today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Oh, I know. Perhaps I should cut it into smaller\npieces to make it easier to eat."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh! Um, thanks! Ack, I dunno why, but my face is\nburning up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They happily split the Baumkuchen and finish the\nwhole thing."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "All right, let's try some of this tea! It looks really\ntasty!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my... The fragrance is so pure. These must be\nsingle-estate tea leaves."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You can tell that from the smell? You and Dober\nknow so much when it comes to tea... Talk about\nwell-educated."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Our knowledge comes from our love of it. You\nhave much more knowledge than I do when it\ncomes to muscles, don't you?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's true... Oh! I know this one muscle workout\nyou can do right now, while you're sitting down!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's called a \"seated calf raise.\" You focus on\nputting weight on your soleus muscle and..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My goodness... Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy a spirited chat about various topics as\nwe sip and savor our tea."
+        }
+    ]
+}

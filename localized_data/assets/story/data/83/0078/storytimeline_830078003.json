@@ -1,0 +1,221 @@
+{
+    "title": "Finding Miraculous Joy!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "To uncover the mystery behind the treasure map\nleft by a younger Matikanefukukitaru and her\nsister, we visit her house—a shrine."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nineteen, twenty! Where I'm standing is twenty\nsteps from the shrine's bell!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "There are ants here!",
+            "choice_data_list": [
+                "Hmm... Looks like there's nothing noteworthy."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Uh... Wait a moment... I think there was\nsomething we had to do here... Oh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Without another word, she grabs a shovel and\nquickly starts digging."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Look! A piece of paper with a code was buried\nhere!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Bravo! A code, you say? What a delightful turn of\nevents!",
+            "choice_data_list": [
+                "So what's written on it?",
+                "So what's written on it?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "\"en b.\" Hm... All right, let's keep going!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The kagura hall... How nostalgic. My sister always\nlooked so pretty in the traditional dance clothing.\nI'd play in front of the mirror trying to copy her\nmakeup."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I see, in that case... Haaah ha ha! Behold, I've\nfound it! Behind the mirror... \"ox\"!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Flower ornament... Um... Could it be the vase\nover there?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "No, I'm thinking it's this hanging scroll. My sister\nactually painted this one herself. That's why I\nthink behind it, there'll be—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It says, \"wo.\" ...My sister was always so earnest,\nable to do anything she set her mind to. I can only\nimagine her smile as she hid these clues..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow! Look at all the carp! And your garden's\nhuuuge!",
+            "choice_data_list": [
+                "Doesn't look like there's anywhere to hide a\nclue..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's probably another memory of my sister I need\nto recall."
+        },
+        {
+            "name": "Young Fukukitaru",
+            "text": "Look, Sister! There's something written on the\nback of that big fish!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Gasp!</i> I remembered! Look for the biggest carp in\nthe pond! There should be a snippet of the code\nwritten on its back!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "We already have \"en b\" from the bell and \"ox\"\nfrom the kagura hall!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The hanging scroll of flowers gave us \"wo,\" and\nfinally, from the shining back of that great carp,\nwe have \"od.\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let me take it from here! Now if I just rearrange\nthe pieces...",
+            "choice_data_list": [
+                "...Wooden box?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's gotta be referring to this box, then! One,\ntwo, three—heave!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh wow! Such a pretty kimono! Is this the\ntreasure?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This kimono... I remember now! That's right... this\nis—"
+        },
+        {
+            "name": "Young Fukukitaru",
+            "text": "Awww! I'm so jealous of the kimono you got from\nMom! I wanna try it on!"
+        },
+        {
+            "name": "Fukukitaru's Sister",
+            "text": "Hehe. I'd love to see you wear it someday too!"
+        },
+        {
+            "name": "Fukukitaru's Sister",
+            "text": "Oh, I know. I'll draw a treasure map just for you!\nSo when you get bigger, you can go on a search\nfor it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So this is where it was hidden. A treasure... just for\nme."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, Fuku, there's something on the ground! It\nlooks like a letter?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Dear Fuku, you're an adult now! Congratulations!\nI love how you're always so happy and full of\nenergy! Thinking of you always!</i>"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...Oh, Sis!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sniffle...</i>"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I wanted you to see me... wearing this too.",
+            "choice_data_list": [
+                "Fukukitaru..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ehehe. I've made up my mind!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "One day, I'm going to gain enough happiness so\nI'll look great in this celebratory kimono!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And on some ultra-lucky, ultra-special occasion,\nI'll wear it for myself and my sister!"
+        },
+        {
+            "name": "???",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel a presence somewhere behind me. A\ntingling sensation, like the warmth of springtime\nsun."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, once we're bigger, let's get photos taken\nwith everyone wearing kimonos!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, that is a splendid idea! I'll dress up so\nbeautifully as to put even faeries to shame!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Taking photos together sounds great! Oh, um,\nthat's only if you're okay with it, Fukukitaru."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes, of course!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sniffle...</i> I'll do my best, for her too!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe, your sister didn't go to these lengths only\nto see you cry. Show her your best smile!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Haaah ha ha ha! Ehehe, that's so silly! Come on,\nyou guys do it too!",
+            "choice_data_list": [
+                "Haaah ha ha ha!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ha... h-haaah ah ha!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehe, you're right. I'll raise my voice beyond the\nclouds!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Inhale...</i> NYAAAH HA HA HA!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wiping the tears from her face,\nMatikanefukukitaru laughs with all her heart as\nshe embraces life with the happiness and energy\nher sister loved so much."
+        }
+    ]
+}

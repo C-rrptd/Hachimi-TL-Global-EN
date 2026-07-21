@@ -1,0 +1,281 @@
+{
+    "title": "Blue Skies, White Lightning",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Next week is the long-awaited tryouts! For newbie trainers like me,\nthis event is our first step on our journeys to bringing out the best in\nevery racer."
+        },
+        {
+            "name": "Monologue",
+            "text": "At the tryouts, each runner does their best to show off their abilities\nto prospective trainers, who then scout them. It's an important event\nfor both parties."
+        },
+        {
+            "name": "Monologue",
+            "text": "While there's still time between now and then, my nerves—and\nexcitement—are getting the better of me. I decide to take a stroll to\ncalm down."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I walk through a park near the academy, I hear the sound of\nchildren playing. I turn towards the source of the noise, only to see an\nUmamusume."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Aw yeah! Time's up! Looks like I win again!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Y-you're too fast, Tama!"
+        },
+        {
+            "name": "Girl A",
+            "text": "How're we s'posed to tag you when you're the fastest runner?! You're\nnot playing faaair!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nyahaha! Life isn't fair, squirts! 'Sides, ya wouldn't want me goin' easy\non ya just 'cause you're smaller than me, yeah?"
+        },
+        {
+            "name": "Girl A",
+            "text": "Oh, I know! Show us how fast you can run again, and we'll forgive you!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Yeah, yeah! I wanna see you go ZOOM! Do it! Do it!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What, again? Well, if it'll make you happy, I don't see why not. Back\nit up, everybody! Don't want any of ya gettin' hurt!"
+        },
+        {
+            "name": "Children",
+            "text": "Okaaay!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, ready, kiddos? I'm only doin' this once, so keep those\npeepers peeled!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hup!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Uraaagh! Whaddaya think of dis?!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Boy A",
+            "text": "Whoooaaa! That's so fast!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Yeah, the speediest speedster ever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Those kids aren't kidding. She's a powerful runner, but there's also\nthis playfulness to it. And her acceleration! It's near\ninstantaneous—almost like... like...",
+            "choice_data_list": [
+                "Lightning!",
+                "Lightning!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Did you just say—wait, who're you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly feel everyone's eyes on me. The embarrassment sets in as I\nrealize I just said that out loud.",
+            "choice_data_list": [
+                "S-sorry, I didn't mean to—"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sorry for what? You wouldn't be apologizin' if you didn't do anythin'\nwrong. And what're ya starin' at anyway? Get behind me, kids!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before this misunderstanding gets out of hand, I quickly stammer out\nan explanation."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So you can't even take a walk without daydreamin' about racin'?\nGeez, you must love your job a helluva lot."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Talk about coincidences though. You're a rookie trainer, right? Well,\nI'm workin' towards my racin' debut myself."
+        },
+        {
+            "name": "Boy A",
+            "text": "Tamaaa! Hurry up! We wanna play hide and seek next!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, yeah, I'll be right with ya! Phew... Where do kids get all that\nenergy from?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway, the name's Tamamo Cross. Since we're both rookies, I get\nthe feelin' we'll be seein' a lotta each other. See ya 'round!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross... Once she makes her debut, how will her running\nevolve? I leave the park with something new to look forward to."
+        },
+        {
+            "name": "Monologue",
+            "text": "One week later..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the tryouts is here. I scan the crowd of runners preparing\nto race, when I catch sight of one I recognize..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's fine... You've got this in the bag... Just run as fast as you can... get\nahead of everybody... and win!",
+            "choice_data_list": [
+                "(She looks nervous.)",
+                "(She looks nervous.)"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Losin' here isn't an option. Not now... not ever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her demeanor seems completely different from the day we met in the\npark. I watch as she takes her position..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff! Huff! Huff!</i> I gotta win dis! I gotta! <i>I gotta win no matter what!</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "Tamamo Cross is losing steam! She's falling behind the leading racers!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ugh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she slips back, so too does her chance to place high in the race...\nConfusion furrows my brow. What happened to the runner I saw at the\npark?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Tamamo Cross, huh? She showed a lot of promise in the beginning of\nthe race, but she was way too hasty. She failed to maintain the very\npace she set."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Yeah, she's clearly got the drive, but with that teenie body, there's no\nway she can keep up with the competition in the final stretch."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dammit... Dammit, dammit, <i>dammit!</i> The hell's wrong with me..."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Excuse me, Tamamo Cross? You must be exhausted after that run, but\ndo you have a moment?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Y-yeah, sure..."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "I'll cut straight to the point—I want to scout you. You might be rough\naround the edges at the moment, but a bit of refining will surely have\nyou shining in no time."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "R-really?!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Really. With me as your trainer, you might make it to the graded\nraces. In fact, you might even place in the top five. What do you say?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whaddaya mean, \"top five\"? Give it to me straight—you think I can\nace a G1 race or not?"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Well... I can't promise anything. If you work hard, you might have a\nchance, but—"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Then get outta my face!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm lookin' to WIN! No ifs, ands, or buts about it! Top five's nowhere\n<i>near</i> good 'nuff!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But your punk ass thinks that's all I got? Well, screw your stupid offer!\nTake your wishy-washy ways and find some other chump!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "...Hmph. What an unruly racer."
+        },
+        {
+            "name": "Monologue",
+            "text": "The other trainers stand by as Tamamo Cross storms off, unimpressed\nby her temper. But that same temper shows how badly she wants to\nwin...",
+            "choice_data_list": [
+                "(I better follow her!)"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dammit... dammit! What a low-down jerk! Treatin' me like a loser...\nbut why wouldn't he? That's how I ran today...",
+            "choice_data_list": [
+                "Tamamo Cross!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're... that trainer from the park...",
+            "choice_data_list": [
+                "I want to scout you.",
+                "I want to scout you."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're a rookie trainer, aren't ya? What makes ya think a no-name\ntrainer like you has what it takes?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya really think ya can take me on, train me up, and turn me into a\nchamp?! I'm not just talkin' G1 here—I mean all of Japan!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The rage Tamamo Cross feels boils to the surface, and she lashes out.\nI desperately search for words to quell the fire, but to no avail."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Drop the act. You're nothing special, and neither am I..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross takes off, leaving me with only my regret as company..."
+        }
+    ]
+}

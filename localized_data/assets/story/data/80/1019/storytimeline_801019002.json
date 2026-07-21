@@ -1,0 +1,95 @@
+{
+    "title": "エモのためなら雨の中でも！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I happen to look outside the window and notice\nAgnes Digital running in the rain."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Huff... Puff...</i> You got this, Digitan!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Here I go! One more laaap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thirty minutes later, while I'm walking down the\nhallway..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Phew, that was a good run.",
+            "choice_data_list": [
+                "It must've been tough running in the rain."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, it's you... Uehehe! Of course you'd think that,\nnoob! Little do you know, I was out there <i>because</i>\nit was raining! ♪"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "The weather forecast says it's going to rain during\nmy race, so I figured I should practice under the\nsame conditions!",
+            "choice_data_list": [
+                "You'll catch a cold if you push yourself too\nhard.",
+                "You'll catch a cold if you push yourself too\nhard.",
+                "Talk about being hardcore!",
+                "Talk about being hardcore!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "The weather forecast says it's going to rain during\nmy race, so I figured I should practice under the\nsame conditions!",
+            "choice_data_list": [
+                "You'll catch a cold if you push yourself too\nhard.",
+                "You'll catch a cold if you push yourself too\nhard.",
+                "Talk about being hardcore!",
+                "Talk about being hardcore!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tsk, tsk! I'm no hothouse flower! ♪ No rain,\nbeat-up tracks, or cold's gonna stop my burning\npassion!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And come rain or shine, my next race is still on\ndirt, so I've got nothing to lose from practicing."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Guehehe! I'd sooner die than miss out on the best\nmoment in a race, no matter what kind of dirt\ntrack I'm running on! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital does have a point. Training in poor\nconditions makes it easier to adapt to all kinds of\nsituations."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But of course! I don't ever wanna cut corners!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her gleaming eyes are full of passion. With such\nan unwavering drive to win, she's an exemplary\nUmamusume.",
+            "choice_data_list": [
+                "I'm cheering for you!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Thank you so much! I strive to capture every\nglimpse of lovely perfection with my eyes no\nmatter how poor the conditions! ♪",
+            "choice_data_list": [
+                "Uh... What are you talking about?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "The sight of Umas running in the rain, their hearts\nconnected with burning emotions and their\nsweaty forms splattered with mud..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Uwooooah! It's the heaviest of heavy romances,\nplaying out on the drenched racetrack! My\nmouth's watering just thinking about it! ♪"
+        }
+    ]
+}

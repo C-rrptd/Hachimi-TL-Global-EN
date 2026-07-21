@@ -1,0 +1,267 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After an eventful year in the Classics, the first day\nof senior year has arrived."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh...</i> There's quite a number of people\ngathered, though I suppose this is to be expected\nof a shrine at New Year's.",
+            "choice_data_list": [
+                "Aren't you cold in that outfit?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph. Isn't it obvious just by looking at me?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course I'm cold!",
+            "choice_data_list": [
+                "...Do you want me to get your coat?",
+                "...Do you want to borrow my coat?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "...I-I'm fine now... But... maybe I'll need it later..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking at her legs shaking, I worry about her\ncatching a cold."
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "Hey, hey, did you see the New Year's\nannouncement?!"
+        },
+        {
+            "name": "Chaperone",
+            "text": "Yeah, I saw it. Special Week and Seiun Sky are\ngoing to run in the spring Tenno Sho, right?"
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "No, no! Not that!"
+        },
+        {
+            "name": "Chaperone",
+            "text": "Then, are you talking about what El Condor\nPasa's doing overseas? Or maybe about Grass\nWonder?"
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "No! Not them either! Aghhh..."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Hehe, it seems like everyone is finally starting\nto notice me."
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "Look over there! It's her! She's been trending at number\none online!"
+        },
+        {
+            "name": "Chaperone",
+            "text": "You're right! I remember the headline: \"Unforeseen\nDetour, Nepo Baby Runs Wild!\" Also, look at what she's\nwearing. Doesn't she know it's winter?"
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "I know, right? I should take a picture with her. I bet you\nit'll go viral!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Well, you know what they say: there's no such\nthing as bad publicity."
+        },
+        {
+            "name": "King Halo",
+            "text": "No matter what the story, I must be the lead. I'll\ntake whatever steps necessary."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm prepared for whatever anyone has to say, so\nlong as I'm the center of their attention.",
+            "choice_data_list": [
+                "You're a tough one.",
+                "You're a tough one."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Heh. That's what it means to be first-rate. You\nkeep your head high, puff your chest out, and\nsteal everyone's hearts."
+        },
+        {
+            "name": "King Halo",
+            "text": "So, without further ado..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Everyone!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I am the first-rate Umamusume, King Halo! And I\nlook forward to your continued support this year!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Photos are welcome, but we must be mindful of\nthe other visitors! Please take care not to disturb\nthem!"
+        },
+        {
+            "name": "King Halo",
+            "text": "That said, I have places I need to be, but those\nhoping to get a photo with me are welcome to\ncome along."
+        },
+        {
+            "name": "Shrine Visitor",
+            "text": "Really?! Hmm, I think I just might go!"
+        },
+        {
+            "name": "Chaperone",
+            "text": "H-hey! Well... I guess I'll come get some pictures\ntoo."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe. Make sure I look cute, okay?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Phew. Well, that does it for the impromptu photo\nsession."
+        },
+        {
+            "name": "Monologue",
+            "text": "After a whirlwind of events, King Halo manages\nto take photos with hundreds of people.",
+            "choice_data_list": [
+                "How are you doing?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh...</i> I'm exhausted. But it was a pretty good\nstrategy, don't you think?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm looking forward to the moment when the\nseeds I just planted blossom at the\nTakamatsunomiya Kinen."
+        },
+        {
+            "name": "King Halo",
+            "text": "....Achoo!",
+            "choice_data_list": [
+                "Offer hot tea.",
+                "Offer your coat.",
+                "Take a photo right away."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, you're so considerate! ♪ A drink would be\nperfect."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm... but just one won't do. I'm parched, and\nexhausted to boot."
+        },
+        {
+            "name": "King Halo",
+            "text": "So, I'm granting you the right to come along with\nme to the vending machine."
+        },
+        {
+            "name": "King Halo",
+            "text": "You can buy one for yourself as well. I made you\nwait all this time, so you're probably freezing as\nwell."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah! I should get some for everyone back at the\nacademy too. We can have a New Year's tea\nparty tonight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After taking a break with some hot tea, we enjoy\nthe rest of the New Year's holiday together."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, I guess you remembered."
+        },
+        {
+            "name": "King Halo",
+            "text": "Give it here, now. Quickly! I'm freezing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She rips my coat away from me."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! If you want it back, you'll have to catch\nme!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, I should remind you. The usual New Year's\nparty starts at seven!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm granting you the right to make the necessary\npreparations! Ohohoho! Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She dashes away at full speed, taking my stolen\ncoat along with her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her face turns a flushed red as she runs. This\nmight be her fastest sprint yet."
+        },
+        {
+            "name": "King Halo",
+            "text": "Agh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, delete that photo right this instant! Hurry\nup! I mean it!"
+        },
+        {
+            "name": "King Halo",
+            "text": "There's no way can I let such a candid photo\nreach the public! If this shot of me sneezing gets\nleaked, my approval rating will plummet!",
+            "choice_data_list": [
+                "Are sure it won't go up? The photo's kind of\ncute."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course it won't, you dummy! How many screws\ndo you have missing?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I swear, give me that cell phone right now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes my phone and immediately deletes the\nphoto."
+        },
+        {
+            "name": "King Halo",
+            "text": "Good riddance! You could've said something if\nyou wanted a photo. I'll let you take as many as\nyou want tomorrow.",
+            "choice_data_list": [
+                "....Tomorrow?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Come on, everyone, smile! Who's the first-rate\nUmamusume?"
+        },
+        {
+            "name": "King Halo's Followers",
+            "text": "King!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...And so, here I am the next day, filling the role\nof King's personal photographer at her party."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh! Trainer! Concentrate on your role as\nphotographer!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You must capture the magnificence of this\nfirst-rate model! Come along, try a few shots from\nthis angle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess both of us are polishing our skills."
+        }
+    ]
+}

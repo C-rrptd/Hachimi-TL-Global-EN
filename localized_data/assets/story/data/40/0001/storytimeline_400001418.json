@@ -1,0 +1,58 @@
+{
+    "title": "Happy Meek's Challenge!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After our joint training session, we are issued a\nchallenge from Happy Meek and Trainer Kiryuin."
+        },
+        {
+            "name": "Monologue",
+            "text": "They mentioned that any kind of training is fine,\nso...",
+            "choice_data_list": [
+                "Let's see who has more speed!",
+                "Let's see who has more stamina!",
+                "Let's see who has more power!",
+                "Let's see who has more guts!",
+                "Let's see who has more wit!",
+                "Let's see who has more energy!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with\nstamina!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with guts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with wit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek with energy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A splendid victory by <chrname>!\nHappy Meek leaves the bout even more fired up\nthan before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Another splendid victory by\n<chrname>! Our rivals assure us that\nthey will be back for more later."
+        },
+        {
+            "name": "Monologue",
+            "text": "Happy Meek proves to be very strong. Though\nshe is disappointed with the result,\n<chrname> resolves to emerge\nvictorious next time!"
+        }
+    ]
+}

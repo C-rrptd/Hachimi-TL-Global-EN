@@ -1,0 +1,42 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, I managed to finish first."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The moment I crossed the finish line, with all the\ncheers washing over me... The sense of\naccomplishment was utterly indescribable."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And I've no doubt in my mind that it's thanks to\nyour support I was able to enjoy such an\nexperience, Trainer. Thank you, from the bottom\nof my heart.",
+            "choice_data_list": [
+                "You shone like a star out there!",
+                "Don't get too complacent. Let's set our sights\non the next race!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! I'm quite confident that my running today\nwill live on in the hearts and minds of those who\ncame to watch.",
+            "choice_data_list": [
+                "I'll definitely remember it!",
+                "I'll definitely remember it!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you. I shall strive to fill your memory with\nmany more great races, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. I very much wish to experience the sensation\nof crossing that finish line in first again."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Please continue to provide me with your guidance\nand support."
+        }
+    ]
+}

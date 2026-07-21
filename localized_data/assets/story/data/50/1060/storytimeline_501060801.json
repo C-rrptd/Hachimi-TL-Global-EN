@@ -1,0 +1,209 @@
+{
+    "title": "草野球でエール！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Is this the field? Oh, yeah, I can see a bunch of\npeople gathering."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Still, I can't believe you offered to help out at an\namateur baseball game... You're already so busy\nwith your trainer duties."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days ago, the folks from the local shopping\ndistrict reached out to me to ask if I'd like to\nparticipate in a baseball game.",
+            "choice_data_list": [
+                "Well, they're always supporting you."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, I guess everyone does do a lot for me..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But... Ahh, fine. Just don't get too worked up and\ninjure yourself while you're playing."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You try too hard as it is, even with your everyday stuff..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, it's finally time for the shopping district\nbaseball teams to face off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Neither team gives an inch, and the score remains\n0-0 as the match really starts to heat up."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wow, this is getting intense. ...And you look\ncompletely worn out, Trainer."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I know you're putting in a heap of effort, but I\nthink it's about time you subbed out with\nsomeone.",
+            "choice_data_list": [
+                "I can still keep going!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You're all fired up about this, huh? ...Oh, wait, I\nget it. You're giving this your all because of\neverything they do for me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Listen, I'm going to grab you a drink, so you just\nsit here and rest for a while, okay?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez, what a handful... Hmm, where's the\norganizer tent again?"
+        },
+        {
+            "name": "Shopping District Man",
+            "text": "Juuust falling short, huh? The effort's there, but\nthe points aren't coming..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Oh, are they... talking about Trainer?)"
+        },
+        {
+            "name": "Shopping District Lady",
+            "text": "Probably nerves, right? Joining the team on such\nshort notice means being surrounded by players\nyou don't even know..."
+        },
+        {
+            "name": "Shopping District Man",
+            "text": "Hmm... C'mon, there must be something we can\ndo to perk that trainer up."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(...I kinda feel like I've heard this before.)"
+        },
+        {
+            "name": "Shopping District Folk",
+            "text": "Natieeeee! Yeah, just like that! You go, Natieee!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "\"Meeting you and watching you grow into such a\nfine Umamusume has been the pleasure of our\nlives.\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(Whenever I tried to do my best, it was Trainer\nand everyone else who had my back...)"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "(I can't just stand around worrying. This time, it's\n<i>my</i> turn...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's finally the bottom of the ninth. I step up to\nthe plate needing only a single hit for a walk-off\nvictory."
+        },
+        {
+            "name": "Monologue",
+            "text": "The player on the mound has a rocket arm and\neven made it to the bench of the high school\nnationals when he was young."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've already got two strikes, so this feels like the\nend of the line... But suddenly..."
+        },
+        {
+            "name": "???",
+            "text": "You can do it!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You can win this, Trainer! Just one hit! Nail this\none and you get the win!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Let's go! You can do it! Come on, everyone! One,\ntwo, three!"
+        },
+        {
+            "name": "Shopping District Folk",
+            "text": "Yeaaah! Go for the win!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "L-let's go, Traineeer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While clearly bashful, Nice Nature cheers me on.\nBefore I know it, everyone around her has joined\nin too. I have to win this for all of them!",
+            "choice_data_list": [
+                "Grrraaagh!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Come on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>THWACK!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You did it! You nailed it, Trainer! That's a home\nrun! A walk-off victory!",
+            "choice_data_list": [
+                "I couldn't have done it without your support!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Urk... You make me blush when you look at me\nwith that gleam in your eyes..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...And I'm the one who should be thanking you.\nThanks for always being in my corner."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I guess I'll just have to keep doing my best...\nGaaah! That didn't sound like me at all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She might be embarrassed, but Nice Nature's\ncheers came from the bottom of her heart. What\na truly unforgettable day!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Nice. Way to go, Trainer! Great job!",
+            "choice_data_list": [
+                "It was all thanks to your cheers, Nature!",
+                "It was all thanks to your cheers, Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, I didn't do anything special. It all came down\nto your talent and effort, Trainer. But still..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I guess cheering you on was worth it in the end.\nMaybe I'll come to support you at the next game.\n...Maybe not though."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Nice Nature shyly averts her gaze, I can\nreally feel the strength of our bond. What a\nfantastic day!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh...</i> That was so embarrassing! This just isn't\nlike me at all!",
+            "choice_data_list": [
+                "Thanks, Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ngh, come on, don't yell like that! Everyone'll\nlook! That's it, I'm changing out of this getup!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Well, I'm glad my efforts paid off in the end,\nthough."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Nice Nature still struggles to be open\nabout her emotions, I can tell just how she feels.\nWhat a precious experience!"
+        }
+    ]
+}

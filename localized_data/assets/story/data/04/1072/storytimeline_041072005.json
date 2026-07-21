@@ -1,0 +1,165 @@
+{
+    "title": "鍛鋼の頃",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're in the quiet lull after a major race when summer rolls around."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Time... off?",
+            "choice_data_list": [
+                "Yeah. I think it'd be good for you to rest and\nrefresh!",
+                "Yeah. I think it'd be good for you to rest and\nrefresh!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I see now. This is all part of your plan for my growth. In that case, I\nwill put my full heart and soul into relaxing."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's just for a few days, and she's still got class like normal, but I'm\nhoping this'll give her some extra time to have fun and unwind."
+        },
+        {
+            "name": "Monologue",
+            "text": "But then, the very next day, when I pass the track on the way back to\nmy room..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Whew. That was a fruitful session.",
+            "choice_data_list": [
+                "Yaeno?!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah! Um, this is... How should I put it?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm sorry, Trainer. I understand that I'm supposed to be relaxing, but I\njust couldn't bring myself to without practicing first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Yaeno's directness is one of her best traits, but this isn't the time for\nit. She needs a breather!",
+            "choice_data_list": [
+                "No more training during break, okay?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes! I'm sorry to have concerned you. I'm embarrassed by the lack of\nrestraint I've displayed..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I swear to use this mistake as a learning experience. I'll get changed\nand return to the dorm at once. Please excuse me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch as she heads away, but I can't help but wonder if Yaeno really\nunderstood the part about not training."
+        },
+        {
+            "name": "Monologue",
+            "text": "The following day..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's not here..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not here either."
+        },
+        {
+            "name": "Monologue",
+            "text": "And... no Yaeno."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given her reaction yesterday, I end up doing a sweep of the various\ntraining facilities around campus, just to be sure Yaeno's relaxing."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see her, so she must've gone back to her room after class, or\nmaybe she went out with friends. Either way, she doesn't appear to be\ntraining, so I head out to get some shopping done."
+        },
+        {
+            "name": "Monologue",
+            "text": "On my way home, I decide to swing by the riverbank. It's kind of\nbecome a special place for me, what with the time we've spent here."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inhale... Exhale...</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hup! ...Hah! ...Sei! ...Tah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day I met Yaeno, she was here training. I was completely awed by\nher beautiful martial forms as I watched, frozen in place."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "126... 127..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her voice sounded so focused. Heh, I can almost hear...",
+            "choice_data_list": [
+                "Wait. Ya...Yaeno?!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Wh-what a coincidence. Are you also out for a walk?",
+            "choice_data_list": [
+                "...You were training just now, weren't you?",
+                "...You were training just now, weren't you?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I'm so sorry!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I came off campus so I wouldn't be tempted by any of the training\nfacilities, and yet..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When I caught sight of this spot under the bridge, nostalgia and\nmotivation overwhelmed me... And I unthinkingly disobeyed your\ndirections. I am terribly, terribly sorry!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I don't know how to explain it, but it feels impossible to restrain\nmyself from training. Whenever I laze around, I get this sense that I\n<i>should</i> be training..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks genuinely upset... I'm not entirely sure if it's because she\nwants to train, feels guilty about not resting, or both... But either\nway—",
+            "choice_data_list": [
+                "All right. Let's do some fitness training."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "B-But you said that I need to spend time resting to replenish my\nstrength.",
+            "choice_data_list": [
+                "I know, but I don't want to restrict you."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...!\nOsu! I'll continue where I left off, then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ultimately, we exercise until sunset. It seems like giving Yaeno breaks\nisn't as easy as I thought..."
+        }
+    ]
+}

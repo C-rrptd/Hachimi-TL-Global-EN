@@ -1,0 +1,269 @@
+{
+    "title": "熱唱！　夏祭りカラオケ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Hishi Amazon",
+            "text": "All right! Time for a one-on-one with the sea! Catch ya later, Teach!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With summer camp in full swing, Hishi Amazon wastes no time in\ndiving into the sparkling blue waters. However..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hours later, she still hasn't returned. The sky begins to turn bright red\nin the glow of the setting sun, when finally..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Huff, puff...</i>\nI'm back, Teach! It took a while, but I did it!",
+            "choice_data_list": [
+                "I was getting worried. What happened?",
+                "I was getting worried. What happened?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I got caught in the outgoing tide while I was swimming, and it swept\nme out to sea."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I could've easily swum back by moving out of the current, but this was\na challenge from the ocean to me, y'know?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So I faced it head-on! I swam against the current and made it all the\nway back by sheer grit! Hah, rip currents ain't got nothin' on me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The phrase, \"Don't try this at home, folks,\" unwittingly pops into my\nmind."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Anyway, I worked up another good sweat today. Let's get going,\nTeach."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as we're about to leave the beach..."
+        },
+        {
+            "name": "Local Resident",
+            "text": "Hmm, what a pickle. We're really getting down to the wire here. I've\ngot to figure something out..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh, sounds like that guy's in a jam. Must be one of the locals.\nHey, you there. Something wrong?"
+        },
+        {
+            "name": "Local Resident",
+            "text": "Ah... Well, you see, we're supposed to be holding a karaoke contest\nat the summer festival this evening."
+        },
+        {
+            "name": "Local Resident",
+            "text": "But as it stands now, we simply don't have enough participants. I\nguess everyone's too embarrassed to do karaoke out in the open..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ooh, yeah, that sounds like trouble. And I can't ignore a person in\ntrouble. But as much as I'd like to help..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "There's probably no point trying to invite people if they're all too shy\nto begin with.\nYou got any bright ideas, Teach?",
+            "choice_data_list": [
+                "How about asking the other camp members?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, nice one! There'll be plenty of competition if we all join in\ntogether. I get it!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That was some quick thinking, Teach. An Umamusume karaoke\ncontest! Just the idea is gettin' me all fired up!"
+        },
+        {
+            "name": "Entry No. 6",
+            "text": "Thank you all for cheering me on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The karaoke contest comes alive with the passionate singing and\ndancing of the Umamusume."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Not too shabby. Well, just keep the stage warm for me. <i>I'm</i> gonna be\nthe one to take the crown.",
+            "choice_data_list": [
+                "You seem confident.",
+                "You seem confident."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Course I do. After all, I've got these powerful pipes that <i>you</i> helped\nme perfect!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "On an outdoor stage, the sky's my only limit. Who could possibly take\nme down? As long as nobody busts out with some secret weapon..."
+        },
+        {
+            "name": "Entry No. 7",
+            "text": "Hello, I'm entry number seven! I'll be performing a duet with Kenta, a\nstudent at the local junior high. Hope you enjoy this special\ncollaboration!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Ooh!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wh-what? A duet?! Didn't see that one coming..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "And the audience is just eatin' it up! You gotta be kidding me..."
+        },
+        {
+            "name": "Entry No. 7",
+            "text": "Thank you, thank you! Let's see what we scored..."
+        },
+        {
+            "name": "Entry No. 7",
+            "text": "Yay! Ninety-eight points!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ninety-<i>eight?!</i> Th-th-that's crazy. There's no way I can top a duet with\na local if I just stick to my usual routine."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So what now? This ain't just about skill anymore. I gotta come up with\na game plan..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Actually, wait. I'm the absolute worst at hashin' out strats...\nAnything pop into your mind, Teach?",
+            "choice_data_list": [
+                "You know what they say—an eye for an eye!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whaddya mean? An eye for an eye? So, like, a tooth for a tooth... A\nduet for a duet..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, so that's what you're gettin' at! If I sing a duet too, then that\nlevels the playing field. Now I just gotta find the right partner!",
+            "choice_data_list": [
+                "Maybe a fellow dormmate?",
+                "Maybe a fellow dormmate?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, it'd make sense to team up with another Umamusume since\nconcerts are kinda our thing..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But I'm gonna mix things up and go with my gut! My duet partner is\ngonna be... you, Teach!",
+            "choice_data_list": [
+                "Me?!",
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's right. I mean, sure, us Umas sing all the time, so we might have\na slight edge..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But you're pairing up with <i>me</i> here! We have something special\nbetween us that goes beyond comprehension."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Come on, remember our cook-off? The two of us went pedal to the\nmetal making totally different kinds of grub."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's the feeling I'm gunning for. We were dishing it out left and\nright, but it was like we were still a team. That kind of feeling."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I want a one-on-one—in duet form! Where we can tussle and tangle in\nsong and <i>really</i> heat things up!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You're the only one who could possibly keep up with me. So whaddya\nsay? Let's sing my song—together!",
+            "choice_data_list": [
+                "...Okay, I'm in!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Haha, I knew you'd come around! With you on board, this contest's as\ngood as won!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Let's go, partner!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ladies and gents—it's time for the main event! A tag-team\nperformance is great and all, but how 'bout a sizzling hot session for\nthat whole summer vibe?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Here comes a special duel—er, <i>duet</i>—from ol' Teach here and yours\ntruly! Play that music loud and proud!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "A toast to our epic win—cheers! Haha, I had no idea you could sing\nlike that, Teach!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We fought tooth and nail, and stole that sweet summer spotlight!\nGuess our burning passion gave us the edge.",
+            "choice_data_list": [
+                "And the power of teamwork."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Heh. Please, what're you on about? Keep spouting crap like that, and\nI'll put ya in a headlock."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "In the end, we couldn't match each other—just like always. So we\nboth started doing our own thing, and it turned out great."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's the path we finally found. One that belongs to us, and us\nalone."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So don't pull your punches, Teach. Keep comin' at me. We'll keep\nserving up those one-on-ones—together!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We'll lock horns, duke it out, and then laugh when we win after\ncharging in guns blazing. So whaddya say? Want a piece of that\naction?",
+            "choice_data_list": [
+                "As many pieces as I can get."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Teach..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait, what's with that wording? I think maybe you're getting a little\n<i>too</i> into this. But, well..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Heh. All right—it's a promise! This victory is only the beginning!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I won't lose to you, so don't you dare lose to me! We're gonna keep\nthis one-on-one rollin'! I'll be running at full speed—just try to leave\nme in the dust!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rather than lining up neatly, our footprints continue to intertwine like\nthey're competing. Maybe this is what a three-legged race really\nlooks like?"
+        }
+    ]
+}

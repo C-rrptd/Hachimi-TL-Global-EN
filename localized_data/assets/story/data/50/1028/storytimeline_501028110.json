@@ -1,0 +1,196 @@
+{
+    "title": "エンディング（ノーマル）",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The curtain has fallen on my first three years with\nHishi Akebono."
+        },
+        {
+            "name": "Monologue",
+            "text": "But the next act is only just getting started. One\nday, while contemplating where to go from here..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, Trainer, would you mind helping me again\nwith my next Umastalive?",
+            "choice_data_list": [
+                "Sure, but why do you ask?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The last time you joined my stream, it made\neveryone interested in my races!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "So many people came to watch me run, and they\ncheered their hearts out for me."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Now that things have calmed down, I want to give\nthem all a proper thank-you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she asked, I end up joining Hishi Akebono\non another live stream."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Every day is buono! Big and delicious is the\nbest. ♪ I'm Hishi Akebono! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Today, your favorite guest, a.k.a. my trainer, is\ngoing to help out again!"
+        },
+        {
+            "name": "Comments",
+            "text": "Hi there, Trainer!\nGreat job on your race, Bono!\nI watched you at the venue!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Comments start flying in, and they seem a bit\nfriendlier than the ones we received last time."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe! Let's jump right into today's stream! We're\ngonna make quick and easy baumkuchen! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll show you how you can make it at home in a\nfrying pan!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "First, melt the butter in the microwave. While it's\nheating up, mix the eggs, sugar, and honey\ntogether."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Once the wet ingredients are ready, add in the\nflour. Trainer, could you get the cake flour and\nbaking powder for me?",
+            "choice_data_list": [
+                "You've got it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono's Umastalive moves along\nswimmingly."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Pour the batter into the pan. Now, place the\naluminum foil log we made on top of it. Next,\nwrap the cake sponge round and round the foil!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A pleasantly sweet aroma fills the kitchen as she\nrolls up the thin sheets of sponge into a cylinder."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And there we go! Our delightfully buono\nbaumkuchen is ready!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Now that it's done, let's have some, Trainer! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "The piece she gives me is cool enough to eat but\nstill toasty warm.",
+            "choice_data_list": [
+                "Thanks! I can't wait to taste this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A single bite of the cake's fluffy sweetness is\nenough to make me smile from ear to ear.",
+            "choice_data_list": [
+                "It's buono!"
+            ]
+        },
+        {
+            "name": "Comments",
+            "text": "Wow, Trainer sure is enjoying that cake.\nYou have a great trainer."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe. Yep! I wouldn't want to have anyone else\nas my trainer! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, right! I asked Trainer to come today because\nI wanted to thank everybody!"
+        },
+        {
+            "name": "Comments",
+            "text": "Thank us?\nWhat for?\nI don't remember doing anything..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Do you remember when I introduced Trainer to\nyou all during my Umastalive?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You were all so supportive of me, even though\nthat segment wasn't about cooking!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And so many of you came to watch me race in\nperson! That made me really, really happy."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "My race schedule has slowed down now, but I was\nable to make a lot of great memories during the\nbusy season."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I was only able to do that because all of you kept\nencouraging me with such happy smiles."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's why I want to thank you all. From the\nbottom of my heart...",
+            "choice_data_list": [
+                "Thank you, everyone."
+            ]
+        },
+        {
+            "name": "Comments",
+            "text": "Oh, Bono!\nYou're a good egg, kiddo.\nNo, thank <i>you!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We're gonna keep doing things to the best of our\nabilities, whether it's cooking or racing."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I hope you'll all continue rooting for Trainer and\nme!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Please keep cheering us on tomorrow, the day\nafter that, and on and on to eternity!"
+        },
+        {
+            "name": "Comments",
+            "text": "Of course!\nYou've gotta do your best forever and ever too!\nOoh! Is that why you made baumkuchen?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oops, I guess my cover's blown.",
+            "choice_data_list": [
+                "Hm? What do you mean?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I decided to make baumkuchen today because it's\nconsidered a good luck charm, and there was\nsomething I wanted to wish for."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "While making it, I wished that the two of us can\ncontinue being happy and growing big together."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe. It's kinda embarrassing to have my cover\nblown, though..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The stream ends with a tsunami of comments and\nstamps from the viewers."
+        }
+    ]
+}

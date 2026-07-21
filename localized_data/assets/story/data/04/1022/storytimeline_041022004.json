@@ -1,0 +1,229 @@
+{
+    "title": "A Small Step Is Fine",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Director Akikawa",
+            "text": "Attention! The paperwork to extend Fine Motion's study abroad\nperiod is ready, and the proposal for race admission is written!",
+            "choice_data_list": [
+                "Thank you so much, Director!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Wahaha! Think nothing of it! Tracen Academy takes great pride in\nmaking Umamusume dreams come true. Fine Motion is no exception!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Not to mention—you did a great deal of the work yourself! I must\ncommend your work ethic. It is <i>superb!</i>"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "However, what remains to be done is... pivotal! Fine Motion, are you\nready?"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "You must obtain parental consent yourself. Your father needs to hear\nyour goals from you!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Understood!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "We've confirmed that both parties are ready to begin. Now... please\nallow me to start the call."
+        },
+        {
+            "name": "Monologue",
+            "text": "The captain readies a screen at eye level, and then a moment later,\nwe're on video."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's been too long, Father."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "Fine... I've seen your proposal, so I'll skip directly to my primary\nconcern—has your short time abroad dulled your sense of duty to this\ncountry?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Never. I am fully aware of my responsibilities, and it is with nothing\nbut pride that I endeavor to fulfill them. They are precisely why I\nhave hesitated to make this selfish request."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "However, I... I can no longer deny my heart. Now, here at Tracen, I\nwish so strongly to run!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "...The passions of one's youth are fleeting, but the future they distract\nyou from will come regardless. Should you indulge in those fantasies,\nyou'll find yourself miserably unprepared to live without them."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "Fine... You are wise beyond your years. I know you can see how rocky\nthe path that tempts you is, so tell me—do you wish to take it even\nso?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, I do!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "...!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You see, Father, it's too late. I have already run with all my heart, a\nrival at my side, and felt that burning desire to be faster than anyone!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I can't stop... nor do I wish to. I want to race! I want to push myself,\nand see how far my own two legs can take me!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "...I see."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "If you are so certain of your choice, I will have you demonstrate your\nconviction. Show me that you are prepared, determined... and have\npotential worth training."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, Fine Motion has her father's consent to run in the next\ntryouts."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "One, two... One, two... Whew. I have my work cut out for me, if I'm\ngoing to show Father results."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This race will draw eyes, and I have a country to do proud... I'll prove\nthat I've got what it takes!",
+            "choice_data_list": [
+                "...Don't put too much pressure on yourself,\nokay?",
+                "...Don't put too much pressure on yourself,\nokay?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What pressure? I'm fine! I couldn't be happier!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I mean... I get to run!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Now, Trainer! I'll pull out all the stops, so train me like there's no\ntomorrow!",
+            "choice_data_list": [
+                "You've got it!",
+                "You've got it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, Fine Motion dedicates herself to practicing for the\ntryouts."
+        },
+        {
+            "name": "Monologue",
+            "text": "Days go by, and then..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Inhale...</i> Whew!",
+            "choice_data_list": [
+                "Have fun out there, okay?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay! Here goes!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Trainer. Our preparations are complete. I'll put you through, so please\nstandby at the monitor.",
+            "choice_data_list": [
+                "Understood."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Behind the screen, Fine's father watches his daughter's gate."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "...As I understand, you are the trainer who first noticed Fine's true\nfeelings towards racing.",
+            "choice_data_list": [
+                "Y-yes, sir!"
+            ]
+        },
+        {
+            "name": "Fine's Father",
+            "text": "You know, she's always been a clever one. Fine accepted our family's\nduty from an early age, and has played her part perfectly\nsince—without letting the girl inside show."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "Now, though... We'll see."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "More... Keep... going! I can still go faster! Haaaaah!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "(Ah, that look. It's been so long, I almost forgot... that twinkle of light\nin her eyes.)"
+        },
+        {
+            "name": "Young Fine Motion",
+            "text": "Ready... Go! Ahahahaha!"
+        },
+        {
+            "name": "Caster",
+            "text": "And the winner of this tryout race is Fine Motion! Fine Motion takes\nfirst! What an amazing performance!"
+        },
+        {
+            "name": "Fine's Father",
+            "text": "...Well. I suppose I, too, should allow myself the occasional selfish\nwish. I wish her success—not as the head of our house... but as her\nplain, simple father."
+        },
+        {
+            "name": "Fine's Father",
+            "text": "(I should have known she'd follow in her sister's footsteps\neventually... Racing is in their blood.)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...I can't believe it."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, I must be dreaming! Father really gave permission for me to race!",
+            "choice_data_list": [
+                "Congrats, Fine!",
+                "Congrats, Fine!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you! And I believe this calls for a \"winner winner ramen\ndinner\"! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahem. If you would be so kind..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Would you escort me to the restaurant, Trainer?",
+            "choice_data_list": [
+                "Heh. As you wish, my liege."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, we head out to celebrate—and finally put that Ramen\nRampage coupon I'd been saving to use."
+        }
+    ]
+}

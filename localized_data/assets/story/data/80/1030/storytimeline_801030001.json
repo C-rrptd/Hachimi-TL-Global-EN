@@ -1,0 +1,65 @@
+{
+    "title": "お花屋さんでの1ページ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While I'm walking about the shopping district..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice Rice Shower watering flowers at a flower\nshop."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Some for you, and you... Phew. That should do it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-huh? What are you doing here? I-I mean,\nwelcome to the store...",
+            "choice_data_list": [
+                "Forget me. What are <i>you</i> doing here?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, it's all my fault... I accidentally knocked over\na flower pot, and the shop manager tripped over\nit and sprained an ankle..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm helping out today as an apology. I just hope I\ndon't make things worse...",
+            "choice_data_list": [
+                "Want me to help water the flowers?",
+                "Want me to bring out more flowers from the\nback?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What? Y-you want to help? If you're sure, then... I\nwould appreciate it a lot."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Aren't the flowers here just so beautiful? I think\nthe roses are especially pretty!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And when you water them, the petals sparkle like\ndiamonds... I can't help but be mesmerized by\nthem."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rice Shower and I chat happily as we water the\nflowers in the shop."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Th-thank you... Please be careful. Some of them\nare pretty heavy..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "These flowers are so pretty... I wonder if we'd get\nmore customers if we displayed a bunch of them\nout front? Ehehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I eventually finish restocking the inventory. It was\ntougher than I expected."
+        }
+    ]
+}

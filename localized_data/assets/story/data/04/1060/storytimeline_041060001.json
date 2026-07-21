@@ -1,0 +1,249 @@
+{
+    "title": "どうも、庶民派デス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the tryouts—a multitude of races highlighting\nup-and-coming runners."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not wanting to be late, I make my way through the academy grounds,\nheading straight for the track."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah! You there! Yes, you. Could you help me with a tiny little favor?",
+            "choice_data_list": [
+                "A favor?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yup, yup. If anyone comes by asking questions, just tell them,\n\"Nature? Nope, haven't seen her!\" and send them on their—"
+        },
+        {
+            "name": "Friendly Woman",
+            "text": "Ah, Natie! She's here—we finally found her!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh..."
+        },
+        {
+            "name": "Friendly Man",
+            "text": "What, so you were here the whole time? You weren't at the track, so\nwe thought you mighta overslept or summat."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh, just for the record, I'm not <i>that</i> laid-back. If anything, I've been\ngetting up earlier and earlier lately."
+        },
+        {
+            "name": "Friendly Woman",
+            "text": "Haha, you should hear yourself, Natie! You sounded just like us old\nfolks there!"
+        },
+        {
+            "name": "Friendly Woman",
+            "text": "More importantly—the tryouts! We're all here to cheer you on, so go\nget 'em, Natie!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um, I appreciate all of you coming out here... But don't get your\nhopes up too much, 'kay?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I know my name makes me sound like a natural winner, but to be\nhonest, my talents really aren't all that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like, the best I placed in my scrimmages was third. And it's not like\nI've got any grand ol' dreams either."
+        },
+        {
+            "name": "Friendly Man",
+            "text": "Now, now, don't say that. Well, we gotta get ready too. Make sure ya\nwarm those muscles up, Natie!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha... Yeah, 'preciate it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hey, so um, sorry about that. Totally left you hanging there.",
+            "choice_data_list": [
+                "Were those people part of your fan club or\nsomething?",
+                "Were those people part of your fan club or\nsomething?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, it's nothing like that. They're just some folks from the local\nshopping district who're here to support me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's just, I can't really live up to their expectations, so I wanted to\navoid them if I could."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "By the way... Hm? That badge on your collar..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait, are you a trainer here?",
+            "choice_data_list": [
+                "You got me.",
+                "You got me."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa, really?! Yikes, then I totally flubbed my elevator pitch! Even if\nI <i>did</i> say nothing but the gospel truth..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Um, haha... Hey, the name's Nature. I'm running in today's tryouts, so\nguess you'll be seeing me kinda..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyways, catcha 'round."
+        },
+        {
+            "name": "Monologue",
+            "text": "The strangely cynical Nice Nature promptly dashes away in the\ndirection of the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, the tryouts begin!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant, pant...</i> All right, first place!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "S-simply immaculate! Such beautiful and refined running, Tokai Teio!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Looks like the rumors about her being the second coming of Symboli\nRudolf were true! Teio, please let me scout you!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Now, now, wait your turn! Line up before me, okay? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the races go on, promising racers are scouted one after another by\nthe watching trainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man, that's Teio for you. Always stealing the show..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "She's got the talent, the skill, and the looks. And on top of that, she's\ngot her big dream of following in Rudolf's footsteps."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man, she radiates main character vibes. We might as well be living in\ndifferent worlds."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Girls like her... really are something else."
+        },
+        {
+            "name": "Tryouts Official A",
+            "text": "Nice Nature! Please get ready for your race!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Right, roger that. Well, time for my turn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Friendly Supporters",
+            "text": "Natieeeee! Yeah, just like that! You go, Natieee!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "They're rounding the fourth turn and entering the final stretch! Can\nour front-runner maintain her position?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...!"
+        },
+        {
+            "name": "Caster",
+            "text": "But look at who's giving chase—it's Nice Nature! Nice Nature has\nclosed the gap in an instant!",
+            "choice_data_list": [
+                "(Not bad at all!)",
+                "(Not bad at all!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My eyes are glued to her amazing running form. What a clean rush in\nthe final spurt!"
+        },
+        {
+            "name": "Caster",
+            "text": "Aaand—it's too little, too late! Nice Nature, finishing in third place!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant, pant...</i> Phew. Well, that's just how it goes."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Even when I go all-out... third's all I get."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her results might've been unfortunate, but her running back there was\npicture-perfect. Now's my chance!",
+            "choice_data_list": [
+                "I want to scout you!",
+                "I want to scout you!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ummm... Ah. Someone's a bit of a ditz, huh? Teio's line is thataway,\n'kay?",
+            "choice_data_list": [
+                "I'm scouting <i>you,</i> Nice Nature!",
+                "I'm scouting <i>you,</i> Nice Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "H-huuuuuh?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But like, um... Oh, I'm not saying no, okay? If anything, thanks for\npicking me and all that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's just, well... You sure you want me? I guess if you get fed up with\nme... just tell me, all right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Still, until then... At least for now... I-I'm in your hands."
+        },
+        {
+            "name": "Monologue",
+            "text": "I excitedly shake the hand of a nonplussed Nice Nature, sealing the\ndeal as her new trainer."
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "title": "金鯱賞の後に・動けない、動かない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess completes the Kinko Sho."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff... Huff...</i> Haaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She focused her entire body on emphasizing\nbeauty in her running form..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But to me, she looked uncomfortable and\nconstrained."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff... Wheeze...</i>\n<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(My body feels... sluggish. Was it always like this\nafter a race?)"
+        },
+        {
+            "name": "Spectators",
+            "text": "Way to go, Princess! That's our heroine!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Hey, give us another of your cool declarations!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Say you'll crush 'em all!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Um, but..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Words like those attack others, so I shouldn't use\nthem. They aren't what a queen should be saying.)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ah... um..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Huh? How am I supposed to behave after a race\nagain?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Address my fans? But I'm not the only star here.\nWhat would a queen do? Ummm...)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(What's something Princess Fighter would do in\nthis situation?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(What should I... do?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ha... haha... Ehehe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess lets out a forced laugh, but\nher troubled expression makes it seem like she's\nabout to cry...",
+            "choice_data_list": [
+                "Princess!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hold it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That laugh was super cringe! You're not acting\nlike yourself at all!"
+        },
+        {
+            "name": "Staff Member",
+            "text": "What?! Hey, you can't come down here! Please\nreturn to your seat immediately!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No! I'm not moving! Not until Kawakami listens to\nwhat I have to say!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Sweep..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why are you making that face?! You're being\nlame! You're acting super lame, Kawakami!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What happened to all that talk about being true\nto yourself and keeping your dignity?! 'Cause this\nisn't..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This isn't like you at all! You're not Kawakami\nright now!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Give me the old Kawakami back! The Kawakami I\ncare about!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wh-why must you say these selfish things?! I am a\nprincess, so I must conduct myself with dignity!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wouldn't you hate it too?! If the winner of the\nrace is someone you can't respect, then..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why should I care?! It doesn't make any\ndifference to me!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well... even if it doesn't bother <i>you...</i> Other\npeople might not feel the same...",
+            "choice_data_list": [
+                "Can I talk to you for a moment?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...",
+            "choice_data_list": [
+                "Behaving with dignity is an admirable thing.",
+                "Behaving with dignity is an admirable thing."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...",
+            "choice_data_list": [
+                "But I think being true to yourself is just as\nadmirable.",
+                "But I think being true to yourself is just as\nadmirable."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So, you're saying both ways are right? Then...\nhow?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What am I... supposed to do?",
+            "choice_data_list": [
+                "Think once more about what your ideal self\nlooks like.",
+                "Think once more about what your ideal self\nlooks like."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...My ideal self?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well, I..."
+        },
+        {
+            "name": "Staff Member",
+            "text": "Hey! Hurry up and clear out of here! We have\nanother race today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shooed away by one of the staff members, we\nleave the track."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm entering the Victoria Mile, so make sure you\nenter, too. And you better have your act together\nby then."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll tell you one thing right now. The Kawakami I\nknow would never sit back and take all this\ndissing without doing anything about it."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The Victoria Mile...",
+            "choice_data_list": [
+                "Are you going to enter?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "No doubt she feels conflicted."
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't understand the difference between\njust being herself and being selfish, between\nbeing dignified and holding herself back."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's losing sight of how her ideal self—the\nprincess she wishes to become—should act."
+        },
+        {
+            "name": "Monitor",
+            "text": "Things are heating up at Chukyo Racecourse this\nmonth! It will soon be time for the electrifying\nspring contest—the Takamatsunomiya Kinen!"
+        },
+        {
+            "name": "Monitor",
+            "text": "With the Umamusume who calls herself first-rate\nentering the fray, who will become the queen of\nthe sprint?!"
+        },
+        {
+            "name": "Monitor",
+            "text": "We'll also be holding a Princess Fighter event!\nParents who bring along their children will receive\nfree merch! ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...Ah."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our next stop is the Victoria Mile, where I'm sure\nKawakami Princess will rediscover her ideal self."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I must guide her along the best\npath."
+        }
+    ]
+}

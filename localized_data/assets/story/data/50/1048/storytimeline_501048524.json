@@ -1,0 +1,310 @@
+{
+    "title": "追試とかいう重ね塗り",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking down the hallway when I hear\nsomeone come up quickly behind me."
+        },
+        {
+            "name": "Teacher",
+            "text": "Excuse me, Trainer! I'd like to discuss Jordan's\nrecent exam with you..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What's up? You need me for something?",
+            "choice_data_list": [
+                "I hear you failed your exam.",
+                "I hear you failed your exam."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Teehee. ☆",
+            "choice_data_list": [
+                "It's not funny. We need to prepare for the\nmakeup.",
+                "It's not funny. We need to prepare for the\nmakeup."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "\"We\"? Oh come on, seriously?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Students typically have to keep retaking tests\nuntil they manage to pass, so the longer that\ntakes, the less time they have to practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Passing a test also provides a sense of\naccomplishment, which is sure to have a positive\neffect on her growth as a runner.",
+            "choice_data_list": [
+                "Don't you want to \"win\" the test?",
+                "Don't you want to \"win\" the test?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You really think making it like a race is gonna\nmotivate me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan is having a staring contest with the\nquestion sheet on her desk."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ummm... uhhh..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I've got no clue... What do I write?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I don't know the formula. Like, there's way too\nmuch stuff to remember..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, she failed because she couldn't\nmemorize the material well enough.",
+            "choice_data_list": [
+                "In that case, let's try studying while you move\nyour body!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Um... What's this?",
+            "choice_data_list": [
+                "Try reading it aloud while doing some light\nrunning!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hand her a notepad with all the formulas she\nneeds to know for the makeup test."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "While running? No way! That's so embarrassing!\nNot happening!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Science tells us that light exercise can aid in\nmemorization. For an Umamusume, studying while\nrunning sounds perfect.",
+            "choice_data_list": [
+                "So you're just going to let this test beat you?",
+                "So you're just going to let this test beat you?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No fair! Don't say it like that!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Tangent! Equals! Sine over cosine!",
+            "choice_data_list": [
+                "What's the equation for motion?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uhhhh, F=ma?!",
+            "choice_data_list": [
+                "You've got it!"
+            ]
+        },
+        {
+            "name": "Teacher",
+            "text": "Great job, Jordan! You passed all your makeup\ntests!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Great job? I know. I'm just too good, aren't I?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well, mostly because my trainer made me do this\nsilly exercise."
+        },
+        {
+            "name": "Teacher",
+            "text": "Oh, you got study tips from your trainer? Does\nthat mean there's a secret study method that\nworks on you? I'll have to ask for the details."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...I really don't think that's a good idea. Copying\nTrainer is not gonna be a good look."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Honestly... I don't think I'd listen if anyone else\ntold me to do that."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take a glance at the problem Tosen Jordan is\nworking through. It looks like a mathematical\nproof."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So n is an odd number, which means n is 2k + 1,\nand then..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hmm... Something seems off. What was it the\nteacher said earlier..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan pulls out her eraser and completely\nerases her partially solved equation."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh...</i>",
+            "choice_data_list": [
+                "Why did you erase everything?",
+                "Why did you erase everything?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Cause I was definitely doing it wrong. Why bother\nwhen you know it's gonna get a big fat red X?",
+            "choice_data_list": [
+                "You should write it out, even if it's wrong."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Since it's a proof, she can still get partial credit\nfor the correct parts even if she ends up with the\nwrong answer.",
+            "choice_data_list": [
+                "I'd also like your teacher to see how hard you're\nworking.",
+                "I'd also like your teacher to see how hard you're\nworking."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh...</i> You really are a trainer through and\nthrough.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Just what I said."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan continues working diligently on her\npractice problems."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I just barely failed my makeup test. Gotta do it\nagain.",
+            "choice_data_list": [
+                "That's too bad..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But I'll definitely get it next time. Even my\nteacher said so, because I've been working so\nhard."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get the feeling she's more motivated than usual\nin her training today."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So, real talk, do you think studying is, like,\nimportant?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I bet you can't solve these problems either. Be\nhonest, you've forgotten all these formulas,\nhaven't you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan looks at me doubtfully, so I glance\nat her test."
+        },
+        {
+            "name": "Monologue",
+            "text": "The subject appears to be math, specifically\nprobability. Looking more closely, it involves\ncombinations, which means...",
+            "choice_data_list": [
+                "Uhh, what was that formula again?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I knew it! You don't remember!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's like all the knowledge flew out of my head as\nsoon as I looked at it. I was pretty good with\nmath when I was in school...",
+            "choice_data_list": [
+                "But I do remember that I studied hard."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Yeah?",
+            "choice_data_list": [
+                "That's probably why I'm still able to study now."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Now? ...Oh."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Do trainers have things they have to study too?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...",
+            "choice_data_list": [
+                "All right, I'll do some reviewing!",
+                "All right, I'll do some reviewing!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I take out a notepad and write down the problem\nthat she's been working on.",
+            "choice_data_list": [
+                "Let's see who can solve it first!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?! We're competing?! H-hang on a sec!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You've already started working on it! Cheater! No\nfalse starts!"
+        },
+        {
+            "name": "Teacher",
+            "text": "Let me get this straight... You'd like to take the\nmakeup test as well?",
+            "choice_data_list": [
+                "I think that'll really get Jordan motivated!"
+            ]
+        },
+        {
+            "name": "Teacher",
+            "text": "Are you out of your mind?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As for the results... Well, let's just say it was a\ngood competition for the both of us."
+        }
+    ]
+}

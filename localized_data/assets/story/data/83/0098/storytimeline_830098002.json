@@ -1,0 +1,164 @@
+{
+    "title": "The Theme's Decided!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Curren Chan",
+            "text": "Ah, Urara, there you are! ♪ Are you still fretting\nabout your sister's wedding?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, everyone! And yeah, I am! Since she asked\nme to plan it, I really want to make it special..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But what should I do to make it good?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, would you like to take a break and spend\nsome time with us?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "We could go out somewhere if you'd like. Maybe\nyou'll be able to find some inspiration!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Goooooal! Yay! That was an <i>amazing</i> race! Did\nyou see that, Ikuno? Did you see what\nhappened?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank goodness! Urara's smiling again!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It seems watching this race provided her a\nmuch-needed break. She really loves races,\ndoesn't she? ♪"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The shopping district's really fun too. There's so\nmuch stuff to browse!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes. Now that she's had a little breather, perhaps\nsomething will provide sparks of inspiration for\nher."
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Oh! Urara, is that you?! When's your next race?\nWe'll all make sure to be there for you, holding\nour banners and cheering you on!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yippee! I love all your support! Your cheers get\nme really excited before I start running <i>and</i> while\nI'm running, too!"
+        },
+        {
+            "name": "Everyone",
+            "text": "I believe our dreams lie up ahead! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wow! We sang that in perfect harmony! ♪ Talk\nabout being in sync!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! It's like our hearts are as one! I'm so happy!\nAhh, I'm suddenly super excited!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That was so much fun! Thanks for today,\neveryone! I had such a great time!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I agree. It was a very fulfilling day. Incidentally,\nhave you had any ideas?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Nnnope! Not a single one! It's a real thinker, huh?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "...Wait, what's wrong, Rice? Are you tired?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...I'm sorry. I wasn't any help."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I invited you out because I saw how hard you were\ntrying, and I thought that this might help you, if\nonly a little..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What? But you were a huge help! I mean..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I was really freaking out before, and now those\nworries are gone!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It was so exciting hanging out with everyone, and\nnow I feel like I can really do my best again!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "So you didn't get any ideas, but you got plenty of\nexcitement, huh?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You know, Urara, I bet your sister asked you to\nhelp because she felt the same way."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? She felt the same way?"
+        },
+        {
+            "name": "Umamusume Graduate",
+            "text": "And you, my little muse, are always doing your\nvery best to make things exciting, and when I\nlooked at you, I had a thought."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I see... So that's it! I totally get it now!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I thought I didn't get it, but I actually knew all\nalong what I should do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While heading to my office one day, I bump into\nHaru Urara walking along with a sunny smile on\nher face.",
+            "choice_data_list": [
+                "You don't look so worried anymore."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! I was able to solve my problem! I'm gonna\nmake my sister's wedding a super-exciting one!",
+            "choice_data_list": [
+                "Is there anything I can do to help?",
+                "I'm cheering for you!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "You wanna help? Really?! Okay, then let's look\nup exciting races my sister would like!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, oh! I've gotta ask so many people for help\ntoo! Hehe. There's so much to do!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really? Thanks! Can I get a preview of your\ncheering? Hehe.",
+            "choice_data_list": [
+                "Go for it, Urara! You can do it!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'm gonna go for it 'cause I can do it! Urara, la la\nla! ♪ Hehe, here I go!"
+        }
+    ]
+}

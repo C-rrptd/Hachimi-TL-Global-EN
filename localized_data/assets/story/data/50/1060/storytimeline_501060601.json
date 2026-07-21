@@ -1,0 +1,50 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I really need to make sure I do well this time. My\nlast race was pathetic."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Right. I gotta keep it together.",
+            "choice_data_list": [
+                "Don't put too much pressure on yourself.",
+                "Don't put too much pressure on yourself."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Come on, me? Pressure myself? It's not like I'm a\nhot-shot racer or—",
+            "choice_data_list": [
+                "I'll take care of whatever happens afterward. So\njust go out there and have fun running!",
+                "I'll take care of whatever happens afterward. So\njust go out there and have fun running!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez... Putting on a brave face for me, are we?\nHehe..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, all right. I'll have fun out there. But\nwhatever happens, don't blame me, okay?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well then, time to go!"
+        }
+    ]
+}

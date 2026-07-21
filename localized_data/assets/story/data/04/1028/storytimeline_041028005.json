@@ -1,0 +1,165 @@
+{
+    "title": "いただきます！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After hitching a ride with the fisherman Hishi Akebono befriended,\nwe finally set foot on this... accursed island."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmm! That sun feels so good! The perfect day for seaweed\nharvesting!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "By the way... That's a lot of luggage, Trainer! What exactly did you\nbring?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "A bunch of water, a fire striker... Ah, you even brought an\nencyclopedia of edible plants!",
+            "choice_data_list": [
+                "Today will <i>not</i> end like last time."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha, I almost forgot how we met. I found you collapsed in this very\narea!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That sure did surprise me. If you hadn't woken up, I'm not sure what I\nwould've done.",
+            "choice_data_list": [
+                "I thought a goddess had come to save me at\nfirst.",
+                "I thought a goddess had come to save me at\nfirst."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! Oh, you charmer, you!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I wonder if the goddess you saw is as big as I am. I guess I'll have to\nask around to see if anyone else has spotted a giant goddess."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Anyway, put down that stuff and... let's get going! I wanna harvest\nlots and lots of kombu seaweed!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The fisherman said we could grab some fish while we're at it! Trainer,\nyou guard our baskets so the birds don't steal anything!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono takes off for the beaches, and I'm left in the shade to\nwatch over our stuff. Before I know it, two hours have gone by..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer! Sorry for the wait!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I found some really big shellfish and fish! With these, I can make us\nsome lunch!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's what I brought this big earthen pot for! I'm sure it'll make it\neeextra good!",
+            "choice_data_list": [
+                "Let me help."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ah, no, Trainer, you can sit back and relax! You must be tired, right?\nKeeping watch can really wear you out."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Just wait a teeeensy bit longer. A good, hearty meal will fix you right\nup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono quickly begins preparing our lunch. Looks like there's\nnothing for me to do."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I don't exactly want to just stand around..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grabbing my encyclopedia of plants, I make my way farther into the\nisland in search of ingredients."
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter how much I search, I can't seem to find anything edible..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I did happen upon some mushrooms, but picking wild mushrooms as\nan amateur would be asking for trouble.",
+            "choice_data_list": [
+                "Guess I'll head back..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer! Traaainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "There you are! Thank goodness! What happened? Did you get lost?",
+            "choice_data_list": [
+                "No, I was looking for ingredients..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh? Ah, wait, are you <i>that</i> hungry?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Well, don't you worry! I'm not just making hot pot. I'm making some\nskewers and grilled fish too!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's almost done, so just wait a liiiittle bit longer, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A feast fit for a sumo wrestler is laid out before me. Fish and\nvegetable skewers, hot pot... there's even rice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Every dish makes my taste buds sing with joy. I know it's far too much\nfor just the two of us, but my hands won't stop reaching for another\nhelping."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Was it good?",
+            "choice_data_list": [
+                "Of course it was!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Well, I'm glad you liked it."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I love seeing you eat with that big smile on your face. It makes me\nfeel all warm and fuzzy."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I sure am glad you became my trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "If you get hungry again, just let me know, okay? I'll whip up\nsomething in a jiffy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono smiles as she gazes at me, content with her work.\nWhile she seems to do it because she enjoys it, I can't help but want\nto return the favor."
+        },
+        {
+            "name": "Monologue",
+            "text": "Right then and there, I decide to treat her to some good food at the\nnext opportunity."
+        }
+    ]
+}

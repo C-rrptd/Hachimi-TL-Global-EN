@@ -1,0 +1,58 @@
+{
+    "title": "ボクのやり方",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, at the training track..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hrm... Gahhh!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh hey, I know you. Ehehe, did you hear me just\nnow?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Since you're here, lemme rant! You know\nMcQueen, right?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She told me the trick to long-distance running is\nkeeping a steady pace, then suggested I try doing\ntempo runs."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But running at a set pace is <i>such</i> a drag! It feels\nSO much better to run as fast as I can!",
+            "choice_data_list": [
+                "You should run the way that best suits you!",
+                "But think of how good it'll feel to sprint after\nholding back."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, you get it! The best type of training really\nis the one that motivates you the most!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! Time to sprint a lap at top speed! Here\ncomes the mighty Teio!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that she's able to focus much better on\nher running while training the way she wants."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ohhh, I getcha! Maybe you're right! An all-out\nsprint after a paced run, huh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I bet that'll feel way better than just running\nnormally! Hehe, what a great idea!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm gonna give this tempo running thing another\nchance. Thanks for talking this out with me!"
+        }
+    ]
+}

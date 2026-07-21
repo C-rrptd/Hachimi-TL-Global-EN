@@ -1,0 +1,49 @@
+{
+    "title": "デビュー戦の後に・ここから始まる！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer! I... <i>sob...</i> I made my debut!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaah! I'm soooo <i>happyyy!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's as emotional as if she'd just won the\nJapanese Derby!",
+            "choice_data_list": [
+                "(This moment must really mean a lot to her.)",
+                "(This moment must really mean a lot to her.)"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sniff...</i> Finally, my first step into the Twinkle\nSeries..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Sob...</i> Thinking about it makes my heart jump up\nand down!",
+            "choice_data_list": [
+                "I'm here with you, all the way!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "...Yeah! Yeah, yeah, YEAH!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All RIIIGHT! Let's work hard together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tearful declaration echoes through the whole\ntunnel."
+        },
+        {
+            "name": "Monologue",
+            "text": "At any rate, this is where the real challenges\nbegin. We steel ourselves for the great journey\nahead."
+        }
+    ]
+}

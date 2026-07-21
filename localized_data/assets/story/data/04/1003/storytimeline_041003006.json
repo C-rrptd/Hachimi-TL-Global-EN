@@ -1,0 +1,260 @@
+{
+    "title": "ボクらしくStep it！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Lotta ta ta... Lovin! Lovin! Lotta ta ta... Wh-whoa!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Aw man, still can't get it. Something about the rhythm in this part..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is she... dancing in the park?",
+            "choice_data_list": [
+                "Practicing for your winning concert?",
+                "Practicing for your winning concert?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, Trainer. No, no, this isn't for a concert."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This is for my number one hobby, arcade dance games! They're super\nfun!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "In races, it's always about whoever runs the fastest, right? But dance\ngames are a bit different."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Finishing the \"race\" is important too, but what's just as important is\ndoing it in style! You gotta look cool and cute, and fa☆bu☆lous!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's the best feeling ever, and the most fun! No other type of game\ncan compete!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Or at least, that's how I used to feel. <i>Sigh...</i>",
+            "choice_data_list": [
+                "Something happen?",
+                "Something happen?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, I set a high score the other day, but now a new rival's appeared\nand beaten it already."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "My score was 620,000. And their score was 999,999! They actually\n<i>hit</i> the score ceiling!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I wanna get my record back so, so bad—prove that I'm just as good!\nSo, that's why I'm practicing."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And I've done just about everything I can! Trainer, let's hit up the\narcade together!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Showdown time! I can do this! I <i>absolutely</i> can do this. <i>We</i> can make it\nhappen! All right, let's get this game started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 780,500"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa, a new personal best! But still so far off... Trainer...",
+            "choice_data_list": [
+                "You can do it! Keep going!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Th-thanks... You're right. I can't give up after just one try."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm going to be the invincible Teio! I can be lighter, faster! Try\nnumber two, here we go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 850,600"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Another huge personal best! But still not enough... Nnngh, how am I\nsupposed to get any higher?"
+        },
+        {
+            "name": "Girl",
+            "text": "You can do it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Uh, hi...?"
+        },
+        {
+            "name": "Mother",
+            "text": "She's been watching this whole time. Can't stop gushing about how\ngood you are."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "R-really? Hey, you having fun watching me dance?"
+        },
+        {
+            "name": "Girl",
+            "text": "Yeah, lots of fun! But..."
+        },
+        {
+            "name": "Girl",
+            "text": "Sometimes you look like it really hurts, and then I start to feel like it\nhurts too..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Like it hurts? Oh, I never realized I was making that face..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Dance games are meant to be fun. So if I don't look like I'm having\nfun, of course I won't get a perfect score."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It <i>does</i> hurt to fail, but that's no excuse not to smile! It'll help me stay\ncalm and loosen up! Isn't that right, Trainer?",
+            "choice_data_list": [
+                "Yeah, have fun with it!",
+                "Yeah, have fun with it!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Will do! I'll try again. And again, and again! If I can keep a smile on\nmy lips, I'll be at the top before I know it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right, let's go! Don't forget to cheer me on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so Teio resumes her endless challenge, now with a crowd rooting\nfor her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 891,500"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i> There goes my smile... But I'm not done yet!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 924,100"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "We're in the 900,000's! Almost there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 956,000"
+        },
+        {
+            "name": "Crowd",
+            "text": "Teio! Teio!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Thanks, you guys... But I might be at my limit... I don't know if I can\nmove anymore... But even so…"
+        },
+        {
+            "name": "Crowd",
+            "text": "Teio! Teio!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Their cheers... give my legs strength! C'mon, focus... Last one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Score: 999,999"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? The music stopped...\nI... I did it..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I did it! A perfect score! Trainer, you guys, I did it!",
+            "choice_data_list": [
+                "Congrats, Teio!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah... For a sec there I was about ready to call it quits. But then..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You all gave me strength. You made the invincible Teio more than\ninvincible!",
+            "choice_data_list": [
+                "It was a team effort.",
+                "It was a team effort."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah! And it's not just the score that counts—I finished with a smile! I\nbet that's why the crowd got so fired up."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe. Now our scores are tied, but I <i>definitely</i> beat my rival with\nstyle points!"
+        },
+        {
+            "name": "Arcade Worker",
+            "text": "Hm? Ah! That machine!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? An employee... Is something the matter?"
+        },
+        {
+            "name": "Arcade Worker",
+            "text": "My bad, my bad. I forgot to reset that machine. It was just in\nmaintenance mode, you see."
+        },
+        {
+            "name": "Arcade Worker",
+            "text": "The top score was still set to the max. I'll fix it right now."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You whaaat?! Wait, so this isn't actually someone's score? It's just\nfrom maintenance?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha! That was a good laugh. Can't believe I got so worked up over\nan imaginary rival.",
+            "choice_data_list": [
+                "Disappointed?",
+                "Disappointed?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "A bit, but it helped me realize something, I think. See…"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Cheers aren't just cheers, they're <i>power.</i> I'm always invincible and\nincredible, but with that power, I was able to be twice, no, ten times\nas incredible!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That was just practice! Next time, I'll do it on the track. It'll be the\nmost exciting win ever, and it'll be thanks to the crowd's cheers!"
+        }
+    ]
+}

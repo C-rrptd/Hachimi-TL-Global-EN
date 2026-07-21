@@ -1,0 +1,183 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Symboli Rudolf has a number of\nvictories under her belt..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I drop by the student council office to discuss the\nraffle prize we had previously won together."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Save it until I have earned the holiday."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As for when that is, I leave it to your discretion. I\nknow that you will judge me fair and true."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I see... So you believe the time has come.",
+            "choice_data_list": [
+                "You've achieved so much during our time\ntogether.",
+                "You've achieved so much during our time\ntogether."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I know she's still a long way from where she hopes\nto be, but she has more than earned a break."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Very well. I trust your judgment."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Would you mind if I invited the other student\ncouncil members?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I have been working hard, they have been\nworking even harder. They too deserve a chance\nto relax."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't be ridiculous. How could you possibly\nunwind with us around?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "We can handle things here just fine while you're\naway."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Air Groove... Brian..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fortunately, we're through the busy season.\nLeave us to take care of the rest and let your hair\ndown a little."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, how could I refuse an offer like that? Thank\nyou, both of you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well then, Trainer... It seems we have a relaxing\nvacation ahead of us."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we start getting ready for our trip."
+        },
+        {
+            "name": "Monologue",
+            "text": "(not displayed in-game)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Sigh...</i> That was delightful."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm sorry if I kept you waiting, but I relished every\nmoment of the bath.",
+            "choice_data_list": [
+                "As long as you enjoyed yourself."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I appreciate that. I must say, these hot springs are\nmarvelous."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Steam does wonders to clear my mind. As my\nthoughts dissolve in the heat, unexpected truths\ncome into focus."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It has been a deeply fulfilling experience...\nAlthough, I may have stayed in the water a little\n<i>too</i> long.",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It is nothing to worry about. Although I would like\nto rest a little before we eat."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What do you say we head outside to get some\nfresh air?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You're looking a little flushed yourself."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What a delightful breeze. Perfect for cooling off\nafter a long soak.",
+            "choice_data_list": [
+                "What were you thinking about in there?",
+                "What were you thinking about in there?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "All manner of things. The mundane and the\nmetaphysical, the meaningful and the trivial..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And I recall coming up with the most marvelous\npuns... or so I thought at the time, at least.",
+            "choice_data_list": [
+                "That's uncharacteristically vague...",
+                "That's uncharacteristically vague..."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thoughts come hazily in the hot springs, I've\nfound."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But there is one thing that I remember clearly."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The path we have walked shines brightly in the\ndark, even when the moon is hidden."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We have certainly faced our fair share of\nadversity, but I would not trade it for the world."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I wish for nothing more than to forge onward by\nyour side and follow this luminescent path far into\nthe distance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope you are prepared to do the same. After all,\nI have no intention of letting you go.",
+            "choice_data_list": [
+                "...Thank you, Rudolf."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And the same to you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha... With all that said, I feel a little flustered."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Could we stay out here a little longer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We discuss all sorts of things after that, both\nmeaningful and trivial."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Symboli Rudolf and I have formed an\nirreplaceable bond during this time together."
+        }
+    ]
+}

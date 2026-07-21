@@ -1,0 +1,167 @@
+{
+    "title": "Up the Snowy Mountain!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, look at all this snow! That's a long climb to be carrying\nprecious cargo..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Trainer told me that this was a trial to help me find my strengths. Not\nto mention, McQueen is waiting for this generator at the summit.)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "All righty! She helped me out at the scrimmage, so now it's my turn!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well then, all that is left for us is to wait. I'm quite surprised. I never\nexpected someone to ask for such <i>eccentric</i> training with this much\nfervor."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I suppose this is proof of how badly you wish to discover Kita's\nabilities... However, she will not complete her journey."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Climbing a snowy mountain with a generator in tow is a task that\nwould exhaust most Umamusume by the third station. And since Kita\nhasn't even debuted yet..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Huff, huff...</i> So... heavy... This might be tougher... than carrying\nportable shrines."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But... I won't give up. This mountain won't beat me!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Taking Kita's current faculties into account... I believe she will make it\nup to the fifth station.",
+            "choice_data_list": [
+                "So she's above average?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes. Though as she is now, she possesses no exceptional abilities.\nStill... I sense something within her that I cannot express in words."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Something akin to natural talent. That alone will bring her to the\nfourth station, and her fortitude will bring her to the fifth. But that's\nit. Still, it's plenty respectable."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Urgh... Getting dizzy... I'm only about halfway, too. Is this... my limit?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer... went out of their way to arrange this training for me.\nMcQueen's waiting for me. Can I... stop here?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(No, I have to keep going. I have to return the favor. Dad and his\npupils would never leave a debt unpaid.)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Repay your debts. Put one foot in front of the other. If I'm not going\nall out, all the time, then I'm not being true to myself! All righty...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah! I won't give up heeere! I'll keep going—going all out—until\nthe very end! Hi-yaaah, grrr-raaaaah!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The sun has already begun to set... It is about time for us to bring this\nto a close."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In all likelihood, Kita has retired near the fifth station. I will contact\nmy support staff and have them bring her down to the base camp.",
+            "choice_data_list": [
+                "Is that... It is!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wh-what is the matter? Something happen?",
+            "choice_data_list": [
+                "I never doubted her for a second.",
+                "I never doubted her for a second."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "McQueen, sorry for being late! Here's... your generator! <i>Huff, huff,\nhuff...</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "K-Kita! You made it here... all by yourself?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah! It was way tougher than I expected though, so it took me some\ntime. Hopefully, I've returned the favor a little bit now!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer, thanks for letting me do this! So, um... do you think you've\nfigured out what my strengths are?",
+            "choice_data_list": [
+                "Yeah, I have.",
+                "Yeah, I have."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to this rather intense trial, Kitasan Black's strengths are clear\nto me now."
+        },
+        {
+            "name": "Monologue",
+            "text": "She has the physique to climb a mountain with heavy baggage, the\nrecovery speed to rely on only short breaks, and the will to never give\nup. In other words...",
+            "choice_data_list": [
+                "Your strength is your unyielding grit!",
+                "Your strength is your unyielding grit!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Grit! So that's my strength!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There is no doubt about it. I have never seen an Umamusume with the\ngrit to complete a mission as ridiculous as this one."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I see, I see. But, will grit be useful during races? It doesn't have to do\nmuch with speed, right?",
+            "choice_data_list": [
+                "We're going to utilize it <i>before</i> you race."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Before she races? If it involves preparing for a race... Ah! I believe I\nunderstand."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You wish to have Kita go through rigorous training, during which she\ncan create her own secret weapon, correct? Just like Bourbon did?",
+            "choice_data_list": [
+                "Exactly! Let's make a weapon just for you,\nKitasan!",
+                "Exactly! Let's make a weapon just for you,\nKitasan!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yay! Sounds good to me! Train me to your heart's content! I want to\nbecome someone who'll never lose again—ever!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer, McQueen, thank you both <i>so</i> much! I feel like I'm starting to\nsee the light at the end of the tunnel!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm going to train like crazy and develop my own weapon—something\nonly I can use. And once I have that, I want to try it out in a race\nagainst <i>her.</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I want to see if my weapon will work against my idol—Tokai Teio!"
+        }
+    ]
+}

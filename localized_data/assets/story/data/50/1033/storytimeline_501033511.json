@@ -1,0 +1,221 @@
+{
+    "title": "同室シスターにはかなわない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "That's all for training today, right? In that case—"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ah! There you are, Ayabe! I'm stealing you and\nyour trainer away! Come with me!",
+            "choice_data_list": [
+                "Excuse me?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Ah, you came, Curren. Your sudden message\nsurprised me."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, the next customer's Ayabe?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Perfect tim'n! If you have any hair-related\nquestions, City's the one t'ask!",
+            "choice_data_list": [
+                "Huh? Hair-related questions?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Welcome to City's hair salon! ♪ She's gotten\nreally popular since she matches her business\nhours to your schedule!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh, Trainer. You should hear this. Yesterday,\nAyabe..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "My hair keeps getting in the way. Maybe I should cut\nit..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ugh, my scissors broke. Now I've gotta buy some new\nones."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Can you believe Ayabe just cuts that pretty hair\nof hers herself?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Leave me alone."
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, to each their own, I suppose. But if you let\nme help, I promise you won't be disappointed."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ayabe! Just like with a leg injury, it's waaay better\nto get treated by someone who knows what\nthey're doing!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But I take care of my legs myself too. Anyway, if\nthis isn't related to racing, I'm leaving."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...Ah!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hey, hey, Yukino! Proper hair care can benefit\nyour running too, right? Like, making it easier to\nrun or whatever."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Righty-roo! If you get City to treat your hair, it'll\nbecome so sleek 'n smooth that even with the\nwind blow'n 'round and 'round, your hair'll stay\noutta your face!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(She's right. Changing the style might decrease\nsome wind resistance...)"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "All of her customers are top-class Umamusume.\nEven Hishiama is a patron!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You know what that means?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "There's nothing to lose by just trying! Isn't that\nright, Trainer?",
+            "choice_data_list": [
+                "Take the offer before it's gone!",
+                "Take the offer before it's gone!",
+                "Let their support become your strength."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "There's nothing to lose by just trying! Isn't that\nright, Trainer?",
+            "choice_data_list": [
+                "Take the offer before it's gone!",
+                "Take the offer before it's gone!",
+                "Let their support become your strength."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You heard 'em! This way, Ayabe! ♪"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, then. So, any idea what you'd like me to do\nwith your hair?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Whatever helps me run fast."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Right! So no changes to the length, but treat\ndamaged areas and reduce the volume, am I\nright?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Haha, that's a great translation. Shall we get to\nit?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Trainer... What was my time?",
+            "choice_data_list": [
+                "It's gotten a little shorter!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Geez, I should've known you'd go running right\nafter getting your hair done all nice."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I only went along because you said it would help\nme in racing. What else would I do?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You'll never change..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Admire Vega puts more effort into\ngrooming her hair and tail, and she grows brighter\nand brighter each day."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I understand..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yaaay! ♪ Now that you're on board, we should\ntry all kinds of things!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "All kinds of things?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "First a cut, and then shampoo, and then\ntreatment..."
+        },
+        {
+            "name": "Gold City",
+            "text": "I can give her a head massage as well. Nothing\ngood comes from having a tight scalp. I could\nhelp you loosen up if you want."
+        },
+        {
+            "name": "Gold City",
+            "text": "Whatever's bothering you, just let me know, and I\ncan even recommend you another salon that\nspecializes in that."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I won't need that much..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Shall we get started? ♪ Let's head over to the\nwashing station!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "H-hold on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, Admire Vega comes back with\nher hair and tail sparkling. However..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "Someone's sleepy.",
+                "Someone's sleepy."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "That means the head massage worked."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's because you're such a workaholic. You need\nto take some time off to relax once in a while!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Nod... Nod...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega's head droops as she battles her\nsleep. She doesn't seem the type to ever give\nherself a break. I'll need to keep this in mind\nmoving forward."
+        }
+    ]
+}

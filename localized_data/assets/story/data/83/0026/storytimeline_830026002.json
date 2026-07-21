@@ -1,0 +1,294 @@
+{
+    "title": "捕まらないもん！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today Tracen is holding a cops and robbers\ntournament. This event allows elementary school\nstudents aiming for Tracen to interact with\ncurrent students at the academy."
+        },
+        {
+            "name": "Tournament Chairperson",
+            "text": "The cops win if they capture all of the robbers\nbefore the time runs out!"
+        },
+        {
+            "name": "Tournament Chairperson",
+            "text": "But if even one robber remains, the robbers win!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'm a robber, so I just need to make sure I don't\nget caught while the clock is ticking, right? Piece\nof pie!"
+        },
+        {
+            "name": "Tournament Chairperson",
+            "text": "Trainers and volunteers from the shopping district\nare here to ensure that the team they've been\nassigned to plays safely!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hm? If you're here, that means... you're a robber\ntoo?!",
+            "choice_data_list": [
+                "I'm just here to keep an eye on things.",
+                "I'm just here to keep an eye on things."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Don't sweat the details! You're one of us! I'll\nsmash right through everyone, so you'll have\nnothing to worry about!"
+        },
+        {
+            "name": "Elementary School Umamusume A",
+            "text": "There are so many Tracen Academy students\nhere! C'mon, cops! We've gotta win this!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I have to do my best! I can't be the reason my\nteam loses!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Forgive my intrusion, but I'll be offering my\nassistance to ensure that the cops team emerges\ntriumphant."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Leave everything to me. I shall create an effective\nteam strategy that will keep your stamina levels in\nmind."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Whoooa! Their team's totally pumped!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Awww yeah! We'll just have to step up our game!\nLet's go, robbers!"
+        },
+        {
+            "name": "Tournament Chairperson",
+            "text": "Right, everyone! On your marks, get set..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>BANG!</i>"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "ALL RIGHT! Run away as fast as you can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The game starts with a chaotic game of\ncat-and-mouse, but as time passes, the cop team\nbegins to slow down."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hey! How come the cops aren't chasing us like\nthey were before?! What's goin' on?! Don't keep\nme waitin' here!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Running around haphazardly only serves to\ndeplete our energy."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Let us calmly lie in wait and observe the enemy's\nmovements."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Twin Turbo that the cops are going with\nIkuno Dictus's strategy of minimal energy\nconsumption and efficient arrests."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Whaaaaat?! The heck's with that?! Boooooriiiiing!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I wanna run around! I wanna play tag with\neveryone!",
+            "choice_data_list": [
+                "You'll fall right into their trap if you rush out\nnow.",
+                "You'll fall right into their trap if you rush out\nnow."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'm super fast. I'll be totally fine.",
+            "choice_data_list": [
+                "Do you have a strategy in mind?",
+                "Do you have a strategy in mind?"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hehe! Nope, but I'm <i>tough,</i> so I'll be fine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Maybe Twin Turbo's planning to draw the\nattention of the whole cop team herself.",
+            "choice_data_list": [
+                "Okay, go for it!",
+                "Okay, go for it!",
+                "Hold back for now.",
+                "Hold back for now."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "...Maybe Twin Turbo's planning to draw the\nattention of the whole cop team herself.",
+            "choice_data_list": [
+                "Okay, go for it!",
+                "Okay, go for it!",
+                "Hold back for now.",
+                "Hold back for now."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Leave it to me! Turbooo... GOOOOO!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Found ya, Rice!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh? Turbo?!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Waaait! I'm not letting you get away, coppers!\nTake me on, fair and square!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh?! Wait! Wait! Stay awaaay!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wh-why are <i>you</i> chasing after <i>meee?!</i>"
+        },
+        {
+            "name": "Elementary School Umamusume A",
+            "text": "Huh? What's happening?"
+        },
+        {
+            "name": "Elementary School Umamusume B",
+            "text": "Is this a special rule or something? Should we run\naway too?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "No. Please stay as you are. I'd like you all to\nremain on standby."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...It would be best to stop her as soon as possible,\nbut that would be a tough task."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Yahooooo! Wait up, punks! Ahahaha! Now we're\n<i>really</i> playing cops and robbers!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Twin Turbo somehow chasing the cops, the\ncops and robbers tournament descends into\nmayhem and is eventually called to a temporary\nhalt."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Ahahahahaha! You're not goin' anywhere,\ncoppers! Take me on, fair and—"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Wah!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eek! T-Turbo?!"
+        },
+        {
+            "name": "Older Patrolman",
+            "text": "H-hey! Are you okay?! That was quite the\nface-plant..."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Run with... me... fair and... square... Ehehe..."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Bleh..."
+        },
+        {
+            "name": "Patrolling Trainer",
+            "text": "Uh, did she just pass out with a smile on her face?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Huh?! What happened to the tournament?!",
+            "choice_data_list": [
+                "It's over. The cops won.",
+                "It's over. The cops won."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "What?! I-it's o-over?! But I didn't even get to run!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "<i>Sob...</i> Awww, this suuuucks! But I'll totally win\nnext tiiiiime!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Twin Turbo bawls her eyes out as she swears an\noath to the setting sun..."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "What?! Why?! No, no, no! Nuh-uh!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'm gonna run! I <i>gotta</i> run!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Cops! Now!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Whoa! Ikuno?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Siege successful. Your loud voice served as a\nbeacon, allowing me to lead everyone here\nundetected."
+        },
+        {
+            "name": "Elementary School Umamusume A",
+            "text": "You can't get away now, Twin Turbo!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "N..."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Now <i>that's</i> what I'm talkin' about!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "All you guys are gonna chase after me?! I'm all in!\nC'mon, let's <i>do</i> this!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "One, two, three, four... Six of you! Six against\none! Can you keep up with me?!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Here I go! Turbo BOOOOOST!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "No! Wait, everyone! If you try to keep up with\nTurbo, you'll—"
+        },
+        {
+            "name": "Elementary School Umamusume",
+            "text": "I-It's no good..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "—only fall behind. I should have warned you\nearlier."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eventually, both Twin Turbo and the cops run out\nof steam and the tournament ends in a draw..."
+        }
+    ]
+}

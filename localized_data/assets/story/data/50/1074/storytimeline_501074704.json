@@ -1,0 +1,244 @@
+{
+    "title": "ブライト・イン・ワンダーワールド",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Bright",
+            "text": "Pardon me, Trainer, but there are still some\nplaces I wish to visit."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "There's something I'm looking for. Would you be\nwilling to help me find it?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be looking for something that's\nimportant to her. Hoping to lend her any\nassistance she might need, I follow Mejiro Bright\nto..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! That fish is so very pretty. I wonder what it's\ncalled?",
+            "choice_data_list": [
+                "(...An aquarium?)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, its tail fin looks rather like a little ruffle...\nTeehee. I wonder what it's like to have a frilly fin\nlike that."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh! And those two puffer fish are adorable. When\nthey puff up together, they resemble a pair of\nRenaissance-era breeches. ♪ Come, Trainer, this\nway!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ruffles and Renaissance-era breeches? Is she\nsearching for fashion inspiration? ...I think I'd\nbetter keep an eye on her for a little longer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh dear... This is quite bitter. Milk and sugar\nreally are a must...",
+            "choice_data_list": [
+                "How come you ordered a black coffee?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I thought that perhaps it might taste sweet today."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...But coffee remains a bitter beverage. I can still\ntaste it on my tongue!"
+        },
+        {
+            "name": "Woman",
+            "text": "Ah, sweet and delicious! And the latte art is so\ncute! Could this coffee be any better?!",
+            "choice_data_list": [
+                "Bright, I have a suggestion."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ahhh... What an adorable drawing of a bear! And\nthis tastes <i>ever</i> so sweet."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Hehe. ♪ Trainer. You have the makings of a\nlatte mustache."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ahhh... It's so peaceful here."
+        },
+        {
+            "name": "Cow",
+            "text": "Moooo..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh? Are you taking it easy as well, Mrs. Cow?\nThat makes two of us..."
+        },
+        {
+            "name": "Cow",
+            "text": "Moooo..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Moo moooo..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe! What's that? I should take the time to smell\nthe flowers? Well, you're a kind one, Miss Cow.",
+            "choice_data_list": [
+                "They're communicating?!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why don't you try, too, Trainer? I do believe we\ncould all be friends.",
+            "choice_data_list": [
+                "M-mooo?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, we return to the academy with me\nnone the wiser as to what Mejiro Bright was\nlooking for. Did the search slip her mind entirely?",
+            "choice_data_list": [
+                "Bright, weren't you looking for something?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I was! ♪ And thanks to your assistance, I found it.\nThank you so much.",
+            "choice_data_list": [
+                "You did? When?",
+                "You did? When?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I found all sorts of them with you, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My treasures... ♪",
+            "choice_data_list": [
+                "\"Treasures\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The things I treasure most in this world—Maki,\nLolita fashion, antiques, memories made\nday-to-day..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'd been keeping them all in the treasure chest in\nmy heart, for my own viewing."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "After spending time with you, however, I came to\nrealize something."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The treasures in that chest seem to shine brighter\nwhen I gaze at them with you..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And... I began to wonder."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "What would happen if there were more treasures?\nWhat if we gazed at that treasure chest even\nlonger..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And I thought it would probably be very\nwonderful.",
+            "choice_data_list": [
+                "I hope I was a good assistant today..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! What a peculiar thing to say."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "On my own, I'd never have discovered the\ntreasure that was today. ♪",
+            "choice_data_list": [
+                "What sort of treasure should we look for next\ntime?",
+                "Let's keep searching every nook and cranny for\nmore!",
+                "Treasures of the heart really are wonderful.",
+                "Treasures of the heart really are wonderful."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "On my own, I'd never have discovered the\ntreasure that was today. ♪",
+            "choice_data_list": [
+                "What sort of treasure should we look for next\ntime?",
+                "Let's keep searching every nook and cranny for\nmore!",
+                "Treasures of the heart really are wonderful.",
+                "Treasures of the heart really are wonderful."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, there are simply so many options."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Tomorrow, the day after that, next week, next\nyear... Time is most definitely on our side!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, how about this? Trainer, why don't you tell\nme about <i>your</i> treasures?",
+            "choice_data_list": [
+                "Sure thing!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee! I can hardly wait to see how they'll\nshine. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh yes, and find treasure we shall."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But straining ourselves in the process won't do.\nLet's have a nice, leisurely search."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "For ordinary occasions and ordinary places."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Because those are treasures as well. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe, and there are so many more out there."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That pretty shell I found lying on the beach, the\nwristband Ryan gave to me, the picture book I\ndrew with Dober when we were little..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh? Where has the time gone?",
+            "choice_data_list": [
+                "I can't wait to see what we find tomorrow.",
+                "I can't wait to see what we find tomorrow."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes! Tomorrow and the next day, too. How\nwonderful it is to have so many things to look\nforward to."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well then, until our next opportunity. This is so\nexciting! ♪"
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "title": "奇跡を起こせ！伝説の熱血エール！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "City! Today's the big day, right? You're filming\ntoday, right?! Are you all set?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm kinda on a whatever-happens-happens vibe..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Every omelet I've made so far has come out burnt\nto a crisp, but... miracles do happen, I suppose."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hm... Say no more! This is where I come in! Gimme\na sec to get ready!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Get ready for what?\n...Why does <i>she</i> have to get ready?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm walking through the central plaza after class\nwhen Bamboo Memory runs up to me out of\nnowhere."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You're the trainer that helped with City's omelets,\nright?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If you're not busy, could you do me another\nsolid?! I need all hands on deck!",
+            "choice_data_list": [
+                "No problem, but... for what?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No hesitation, that's fire! I owe you one! Actually,\nwe'll be working as a team this time!"
+        },
+        {
+            "name": "City's Manager",
+            "text": "All right, let's head to the studio. I hear your fans\nare already there!"
+        },
+        {
+            "name": "Gold City",
+            "text": "(Even though I said whatever happens happens,\nmy legs feel heavy...)"
+        },
+        {
+            "name": "Gold City",
+            "text": "(How can I be this scared even after all the help I\ngot from Bamboo?)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "CITYYYY! WAAAIIIT!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh?! Wh-what is it?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ready, everybody?! Fill up those lungs and give a\nbig shout for City!"
+        },
+        {
+            "name": "Cheer Squad Umamusume",
+            "text": "Okay, just like we practiced!\nREADY?!",
+            "choice_data_list": [
+                "READY!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "LEEEET'S GO!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "C-I-T-Y! What does that spell?",
+            "choice_data_list": [
+                "CITY!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "FLUFFY! STEAMY! HOT AND CREAMY!",
+            "choice_data_list": [
+                "OMELET! OMELET!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "NICE AND DREAMY!"
+        },
+        {
+            "name": "Gold City",
+            "text": "What the—this is what you went to get ready?!\nYou're causing a scene! People can see us!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm <i>supporting</i> you! This is what I set out to do\nfrom the start!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You need to remember what you set out to do\ntoo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Why'd you decide to go on this cooking show in\nthe first place? What is it you were trying to\ncommunicate? What did you want your fans to\nsee?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Think back and remember what it was!"
+        },
+        {
+            "name": "Assistant Director",
+            "text": "Here we go! Cameras rolling in five, four, three..."
+        },
+        {
+            "name": "Gold City",
+            "text": "(What was it I set out to do? Why <i>did</i> I decide to\ngo on this show?)"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh... That's right. I wanted to..."
+        },
+        {
+            "name": "Monologue",
+            "text": "At long last, the episode of the cooking show\nwith Gold City airs today."
+        },
+        {
+            "name": "Host",
+            "text": "So, Gold City. How do you feel about the dish\nyou put together today?"
+        },
+        {
+            "name": "Gold City",
+            "text": "It came out as burnt as always, and the taste was\nsomething! But... I think I did pretty good for me."
+        },
+        {
+            "name": "Gold City",
+            "text": "I didn't get any eggshells in it this time. ...Which\nall goes to show that as long as you keep trying,\nyou'll see results!"
+        },
+        {
+            "name": "Gold City",
+            "text": "To me, cooking and racing are one in the same. If\nI was able to show my best to the fans who are\nalways cheering me on, then I'm happy."
+        },
+        {
+            "name": "Gold City",
+            "text": "Also... I should mention a certain someone who\nwent above and beyond to support me."
+        },
+        {
+            "name": "Gold City",
+            "text": "She's my roommate, so I see her every day, but\nstill, I owe her a really big thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold City successfully demonstrates how hard she\nworks and the show turns out great! And then..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "WHOOOA!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That was the BEST! SHOW! EVEEER! You\ndefinitely let your fans know how you feel!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That cheer squad in front of the academy gates...\nwas literally one of the most embarrassing things\never! But you helped me remember something\nimportant."
+        },
+        {
+            "name": "Gold City",
+            "text": "...Thank you, Bamboo."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oooh! City, your sizzling hot passion is heating up\nmy heart!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I need to do something with these emotions! I\nneed to get fired up and blast off!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Got it! I'm gonna dash away into the setting sun!\nI'm off in T-minus one minute!"
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh.</i> There you go again... You know it's only\nnoon, right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Still, I suppose you only get to be young once. I'll\nblast off with you!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Okay, it's settled! We're doing a hundred laps\naround the training course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bing, bong, ding, dong!</i> ♪"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Bamboo Memory, please come to the student\ncouncil office immediately concerning the recent\ncommotion in front of the academy."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Gyaaah! Was my support <i>too</i> hot?!"
+        }
+    ]
+}

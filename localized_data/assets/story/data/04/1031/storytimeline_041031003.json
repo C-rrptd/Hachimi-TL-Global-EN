@@ -1,0 +1,261 @@
+{
+    "title": "ぐんぐん！あたしと強くなるの",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Temporary trainer or not, I'm determined to make full use of this\nopportunity to show off my training skills. That being said...",
+            "choice_data_list": [
+                "(This isn't about me.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This is about Ines Fujin. I need to be careful not to push her too hard\nor make her feel boxed in. With that in mind, I carefully craft a\ntraining regimen."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whoa, this is a ton of training!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "This set's all about speed, and this one's focused on stamina..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Isn't this a bit overkill?! Haha, I think you're getting a little too\nexcited!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Heh... That was a good laugh. Anyway, I understand your enthusiasm,\nbut can we really get through all of this before the big day?",
+            "choice_data_list": [
+                "You don't need to do everything.",
+                "You don't need to do everything."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "By experimenting with different training methods, I can better\nunderstand where she truly needs to improve."
+        },
+        {
+            "name": "Monologue",
+            "text": "So I lay it all on the table and tell her she's free to make her own\ndecisions."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh? You want me to choose?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well... okay then! Let's see... Maaaybe I'll pick one that'll have <i>you</i>\nworking the hardest! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus, our training begins!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Phew, my whole body's burning! But I'm not done yet! Gotta keep\npushing!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Huff, huff...</i> H-hold on... Timeout!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Huff... puff... huff...</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Pheeew... I can't stand anymore... Hehe, it feels sooo goooood..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Day after day, she chooses a different workout plan, and day after\nday, I help her through it. Then, finally..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Really?! You figured out what my best running style is?! Tell me, tell\nme!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's clear from watching her train—she's the kind of runner who gives it\nher all, even in practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "She pushes herself to the point of collapsing; that's not something\njust anyone can do. So we should use that to her advantage.",
+            "choice_data_list": [
+                "We'll turn the race into a battle of endurance."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Start strong, lead early, take a breather before the final sprint, then\nburn everything to the finish line... The perfect strategy for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "As long as she stays calm and keeps her pace steady, her explosive\nspeed will be her trump card to victory."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Got it... Leave enough gas in the tank, then let it rip..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "If I can just hold the front and never back down... No, I <i>know</i> I can.\nThat's why—I will win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's our final day of training before the big event..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "No way! Rain?! All day?! How are we supposed to train?!",
+            "choice_data_list": [
+                "D-don't worry!",
+                "D-don't worry!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Tracen Academy has tons of indoor training facilities. As long as\nthey're not fully booked, we'll be golden."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell myself it'll all be fine as we head over to the gym and pool,\nbut..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Bummer... Everywhere's completely full.",
+            "choice_data_list": [
+                "Sorry... I should've prepared better...",
+                "Sorry... I should've prepared better..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't believe we're cooped up in my office today of all days..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hey, Trainer. Wanna hear a special spell that'll cheer you right up?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "\"Breathe one and two—take in the view.\nOnce that's done, just do what you can, one by one!\"",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You like it? It's something my mom always said to me since I was a\nkid. Now it's my go-to charm whenever I'm feeling down!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You should give it a try. Just repeat those words, and I guarantee\nyour shoulders will feel lighter."
+        },
+        {
+            "name": "Monologue",
+            "text": "It might sound like she's teasing me, but her eyes are sincere—she's\ngenuinely trying to cheer me up.",
+            "choice_data_list": [
+                "Thanks. Your mom must be a wonderful person.",
+                "Thanks. Your mom must be a wonderful person."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep! In fact, my whole family's amazing! They're super kind and super\nsmart!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "In fact, without them, I wouldn't be at this school!",
+            "choice_data_list": [
+                "Were they the ones who pushed you to apply?",
+                "Were they the ones who pushed you to apply?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah... But it probably wasn't an easy decision for them."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My mom gets sick pretty often. When my sisters were smaller, I\nneeded to help around the house more, so I ended up attending a\nregular middle school."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I still loved running, of course. Heck, I'd been on the track team since\nelementary school. But I planned to quit once I graduated middle\nschool."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's why... even though I knew I could start at Tracen from high\nschool, I never seriously considered it."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Tomorrow's the final track meet, huh... Since I'll be going to a\nvocational high school, I guess this will be my last race...)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "No! Think happy thoughts! I'm sure I'll get over it after a while!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's when my mom handed me a bundle of papers. To my surprise,\nit was an application to the academy."
+        },
+        {
+            "name": "Ines's Mother",
+            "text": "Things at home are fine now, and your sisters can take care of\nthemselves. Go chase your dreams and do what you love."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Mom..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "She encouraged me to face my true feelings. I didn't want to quit—I\nwanted to keep running."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That was when I finally let myself hope... Maybe I <i>could</i> go to the\nacademy! It took me a little longer to actually take the plunge,\nthough!",
+            "choice_data_list": [
+                "I'm glad everything worked out.",
+                "I'm glad everything worked out."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep! Mom gave me the push I needed. And when I got accepted, Dad\nscraped together the tuition fees."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My sisters are helping out at home now, too. So I owe it all to them\nthat I'm here!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My family will be there, and I really want to show them the fruits of\nmy hard work!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From the way she speaks about her family, it's clear she treasures\nthem dearly.",
+            "choice_data_list": [
+                "(In that case...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Determination fills me—we must succeed at the Tracen Meet, no\nmatter what.",
+            "choice_data_list": [
+                "We'll definitely make your family proud\ntomorrow!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hehe. Yep, yep! That's the spirit! Just what I expected from my\ntrainer! ♪ Well, temporary trainer!"
+        }
+    ]
+}

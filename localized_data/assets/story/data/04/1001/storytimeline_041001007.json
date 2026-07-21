@@ -1,0 +1,264 @@
+{
+    "title": "思い出、並んで、おなかに入れて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I arrive at the summer training site together with Special Week. Once\nwe get there, however..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Blegh... I-it's so hot..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I know I need to do this... in order to win... But it's just way too hot..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The heat is getting to her head. I need to figure out how to cheer her\nup...",
+            "choice_data_list": [
+                "How about we eat something delicious at the\nfestival later tonight?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Delicious... festival food?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "They... they have baked potatoes with butter, right?! It's a festival\nstaple!",
+            "choice_data_list": [
+                "I think they do.",
+                "I think they do."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yaaay! I think I'm ready to start training! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Special Week all fired up and ready to go, she blasts through\nher entire training regimen. Afterwards..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wooow! There are so many different stalls... So many people too. I\ndon't think I've ever been to such a packed festival."
+        },
+        {
+            "name": "Special Week",
+            "text": "Where do we even begin?! Oh, I see a baked potato stall! Let's start\nwith that!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew... That was delicious! Baked potatoes with butter never\ndisappoint, no matter the festival!"
+        },
+        {
+            "name": "Special Week",
+            "text": "So where do we go next? That Umamusume sponge cake over there\nlooks—oh!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Grass and the others are here too! Do you mind if I say hi to them\nreally quickly?",
+            "choice_data_list": [
+                "Not at all. Take your time."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you! I'll be right back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Thud!)"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oops! I'm sorry! I didn't mean to bump—oof! So many people!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week gets caught in the crowd, unable to move due to the\nsheer density of people on the streets.",
+            "choice_data_list": [
+                "This way, Spe!",
+                "This way, Spe!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? Oh, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I lead Special Week down a path that isn't so packed."
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew! W-we made it! Thanks for saving me back there, Trainer.",
+            "choice_data_list": [
+                "Be careful, okay?",
+                "Be careful, okay?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I will!\nHey, Grass! Over heeere!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While I wait for Special Week to finish her business, I decide to buy\nsome Umamusume sponge cake to try out."
+        },
+        {
+            "name": "Special Week",
+            "text": "See ya!\n...Sorry to keep you waiting."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait a second... <i>Sniff... sniff...</i> I smell something sweet. That bag... Is\nit what I think it is?",
+            "choice_data_list": [
+                "It's what you wanted, right?",
+                "It's what you wanted, right?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yaaay! It's the Umamusume sponge cake!"
+        },
+        {
+            "name": "Special Week",
+            "text": "You got it for me, didn't you?! Oh, you really shouldn't have!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I wanna get you something too! What to get, what to get... Hm? That\nstall over there..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! I know just what to give you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week hands me her gift, and we head to the beach to enjoy\neach other's treats."
+        },
+        {
+            "name": "Special Week",
+            "text": "Mmmm... That sponge cake was so good! It took only three seconds\nto make it disappear!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heheh... Adding \"Umamusume\" to things makes them taste different\nsomehow! They didn't do stuff like this back home, that's for sure."
+        },
+        {
+            "name": "Special Week",
+            "text": "How about yours? Your shaved ice was made using milk from\nHokkaido!",
+            "choice_data_list": [
+                "It was delicious!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "That's good! Oh, take your time though. If you eat too much at once,\nyou'll get brain freeze."
+        },
+        {
+            "name": "Special Week",
+            "text": "Besides, I want you savor the taste of my hometown!",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! Come to think of it, why is festival food so good?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I mean... Take yakisoba or baked potatoes, for example. They're\nsuper simple everyday foods! Yet they still somehow taste absolutely\namazing!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My mom always wondered why too. But... I think I've figured out the\nreason why it tastes the way it does."
+        },
+        {
+            "name": "Special Week",
+            "text": "Festivals are a place of fun and happiness! The food is amazing\nbecause you get to share it with the people you care about most!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heh-heh... I hope my mom's doing okay...",
+            "choice_data_list": [
+                "You sure do miss her a lot, don't you?",
+                "You sure do miss her a lot, don't you?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, yeah... It's hard not to during times like these."
+        },
+        {
+            "name": "Special Week",
+            "text": "But those feelings of loneliness and sadness no longer get to me\nbecause..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I love it here! I love spending every day here at Tracen Academy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm a regular at a ramen shop, I've found new places I love visiting,\nand I've made so many close friends!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's probably why the sponge cake tasted so good too."
+        },
+        {
+            "name": "Special Week",
+            "text": "It took a lot of courage for me to step out of my comfort zone and\ncome to the academy, but I'm really glad I did—I was able to find an\namazing trainer!",
+            "choice_data_list": [
+                "That's good to hear."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe... I'll do my part and try my best to train hard tomorrow too!\nNow that I've filled my stomach, all I need to do is get a good night's\nrest, and—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait, what time is it now?! We have to get back before they lock us\nout!"
+        },
+        {
+            "name": "Special Week",
+            "text": "B-but you aren't done with your shaved ice yet! I want you to take\nyour time eating such a delicacy..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Maybe if I help you finish the dessert—no, what am I even saying?!\nThat just makes it look like I want some of your food!",
+            "choice_data_list": [
+                "Go ahead!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? R-really? Are you sure? ...Yaaaay! Leave it to me!"
+        },
+        {
+            "name": "Special Week",
+            "text": "All right, then... I'm digging in! ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mmmmm! The ice is so crunchy... and delicious!"
+        },
+        {
+            "name": "Special Week",
+            "text": "The milk... tastes just like the milk... I had back in\nHokkaido—Hawaaaa?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "O-owww... My head... It hurts... Brain... is freezing..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Self-inflicted though the pain may have been, I lend my shoulder to\nthe ailing Special Week and we somehow manage to make it back in\ntime."
+        }
+    ]
+}

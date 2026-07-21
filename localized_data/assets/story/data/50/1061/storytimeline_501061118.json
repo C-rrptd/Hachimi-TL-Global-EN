@@ -1,0 +1,203 @@
+{
+    "title": "A Kingly Smile",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I didn't really have anything in particular going on\ntoday, but King Halo has invited me out to an\namusement park."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehehehehe..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's in her signature racewear for some reason,\nand what's more, she's been cackling nonstop.\nThere's only one conclusion I can draw from this.",
+            "choice_data_list": [
+                "King... Have you cracked?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course not, you dingus!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Are you still half-asleep or something? Dust off\nthat brain of yours! I'm holding an autograph\nsession here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I take out my planner to double-check my\nschedule for the week.",
+            "choice_data_list": [
+                "Let's see, your autograph session is supposed to\nbe..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Come along! Let's head over already. I can't keep\nmy fans waiting."
+        },
+        {
+            "name": "King Halo",
+            "text": "..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Why isn't there anyone queueing up for me?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "We put out such a gorgeous sign to advertise it!\nWhy isn't anyone here?! Are they all simply\nignoring the fact that I'm having an event today?!",
+            "choice_data_list": [
+                "Hey, are you sure the event was scheduled for\ntoday?",
+                "Hey, are you sure the event was scheduled for\ntoday?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course. You said yourself in our meeting that\nit's happening this week on..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Wait..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmmm?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We look at the sign put out to advertise the\nsession. It lists the date as...",
+            "choice_data_list": [
+                "Look, it's scheduled for tomorrow."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "..."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Which is why we're here <i>today</i> to scout out the\nvenue and blow off some stress at the park!",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Say something, will you?! So what if we're here\nearly? It was our day off anyway!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm a first-rate among first-rates—in fact, I am the\nfirst-rate conqueror of G1 races across all\ndistances! And it's been forever since either of us\nhas had a break.",
+            "choice_data_list": [
+                "You've sure pulled off some amazing\nachievements.",
+                "You've sure pulled off some amazing\nachievements."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "It certainly has been a journey fit for a king."
+        },
+        {
+            "name": "King Halo",
+            "text": "And I didn't get here by following in someone\nelse's footsteps, but by forging my very own\nmagnificent... detour of a path.",
+            "choice_data_list": [
+                "I guess you could say we're taking a detour\ntoday, too."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph!"
+        },
+        {
+            "name": "???",
+            "text": "King!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Are you here to have fun too?! If so, why don't\nyou and I burn some rubber in those go-karts\nover—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What's this?! Your trainer is with you?! Are you\ntwo here... to work?",
+            "choice_data_list": [
+                "Er, no... We're actually here because—"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Don't you dare! Shh! Shhhhh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ahem. I'm here to survey the area in preparation\nfor my autograph session tomorrow."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "My! You're so dedicated to your duties!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Indeed, I am. I've just finished my prep work,\nhowever, so why don't we enjoy our time here\ntogether?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Trainer, I grant you permission to entertain us as\nbest you possibly can!",
+            "choice_data_list": [
+                "<i>I</i> have to entertain you?!",
+                "<i>I</i> have to entertain you?!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "But of course! Is it not your duty to support me in\nevery which way you can at all times?"
+        },
+        {
+            "name": "King Halo",
+            "text": "You've taken my hand and accompanied me\nthrough the most winding of detours, and today\nwill be no exception.",
+            "choice_data_list": [
+                "Guess I don't have much of a choice, do I?",
+                "Guess I don't have much of a choice, do I?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehehe. My thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo has a fantastic day at the amusement\npark and, the following day, hosts her autograph\nsession with her usual royal charm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzzt... Bzzzt...</i>",
+            "choice_data_list": [
+                "Hm? I wonder who's calling me..."
+            ]
+        },
+        {
+            "name": "King Halo's Mother",
+            "text": "\"Thank you for always taking such good care of\nmy daughter. I've called today because there's\nsomething I wish to ask you.\""
+        },
+        {
+            "name": "King Halo's Mother",
+            "text": "\"Do you happen to know whether she still likes\nthe same patterns she did as a child?\""
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm? Is someone calling about holding another\nautograph session, perhaps?"
+        },
+        {
+            "name": "Monologue",
+            "text": "...I have a feeling I'll be accompanying King Halo\ndown this new detour as well."
+        }
+    ]
+}

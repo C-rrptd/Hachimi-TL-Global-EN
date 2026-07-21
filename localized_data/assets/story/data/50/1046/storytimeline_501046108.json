@@ -1,0 +1,310 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest. A great number of\nfans are visiting, and Smart Falcon is in high\nspirits."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaah! ☆"
+        },
+        {
+            "name": "Event Commentator A",
+            "text": "After kicking up the sand with fearsome strength,\nSmart Falcon takes first in the Digging for\nTreasure Dirt Race!"
+        },
+        {
+            "name": "Event Commentator A",
+            "text": "The cloud of sand in your wake was a sight to see!\nCan you share your thoughts with us?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Sure! ☆ My goal is to take first in every race this\nyear! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Next up is the Teio Sho in June! Please come\nwatch! ♪"
+        },
+        {
+            "name": "Event Commentator A",
+            "text": "Um... I meant about... this race..."
+        },
+        {
+            "name": "Event Commentator B",
+            "text": "What a shocker! Smart Falcon is the last one to\nfinish, bringing the Round 'n Round Rotating Race\nto a close!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Event Commentator B",
+            "text": "Oh no! It looks like she's still dizzy! She can't even\nstand! Hey, are you okay?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Looks like the camera and shotgun mic are both in\nplace. This is it!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "My goal is to take first in every race this year!\nCome and witness the birth of a legend! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Groan...</i> First... in every... race... ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Come... and... s—<i>thud!</i> ☆"
+        },
+        {
+            "name": "Event Commentator C",
+            "text": "Give it up for Smart Falcon and her stirring\nperformance in the eating contest! She managed\nto keep a big smile from start to finish!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Urgh... My stomach still feels packed to bursting\nwith fried rice...",
+            "choice_data_list": [
+                "You really went for it!",
+                "You really went for it!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It was nothing! This is a great chance to attract\ntons of different fans. I need to do even more to\npromote my races."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Let's see... The next contest is—"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hi, Falcon. You were great out there."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Suzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I saw the eating contest just now. You seemed so\nintense."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ohhh! I'm so happy you were watching! ☆ Can I\ngive you a hug? ♪"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, that's okay..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon and Silence Suzuka banter happily\ntogether. As I watch their friendly antics..."
+        },
+        {
+            "name": "Man A",
+            "text": "Hey, look over there! It's Silence Suzuka and..."
+        },
+        {
+            "name": "Man A",
+            "text": "She's with the Silence Suzuka of the Sand!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Hm? Uhhh... When they say, \"Silence Suzuka of\nthe Sand\"..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Are they talking about me?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon has been showing \"otherworldly\"\nstrength in her recent dirt races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Reminded of Silence Suzuka's overwhelming\nachievements on turf, fans have taken to calling\nFalcon by this new nickname."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Me? Like Suzuka?! Wooow, I'm so happy! ☆"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Huh? But... I'm the only Silence Suzuka..."
+        },
+        {
+            "name": "Bystanders",
+            "text": "OHHHHH!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...?!"
+        },
+        {
+            "name": "Man B",
+            "text": "Silence Suzuka won't let Smart Falcon steal her\nname! She's thrown down the gauntlet!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...?!"
+        },
+        {
+            "name": "Man B",
+            "text": "The ultimate showdown between two different\nworlds—turf and dirt! Now this'll be a sight to see!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The situation escalates quickly, and before I know\nit..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hello, everybody! I'm Suzuka's roommate, Special\nWeek!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And I'm Falcon's roommate, Eishin Flash... coming\nto you live..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Sorry, what are we doing again? I'm supposed to\nparticipate in the next event in thirty-five\nminutes."
+        },
+        {
+            "name": "Special Week",
+            "text": "Falco and Suzuka are about to compete over the\nname \"Silence Suzuka of the Sand\"!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Here's how it's gonna work! The real Suzuka is\nknown for her speedy front running, so of course\nthere's only one way to settle this..."
+        },
+        {
+            "name": "Special Week",
+            "text": "With a lightning-fast word-chain game! Each word\nhas to start with the last letter of the word\nbefore—but there's a catch! If your word ends in\nthe letter \"n,\" you lose!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Excuse me, may I ask a question?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Of course!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wouldn't you agree that there can only be one\nSilence Suzuka? And I'm not sure I understand the\nrationale behind settling this with a game of—"
+        },
+        {
+            "name": "Special Week",
+            "text": "All right, that does it for question time! Let's get\nthis show on the road!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the game begins..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "\"C\"... \"Cleats.\""
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aha! The moment I've been waiting for! That ends\nin \"s,\" so naturally I choose... \"Smart Falcon\"! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Wait, that ends in \"n\"! Nooooo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "And it's decided! Smart Falcon blunders, and\nSuzuka gets to keep her name!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Um, what exactly was the point of all this?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps it's only due to being the original Suzuka,\nbut Silence Suzuka claims victory in the end."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "\"K\"... \"Kobe Shimbun Hai.\""
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Another \"i\"? Come on!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's the third in a row! You don't mess around,\nSuzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "There just happen to be a lot of race names\nending in \"i\"..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm starting to run out of—actually, I think I'm\nalready out of ideas! I've got nothing!"
+        },
+        {
+            "name": "Falco Fans",
+            "text": "Falcooo!\nYou got this! Don't give up yet!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Come on, my cute little brain! You can do this!\nDon't fail me now! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, I know! \"Idoldom.\" Because I'm gonna rise to\nthe top of idoldom!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "\"M\"... Oh—I think I ran in a race called the...\n\"Mainichi Okan.\""
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Whoops."
+        },
+        {
+            "name": "Special Week",
+            "text": "And it's decided! Smart Falcon is the winner!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! ☆ Now I'm Suzuka too!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wait? <i>Am</i> I Suzuka?! Eh, whatever! All I know is\nthat I'm happy! ♪"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Goodness."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Falcon, about the name... It's embarrassing, so...\ntry not to overuse it, okay?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "S-sure thing! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hi, everyone! ☆ From now on, I'm officially the\nSilence Suzuka of the Sand! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "My goal is to take first in every race this year, so\ncome and watch! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The showdown over the name Suzuka ends in a\nvictory for Smart Falcon. As a result, dirt racing\ngains more attention!"
+        }
+    ]
+}

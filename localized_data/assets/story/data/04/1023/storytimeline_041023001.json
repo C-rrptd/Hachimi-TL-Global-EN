@@ -1,0 +1,237 @@
+{
+    "title": "理論とインスティンクト",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide is a racer who loves formulating theories on how\nevents will play out. But sometimes, pure chance dictates the\noutcome—much like our chance meeting."
+        },
+        {
+            "text": "One day, while walking behind the school..."
+        },
+        {
+            "text": "Something falls from above. It glitters in the light, reflecting the\nsetting sun.",
+            "choice_data_list": [
+                "(Glasses?)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "I'm so sorry! You're not hurt, are you?"
+        },
+        {
+            "text": "I hear a sharp, clear voice overhead. Looking up, there's an\nUmamusume poking out from a classroom window.",
+            "choice_data_list": [
+                "Are these yours?",
+                "Are these yours?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Yes! My apologies—I was lost in thought, and they must've fallen off.",
+            "choice_data_list": [
+                "No problem, I'll bring them up to you!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "You will? That'd be much appreciated!"
+        },
+        {
+            "text": "I carry the glasses up to the classroom where the student is waiting."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Good... The hinges move without issue. And the lenses appear to be\nunblemished."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "These are tailor-made for racing. Naturally, their material is able to\nwithstand quite a bit of wear and tear."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Meaning, in theory, the fall from only a second-story window should\nnot damage them."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "However, the possibility remained that a runner might inadvertently\ntrample them. Your assistance, though, reduced that chance to zero."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You have my thanks. Now I will not be hindered tomorrow.",
+            "choice_data_list": [
+                "What's happening tomorrow?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, with that badge on your collar, I suspect you're a trainer. Then\nI'm sure you are well aware of the tryouts tomorrow."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's where Umamusume aiming to debut will exhibit their abilities\nto trainers in the hopes of being scouted."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And in the tenth race, I—Biwa Hayahide—will be participating."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Rather, I <i>must</i> participate. There is something I have to accomplish in\nthe Twinkle Series."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So, needless to say, I will seize this opportunity for victory—and my\nchance to make my debut."
+        },
+        {
+            "text": "Although she speaks calmly, I feel her unwavering confidence, her\neyes smoldering with iron will."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I suppose... I can reveal one thing.",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In tomorrow's race, I'll stay near the lead until the final corner. The\nfront pack will be tightly grouped together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Following the last turn, I'll pass them from outside."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Then I will gain a lead of no less than ten lengths—and place first.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That is the result I've derived from my calculations. Whether it proves\ntrue or not... you should confirm tomorrow with your own eyes."
+        },
+        {
+            "text": "Biwa Hayahide's calculations are both composed and daring at the\nsame time. But will the outcome really be as she predicts?"
+        },
+        {
+            "text": "Having grown curious, I come to see the tryouts the next day to see\nhow her races pan out."
+        },
+        {
+            "name": "Caster",
+            "text": "The racers are in a heated battle right out of the gate! The spotlight's\non Biwa Hayahide, who's gotten a favorable position in the front!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "All according to my predictions."
+        },
+        {
+            "name": "Caster",
+            "text": "The front pack is heading into the third corner! It's a close fight\nbetween the leaders!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Three... two... one."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Time to confirm my calculations!"
+        },
+        {
+            "name": "Caster",
+            "text": "They're out of the corner and into the final straight! Biwa Hayahide\ncomes in from the outside! Biwa Hayahide takes the lead! She's two\nlengths ahead! Now three!"
+        },
+        {
+            "name": "Caster",
+            "text": "And Biwa Hayahide places first! She wins it by a landslide! What an\noverwhelming victory!"
+        },
+        {
+            "text": "I feel a chill run down my spine as I watch Biwa Hayahide's prediction\nplay out word for word!"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Wow, that was some show, Biwa Hayahide! You had plenty to\nspare—almost like you had it all planned out."
+        },
+        {
+            "name": "New Trainer",
+            "text": "Hm? Hey, look! Is that who I think it is?!"
+        },
+        {
+            "text": "Such formidable abilities should be getting Biwa Hayahide scouting\nrequests from all sides. But suddenly, an unexpected visitor arrives..."
+        },
+        {
+            "name": "???",
+            "text": "Nice run."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, it's you, Brian. Here to spectate?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I was just passing by."
+        },
+        {
+            "name": "New Trainer",
+            "text": "I knew it! It's the Beast, Narita Brian! I've heard she's pretty elusive,\nbut here she is—right in front of me!"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Holy hotcakes, what am I waitin' for! Brian! I'd love to have a talk!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch, the rats are squeaking... Later, Sis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "One moment, Brian. You appear... thinner than usual."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Are you not meeting your dietary requirements? Is your nutritional\nintake sufficient?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Lay off of me. I'm eating just fine."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm. I think I understand. The recent changes to the cafeteria menu\nare not to your liking."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You've always been far too picky an eater. Listen, our energy\nconsumption is exceptional, and—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ugh! You're so bigheaded about everything!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What?! M-my head is NOT large! To the contrary, it is of average\nproportions... Brian!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Goodness... She can be so stubborn."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Wait up, Brian! The Triple Crown sure would look glorious on you!\nAnd I can help you get it!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There is still room to improve my theories."
+        },
+        {
+            "text": "It turns out that Biwa Hayahide, who runs with calculated precision, is\nalso the older sister of the racer dubbed the \"Beast.\""
+        },
+        {
+            "text": "Strangely, I find myself drawn to her. I feel a growing curiosity within\nme, wanting to know more about this intriguing runner."
+        }
+    ]
+}

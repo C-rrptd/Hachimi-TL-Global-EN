@@ -1,0 +1,62 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a day out with Copano Rickey..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, Trainer! Hold on a moment!",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Over there! It's one of those cuties machines!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Copano Rickey is pointing\nand see a claw machine filled with Umamusume\nplushies."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "They're sooo cute. If I got a bunch of them, I bet\nmy sisters would be super happy!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I haven't had the chance to spend much time with\nthem since coming to Tracen Academy. They must\nbe feeling pretty lonely."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All right! I'm gonna give it a shot! Presents, here I\ncome!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Argh! I can't catch a single one... This game is\nreally difficult..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'll have to throw in the towel. I'll study up on how\nto play and try my luck another day.",
+            "choice_data_list": [
+                "Looks like it's my time to step up!",
+                "Looks like it's my time to step up!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, are you going to win some for me?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ehehe, thanks! Here's hoping you get a whole\nbunch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

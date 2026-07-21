@@ -1,0 +1,34 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan and I are having a meeting when..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yikes... My nails have gotten way too long.\nThere's so much natural nail showing.",
+            "choice_data_list": [
+                "You're not going to get them done again?",
+                "You're not going to get them done again?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "In what free time? All I do is race, race, race."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I keep on top of my toenails, but... my\nfingernails? Well, I guess like this is better than\nnothing."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's lame, but oh well... <i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "For someone who's always so particular about her\nnails, this is a rare sight. She must really be\nfatigued. It might be a good idea to take another\nlook at her race schedule."
+        }
+    ]
+}

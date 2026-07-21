@@ -1,0 +1,103 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I catch sight of Tosen Jordan as I'm\nwalking by the dance studio."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Five, six, seven, eight!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "All right! Not a single mistake!",
+            "choice_data_list": [
+                "Great job!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, keep your voice down! I'm making a video\nhere!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, she walks over to her phone to stop\nrecording."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whatever, it's fine. I guess I can just cut the bit\nwith you talking. I'll upload it later.",
+            "choice_data_list": [
+                "I thought you were practicing for winning\nconcerts."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nah, I was making stuff for UmaTok."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, it's kinda like practice, right? I can't\nafford to be cringe when I'm dancing."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "There's, like, so many good dancers, you know?\nEveryone is sooo cute!",
+            "choice_data_list": [
+                "Well, you can't let them outdo you!",
+                "Well, you can't let them outdo you!",
+                "You're no slouch yourself, Jordan!",
+                "You're no slouch yourself, Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "There's, like, so many good dancers, you know?\nEveryone is sooo cute!",
+            "choice_data_list": [
+                "Well, you can't let them outdo you!",
+                "Well, you can't let them outdo you!",
+                "You're no slouch yourself, Jordan!",
+                "You're no slouch yourself, Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hold on. Don't go projecting onto me, okay?\nThat's not what this is about."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "And hold up. The way you said that, it's almost\nlike..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You make it sound like I'm losing right now... or\nwhatever..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah... never mind! Anyway, show's over. Get out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I'm leaving, I hear her mutter, \"Just you\nwatch!\" But I decide not to mention that I heard\nanything."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What's up with you all of a sudden? I don't need\nyou to flatter me.",
+            "choice_data_list": [
+                "I wasn't flattering you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Cut it out already! Enough! You're making it super\nawkward!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Go and stand over there! I can't focus!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tosen Jordan makes a bit of a commotion at first,\nbut she follows it up with some sharp dance\nmoves."
+        }
+    ]
+}

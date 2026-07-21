@@ -1,0 +1,256 @@
+{
+    "title": "A True Hero Never Fights Alone",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Agnes Digital",
+            "text": "The big blue sky, fluffy white clouds... The summer of my youth!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "It's the summer camp! I'm gonna train like CRAAAZYYY! And then,\nand THEN..."
+        },
+        {
+            "name": "Peppy Umamusume",
+            "text": "Hey, I heard there's a festival tonight! Let's go check it out after\ntraining. It'll be so fun! ♪"
+        },
+        {
+            "name": "Snippy Umamusume",
+            "text": "Who said I'm going with <i>you?</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Mmnmsgh, that was a lucky catch. What a perfect start to the camp."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wait, no! I've gotta get ready for practice!",
+            "choice_data_list": [
+                "Without fangirling? Not even a little?",
+                "Without fangirling? Not even a little?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I appreciate the consideration, but nope, I'm fine! I'll go get prepped!"
+        },
+        {
+            "text": "...Something feels off. I'm not sure what's wrong, but it happens again\nduring practice."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whew... Hey, Trainer! I just finished all my laps up and down the\nbea..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah! Those two Umamusume over there are that pair of rivals\neveryone's been talking about! The two that seem like mortal enemies\non screen but then they've actually got this super adorable awkward\nfriendship budding in real life!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fwahaha, and now they're checking out the shops together... Oh no!\nThe little black-haired one just slipped!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But nooo! The other one catches her by the hand with cyborg-like\nprecision! A-and neither one of them lets go! Are they gonna keep\nwalking like that... oh my gosh! Aaa?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nnnnmsdlk... Hrrnnaksdlajh!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Whew. Almost lost my composure there. I swear I felt my soul\nleaving my body for a second."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Anyways! C'mon, Trainer! Let's get back to practice!",
+            "choice_data_list": [
+                "We've got time for a break if you wanna let out\nthe otaku talk.",
+                "We've got time for a break if you wanna let out\nthe otaku talk."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wha?! N-no, no, no, nope! I'm okay! Let's keep powering through the\ntraining! Now!"
+        },
+        {
+            "text": "And then it hits me. The festival! Maybe she's trying to finish practice\nearly so she can go simp.",
+            "choice_data_list": [
+                "When we're done, do you want to head to the\nfestival?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah! Aaaaah! I'd love to! I can't wait!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So, which stalls should we hit first? I'm cool doing whatever you—"
+        },
+        {
+            "name": "Underclassman",
+            "text": "Heeey! You've gotta try this shaved ice! They're so artsy, and they've\ngot some crazy flavors!"
+        },
+        {
+            "name": "Upperclassman",
+            "text": "Ahaha! You should see your tongue! It's super bright blue."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Phew."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "S-so like I said, where to?! What do you wanna see?"
+        },
+        {
+            "text": "The Agnes Digital I know would've stood there staring \"respectfully\"\nfor minutes. There's <i>definitely</i> something up, so I pull her aside to\ncheck if everything's okay."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh? The beach? I thought you wanted to see the festival.",
+            "choice_data_list": [
+                "Maybe later. Are you feeling okay, Digital?",
+                "Maybe later. Are you feeling okay, Digital?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Me? I-I'm fine. Why do you ask?",
+            "choice_data_list": [
+                "Because you've been avoiding fangirl stuff all\nday.",
+                "Because you've been avoiding fangirl stuff all\nday."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "What? I'm not avoiding anything! I just wanted to, um..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I wanted to try doing what <i>you</i> want! That's all.",
+            "choice_data_list": [
+                "What I... but why?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I dunno... You always listen to me ramble, and you let me drag you all\nover the place."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Having you around supporting my interests has made every day so\nmuch brighter—like I'm living some kinda fangirl dream!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I don't know what I'd do without you. I don't think I could go back to\nsimping alone!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So what I'm trying to say is... you're my partner."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "My otaku partner in crime!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "There are so many Umamusume out there, running every day with\npassion in their hearts. This is their era—the height of Umamusume\nracing is NOW."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Everywhere I look, I see beautiful, dazzling Umas! I could die of moe\nany second, but I won't back down. Love is war."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I'll be their strongest soldier. 'Cause I know that even when my heart's\nready to burst, you have my back. The joy of simping is ours to share."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "We're partners—through thick and thin."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But when I stopped to think about it, when have I had <i>your</i> back?\nWhen have I supported you? Never—I've just been getting hard\ncarried this whole time!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And I'm not having that! I decided I'd be there to share your interests\nand help you chase your dreams!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So go ahead and fire away! I'll support you one hundred percent!"
+        },
+        {
+            "text": "While I'm flattered... I don't want this to be at the expense of\nDigital's interests."
+        },
+        {
+            "text": "After all, her unending passion for Umamusume is what inspired me to\nscout her."
+        },
+        {
+            "text": "I think my dream is probably...",
+            "choice_data_list": [
+                "I just want to see you smile.",
+                "I just want to see you smile."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...What? Wait, <i>my</i> smile? Why would you—"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Do you feel that?! The <i>passion</i> radiating from all those beautiful\nUmamusume?! Their smiles just fill my heart with so much joy!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You, you see me... the way I see my oshis?",
+            "choice_data_list": [
+                "Mm-hm.",
+                "Mm-hm."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh? A wallflower like me? I don't... understand. I'm struggling to\nwrap my head around this, but..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I-I'm glad... I'm honored."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Why'd you have to make things all awkward?! Like, you know that\nfeeling when you get a really heartfelt comment on a joint fic from\nanother fanartist?",
+            "choice_data_list": [
+                "I'm not sure I'm following..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hrrnnngh! Anyways!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...I won't hide my simping! I'll keep worshipping my oshis! And I'll do it\nwith the biggest smile you've ever seen!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And with that settled, let's hurry and find some Umamusume to cheer\non from the shadows! Got any ideas where to look?",
+            "choice_data_list": [
+                "The festival dances? Or maybe there are a few\nout doing a test of courage in the dark..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oooh! Nice thinking, Trainer! Umas dancing side-by-side... or getting\nscared and accidentally h-holding hands!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aaasdjkh—Oh no, I'm getting excited just imagigingnsjkladarrgh!\nWhat're we doing standing around here?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "We've got simping to do, Partner! And I've got your back!"
+        }
+    ]
+}

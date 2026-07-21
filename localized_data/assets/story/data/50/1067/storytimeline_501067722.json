@@ -1,0 +1,42 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Ugh... It's raining again today.",
+            "choice_data_list": [
+                "You're looking a little under the weather.",
+                "You're looking a little under the weather."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yeah... I have a bit of a headache... It's been\nraining a lot lately, so it may have something to\ndo with the air pressure..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...No, I can't be weak! I'll break that jinx and\ncheer right—"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ngh, ouch!",
+            "choice_data_list": [
+                "Take care of yourself.",
+                "Take care of yourself."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "R-right... Ugh. Is there no way to get ahead of\nnature?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Nnng... I'm sorry, but I might go lie down for a\nbit..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't like rain to begin with, so I'm sure the\nweather is only making her headache worse.\nHopefully it clears up soon..."
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "title": "ZETTAI！トップ☆ウマドル！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As promised, I contact Smart Falcon's teachers, notifying them that\nshe'll be taking the day off. Together, we then head to Oi\nRacecourse.",
+            "choice_data_list": [
+                "We're watching a dirt race today."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ohhh, now I get it... but why today? It's not like any big races are\ngoing on, and there aren't that many people either."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You're trying to show me how great dirt racing can be, right? If that's\nthe case, why not take me to a more important race?",
+            "choice_data_list": [
+                "Just watch. You'll see what I'm getting at."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The competition is incredibly fierce today. Covered in dust from head\nto toe, every runner gives their all in the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "They fight to eke out every last bit of strength in their bodies. The\nsight is the furthest thing from pretty, and yet—"
+        },
+        {
+            "name": "Spectators",
+            "text": "C'mon! You can do it! Let's goooo!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah! Oh no! Look out! She's gonna—ahhhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Captivated by the runners' passion to win, the small audience erupts\ninto a cacophony of roars. Eventually..."
+        },
+        {
+            "name": "1st Place Umamusume",
+            "text": "<i>Pant... pant...</i> Thank you all for cheering so hard for me! I really\nappreciate the support!"
+        },
+        {
+            "name": "1st Place Umamusume",
+            "text": "<i>Pant... Phew...</i> All right, let's finish the day with a smile! Next up, our\nwinning concert! As for the song we'll be singing..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wow... That was amazing! Like, beyond awesome even! And their\nconcert was fantastic too!",
+            "choice_data_list": [
+                "It sure was.",
+                "It sure was."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "All the runners looked like they were about to pass out... but they\npushed through and kept going! Even though they got covered in\ndirt, they shone like stars with the way they rushed across the track—"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh... I think I get it now. An Umadol shines brightest when she's\ndoing her best and running with everything she's got!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Their concert was all the more moving because of how hard they\nworked to get there. They're exactly the kind of Umadol I want to be\nsomeday!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I guess it doesn't matter if the course is turf or dirt. You can inspire\nyour fans either way! How could I have been so blind to that?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I just assumed that I wouldn't be able to move my audience if I ran in\ndirt races, but I couldn't have been more wrong! <i>Sigh...</i> I'm honestly\ndisappointed in myself...",
+            "choice_data_list": [
+                "So you've changed your mind about running in\ndirt races?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, for the moment, all I can say is... I'm glad I was able to watch\ntoday's race. I learned something important, and I also had a lot of\nfun!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But I wouldn't have realized these things without outside help... It's\nstill a fact that people don't care as much about dirt races, so these\nwinning concerts probably fly under the radar."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And because they don't feature top runners, they'll stay unnoticed... It\nfeels like such a shame.",
+            "choice_data_list": [
+                "Then all you have to do is raise the ceiling."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? What do you mean?",
+            "choice_data_list": [
+                "There's more to dirt racing than just being\n\"suited\" for it, right?",
+                "There's more to dirt racing than just being\n\"suited\" for it, right?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh... I get it now!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You're right! All I need to do is make dirt racing a place for top racers\nthrough my running, singing, and dancing!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'll make it so more people want to run in and watch dirt races! I'll\nchange the racing world!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wait... Isn't that super hard? Like, harder than just becoming a\nworld-class Umadol?",
+            "choice_data_list": [
+                "Maybe.",
+                "Maybe."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahaha... I guess I shouldn't give up just 'cause it's going to be a\nchallenge, right? All that means is that I need to try harder than ever!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But it doesn't matter how hard I try if nobody knows who I am! So the\nfirst step toward my goal is to make myself known to the world!",
+            "choice_data_list": [
+                "Keep it up, and your day will come!",
+                "Keep it up, and your day will come!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "\"Keep it up?\" I've gotta go above and beyond or nothing will change!\nEspecially in the marketing department! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I shake my head. What she doesn't know is that she's already making\ngood progress. After all...",
+            "choice_data_list": [
+                "I became your number one fan for a reason!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I remember when I first laid eyes upon her. Her lone figure sparkled\nunderneath the evening sun as she danced and sang before a\nbackdrop of vibrant orange."
+        },
+        {
+            "name": "Monologue",
+            "text": "No one was watching. No one was listening. And yet, she smiled wide\nand sang as if reaching out to an audience of thousands."
+        },
+        {
+            "name": "Monologue",
+            "text": "She filled me with hope and courage, and I wouldn't trade her for\nanyone else in the world."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh wow..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Okay, I've got it! I know what I want to do about my next tryout race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few months go by, and the first batch of tryouts since I started\ntraining with Smart Falcon rolls around."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "All right, I'm gonna head out now! ☆ I'd better hear you cheering me\non! ☆"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Who's the new face? She looks incredibly excited... I don't think I've\never seen her in a dirt race before.",
+            "choice_data_list": [
+                "(Prepare to be surprised.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The crowd's attention quickly shifts to the more high-profile runners.\nBut that's exactly what we need for her to stand out."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Phew... Hiyaaaa! ☆☆☆"
+        },
+        {
+            "name": "Trainers",
+            "text": "Wha... Whoa, she's fast!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon kicks up a storm of dust, widening the gap between her\nand the other runners at an incredible speed. All eyes lock onto her."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahaha, it's so easy to run on dirt! But I knew that! I've always known\nthat! This..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This is my stage! This is where I shine brightest! And I'm finally ready\nto sparkle! ☆☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon runs as freely as a bird soaring through the sky. The dirt\ncourse is hers for the taking, and no one else even comes close."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I did it! I won! ☆☆"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "H-hey! Can I talk to you for a minute! Who even are you?! And where\nhave you been all this time?! Are you looking for a trainer? If you\nare..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Awww, am I famous already? ☆ Sorry, but I'll have to get back to you\non that!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, there you are! I was looking for you!",
+            "choice_data_list": [
+                "Nice job."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thanks! ☆ Hey, how was I? Did I light up the track?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehehe... I'm glad. Anyway, let's talk. There's something I've been\nmeaning to ask you, so listen carefully, okay?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Will you be my trainer and help me become the best Umadol I can\nbe?",
+            "choice_data_list": [
+                "Of course, Falco! Let's do it!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehehe! Thanks so much! ☆☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Now that that's settled... Hello, my fans—both old and new! I'd like to\nintroduce myself one more time! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What do you do when Falco runs?! (Chase her! Chase her!) Catch me\nwith hearts full of love! ☆ I'm Smart Falcon, and I'm the cutest Umadol\naround! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "My dream is to become dirt racing's top Umadol! And in order to\nmake my dream come true, I need your support! So please..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Show me your love and catch me if you can! ☆ Ehehe! ♪"
+        }
+    ]
+}

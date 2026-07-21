@@ -1,0 +1,242 @@
+{
+    "title": "始まらない私",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I really am just cursed with the worst timing..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I finally discovered a great runner to scout at the latest round of\ntryout races, but before I had a chance to even call out to her, she\nhad made a contract with another trainer.",
+            "choice_data_list": [
+                "<i>Sigh...</i> It's so over..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Wow, now that was a <i>huge</i> sigh.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "Haha! My bad, my bad! Did I scare ya? I was just catchin' some Z's\nover there in the shade, so I couldn't help but notice."
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "And it's so over, you say? Wanna chat about the impending calamity?\nI bet just talkin' about it will take a load off.",
+            "choice_data_list": [
+                "No, I couldn't burden a student with something\nlike this..."
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "Oh I see, I see, that so? Guess you're having trouble on the job, then.\nOr maybe you peeped some kinda deep dark secret that the\nacademy's trying to hide?!",
+            "choice_data_list": [
+                "Uh... It's the trouble on the job thing."
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "Hahaha! Okay, yeah, makes sense. Bein' a trainer does seem pretty\ntough. Do you have a trainee you're looking out for at the moment?",
+            "choice_data_list": [
+                "W-well, there was someone I was interested in..."
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "Oh? So you missed your shot at a protégé, then. What else is buggin'\nya?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Little by little, she gets to the core of my struggle. I have to admit\nthat I can feel the weight lifting from my shoulders with each passing\nquestion."
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "So now that you've relaxed a bit, why not check out the next round of\ntryouts?",
+            "choice_data_list": [
+                "Thanks. I'll do just that."
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "Hehe, I'll be lookin' for ya, then! Cuz get this—I'm gonna be running\nin it!"
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "And not just that—it's gonna be my very first time! Piques your\ninterest, yeah? Or not! Listen to me try to give a sales pitch! Come on\nout if you feel like it, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "She tells me all of this with a playful smile. I can't help but feel a little\nintrigued.",
+            "choice_data_list": [
+                "Sorry, I didn't get your name.",
+                "Sorry, I didn't get your name."
+            ]
+        },
+        {
+            "name": "Cheery Umamusume",
+            "text": "What, you wanna know? The name's—"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "I bet everyone's got their eyes on Mejiro Ryan today! She looks to be\nin great form, too. I'm expecting great things!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Yeah, and that girl next to her is also a Mejiro, right? Mejiro...\nsomething or other... She's looking kind of slack in comparison.",
+            "choice_data_list": [
+                "(Her name is Mejiro Palmer.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Umamusume I met on the rooftop that day is a member of the\nprestigious Mejiro family."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Mejiro family is quite renowned for fostering Umamusume of\noutstanding repute."
+        },
+        {
+            "name": "Monologue",
+            "text": "Among the current generation are talented runners like Mejiro Ryan\nand Mejiro McQueen. They've created quite the buzz ever since\njoining the academy."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh hey, you came! Looking forward to hearing some cheers, 'specially\nsince I'll be running my butt off!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Don't think I'll be getting nearly as much attention as Ryan, though.\nHaha, couldn't even begin to match her, really."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But yeah, just you watch. I'm a Mejiro too, after all. I'm gonna show\neveryone today that I'm worthy of bearing the name.",
+            "choice_data_list": [
+                "S-sure. I'll be cheering for you!",
+                "S-sure. I'll be cheering for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She remains just as upbeat as she was earlier, but I can sense the\ntiniest bit of unease in her expression. With that, she takes her place\nat the starting gate."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer runs in the lead. At a glance, it does look as if she's\nadopted a model winning strategy.",
+            "choice_data_list": [
+                "(So this is the form of a Mejiro lady, huh?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But as the race nears its end..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Now! Haaa!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff... huff...</i>",
+            "choice_data_list": [
+                "(Wait, Palmer?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's steadily passed by many runners making their final spurts for the\nfinish. I can see the struggle in her expression as that wonderful form\nbegins to fall apart."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's almost like she's running <i>too</i> by the book, and playing it safe.",
+            "choice_data_list": [
+                "(She's tensing up...)",
+                "(She's tensing up...)"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Pant... pant...</i> Ahhh, you're kidding! Last place?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "What're they gonna think of me? That wasn't Mejiro-like at all!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "I knew you'd easily take first! The Mejiro name really means\nsomething, huh? Do you mind if I had a word?"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Yep, you're a Mejiro through and through! We could use someone as\nstrong as you on our team!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, uh... I'll get to you all, but can we talk over there? We'll clog\nup the stands otherwise."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Heh... Haha! Why was I so worried about living up to the Mejiro\nname? It's not like anyone was even calling <i>my</i> name!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Seriously, I got way too worked up about all this. How am I gonna\ndisappoint anyone if they aren't even acknowledging me to start?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Honestly...",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, uh... Haha! Hey hey! Enjoy the race? End up spotting anyone\nyou're interested in? I bet Ryan's at the top of your list, yeah?",
+            "choice_data_list": [
+                "That's not—"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Don't worry about it, I get it. The Mejiro family is brimming with so\nmuch other talent, it's only natural that someone like me isn't on\neveryone's radar."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But it's not like I'm giving up or anything, ya know? If I don't have\nwhat it takes to stand out now, then I've got no choice but to kick it\ninto even higher gear. No time to get all emo and stuff!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Gonna get back to training right after this, actually. I'll start back at\nthe basics and build more stamina, and—",
+            "choice_data_list": [
+                "Is that really what you need to be doing?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "What I witnessed during that race was surely a sense of pressure.\nPressure to run \"like a Mejiro.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "As a result, her running felt stiff. It's fine to run while staying true to\nthe basics, but... In truth, that doesn't suit everyone.",
+            "choice_data_list": [
+                "I bet there's a running style more suited to you.",
+                "I bet there's a running style more suited to you."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? A style more suited to me? What does..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...Oh uh, thanks! I'll have to think about that then."
+        }
+    ]
+}

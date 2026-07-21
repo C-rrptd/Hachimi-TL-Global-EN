@@ -1,0 +1,45 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "King Halo is having some trouble during\npractice..."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant... pant...</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh... Why was it... so hard to breathe... midway\nthrough..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Such a feeble stride is unbecoming a king...",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, yes... I'm fine. It's... not a problem."
+        },
+        {
+            "name": "King Halo",
+            "text": "A first-rate runner does not fall apart from such\ntrivial loads. There must be something else\nwrong..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Next time, I'll show you what a truly powerful\nstride looks like!"
+        },
+        {
+            "name": "Monologue",
+            "text": "However, even after saying that, King Halo still\ncan't find her usual vigor."
+        },
+        {
+            "name": "Monologue",
+            "text": "The repeated races may be taking a toll on her. I\nthink we need to make some changes to her\nschedule..."
+        }
+    ]
+}

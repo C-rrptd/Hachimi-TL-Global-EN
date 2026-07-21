@@ -1,0 +1,74 @@
+{
+    "title": "ツいてるツいてる♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I head into town with Copano Rickey to\ndo some shopping, however..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooosh... Splat!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Wha?! Bird poop landed on my shoe?!",
+            "choice_data_list": [
+                "That is... quite unlucky.",
+                "That is... quite unlucky."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Haha, not at all! If I wipe it clean, there'll be no\nmore problems!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "If anything, now I'm extra motivated to give my\nshoes some care. That's lucky! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It all comes down to your mindset! Feng shui is all\nabout positive thinking and always showing\ngratitu—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "name": "Flower Shop Staff",
+            "text": "AAAH! I'm <i>so</i> sorry! I didn't see you coming as I\nwas throwing the water!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey gets completely soaked. We\nmanage to dry her clothes afterwards, but still...",
+            "choice_data_list": [
+                "It's one misfortune after another...",
+                "It's one misfortune after another..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hmm... well, what I said before still stands. It's all\nabout keeping a positive mindset!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "At least my shoes got a free wash! I need to stay\nthankful and happy! Positivity attracts fortune\nafter all! ♪"
+        },
+        {
+            "name": "Store Clerk",
+            "text": "We have a special deal today! All customers who\norder a limited-time honeyade will also receive a\ncoupon for one free regular-size honeyade!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Wow, they're offering a promotional deal! That's\nsuper lucky, right?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Being positive <i>is</i> the best way to raise your luck\nafter all! Excuse meee, one limited-time\nhoneyade, pleeease!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like her feng shui-fueled optimism\nbrought her a little luck. We both smile as we\ndrink our honeyade together."
+        }
+    ]
+}

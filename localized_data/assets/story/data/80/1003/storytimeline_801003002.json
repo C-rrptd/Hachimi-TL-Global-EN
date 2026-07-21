@@ -1,0 +1,66 @@
+{
+    "title": "ボクの武器",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm gathering reference materials\nfor races in the school library..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, wait! I wanna read that magazine too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm pretty sure it's got an article about that race\nwhere Prez stayed in the lead the whole time. ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Maaan, I wish I could run like Prez..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I feel like I don't get going until the final corner...\nBut you can never have too many tricks up your\nsleeve, right?",
+            "choice_data_list": [
+                "Yeah, people who can do it all are so cool!",
+                "Yeah, people who can do it all are so cool!",
+                "I think you have plenty of weapons up your\nsleeve already.",
+                "I think you have plenty of weapons up your\nsleeve already."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I feel like I don't get going until the final corner...\nBut you can never have too many tricks up your\nsleeve, right?",
+            "choice_data_list": [
+                "Yeah, people who can do it all are so cool!",
+                "Yeah, people who can do it all are so cool!",
+                "I think you have plenty of weapons up your\nsleeve already.",
+                "I think you have plenty of weapons up your\nsleeve already."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You think so too?! Ahaha, we're like two peas in a\npod!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's gonna be tough going, but I'm gonna do my\nvery best to become just like Prez!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Tokai Teio runs off like a kid\nhyped up on candy. Looks like I managed to\nkindle her motivation."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Really?! Hehe! Well, it <i>is</i> me we're talking\nabout! ♪ I gotta say, you have a good eye!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! I'm gonna polish up the weapons I've\ncurrently got!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Later!"
+        }
+    ]
+}

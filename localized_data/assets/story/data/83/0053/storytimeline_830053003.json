@@ -1,0 +1,150 @@
+{
+    "title": "教訓之三：今を生きろ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, I'm back on set helping out with Taiki\nShuttle's movie."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We're finally shootin' the action-packed climax!\nYou better believe I'm gonna nail this\nperformance!"
+        },
+        {
+            "name": "Director",
+            "text": "We've come a long way, everyone! Today's a\nreally important day on set, so let's do our best\nand get it just r—"
+        },
+        {
+            "name": "Director",
+            "text": "Is that... rain?! You've gotta be kidding me!\nEveryone, quick, pack up the set!"
+        },
+        {
+            "name": "Camera Crew Member A",
+            "text": "Looks like it's letting up for now, but it might\nstart up again. It's gonna be hard to shoot an\naction scene in these conditions."
+        },
+        {
+            "name": "Camera Crew Member B",
+            "text": "It'll be even tougher if we have to postpone the\nshoot. We're at the end of our rope for both the\ndeadline and our budget.",
+            "choice_data_list": [
+                "(Things are looking pretty dire...)",
+                "(Things are looking pretty dire...)"
+            ]
+        },
+        {
+            "name": "Director",
+            "text": "Okay, everyone. We're going to have to do this in\none take. It's an action scene where a single\ngunshot makes all the difference..."
+        },
+        {
+            "name": "Director",
+            "text": "So let's use <i>our</i> single shot to nail it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "A standoff under stormy skies! Awesome! Let's get\nthe cameras rollin', y'all!",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Camera Crew Member",
+            "text": "Here we go!\nRolling in ten, nine, eight, seven..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "(It's all or nothing. Heh... My legs are startin' to\ntingle. I know this feeling...)"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heheh. It's just like steppin' up to the starting\ngate. Standin' in front of a strong enemy and\nspinnin' the chamber of your revolver."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I just gotta seize the day. Be in the now, with all\nmy being, focused on what's at hand..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Time to step up and enjoy the challenge!"
+        },
+        {
+            "name": "Camera Crew Member",
+            "text": "Action!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kapow! Kapow!</i>"
+        },
+        {
+            "name": "Camera Crew Member",
+            "text": "Oh, wow... Look at Taiki's expression...",
+            "choice_data_list": [
+                "(She's really in the zone...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mud flies as Taiki Shuttle powers through the\nscene with a look of grim determination on her\nface, when suddenly...",
+            "choice_data_list": [
+                "(Oh no!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle steps into a deep puddle of mud and\nstaggers drastically. However..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw!",
+            "choice_data_list": [
+                "(She caught herself?! Talk about power!)",
+                "(She caught herself?! Talk about power!)"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hahaha! I almost wish I could enjoy this forever!\nBut I'm afraid this is the end of the line!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kapow!</i>"
+        },
+        {
+            "name": "Enemy Gunman Actor",
+            "text": "Hrngh... Ngh... D-damn it all... I thought I had you\ndead to rights there..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hands up, crook.\nYou're finished."
+        },
+        {
+            "name": "Director",
+            "text": "...! Cuuut!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having focused all of herself into the now, Taiki\nShuttle delivers a jaw-dropping performance. And\nwith that, the shooting's all wrapped up."
+        },
+        {
+            "name": "Film Festival Presenter",
+            "text": "And the award for this year's best student film\ngoes to... entry number two, <i>Gunfight at the\nYasuda Corral</i> !"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeeeeesss!\nCongrats, Director!"
+        },
+        {
+            "name": "Director",
+            "text": "W-we did it! We actually did it, Taiki!",
+            "choice_data_list": [
+                "Congratulations for real this time!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right! I can't contain myself! We're havin' a\ndance and brisket party tonight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Beneath Taiki Shuttle's cheerful energy is an\nUmamusume of strength and intensity. I'm glad I\ngot to participate in the film and see a new side\nto her."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "title": "乙名史記者の徹底取材",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On my way back to the waiting room after the\nrace, a reporter corners me."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Thank you for taking the time to speak with me.\nI'm Etsuko Otonashi from <i>Twinkle Monthly</i>."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I had the pleasure of watching the race firsthand,\nand I'd just like to commend you on all your hard\nwork."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It's a shame she didn't get first place, but your\ntrainee really put her unique personality on full\ndisplay with her performance."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So, Trainer, how do you intend to steer your ship\nback on course?",
+            "choice_data_list": [
+                "We are carefully considering our current\nsituation.",
+                "We're just gonna keep pushing forward!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "How interesting..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "More flexible regimen, confer with the director\nabout anything the academy lacks... All for the\nsake of the Umamusume."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Taking your results in stride while looking ahead\nto your next race—just what I'd expect from a\nTracen trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like I handled that pretty well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I then tell <chrname> about the\nsuccessful interview and praise her hard work."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Is that so? Considering these results, I expected\nto hear somewhat more concrete plans..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Thank you for your statement. I hope you find\nmore success in the next race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like I wasn't able to make a good\nimpression on the reporter..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide not to mention the interview when I go to\npraise <chrname> for her hard work."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "S-simply amazing! I should have expected no less\nfrom a Tracen Academy trainer!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You're saying you simply need to draw out her\ninnate abilities, right?! Of course! All she needs is\na little strategy and experience!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "And now you plan to forgo sleep and devise\ncountless clever stratagems?! Naturally! Anything\nto help your trainee claim victory!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "The deep trust you have for one another—it's\nsimply overwhelming!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "The next feature article is decided! I have to talk\nto the editor-in-chief right away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It feels like my statement was taken way out of\nproportion, but I guess I handled the interview\nwell enough."
+        },
+        {
+            "name": "Monologue",
+            "text": "I then go and tell <chrname> about\nthe interview and praise her hard work."
+        }
+    ]
+}

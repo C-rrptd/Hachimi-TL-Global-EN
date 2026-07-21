@@ -1,0 +1,207 @@
+{
+    "title": "ひと華咲かせてみせやしょう",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "Huh? I've got a scrimmage... today? And at Oi Racecourse too...\nThere's even a crowd!"
+        },
+        {
+            "name": "People from Downtown",
+            "text": "Hehe, Inari!\nYour trainer invited us, so here we are!"
+        },
+        {
+            "name": "Chief",
+            "text": "Can't have a race without some noise. As for the race, think of it as an\nice-breaker. All these runners are gonna be your teammates after all."
+        },
+        {
+            "name": "Inari One",
+            "text": "A little notice woulda been nice! But well, if that's whatcha want me\nto do, I guess I've got no choice."
+        },
+        {
+            "name": "Chief",
+            "text": "Good, that's the spirit. Now... go get changed."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the race Inari One's trainer wanted me to come see is a\nscrimmage between her and her new teammates."
+        },
+        {
+            "name": "Monologue",
+            "text": "Scanning my surroundings, it looks like he called together a number\nof locals as well. Everyone from the soba shop owner to that feisty\nalley cat is here..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And every one of them smiles warmly as Inari One leaves the gate."
+        },
+        {
+            "name": "Inari One",
+            "text": "(A scrimmage with all the other newbies, huh? I get where he's comin'\nfrom, but he couldn't have told me sooner? This isn't somethin' you\nshould just spring on someone last minute. Urgh...)"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "<i>Huff, huff, huff, huff!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Ah, get your head outta the clouds! Pretty soon here she's gonna\nlose steam, and then I'll—)"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Urrrauuugh!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Huh?! She's... speeding up!)"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "I, uh... I ended up in fifth, so I guess my stamina still needs some\nwork..."
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "<i>Huff! Huff! Wheeze!</i> GRRRAAAUUUGH!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Hey, hey! She's... she's like a totally different runner!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ngh... Oh no, you doooon't!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Hnnngh! I'm not done... I'm not done yeeeet!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A shock to us all, Inari One seems to be losing the battle of fighting\nspirit! With only two hundred meters to go, at this rate, she's going to\nlose!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As that fear flashes through my mind, my mouth opens on its own...",
+            "choice_data_list": [
+                "Inari One! You can do iiiit!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...!"
+        },
+        {
+            "name": "Inari One",
+            "text": "GRRRAUUUGH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her opponent is on her tail the whole way... but in the end, Inari One\nwins by a nose."
+        },
+        {
+            "name": "Both",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "AAAUGH! Darn it aaall! I lost agaaain!"
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Huff... Huff...</i> N-now wait a minute... When did you... get so strong?"
+        },
+        {
+            "name": "Chief",
+            "text": "That was a close one... But, well, I think ya get the idea, Inari."
+        },
+        {
+            "name": "Chief",
+            "text": "We don't need ya stickin' around outta obligation. Even without you,\nmy team'll get the crowd goin' just fine..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Huh? Chief, what're ya talkin' about?! I'm s'posed to run on <i>your</i> team\nhere in Oi Raceco—"
+        },
+        {
+            "name": "Chief",
+            "text": "For cryin' out loud, girl, didja think I wouldn't notice?! I can see that\nyou don't wanna be here in your heart of hearts. I'm old, not <i>blind.</i>"
+        },
+        {
+            "name": "Chief",
+            "text": "You want to go to Tracen, right? Hidin' your true desires doesn't suit\nyou, girl."
+        },
+        {
+            "name": "Chief",
+            "text": "If you're a true Edo girl, you'll take on the Twinkle Series, show 'em\nwhat the downtown's made of, and become a racing sensation <i>there!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ch-Chief..."
+        },
+        {
+            "name": "Soba Shop Owner",
+            "text": "He's right, you know! No matter where you're runnin', we'll be cheerin'\nyou on!"
+        },
+        {
+            "name": "Local Shopkeeper",
+            "text": "Show 'em how we do things downtown! Turn that Twinkle stage\nupside down!"
+        },
+        {
+            "name": "People from Downtown",
+            "text": "YEEEAH!\nINARI! INARI! INARI! INARI!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Guys..."
+        },
+        {
+            "name": "Chief",
+            "text": "...Tsk, wipe that gloomy look off your face. Go, you've got transfer\npaperwork to fill out!"
+        },
+        {
+            "name": "Chief",
+            "text": "You've already got a trainer ready to scout you... And I think we both\nknow they had something to do with your victory today."
+        },
+        {
+            "name": "Inari One",
+            "text": "Chief... Yeah. Yeah... you're right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several weeks later..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, hey, hey, guess who's ready to rumble!"
+        },
+        {
+            "name": "Inari One",
+            "text": "The downtown girl ready to throw down! Starting today, Edo girl Inari\nis takin' on all of Tracen Academy! ...Wazzup?",
+            "choice_data_list": [
+                "Inari One! I'm so glad you're finally here!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Just Inari's fine. Full names are for strangers, and no way I'd take on\nthe road ahead with someone I don't trust! Got that, Boss?",
+            "choice_data_list": [
+                "Yeah! Let's show 'em what you're made of!",
+                "Yeah! Let's show 'em what you're made of!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Just Inari's fine. Full names're for strangers, and no way I'd take on the\nroad ahead with someone I don't trust! Got that, Boss?",
+            "choice_data_list": [
+                "Yeah! Let's show 'em what you're made of!",
+                "Yeah! Let's show 'em what you're made of!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You bet! This sparky Oi racer's gonna set fire to the Twinkle Series!"
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "title": "The show must go on",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "I... Uh..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "This is a coincidence. Out for an evening stroll? I, too, am—",
+            "choice_data_list": [
+                "You don't look like you're just out for a stroll.",
+                "You don't look like you're just out for a stroll."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's, well...",
+            "choice_data_list": [
+                "Nervous about the tryouts?",
+                "Nervous about the tryouts?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "N-no, never! I'm the miracle worker! I would never..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, ahem... Excuse me. I didn't mean to raise my voice."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Sigh...</i> How quick I am to lose my composure upon being exposed. I\nstill have much to learn."
+        },
+        {
+            "text": "Smiling at her own consternation, Fuji Kiseki takes a deep breath and\nquietly continues."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The tryouts are special."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "They're a momentous event where runners who've risen to racer status\ntake their first definitive steps toward entering the Twinkle Series."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Make no mistake, it's a far cry from the scrimmage the other day. At\ntryouts, the expectations are as high as the level of each superb\nrunner."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But me? I'm still not..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer, from what you've seen, what do you think of me? Did I\nsucceed in my performance as a naturally talented and confident Fuji\nKiseki?",
+            "choice_data_list": [
+                "That's exactly what I saw."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Then I'm glad. I hope to always be capable of that."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But... the truth is, I still lack many skills."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Today's incident is proof. If I'd been keeping a proper eye out, as I\nshould've been, that student never would have run away."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I... I know I should be resting, but when I think about tomorrow... I\ncan't fathom the thought of sleeping as if everything's fine."
+        },
+        {
+            "text": "Fuji Kiseki's fallen into deep anxiety, making me realize she'll\ncontinue to strain herself so long as she can't shake this dread."
+        },
+        {
+            "text": "I don't know how to make her feel better... What would be the best\nway to raise the spirits of an aspiring entertainer?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So long as there are people hoping for a miraculous race, it is this\nentertainer's mission to give them a show to remember.",
+            "choice_data_list": [
+                "(She needs an audience!)"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh? What is it?",
+            "choice_data_list": [
+                "I know what to do! Just stay here!",
+                "I know what to do! Just stay here!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What? Where—wait, Trainer!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ah, it's you! That look in your eyes... You found Fuji, didn't ya?!",
+            "choice_data_list": [
+                "Yeah, but I need your help.",
+                "Yeah, but I need your help."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? With what?",
+            "choice_data_list": [
+                "We're going to make her feel better."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hmmm... All right, lemme hear the plan."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain the situation to Hishi Amazon, who graciously answers my\ncall for assistance. That's when we get to work."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, Trainer! What could you be—huh?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What is everyone doing here?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nothin' special. This trainer here asked us to come give you a little\nsupport for your tryout race."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "And these kiddos... Too curious for their own good. I told 'em it's\nafter curfew, but they wouldn't have it."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "We heard you were doing supersecret drills! So that's how you're so\ngood! And you're always coming to our rescue too—just like a hero!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's why tomorrow we're going to be on the sidelines cheering for\nyour victory, just like in those superhero shows!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And me too! Your races are always the <i>funnest</i> to watch! I can't wait to\ncheer you on!"
+        },
+        {
+            "name": "Junior Students",
+            "text": "Go, Fuji! You can do it!\nYou're the best, Fuji!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I don't know what to say...",
+            "choice_data_list": [
+                "We all believe in your miracles.",
+                "We all believe in your miracles."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "My miracles...",
+            "choice_data_list": [
+                "Now it's time for you to believe in them too.",
+                "Now it's time for you to believe in them too."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha... You really got me there, Trainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I would never dream of letting down all the younger kids. And... I\nnever will."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So I'm going to smile, stand tall, and... go home."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our efforts pay off, and Fuji Kiseki finally decides to return to her\ndorm room and get some rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "No sooner than I can blink, the next morning arrives, meaning it's time\nfor the tryouts at last."
+        },
+        {
+            "name": "Caster",
+            "text": "They're round the third corner! Coming from far outside is... the Black\nMeteor, Fuji Kiseki! She makes up for her slow start in an instant!"
+        },
+        {
+            "name": "Junior Students",
+            "text": "Go for it, Fujiii!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(Fears still lie within me—I can feel them. I have much to improve on\nif I ever want to live up to my name... In the end, I'm still an amateur.)"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(But! Look at this crowd! I'm in front of a live audience! I will always\nbe proud to be an entertainer—and I will show that to them, right\nhere and now!)"
+        },
+        {
+            "name": "Caster",
+            "text": "Fuji Kiseki has the lead into the final stretch! She's a whopping eight\nlengths ahead of second! What a whirlwind of a solo show!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(Forget the fatigue! Show them you've got enough left to smile! That's\nwhat Fuji Kiseki would do! Now, all that's left is the big finish!)"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "This... is my MIRACLE!"
+        },
+        {
+            "name": "Caster",
+            "text": "And Fuji Kiseki takes fiiirst! The crowd is roaring with applause for\nthat astounding performance!"
+        },
+        {
+            "name": "Junior Runner C",
+            "text": "Fuji Kiseki... Thank you so much for that amazing race. I remember\nnow... my motivation—and my dream!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Phew... I'm completely exhausted. You know, I'm a bit of a stranger\nwhen it comes to muscle soreness, but this time I'm afraid of what\ntomorrow will bring.",
+            "choice_data_list": [
+                "Good job out there. That was a real miracle.",
+                "Good job out there. That was a real miracle."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Heehee, that makes me happy!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's the job of an entertainer to live up to the audience's expectations.\nThat's what I thought, at least..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But at the same time, I learned that their expectations are what give\nme the greatest strength of all. I just wanted to say... thank you for\nteaching me that."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer, if you're willing... would you continue to teach me?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "With you, I feel I can show everyone a miracle even grander than the\none I demonstrated today!",
+            "choice_data_list": [
+                "It would be my pleasure!",
+                "It would be my pleasure!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I instantly sign a contract with Fuji Kiseki, the miraculous entertainer\nwho brings joy to all!"
+        }
+    ]
+}

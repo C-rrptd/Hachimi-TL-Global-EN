@@ -1,0 +1,25 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Hey! What the heck was that?! That was pathetic.",
+            "choice_data_list": [
+                "Yeah, I blew it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't sweat it. It's not like being good at this\nkinda thing would be useful anyway."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even if you managed to get a plushie, all it'd do is\ntake up space."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing..."
+        }
+    ]
+}

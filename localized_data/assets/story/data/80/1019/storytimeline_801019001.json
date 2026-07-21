@@ -1,0 +1,99 @@
+{
+    "title": "ウマ娘ちゃん欠乏症！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, <chrname> and the other\nstudents have gone on a field trip to observe a\nrace."
+        },
+        {
+            "name": "Monologue",
+            "text": "The academy is void of students and completely\nsilent... or so I thought... I hear faint groaning\nsounds from nearby."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Urghhh... Gurrrggh! Where have my precious\nUmas gone?!",
+            "choice_data_list": [
+                "It's a zombie!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "That's right... I'm Agnes Zombie Digital, and I'm\nstarving for Umas!",
+            "choice_data_list": [
+                "I thought all the students went to watch the\nrace..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Poor wittle me! I've been out sick with a cold for\nthe past few days..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But I forcibly expelled that plague from my\nsystem because I was craving a sweet, sweet\nglimpse of some glorious Umas!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But what's this?! There's not even a WHIFF of an\nUma around! I can't believe I forgot there was a\nfield trip today! Curses! What a fool I am!",
+            "choice_data_list": [
+                "You should go home and rest.",
+                "You can still make it, though!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hehe... Guehehehe... Yeees, you are so right. It's\nnot like I'll be able to find any sustenance at the\nacademy anyway..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wait a second! You! Got any top-tier insider\nstories about the Uma you're partnered with?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I worked so hard to drag myself out here! The\nleast you could do is bless me with some good\nstuff! Nourish my poor, shriveled-up heart!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know if it's \"top-tier\" or anything, but I tell\nher a story about what happened to\n<chrname> during training."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Huff... Huff...</i> Ohoho... Thank you for the food...\nI'm calling it quits today, but I'll come back\ntomorrow to worship my lovely Umas!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "R-really?!",
+            "choice_data_list": [
+                "You should be fine as long as you complete the\nlate-arrival procedure."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "ASDFSLKSF?! Are you some kind of god?! What\nare we waiting for?! Let's go now! To the paradise\nof my dreeeaaams!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can calm down Agnes Digital\nwhen she's like this, so I help complete her\nlate-arrival paperwork and take her to the venue."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Huff... Huff...</i> Yes, yes... paradise...",
+            "choice_data_list": [
+                "You look ecstatic.",
+                "You look ecstatic."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Can you blame me?! Even if the members and\nvenue are the same, no two shows are exactly\nalike! Besides..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "The feelings that your oshi gives you are on a\ncompletely different level! It's why otaku literally\ngo to every performance they can!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Therefore, my journey continues! I must seek out\nthe best spot I can in order to worship my favorite\nUma with my whole heart!"
+        }
+    ]
+}

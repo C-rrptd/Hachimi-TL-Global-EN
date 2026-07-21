@@ -1,0 +1,260 @@
+{
+    "title": "わくわく！キミと過ごす休日",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a stroll downtown on my day off, I run into Ines Fujin. She\nusually buries herself in part-time gigs outside of training, so I'm\nsurprised to see her out and about.",
+            "choice_data_list": [
+                "Are you not working today?",
+                "Are you not working today?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, hey, Trainer! Yep! It's my day off! ♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I don't get to go out often, so I gotta make it count! It's just a matter\nof deciding where to start!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Or at least... that's what I <i>thought.</i>",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It's just... I can whip up ideas to kill <i>some</i> time, but for a whole day?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, it's weird—I'm drawing a complete blank!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering her hectic lifestyle, I can't say I'm surprised. In that case...",
+            "choice_data_list": [
+                "How about I take the lead and show you\naround?",
+                "How about I take the lead and show you\naround?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh? Really?",
+            "choice_data_list": [
+                "Think of it as thanks for all you've done for me."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "All righty then! Guess I'll take you up on that offer!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Sooo, where will you take me first? Hehe, I'm counting on you for a\nsuper fun time!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Awww! The cranes and koalas are sooo cuuuuute! ♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The local zoo back home doesn't even come close to this one! I'm sure\nmy sisters will love it here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hoping to take her day up another notch, I whip out my phone to\ncheck online for the must-see attractions. However, when I look at the\nzoo map...",
+            "choice_data_list": [
+                "The petting area is... Huh? It's not here?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Really? Let me check. Hmm..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Seems like it got moved last week. It's on the other side of the\npenguin habitat now!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Wooooow! The view's amaaazing! I bet if we use that telescope, we\ncan see the school from here!",
+            "choice_data_list": [
+                "Yeah, let's give it a try!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I make a beeline to the telescope next to Ines Fujin, eager to slide a\ncoin in. But...",
+            "choice_data_list": [
+                "Ah, I'm out of spare change!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oof! I think the change machine was over there somewhere..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Geez, slow down! The telescope isn't going anywhere!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whoa, I feel like a real high roller here... It's giving me butterflies! ♪",
+            "choice_data_list": [
+                "I'm loaded with coins now, so let's go all out\nand have fun!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah! Hold on, hold on! There's a warning sign here!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It looks like you need special coins to play. Let's head to the\nexchange machine first, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we bounce from place to place. However, every single\ntime, I find myself relying on Ines Fujin.",
+            "choice_data_list": [
+                "I made a total fool of myself today...",
+                "I made a total fool of myself today..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Don't sweat it, don't sweat it! Yeah, you made a few mistakes, but it\nwasn't all that bad."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I got to try out a bunch of new things, and I could tell you really did\nyour best."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Honestly, it made me really happy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I want to do better—I want her to know she can\ndepend on me. But at this rate..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Actually, I still have one more place up my sleeve that I'm sure she'll\nabsolutely love."
+        },
+        {
+            "name": "Spectators",
+            "text": "(Woooo!)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Look, look! That runner's not slowing down at all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We're on the edge of our seats watching the race—Ines Fujin's eyes\nlocked onto the blazing front runner."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "2,400 meters on turf... That's the same distance as the Japanese\nDerby, and she smoked everyone like it was nothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's also the same distance as the race I first saw her run in—the\none that reeled me in, hook, line, and sinker.",
+            "choice_data_list": [
+                "You'll be able to run just as fast—no, even\nfaster.",
+                "You'll be able to run just as fast—no, even\nfaster."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You really think I can do it? Actually, yeah... I <i>know</i> I can!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm sure of it now—I just looove the thrill of leading the pack!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I wanna run full speed and rip through the turf faster than anyone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The wild beast within her awakens, sparking fire in her eyes."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see it—the crowd going wild as she crosses the finish line, all\nchanting her name. The day her dream comes true.",
+            "choice_data_list": [
+                "Then we'll just have to take the lead straight\nout of the gate!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Of course! That's what being a front runner is all about!",
+            "choice_data_list": [
+                "We'll have to nail down our start dashes too."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, one of the runners just now fell behind because of a bad start.\nWe gotta watch out for that!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "There's also the risk of getting blocked or running out of gas...",
+            "choice_data_list": [
+                "Then we'll focus on power and stamina training!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep, yep!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Wow, Trainer's really chatty now. I can feel the excitement and\npassion... It's kinda like...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our talk continues from there, and before I know it, we've been\ndiscussing training methods and strategies for hours."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I gotta say... You <i>really</i> picked the right career.",
+            "choice_data_list": [
+                "Sorry, I got a bit carried away..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I wasn't trying to be sarcastic or anything! In fact, I reeeally\nappreciate your dedication!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And I gotta admit, you sounded pretty cool!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So no need to apologize, 'kay?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks a bunch for today! I'd love to hang out again if we get the\nchance!",
+            "choice_data_list": [
+                "I promise I'll be better prepared next time!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep! Looking forward to it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus, our day ends with a smile on Ines Fujin's lips. Despite a few\nhiccups, I'd say we managed to make the most of her rare day off!"
+        }
+    ]
+}

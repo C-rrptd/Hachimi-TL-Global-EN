@@ -1,0 +1,216 @@
+{
+    "title": "異国の地ならなんでも",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Oh... It looks like they're not running that mystery\ngame we played any longer."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe! I hope I can have another fun experience\nlike that somewhere.",
+            "choice_data_list": [
+                "Shall we go on a little outing, then?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Can we?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It is our day off, after all. I decide to take her to a\nsightseeing spot so she can have more memorable\nexperiences."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! A mountain that has a great view of the\nsunset? How wonderful! Are we almost at the\nstation?",
+            "choice_data_list": [
+                "I think ours is the next one.",
+                "I think ours is the next one."
+            ]
+        },
+        {
+            "name": "Train Announcement",
+            "text": "We are approaching the last stop. Please mind\nyour footing when exiting the train..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh? The last stop?",
+            "choice_data_list": [
+                "Oh no, this is the express train!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! So it is! It's just flying through these\nstations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although we do end up making it to our\ndestination, it takes us until past noon."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, the timing is pretty perfect for a late lunch,\nso let's have one! Besides, I really want to try\nsome local delicacies.",
+            "choice_data_list": [
+                "I know a great place. Follow me."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"Closed today so I can go support my favorite\nUmamusume.\" It looks like the manager took the\nday off.",
+            "choice_data_list": [
+                "S-sorry about that! But just wait until you see\nthe next place."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Bouncing back from the hitch in our plans, we\nstop to take in a few sights and finally arrive at\nthe mountain summit. However..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Goodness! What a beautiful view of the stars!",
+            "choice_data_list": [
+                "But I wanted you to see the sunset!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I suppose we'll just have to come back another\ntime for that! For now, though, let's just enjoy this\nmoment! ♪",
+            "choice_data_list": [
+                "Y-yeah. We might as well take a picture to\nremember the day...",
+                "Y-yeah. We might as well take a picture to\nremember the day..."
+            ]
+        },
+        {
+            "name": "Monkey",
+            "text": "Ooh ooh!",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment I take my phone out for a picture, a\nmonkey swoops in and swipes it!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh dear, your phone! Captain, we've got to\nretrieve it at once!"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Right away!\nStop right there, you furry fiend!"
+        },
+        {
+            "name": "Monkey",
+            "text": "Eeeeee!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...What a day, huh?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "First the train, then the restaurant being closed,\nand top it off with that monkey business. I'm glad\nwe got your phone back, but it's a shame the\ncaptain tore her suit."
+        },
+        {
+            "name": "Security Captain",
+            "text": "...Indeed."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...",
+            "choice_data_list": [
+                "Sorry about that..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahahaha!",
+            "choice_data_list": [
+                "Fine?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah. Hehe. Sorry. It is just that I never would've\nimagined an outing like this. How novel!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Phew. My duties have taken me to all sorts of\nplaces, of course. And plenty of them were very\nthrilling."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But even in my wildest dreams, I never imagined\nan excursion as full of surprises as this!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "In short, you've wowed me, Trainer. You shouldn't\nbe apologizing. On the contrary, you should be\nholding your head up high. ♪",
+            "choice_data_list": [
+                "I can't help feeling you're just being nice...",
+                "You might be right!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What? Of course not! But how do I convince\nyou..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, that's it! Look how many wonderful pictures\nI've taken!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This one's the convenience store we stopped by\nafter we missed lunch! I got a real sense of\nregional flavor from seeing all the local\nproducts..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And this is the route we took when we were\npursuing that primate. There weren't any street\nlights, so the starry night sky looked absolutely\nmassive... It was oddly soothing, actually!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "These are all memories now. And I wouldn't have\nthem if you hadn't brought me here."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's not a matter of what you do. It's the thought\nthat goes into it, don't you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion smiles as she explains her optimistic\noutlook, and I feel somehow liberated. That said,\nI still want to make our next outing even better,\nfor her sake."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's the ticket! You. Are. Amazing!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I thank thee, my liege, for a most excellent time.\nONAAARI!",
+            "choice_data_list": [
+                "Haha, what?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whoops. That wasn't meant to be funny. Isn't that\nwhat you say here in Japan?",
+            "choice_data_list": [
+                "Um, not really..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Oh well. If it made you smile, that's good\nenough for me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I bet I'll have more fascinating experiences if we\ngo on another outing together. So, until then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she offers up those kind words in such a jovial\nmood, I find myself wanting to ensure that our\nnext experience is genuinely fun in the traditional\nsense."
+        }
+    ]
+}

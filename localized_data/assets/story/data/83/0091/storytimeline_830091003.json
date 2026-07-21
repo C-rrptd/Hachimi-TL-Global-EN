@@ -1,0 +1,246 @@
+{
+    "title": "天秤は釣り合わない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Tracen Academy is hosting an off-campus\nparty for the press and all the sponsor companies\nthat support the school."
+        },
+        {
+            "name": "Monologue",
+            "text": "Within the hustle and bustle, I find Sirius Symboli."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Huh. Didn't think I'd see you here.",
+            "choice_data_list": [
+                "I was helping with things. You?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Some guests wanted to see me personally, so I\nthought, why not? I could humor them with a\nconversation or two."
+        },
+        {
+            "name": "Monologue",
+            "text": "I admire how easily she takes things in stride, and\nwe talk for a bit. Not long after, the party begins."
+        },
+        {
+            "name": "Announcer",
+            "text": "And to start things off, the Emperor herself,\nSymboli Rudolf, will perform a ballroom dance for\nus!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The room erupts with applause as Symboli Rudolf\nwalks in with her dance partner. Both dancers\ngracefully move in time to the music."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their footsteps echo through the hall. While the\nguests are smitten by the elegant performance,\nSirius Symboli looks rather grim."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "This is the most boring dance I've seen in my life.\nHmph, there she is, playing the model student as\nusual."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be talking about Symboli Rudolf... I'm\nnot sure I agree, though. From what I can see, she\nlooks like quite the skillful dancer."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hey, do you know what the Emperor's motto is?",
+            "choice_data_list": [
+                "Her motto? I'm afraid not."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "It's \"Take it easy.\""
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Everything comes easy to her. She <i>should</i> be free\nto make any choice she wants."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "But she doesn't understand the value of that\nprivilege."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "There's a few reasons why an Umamusume might\ndistance herself from racing."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Injuries, poor performance, mental strain, family\nmatters, aptitudes, and so on..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Your average Umamusume is bound to be\nburdened with at least one of these problems.\nThey can never truly be free."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "When you take that into consideration, it\nbecomes clear just how special she is."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "She had everything she could need. She had the\nfreedom everyone seeks in the palm of her hand.\nAnd yet..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "She chose to let go of that freedom."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "She trapped herself with the idea that she should\nact a certain way and chose to walk the straight,\nnarrow, and <i>boring.</i> Tch."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli turns her severe gaze toward the\ncenter of the room. What she sees is privy only to\nherself."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I'm done with this joke of a party. I'm off.",
+            "choice_data_list": [
+                "But aren't you scheduled to dance too?",
+                "But aren't you scheduled to dance too?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Like I care. I'm sure having the Emperor around is\nmore than enough for everyone."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hang on now... If things are boring, then I just\nhave to take matters into my own hands."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I'll turn this stuffy party upside down, dance floor\nand all! Heh... Haha! Ahaha!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "That settles it. Give me your hand.",
+            "choice_data_list": [
+                "Huh? Why?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Well, you're not one of the Emperor's countless\nadoring puppets."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So you'll be my partner for tonight. Don't go\nembarrassing me.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, she yanks my hand and pulls me onto\nthe dance floor. Frazzled from the turn of events,\nI hastily try to follow her lead."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Good, now spin! That's it, keep up with my lead!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ahaha! Did you see their faces? None of the\nguests could manage to close their mouths. Our\ndance was a masterpiece!",
+            "choice_data_list": [
+                "I almost had a heart attack..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "But it made for a valuable experience, didn't it?\nWell, try not to get hooked on that feeling."
+        },
+        {
+            "name": "Monologue",
+            "text": "She says she wants to get some fresh air, so we\nhike to somewhere higher up. We look down at\nthe town and spot the party hall."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Look at that tiny box of a venue. No way I could\nstand being cooped up in that place."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Screw the \"tried and true\" path. I'm going to\ndestroy that old, boring path and take the one\nlined with thorns. And someday..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I'll find my way there."
+        },
+        {
+            "name": "Monologue",
+            "text": "She points to one particular star, dazzlingly\nbright in the sky."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Sirius is the brightest star out there. It shines high\nabove the world. One day, everyone'll look up to\nme, just like how they look up to that star."
+        },
+        {
+            "name": "Monologue",
+            "text": "The star glints in the night sky like a gleaming\nwolf's fang—sharp, savage, and hungering for\nmore."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hahaha! Now that wasn't too hard, was it?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "A little more polish and you would've been\nperfect. You'd better work harder if you want my\nstamp of approval."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a smile on her face, Sirius Symboli leaves the\nroom. I can't describe how relieved I am that I got\nthrough that in one piece...",
+            "choice_data_list": [
+                "(I need a break.)"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excuse me. May I have a moment of your time?",
+            "choice_data_list": [
+                "(...?!)"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That was you dancing with Sirius, correct? While\nit wasn't on the program, your performance did\nwonders to liven up the party."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I give you both my thanks.",
+            "choice_data_list": [
+                "Sirius, too?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Yes. And it's not just what she did today that\nI'm grateful for."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Her ideas are free. She's unhindered by\nconformity, which leaves anyone who sees her\nmesmerized."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Today's guests are only a portion of her admirers.\nBut I know she's equally beloved by the students.\nMany of them flock to her."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Perhaps there is more than one star of hope that\nlights the way for those lost and struggling..."
+        }
+    ]
+}

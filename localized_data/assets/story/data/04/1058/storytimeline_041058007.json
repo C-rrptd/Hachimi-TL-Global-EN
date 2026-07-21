@@ -1,0 +1,252 @@
+{
+    "title": "迷惑、かけるかも……ですけど",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Huff... Huff...</i> Fini—hm? M-my feet! Oh no, did a shark bite me?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, ah... Aaaahhh! T-Trainer, tell me, do I still have legs?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Th-they feel weird, but I'm too scared to look! They feel all slimey...\nAre my feet inside the shark's mouth?!",
+            "choice_data_list": [
+                "Nope, just wrapped in seaweed."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Seaweed?! Ah, you're right, it's all over me... Uurgh... I just jumped to\nconclusions again..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Sorry... I caused a real scene, didn't I? Ah, b-but I think I cleared the\ntime you wanted me to reach... right?",
+            "choice_data_list": [
+                "Yup, you sure did!"
+            ]
+        },
+        {
+            "text": "We're about halfway through the academy's summer camp. Doto\nmight not have changed much in terms of demeanor, but her racing\nskills are steadily improving.",
+            "choice_data_list": [
+                "You're getting better!",
+                "You're getting better!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No, I still have a long ways to go! B-but if by some chance—some\nmiracle—I did improve..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Then it would definitely be thanks to your guidance! Th-thank you so\nmuch!",
+            "choice_data_list": [
+                "Nah, your perseverance is what got you results.",
+                "Nah, your perseverance is what got you results."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "What?! N-no, I-I'm telling you, I'm just stubborn... It's all thanks to\nyour clear instructions.",
+            "choice_data_list": [
+                "Well, you've got the skills to carry out those\ninstructions."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh?! Th-that's not—I-I only do well because you're so serious about\ntraining me!",
+            "choice_data_list": [
+                "Because your enthusiasm inspires me."
+            ]
+        },
+        {
+            "text": "Somehow, we've started a never-ending compliment cycle. Still, this is\na good chance for me to boost Doto's confidence, so I continue..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaauuugh! P-p-p-please... stop! I'm sorry!",
+            "choice_data_list": [
+                "Um, there's no need to apologize."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "R-regardless, I can't take it anymore... Please... I've never been\ncomplimented this much before... Urgh..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But... it's nice to know you believe in me so much..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I wish I could... thank you somehow...",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah... I-I'll get back to running!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-more seaweed?! I-I'm going to slip and faaaall!"
+        },
+        {
+            "text": "Once our training for the day is finished, Meisho Doto and I part\nways, and I make my way back to the dorms alone... Or so I think."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "OW! Urgh... Where did that... pillar come from...",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eyah! Ah, y-yes! Sorry...",
+            "choice_data_list": [
+                "Need something?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um... N-not really, but... maybe? I don't <i>need</i> anything, but... um..."
+        },
+        {
+            "text": "Doto struggles to find the words she needs, but I know she'll get\nthere. I wait patiently as she gathers the courage needed to make her\nrequest."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "U-UM!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I know this might be just a bother for you... a-and we might end up\nin a huge mess because of me..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-In fact, worst-case scenario, we could get caught up in an explosion,\nand the resulting shockwave would—",
+            "choice_data_list": [
+                "It's okay. Keep going."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um... I-I want to see the fireworks! S-so..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "C-come with me... p-pleashe..."
+        },
+        {
+            "text": "It's been several hours since I accepted Meisho Doto's unexpected\ninvite. We left for the fireworks shortly after, with Doto leading the\nway, but..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "AAAAHHHHH! The fireworks are probably o-over by now..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm sorry, this is all because I got lost... And then I was almost\nkidnapped by that owl…",
+            "choice_data_list": [
+                "Who knew owls were so vicious?",
+                "Who knew owls were so vicious?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Urgh... But no matter what happened, you never turned back... We\njust kept going, but now that we're finally here... Nothing."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I saw online that this place is perfect for viewing the fireworks... Not\na lot of people know about it, so you're guaranteed to get a good\nview..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I don't know why I even try. I'm a walking disaster... No matter how\nhard I try, things never work out right..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I really, really wanted to make you happy too...",
+            "choice_data_list": [
+                "I am happy."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but there's no fireworks. You did all that walking just to stare at an\nempty sky..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I just ended up wasting your time again. I-I'm so—",
+            "choice_data_list": [
+                "Doto."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes?!",
+            "choice_data_list": [
+                "Thanks for doing so much for me.",
+                "Thanks for doing so much for me."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I... Urgh... Trainer!"
+        },
+        {
+            "text": "Sure, we missed the fireworks, but Doto showed me how much she\ncares. Just as I'm about to suggest we see the fireworks some other\ntime..."
+        },
+        {
+            "text": "<i>Boom...</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hiyaaah! Ah..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "H-huh? Fireworks? I-I thought they would be over by now..."
+        },
+        {
+            "text": "A quick search on my smartphone reveals that they were delayed due\nto an unspecified setback.",
+            "choice_data_list": [
+                "Good thing we got lost. We would've missed it\notherwise.",
+                "Good thing we got lost. We would've missed it\notherwise."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-you think so? Does that mean... my clumsiness was useful?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, wh-what am I saying?! Of course not! I-I promise I'll be more\ncareful going forward! But..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ehehe... I'm glad I did all that research. ♪"
+        },
+        {
+            "text": "As Meisho Doto looks up to the sky, the light from the fireworks\nreflects in her tears, making her sparkle in turn."
+        },
+        {
+            "text": "Maybe... just maybe, she's gained a little confidence after today."
+        }
+    ]
+}

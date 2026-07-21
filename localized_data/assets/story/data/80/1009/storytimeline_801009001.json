@@ -1,0 +1,75 @@
+{
+    "title": "明日は私が勝つんだから！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I make my way to the track a little early for\nmorning training. As soon as I arrive..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, looks like I'm first again! Ah, it sure feels\ngood to be number one in everything! ♪"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Okay, time to get changed! I'm going to run my\nheart out today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet seems to be in a very good mood\nas she prepares to train.",
+            "choice_data_list": [
+                "Good morning. You're early today."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Morning! ...Wait, what?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You... you were here before me?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No! I thought I was the first one to arrive! I can't\nbelieve I'm second!",
+            "choice_data_list": [
+                "Do you always come this early?",
+                "Do you always come this early?",
+                "Second is still pretty good."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No! I thought I was the first one to arrive! I can't\nbelieve I'm second!",
+            "choice_data_list": [
+                "Do you always come this early?",
+                "Do you always come this early?",
+                "Second is still pretty good."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah, I suppose you could call me a morning\nperson. Although it seems you got the better of\nme today."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The morning is when I can concentrate the best. I\ncan run freely without worrying about others\nwatching me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm always aiming to be number one. I want to be\nthe first to arrive at school and the runner who\ncompletes the most laps."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's not the same! Being second place is out of the\nquestion! It's first or nothing!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Getting here early just doesn't hit the same way if\nI'm not number one! Ugh, I'm so, so, so ANGRY!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You won't be so lucky tomorrow! I'm gonna be\nfirst to school for sure!"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "title": "突発！風水バトル！？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "The landform and compass are in harmony...\nNow's the time!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Go, White Tiger, Guardian of the West! With\nyour special ability—"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh ho ho, not so fast!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah! Ahhh?!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Your affinity with the White Tiger's attributes\nwasn't quite there, was it? It looks like I win\nagain."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Agh! Another loss!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm passing by the cafeteria, I see\nCopano Rickey and Wonder Acute playing a card\ngame that's currently very popular."
+        },
+        {
+            "name": "Monologue",
+            "text": "You draw a card, summon characters, and then\nmake them fight in turns...",
+            "choice_data_list": [
+                "Are card games not in your wheelhouse?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, Trainer. Heh... I don't play this game that\noften, so it's not like I'm all that experienced."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "And even with the landform and compass aligned,\nI just don't have the skills I need to make the\nmost of my plays."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Yet you still agreed to play with me."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Because it looks so fun! I wanted to join in with\neveryone else too!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, ho ho. That's so like you, Rickey."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "I'm sure you'll figure it out after you've played a\nfew times. Do call me again whenever you'd like\nto play something. I'll gladly join you for anything\nthat's not loud or flashy. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I come back to my office to find Copano Rickey\nperusing some of the cards from before..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hmm... Mmm... Learning the rules is hard enough,\nbut now I have to learn about all these\ncharacters, too...",
+            "choice_data_list": [
+                "Want me to help you out?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Thanks for the offer! I think I'd prefer to try and\nfigure it out by myself, though, y'know?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Losing all the time is so frustrating, and I want to\nactually enjoy playing! I'm going to do my best to\nget this down!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...It really is hard, though!",
+            "choice_data_list": [
+                "Just keep at it while remembering to take\nbreaks!",
+                "How about memorizing them by making\nconnections between them and something you\nknow?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Haha! Yeah, that's a good strategy! Shall we get\nsome tea and sweets ready? That's what Acute\nwould do..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Speaking of Acute..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Your affinity with the White Tiger's attributes\nwasn't quite there, was it? It looks like I win\nagain."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Something I know... For me, that'd definitely be\nfeng shui..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But how can I make that connection? I know some\nof the characters are related to feng shui..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Your affinity with the White Tiger's attributes\nwasn't quite there, was it? It looks like I win\nagain."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "She did say... \"attributes\"..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I was focusing on attack power and HP the whole\ntime, but what about these fire and leaf icons..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh! <i>Ohhh!</i>"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "...Well, goodness me. That was like playing\nagainst a different opponent altogether..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yayyy! I finally won!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After memorizing the cards with blistering speed,\nCopano Rickey goes on to get her revenge!",
+            "choice_data_list": [
+                "How the heck did you do that?",
+                "How the heck did you do that?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "When Acute mentioned attributes, I realized that\nit's basically just an elemental rock-paper-scissors\ngame!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oho?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Water weakens fire qi, fire weakens metal qi...\nAnd you know how the rest goes!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "When I realized the setup was similar to how the\nfeng shui elements interact, it all fell into place!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "After all, no one knows the ins and outs of feng\nshui better than me! I'll never lose this game\nagain!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh my, did I drop you a helping hint by accident\nearlier on?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "But I'm not surprised you figured it all out. You're\nsuch a good girl, Rickey. And <i>very</i> clever. Here\nyou go—have some sweeties."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehehe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help wondering if maybe Copano Rickey\ncan find a way to do anything as long as she can\nconnect it to feng shui somehow."
+        }
+    ]
+}

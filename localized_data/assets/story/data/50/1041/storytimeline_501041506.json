@@ -1,0 +1,165 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O asked me to accompany her to\nher dance rehearsal, so I'm joining her today."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay! Let's begin the dance practice!",
+            "choice_data_list": [
+                "At an amusement park?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! I saw it on TV yesterday! Apparently the\nparade here is amazing and super famous too!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In other words, it's perfect! It's OUTSTANDING!\nAnd as a model student, I intend to learn their\nways!",
+            "choice_data_list": [
+                "I see. So this is for studying purposes."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yikes! Time flies while you're talking! Better hurry\nand get ready!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "First, let's go and buy a penlight! It's apparently\npart of the formalities to wave them at parades.\nHow refined!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, they're selling churros and soda over there! I\nheard they are also essential items! Let's go and\nget some!",
+            "choice_data_list": [
+                "Are we really here to practice?",
+                "Are we really here to practice?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! They talked about all these\ncomponents on TV after all! They're the secret to\nunderstanding the essence of the parade!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with the preliminary arrangements in\nplace, the parade finally begins..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, Carrot King and Queen have made an\nentrance! Oh! Aaah! Oooh?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Such an amazing dance... I've gotten all pumped\nwithout even realizing! This energy! It feels like\nmy grip could pulverize this penlight!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Such power of expression! To be able to whip up\nthe crowd into such a frenzy! I need to learn this\ntoo, so I can bask in the applause!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! Oh! Over there! It's Carrot King and Que—no,\nmy masters! My venerable teachers!",
+            "choice_data_list": [
+                "That's the greeting booth.",
+                "That's the greeting booth."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Th-this is... This is my chance! Should I ask them\ndirectly about the essence of the dance?!",
+            "choice_data_list": [
+                "Practice is more valuable than that!",
+                "All right! Let's go and ask."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! Practice over theory! Understood! Let's get\ndancing!",
+            "choice_data_list": [
+                "Here?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! You know what they say! Strike while the\niron is hot! So let's do it before I can say I forgot!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's like this! Then this! Like this... or this... Is this\nright?!"
+        },
+        {
+            "name": "Child",
+            "text": "Amazing! Do your best!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah! Thank you for all the encouragement! I'll\ndefinitely perform well next time!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Woo! Whoa! Woo, woo, whoa, whoa... hoo!"
+        },
+        {
+            "name": "Spectator",
+            "text": "Oh! That's the dance from the parade! It's exactly\nthe same! Incredible!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Haa-ha ha ha ha! Such wonderful applause! I'll\nkeep going!",
+            "choice_data_list": [
+                "I think that's quite enough!"
+            ]
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "What's all the commotion? ...Wait, a park guest?!\nWhat do you think you're doing?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After causing a disturbance and getting scolded,\nSakura Bakushin O is delighted to hear from her\ndance instructor that her dancing has improved\nthe next day."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we get in line for the greeting booth."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This is it! It's my turn! I'm going to ask the experts!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I loved the parade! Please teach me how to do\nthat dance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, that heart-shaped hand sign... I see! You put\nyour heart into your movements from head to toe!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now you're pointing at your head... Oh! In other\nwords, by building a better understanding of the\nchoreography, you can then express it with all\nyour might?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To put it frankly, you're saying it all comes down\nto Bakushin! Aren't you?",
+            "choice_data_list": [
+                "Wait, really?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course, all roads lead to Bakushin! How could I\nforget? Careless, so careless!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I really appreciate the advice from you experts!\nI'll work on the basics and master the dance!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I wasn't sure about how useful our\nexcursion would be, Sakura Bakushin O is\ndelighted when her dance instructor tells her she\nimproved the next day."
+        }
+    ]
+}

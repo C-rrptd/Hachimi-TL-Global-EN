@@ -1,0 +1,30 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Arghhh. What the heck? The pounding's killin' me.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "My head's been throbbin' since this mornin'.\nMaybe someone's talkin' about me behind my\nback..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, no. That's sneezes, right? What causes\nheadaches, then?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Owww. Shouting made it worse. I can't even\ncrack jokes now..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her headache troubling her, Tamamo Cross\ntries to keep the wisecracking to a minimum for a\nlittle while."
+        }
+    ]
+}

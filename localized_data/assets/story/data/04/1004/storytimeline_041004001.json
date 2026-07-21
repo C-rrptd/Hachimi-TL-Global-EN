@@ -1,0 +1,257 @@
+{
+    "title": "風の中の彼女",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Students are showing off their skills to the trainers at the academy's\nbig tryout race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though everyone is putting their heart into it, one racer has no\nproblem outshining them."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Now I'll really let loose!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Yeaaaah! Wooo!!"
+        },
+        {
+            "name": "Caster",
+            "text": "M-Maruzensky's picking up even more speed! She's leaving the pack\nbehind! No one can catch up now!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Huff, huff, huff...</i> Hehe, the wind on my face feels great!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "L-look at her!",
+            "choice_data_list": [
+                "(What amazing running!)",
+                "(What amazing running!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's strong, beautiful, and faster than the wind..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Looks like I still got more in the tank!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But what makes her special is that she's having more fun than anyone\nelse on the track."
+        },
+        {
+            "name": "Caster",
+            "text": "That's it! Maruzensky takes first! She blew the competition away—a\nfantastic run!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Yeaaaah! Wooo!!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew! Aaah, I feel great after that. ♪ I almost wish it wasn't over so\nquick."
+        },
+        {
+            "name": "Young Umamusume A",
+            "text": "Maruzenkyyy! Wow! Just, wow! You were great!"
+        },
+        {
+            "name": "Young Umamusume B",
+            "text": "I-I've never seen such a fast time!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, hi, everyone! Aren't you sweet for cheering me on!"
+        },
+        {
+            "name": "Young Umamusume A",
+            "text": "I cried, it was so amazing! I wanna be as fast as you someday! Can we\ngo partner running again soon?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha, that's no sweat. We could do it right after this! I'm always\namped for another run. ♪"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Wow, a victory with a huge lead, and still ready for more? You're\nsomething else, Maruzensky!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "You've got an engine like no other. So, please... join my team,\nMaruzensky!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Alrighty—wait, what?"
+        },
+        {
+            "name": "Trainers",
+            "text": "Maruzensky, you'll be our ace! Maruzensky! Let's talk, okay?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh goodness..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After her fantastic tryout race, she's surrounded by trainers all wanting\nher on their team."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's got other ideas though..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Come on, Maruzensky—a racer like you could be an undefeated\nTriple Crown Champion! Let's make it happen!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That certainly sounds exciting, but... I have to say no. I appreciate\nyour enthusiasm though."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "You're going to become a racing legend! Let me help you write your\nname down in history!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha, isn't that a bit of an exaggeration? I don't think I've got <i>that</i>\nmuch potential. Sorry. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky is approached by trainer after trainer but politely refuses\nthem all."
+        },
+        {
+            "name": "Young Umamusume B",
+            "text": "Hey... She's been turning down trainers left and right—even since\nbefore the tryouts. Why is that?"
+        },
+        {
+            "name": "Young Umamusume A",
+            "text": "I bet she's got her sights set higher than all of them combined!"
+        },
+        {
+            "name": "Young Umamusume B",
+            "text": "Ah, you're right, of course! I hope I get to see her work with a trainer\nwho deserves her."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, she didn't sign on with any of the trainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, on a quiet evening a few days later..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I happen to be walking past the training course when I see\nMaruzensky, her hair flowing back as she runs."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let's see... Still time. Okay, think I'll do one more lap. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Here goes!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Huff, puff, huff...</i> Haha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The excitement I felt at the tryouts flutters through my heart again."
+        },
+        {
+            "name": "Monologue",
+            "text": "She really—"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Faster... Faster!"
+        },
+        {
+            "name": "Monologue",
+            "text": "—looks so happy on the track, like she's having a blast!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Pant, pant...</i> Phew. Doesn't get any better. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh? Hey, you're the trainer from the other day at the tryouts... Right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh? Hey, you're the trainer from the other day at the tryouts... Right?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahhh, did you come all this way to try and scout me? Hehe, that's\nsome nice commitment."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, what kind of approach will you use? Something like how you saw\nfuture glory in my running?",
+            "choice_data_list": [
+                "No, I just...",
+                "No, I just..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, what kind of approach will you use? Something like how you saw\nfuture glory in my running?",
+            "choice_data_list": [
+                "No, I just...",
+                "No, I just..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...Just?",
+            "choice_data_list": [
+                "I just thought you enjoy running like no-one\nelse does."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh? Just that?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, I never... That's really all? Wow..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha! You're unusual—I'll give you that."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha! You're unusual—I'll give you that."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, I'm going to keep on running, so... you keep on watching if\nyou'd like."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, I'm going to keep on running, so... you keep on watching if\nyou'd like."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I keep on watching. It's insane how fast she runs, but she\nalways looks happy while she does it."
+        }
+    ]
+}

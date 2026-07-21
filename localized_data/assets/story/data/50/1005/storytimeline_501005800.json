@@ -1,0 +1,174 @@
+{
+    "title": "The Shape of a Miracle",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hey, Trainer. Sorry to spring this on you out of\nnowhere, but would you happen to be free\ntomorrow?",
+            "choice_data_list": [
+                "Yeah, I am. What's up?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm going to volunteer at the hospital tomorrow,\nand I was wondering if you'd like to come with."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There are a lot of long-term patients there, and I\nthought they might feel comforted by the sight of\nyour gentle smile.",
+            "choice_data_list": [
+                "I'd love to go with you!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Great! Then, I'll see you tomorrow."
+        },
+        {
+            "name": "Young Patient",
+            "text": "It's an Umamusume! Wow, your tail's so pretty!\nAre you fast at running?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Indeed I am! How about I give you a\ndemonstration next time? I can even outrun a car,\nyou know."
+        },
+        {
+            "name": "Young Patient",
+            "text": "Whaaat? You've gotta be lying! There's no way\nyou can run <i>that</i> fast! Hehe!"
+        },
+        {
+            "name": "Female Patient",
+            "text": "..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hello there. Is the sun too bright? Here, let me\nclose the curtains for—"
+        },
+        {
+            "name": "Female Patient",
+            "text": "Don't force yourself. Being with me will only ruin\nyour mood, so go away and find someone who\nwants your company."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "For every person who smiles brightly with all their\nheart, there's another with their gaze locked on\ntheir feet, who refuses to lift their head."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki's charming smile doesn't falter for a\nsingle second throughout the entire visit, but\nwhen it's over, she confesses something quietly."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I actually planned to pull a surprise during our\nvisit to cheer everyone up, but..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I couldn't go through with it. Not when they're all\nburdened with so many different thoughts and\nemotions."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Even a smile might cause them pain instead.",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I never realized how much of a burden the act of\ncheering someone up puts on them. I'm still so\nnaive..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's all right. I'd like to stay with you. After all, you\nchose to meet me even though you could have\nrefused."
+        },
+        {
+            "name": "Female Patient",
+            "text": "...You want to stay even if I have nothing but\nnegative things to say?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There's no end to my joy simply knowing that\nyou're willing to talk to me. It doesn't matter what\nwe talk about."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm so happy that I came here and was able to\nmeet you today."
+        },
+        {
+            "name": "Female Patient",
+            "text": "I thought you were here to cheer me up, but\nyou're the one feeling happy now? Hehe. I see."
+        },
+        {
+            "name": "Female Patient",
+            "text": "So even I still have the ability to make others\nhappy..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "She told me she'll come watch me race sometime."
+        },
+        {
+            "name": "Female Patient",
+            "text": "If the person that I made happy went on to win a\nrace... Now, that'd be a real miracle!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "My goal is always to make people smile. Even\nnow, that hasn't changed."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But there are so many more ways that can play\nout than I ever imagined."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's why, I...",
+            "choice_data_list": [
+                "You want to show her a true miracle, right?",
+                "Are you feeling pressured?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Exactly!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I didn't make her happy or put a smile on her\nface... She did that for me. And then requested\nthat I continue to win races."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And to do that, I'll put my all into every race. I'll\ndo everything I can to meet those expectations\nand show her the miracle she desires!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki grins as she makes her declaration. Her\nprofile glows just as brightly and boldly as the\nblazing sun hanging in the sky."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Not at all. In fact, I feel more motivated than\never!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So long as I bear my miraculous name, I'll win\nevery race I enter for sure!",
+            "choice_data_list": [
+                "But you know..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I grin mischievously like the way she always does\nand say that winning every race \"for sure\" will kill\nthe surprise."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha! Yes, that's true. I guess just winning my\nraces won't cut it, then."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'll have to bewitch everyone with my\nperformance and give them the show of a lifetime\nwhile I'm at it!"
+        }
+    ]
+}

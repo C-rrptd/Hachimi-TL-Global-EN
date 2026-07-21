@@ -1,0 +1,280 @@
+{
+    "title": "至高のダイヤモンド",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The annual summer training camp has begun. Although I designed\nSatono Diamond's regimen to be demanding, she's tackling it with\nenthusiasm."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Phew!</i> My time improved again. I'm not that tired either—does that\nmean my stamina's gotten better too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It has, which means it's the perfect time to build even more. I ask her\nwhich exercise she'd rather do next.",
+            "choice_data_list": [
+                "Long-distance running, or long-distance\nswimming?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, since it's hot out, swimming sounds..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I mean, um... What do you think?",
+            "choice_data_list": [
+                "...Let's go with swimming!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sure!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something's definitely up. She's been acting a little awkward since\nour trip to the amusement park."
+        },
+        {
+            "name": "Trendy Student",
+            "text": "Wait, there's a festival happening tonight?! Oh, I am <i>so</i> down! Let's\nall go together!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "A festival? Oh, that sounds fun!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah! I mean, um...",
+            "choice_data_list": [
+                "Want to go together?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! Is that all right?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! It's so lively! And look at all the different stalls!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, what's that one? They're scooping... not goldfish, but sparkly\nballs?",
+            "choice_data_list": [
+                "Let's give it a shot!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes!"
+        },
+        {
+            "name": "Stall Owner",
+            "text": "Step right up, step right up! Scoop as many sparkly balls as you can!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um, are we supposed to use a bowl?",
+            "choice_data_list": [
+                "No, you use a paper scoop."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Scoop? Oh, you mean that small round one!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But the paper's so thin. How do you stop it from tearing? Hmm...",
+            "choice_data_list": [
+                "Here, I'll show you."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, you don't have to—",
+            "choice_data_list": [
+                "Hup!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! That was amazing—you got a really big one!",
+            "choice_data_list": [
+                "I'm just getting started!",
+                "I'm just getting started!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "U-um, you're getting really into this.",
+            "choice_data_list": [
+                "I'm happy when you rely on me.",
+                "I'm happy when you rely on me."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Happy? Do you mean that? I'm not just bothering you?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer! Um, I-I..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I want to be honest around you!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That is, um... if I'm open about how I feel, would that be a burden on\nyou?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Satono Diamond has been holding back for my sake.\nShe doesn't need to do that, though, because...",
+            "choice_data_list": [
+                "Your honesty is your greatest strength.",
+                "Your honesty is your greatest strength."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "My greatest strength?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Oh. So that's how Trainer sees it...)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Of course. It was the same back then, too.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Be honest with me. At this rate, will I stand a chance?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Honestly? It... wouldn't even be close."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I knew it..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(As direct as I am, you always respond in kind. That's how we've come\nso far together.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I can't believe I forgot something so important."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once we've moved away from the hustle and bustle, Satono Diamond\nconfesses what's been weighing on her mind."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You know how I don't hesitate to voice my thoughts, or act on them? I\nrealized that could be inconsiderate, so I got worried."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's why I thought I had to hold back. Just like the other day...",
+            "choice_data_list": [
+                "You mean at the amusement park?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes. The truth is, I was overjoyed at the prize you won for me. I\nwanted to get you one too, so we'd have a matching pair..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But when it occurred to me you might not want it, I couldn't bring\nmyself to say it.",
+            "choice_data_list": [
+                "So that's why..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. I should've just been honest, right?",
+            "choice_data_list": [
+                "There's always next time."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, of course! It's a promise! I'll think of somewhere for us to go!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You'd better brace yourself. Since you said honesty was my greatest\nstrength, I won't hold back anymore!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll suggest all manner of strange places and exciting things to\ndo—and you'll come along for the ride, won't you?",
+            "choice_data_list": [
+                "Bring it on!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe! Thank you. There's no one I can count on more—oh!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...!\nWow!",
+            "choice_data_list": [
+                "They're beautiful.",
+                "They're beautiful."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes... They really are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fireworks continue to light up the night sky. We can see them well\nenough here, but...",
+            "choice_data_list": [
+                "Let's head back and get a better look!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, Trainer!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Don't go..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond catches up and tugs on my sleeve."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I want to watch from here, just the two of us!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So don't go. Stay with me, just for a little longer."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe. Right now, those are my honest feelings! You don't mind, do\nyou, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond pulls me over to a place on the beach where we can\nsit side by side. Together, we watch the distant fireworks bloom into\nthe night."
+        }
+    ]
+}

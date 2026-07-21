@@ -1,0 +1,255 @@
+{
+    "title": "開運！　ラッキーテレフォン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru drags me off by the hand one\nday."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer, today we're going mountain climbing. I\ncan't move mountains, but I can sure move these\nlegs!",
+            "choice_data_list": [
+                "Why are we going mountain climbing all of a\nsudden?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well you see, I heard something through the\ngrapevine."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If you dial a certain phone number from a\nmystical spot, you can earn yourself some good\nluck... allegedly!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So, my plan is to scale this famous spiritual\nmountain and call that number!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's get to it! Neither rocks nor roots are going\nto stop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We head up the mountain, though it turns out it's\nnot rocks or roots that we have to worry about."
+        },
+        {
+            "name": "Ghost",
+            "text": "Mwahaha! So you dare to show your face! You will\nnot leave this place alive!"
+        },
+        {
+            "name": "Lingering Spirit",
+            "text": "Save meee... Please, save meee..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ignoring the horrifying wailing, we trek onward.\nThis certainly is a spiritual mountain... in the sense\nthat it seems to be full of spirits."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You're looking pretty pale, Trainer. Running low\non oxygen?",
+            "choice_data_list": [
+                "You don't hear that?",
+                "You don't hear that?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't hear what? Oh, the birds? They sound\nkinda cute, huh? Chirp chirp!",
+            "choice_data_list": [
+                "You're not picking up on any spirits?",
+                "You're not picking up on any spirits?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Spirits? Maybe... Maybe not. I can't really tell..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "No use sweating the details though! Just go with\nthe flow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As crazy for all things spiritual as she is, it doesn't\nlook like she has even a hint of a sixth sense."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Phew. All right, I guess this spot will do."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's not waste any time. Now, where's that lucky\nnumber?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "M-my goodness! Just as I was getting ready to\ndial, my phone started ringing!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer! What if this call is coming from the lucky\nnumber?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hm, maybe it's best to pick up? We are on a\nlucky mountain, after all. We can't get any\nunlucky calls here."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not as optimistic, seeing what's been lurking\nup here. Time to make a decision.",
+            "choice_data_list": [
+                "Go ahead and pick it up.",
+                "I don't think you should answer..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay! Hehe, I guess the owner of this lucky\nnumber just couldn't resist giving me a ring."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hi, is this Luck E. Pearson speaking?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No, this is Taiki Shuttle."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, it's you, Taiki... My phone shows this as an\nunknown number. Are you using a pay phone or\nsomething?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You see, I was just about to call this number that\nbrings you happiness."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "A number that brings you happiness? The heck is\nthat? Wait..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You sure you ain't got your boots on backwards?\n'Cause I've only heard of numbers that'll curse ya\nif ya call 'em. Hehe..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Cursed numbers... Really? Wait... Could it be that\nI heard wrong?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "T-Taiki, I-I'm gonna hang up now!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer... This can't be...",
+            "choice_data_list": [
+                "I think you got it wrong.",
+                "I think you got it wrong."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eeeyikes! I don't want to be cursed! Save meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru hurtles down the mountain at\na pace that would leave a marathon runner pale\nand wheezy."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, you two. Where were you guys?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What do you mean? I told you before when we\nwere talking on the phone."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Anyway, thanks for the heads-up!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If you hadn't told me about that cursed number\nthing, I would've been in a real pickle."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What heads-up? What're you talking about? We\ndidn't talk on the phone!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You know what I'm talking about, silly! You called\nme earlier... on a pay... phone..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But why would you do that when you've got your\nown phone right... there? Oh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just who was it that called? Whoever it was, all\nthat running around on the mountain seems to\nhave done Fukukitaru some good."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But, why? I don't see any reason not to answer..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait! That sound...",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hey, my screen's cracked!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That can't be a good sign... I'm sensing that\nsomething bad is about to happen..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wh-wh-wh-what if this is...",
+            "choice_data_list": [
+                "Let's head back."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her about all the sinister things I saw on the\nmountain."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ugwah! I-I had no idea! Eek, somebody heeelp!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru books it down the mountain\nas fast as she can."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer, listen to this. I actually talked it over with\nTaiki afterwards..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Apparently, that phone number wasn't lucky at\nall. It was cursed.",
+            "choice_data_list": [
+                "Did your phone take the hit for you?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Looks like it."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh, thank you, my sweet phone. May you rest\nin perfect peace. And also..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "May your repairs go quickly. It's really\ninconvenient without you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess she's going to pretend her phone isn't\ncursed and keep using it."
+        }
+    ]
+}

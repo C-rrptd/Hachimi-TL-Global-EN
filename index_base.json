@@ -1,0 +1,5 @@
+{
+  "base_url": "https://raw.githubusercontent.com/<your-username>/<your-repo>/<branch>/localized_data",
+  "zip_url": "https://codeload.github.com/<your-username>/<your-repo>/zip/refs/heads/<branch>",
+  "zip_dir": "<your-repo>-<branch>/localized_data"
+}

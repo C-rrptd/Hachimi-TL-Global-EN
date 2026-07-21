@@ -1,0 +1,81 @@
+{
+    "title": "不審者だけど、あんし～ん！？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm tidying up after training one day, I happen\nto spot a suspicious figure lurking about..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hmm, I'd say that she needs a single poke there.\nAs for her... maybe ten pokes would do...",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Oops, you caught me! ☆ But no worries! I haven't\nlaid a needle on anyone yet."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I just came here to conduct visualization training\nfor my treatments. I have only the best wishes for\nUmamusume-kind's bright future! ☆",
+            "choice_data_list": [
+                "I'm just going to call the cops real quick..."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Wait, stop! Let's not get hasty! Put down the\nphone for a moment!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Are you telling me that you don't care if the\n(self-proclaimed) crown jewel of the acupuncture\nworld, Sasami Anshinzawa, is gone forever?!",
+            "choice_data_list": [
+                "The safety of my trainee comes first."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, a fair point! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "But you must trust me when I say this—I have\nalways wished for Umamusume to succeed and\nflourish! From the bottom of my heart!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "See? We're two peas in a pod.",
+            "choice_data_list": [
+                "I'd love to believe you, but..."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Come on, just look at the reviews on our\nhomepage! \"Thanks to acupuncture, I finally got\nfirst place!\" \"Ever since I got treated, every day\nhas been sunshine and rainbows!\""
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "See? Nothing but five-star reviews! ☆ They're all\nfor my master, but still!",
+            "choice_data_list": [
+                "Fine, but no more trespassing, all right?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Oh my gosh, you're really letting me go\nscot-free?! So you <i>can</i> be reasoned with after\nall! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Oh, I know! Let me give you a free treatment\nsession as thanks! It'll be a great chance for you\nto become mighty and strong!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "If it goes well, that is... But I'm sure it will! See, no\nworries! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I refuse her offer, but I was able to learn a bit\nmore about acupuncture through this experience."
+        }
+    ]
+}

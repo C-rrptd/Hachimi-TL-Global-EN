@@ -1,0 +1,63 @@
+{
+    "title": "高松宮記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Announcer A",
+            "text": "\"Fuji Kiseki, whose decision to take on a huge\nchallenge has been the talk of the racing world,\nwill be running in today's Takamatsunomiya\nKinen!\""
+        },
+        {
+            "name": "Announcer A",
+            "text": "\"The stands are absolutely packed with fans who\ncame to see her participate in this 1,200-meter\nblink-and-you'll-miss-it sprint!\""
+        },
+        {
+            "text": "The screen pans over the audience, many of\nwhom are holding up Fuji Kiseki-branded goods\nand large banners to cheer her on."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's incredible! I can feel how much they're\nrooting for me, even through the screen!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "They're all smiling so beautifully. I'm glad they're\nenjoying themselves.",
+            "choice_data_list": [
+                "The pressure isn't getting to you, is it?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Not at all. I can't put on a good performance if I\nchicken out now."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I promised to entertain everyone with the show of\na lifetime, and I intend to do just that!"
+        },
+        {
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "text": "She gestures enthusiastically to make her point\nand accidentally knocks a paper cup off the\ntable."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Whoops..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sorry about that! Thank goodness it was only a\npaper cup!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'd better wipe this up! Where's a towel when I\nneed one?!",
+            "choice_data_list": [
+                "(That's odd.)"
+            ]
+        },
+        {
+            "text": "She's not usually so clumsy. Something feels off.\nWhile I'm trying to figure out what that might\nbe..."
+        },
+        {
+            "text": "The curtains slowly rise on Fuji Kiseki's first senior\nrace—the Takamatsunomiya Kinen."
+        }
+    ]
+}

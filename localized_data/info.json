@@ -1,0 +1,17 @@
+{
+  "name": "Hachimi TL Global EN",
+  "description": "<A longer description of this translation repo>",
+  "language": "EN",
+  "homepage": "https://github.com/<your-username>/<your-repo>",
+  "links": [
+    [
+      "<Discord>",
+      "https://discord.gg/<your-invite>"
+    ]
+  ],
+  "changelog_url": "https://raw.githubusercontent.com/<your-username>/<your-repo>/<branch>/CHANGELOG.md",
+  "maintainer": "C_rrptd",
+  "contributors": [
+    "C_rrptd"
+  ]
+}

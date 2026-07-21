@@ -1,0 +1,227 @@
+{
+    "title": "Seizing the Moment",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day before the tryouts, I go to meet up with Mejiro Bright and\nMejiro Dober before heading to the Mejiro meet and greet."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Ugh."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's past our meeting time, but Mejiro Bright is nowhere to be seen.\nAfter thirty minutes of awkward silence together with Mejiro Dober..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, are you two alone together? Just like peas in a pod."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, we're not! And Bright, you're late... Wait, isn't that doll... Maki?\nWhy did you bring her here?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, I brought Maki with me. I thought this a good opportunity to let\nher witness Ryan's majestic aura."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh...</i> Fine. Dressing her up must've delayed you, right? Everyone\nelse has already gone ahead to the venue, so let's catch the next\ntrain."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Okay... Achoo. Mm... It feels as if it could snow at any moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like Mejiro Bright predicted, snow begins falling on our way\nthere. It's as if we've gone back to the middle of winter, with mounds\nof snow everywhere you look."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! McQueen and Ryan haven't arrived yet?"
+        },
+        {
+            "name": "Event Staff",
+            "text": "Unfortunately, traffic jams caused by the sudden snowfall have\nrendered their vehicle inoperable. Running would be dangerous, so\nthey're currently looking to catch the next train over."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But they won't make it in time, will they? There's only five minutes\nuntil the event is supposed to start, and the venue is already filled\nwith fans..."
+        },
+        {
+            "name": "Event Staff",
+            "text": "We'll explain the situation to the fans and have them wait a little\nlonger. I'm sure they will understand, though they may become a little\nrestless."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I understand the situation. In that case... how about <i>we</i> talk to the\nfans instead? ♪"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Hm? Wait, what?! You want the two of us to stall until they arrive?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes. Though we lack experience, we still bear the Mejiro name.\nRather than making the fans wait, we can entertain them and make\nthis event a success."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, I can see where you're coming from... but I don't know. I mean..."
+        },
+        {
+            "name": "Mejiro Fan A",
+            "text": "I wonder what they'll talk about today. It's not every day that you see\nso many Mejiros in one place!"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Right? In just a few more minutes, we'll get to see their majestic and\nbeautiful faces in the flesh... Oh wow, I'll make sure to burn this sight\ninto my eyes forever!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I can't do it! Talking in front of that many people... it's too much for\nme!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Dober, I know I'm asking a lot from you. However, I am certain that\nby myself, I won't be able to talk to the fans very well."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That is why I need your assistance. We'll just be talking—like we are\nnow... okay?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Talking isn't the problem... We have to do it in front of all these fans,\nright? ...Sorry. I don't have the confidence..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It'll be fine, don't worry. I shall be with you every step of the way.\nYou can trust me..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Mejiro Bright is doing her best to encourage Mejiro Dober, I\ncan't help but notice that her hand is trembling as well."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If it were McQueen, Ryan, or any other Mejiro, I'm sure they would\nboldly step forward and resolve the situation. This time, it's our turn...",
+            "choice_data_list": [
+                "(She's actually just as nervous as Dober. But...)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've decided—I will become the light of the Mejiro family!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She made up her mind to live up to the Mejiro name—pursuing\nperfection in any and all situations. As for me...",
+            "choice_data_list": [
+                "(I want to help make that dream come true.)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "With that said, I do not wish to force your hand. It's okay. I shall take\nthe stage alone—",
+            "choice_data_list": [
+                "Wait a second. I just came up with an idea..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Greetings, it's nice to meet everyone! ♪ My name is Mejiro Bright.\nAnd joining me today is..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Maki?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "\"...Hello, I'm Maki. Nice to meet you...\""
+        },
+        {
+            "name": "Mejiro Fan A",
+            "text": "Hm? Those two haven't made their debuts yet, have they? Is this\nsupposed to be the opening act?"
+        },
+        {
+            "name": "Mejiro Fan B",
+            "text": "Also... she called her Maki, but isn't that Dober? Are they doing a\npuppet show? You don't see that too often."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You want me to talk as the doll?! Are you sure you're not just trying to\nmake things harder for me?!",
+            "choice_data_list": [
+                "It'll help you take your mind off the audience."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The idea I came up with was to have Mejiro Dober talk to the fans\nwhile holding Mejiro Bright's doll."
+        },
+        {
+            "name": "Monologue",
+            "text": "With the doll as a third emcee, fewer people would look at Mejiro\nDober. On top of that, by talking as the doll, she could avoid looking\nthe audience in the eye."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "B-but... I just don't think I can do it. I can't stop thinking about how I\nmight tarnish the Mejiro name...",
+            "choice_data_list": [
+                "It'll be okay—you've got Bright with you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright loves her family more than anything else. With her here,\nthe Mejiro family's reputation is sure to be safe. But more\nimportantly...",
+            "choice_data_list": [
+                "You know you're both Mejiro Umamusume,\nright?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Provisional Trainer..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...It's as Provisional Trainer says. I'll cover you, so don't worry. I'll\nmake sure you don't burst into tears on stage."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Who said I'd burst into tears?! ...Fine, I get it. I want to help out too...\nso I'll give it my best shot!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And that's when Ryan took me by the hand to run together with her.\nShe was so cool in that moment."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Mm... Ryan's cool, all right. She's always been looking out for us. And\nshe doesn't let it go to her head."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Indeed. Every Mejiro has been spectacular even from a young age.\nWe're aiming to become like that too someday. Right, Berry?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah—\"I mean, what're you saying?! I'm Maki! How many times do I\ngotta tell you?!\""
+        },
+        {
+            "name": "Fans",
+            "text": "Hehe, they're so adorable. ♪\nI get it, this is a bit they're doing."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Both Dober and Bright have done well. We are in their debt.\nHowever... why the doll?",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry to keep you waiting! We'll take it from here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "McQueen and Ryan take the stage and the crowd goes wild. It looks\nlike Bright and Dober have saved the day."
+        }
+    ]
+}

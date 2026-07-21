@@ -1,0 +1,27 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Break is almost over, and I'm heading back to the\noffice early to prepare for training, when..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...You're here early.",
+            "choice_data_list": [
+                "That makes two of us."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Hmph. That's because I was able to take a good\nrest."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Give me some training with some bite to it.\nSomething strong enough to cool my boiling\nblood."
+        },
+        {
+            "text": "Properly rested, Narita Brian is full of vim and\nvigor."
+        }
+    ]
+}

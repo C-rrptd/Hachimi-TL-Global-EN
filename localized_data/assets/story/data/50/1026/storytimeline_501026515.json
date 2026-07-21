@@ -1,0 +1,223 @@
+{
+    "title": "頼るべきは",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm about to begin training with Mihono Bourbon.\nShe usually finishes getting ready well before\nwe're supposed to start, but today's different."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...One minute left until training begins. Thank you\nfor waiting, Trainer.",
+            "choice_data_list": [
+                "It's rare to see you cut it so close.",
+                "It's rare to see you cut it so close."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. You see—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "FOUND YA!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bourbon! Our discussion isn't over!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Indeed. However, it is already time for my\ntraining to begin. I am thus unable to debate any\nlonger.",
+            "choice_data_list": [
+                "Is there some kind of dispute?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's correct! The topic at hand is why she keeps\nbreaking our vending machines!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class representative, it is my responsibility to\nprevent the destruction of school property!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Any machinery I come into contact with breaks\ndown without exception. The cause is unknown. It\nis not done with intention."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I know you don't mean to break them! But there's\nstill room for discussion!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O spreads her arms wide as if to\nprevent Mihono Bourbon from running away."
+        },
+        {
+            "name": "Monologue",
+            "text": "To be fair, it <i>is</i> pretty weird to be able to break\nmachines just by touching them. An investigation\nmay be worthwhile."
+        },
+        {
+            "name": "Monologue",
+            "text": "But for now, the issue at hand is that the vending\nmachines are out of service. Maybe we need some\nkind of countermeasure."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Are you listening to me, Bourbon?! I want to hear\nyour trainer's thoughts on the issue too.",
+            "choice_data_list": [
+                "I guess it's not good that no one can use the\nvending machines, right?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh? Yes, you're right about that."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes, Trainer. I recognize the situation is very\n\"inconvenient.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Vending machines are essential when one cannot\nrefill their water bottle or purchase a drink from\nthe store."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But... I cannot use them."
+        },
+        {
+            "name": "Monologue",
+            "text": "We can't let things continue like this. If I'm with\nher, it's fine, but if I'm not...",
+            "choice_data_list": [
+                "Ask a friend to use the machine for you from\nnow on.",
+                "Try using some kind of tool to touch the\nmachine."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A friend... I have determined that option to be\ndifficult."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "First, there are very few people that I can refer to\nas friends."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Second, those few friends will not necessarily be\nnearby when—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Then just call me over! No matter the time, no\nmatter the place, I'll Bakushin right to you in a\nflash!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class representative, I can't abandon a student\nin need! And besides, we're friends!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...We are?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course we are! Aren't you proud to have the\nclass representative as a friend?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Not particularly. But yes... we are friends..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hehe... I can imagine how thrilled you are about\nthat, but don't just stand there repeating it.\nYou're gonna make me blush."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Understood. I will call for you when I need to\nuse a vending machine, Bakushin O."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah, just leave it to me, the perfect role model\nfor all students—the class representative, Sakura\nBakushin O!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...My friend."
+        },
+        {
+            "name": "Monologue",
+            "text": "From then on..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I start to notice Mihono Bourbon near vending\nmachines at times, restlessly searching for her\nfriend, Sakura Bakushin O."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A tool... perhaps something like tongs?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! You've got a good head on your shoulders!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You can use them to put your money in and all\nthat without actually touching the machine! Let's\ngo try it out later!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. I will do as Trainer commands."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Mihono Bourbon tries using tongs to\noperate a vending machine."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Uh, what's all this? Why're you using tongs,\nBourbon?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Do you want to buy some juice or something? I'll\npress the buttons for you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe... You don't need those tongs, Bourbon. I'll\nhelp you out—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah... sorry. I can't reach the top button... Can you\ngive me a boost?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Since then, people nearby always end up helping\nme."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Based on this experience, I have determined that\nasking for help is more efficient than using tongs.",
+            "choice_data_list": [
+                "Sounds like a plan to me!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Indeed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Despite my lack of communication skills,\nsomeone will help me if I ask."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I will be sure to record this in my memory logs."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Mihono Bourbon has plenty of\nfriends willing to help her—she just hadn't\nrealized it."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, she knows just how important it is to\nrely on others."
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "title": "JBCクラシックの後に・眩しいの",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectators",
+            "text": "Falcooo! Congratulations!"
+        },
+        {
+            "name": "Spectators",
+            "text": "You'll definitely win the next race too!\nKeep it up!"
+        },
+        {
+            "text": "Smart Falcon takes her third victory in a\nmagnificent performance. The cheers of the\ncrowd grow louder and louder. And yet..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Right side. Left side. Center.",
+            "choice_data_list": [
+                "(...?)"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank yooou! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you so much, everyone! Thank you for your\ncontinued support!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Wooooo!\nFalco! Falco! Falco!"
+        },
+        {
+            "name": "Falco Fan A",
+            "text": "We definitely have to go watch the Champions\nCup!"
+        },
+        {
+            "name": "Falco Fan B",
+            "text": "Of course! We need to see Falco make history up\nclose—right up front, in the very center!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Did you see the news?! Today's attendance\nsurpassed last year. It's the highest it's ever been!",
+            "choice_data_list": [
+                "It's trending on social media too!",
+                "It's trending on social media too!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What place is it?!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Out of the trends! You're talking about Umatter,\nright? What number is it trending at?"
+        },
+        {
+            "text": "I show her my screen and all the current trending\ntopics."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Everything from first to seventh place! And more\nbelow that too!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Let's see what the internet thinks about today's\nconcert... Right now there's about eight thousand\ncomments. And it doesn't seem to be slowing\ndown."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I need to check how many times the official posts\nhave been shared. And after that, the number of\narticles—",
+            "choice_data_list": [
+                "Don't you want to see what people are saying\nfirst?",
+                "Don't you want to see what people are saying\nfirst?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? Yeah, sure... I'll look at them more in depth,\nbut later, okay?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "text": "Smart Falcon continues to check the numbers for\nthe race's popularity for some time after."
+        },
+        {
+            "text": "On the way back to campus, as if to prove that\nthe buzz about Smart Falcon is only continuing to\ngrow..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Look! It's Smart Falcon! Quick, get a photo!"
+        },
+        {
+            "text": "<i>Click, click, click!</i>"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Reporter B",
+            "text": "What an excellent race today! Not to mention the\nwinning concert!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Next up is the Champions Cup. It looks like\nyou've got a straight shot to becoming the\nundisputed dirt champion!"
+        },
+        {
+            "name": "Falco Fan A",
+            "text": "Falco! Your concert was so awesome!"
+        },
+        {
+            "name": "Falco Fan B",
+            "text": "You're the star of the dirt... No, you're a racing\ngoddess! Please, go out there and win the next\none too!"
+        },
+        {
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "They're all so... <i>happy.</i>",
+            "choice_data_list": [
+                "Let us through, please!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hold on, Trainer."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Thank you for watching me, everyone. ☆ I\ncouldn't be happier! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "The center stage belongs to me! I'll be counting\non your support!",
+            "choice_data_list": [
+                "(Falco!)"
+            ]
+        },
+        {
+            "name": "Fans",
+            "text": "Yeaaah!\nYou can do it!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Phew... Looks like this Umadol is getting pretty\npopular!",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "All good! An Umadol needs to be ready to cater\nto her fans at a moment's notice! ☆"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "Look, mommy! It's her!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? I know that little girl..."
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "You're the one who always sings here, right? I'm\nalways cheering for you!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hello! ☆ Are you with your mom today?"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "Yup! We're having a day out!"
+        },
+        {
+            "name": "Girl's Mother",
+            "text": "Excuse me, but... You've been on TV recently,\nhaven't you? My daughter loves to watch\nyou—she's practically glued to the screen at this\npoint."
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "I love all your songs! And how you sparkle when\nyou dance!"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "I want to sparkle just like you when I grow up!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Sparkle?"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "Yeah! When you smile, it's so sparkly and shiny!"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "That's why I stuck lots of glittery stickers on my\nletter! It was sparkly, right?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ah..."
+        },
+        {
+            "name": "Girl's Mother",
+            "text": "Hehe, I think that's enough chit-chat. Smart\nFalcon must be really tired, so let's tell her\ngoodbye!"
+        },
+        {
+            "name": "Girl with Pigtails",
+            "text": "Bye, Smart Falcon!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Bye now! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I wonder... Do I really sparkle now?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, um... It's nothing!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ooof! ☆ The fatigue's hitting me like a truck! I\nneed a bath right away!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Night!"
+        },
+        {
+            "text": "It looks like I need to have a heart-to-heart with\nSmart Falcon. There's no way around it."
+        },
+        {
+            "text": "And it has to be before the Champions Cup."
+        }
+    ]
+}

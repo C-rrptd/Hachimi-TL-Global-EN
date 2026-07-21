@@ -1,0 +1,129 @@
+{
+    "title": "助けてやろうか？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I hurriedly put together some documents due\ntoday, and am running to deliver them, when..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooosh!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A strong gust of wind blows them away! My spirits\nstart to sink, when..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...Whoopsie. These your papers?",
+            "choice_data_list": [
+                "Yeah! Thanks for picking them up for m—",
+                "Yeah! Thanks for picking them up for m—"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Now, what shall I do with these?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I was the one who picked them up, so it's up to\nme to decide what to do with them."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So, what'll it be? Ask nicely, and I'll give them\nback to you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't shake the feeling that she's teasing me\nagain...",
+            "choice_data_list": [
+                "Please give them back!",
+                "I'm not going to beg for them."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha! Nice and obedient, aren't we? However..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Your phrasing needs improvement. Try this: \"Give\nthem to me and I swear I'll do anything you ask.\"",
+            "choice_data_list": [
+                "Um, I don't know about that..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Can you really afford to be wasting time here? It\nsays these documents are due today."
+        },
+        {
+            "name": "Monologue",
+            "text": "She isn't wrong. I barely have any time until the\nsubmission deadline. Desperate times call for\ndesperate measures...",
+            "choice_data_list": [
+                "Give them to me and I swear I'll do anything\nyou ask!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hahaha, there's a good trainer! I knew you had it\nin you!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Here you go. They're all yours."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You know, you're pretty good at begging when\nyou put your mind to it. Let's do this again, when\nthe fancy strikes."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Suit yourself. See ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli leaves with my documents in\nhand—the documents due today.",
+            "choice_data_list": [
+                "(This isn't good...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I can still make it in time if I hurry and reprint\nthem. With that in mind, I head back to my office."
+        },
+        {
+            "name": "Monologue",
+            "text": "I just manage to submit the documents on time.\nJust as I'm breathing out a sigh of relief..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hmm... So this is your training plan..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli shows up for the second time\ntoday, still holding my documents from earlier."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "From the looks of it, your trainee shows a fair\namount of promise. I guess that explains your\nconfident attitude. But still..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shuffle!</i>",
+            "choice_data_list": [
+                "(Sh-she's too close!)"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I won't know if I never race her. Next time we see\neach other, let's make it on the track. What do\nyou think, big shot?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli utters what sounds an awful lot like\na challenge and walks away."
+        }
+    ]
+}

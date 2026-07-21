@@ -1,0 +1,34 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I run into Meisho Doto in the hallway as she's\nletting out a long and deep sigh."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sigh...</i> Why am I such a mess?",
+            "choice_data_list": [
+                "What's wrong? Did something happen?",
+                "What's wrong? Did something happen?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, T-Trainer... It's nothing serious, only that my\nskin has started feeling a little patchy..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "It must be because yesterday I mistook the\nsesame oil for soy sauce... and put it on my side\ndish."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But then my hand slipped... turning my vegetables\ninto sesame oil soup."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suppose she was against throwing the dish away.\nHer skin trouble and latest blunder leave Meisho\nDoto in a slump."
+        }
+    ]
+}

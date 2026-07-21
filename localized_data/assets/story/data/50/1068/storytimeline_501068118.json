@@ -1,0 +1,151 @@
+{
+    "title": "日本ダービーの後に・疲弊の理由",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Huff, huff... Pant, pant...</i> I managed... to make it\nto the end... But..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Uuugh... Why... are my legs... so heavy? This feels\nlike..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wooooosh!</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(It feels like I just walked through a fierce\nblizzard. Even my toes feel exhausted...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(So this... is the Japanese Derby...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Wheeze... huff... huff...</i> Uuugh...",
+            "choice_data_list": [
+                "Kitasan!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You okay?! Need a cheer or three?! Here's some\nwater!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I rush out to meet Kitasan Black, who looks\nabsolutely crushed with fatigue. Voices behind\nme prick my attention."
+        },
+        {
+            "name": "Spectator A",
+            "text": "What's up with Kitasan Black? Looks like she ran\ninto a wall or something..."
+        },
+        {
+            "name": "Spectator B",
+            "text": "It's probably the distance she ran. Plenty of\nUmamusume end up like that after running the\nDerby..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It takes Kitasan Black quite a while to recover\nenough to talk normally.",
+            "choice_data_list": [
+                "Feeling better?",
+                "Feeling better?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yes, I think so... But wow. I was so sure I'd be\ntough enough to handle the race."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Is the Derby just that intense? Or am I this tired\nbecause of something else?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After some deliberation, I decide to tell her\nabout the conversation I overheard and am\nworrying about.",
+            "choice_data_list": [
+                "Someone said the race's distance might be the\nproblem.",
+                "Someone said the race's distance might be the\nproblem."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Distance... Are you saying 2,400 meters is too\nmuch for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't say for sure if that's true. Today is the first\ntime she's run in a G1 race this long."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I was sure she could handle long\ndistances, but after watching her run today, I\ncan't say for certain anymore."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmm, what to do? Maybe shorter races are more\nmy thing..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Up until now, I've always just run all out without\npaying much attention to distances and stuff."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No worries, Kitasan Black! There's nothing to fret\nabout!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O, who has been listening to us\ntalk the whole time, inserts herself into the\nconversation, full of confidence."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Today was just a fluke. You're absolutely fine, so\nrest assured!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How can you be so sure I'll be okay, Bakushin O?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh heh heh! How could I not be? Just who do\nyou think your super special coach is, hm?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is I, Sakura Bakushin O! The Umamusume who\nhas been victorious in three 1,200-meter\nraces—aka 3,600 meters total! That's <i>super</i> long\ndistance!",
+            "choice_data_list": [
+                "So long distances... are just a couple of short\ndistances stacked together?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As far as I know, Sakura Bakushin O is a\nspecialized sprinter who has had many great\nshowings in G1 sprints."
+        },
+        {
+            "name": "Monologue",
+            "text": "That said, I've never heard anyone lump three\n1,200-meter sprints into one long-distance\n3,600-meter race... That's just not sound\nreasoning."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "If Bakushin O says I'll be okay, then I just might\nbe okay! Right, Trainer?",
+            "choice_data_list": [
+                "Uhh, I'm not really sure it's quite that simple..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I gently try to stop Kitasan Black from taking\nSakura Bakushin O's word at face value."
+        },
+        {
+            "name": "Monologue",
+            "text": "Distance aptitude aside, there's not much we can\ndo aside from watch how things unfold on the\ntrack from here on out."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, if I'm not really cut out for long races..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The autumn Kikuka Sho might be even tougher.\nThat's 3,000 meters long. I'd better keep my nose\nto the grindstone and train real hard!"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "ファンレター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I deliver a huge stack of fan letters to\nMaruzensky."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh my, so many letters! I can totally feel\neveryone's support! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, I have some time right now. Can I read\nthem?",
+            "choice_data_list": [
+                "Of course, that's why I brought them.",
+                "Of course, that's why I brought them."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thanks! Okay, let me take a look..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "\"You burn up the track like a hot rod! You're the\nbest!\" Aww, how nice! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "\"I'm so looking forward to your next race!\" Then\nI'll give you a run to remember!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hm, what's this one say? \"I love your singing,\nMaruzensky! You are my fire!\""
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's like they're saying I'm their one desire! ♪ I'm\nso happy they enjoyed my concert!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew... I think that's everything. That was so much\nfun! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All of these letters are so full of emotion... It\nreally makes me realize how much support I have."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I want to run not only for myself, but for\neveryone's enjoyment..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It really seems like my feelings are reaching\npeople."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You think so too, don't you, Trainer?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You think so too, don't you, Trainer?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's why I'll kick it into high gear again for my\nnext race."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll be happy to run, sing, and dance... They'll fall\neven more head over heels for me!"
+        }
+    ]
+}

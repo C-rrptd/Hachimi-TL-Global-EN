@@ -1,0 +1,394 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're almost halfway through summer camp, yet\nit doesn't seem like Silence Suzuka's managed to\nregain her usual vigor."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's finally time for the summer camp scrimmage,\nand everyone has high expectations for Suzuka."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff... Puff...</i>"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(I wonder what her... dream is? What is it... that\nmakes her run?)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(No! I have to focus!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, she fails to meet those expectations."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I wonder what's going on with Silence Suzuka.\nEver since we got to summer camp, she hasn't\nseemed well."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Really? I hadn't noticed at all... Do you think she's\nalready peaked?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that night, I find Silence Suzuka standing\nalone outside the camp lodgings."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...",
+            "choice_data_list": [
+                "Suzuka..."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "Something's been bothering you."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Yes.",
+            "choice_data_list": [
+                "Is there anything I can do to help?",
+                "Is there anything I can do to help?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...",
+            "choice_data_list": [
+                "I'm here for you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She gazes at her feet for a moment before finally\nopening her mouth to respond. Her voice is\nwavering and hesitant."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Up until recently... the only thing on my mind\nwhen I ran was getting into the lead."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But now... I find myself wondering about the other\nracers."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What are their dreams? What is it that motivates\nthem to run?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All I can think about is..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The things that I've done to them to get here!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I don't know what to do...",
+            "choice_data_list": [
+                "Just focus on running how you always do."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...",
+            "choice_data_list": [
+                "You aren't crushing other people's dreams by\nrunning."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The expectations of the crowd, their cheers and\napplause... They aren't just encouragement.",
+            "choice_data_list": [
+                "You're inspiring people.",
+                "You're inspiring people."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That can't be true...",
+            "choice_data_list": [
+                "At the very least, you inspire me.",
+                "At the very least, you inspire me."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you. Still..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The runners who lost could not stop crying."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...I'm sorry, I have to go."
+        },
+        {
+            "name": "Monologue",
+            "text": "She returns to the lodge, still dejected."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(My body feels like... it's made of lead.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "All of a sudden, the clamor of a racecourse can\nbe heard from the common room."
+        },
+        {
+            "name": "Racing Commentator",
+            "text": "\"Look at her go! Silence Suzuka simply refuses to\nslow down! What speed!\""
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(Is that one of my races?)"
+        },
+        {
+            "name": "Monologue",
+            "text": "We peek into the common room to find Special\nWeek with her eyes glued to the TV watching\nrace footage."
+        },
+        {
+            "name": "Special Week",
+            "text": "So coool!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Man... I've still got a lot of work to do."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah! S-Suzuka! Good morning!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ahaha, it kind of feels like you just jumped out of\nthe TV and into real life!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What were you watching?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehehe... To tell you the truth, I've kind of been\nin a slump lately."
+        },
+        {
+            "name": "Special Week",
+            "text": "So I thought I'd watch you run to get some\nmotivation."
+        },
+        {
+            "name": "Special Week",
+            "text": "I mean, check it out! The race is only half over,\nbut look at your lead! And it's growing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week points at the television screen.\nDisplayed is a determined Silence Suzuka leaving\nthe other runners in the dust."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Why?! After everything... After all the work I've\ndone!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka shuts off the TV without a word."
+        },
+        {
+            "name": "Special Week",
+            "text": "Suzuka?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Um... I'm sorry. I should've asked you before I put\nit on."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No, it's okay."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's just... Watching me isn't going to motivate\nyou."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? What are you talking about?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I-it totally works! Like, I love this part here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week turns the TV back on frantically\nand rewinds the recording."
+        },
+        {
+            "name": "Racing Commentator",
+            "text": "\"Look at her go! Silence Suzuka simply refuses to\nslow down! What speed!\""
+        },
+        {
+            "name": "Racing Commentator",
+            "text": "\"She's unstoppable! No one can catch up to her!\""
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe. I bet I know just how the other racers are\nfeeling around this point."
+        },
+        {
+            "name": "Special Week",
+            "text": "They're thinking that no matter how fast they run,\nthey just can't keep up."
+        },
+        {
+            "name": "Special Week",
+            "text": "They're thinking about how they've failed again."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(So that really is what they think...)"
+        },
+        {
+            "name": "Special Week",
+            "text": "But! That's exactly the motivation that starts a\nfire in you!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Huh?"
+        },
+        {
+            "name": "Special Week",
+            "text": "It's like: \"One day, I'll catch up! No matter what!\""
+        },
+        {
+            "name": "Special Week",
+            "text": "When I watch you run, it makes me want to do\nbetter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You aren't crushing other people's dreams by\nrunning.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You're inspiring people.\""
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "(Am I really?)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you..."
+        },
+        {
+            "name": "Special Week",
+            "text": "For what?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you for your admiration."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?! Wh-wh-what's with that all of a sudden?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "It's... it's okay if I run, right?"
+        },
+        {
+            "name": "Special Week",
+            "text": "What? Of course it is! Why? Did something bad\nhappen?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. No. Nothing at all."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Trainer.",
+            "choice_data_list": [
+                "Morning, Suzuka."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...I'm sorry about yesterday."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And I wanted to thank you."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "This morning, I was finally able to understand\nwhat you told me before.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I don't need to change anything about how I run.",
+            "choice_data_list": [
+                "Of course you don't!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka puts her worries behind her and\nlooks ahead with rekindled determination. It's like\ntime has been turned back to before summer\ncamp."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What should we do today? Maybe some mountain\nrunning?",
+            "choice_data_list": [
+                "Let's do some strength training on the beach!",
+                "Let's do a lap around the mountain!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Beach strength training, huh? ...Hehe."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I love looking out at the ocean when I train. This\nwill be fun."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been a while since I've seen her smile like this."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A lap around the mountain?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Actually, I feel like I can do it."
+        },
+        {
+            "name": "Monologue",
+            "text": "For the first time in months, I see Silence Suzuka\nrunning like her normal self, free and\nunrestrained."
+        }
+    ]
+}

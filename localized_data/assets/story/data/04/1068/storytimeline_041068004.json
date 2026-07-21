@@ -1,0 +1,259 @@
+{
+    "title": "Show Some Festival Spirit!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Teio, please... race me! I want to see how I match up—please, just this\nonce!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sure, bring it on, Kita! Let me show you just how amazing your idol\nreally is! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio accepts the challenge. With that in mind, we get straight to\nwork..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah! More... I can still run more! Ten more laps—no, a hundred\nmore laps!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm gonna find my weapon—one only I can use! <i>Pant, pant...</i> Yaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her grit is undoubtedly impressive, and she tackles any exercise\nhead-on. Instead of getting tired, the more she trains, the more she\ngets fired up."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Pant, pant...</i> When it comes to incline running... I have to train at least\nthree times harder than the others. I can keep going, I can still run...",
+            "choice_data_list": [
+                "How many laps are you going to run?",
+                "How many laps are you going to run?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "As many as it takes. As far as my legs allow—heck, even if they give\nway. <i>The</i> Teio agreed to run with me. That's why..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'll win! I <i>want</i> to win! I've been given this big chance, so I want to\nshow off something amazing and make everyone smile!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Actually, there won't be anyone watching this time... But, you know...\nthere is <i>someone</i> I'd like to make smile...",
+            "choice_data_list": [
+                "Wait, you mean me?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Of course! Trainer, you've done so much for me already!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's thanks to you that I'm here now! So even if you're the sole\nspectator, I want to make you smile! And to do that, I need to train\nmore—I need to train harder!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think back to when Kitasan Black talked about her dream. She said\nshe wanted to inspire others through her racing."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, she's placing her bets on this single race—this first step. If\nthis upcoming race was a festival, she'd be a firework lighting the\nway."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer, please! Help me create my weapon, one made just for me!\nAnd make it more powerful than anyone else's!",
+            "choice_data_list": [
+                "Yeah, you got it. Let's get to work!",
+                "Yeah, you got it. Let's get to work!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us are perfectly in sync. I prepare the toughest training I\ncan think of, and she puts her all into completing it. After training day\nin, day out..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The big day finally arrives."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh? Kita... is sprinting out of the gate?! She usually holds back at\nthe start. Did her trainer tell her to try front running?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, that is not the case. This is..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(This... is <i>my</i> weapon! Trainer and I made it together! I call\nit—Outpace the Pace Chasers!)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I'll set the pace of the race, and as long as I don't get tuckered out,\nit's my win! This race is mine for the taking!)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(<i>Pant, pant, pant...</i> I see... the final stretch! If I can hold out just a\nlittle longer...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Wait—Teio's closing in! And she's not tired at all?! Which means...\nthis'll be a speed showdown.)"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Is this all you've got?! Then it's time to end this! Haaaaah!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ahhh, Kita's falling behind!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's unfortunate, but her opponent <i>is</i> Teio. And if the race comes\ndown to a final burst of speed, then her chances are slim..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I've still got... fuel in the tank. But I can't run any faster than this... I\ncan't win, I can't win—I'm gonna lose...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(This is... just like last time. Even though I trained so much... Am I...\ngoing to lose... again?)"
+        },
+        {
+            "name": "Monologue",
+            "text": "It feels like time has stopped. No matter how much grit she has, she\nstill can't win. But at the moment when all hope seems lost, I find\nmyself standing up."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want her to know she can do it—that her grit is the real deal. Driven\nby my belief and desire to encourage her, I instinctively shout—",
+            "choice_data_list": [
+                "Kitasan Black!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I want her to know she can do it—that her grit is the real deal. Driven\nby my belief and desire to encourage her, I instinctively shout—",
+            "choice_data_list": [
+                "Kitasan Black!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Trainer! You helped build me up, even though I'm just a nobody...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Am I going to let this end without returning the favor? Am I going to\nlet all that time... all those memories... go to waste?)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I... can't let that happen. I <i>won't</i> let that happen. Because if I did...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Then I—I wouldn't be me!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You think I'll let you wiiiiin?! Grrraaagh!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh?! What the?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What... what is happening?! She's actually surpassing Teio in speed!\nAnd in the final stretch at that!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Th-that was a close one! For a second there, I thought I was actually\ngoing to lose!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, but I still pulled through. Nice try, Kita, but I'm not ready to\nlose to you yet."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nnnngh!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "W-waaaaah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wait... Kita?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Daaang iiiiit! Waaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black surprises everyone by bursting into tears, but I\nunderstand why. She might normally be a well-mannered\nup-and-comer, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a burning blaze inside her—an unrivaled urge for victory. Not\na glittering spark, but a flame a hundred—no, a thousand times more\nbrilliant."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer... I—I couldn't make you smile!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But... I can't give up! I don't want to give up! Next time, I swear I'll\nwin!",
+            "choice_data_list": [
+                "Yeah, that's the spirit—let's keep on training!",
+                "Yeah, that's the spirit—let's keep on training!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah, of course! I'll keep working hard from now and forever—and\neven after that, too! So please be my official trainer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "First, I'll make you smile, Trainer! Next, the world, and then the\nuniverse! The sky's the limit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm confident that she'll reach great heights in the future with that\nkind of unwavering conviction. Perhaps... I misjudged her at first."
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought that Kita's strength was her grit. But what was that explosive\npower she showed off in her race against Teio?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe, just maybe, her most powerful weapon might simply be... her\nability to work hard for the sake of others."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I must say, that race was extraordinary. What an inspiring show of\nemotion... And to think that I have her as my underclassman, no less."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, you've finally spread your wings, Kita."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You've found it—someone worth fighting for. I can't wait to see what\nthe future has in store for us!"
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, we're walking through the shopping\ndistrict after a bit of shopping, when..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Look at that crowd over there, Trainer."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Maybe it's a wild wrestling match! If it is, I want in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It isn't. As we get closer..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand-prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "How about you there, with the mask? Care to try\nyour luck?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ohhh! I sure do! I really, really do! I don't really\nknow how, though!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how the raffle works. Basically, you\nspend a ticket for a chance to win a prize."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oooh, I see! Well, it just happens that I got a\nraffle ticket earlier!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "This must be what it's for!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Let's do it together, Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We've got one chance for a tag-team attack!\nWhat'll it be—bang or bust?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "En sus marcas, listos, fuera!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us grasp the lever together and turn\nthe raffle tumbler."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! A hot spring vacation coupon?! Whoa...\nthis is a huge win!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait, they said it's a trip for two, right? Does that\nmean I get to go with somebody?",
+            "choice_data_list": [
+                "Nice! Use it however you'd like.",
+                "Nice! Use it however you'd like."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Bueno! Then, I'm gonna go with..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grass, Grass, Grass! Grass and I are goin' on a hot\nspring vacation!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait, no, no, no! I gotta think carefully..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yeah, on second thought, maybe I shouldn't\ninvite Grass...",
+            "choice_data_list": [
+                "Why not?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Because I can already see it!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Me, hyped as none other, splashing around and\nhaving a ball... And Grass having none of it,\ntelling me to cut it out!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grass always gets mad at me whenever I try to\nplay-wrestle in our room! Same thing when I try\nhave a pillow fight!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm sure Grass and I have way different ideas of\nwhat makes a good hot spring vacation!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grass is the calm kind of girl that appreciates old\nJapanese virtues.",
+            "choice_data_list": [
+                "Then, what are you gonna do?",
+                "Then, what are you gonna do?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'll have to find someone else. Someone who\ndoesn't get angry when I'm having fun..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Aha! Someone like you! Let's go together,\nTrainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "If you go with me, you can pour as much hot\nspring water over your head as you like, and eat\nuntil you're ready to burst! We can make\neverything a competition!"
+        },
+        {
+            "name": "Monologue",
+            "text": "None of what she's saying sounds relaxing, but\nwhat worries me the most is...",
+            "choice_data_list": [
+                "Is it okay to go in the middle of the season?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ah, that's true. If I come home all bloated from\nscarfing down food with you..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I won't be able to soar at the track. I'll be a rolling\ncondor..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right! Let's go once everything's calmed down\nafter the Twinkle Series and we have some time\non our hands!",
+            "choice_data_list": [
+                "In that case, okay!",
+                "In that case, okay!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yesss! All right, let's pinky promise!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm even more motivated now. From now on, I'm\nworkin' toward my hot spring vacation!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I end up holding onto the hot spring vacation\ncoupon. With one more goal to work toward, El\nCondor Pasa's morale has gone up."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oooh, first-prize! It may not be the grand-prize,\nbut it's still pretty good!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "It's a deluxe carrot hamburger steak! Plus, if you\nleave the cooking to me, you'll have no choice\nbut to enjoy it!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm gonna make it just the way you like it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, El Condor Pasa is going to cook it\nherself."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahem! Welcome to El Restaurante de El. And how\nwould you like that prepared?",
+            "choice_data_list": [
+                "What are my options?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "There's two you can pick from! Rare and bloody!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We also have three sauces you can pick from!",
+            "choice_data_list": [
+                "...What flavors?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Green chili, mustard, and habanero!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a restaurant from hell.",
+            "choice_data_list": [
+                "O-oh boy. I can't wait..."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Right?! This'll give us plenty of stamina so we can\ndo our best for the rest of the year!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa is quite pleased with her\nnutritious prize."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oooh, no grand-prize today! But all the same, it's\na bountiful harvest—a sea of carotene!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And if we use them well, we can do some serious\ntraining!",
+            "choice_data_list": [
+                "What are you going to do with them all?",
+                "What are you going to do with them all?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "First, I'm gonna totally line the edge of my mask\nwith 'em!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Then, when I run at the training track, Spe will\nwant some so bad she'll be chasing after me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right, off I go! Chao!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I... don't see that happening. But when I follow\nafter her..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Whoa! Look at all those carrots! Wait up, El!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The scene unfolds just like El Condor Pasa\nimagined. When she stops to eat, we give a carrot\nto Special Week as well."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the\nthird-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Laaame!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's... disappointing. I was hoping for\nsomething more special..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "All right, let's wager—you and I! Winner takes all!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Rock, paper, scissors! If I win, you give me the hot\nspring coupon. ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Y-ya know what? I think I'm gonna have to pass..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her negotiations failed, El Condor Pasa takes\nhome her single carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nooooo! This is all I get after all my hard work?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But guess what, Trainer! These aren't just any\ntissues!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "They belong to the world's strongest racer, which\nmakes them the world's strongest tissues! ♪"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ah, but even still, tissues are just tissues! Dang!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It just goes to show, hard work doesn't guarantee\nrewards. At least we have something to blow our\nnoses with later."
+        }
+    ]
+}

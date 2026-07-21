@@ -1,0 +1,76 @@
+{
+    "title": "天皇賞（秋）にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The autumn Tenno Sho is finally here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Countless spectators eager to see Silence\nSuzuka's overwhelming speed flood the\nracecourse for today's event."
+        },
+        {
+            "name": "Spectator A",
+            "text": "I wonder what we're gonna see from Suzuka\ntoday!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "I bet she's even better than she was at the\nMainichi Okan!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Definitely! I don't even care if she wins or loses, I\njust wanna see her run again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Excitement runs through the crowd as they wait\nfor the race to begin. In the prep room, however,\nthe tension is palpable."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer, there's something we need to talk about."
+        },
+        {
+            "name": "Monologue",
+            "text": "She explains calmly, yet firmly that there's a pain\nin her leg, but she won't let it take her out of the\nrace."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...But I still want to run today.",
+            "choice_data_list": [
+                "(What do I do in this situation?)"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm not sure what the future holds."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yet, we <i>can</i> overcome our limits. There's nothing\nto do but believe in that and just run."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Will you trust me just one more time? Just like\nyou did when we first started working together?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No matter what happens, I'll come back to you. I\npromise."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see the strength in her eyes.",
+            "choice_data_list": [
+                "...Okay."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her I'll be waiting for her at the finish line,\nand she responds with a bright smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her I'll be waiting for her at the finish line,\nand she responds with a bright smile."
+        }
+    ]
+}

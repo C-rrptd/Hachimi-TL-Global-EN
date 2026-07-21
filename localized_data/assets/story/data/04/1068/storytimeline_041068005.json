@@ -1,0 +1,153 @@
+{
+    "title": "A Nighttime Call",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? You're carrying all that to the science lab? By yourself? Here,\nlet me help out!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thanks for always cleaning up! I'm going to go throw out this trash!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whew! That was some good training! Not only did it feel great, but it\nwas fun to boot.",
+            "choice_data_list": [
+                "Good work today!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As always, Kita can't turn a blind eye to those in need. Meanwhile,\nher training is going as smooth as butter."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, that reminds me! I wanted to ask you something, Trainer... When I\nmake my break for the finish line, um..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I see! In the end, it all comes down to posture. If I can keep my legs\nand upper body in line with each other while lowering my center of\ngravity... Mm-hm."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um, do you mind if I run for a little while longer? I want to try out\nsome of the things you just taught me.",
+            "choice_data_list": [
+                "Well, if it's only for a little bit."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thank you, thank you! All righty! Time to shave some time off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kita begins running again, and I can't help but be fascinated by her\ncharming, yet fierce, side profile."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kita is always looking forward and searching for ways to better\nherself. Her presence alone raises the morale of those around her.",
+            "choice_data_list": [
+                "(I need to work just as hard!)",
+                "(I need to work just as hard!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I rub my eyes and force myself wide-awake. I want to help Kita—not\nbecause of my job as her trainer—but because I truly believe in her\npotential."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Get this, Dad—my trainer is amazing!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The training we do is really tough, but I can feel myself improving\nevery single day!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whenever there's something on my mind, they always come up with\ngreat tips and fresh ideas for my training!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mhm, that's right. I can fret about a problem forever and ever without\nfinding a solution, but Trainer..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Agh, it's no use! The more I try to <i>not</i> think about them, the more I\nend up thinking about the people behind me."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's just, when I try to focus only on what's in front of me, I get all\nantsy...",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, um... Like, what if they're about to overtake me? Or what if\nthere's someone who's come up right behind me?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And when that happens, I can't let them pass me, now can I? But when\nI think about this stuff too much, it starts to affect my running...",
+            "choice_data_list": [
+                "What do you think defines your running?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What defines my running? Front running, of course. I run, run some\nmore, and fly to the front of the whole pack."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "From start to finish, I keep up my pace so that even if someone <i>were</i>\nto try and catch up, I'd simply be too fast and too far in the front."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Basically, I keep my distance from the main pack and cross the finish\nline first. That's how I run!",
+            "choice_data_list": [
+                "Then why are you worried about the racers\nbehind you?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Ah."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer always listens to me and helps me out. But that's not all,\neither."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whenever I'm dealing with a problem that needs a solution, they'll\ngive me a bunch of advice so I can find the answer for myself."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "One day, I want to be just as cool. I want to be able to respond to\npeople's problems without a second thought—just like that."
+        },
+        {
+            "name": "Kita's Father",
+            "text": "..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Th-that's true..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Right. That's right... It was so obvious this whole time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black realizes something from her father's words, tightly\nclenching her fists with newfound resolve."
+        }
+    ]
+}

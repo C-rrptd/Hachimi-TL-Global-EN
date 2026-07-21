@@ -1,0 +1,66 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Kawakami\nPrincess..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hmm?! Th-that's—"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow her gaze and see a claw machine filled\nwith Umamusume plushies.",
+            "choice_data_list": [
+                "Do you want one?",
+                "Do you want one?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No thanks. I'm not interested in that kind of thing\nat all."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It wouldn't be very elegant of a princess to get\nobsessed with a claw machine."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Besides which, it's impossible to grab a plushie\nwith such a weak claw! IMPOSSIBLE, I tell you!",
+            "choice_data_list": [
+                "I take it you've failed at this before.",
+                "I take it you've failed at this before."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "H-how did you know?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, let's just forget it. That weak little baby\nclaw's not gonna—",
+            "choice_data_list": [
+                "Even small amounts of strength can be useful.",
+                "Even small amounts of strength can be useful."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ah! Now that you mention it, in Princess Fighter\nepisode twenty-six, they say, \"Don't be deceived\nby the size of a crab's claw!\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"When used the right way, even the smallest\npinch can capture a massive whale!\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer, please show me the strength of that tiny\ncrab!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

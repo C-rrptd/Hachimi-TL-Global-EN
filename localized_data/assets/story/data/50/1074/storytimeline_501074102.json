@@ -1,0 +1,184 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The new year has come and Mejiro Bright's senior\nyear starts today. A pivotal time in her career is\nabout to begin."
+        },
+        {
+            "name": "Monologue",
+            "text": "We've come to the shrine—our first visit of the\nyear—to pray for success. However..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, the line hasn't budged in the slightest,\nhas it?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I wonder if we'll reach the front by the time I've\nfinished counting the needles on this pine branch\nagain?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The line isn't just moving slowly, it's at a complete\nstandstill.",
+            "choice_data_list": [
+                "Should we give up and head home?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Now, now, Trainer. Haste makes waste, as they\nsay..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let's be patient and wait it out. I imagine the line\nwill start shuffling forward before we know it."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure I can stand to wait any longer. If we\ndon't leave now, the sun will set..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It appears there are still quite a few people in\nfront of us. I do have an idea, though, Trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Since the hall of worship is in view, why don't we\nget started with a few casual requests from our\ncurrent position?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, it can be just like partaking in appetizers\nbefore the main course.",
+            "choice_data_list": [
+                "Like... hors d'oeuvres?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Just so! And I'm sure the divine will bless us with\nsomething for waiting as long as we have..."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no point just standing around waiting for\nthe time to pass. We might as well warm up with a\nfew prayers."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Are you ready, Trainer? Let's say our prayers\ntogether."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our spirits unite as one as we happen to make\nexactly the same request:",
+            "choice_data_list": [
+                "Please let us get some good sleep while we\nwait.",
+                "Please let this line start moving.",
+                "Please let the gods come to us instead."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Please let us get some good sleep while we wait."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Zzz... Zzz...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure whether it's divine influence or simply\nher own willpower, but Mejiro Bright immediately\ndozes off."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Yaaaaawn...</i> Ah, I feel ever so refreshed... It\nseems the gods saw fit to grant my request."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh? Where are we, Trainer? It seems we've been\nspirited away by some heavenly force...",
+            "choice_data_list": [
+                "I carried you here."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You carried me? On your own? Why, thank you,\nTrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright looks better for the quality sleep\nshe got once we moved away from all the hustle\nand bustle."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pleeease let this line start moving."
+        },
+        {
+            "name": "Visitor",
+            "text": "C'mon! Keep movin' up, will ya? Can't you see\nthat empty space in front of you?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Hm? Oh my..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a miracle. Someone somewhere must have\nheard us because the line starts moving like\nclockwork, and we find ourselves at the front in\nno time at all."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee... After being thrust so abruptly into the\npresence of the divine, I had no idea what to say."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The harder I tried to think of something, the\nhazier my thoughts seemed to get...",
+            "choice_data_list": [
+                "So what did you end up praying for?",
+                "So what did you end up praying for?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well, in the end, I couldn't really think of\nanything in particular..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "So I just prayed for \"lots and lots of things to go\nwell.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "That nonchalant request is just the kind of prayer\nI'd expect from Mejiro Bright. That said, not long\nafter our shrine visit, I notice that a lot of things\nseem to be going well..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Please let the gods come to us instead."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"This would be over in a flash if the gods just\ncame to us.\" This is the wicked thought running\nthrough my mind when suddenly..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Stars above! Is that you, Bright? Come to visit the\nshrine, have you?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Because if you have, I'd be happy to guide you to\na better spot! It's far too crowded here! Come,\ncome!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my. Greetings, Fukukitaru. That would be\nterrific, thank you."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If you're hoping to pay homage to the divine, a\nmountain creek like this will do just fine. As we all\nknow, the gods reside by rivers as well."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "In fact, the natural world plays host to a myriad\nof divine spirits! Let's pay joyous tribute to as\nmany as we can!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Praying to a great many deities while enjoying a\nstroll? Oh, how delightful! You're quite the\ngoddess of good fortune yourself, Fukukitaru."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru takes us on a tour of all the\nNew Year power spots, and having learned a\ngreat deal, we come away feeling as grateful for\nher as for the gods themselves."
+        }
+    ]
+}

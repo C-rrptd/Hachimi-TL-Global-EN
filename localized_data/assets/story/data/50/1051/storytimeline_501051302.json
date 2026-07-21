@@ -1,0 +1,370 @@
+{
+    "title": "Raffle Time!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Nishino Flower and I are on our way\nback from shopping, when..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer! It looks like they're holding the raffle\nover there!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! All the prizes are incredible! The worker at\nthe grocery store wasn't kidding!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I only have one ticket and one chance. Just like in\na race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The grocery store worker from earlier actually\noffered Nishino Flower a hundred raffle tickets,\nbut she politely declined."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hey, you wanna give it a try? Here's hoping you\nget a good prize!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! And yes, I'd like to try my luck,\nplease!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower gives the raffle machine's lever a\nvigorous spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wooow!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I got the grand prize!",
+            "choice_data_list": [
+                "Congrats!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A hot spring vacation... That feels like such a\ngrown-up thing to go to.",
+            "choice_data_list": [
+                "You'll need to go with a chaperone."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh... That's right. I'm still too young to go alone..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll ask my parents. And, um..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Excuse me? Can this coupon be used for four\npeople?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I should think so! I'll check for you later!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! That means you can come too,\nTrainer. ♪",
+            "choice_data_list": [
+                "You want me to come?",
+                "You want me to come?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Of course!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I've never been to a hot spring before... but\nadults like that kind of thing, right?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Yeah. Those who like hot springs reeeally like\nthem."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That makes sense! Is this hot spring nice?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "It sure is! I've got someone in my family who's\nreally picky about hot springs, but they've given\nthat one their seal of approval!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's great! Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Now I definitely want you to come, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'd really like to go to such a nice place with you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, but that's only if you want to, of course...",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's just, I think it'll definitely be more fun with\nyou there!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So please come!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Come on, you've got to go! How can you refuse\nsuch a heartfelt request?",
+            "choice_data_list": [
+                "R-right, of course."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Nishino Flower and I make a promise to\ngo on vacation together once things aren't so\nbusy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! What a fancy hamburger steak!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. Just thinking about eating it is making me\nexcited.",
+            "choice_data_list": [
+                "You like hamburger steaks that much, huh?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yup! My mom always made them for me when I\ndid well on a test or won a race."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "To me, hamburger steaks are filled with love and\nkindness...",
+            "choice_data_list": [
+                "Its flavor must be filled with happy memories for\nyou.",
+                "Its flavor must be filled with happy memories for\nyou."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It is! What about you, Trainer?",
+            "choice_data_list": [
+                "Hmm... I'm not sure..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I've eaten them both on special and\nregular days, but I can't really remember. I'm\nalways so busy that it all blurs together."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, if you'd like, why don't we split this\nhamburger steak?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "We can have it to commemorate winning first\nprize in the raffle!",
+            "choice_data_list": [
+                "Flower..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And from now on, I'll make us a bunch of\nhamburger steaks whenever something good\nhappens!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Actually, it doesn't have to be hamburger steaks.\nI'll make you whatever you want, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll help you make all kinds of special memories\nthat you can think back fondly on! ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! Look at all these carrots!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "They're all firm, and the roots are nice and evenly\nspread. They look sweet, too. ♪",
+            "choice_data_list": [
+                "You've got a good eye.",
+                "You've got a good eye."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. I'm pretty confident when it comes to\njudging fruits and vegetables!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Whenever I help out at home, I get put in charge\nof picking ingredients at the shops. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "For some reason, my parents always got so happy\nwhenever the employees at the supermarket\npraised me..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Their smiles would be so big and warm."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I always did my best when picking, since I wanted\nto see those smiles.",
+            "choice_data_list": [
+                "You know what? I have an idea."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You do?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Mom! Dad! Can you see me okay?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, great! My trainer's holding my phone right\nnow."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Did you get dinner ready as well? It might be\nthrough a screen, but let's eat together\ntonight! ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, it's so cute... ♪"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Sorry you didn't get a bigger prize. I hope you're\nnot disappointed."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's okay! I mean, just look at how delicious this\ncarrot looks!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It may be small, but it's such a lovely orange\ncolor. I bet it'll be great stewed. ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Are you free tonight, Trainer?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If you are, I say we warm ourselves up with some\ncarrot soup! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a very cold night, but Nishino Flower's\nhomemade carrot soup keeps both our hearts and\nbodies nice and toasty."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aww...",
+            "choice_data_list": [
+                "That's a shame.",
+                "That's a shame."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No, not at all!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Now I can give anyone a tissue when they need\none!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At first, Nishino Flower doesn't seem upset, but..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I bet Trainer would've been really happy if I won the\ngrand prize..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ugh... I really wish I had won it..."
+        }
+    ]
+}

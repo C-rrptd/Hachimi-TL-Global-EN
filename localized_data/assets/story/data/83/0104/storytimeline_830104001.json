@@ -1,0 +1,172 @@
+{
+    "title": "思い出の本",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooo! I've gone and forgotten what the book's\ncalled!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I remember it was 'bout this big ol' crybaby of a\ngirl and a puppy, but... Nnnng!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm not sure if we'll be able to find it with so little\ninformation... Do you know any books that might\nfit that description, Rob Roy?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Let's see... There's <i>Light on a Snowy Night</i>, <i>Little\nGirl in a Big City</i>, and I think there should be a\nfew other candidates!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't think there was any snow, but I remember\nthem runnin' around a field full of flowers. I read\nthat book to tatters when I was a kid!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah, well! Let's just hope the name comes to me\nlater!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um! I-I'm going to look for that book for you!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What? Wait, Rob Roy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm at the bookstore at the mall on my day off to\nlook for some material I need for work, when..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bump!</i>"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah, sorry!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh. You're one of the academy trainers. Sorry I\ndidn't see you. I was too focused on the\nbookshelves.",
+            "choice_data_list": [
+                "Looking for something in particular?",
+                "Looking for something in particular?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Yes, I'm looking for a book that has a girl and a\npuppy in it... That's all the information I have so\nfar."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I thought it was worth searching the international\nreleases corner, since it might only be published\nand sold overseas."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "This is the only large bookstore around that I haven't\nchecked yet. If it's not here... then I'll look through the\nused and smaller stores too! There must be somewhere\nthat has it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Zenno Rob Roy looks dispirited for a moment,\nbut rallies herself almost immediately. She must\nreally want to find that book.",
+            "choice_data_list": [
+                "Is the book important to you?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um... Yes. Well, not to me, strictly speaking. But\nto Taiki."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "She used to read it as a child, so I'm sure it's very\nspecial to her."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I've been very shy and withdrawn since I was\nyoung, but then I read my first book, and it\nhelped me start to expand my world."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I realized everyone is doing their best to live in\nthis wide world of ours. And before I knew it, I\nfound myself wanting to step out and join them."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That first book saved me. Even as I grew older\nand read many others, that one has always\nremained special."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That's why I want to help Taiki fulfill her wish of\nreading the book she loves so much, one more\ntime."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I feel like that would be a good way to pay back\nthe debt I owe to all the books I've ever read!",
+            "choice_data_list": [
+                "Let me help you look, then."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Huh? Really? Th-thank you! If we work together,\nwe'll be able to get it done in half the time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We search through as many bookstores as we can,\nuntil..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, what do you think? This was the only book\nwe could find that has a crybaby, a puppy, and a\nfield of flowers."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow, thanks! I hate to say it, though, but this\nisn't the book I was thinking of."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh... I had a feeling this might not be it..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "The puppy turns into a dragon and battles flying\nships later in the story, among other things. You\nprobably would've remembered those parts..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm actually more impressed that you were able to\nfind such an outlandish book..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Urgh... I'm sorry I wasn't able to find your book,\nTaiki."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don't sweat it! Thanks a bunch for tryin' so hard!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Maybe my mom remembers. If I get any new info,\nI hope you'll help me look for it again!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But for now, that book you found sounds mighty\ninteresting! Since you went and found it and all,\nmind if I read it?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, of course not! Go right ahead!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ahaha! Let's read it together! I'm awfully excited\nto read a new story!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um... I'm quite interested in that book as well.\nWould it be all right if I borrowed it after you two\nare finished?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Of course! In fact, why don't we all read it\ntogether?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although it wasn't the one they were looking for,\nI have a feeling this will become a very special\nbook for all three of them."
+        }
+    ]
+}

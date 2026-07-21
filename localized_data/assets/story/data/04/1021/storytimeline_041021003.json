@@ -1,0 +1,231 @@
+{
+    "title": "遠雷",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Time flies by as I enjoy my trial period as Tamamo Cross's trainer."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Phew... Well? How was that lap?",
+            "choice_data_list": [
+                "You beat your best time again!",
+                "You beat your best time again!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Aw yes! And I'm not tired at all! Lookin' good, me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems our hard days of training are paying off, and she's feeling\nherself get stronger. But before the tryouts, I want to try one more\nthing.",
+            "choice_data_list": [
+                "How about testing your skills in a scrimmage?",
+                "How about testing your skills in a scrimmage?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A li'l test before the real deal, yeah? Good idea! I wanna see what I'm\n<i>really</i> made of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering her growth, she should have this in the bag, but we can\nstill use this opportunity to refine her form and strategy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Or, at least, that <i>was</i> the plan."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Gotta win, gotta win, gotta win! If I don't, I'm just a..."
+        },
+        {
+            "name": "Caster",
+            "text": "It's the final stretch, with our lead still setting the pace! Will anyone\nbe able to overtake her?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No! Why?! C'mon, legs, don't give up on me now! We gotta do dis!"
+        },
+        {
+            "name": "Caster",
+            "text": "Tamamo Cross speeds up, but she can't pass the lead! Has she run out\nof energy?! The lead remains the same and... we have a winner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "What was supposed to be an easy warm-up before the real deal turns\nout to be a fight to even place fifth..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What the hell... Why, after all that work, am I still garbage?",
+            "choice_data_list": [
+                "Hey, now..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sorry, but I'm callin' it a day. I needa cool off."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to take a walk. As I stroll about, I try to figure out the reason\nbehind Tamamo Cross's inability to unleash her strength during that\nlast race."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I look up, I realize I'm in the same park where I met Tamamo Cross.\nAnd just like that time, I can hear the sound of children playing."
+        },
+        {
+            "name": "Girl A",
+            "text": "Over here, Tama!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Hurry, hurry!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Geez, I didn't come here to play, ya know. You're all lucky you're\nadorable. Can't say no to—"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah...",
+            "choice_data_list": [
+                "Do you come here often?",
+                "Do you come here often?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I guess. This park reminds me of the one near my house back home.\nSo when I'm down in the dumps, I'll come here to clear my head."
+        },
+        {
+            "name": "Boy A",
+            "text": "Tama? Whatcha doing?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Gimme a minute, guys—we're havin' a chat over here! Go on, have fun\nwithout me!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...The kids here are around the same age as my siblings."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I wonder how the little scoundrels are doin'... Same goes for my\nfolks... Hope they're holdin' up okay.",
+            "choice_data_list": [
+                "Sounds like family's important to you.",
+                "Sounds like family's important to you."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah... More than anythin'."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "If I'm bein' honest, we're not exactly swimmin' in money, but that\ndidn't matter to us. Everyone was always smiling, and every day was a\nblast."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thing is... supportin' us costs money, so Mom and Dad work\nthemselves to the bone every day... I couldn't just sit around and let\nthem handle everythin'."
+        },
+        {
+            "name": "Tamamo Cross's Brother",
+            "text": "Hey, Tama! Let's buy some candy! I'm super hungry right now!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, ya know we can't afford it. 'Sides, tonight's dinner is... grilled\nfish cakes! You sure you wanna fill up on sweets?"
+        },
+        {
+            "name": "Tamamo Cross's Sister",
+            "text": "Wow! Tama's makin' grilled fish cakes?!"
+        },
+        {
+            "name": "Tamamo Cross's Brother",
+            "text": "All right! You're right, Tama. I gotta save room!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's what I like to hear! Now let's get goin'. Mom and Dad are\nwaitin' for us back home!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Just you wait, kiddos. Someday I'll buy you as much candy as you\nwant, and we'll be chowin' down on grilled <i>steaks</i> for dinner!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "After that, I got to thinkin' up ways I could make my family's dreams\ncome true. And eventually I landed on the Twinkle Series."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "If I can win all the races, I'll be super famous, right? And with that\ncomes <i>cash.</i> After that, I'll be able to buy whatever my family wants!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "My folks worked hard to get me into this academy, so I gotta make it\nworth the price! That's why I gotta win! But..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "With my crappy runnin', not only am I losin', but I'm losing <i>bad.</i> I gotta\nadmit it's a li'l... frustratin'."
+        },
+        {
+            "name": "Girl A",
+            "text": "...Tama? What's wrong?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Whatcha doin' here, ya little rascals? I thought I told youse guys\nto go play."
+        },
+        {
+            "name": "Boy A",
+            "text": "But we wanna see you run! Show us how fast you are!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "For cryin' out loud... You just think of me as a toy, don'tcha? A'ight,\nbut just this once. Back up, everybody!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ready, set... Hup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross blasts off with a ferocity that seems to send a crackle\nthrough the air. Yes, just like before... she is the lightning disrupting\nthe evening sky."
+        },
+        {
+            "name": "Boy A",
+            "text": "Whoooa! Tama, you got even faster! You were like, \"BOOM!\""
+        },
+        {
+            "name": "Girl A",
+            "text": "Yeah! And it looks like a blast!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It sure does, yeah?! Dat's why they call me \"White Lightning!\"",
+            "choice_data_list": [
+                "Who is \"they?\""
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, it started with something my dad said. He told me seein' me\nzoomin' around havin' a blast was like watchin' a streak of white\nlightning."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "My whole family's convinced White Lightning's gonna destroy the\ncompetition to become the fastest in Japan... And I don't wanna\nprove 'em wrong.",
+            "choice_data_list": [
+                "(Zooming around... having a blast...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Could those words be the key to what's holding her back?"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "title": "てかやってみん？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days have passed since forming my contract with Mejiro Palmer.\nAnother round of tryout races has come about, but as for Palmer..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... Puff... Huff...</i> Geh!",
+            "choice_data_list": [
+                "(Tensing up again?)"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haaa! No good this time, either. Sorry! And after all that training, too.",
+            "choice_data_list": [
+                "Having trouble running like you did in the\nfreestyle races?",
+                "Having trouble running like you did in the\nfreestyle races?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha, you got me there. Dang. Well, I think that during the freestyle\nraces I was able to let go of my thoughts and just run. But now that I'm\nback here..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "This is the prestigious Tracen Academy. And I'm a Mejiro. I think... I\ncan't help but get stuck on these things."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's certainly not easy to rid oneself of thoughts and habits ingrained\nfrom an early age."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But yeah, just watch me. I'm a Mejiro too, after all. I'm gonna show\neveryone today that I'm worthy of bearing the name."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her cheerful demeanor, she seems to be a very serious and\nresponsible person at heart. As a result of that...",
+            "choice_data_list": [
+                "(That's surely the Mejiro in her coming to\nsurface.)"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Ah, this sucks. Really don't want to trauma dump on my new trainer\nand all that, though. What can I even—hm?)"
+        },
+        {
+            "name": "???",
+            "text": "Waaaaah! It's so, SO over! Is my rizz not up to royal levels?! I'm\nlow-key at my limit here!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Umm... You okay? Seems like... you're going through it? Anything\nyou'd like to talk to someone about?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "...!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "You get me!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wooo! That track's got hands! Throat's totally shot! Get up there,\nPalmster, you're next!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wait, what about it being \"so over\"?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "I mean, I kinda spilled the tea for ya already! It's good vibes only\nfrom here on out! Waheeey! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Oh yo, I saw this on Umasta earlier! <i>Sheeeesh</i>, that's cute! I'm\nbasically in love with this color! Copped!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Pft, hahaha! That didn't take much!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Oh yooo, this hits DIFF. Burg is life, woo! ☆"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahahaha! Gosh, Helios, you can get a kick out of anything, huh?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "If it looks like it kicks, it probably slaps, no cap! I'm always out here\noperatin' on the most bussin' vibes!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "That's the only way to do it, yeah? Fun things are bussin'! Bussin'\nthings are mad vibes. Mad vibes are pretty fire if you ask me!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, okay. I can get down with that! I guess it really is that simple!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Simple or shrimple, you get me! It's best!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Haha. \"Slaps.\" \"Fire.\" \"Bussin' vibes\"... She's got a way with words.)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Phew... Okay, might be time to wrap it up. Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooo!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Oh hey, it's a scrimmage. And Helios is running in it.)"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "<i>Huff, huff...</i> Ahahahahaha!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wa-wa-wa-wa-waheeey! Zoooomin' on up!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Seriously? That girl can laugh even during a race?)"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ahahahahaha! Ahaaa! Lesgolesgolesgolesgooo!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(That's... Amazing. Helios is so... amazing.)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(What the heck. I'm not even the one running, but my heart's beating\nas if I were. It's almost deafening.)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Helios!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Oh, Palmster! Wait, you were watchin' me? I'm seriously gagged! Love\nya!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, you bet I was! That was an amazing race! And also like, you\ngotta tell me one thing..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "What's going through your mind when you're racing?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Huh, when I'm racing? Well, you know..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Raisin' the roof, bringin' down the house, all while having a blast!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "All there is to it, no cap! Whyzzat?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nah, no reason! No reason, really!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It's simple. And that's best!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Simple makes its comeback! You get me, girlboss. That gets you a\nwooo!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wooo! Ahahahaha!"
+        }
+    ]
+}

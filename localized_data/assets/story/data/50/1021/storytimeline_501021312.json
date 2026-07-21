@@ -1,0 +1,53 @@
+{
+    "title": "京都金杯の後に・幸先ええで！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Yes, yes, <i>yesss!</i> Didja see dat?! I got first place,\nTrainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross is overjoyed by her win at the\nKyoto Kimpai."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shortly before we decided to enter the race..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm beggin' ya, Trainer! Lemme run in the Kimpai!",
+            "choice_data_list": [
+                "The Kimpai? Why?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why? 'Cause winnin' that race is <i>real</i> lucky. We\ngotta be there!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Comin' in first would bring all kinds of luck my\nway. 'Sides, it's the first race of the new year."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I wanna blast down that track 'n stock up on some\ngood fortune. Sounds good, right? Whaddaya\nsay?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thanks a bunch, Trainer. This gonna be one lucky\nyear!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That goes for <i>both</i> of us! Y'know, since you're the\none who let me compete!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And after that, we can divvy up all the luck with\nthe fans down in Kyoto! Handouts all round!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kyoto Racecourse is teeming with Tamamo\nCross's fans, and she has a smile for every last\none."
+        }
+    ]
+}

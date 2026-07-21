@@ -1,0 +1,150 @@
+{
+    "title": "阪神大賞典の後に・刺",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Spectators",
+            "text": "You're so cool, Brian! Ahhh, look over here!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Hmph."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...If we leave now, we can probably catch an\nearlier bullet train."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hey, Trainer! Hurry it up.",
+            "choice_data_list": [
+                "I'm ready!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her attitude, Narita Brian has another\namazing race today."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she keeps it up, she'll likely do well at the\nspring Tenno Sho as well."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "Sorry, I was just thin—"
+            ]
+        },
+        {
+            "name": "Spectator A",
+            "text": "Hey, it's Narita Brian!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch... This is <i>your</i> fault."
+        },
+        {
+            "name": "Spectator B",
+            "text": "Ahhh! Today's race was so good! Hey, are you\ngoing to race in the spring Tenno Sho?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "The spring Tenno Sho..."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Oh! I heard a rumor that the Sable Assassin is\ngoing to be there! The racer with black hair and a\nblue rose—Rice Shower!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Is she strong or something?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "She's been an obstacle for both Mihono Bourbon\nand Mejiro McQueen, so, yeah, I'd say she's\npretty strong!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "But we're rooting for you, so take her down for us!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Rice Shower, huh?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Trainer, I know training resumes tomorrow, but I'd\nlike you to make some adjustments for the spring\nTenno Sho.",
+            "choice_data_list": [
+                "You want to enter the spring Tenno Sho?",
+                "You want to enter the spring Tenno Sho?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah. If there's someone strong enough to be\ncalled \"the assassin,\" then I definitely want to see\nwhat she's got."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No, I don't just want to see what she's got. I want\nto beat her.",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "All right. Then..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff, huff...</i> Whew!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Water... Need... water.",
+            "choice_data_list": [
+                "Hey, aren't you...",
+                "Hey, aren't you..."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Black hair and a blue rose... There's no mistaking\nthat she matches the characteristics of the Sable\nAssassin we've heard rumors of.",
+            "choice_data_list": [
+                "Rice Shower?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "E-eek!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah... U-um... E-excuse me!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>...That's</i> the Assassin?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true, \"Sable Assassin\" hardly seems like a\nfitting name for such a petite and dainty girl."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it won't be until the spring Tenno Sho that\nwe'll be able to see her strength with our own\neyes."
+        }
+    ]
+}

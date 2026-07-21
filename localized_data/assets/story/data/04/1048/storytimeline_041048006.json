@@ -1,0 +1,245 @@
+{
+    "title": "クリアとホワイト、パキッとフレンチ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In an attempt to grow closer to Tosen Jordan, I've started looking into\nwhat's trending these days. Today, I've made my way to the shopping\nmall."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? What are you doing here?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Checking the trends, huh? But why? Doesn't that stuff just naturally\nmake its way to you?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Like, your friends will share it, or it shows up on your feed. They just\nkeep coming, one after another.",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're taking notes? Just stop. Please. I can't.\nThis is your day off, yeah? You shouldn't spend it studying and junk.",
+            "choice_data_list": [
+                "Are you here to do some shopping?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, I guess so... Actually, if you wanna know the trends, I know a\nsuper easy way to figure that out."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Guess we're switching roles. Today, I'm gonna be your Trend Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, I'm suddenly embarking upon Trend Training with\nTosen Jordan..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "First stop, the photo booth! Gotta take a pic while my hair and\nmakeup are still on fleek. A selfie's good too, but photo booths just\nhit different, you know?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Don't worry about the pose suggestions and all that stuff. Which one\nshould we do? Better just stick to the usual for your first time, I guess."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Here. Pose like this. Easy, right?",
+            "choice_data_list": [
+                "Uh... Like this?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Stiff much? It's giving dead body. Come on, vibe with me here. Think,\n\"I'm the cutest in the whole world!\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Got it? If your heart's not in it, your face will show it. Now let's try\nthat again. Get into iiit!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hm... Ah, that top is high-key cute. And it's cropped at juuust the\nright length. Adorable as hell.",
+            "choice_data_list": [
+                "Why not try it on?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Are you for real? If I try it on, I'll just want it <i>more.</i> And do you see\nthose prices? Little bougie for my allowance. No way."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Instead, I've gotta burn this fit into my mind. Later, I'll try to find\nsomething with a similar vibe that I can actually afford."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Like, \"I won't forget you.\" Ahaha!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ha... Would it kill you to laugh at my jokes? Anyway, let's get going."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, that top is such a <i>serve!</i> I've been meaning to grab something\noversized! And it's so cheap. Yup, you're mine now.",
+            "choice_data_list": [
+                "Wh-what happened to crop tops?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hm... I can't tell if you've got more cool or warm undertones... Not\nthat it matters too much. Your glow-up is all but guaranteed with me\nin charge."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Let's go with an orange eyeshadow... And a little glitter... Now some\nwhite eyeliner on your waterline. Can't forget the pink mascara to\nmake your eyes pop!",
+            "choice_data_list": [
+                "Please... Mercy..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? Come on, if anything, I should be putting on <i>more.</i> If that's how\nyou're gonna thank me... I'm giving you a unibrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "After my impromptu makeover, we spend the rest of the day hanging\nout, and I learn more about Jordan's world."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Now <i>that</i> hit the spot. Frappes slap so hard... And the new flavors\nhere are always on point."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So? How was today? This is how I always spend my days off. You\nknow, wandering around, eating and goofing around on my\nsmartphone."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But... I'm sure it was a real bore for you, huh?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Low-key... you looked like you were about to burst an artery most of\ntoday. I'm guessing this was all totally foreign to you, right?",
+            "choice_data_list": [
+                "I wouldn't say that..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure, I had a hard time keeping up with all these new experiences,\nbut I thought I'd hid that well... I guess not."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, yeah. But to be honest, I was so worried about you that I didn't\nreally have as much fun either.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean... It's not like I didn't have <i>any</i> fun.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Anyway, it's pretty clear now, right? We're like, total opposites.\nPractically from other planets."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "We're not gonna laugh at the same stuff, so, like, it's okay to stop\ntrying.",
+            "choice_data_list": [
+                "So you knew what I was doing, huh?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm dumb, but I'm not <i>blind.</i> Anyway, I appreciate the thought, so...\ngive it a rest, okay?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "We don't <i>have</i> to vibe outside of training. We can just practice and\ngo home, you know?",
+            "choice_data_list": [
+                "Well, I think I'll keep trying anyway.",
+                "Well, I think I'll keep trying anyway."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? Why?",
+            "choice_data_list": [
+                "Because I want to know you better."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure, it was hard to keep up, but the novelty of each experience kept\nthings interesting."
+        },
+        {
+            "name": "Monologue",
+            "text": "And in the end, I learned more about Tosen Jordan. Today was well\nworth it for that alone, so I tell her as much.",
+            "choice_data_list": [
+                "In summary, I had fun!",
+                "In summary, I had fun!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I can tell when you're lying, you know.",
+            "choice_data_list": [
+                "My face may say otherwise, but my heart speaks\nthe truth!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously... You are so weird."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Isn't all that studying super boring though? Wouldn't it be easier just\nto kick back and relax?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, that's what happened to me when I tried watching <i>this!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She pulls out a video rental shop bag and shoves it into my hands.\nLooking inside, I find a DVD of Comedy Derby, the show I told her\nabout.",
+            "choice_data_list": [
+                "Did you watch this for me?",
+                "Did you watch this for me?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, but I didn't enjoy it. Your sense of humor is hella sus... But\nseeing you bomb your UmaTok impression got me curious."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Do you know how long it's been since I've rented a DVD? It took\nsooo much time to find too. Recommend something online next time.",
+            "choice_data_list": [
+                "Okay!",
+                "Okay!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Come on, why'd <i>that</i> make you smile?! Anyway, could you return that\nDVD for me? I'm out! Thanks for the frappe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod and wave a quick goodbye to her before sitting back, satisfied.\nFinally, it feels like I've grown closer to Tosen Jordan—even if only by\na teensy bit."
+        }
+    ]
+}

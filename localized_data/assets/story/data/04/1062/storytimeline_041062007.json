@@ -1,0 +1,240 @@
+{
+    "title": "A Warm and Sparkly Summer Camp",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Haa, haa, <i>HAAAAA!</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whew, feels real good out here! Gotta get more used to runnin' on\nthe bumpy sand, though.",
+            "choice_data_list": [
+                "Why don't you take a break for now?",
+                "Why don't you take a break for now?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No, I'm doing just fine! In fact, I feel like I could keep running forever!\nThe ocean works in mysterious ways, hehe."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, and there's gonna be a festival tonight. Gotta give my all in\ntraining before I get distracted by that. Up, up, and away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our summer training camp is going well so far. In addition to our daily\nsessions, we've been making a point to enjoy ourselves when we can."
+        },
+        {
+            "name": "Monologue",
+            "text": "We've already indulged in some shaved ice at the beach house, and\nhave even built a sand castle or two. Tonight's festival is bound to be\nanother highlight."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I've worked up quite a sweat today! I'm real tempted to go frolic\namongst the waves, but that'll have to wait! Off for another lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After our training is complete, I return by myself to the inn with time\nto spare before the festival.",
+            "choice_data_list": [
+                "(I think I'll take a little nap.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not often that the lobby is this empty. No one should mind if I lie\ndown on the sofa for a bit."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew, now that was a good splash! The ocean here really is the\nbest! ♪ So nice and cool..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe, let's go back for round two— Ah, wait! Gotta prep for the\nfestival. Off I go, off I go."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All righty, done changing! Got everything I need? Probably! All that's\nleft is to find..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mumu? Sleeping soundly? It's not bedtime yet, so... a nap?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, today must've been really tiring I guess?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Makes sense. We're out there training every day, and we always\nmake time for some hermit crab-hunting...)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Could all of that have been a bit too much?)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Okay, it's on me now to provide a recharge! Firstly...)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(...What should I do first? How do I even maintain my energy levels?)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Oh, that's right!)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Twas a good day, good day! Today's a great day! Ehehe!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You know, I'm really lucky to have such nice friends."
+        },
+        {
+            "name": "Active Boy",
+            "text": "Yo, Machi! What you got planned for us today? Cops and robbers?\nTag? I'm pretty fast, so I'm good for anything!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's see then... How about some tag in that case? Get ready! Rock,\npaper, scissors, pyoi!"
+        },
+        {
+            "name": "Shopping Street Lady",
+            "text": "Don't worry, dear! You can do it! I believe!"
+        },
+        {
+            "name": "Shopping Street Man",
+            "text": "She's right! There's no way you're losin' out now after all those pulls.\nYou've got this!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You guys... Thank you! This one's for all the marbles... Here goes!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Right. It's thanks to all of my friends that I can manage to be so\ncheerful. Now to share some of it with Trainer in the same way!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "I had only intended to take a nap, but upon waking up, I can tell that\nI was sleeping for a good while."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open my eyes to find heaps of food and trinkets on the table in front\nof me. Roasted carrots, yakisoba bread, and even novelty fans...",
+            "choice_data_list": [
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Trainer! G'morning!",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wondering about this stuff? They're gifts from everyone that are sure\nto amp you up!",
+            "choice_data_list": [
+                "Wait, what?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Well, you were fast asleep, yeah? It seems you were really tuckered\nout, so I was hoping to find ways to give you an energy boost."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I get all of my energy from others, so I thought I could get some of\nthem to share their energy with you too."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Do you remember from before?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Turbo was nice enough to share those rare crab gummies with me, and\nNature even let me have the last scallop strip."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Fukukitaru even said some victory prayers for me when we were\neating the seaweed jelly! The kids at the park and the shopping\nstreet folks..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You always say I've got lots of energy, but I don't think I'd be that\nway if I was alone. Everyone's always so nice to me, and that's where I\nget my drive to keep on going."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So I wanted you to experience the same thing! I hope it's gotten you\nsupercharged!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. I certainly have noticed just how much everyone's\nkindness keeps the embers of her heart burning strong."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mun, mumumu! Gather to me, spirits of vim and vigor! Energetic,\nenergizing energy blaaast!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she hits me with her energy beam, I take another look at the table.\nThere's no rhyme or reason to how the items are laid out."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can feel the warmth emanating from each of them—the kindness\nof many.",
+            "choice_data_list": [
+                "Whoa, that energy beam worked wonders!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Really? Feelin' pumped up again?",
+            "choice_data_list": [
+                "Yep, super pumped!",
+                "Yep, super pumped!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew, good! That's a relief."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, but hey, is all this stuff actually enough? Anything else you want?\nI should be able to get anything pretty easily!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After I let her know that I'm okay, she traipses around for a bit naming\noff the various things she thinks I'll like, which is also invigorating in\nits own way."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow, just look at this sea of people! The shores ring with their voices!\nThis is one happening festival, no doubt about it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser is right at home within the lively festival\natmosphere."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mambo, mambo! Do the festival mambo!",
+            "choice_data_list": [
+                "Hm? What's that all about?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Heh heh heh. It's a special festival cheer that my dad taught me.\nWanna do it together?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Heave-ho, mambo! Do the festival mambo! Back and forth now, back\nand forth, do the festival mambo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She clearly receives as much love from her family as she does from\neveryone else. And I'm looking forward to the fun days ahead being\npart of her life too."
+        }
+    ]
+}

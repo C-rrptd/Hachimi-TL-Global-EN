@@ -1,0 +1,226 @@
+{
+    "title": "The Joy of Being Together",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm walking down the academy\npromenade when I spot Admire Vega standing\nstill."
+        },
+        {
+            "name": "Kittens",
+            "text": "Meeeow. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow her gaze and spot two kittens that look\nlike siblings wrestling. Admire Vega looks more\nrelaxed than usual as she watches them.",
+            "choice_data_list": [
+                "Do you like cats?",
+                "Do you like cats?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I mean... I don't hate them..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that said, Admire Vega promptly walks away\nbefore I can say anything else."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that evening..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "She hasn't returned yet... But I didn't see her over there\neither...",
+            "choice_data_list": [
+                "Who are you looking for?",
+                "Who are you looking for?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No one... I'm just taking a walk."
+        },
+        {
+            "name": "Monologue",
+            "text": "So she says, but her eyes trail over to a small\nkitten who looks back at her and meows.",
+            "choice_data_list": [
+                "Wasn't there one more earlier?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I haven't seen her little sister since lunch."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "She's probably just gone for a walk or looking for\nfood...",
+            "choice_data_list": [
+                "Would you like me to help you look for her?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why are you offering?",
+            "choice_data_list": [
+                "Because the more people there are, the easier\nit'll be to find her."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...All right."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Finding a little kitten or two will\nbe no problem at all with the Centurial Overlord\nat your side!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mr. Tanuki, here's something with the kitten's\nscent. Can you detect it anywhere else?"
+        },
+        {
+            "name": "Tanuki",
+            "text": "<i>Snort, snort.</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I know having more people will make the search\nmore efficient, but... did you have to invite <i>these</i>\ntwo?",
+            "choice_data_list": [
+                "I thought it'd be easier to work with people you\nalready know."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Just don't come crying to me when things get out\nof hand."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Come out from your hiding, Christine! ♪ I'm here,\nnothing can harm you. ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mr. Tanuki! This isn't the lost kitten—this is your\ndinner!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Are you here? You can come out now."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "She's not here either..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We all split up in search of the missing kitten until\nfinally..."
+        },
+        {
+            "name": "Kitten",
+            "text": "Meeeow."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh. Is that the kitten we're looking for, there on\ntop of the stage?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I've found you, Christine! Your angelic serenade is\nsuch sweet music to my ears!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Stop calling her that. Geez...",
+            "choice_data_list": [
+                "What a relief!",
+                "What a relief!",
+                "You're so kind.",
+                "You're so kind."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Stop calling her that. Geez...",
+            "choice_data_list": [
+                "What a relief!",
+                "What a relief!",
+                "You're so kind.",
+                "You're so kind."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I guess."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Anyway... Thanks for helping me out."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "As they say, all's well that ends well! Now allow\nme to express the overwhelming joy hidden in\nAyabe's heart! In song form, of course!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "La-la-laaa! ♪ My heart dances, you found your\nbeloved,\nRose petals of joy bloom around the world! ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Stop that. Anyway, we found the kitten, so I'm\nleaving now."
+        },
+        {
+            "name": "Kittens",
+            "text": "Meeeow. ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're welcome. I'm glad you didn't end up\nseparated."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You girls be good now and stick together, okay?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yeah! You always come to my rescue when I make\nsilly mistakes too."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Enough of that..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm just..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Forget it. We found the kitten, so I'm leaving\nnow."
+        },
+        {
+            "name": "Kittens",
+            "text": "Meeeow. ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You're welcome. I'm glad you didn't end up\nseparated."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You girls be good now and stick together, okay?"
+        }
+    ]
+}

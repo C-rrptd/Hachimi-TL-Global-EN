@@ -1,0 +1,250 @@
+{
+    "title": "空に釣り糸を垂らして",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "I'm coming in. Yoohoo, Trainer, how's it going?",
+            "choice_data_list": [
+                "Doing great, thanks.",
+                "Doing great, thanks."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I see, I see. That's great to hear. Staying positive is what matters, no\nmatter who you are."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "text": "Seiun Sky continues to look around the room restlessly, seemingly\nunable to relax."
+        },
+        {
+            "text": "At the very least, it's clear that something is bothering her.",
+            "choice_data_list": [
+                "Why don't we go out for some fresh air?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh? Now this is a sight to see. Is my trainer suggesting we go play\nhooky?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sounds like a plan, but what should we do? Sunbathing? Looking for\ncats? Or maybe, just maybe... fishing?",
+            "choice_data_list": [
+                "You got it, let's go fishing!"
+            ]
+        },
+        {
+            "text": "The two of us head out on a fishing trip. However..."
+        },
+        {
+            "text": "..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Haha! You aren't very good at this, are you? Well, I guess I'm not one\nto talk either. Nya-ha-ha!",
+            "choice_data_list": [
+                "You're in high spirits, considering our distinct\nlack of any haul.",
+                "You're in high spirits, considering our distinct\nlack of any haul."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh-heh-heh. Do I look that way? Do I, now?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Let me give you some words of wisdom—\"Love fish, but love fishing\neven more.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's not about what or how much you fish up. What's important is <i>how</i>\nyou fish."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You can't just swing your rod haphazardly, nor can you rely on\nstrength alone to reel. You have to keep thinking—keep trying new\napproaches."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Set your goal, collect intel, make preparations, and then try it out in\npractice. By repeating this process, you learn what works and what\ndoesn't."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And when the bait you've been prepping finally catches them hook,\nline, and sinker—it doesn't get better than that.",
+            "choice_data_list": [
+                "It sounds a bit like how you run.",
+                "It sounds a bit like how you run."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Hm. Which part?",
+            "choice_data_list": [
+                "You know, how you prepare various strategies\nto help you win."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Oh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Come on, what're you saying? I think you of all people would know\nthis by now, but I'm not <i>that</i> great of a racer, y'know?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's not like I'm the kid of some famous G1 racer or anything... and I\ngot a pretty dubious rep around the academy, too. There isn't a drop\nof ambition inside me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I don't have any lofty dreams. I just want to spend my days peacefully,\nwhiling the time away fishing! That's the kind of life I live.",
+            "choice_data_list": [
+                "But don't you want to take home the gold?",
+                "But don't you want to take home the gold?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...The gold?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm? Wait a second... Are you really my trainer?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The trainer I know is a pushover rookie who lets me off the hook, no\nmatter what I say. Right?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't tell me... Are you actually a doppelganger that arose from the\nswamp to take their place? Yikes.",
+            "choice_data_list": [
+                "I'm your trainer—the one and only.",
+                "I'm your trainer—the one and only."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Right, of course... Then how come—",
+            "choice_data_list": [
+                "I'm your trainer, so I want to support you.",
+                "I'm your trainer, so I want to support you."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Hey. Anyone ever tell you that you sometimes say the darndest\nthings?"
+        },
+        {
+            "text": "For a while, Seiun Sky and I simply sit together in silence with both\nour fishing lines cast into the water."
+        },
+        {
+            "text": "Some time passes..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You know... I get it, I really do. This is the part where I open up to\nyou, isn't it?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The part where I drop a sob story about how I'm not talented enough\nto reach my dreams, or that I just wasn't born with the right build to\ngo pro."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I still think it's... well, wouldn't it be boring for me to just put\ndown my rod and give up?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's why I studied, pondered, pondered some more, and prepared\nall sorts of bait and techniques."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Then one day, I finally reeled in a big one. No one ever expected me\nto catch something <i>that</i> impressive!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Man, that was fun! I was on cloud nine! You should've seen everyone's\nfaces, with their mouths hanging open in awe!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "They were all like, \"<i>She</i> caught that?! But how?! There's just no way!\"",
+            "choice_data_list": [
+                "So that's the source of your strength.",
+                "So that's the source of your strength."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...I wonder why."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "To be honest, I'm not really one for the overzealous sportsmanship.\nY'know, passion, guts, hard work! ...All that exhausting hype."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But still, for some reason... I can't stop thinking about how I felt in\nthat moment."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Just to be clear, I'm talking about fishing—but you knew that.",
+            "choice_data_list": [
+                "Let's reel in some big ones together, okay?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Whoa there, me. Gotta go back to my happy-go-lucky mode."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, why don't we go hit the training track? I suddenly have the urge\nto move my legs a bit."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "B-but don't get the wrong idea! I'm not saying I'll listen to your\ncoaching from now on, or anything like that!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Just kidding. I tried to play coy there. How was that? Was I cute?\nTee-hee! ☆",
+            "choice_data_list": [
+                "You were the cutest!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wha?! Wait a sec..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "For starters... you're gonna have to learn not to take my jokes at face\nvalue."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Please, I'm begging you. We gotta work on our coordination, don't\nwe?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "After all, we're gonna need it to reel in a big one!"
+        },
+        {
+            "text": "Later, Seiun Sky and I finally complete our first training session\ntogether."
+        }
+    ]
+}

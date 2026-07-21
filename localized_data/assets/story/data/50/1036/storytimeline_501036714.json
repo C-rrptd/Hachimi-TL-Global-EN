@@ -1,0 +1,85 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur gets injured during training, so I hastily\nescort her to the infirmary."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "For the love of... Ugh. It looks like regular\ntraining's out of the question today."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm ready to adjust my program. I've just gotta\nnarrow down the scope as much as possible..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, we're continuing training. Doing nothing\nisn't zero—it's of negative value.",
+            "choice_data_list": [
+                "Yeah, I still think we should take the day off.",
+                "Let's put our heads together and figure out\nwhat we can do."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?! I'm sorry, is even regular conversation too\ndifficult for you?",
+            "choice_data_list": [
+                "If anything happens to you, it'll be of even less\nvalue. You'll wish you did nothing."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm just gonna collate data. You're not gonna\nstop me from typing too, are you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm gonna send you a list of things I need. Go get\nthem for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur says this irritably and starts hammering\nat her keyboard."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm just gonna do some light exercise to keep my\nmuscles from atrophying. I don't need your\nsupport."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, Air Shakur begins a gym workout."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "One... Two... Nnng!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Gasp...</i> Change of plans. My body says to take it\neasy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur cuts her training session short, looking\nas if the pain has resurfaced."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "One... Two... Three... Four..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whew... It looks like I can do this much at least."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Let's stay at this pace for now. And keep any\nextraneous opinions to yourself, got it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur keeps her training light and takes care\nnot to aggravate her injury."
+        }
+    ]
+}

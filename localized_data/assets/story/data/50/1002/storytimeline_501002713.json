@@ -1,0 +1,81 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm sorry, Trainer. I'll be able to run again before\nyou know it.",
+            "choice_data_list": [
+                "It's fine. You should rest for today."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Rest..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, after I've rested a little, do you think I can\nrun again for a bit?",
+            "choice_data_list": [
+                "You'll only make your condition worse if you\npush it.",
+                "As soon as you feel better, you can run as much\nas you want!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, after I've rested a little, do you think I can\nrun again for a bit?",
+            "choice_data_list": [
+                "You'll only make your condition worse if you\npush it.",
+                "As soon as you feel better, you can run as much\nas you want!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I know that... but..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... Do you think you could keep an eye on me\nso I don't go off running?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I'm not sure I have... the discipline."
+        },
+        {
+            "name": "Monologue",
+            "text": "I respect Suzuka's request and stay by her side in\nthe infirmary until nightfall."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Okay."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I won't be able to run today, right? What a\nshame. It's still so bright out..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to run due to her injury, Silence Suzuka\nfalls into a mental slump."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "As much as I want..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Okay. I'll get better as soon as possible, for the\nsake of running."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Trainer, I want you to search for lots of beautiful\nplaces to go running."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Silence Suzuka is burning with\ndetermination despite her injury. I should get to\nfinding new running courses right away."
+        }
+    ]
+}

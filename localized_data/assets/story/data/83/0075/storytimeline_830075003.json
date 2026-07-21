@@ -1,0 +1,191 @@
+{
+    "title": "Shadowing",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The training track is quiet at night, perfect for\nrumination."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sit in the stands, thinking over the training\nroutine for tomorrow, when..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Good evening. Are you... thinking about work...\nat this hour?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Being a trainer... must be tough.",
+            "choice_data_list": [
+                "What I'm doing now is no big—"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In the middle of my reply, I notice the sound of\nsomeone running. When I turn to look..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "<i>Huff, huff...</i> Haaaah!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, it's... her."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "I think you're amazing the way you train diligently\nall by yourself!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Her running..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "C'mon... Run faster! I can't stop here... not until I\ncatch up to her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a fire in her eyes, she runs as if in pursuit of\nsomeone invisible. It's almost like...",
+            "choice_data_list": [
+                "She's just like you.",
+                "She's just like you."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...What?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Like... me?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Do you mean... she's also... chasing after\nsomeone?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But... there's no one... in front of her..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "Phew... Okay, one more time! C'mon! I got this!\nI'm not finished yet."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "Huh? C-Cafe?"
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "Good evening! Um, do you want to run together\naga—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Who..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "...What?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Who exactly... are you chasing?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "We can't see... who you're chasing. Do you also...\nhave a Friend... only you can see?"
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "W-well, rather than a \"Friend,\" it's... uh..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "I imagine that you're there!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Me?"
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "Yeah! Because I look up to you a lot!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "How should I describe this? I feel incredibly\ninspired just from seeing you run."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "I felt jealous of your Friend, so I thought... I'd\nchase after you... who's always chasing after them."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "After... me..."
+        },
+        {
+            "name": "Bright-Haired Umamusume",
+            "text": "Yeah! Mark my words! I won't give up... not until I\ncatch up to you as you continue challenging\nyourself!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I never imagined... anyone would.... chase after\nme..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I only ever looked ahead... I only ever looked at\nmy Friend."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "This feels strange... To her, I'm...",
+            "choice_data_list": [
+                "Her very own Friend, don't you think?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Hmm. I don't know... about that... But..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The me who's chasing... after someone... as well as\nthe me... who someone wishes... to chase..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I should be capable... of running in a way that's...\nfitting.",
+            "choice_data_list": [
+                "Yeah.",
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Also..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I want to visit... the hospital tomorrow...",
+            "choice_data_list": [
+                "Huh? The hospital?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Since she's chasing me... I'll run with her... in the\nflesh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a small bow of courtesy, Manhattan Cafe\nheads back to the track, which has now become\neerily empty."
+        }
+    ]
+}

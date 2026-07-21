@@ -1,0 +1,210 @@
+{
+    "title": "青く燃ゆ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days have passed since the tryouts, where Grass Wonder\ndemonstrated her impressive physical and mental skills."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since then, trainers have been lining up to speak with her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even today as I walk down the boulevard, I see them approaching her\nagain."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for the sincere remarks, but I must apologize... I will have\nto decline your offer."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "B-but why?! If there's a problem with my methods, you can tell me! I'll\ndo anything to fix it!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I am pleased to hear such generous words. However... my mind\nremains unchanged."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I will not be accepting any offers from trainers right now."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "I see... That's a real shame, but I hear you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shoulders slumped in defeat, the veteran trainer retreats from view."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hm? Ah, it's you..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Might you have come to scout me as well?",
+            "choice_data_list": [
+                "No, I know you wouldn't accept.",
+                "No, I know you wouldn't accept."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes... I'm sorry about that."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But please, don't misunderstand. It's not that I see some fault within\nyou."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The problem lies solely within me.",
+            "choice_data_list": [
+                "You?",
+                "You?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That's right. Now... if you'll excuse me, I'll be on my way."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Grass Wonder... What a pity. That problem she mentioned—I'm sure\nit's because she isn't cut out for competition."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Oh, because she's so calm and laid-back that she lacks the drive to\ndebut and compete with others?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Geez, I guess if she herself doesn't care about winning, there's not\nmuch we can do..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It wasn't long until other trainers began whispering the same thing\naround school..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some days later, I see Grass Wonder and El Condor Pasa running\ntogether."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Pheeew... It was really simpatico of you to run with me, Grass! I think\nI've about finished."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see. It was nice spending time with you. I'll keep running a bit more."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I wish to improve my stamina with a little more training."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Huh? Why stamina? I didn't think you had any big issues in that area..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, far from it... I still have quite a ways to go."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "One more step... When my stamina is all but gone on the final stretch,\nI need to be able to push one more step forward."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Huuuuuh..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What is it, El?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nothing much... Just, you really don't want to accept any scouting\noffers?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah, that... Haha, oh, El. How many times have you brought that up?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "As you seem to forget so often, shall I write it on your forehead? \"I\ndecline.\""
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "H-h-hey, gimme a break, por favor! And would you leave my forehead\noutta this?!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Very well. But that's the truth of it. This discussion is over."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hmmmm?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...You know what's funny though? The trainers are saying that you're\nnot a competitive person."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "They say you don't accept any offers 'cause you lack fighting spirit...\nThat your calm and gentle nature isn't good for racing!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hilarious! Hahaha! Maaan, it's amazing how much they don't get you!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Because the Grass <i>I</i> know—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "El? If you've the spirit to speak this much, I think you can accompany\nme a while longer, don't you agree?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah, I know. How about some stretching? Here, let me help. Ready\nand streeeeetch..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Eep?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I-I'm really leaving this time! If I stay any longer, I feel like I might get\nmy joints twisted in ways that'll make a Romero Special look tame!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Adiooos!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That El sure is something."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...Now, back to stamina training."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I will not..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I will not relent a second time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder's expression was calm as ever as she spoke to herself,\nbut..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The light in her eyes seemed to burst with a fiery blue glow."
+        }
+    ]
+}

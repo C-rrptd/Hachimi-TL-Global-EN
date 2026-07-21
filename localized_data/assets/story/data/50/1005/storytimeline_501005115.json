@@ -1,0 +1,450 @@
+{
+    "title": "第三幕　甘い香りは変わらない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I rush back to the academy in pursuit of Fuji\nKiseki after she left the Yasuda Kinen by herself,\nand I spot a familiar dark-haired student training\nalone."
+        },
+        {
+            "name": "Dark-haired Umamusume",
+            "text": "<i>Huff! Wheeze!</i> 'Kay, one more lap!"
+        },
+        {
+            "name": "Dark-haired Umamusume",
+            "text": "Hm? You're Fuji's trainer, right? Is something\nwrong?",
+            "choice_data_list": [
+                "Have you seen her around?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She tells me she saw Fuji Kiseki heading toward\nthe outer perimeter, so I spend the next few hours\noutside searching for her."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Huff... Huff...</i>",
+            "choice_data_list": [
+                "Fuji Kiseki!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer! Sorry, I really felt like running, so I came\nback ahead of you."
+        },
+        {
+            "name": "Monologue",
+            "text": "She greets me breezily. For a moment, it's as if\nnothing is wrong."
+        },
+        {
+            "name": "Monologue",
+            "text": "But, just as Hishi Amazon said, something feels\noff about her. Something is undoubtedly wrong.",
+            "choice_data_list": [
+                "Is something weighing on you?",
+                "Is something weighing on you?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh dear, have I worried you? No need for that. As\nyou can see, I'm perfectly fine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For better or worse, Fuji Kiseki is incredibly good\nat acting. She can conceal her negative feelings\nperfectly behind her mask.",
+            "choice_data_list": [
+                "(But, now that I think of it...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Whoops..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, sorry! Yeah, I was just lost in thought."
+        },
+        {
+            "name": "Monologue",
+            "text": "There have been so many moments that felt off to\nme. It's as if she's losing grasp of her impenetrable\nfacade."
+        },
+        {
+            "name": "Monologue",
+            "text": "Whatever is bothering her must be serious. As I\nrealize this, I'm overcome with heavy guilt."
+        },
+        {
+            "name": "Monologue",
+            "text": "If only I'd noticed her behavior earlier. If only if I\nwas reliable enough for her to lean on and talk\nwith..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I just want to make some adjustments to my form.\nI'll head back after I'm done here, so don't worry."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I didn't sense anything was wrong and I made\nher face all of her battles alone.",
+            "choice_data_list": [
+                "I'm sorry if I don't seem dependable enough to\nopen up to."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh?",
+            "choice_data_list": [
+                "But please, don't force yourself to shoulder\neverything alone.",
+                "But please, don't force yourself to shoulder\neverything alone."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's not like that. Please don't make that face.\nNone of this is your fault!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I didn't want to burden you with negative\nfeelings, so I kept it all to myself..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm sorry. I'll tell you everything. Let's find\nsomewhere to sit."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm... I'm absolutely terrified of all the\nexpectations people have put on me.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You must think it weird considering how, as an\nentertainer, I've always been the center of\nattention and had people expect great things of\nme."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's not that I've never felt anxious before now..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "However, I was always able to convert my\nnervousness into something positive."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I was able to control those feelings. I thought this\nwas the path I was meant to be on. But..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The enthusiasm the world met me with after the\nend of my classic year was more passionate than I\ncould have ever dreamed."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "News articles were being written on me every day,\nmagazines were consistently sold out... I was\nhappy about that, of course..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But, to be honest... I didn't know what to do. Or\nhow to react."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Still, I was determined to do my best and meet\neveryone's expectations. And because I did that,\nmy dear schoolmate was inspired by me and\nchose her own path."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But when I realized that I had changed someone\nelse's life, I started to wonder."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Am I really worthy of such worship and\nadmiration?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Even if I am right now..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's only a matter of time before the day comes\nwhen I let her down completely."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The moment I thought that, all the expectations\nthat I previously found comforting turned into\nsuffocating pressure.",
+            "choice_data_list": [
+                "(That's right... I remember that day.)"
+            ]
+        },
+        {
+            "name": "Dark-haired Umamusume",
+            "text": "I've finally decided what path I want to take, and\nit's thanks to you that I was able to change my\nway of thinking."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki fell oddly quiet after the younger racer\nthanked her."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I kept saying that is what encourages me to go\nforward, but I feel like that's not actually the\ncase."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can't help but think..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm not actually deserving of everyone's hopes."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm weak, and pathetic, and awful.",
+            "choice_data_list": [
+                "You're not. You're none of those things."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...You're so kind."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You hit the nail on the head when you said\nsomething was off with my running today."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "While I was running, I realized I was unconsciously\nmaking up excuses for myself."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Things like, \"I wasn't good enough for the big\nevents of senior year,\" or \"I still managed to show\neveryone a dream just by taking on this\nchallenge.\""
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wondered what I should do to keep people from\ncriticizing me if I ran poorly."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There I was, standing on a stage everyone has\nhigh expectations for, in a competition all dream\nto win... and that was all I could think about.",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...I couldn't get those thoughts out of my head."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm sorry. I didn't mean to show you this side of\nme. You must be so disappointed."
+        },
+        {
+            "name": "Monologue",
+            "text": "She does her best to sound nonchalant, but she\nfails to hide the tremor in her voice."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can feel a deep and powerful fear like I've never\nfelt before coming from within her.",
+            "choice_data_list": [
+                "(She's fought to her very limit.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "People's obsession with Fuji Kiseki is borderline\nterrifying. Everyone expects the world from her\nraces."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if she was the one who said she'd put on a\nshow for them, the hurricane of fanaticism that\nwas created in its wake is unbelievable."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's all right. I'll see this challenge through.\nEveryone's waiting for me, after all."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Just... give me a bit. I'll be back to normal in no\ntime."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've never seen Fuji Kiseki so deflated and unsure\nof herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems driven by pure obligation, but\nconsidering what happened at the Yasuda Kinen,\nit's obvious she'll crash and burn if she keeps\ngoing.",
+            "choice_data_list": [
+                "(I don't want her to suffer any more.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki is a fantastic runner. She's given so\nmany people their own hopes and dreams."
+        },
+        {
+            "name": "Monologue",
+            "text": "Traces of her influence have spread wide and far,\nand I want to show her that.",
+            "choice_data_list": [
+                "Come with me!",
+                "Come with me!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh? Where are we going?! Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A certain someone springs to mind, and I rush\nback to the school with Fuji Kiseki seeking her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thankfully, she's still on the field."
+        },
+        {
+            "name": "Dark-haired Umamusume",
+            "text": "<i>Huff! Wheeze! Huff!</i> I'm not done yet! Raaah!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's her..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We watch as she sprints up a ramp with all her\nenergy.",
+            "choice_data_list": [
+                "It's thanks to you that she's working toward her\nfuture.",
+                "It's thanks to you that she's working toward her\nfuture."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She was in a considerable rut before. She hated\nhow her own distance aptitude limited her and\nhad no hopes for her own future."
+        },
+        {
+            "name": "Monologue",
+            "text": "But those eyes of hers, which were previously\nclouded with so much anger, are now looking\nsteadily ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki changed her. She dedicated the\nentirety of her precious classic year to her\nyounger schoolmate.",
+            "choice_data_list": [
+                "You're incredible.",
+                "You're incredible."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And it's not only the young student who gained\nsomething from Fuji Kiseki."
+        },
+        {
+            "name": "Monologue",
+            "text": "When people are expectant and excited, she puts\non a show that matches their energy."
+        },
+        {
+            "name": "Spectator A",
+            "text": "U-unbelievable! Did you see how fast she was\ngoing? Fuji Kiseki's a force to be reckoned with!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Right?! She was so mesmerizing, I couldn't take\nmy eyes off her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When people are anxious and filled with doubt,\nshe soothes it away with her calm presence."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There. You always look better when you smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter who it is, she always gives them\neverything she has."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki isn't an entertainer because she can\nrun fast in races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Charisma and a silver tongue alone don't make an\nentertainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "In order to give everyone the show they really\nwant, it won't be enough for me to simply run and\nwin."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm going to keep working on figuring out my\nlimits!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's an entertainer because she wants more than\nanyone to make others happy."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...",
+            "choice_data_list": [
+                "You really are someone incredible!",
+                "You really are someone incredible!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I understand now..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I was never alone...",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All this time, I was so focused on not\ndisappointing you."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wanted you to always have front row seats to my\nshows as my trainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But, oh, that was just my hubris. You were never\nin the audience."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ever since the start, you've been watching over\nme from the wings of the stage."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression relaxes just a bit into its usual\nsoftness as she speaks.",
+            "choice_data_list": [
+                "Let's keep moving forward... together."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yes. I like that plan very much."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm sorry I've been so oblivious. And thank you..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki's woes and troubles are far from over,\nbut I know we'll be able to overcome them\ntogether as a team."
+        }
+    ]
+}

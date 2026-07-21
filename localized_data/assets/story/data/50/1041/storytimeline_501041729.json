@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What?! Trainer, you... failed?!",
+            "choice_data_list": [
+                "I truly apologize..."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's fine. They say there are bumps on every road!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I've bumped into many telephone poles from too\nmuch thinking in Bakushin mode, so it's okay!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Even the greatest experts have their share of bad\nluck! I will take this experience as a lesson!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

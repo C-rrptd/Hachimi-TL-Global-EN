@@ -1,0 +1,213 @@
+{
+    "title": "第3話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while training with Super Creek as usual..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Huff, huff.</i> Phew..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "The new training plan is great! It's much easier on my legs too."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, you did such a good job! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Creek continues to show improvement. She's hitting her daily targets\nwithout a hitch."
+        },
+        {
+            "name": "Super Creek",
+            "text": "So next on the list is a light sprint on the dirt track, right?"
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "How do you ever expect Super Creek to debut with that laughably\nmeager training regimen?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, it's you again."
+        },
+        {
+            "name": "Monologue",
+            "text": "We both turn to face the veteran trainer who attempted to scout\nCreek at the tryouts."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "If only you had chosen me, then you would've debuted a long time\nago."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm... But I think that my trainer's plans are very well made."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "You vastly overestimate the ability of this rookie. ...I should show you\nwhat a <i>real</i> trainer can do.",
+            "choice_data_list": [
+                "And what do you mean by that?"
+            ]
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "I suggest that we hold a scrimmage between our racers to show which\nof us is more capable of developing talent."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "I presume you'll accept the challenge... That is if you truly believe\nyou're the best fit for Super Creek."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear, what should we do..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that I'm just a new trainer, but I know that I'm more\ndetermined than anyone else to support Creek."
+        },
+        {
+            "name": "Monologue",
+            "text": "If anyone's going to help her reach the top, it's going to be me!",
+            "choice_data_list": [
+                "I accept your challenge!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, Trainer! ♪"
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "It's only natural that trainers are proud of our trainees, and are willing\nto do whatever it takes to help them reach their full potential."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "We believe that they deserve to work only with the best. Which\nmeans that if I win, you'll hand over Super Creek to me, correct?",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Wait, I might lose her?! If that's part of the deal, then I can't accep—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Of course, that's fine with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is she serious?! How could she just accept those conditions?"
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "I didn't think you'd be the one to agree. Perhaps you admit that\njoining me is the best option."
+        },
+        {
+            "name": "Super Creek",
+            "text": "No, you must be mistaken. I don't plan on losing at all, not one bit."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "Heh, it doesn't matter though—you'll be transferring to my team soon\nenough."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the veteran trainer takes his leave."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, we better train hard then!",
+            "choice_data_list": [
+                "Why did you agree to that?!",
+                "Why did you agree to that?!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, you accepted his challenge because you believe that you're the\nright trainer for me."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It made me so happy to hear that you want to help me become my\nbest. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's why there's nothing to worry about at all. I'll make sure that\neverything's going to be all right."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's always taking my feelings into consideration."
+        },
+        {
+            "name": "Monologue",
+            "text": "So in order to show my appreciation, there's only one thing left to\ndo—I gotta prove that I'm the only trainer for her!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Basically, ya guys want me to help out with the trainin' and stuff?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, that's right. It was my trainer's idea. We agree that it would be\ngood to practice with the same conditions as the scrimmage.",
+            "choice_data_list": [
+                "She chose to put her trust in me. Now it's my\nturn to prove myself."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nah, I think she's just tryin' to spoil you again."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But whatever, it's all good. Besides, any sleazeball trainer who uses\nhis own trainee in a bet <i>and</i> tries to steal my girl like that needs to be\ntaught a painful lesson, yeah?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thanks, Tamtam! You're such a good girl."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey! Ya tryin' to pat my head again?! Get ya hands away from me! I'm\nnot a kid anymore!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah! Come back, Tamtam!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, our preparations for the match against the veteran trainer and\nhis racer begin."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good work today, Trainer. Looks like tomorrow's the day of the race.",
+            "choice_data_list": [
+                "I'm getting kinda nervous..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, don't worry... We'll be just fine. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Do you remember what Tamtam said? That I like to spoil people?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But the truth is... I just want to make others smile, whether it's the kids\nat the day care or you..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I perform my best when I'm taking care of those around me."
+        },
+        {
+            "name": "Super Creek",
+            "text": "So it doesn't matter if you're a rookie—I believe in your skills, and you\ncan count on me to prove it to everyone."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "高みに至る為",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, at the training track..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hmm, where else can I improve?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, greetings. May I have some of your time?",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To tell the truth, I've been puzzling over how to\nimprove my times, but I have been unable to\ncome up with any ideas."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If you were to offer your own racer advice, what\nwould you say?",
+            "choice_data_list": [
+                "Train your stamina and guts.",
+                "Focus on your start."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Stamina and guts, you say? I feel as though I <i>have</i>\nbeen focusing on them..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But I suppose you are quite right. No amount of\ntraining can ever be enough."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you very much for your advice. I shall start\ntraining at once!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My start, you say? You may have a point. I don't\nthink I have put much focus on it before."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But if I mean to reach greater heights, it may be\nnecessary to anticipate how races will pan out\nfrom the very start."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you very much for your advice. I shall\nincorporate this into my training at once!"
+        }
+    ]
+}

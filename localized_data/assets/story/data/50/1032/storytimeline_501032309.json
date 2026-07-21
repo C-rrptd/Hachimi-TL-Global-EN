@@ -1,0 +1,103 @@
+{
+    "title": "大阪杯の後に・自然発生",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Hanshin Racecourse is alive with excitement."
+        },
+        {
+            "name": "Fan A",
+            "text": "That's... the problem child, Agnes Tachyon. Her\nrunning style is quite something."
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, I couldn't turn my eyes away! Her potential\nis a real force to be reckoned with!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "With what she's shown us today, one has to\nacknowledge her true strength..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The standing ovation which ensues is in no doubt\nmeant for Agnes Tachyon."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "(Well, isn't the crowd boisterous today? Is that...\nmy name they're calling?)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "(...Hmm. It would appear to be the result of my\nrunning.)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, it's you, guinea pig! What did you think\nabout my run?",
+            "choice_data_list": [
+                "How are you feeling? Are you hurt anywhere?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh, I feel great, as you can see!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just like I promised, I can do just fine in the\nsenior races.",
+            "choice_data_list": [
+                "I'm glad to hear that!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mhm. Yet this is only a pit stop, dear guinea pig!\nThe journey to discover the true potential of\nUmamusume has only just begin!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've finally set sail with my hull intact. The sea is\nvast and the world my oyster!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "To that end, your assistance will be\nindispensable, Trainer.",
+            "choice_data_list": [
+                "...You can count on me!",
+                "...You can count on me!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So, the next race is the Takarazuka Kinen, a race\n200 meters longer in distance than this one."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That means it is imperative to raise my lactate\nthreshold, as well as my resistance to lactic acid."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is why I spent an entire night developing this\nnew concoction! Ta-da!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From her pocket, she pulls out a liquid glowing\nfluorescent pink."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My body is a temple. Which is where you come in,\ndear guinea pig.",
+            "choice_data_list": [
+                "S-something's off about the color!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Don't tell me a veteran guinea pig such as\nyourself is afraid because of a mere color.\nHeh-heh-heh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As always, she's coercing me to consume her\nlatest concoction."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meanwhile, the cheering and applause continues\nwith no end in sight."
+        }
+    ]
+}

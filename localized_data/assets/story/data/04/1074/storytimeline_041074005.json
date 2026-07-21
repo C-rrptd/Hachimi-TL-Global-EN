@@ -1,0 +1,163 @@
+{
+    "title": "Bathing in the Summer Rays",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The afternoon rays of the early summer sun are shining through my\noffice window. Just as I'm about to clock out for the day, the door\nopens."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, is now a good moment?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Entering through the door is my trainee, Mejiro Bright. If I recall, she\ncouldn't make it today because of some family matters...",
+            "choice_data_list": [
+                "Weren't you off for today?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Indeed. In fact, I'm currently waiting for an escort from the family\nmanor to come pick me up."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "In the meantime, would it be okay if I waited here in your office?",
+            "choice_data_list": [
+                "Sure, not a problem!",
+                "Sure, not a problem!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thank you very much. Well then, don't mind me."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "We've completely entered summer, haven't we? Our next day off is\nsure to be perfect amusement park weather.",
+            "choice_data_list": [
+                "Amusement park weather?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes. The other day, Father sent me tickets..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We continue idly chatting for a while. It feels nice to pass the time\ntogether like this, but...",
+            "choice_data_list": [
+                "Your ride's awfully late...",
+                "Your ride's awfully late..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "They are, aren't they? Still, I consider myself rather skilled at whiling\naway the hours, so I think I'll wait for a little while longer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, but you get off work early today, don't you? Will you be leaving\nthis office?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Normally, I do clock out earlier on days we don't train. But I'm not\nabout to kick out Bright and leave her all alone.",
+            "choice_data_list": [
+                "Not yet. You're still here, after all."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I appreciate it. Teehee, this reminds me of back then."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Last winter, we also whiled away the time together like this, just the\ntwo of us."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Trainer, when you're by my side, I feel as if..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I become even more carefree than I usually am."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>DING-DONG, BING-BONG...</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Hm? Oh, my... Has the sun already begun to set?",
+            "choice_data_list": [
+                "...Did something happen to your escort?",
+                "...Did something happen to your escort?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Forget clocking out early, at this point I'm going to start accumulating\novertime hours."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hmm, it is rather rare for a Mejiro driver to be even more laid-back\nthan myself."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I shall call them to check—Oh? The screen has gone all dark."
+        },
+        {
+            "name": "Monologue",
+            "text": "She plugs in her phone to charge. After some time, the smartphone\nlights up to show a few missed calls."
+        },
+        {
+            "name": "Mejiro Driver",
+            "text": "\"Excuse me, Miss Bright. Due to unexpected circumstances, today's\nplans have been postponed to a later date.\""
+        },
+        {
+            "name": "Mejiro Driver",
+            "text": "\"My sincerest apologies, but you will no longer be required to leave\nthe academy grounds...\""
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...My, this message is from three hours ago. Which means..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, I may have made you wait with me this whole time in vain."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Bright not to worry. After all, I managed to finish up tomorrow's\npaperwork, and it's my fault for not asking her to check her calls\nearlier, too."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If you're okay with it, then all is well. Still, I may have let myself be a\nlittle <i>too</i> relaxed in your office today."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That isn't to say conversing with you today wasn't enjoyable...",
+            "choice_data_list": [
+                "I had a fun time today, too.",
+                "I had a fun time today, too."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee, is that so? Then we'll leave it at that."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...But are things really okay as they are?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The sun has already long set, but I'm glad I got to spend the day\ntogether with Bright."
+        },
+        {
+            "name": "Monologue",
+            "text": "For a split second, I see her unusually deep in thought. Thinking\nnothing of it, I walk her back to her dormitory before clocking out for\nthe day."
+        }
+    ]
+}

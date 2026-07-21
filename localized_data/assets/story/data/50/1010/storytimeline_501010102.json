@@ -1,0 +1,98 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Happy New Year! New Year's here is awful\nexciting!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And I know just what to do at a shrine! Ya toss a\ncoin into the collection box and then give a big\nround of applause!",
+            "choice_data_list": [
+                "You don't need to applaud..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, really? I just figured the gods would enjoy it\nmore if I set the mood."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aaanyway, how 'bout we mosey on over to a\nshrine?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I end up paying a visit to a shrine with Taiki\nShuttle..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I asked the gods to sit back and watch me\nbecome Umamusume of the Year!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I put in plenty of work last year, so now we just\ngotta wait for the announcement!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm sure they'll be all smiles when I'm picked for\nthe title! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What did ya pray for, Trainer? Hopin' to become\nprime minister of Japan?",
+            "choice_data_list": [
+                "I prayed for you to stay healthy.",
+                "I prayed for you to keep growing and\nflourishing.",
+                "I prayed for your running to improve."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What?! You prayed for me?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wait... Did ya know about me pullin' an\nall-nighter last night?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right! I'll nix the night owl act so I can stay\nhealthy and strong!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we wrap up our shrine visit. It won't be\nlong now until the Umamusume of the Year\nannouncement!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, thanks! I'm sure I'll shoot up just like a\nbeanstalk!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm gonna keep growin' and growin' so I can catch\nhold of my dream with both hands!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I feel power wellin' up inside me all of a sudden!\nLet's get training, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we wrap up our shrine visit. It won't be\nlong now until the Umamusume of the Year\nannouncement!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Improve? You mean, like, learn some new tricks?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! I think we're on the same page!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm still not very good at breakin' outta the gate,\nso make sure to include that in your prayer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we wrap up our shrine visit. It won't be\nlong now until the Umamusume of the Year\nannouncement!"
+        }
+    ]
+}

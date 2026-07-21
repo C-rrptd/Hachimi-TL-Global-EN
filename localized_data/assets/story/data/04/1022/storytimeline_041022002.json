@@ -1,0 +1,277 @@
+{
+    "title": "Life Is Not Fair",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days later, I'm at Hanshin Racecourse to watch a big race. And\nlow and behold, who should I run into but..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wait, aren't you—oh wow! That badge... I didn't realize you were a\ntrainer!",
+            "choice_data_list": [
+                "Fine Mo—I mean, Your Highness!",
+                "Fine Mo—I mean, Your Highness!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, there's no need for that! Call me Fine Motion. It's nice to see\nyou again—I had a wonderful time the other day!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What a coincidence, though. Who would've thought I'd see you\nhere... Although, I suppose this must be an excellent learning\nopportunity for a trainer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "As for me, I'm here to watch... someone amazing."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're welcome to join me if you'd like. I got up extra early to get a\ngood spot! Let's cheer her on together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Caster",
+            "text": "They've entered the backstretch! Today's favorite, T.M. Opera O,\ncruises along at the center of the pack. At the rear, we have Air\nShakur, keeping an eye on the competition!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Heh. Just you watch!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur! Good luuuck!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion bounces up and down excitedly as she cheers, eyes\nglued to Air Shakur."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur is such an inspiring racer. She's so clever... but she's also\npainstakingly straightforward when it comes to her goals!"
+        },
+        {
+            "name": "Caster",
+            "text": "They round the final corner and begin their last spurt down the\nhomestretch! T.M. Opera O breaks away from the pack—is the lead\nhers?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Not yet! Watch what Shakur's doing. The last spurt is where she shines\nbrightest!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hraaaaaah!"
+        },
+        {
+            "name": "Caster",
+            "text": "Air Shakur! Air Shakur chases the lead! What precision—Air Shakur\ncatches up just before the goal! Will it be enough?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah... Shakur!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Fine Motion cheers, something catches my attention.",
+            "choice_data_list": [
+                "(She's got the same twinkle in her eye as she\ndid the other day...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That was a great race, Shakur! Especially the last spurt—the way you\ncaught up was breathtaking! My heart is still going wild..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch... Catch up, my ass. I got second, idiot."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, well... I know you wanted to win, but... that doesn't change how\nimpressive your technique was one bit."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The sheer precision you displayed shows just how much time you\nspent calculating everything. And then the fierce determination as\nyou ran... It really, truly was stunning."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I made a very special memory today. Thank you, Shakur!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ugh, whatever."
+        },
+        {
+            "name": "Monologue",
+            "text": "I escort Fine Motion back to Tracen and listen to her gush the entire\nway."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahh, I can't get over it! Shakur was so cool! Wasn't the last spurt\namazing? The way she went all-out at the end gave me chills!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I keep seeing it over and over in my head! She was biding her time at\nfirst, and then she took off like, like—"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Ah! Your Highness, come back!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Huff, huff...</i> Not yet... Not yet! I have to save my stamina, and then...",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her sudden take-off caught me off guard, but I'm even more shocked\nby how skilled she is."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her form is a little rough, but that just means she could go even <i>faster</i>\nwith training! But most of all..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Huff, huff...</i> Now! The last... spurt! Yaaaah!",
+            "choice_data_list": [
+                "(She's got that gleam in her eyes again.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm frozen in place watching her. The way she runs just looks so..."
+        },
+        {
+            "name": "Monologue",
+            "text": "So <i>fun.</i>"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Your Highness! Wh-what on earth do you think you're doing?! Have\nyou forgotten the terms of the study abroad trip? You mustn't\nover-exert yourself!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Eh? ...Oh! I beg your pardon! I don't know what came over me... I'm\nsorry.",
+            "choice_data_list": [
+                "Wait... Does that mean you're not allowed to\nrun?",
+                "Wait... Does that mean you're not allowed to\nrun?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha... Yes, I'm afraid it does."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I was given leave to study abroad on the condition that I'd avoid\nanything dangerous. That includes strenuous physical activities, so...\nno running, and certainly no races.",
+            "choice_data_list": [
+                "But if you're not allowed to race, then..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Silly as it sounds, I wanted to study at Tracen, no matter what it took!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There are Umamusume my age, pouring their whole hearts into their\ndreams... I wanted to talk to them—to be their friend."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "All in the hopes that someday those memories will give me strength.\nWhen it comes time to shoulder my own fate, I'll have all these\nwonderful experiences to draw upon.",
+            "choice_data_list": [
+                "(To \"shoulder\" her fate...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The words come out so naturally, it makes them feel that much darker.\nI painfully realize that no matter how friendly or unassuming she\nseems now..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion has unimaginably heavy responsibilities waiting for her\nback home."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I'm lucky that Japan is such a safe country! I don't know how I\nwould've convinced my father otherwise."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've already made so many friends, I got to visit restaurants I dreamed\nof, and I've seen top-class races in person."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'll be going home with the biggest smile!",
+            "choice_data_list": [
+                "Are you sure about that?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The words escape before I can stop myself."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Eh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help it. She keeps emphasizing how \"happy\" she is just to visit\nplaces or meet people... But I don't believe for second that she's\nhappy just watching other students race. After all...",
+            "choice_data_list": [
+                "Are you really getting the experience you\nwanted?",
+                "Are you really getting the experience you\nwanted?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes have lost all the light they had at the race."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, um... I..."
+        },
+        {
+            "name": "Security Captain",
+            "text": "...Your Highness. It is growing cold. You should return to the\ndormitory."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's it. Security leads her away without another word. But...\neven without a proper answer, Fine Motion's reaction said everything.",
+            "choice_data_list": [
+                "(I'm sure this isn't what she wants!)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. You. Do you have any idea what that little stunt did to her?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Cut the crap! You know what I mean!\n...Damn it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you haven't got the guts to follow through, then piss off and stop\nmaking things worse.",
+            "choice_data_list": [
+                "(Follow through...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Shakur's stern advice stings, and the matter weighs ever more heavily\non my mind..."
+        }
+    ]
+}

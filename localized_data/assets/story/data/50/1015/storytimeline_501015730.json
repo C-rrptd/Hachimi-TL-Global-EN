@@ -1,0 +1,33 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "T.M. Opera O",
+            "text": "Excellent!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The time spent in my shining presence has given\nrise to your knightly skill. Be grateful!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, we must return home at once to prepare a\nstage! These little ones have waited long enough!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, I know! I'll prepare the best seat in the house\nfor you, Trainer!",
+            "choice_data_list": [
+                "Uh, the best seat?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, you'll be put in the center of the front row!\nAs a reward for that brilliant rescue, you may\nbask in my radiance to your heart's content!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

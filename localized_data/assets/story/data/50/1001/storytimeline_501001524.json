@@ -1,0 +1,160 @@
+{
+    "title": "Special Week's Alter Ego",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking through town on a day off, when I\nhappen to hear a cheerful voice calling out from a\nChinese restaurant down the road."
+        },
+        {
+            "name": "Chinese Restaurant Owner",
+            "text": "Come on in, folks! Our grand eating contest is\nfinally about to begin!"
+        },
+        {
+            "name": "Chinese Restaurant Owner",
+            "text": "Our hungry contestants are once again <i>drooling</i>\nat the prospect of seizing the throne today!"
+        },
+        {
+            "name": "Chinese Restaurant Owner",
+            "text": "Introducing our three-time undefeated champion,\nthe Stomach Bulldozer of Hokkaido, Special\nWeek!"
+        },
+        {
+            "name": "Special Week",
+            "text": "HAHAHA! That's me, the Bulldozer! I love mapo\nrice bowls! OH YEAAAH!"
+        },
+        {
+            "name": "Special Week",
+            "text": "H-huh?! Trainer, what are you doing here?!",
+            "choice_data_list": [
+                "When did you become a reigning champion\nhere?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Th-this isn't what it looks like! This just sort of...\nhappened!"
+        },
+        {
+            "name": "Special Week",
+            "text": "They were, uh, having an eating contest when I\npassed by here a while back..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I got curious, so I signed up and ended up\nwinning... And I've sort of been defending my title\never since...",
+            "choice_data_list": [
+                "This isn't exactly fit for an athlete's diet, you\nknow.",
+                "This isn't exactly fit for an athlete's diet, you\nknow."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I-I know! But... I'm the reigning champion! I can't\nlet people down!"
+        },
+        {
+            "name": "Spectators",
+            "text": "C'mon, champion! Show us your stuff today!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! Okay! Um.. Hahahahaha! It's chow time!\nYEAH!",
+            "choice_data_list": [
+                "You're really getting into it...",
+                "You're really getting into it..."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "W-well, no, actually the restaurant owner asked\nme to come up with a fun persona, so..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Please, Trainer! Just let me participate in this one\nlast time!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'll step down as champion after today, promise!",
+            "choice_data_list": [
+                "...Then you'd better go out with a bang.",
+                "Fine, but don't overeat.",
+                "Go full bulldozer!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you so much, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Listen up, fans and foodies! I know this is sudden,\nbut after today's contest, I will be stepping down\nas champion!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "What?! Is she yankin' our chains here?!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Whoa! The champion just spoke normally!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Which is why today, I'm going to eat like there's\nno tomorrow and leave no room for regrets!\nYEAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week wins the contest in spectacular\nfashion, then steps down from her position, thus\npreserving her title as undefeated champion."
+        },
+        {
+            "name": "Special Week",
+            "text": "Got it! I'll do my best to only eat an\nappropriately-sized portion!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week does her best while reining in her\nappetite, but with the other participants digging\nin with such gusto..."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Sigh.</i> I lost...",
+            "choice_data_list": [
+                "I guess you really did curb your appetite...",
+                "I guess you really did curb your appetite..."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, no, it's better this way, actually. I knew I\ncouldn't keep doing this, but I didn't feel like I\ncould stop either..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Besides, my goal is to become the best racer in all\nof Japan, not the biggest eater! Let's get back to\ntraining! OH YEEEAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She might not have the title of champion\nanymore, but it doesn't look like her high-energy\nalter ego is going anywhere just yet."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? What's wrong, Trainer?!",
+            "choice_data_list": [
+                "For you are... THE CHAMPIOOOON!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Wh-what? Why are you talking like that?",
+            "choice_data_list": [
+                "Show us your what your stomach's made of,\nchampion! YEAAAH!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "O-okay! YEAAAH!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hahahahaha! I-I'm the Stomach Bulldozer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her pseudonym, Special Week bulldozes\nthrough every dish put in front of her, and claims\nvictory as the champion once more."
+        }
+    ]
+}

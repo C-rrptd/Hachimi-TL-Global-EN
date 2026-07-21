@@ -1,0 +1,199 @@
+{
+    "title": "闇に溶ける夕",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm taking a stroll through the\nstreets..."
+        },
+        {
+            "name": "Figure in Black A",
+            "text": "...Over here. Hurry.",
+            "choice_data_list": [
+                "Isn't that..."
+            ]
+        },
+        {
+            "name": "Woman in Tuxedo",
+            "text": "Ladies and gentlemen! I cordially welcome you to\nour casino tournament! The stakes—nothing but\nyour dignity as a high roller! Compete to your\nheart's content, for today and today only! ♪",
+            "choice_data_list": [
+                "Wh-what is this place?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, for cryin' out loud. I thought I saw a fish outta\nwater, and here you are again."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Before you get any funny ideas, this tournament\nis completely legit, all right? Despite the\nunregistered busybodies stickin' their noses in."
+        },
+        {
+            "name": "Crowd",
+            "text": "Pssst! Look, it's her...\nThe legendary dealer—the Angel of the Night!\nOh, I can't believe I get to see her in person!",
+            "choice_data_list": [
+                "Isn't that the woman we ran into by the river?"
+            ]
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "Oh, my. Who do we have here? Hehe. Long time\nno see."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Well, well, well. Looks like <i>Your Holiness</i> is\npretty popular."
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "Indeed, and I've chosen you as my opponent.\nWhat do you say? Care to put your pride on the\nline?"
+        },
+        {
+            "name": "Crowd",
+            "text": "No way! An opponent handpicked by the Angel\nherself?\nWho is that?\n<i>Snicker.</i> Nobody beats the Angel..."
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "The name of the game is five-card draw. You can\npick your chips up at reception. The rules are\nstandard, for the most part."
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "There is one twist, however. The loser has to\nprovide a... <i>tip</i>, shall we say, for flushes and\nhigher."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "So you're sayin' if someone plays a full house or a\nfour of a kind, the other player has to cough up\nmore dough outside of the pot?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Hey, Trainer. Watch my back, would ya? I don't\nneed any lookie-loos peekin' at my cards."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus begins the poker match. The first round goes\nto Nakayama Festa with a pair of kings. The\nsecond ends in a draw, followed by another round\nfor Nakayama in the third bout."
+        },
+        {
+            "name": "Monologue",
+            "text": "Without a doubt, Nakayama Festa has luck on\nher side. The fourth round commences with her\nopponent's chips greatly diminished. Then, an\neven better opportunity arises...",
+            "choice_data_list": [
+                "(She's got three aces!)"
+            ]
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "...I call. And you?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...I got nothin'. I fold. Gimme a sec. I need some\nfresh air."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "We just finished the deck, right? Make sure ya\nshuffle it while I'm gone."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Phew...",
+            "choice_data_list": [
+                "But you had three of a kind..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Show one, show all. Even if the hand's finished,\ndon't go around revealing the cards."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Besides, she had at least a flush. I'd have been\nforced into payin' that so-called \"tip\" if I'd stayed\nin.",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "That's my hunch, at least. More importantly, I\nwanted to get the deck shuffled."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "We discarded our hands every round and were\ndealt cards from the same deck. In other words,\nwe could count the cards.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "It's a way of figurin' out what cards are left in the\ndeck. She made me reveal my cards after every\nround, remember? However..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Now that I've made her shuffle the entire deck, all\nthe knowledge of past cards she saved up has\ngone down the drain. Maybe it's time <i>I</i> took that\n\"insane luck\" for a spin."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hey, whaddya say we go for broke? Don't even\nworry about the difference in chips. All or nothin'."
+        },
+        {
+            "name": "Angel of the Night",
+            "text": "What?! You're willing to throw away your lead? If\nthat's how you want to play... I may just have to\ntake you up on that!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Be my guest. My shoulders are crampin' up in\nanticipation... I don't wanna settle for anything\nsafe—I'm <i>hungry</i> for the win."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Now, Dealer. I want to draw one card, <i>but...</i> I'm\ngoing to choose which one."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nakayama Festa closes her eyes and points to a\nsingle card in the deck."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's the spitting image of Special Week during\nthe Tracen Concentration Card Game Tourney."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shortly afterward, the venue is abuzz with talk of\nhow an unnamed Umamusume defeated the\nlegendary dealer with a straight flush."
+        },
+        {
+            "name": "Monologue",
+            "text": "After which, fresh off of her victory, she promptly\ndisappeared from the premises without playing\nanyone else."
+        },
+        {
+            "name": "Monologue",
+            "text": "Days later, I spot Nakayama Festa at the\nacademy.",
+            "choice_data_list": [
+                "You...",
+                "You..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, it's you. Sorry to leave you in the thick of it\nthe other day, but ya can't blame anyone for\nwantin' to get away from all that commotion."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I wasn't after fame, after all. I just wanted a\nchallenge."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice there's a bus parked up ahead of her.\nCome to think of it, the morning news said that\nshe's racing today.",
+            "choice_data_list": [
+                "On your way to the next challenge?",
+                "On your way to the next challenge?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Yeah. Looks like it's gonna be a bit of a pain..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heheh. Still, you'd better watch. You're in for a\nshow."
+        }
+    ]
+}

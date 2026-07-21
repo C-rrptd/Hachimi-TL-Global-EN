@@ -1,0 +1,54 @@
+{
+    "title": "レース敗北",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "Pathetic! I lost big time..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Didn't even get onto the scoreboard. Someone\ndig me a hole to hide in...",
+            "choice_data_list": [
+                "At least you gave it your all.",
+                "We can't afford to waste time dragging our feet."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...!\nNow those are some words of wisdom!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I went all out, yet I still lost 'cause I simply wasn't\nstrong enough. That's somethin' I gotta face up\nto."
+        },
+        {
+            "name": "Inari One",
+            "text": "Even though I'm a total screwup, ya never stop\nlookin' out for me, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Even though I'm a total screwup, ya never stop\nlookin' out for me, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "All right! Ya gotta make me stronger so that next\ntime, I can return at the head of the pack! I'm\ncountin' on ya!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, ya got that right, Boss."
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh, ya got that right, Boss."
+        },
+        {
+            "name": "Inari One",
+            "text": "Runnin' away with my tail between my legs is no\nway for an Edo girl to behave!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm gonna win for sure next time! So hurry up and\ntell me what I gotta do!"
+        }
+    ]
+}

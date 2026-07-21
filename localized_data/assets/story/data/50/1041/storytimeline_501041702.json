@@ -1,0 +1,234 @@
+{
+    "title": "クラスメイトとバクシン！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm out with Sakura Bakushin O during one of our\ndays off, but she seems to be distracted by\nsomething.",
+            "choice_data_list": [
+                "You seem down. What's up?",
+                "You seem down. What's up?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...One of my classmates is leaving the academy."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm really going to miss her, both as class\nrepresentative and as a friend..."
+        },
+        {
+            "name": "Monologue",
+            "text": "One characteristic of the academy is that\nstudents frequently come and go. Despite that, it\nstill isn't easy to part ways."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait? Is that..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A student wearing a tracksuit runs right past us.\nShe appears to heading toward the academy.",
+            "choice_data_list": [
+                "Someone you know?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's the classmate I was just talking about! She\nshouldn't be training at this time of night..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I can't allow it as a class representative! Stop right\nthere!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's already late, so you had better head back. I\ncan't overlook someone breaking curfew!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Ah, I know I'm breaking the rules. But I don't have\nmuch more time!",
+            "choice_data_list": [
+                "What do you mean?",
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "I'm leaving the academy because my father is\nbeing transferred overseas for work..."
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "So, for my final race—well, final scrimmage—I\nwant to practice as hard as I can so I don't leave\nwith any regrets."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Your final race..."
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "I didn't have much talent and didn't even have a\ntrainer... But I want to go out on a race I feel\nsatisfied with!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see. I understand how you feel. And I've made\nup my mind!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "From this moment forward, I—as class\nrepresentative—will assist with your training!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Is that all right, Trainer?",
+            "choice_data_list": [
+                "Sure, but not today. It's past curfew!",
+                "Sure, but not today. It's past curfew!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh, that's right! Your training begins tomorrow!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "With my help and my trainer's guidance, you'll\ndefinitely take first place!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, I help Sakura Bakushin O train her\nclassmate."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her classmate informs me that she's racing in a\nlong-distance scrimmage, which is Sakura\nBakushin O's greatest weakness.",
+            "choice_data_list": [
+                "What are you going to do?",
+                "What are you going to do?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All I can do is give it the ol' Bakushin try!\nBakushin will light the way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives the answer I expected. The answer I\nfeared. And so...",
+            "choice_data_list": [
+                "Bakushin full speed ahead, but watch your\nstamina!",
+                "You need to consider your timing when you\nBakushin."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how endurance and stamina are essential\nfor completing the track and succeeding in a\nlong-distance race."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! It's definitely impossible to Bakushin if you\nlack the energy to do so!",
+            "choice_data_list": [
+                "So let's focus on training your energy retention."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I understand! Let's see it through to the end!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Huff, huff...</i> Whew... Okay! That's... enough for\ntoday!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Thanks, Baku! You too, Trainer!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "I really feel like I got somewhere in today's\ntraining. I'll definitely make sure to leave a good\nfinal impression!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's... all... that matters..."
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "B-Baku?! Did... Did she fall asleep?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Being that she's a sprinter, the long-distance\ntraining has clearly taken its toll."
+        },
+        {
+            "name": "Monologue",
+            "text": "However, she pushed herself beyond her limits to\nhelp train her classmate.",
+            "choice_data_list": [
+                "Good work out there, Representative."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Snore...</i> I was merely... doing my job. <i>Yawn...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch her sleep, I notice a small smile of\nsatisfaction on her face."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how a dash of speed at a critical\nmoment could help her fly up into the lead."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! So my Bakushin is like a secret finisher!",
+            "choice_data_list": [
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "One needs to wait and find the right timing to\nBakushin!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Okay, I got it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "To train her, I first need to understand the\nabilities and running tendencies of Sakura\nBakushin O's classmate."
+        },
+        {
+            "name": "Monologue",
+            "text": "I devise a training schedule tailored to what we're\ndealing with and have both of them participate."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay, let's finish for today!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I think you've really nailed the perfect timing to\nBakushin thanks to this training!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Yeah! Thanks to that, I really feel like I got a\nhang of it! I'll definitely deliver results!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm expecting a great show! Bakushin will solve\neverything!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Hehe! Thanks! You always help me out, Baku."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Naturally! I am the class representative after all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that being appreciated by a fellow\nclassmate helps to raise Sakura Bakushin O's\nconfidence."
+        }
+    ]
+}

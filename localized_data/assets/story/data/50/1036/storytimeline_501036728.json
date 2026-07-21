@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Not too shabby, but you could use some practice\ndoing physics calculations in your head."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So what're you gonna do with the loot?",
+            "choice_data_list": [
+                "You interested?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Not even a little bit. ...But on the other\nhand, we've gotta do something."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I bet there's someone back at the academy who'd\nbe interested. I'll check when we get back."
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

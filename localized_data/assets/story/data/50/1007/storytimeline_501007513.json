@@ -1,0 +1,260 @@
+{
+    "title": "主人公の赤！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while walking around the academy..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I've been workin' on the raaailroad, aaall the\nlivelong day. ♪"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh! Hey, Trainer! Out getting some nice, fresh air\nover your gills today?"
+        },
+        {
+            "name": "Monologue",
+            "text": "For some reason, Gold Ship is in her signature\nracewear.",
+            "choice_data_list": [
+                "Why are you wearing that?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "This? Actually, I just did battle with a massive\ntuna, and boy, was it tough."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Heroes always wear red, so here I am, channeling\nsome of that red hero energy to myself!",
+            "choice_data_list": [
+                "Is hero energy even a thing?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, c'mon, Trainer! Don't tell me you don't know\nabout the ultimate power of the color red!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Think back to the Saturday morning cartoons you\nwatched as a kid. You know, the ones about good\nversus evil? Now, what color did the main\ncharacter always wear, hm?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ding, ding, ding! That's right! Red. The strongest,\nbestest hero always wears red and always wins.\nThat's how the system works."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So why the heck wouldn't I pick the red outfit\nwhen I get the chance?! I'm guaranteed to win if I\ndo!",
+            "choice_data_list": [
+                "I guess that makes sense..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't quite follow her logic, but she seems to\nhave it all figured out."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well, it's high time I set sail to find my next fishy\nopponent..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just when Gold Ship turns to leave..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Dun-dun!</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh heh heh. Hold it right there. ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I believe I just heard you claim that red is a hero's\ncolor... but what makes you so sure?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, two incredibly intimidating\nUmamusume block Gold Ship's path!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Holy cannoli! Maruzen and Pearl?! What're you\ntwo doing here?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe. Red just happens to be our color too. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "While many heroes do wear red, that isn't red's\nonly charm."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Doesn't the sight of it stir your heart? Don't you\nfeel a mature <i>allure?</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohoho! Why, red is the choice hue for a femme\nfatale. It's the color of dangerous beauty!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Now tell me... Don't you want a taste of what it's\nlike to live on the edge?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Guh! Their villain vibes are off the charts!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So much for my iron-clad dissertation on why\nred's the color of heroes!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Help me, Trainer! What's the truth here?!",
+            "choice_data_list": [
+                "Red can mean many things.",
+                "Red can mean many things.",
+                "Hold strong to your beliefs!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Help me, Trainer! What's the truth here?!",
+            "choice_data_list": [
+                "Red can mean many things.",
+                "Red can mean many things.",
+                "Hold strong to your beliefs!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So that's how it is... All this time, I've\nunderestimated the power of red."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The reality is, red always had the potential to be\na hero... or a villain."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh? This is new. Are you really accepting the\ntruth without making a fuss?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yes, I give. Gone are the days of my childish\nrebellion. I've matured."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! You're all grown up now, are you? No\nworries, dear. We'll show you the ropes of being\nan adult. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yes, that's right!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So many new discoveries await you now that\nyou've taken your first step into adulthood."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But it's all right. Everyone is nervous at first, but\nthere's nothing to fear. Come, we'll guide you\nwell."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I-it's time for me to become a true adult... I'll see\nyou on the other side, Trainer.",
+            "choice_data_list": [
+                "Are you sure about this?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeah. Everyone has to grow up someday. My time\njust happens to be today."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "My, the sky sure is beautiful today. I sure hope\nit'll be sunny again tomorrow... Haha..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Somehow, Gold Ship's eyes seem a bit emptier\nthan before. Her first step into adulthood has\nevidently aged her beyond her years."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeah... You're exactly right!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All right! I'll make these two see that red is the\npower of heroes if it's the last thing I do!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh. Was that a challenge? Do you really think\nyou can defeat us?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohoho! You had better not hold anything back!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wasn't plannin' to! Ready or not, here I cooome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship steps up boldly, just like a real hero!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But ten minutes later..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Huff... Wheeze!</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! I can do this all day. ♪"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "N-nothing's working... They're too powerful!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But... I won't give up! Here comes my finishing\nmove! Super-Mega-Ultra BEEEAM!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship unleashes her ultimate attack!\nUnfortunately..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shing!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Oh?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "My eyes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship's beam hits Seeking the Pearl's\nsunglasses, reflects off them, and shines right\nback in her own face."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ngh... I'll prove that red is for heroes someday,\nyou mark my words... Bluuergh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship collapses, but her determination\nremains staunch. Her persistence will surely pay\noff... someday."
+        }
+    ]
+}

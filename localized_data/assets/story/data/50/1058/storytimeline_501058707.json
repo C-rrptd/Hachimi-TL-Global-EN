@@ -1,0 +1,122 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Meisho Doto hasn't been in the best condition as\nof late, so we head to the shrine for a breather."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I haven't been feeling well recently, so I'm going\nto go pray about it."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I won't be too long!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "All right, time to put in my shrine offering..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep?!",
+            "choice_data_list": [
+                "What's wrong?!",
+                "What's wrong?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I put my wallet in the box by mistake! I need to\nf-fish it out!"
+        },
+        {
+            "name": "Shrine Owner",
+            "text": "I see youuuu! Stay right where you are, shrine\nburglar!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waaagh! You've got it wrong! I dropped my\nwallet... Wait! My hand is stuck!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yes, I'm free..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaagh?! The world is turning upside down!"
+        },
+        {
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "text": "Meisho Doto pulls her hand out of the offertory\nbox with enough force that she backs into a\nlion-dog statue."
+        },
+        {
+            "name": "Shrine Owner",
+            "text": "So, that's what happened—how unfortunate. I am\nrelieved to see your wallet is back in your hands,\nthough."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I apologize for causing so much trouble! Thank\nyou for reuniting me with my wallet!"
+        },
+        {
+            "name": "Shrine Owner",
+            "text": "Not to change the subject, but have you offered\na prayer to the sacred tree? I believe you would\ncertainly receive its divine protection.",
+            "choice_data_list": [
+                "Let's go now!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yes! I'll pray from the bottom of my heart!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-what a beautiful tree. This is sure to bring me\ngreat blessings!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm a big klutz, but I promise to do my best... so\nplease bestow your power unto me! Please!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Phew... Do you think this will be enough?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "The wind feels so nice. Maybe the tree heard my\nprayer.",
+            "choice_data_list": [
+                "The sacred tree's blessing is with you."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hehe, you're right. My heart feels a little lighter\nnow."
+        },
+        {
+            "text": "With her spirits lifted, Meisho Doto regains her\nenergy!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Nnngh! Please help me, please!"
+        },
+        {
+            "text": "<i>Thunk!</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ouch... my head. I was too into the moment and\nbumped my head..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaaagh?! Why are there so many strange bugs on\nthe ground?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Waaah! Please, grant me salvation!"
+        },
+        {
+            "text": "Meisho Doto encounters misfortune at every\ncorner, unable to regain her energy."
+        }
+    ]
+}

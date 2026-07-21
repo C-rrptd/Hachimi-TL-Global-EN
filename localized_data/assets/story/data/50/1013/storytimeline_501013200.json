@@ -1,0 +1,30 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen's momentous debut race is\ntoday."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Inhale... exhale...</i>",
+            "choice_data_list": [
+                "Are you up for this?",
+                "Are you up for this?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I'm fine. I'm a little nervous, it's true, but..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's an exhilarating feeling to know that, starting\nnow, I'm truly moving toward my goal."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This is the first step on the road to conquering\nthe Tenno Sho. ...Now, here I go!"
+        }
+    ]
+}

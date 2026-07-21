@@ -1,0 +1,249 @@
+{
+    "title": "ゴルディアスの結び目",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the tryouts. Today, race-ready Umamusume will display\ntheir skills to prospective trainers in the hopes of being scouted."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for me, I'm also on the lookout for a promising Umamusume to\nscout and train."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "You're kidding. I just took a look at the new pamphlet and I can't\nbelieve my eyes—Agnes Tachyon is entering!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Huh, <i>the</i> Agnes Tachyon?! The one who's supposed to be as\ndangerous as she is talented?!",
+            "choice_data_list": [
+                "(Agnes Tachyon?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A shiver runs down my spine as I recall the events of the other day.\nHowever..."
+        },
+        {
+            "name": "Tryouts Staff",
+            "text": "Tachyon, Agnes Tachyon?! That's weird... Cafe, have you seen\nTachyon?!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "W-what? Why would I have seen her..."
+        },
+        {
+            "name": "Tryouts Staff",
+            "text": "Whaaat? What should I do..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Oh, so Tachyon's a no-show again. Aw, I wanted to see that\nlightning-quick final spurt of hers that everyone always talks about."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Her grandmother won the Oaks, and her mother the Oka Sho. Before\nshe started at Tracen, everyone was saying she was the jewel of a\ndistinguished bloodline..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "But her eccentricity has put a bit of a damper on that..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Greetings, Manhattan Cafe. Agnes Tachyon is... not here, I take it?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "She should've received an official notice from the academy telling her\nthat participation in today's tryouts would be mandatory."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "About that... I'm the one who told her the teachers had something to\ndiscuss with her the other day... I even saw her leave to meet with\nthem... But, well..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Another absence... I see. Thank you, I understand the situation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf's expression looks strangely grim. Will Agnes Tachyon\nbe okay ditching today's tryouts?",
+            "choice_data_list": [
+                "(Maybe I should go look for her.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I leave the tryouts behind and start searching for Agnes Tachyon's\nwhereabouts."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oy... Whatcha doing loafin' around here, Tachyon?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A rare illogical query coming from you, my dear Shakur. I, a student of\nthis academy, am standing on campus. Is there any reason to inquire\nabout my intentions?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch, that's not what I meant! Aren't you registered for today's\ntryouts?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha-ha-ha! No need to be so grouchy! Are your serotonin levels\ngetting low?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The answer is simple—I concluded that there was no reason to enter.\nUnfortunately, my goals do not coincide with those of the tryouts."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Besides, the last time I entered, things didn't end pretty. All those\ntrainers swarmed me like guinea pigs to cabbage."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...That's just proof of how great you are at running."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The problem was, all of their training schedules had excessive wastes\nof time. Throwing invaluable research time down the drain is beyond\nme."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Trainers judge us Umamusume by their own standards, so we should\nbe able to screen them as well. Isn't that right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Agh, you know what? Forget it! I've done my part, so I'll be leaving.\nGo and play hooky all you like."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But just so you know... skipping class for your experiments, ditching\nthe tryouts, and turning down every scouting offer—all that means you\nwon't be able to debut."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "To be frank, you're standing on thin ice with the academy."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmph. She tells me to do as I like and then ends with a warning...\nHeh-heh, you really are a delight, my dear Shakur."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? If it isn't the rookie trainer from the other day!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Are you here to become my test subject of your own volition?! What\nan amazing display of guinea pig spirit! I'm moved beyond words!",
+            "choice_data_list": [
+                "No no no, you've got it all wrong!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After desperately fending off an excited Agnes Tachyon, I explain\nwhy I'm here—to get her to enter the tryouts."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, so that's why. Alas, I have not even an inkling of desire to\nparticipate."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just as you trainers see the tryouts as a place to discover promising\ntalent to scout, we Umamusume view it as an opportunity to display\nour talents."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "However, I see no reason to flaunt my racing skills in front of trainers\nat this time. Therefore I will abstain. The end."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But on a more important note—why don't we continue our experiment\nwhere we left off?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Last night, I completed a prototype device that can measure muscle\nfunctions. Using this, I can collect data a thousand times more\ndetailed than—",
+            "choice_data_list": [
+                "Are your experiments the only thing you ever\nthink about?!",
+                "Are your experiments the only thing you ever\nthink about?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Only through experiments can we discover all manners of possibilities.\nYou can never possess enough time for research—am I wrong?",
+            "choice_data_list": [
+                "What research could be that important?",
+                "What research could be that important?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'm researching the <i>potential</i> of Umamusume."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "More specifically, the dormant physical potential within Umamusume\nas <i>organisms</i>. And by potential, I mean their top speed—no, what lies\nbeyond that.",
+            "choice_data_list": [
+                "\"What lies beyond?\""
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "People view an Umamusume's top speed as something definite, but\ncommon knowledge is the enemy of progress. Extrapolating without\npreconception..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We recognize that the existence of us Umamusume is an enigma in\nitself, no?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Despite resembling humanity, we possess high-functioning ears and\ntails, as well as inexplicable strength in spite of our low muscle mass."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And when it comes to running, we can achieve speeds almost\nunrivaled within the natural world."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! Fascinating! Don't you think it's fascinating?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In their essence, the impulses running through my cerebral cortex are\nlaughably simple. How fast can we run? How far does our potential\nreach?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This I declare! With this body, I shall discover the limits of our speed!",
+            "choice_data_list": [
+                "You're researching an answer to <i>that?!</i>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's said that the fastest Umamusume are the ones who become\n<i>race-ready</i>—that is to say, their bodies are prepared to achieve the\nhighest possible speeds of their lifetimes."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In order to enhance my speed, entering strenuous races and\nchallenging formidable opponents will be indispensable."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Therefore, qualifying for the Twinkle Series would undoubtedly be a\nhuge step forward for my research. That is why I came to the\nacademy."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But, alas—"
+        },
+        {
+            "name": "Teacher",
+            "text": "Agnes Tachyon. The academy would like to have a word with you.\nCome with me."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmph, so they found me. Excuse me, rookie trainer, but I must depart."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon follows after the teacher, and I can't help but get a\nsinking feeling in my stomach."
+        }
+    ]
+}

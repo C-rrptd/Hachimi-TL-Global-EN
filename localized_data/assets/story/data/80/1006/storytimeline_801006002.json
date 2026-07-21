@@ -1,0 +1,69 @@
+{
+    "title": "人混みは大変だ……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, as I pass by the station on my way\nhome..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm, what should I do?",
+            "choice_data_list": [
+                "Something troubling you?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. I want to buy a ticket, but there are so\nmany people that I can't get to the ticket\nmachines."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I don't know what to do...",
+            "choice_data_list": [
+                "Fight your way through the crowd.",
+                "Wait for the right moment to slip through."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Fight my way through, huh? Okay. That's\nsomething I'm good at."
+        },
+        {
+            "text": "Oguri Cap heads to the ticket machine, muscling\nher way through the crowd like a snowplow at the\nheight of winter."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Phew... I managed to get a ticket. That was harder\nthan I thought it'd be."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I had no idea making a purchase at a ticket\nmachine would be such a stressful experience..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Anyway, thanks. Your advice was really helpful.\nI'm gonna get going now."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wait for the right moment, huh? Okay, I'll see\nwhat I can do."
+        },
+        {
+            "text": "Oguri Cap slowly makes her way through the\ncrowd and pops out right in front of the ticket\nmachine."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for the advice. I managed to nab myself a\nticket."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, it looks like my train's almost here. I'd better\nget going now. Bye."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Wait for the right moment..."
+        },
+        {
+            "text": "Matching the pace of those around you, then\nbursting through at the final moment... That might\nmake for a good race strategy on slower tracks."
+        }
+    ]
+}

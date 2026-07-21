@@ -1,0 +1,381 @@
+{
+    "title": "This Girl, That Girl, and the Other One",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Several days after Matikanetannhauser's debut..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Trainer! SOS! Mayday!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uh... Well, it's... Just turn on the TV!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I do as she says and fumble the TV on to find..."
+        },
+        {
+            "name": "Announcer A",
+            "text": "We're interviewing Umamusume who debuted this\nyear! Today, we're featuring someone who\nshowed amazing skill in her debut race—Mihono\nBourbon!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whoa! Bourbon's really running on TV!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow, I mean I heard she got interviewed, but\nisn't this cool?! And I debuted around the same\ntime as her! I'm so proud of her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "People at Chukyo Racecourse, where Mihono\nBourbon made her debut, are raving about her\ntalent."
+        },
+        {
+            "name": "Man A",
+            "text": "She had a late start, but got all the way to first on\nthat straight! It seriously sent shivers down my\nspine!"
+        },
+        {
+            "name": "Woman A",
+            "text": "Her legs seem so strong. I'm sure she'll just keep\ngetting better and better."
+        },
+        {
+            "name": "Reporter A",
+            "text": "You're the big new star of the season! Could you\ntell us exactly what your goals are for the Twinkle\nSeries?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My only goal is to win the Classic Triple Crown."
+        },
+        {
+            "name": "Reporter A",
+            "text": "I see! Not to be rude, but that's rather surprising\nto hear. I thought you would be more interested\nin sprints..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I may be more suited for sprints, but that does\nnot matter. My goal is the Triple Crown and my\ndecision is final."
+        },
+        {
+            "name": "Monologue",
+            "text": "(Wow...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon declares her goal calmly and\nconfidently in front of the camera."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whoa! That was so cool! Bourbon really is\nsomething else!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh. But if she's on the Triple Crown Tour, that\nmeans we'll be racing each other, right?",
+            "choice_data_list": [
+                "That's right.",
+                "That's right."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh my!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meanwhile, the same show is playing on the TV in\nthe dorm lobby."
+        },
+        {
+            "name": "Announcer A",
+            "text": "Next up, we'll be covering Umamusume in their\nclassic and senior years!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I bet I know which two they'll talk about."
+        },
+        {
+            "name": "Announcer A",
+            "text": "One has been hailed as the strongest stayer\naround—Mejiro McQueen!"
+        },
+        {
+            "name": "Announcer A",
+            "text": "And the other is the prodigy who's yet to lose a\nrace, including both the Japanese Derby and the\nSatsuki Sho—Tokai Teio!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hah. Sure enough..."
+        },
+        {
+            "name": "Announcer A",
+            "text": "We've got all of the A-listers here! I hope we get\na chance to see them clash someday."
+        },
+        {
+            "name": "Racing Expert",
+            "text": "Agreed. However, Tokai Teio's injury directly\nfollowing the Derby was most unfortunate."
+        },
+        {
+            "name": "Racing Expert",
+            "text": "I believe they said it will take her about six\nmonths to recover and that she won't be running\nin the Kikuka Sho. It's a shame because the Triple\nCrown would have been a sure thing."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...!"
+        },
+        {
+            "name": "Announcer A",
+            "text": "That's right. Many people were hoping to see a\nnew Triple Crown champion. I'm personally also\ndisappointed she won't be running."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If she could run, it would've been a sure thing..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Yeah... That's probably true..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Muuun! I ran my heart out today! Thanks, Trainer!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh. Is that... Nature over there?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Matikanetannhauser's gaze to find Nice\nNature gazing at the track with a gloomy\nexpression on her face.",
+            "choice_data_list": [
+                "I wonder what's wrong."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Well... She's actually been like that for a few days\nnow."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "To be honest, I'm a bit worried..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm gonna go talk to her real quick!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let me guess. You're feeling a bit blue because\nyou drew a modest fortune today?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But it's okay! The name of today's lucky Uma\nstarts with \"M\" and ends with \"R.\" If you talk to\nher, you'll be happy again in no time!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? What's gotten into you all of a sudden?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "U-um... I'm just pretending to be Fuku!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "For a limited time only, this lucky Umamusume is\nwilling to hear out any problem."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe... Just trying to lighten the mood."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pffft!</i> That's so—what the heck?! Haha."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh...</i> Thanks for the laugh. And sorry for\nworrying you."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But would an Umamusume whose name starts with\n\"M\" and ends with \"R\" actually be willing to listen\nto me for a bit?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The thing is... I've wanted to run in the Kikuka\nSho for a while now."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Originally, it was Tokai Teio who made me want\nto enter. I figured I'd give it a try and got really\ninto my training."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But then I saw that segment on how upset\neveryone was about the fact that Teio isn't\nrunning in the Kikuka Sho."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You know how that expert said the Triple Crown\nwould've been a sure thing for her if she ran? I\ncouldn't believe they said something like that!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm sure Teio knows that better than anyone! But\nshe can't run."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ever since she was little, she had her heart set on\nbeing the invincible Triple Crown champion. She\nworked so hard for it, and now it's impossible!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Even though she's probably feeling crushed, all\nthese people are saying irresponsible stuff like\nthat about her... It's gotta be tough... it has to be."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Yeah."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...And on top of that, whoever does end up\nwinning the Kikuka Sho will probably have to hear\nthat drivel too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "People will say she only won because Teio wasn't\nthere."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Just for argument's sake, let's say that I won for\nexample. I'm sure I'd be ecstatic."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But there'd always be this footnote saying it was\nbecause Teio wasn't there..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha. I can't believe I'm saying this before I even\nrun. But my mind just keeps wandering to all this\npointless stuff..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh! I'm so lame!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I should be putting everything I've got into\ntraining right now..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser gazes kindly at Nice Nature\nas she hangs her head."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What would you do in this situation, Tannhauser?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh? Me?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm... Well... I think I'd be thinking the same thing\nyou are."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I mean, that would bother anyone. I'm sure I'd\nmull it over too."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But despite all of that, I think there would always\nbe some part of me that just simply wanted to win\nthe Kikuka Sho."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Right."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So... Yeah..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You just have to win so convincingly that no one\nwill even compare you to Teio."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah, I think that's your only option! You gotta\nwin by a landslide..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So that everyone forgets about Teio completely!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uh... Did you hear what I said?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence falls over them suddenly. The two of them\nstare at each other, until..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hah! Haha, ahahaha!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh?! Did I say something funny?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez! I should've known—that's exactly the kind\nof person you are... But thanks, you've given me\n<i>exactly</i> the wake-up call I needed."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I've gotta keep my head up and keep moving\nforward. I'm not gonna get anywhere moping\naround like this."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Yeah. I'm gonna win. It's going to be a blowout.\nIt's totally possible."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm not sure exactly what's going on, but you feel\nbetter, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, definitely... Thanks."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Pheeew! All riiiight! So how about it? Wanna run\ninto the setting sun?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha! Not a chance."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them joke around while they walk\nback to the academy together. The sun may be\nsetting, but Nice Nature seems a little brighter."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "\"Even if you don't shine as bright as the sun,\nyou've got a weapon no one else has! You have\nthe power to take someone's hand and give them\nthe push they need!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I almost can hear Director Akikawa's\nwords from that day ringing in the air."
+        }
+    ]
+}

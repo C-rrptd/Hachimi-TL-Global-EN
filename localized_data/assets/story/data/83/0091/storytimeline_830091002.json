@@ -1,0 +1,176 @@
+{
+    "title": "もしもその身が自由なら",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm doing research in the library when a random\narticle catches my eye."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Is Sirius Symboli Avoiding the Track?\"",
+            "choice_data_list": [
+                "(What's this?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pull it out and begin reading. It chronicles Sirius\nSymboli's career prior to enrolling at Tracen\nAcademy."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Her father is a passionate teacher and leader in\nthe URA, and the training club she's affiliated\nwith has produced many exceptional runners.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"These two pillars pulled Sirius's education in\nopposite directions and may be the reason\nbehind her taking a leave of absence from\nracing.\"",
+            "choice_data_list": [
+                "(She took a break, huh?)"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "What's that you're so invested in?",
+            "choice_data_list": [
+                "Agh!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hey, cool it with the terrified reaction. What are\nyou reading that's so stimulating, hm?",
+            "choice_data_list": [
+                "Uh, it's nothing, really..."
+            ]
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "<i>Sob...</i> Sirius!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "What's wrong?"
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "I... I just don't know what to do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A younger Umamusume who I assume is one of\nSirius Symboli's mentees comes running up to us\nin tears."
+        },
+        {
+            "name": "Monologue",
+            "text": "She tells us how her sickly mother recently\ncollapsed and is in the hospital."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "The hospital she's at is in my hometown, but it's\nreally far away. It takes half a day just to get\nthere..."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "But I... I have a race tomorrow!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Okay. So, what do you want to do?"
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "Well, I..."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "I want to compete, but I also want to visit my\nmom. This really isn't the time to be racing,\nthough..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You know the proverb, \"If you run after two\nhares, you will catch neither\"?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Well, there's another idiom about killing two\nbirds with one stone. You're smart enough to see\nwhat I'm getting at here, right?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "That's your answer. You decide what it is you\nwant."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Seize what you desire. Give in to your hunger. Go\nafter both."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You came to me for advice because that's the\nkind of Umamusume you want to become, right?"
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "If it's too much to do on your own, I'll lend a\nhand."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "If you want to see your mom but don't think you\ncan handle the post-race proceedings or if you\nneed to stay out overnight, just tell me."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I'll make up some cover story and shake people\noff your tail."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "Sirius! You'd... You'd really do that for me?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hmph. You think I'd go back on my word?"
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "No, of course not! I'll think hard about what I\nwant to do... I'd better talk things over with my\nmom!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The younger Umamusume leaves in a better\nmood.",
+            "choice_data_list": [
+                "You're such a good mentor to the younger\nstudents.",
+                "You're such a good mentor to the younger\nstudents."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Not really. She's the one who came to me for\nadvice. I just gave her my two cents."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Besides, it's best for people to make their own\ndecisions about their life."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "She's not a kid. I'm sure she'll figure out what to\ndo.",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words make me think about that article\nagain."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure, her leave of absence happened in the past,\nbut I'd assumed that was something she was\nforced to do.",
+            "choice_data_list": [
+                "(But to her, maybe the value of making her own\nchoices lies in...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I cut my thought short. After all, it's her decision\nto choose how she wants to live."
+        }
+    ]
+}

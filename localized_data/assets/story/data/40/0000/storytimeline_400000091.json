@@ -1,0 +1,267 @@
+{
+    "title": "『月刊トゥインクル増刊号』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock...</i>"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Excuse me?\nTrainer <username>?\nAre you there?",
+            "choice_data_list": [
+                "I'm here!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh, good. I was hoping to give this to you in\nperson."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It was just released today."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "The <i>Twinkle Monthly Special Issue.</i>"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Recently, many readers have been requesting a\ncompilation of events in the racing world over the\npast three years."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So they surely also realize how impactful these\npast three years have been."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So many things have happened.",
+            "choice_data_list": [
+                "You're right about that."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "As a reporter, I feel very fortunate to have been\nable to cover these three years."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "And also that I was able to meet you."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh, and one other thing..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Have you seen the cover?",
+            "choice_data_list": [
+                "The cover?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
+        },
+        {
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I look at the cover and\nsee..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A large photo of <chrname> adorns\nthe front page."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "When I was trying to decide who should be the\nface of this special edition..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Only one possible candidate came to mind."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "And that was the opinion of the editorial\ndepartment as well.",
+            "choice_data_list": [
+                "I don't know what to say."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "We at Twinkle Monthly will continue covering\n<chrname>'s exploits. And of course..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "We'll be following you with great interest as well."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "After all the interviews I've done to date, I'm\nconvinced you two are the light that will guide\nthe racing world forward.",
+            "choice_data_list": [
+                "Then I'll make sure she shines even brighter!",
+                "Then I'll make sure she shines even brighter!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "…!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "That... Th-that's s-s-s...",
+            "choice_data_list": [
+                "Are... you okay?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Simply amazing!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You want to make your trainee shine even\nbrighter! Even if it means you'll only be the\nshadow behind her!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Dedicating all your time to her, all your money\neven, and bringing her to races all around to\npursue her dreams!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Aah... You're just as amazing as I imagined you to\nbe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For whatever reason, Reporter Otonashi loses\ncontrol of her excitement, like always."
+        },
+        {
+            "name": "Monologue",
+            "text": "But this magazine conveys her true feelings. I'll be\nsure to show it to <chrname> later!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "For this special edition, we tried something a\nlittle different.",
+            "choice_data_list": [
+                "And what's that?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe, please flip towards the back."
+        },
+        {
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I flip to the back half of\nthe magazine."
+        },
+        {
+            "name": "Monologue",
+            "text": "And there I see..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"Dear <chrname> and\nTrainer <username>.\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You see, the editorial department has received\nno small number of fan letters from readers\naddressed to the two of you."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Seeing that enthusiasm, we decided to create a\nspecial section displaying all those words of\nsupport."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "This is pretty much the first time we've devoted\nmultiple pages solely to letters from our readers.",
+            "choice_data_list": [
+                "Wow, thank you!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe! Please be sure to convey that gratitude to\nall the fans you see at races and concerts."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "If I'm able to help connect you two with your fans,\nit means I'm doing my job as a reporter."
+        },
+        {
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true\nfeelings. I'll be sure to show it to\n<chrname> later!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Could you please skip a few pages ahead?",
+            "choice_data_list": [
+                "A few pages?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
+        },
+        {
+            "name": "Monologue",
+            "text": "At Otonashi's insistence, I flip back a few pages\nand see..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A special feature titled \"Pursuing Glory with\n<chrname> and Her Trainer.\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It's impossible to talk about the last three years\nof Umamusume racing without bringing up you\ntwo."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Your story deserved much more than a small\narticle. So, I did a little negotiating with the\neditor-in-chief."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I knew all our readers would be excited to see a\nspecial feature on you two.",
+            "choice_data_list": [
+                "I don't know what to say."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe. Of course, I'm no exception. I’m more\nexcited than anyone to see your future exploits."
+        },
+        {
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true\nfeelings. I'll be sure to show it to\n<chrname> later!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Have you looked at the right side of that page\nyet?",
+            "choice_data_list": [
+                "The right side?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes, take a look."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a small special feature titled \"A Promising\nTrainer and Trainee.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "It includes scenes of my training sessions with\n<chrname> along with Otonashi's\nenthusiastic comments."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "\"I can't wait to see how far these two can go!\"\n...And I meant every word.",
+            "choice_data_list": [
+                "I don't know what to say."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe, I intend to continue covering the path you\nboth take from here on."
+        },
+        {
+            "name": "Monologue",
+            "text": "This article conveys Reporter Otonashi's true\nfeelings. I'll be sure to show it to\n<chrname> later!"
+        }
+    ]
+}

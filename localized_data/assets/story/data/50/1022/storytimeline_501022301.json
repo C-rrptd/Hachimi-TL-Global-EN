@@ -1,0 +1,41 @@
+{
+    "title": "夏合宿（3年目）終了",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Our second summer camp has come to a close.\nBefore we return to the academy, I find Fine\nMotion staring intently at the grounds."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...",
+            "choice_data_list": [
+                "If there's still something you need to do, I'll join\nyou.",
+                "If there's still something you need to do, I'll join\nyou."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's quite all right! I just thought I'd like to etch\nthis sight into my mind."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I never want to forget everything that happened\nhere and the things I learned... and the salty\nflavor of the beach house's ramen..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The taste of the ocean...",
+            "choice_data_list": [
+                "Shall we have one last meal?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My final bowl of camp ramen! Let's go at once!"
+        }
+    ]
+}

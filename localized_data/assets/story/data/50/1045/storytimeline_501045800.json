@@ -1,0 +1,192 @@
+{
+    "title": "Search or Story Time",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I find Super Creek in the library."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, fancy seeing you here. Are you on the hunt\nfor a book too, Trainer?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm looking for a reference book to help with my\nworld history and classic literature homework.",
+            "choice_data_list": [
+                "Have you found anything useful?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I don't know... there are so many options, the\nmoment I think I've made a choice, another\ngoody pops out."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, um... if it's all right with you, I could help you\nsearch!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, hi there, Rob Roy."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Sorry for the sudden interjection. I just happened\nto overhear your conversation, so..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, not at all! I'd really appreciate your help. ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O-okay! As the student library assistant, I'm\nconfident I'll find you the perfect publication!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Well, right off the bat, I think this reference book\nmight be just what you need!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It has plenty of annotations on relevant\nterminology, and it's full of diagrams too, making\nit a pretty easy read, I think! There's even some\nfunny trivia included..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, that sounds absolutely perfect. You've really\nsold me on it. ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...Oops, s-sorry for rambling on like that!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Heehee, don't worry! It's lovely that you have\nsomething to be passionate about."
+        },
+        {
+            "name": "Super Creek",
+            "text": "We should believe in our passions and keep\nworking at them, because they're something to be\nproud of. ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-thank you very much... That's encouraging."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'd like to study more from your\nrecommendations, Rob Roy. Can we keep looking\naround? ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Okay! I do have some other ideas, so let's see\nhow the other books compare!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the two of them continue their search.\nBut before long..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh? What happens next?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe... \"But they still couldn't pull out the giant\ncarrot. That's when they decided to work\ntogether and...\"",
+            "choice_data_list": [
+                "The giant carrot?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, is that... a picture book?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'm sorry! I saw this book and thought it\nwould be great for the kids, so... here I am..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It does look like a nice picture book. I can\nimagine it, too... children smiling at story time."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Yeah... but I'll have to save that for another day! I\ncame here to find a reference book."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Right then, world history... world history..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh? Oh, goodness me. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Rob Roy, I think I've found the perfect picture\nbook for you."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "For... me?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "The blurb says it's about a hero who vanquishes a\nterrible dragon. ♪ Oh, it sounds fantastic!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That's one we recently got in stock! I haven't been\nable to read it yet, but I think... no, I <i>know</i> I'll\nlove the story!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Heehee. I figured as much. I'll read it to you as\nmany times as you want. ♪",
+            "choice_data_list": [
+                "You've got to find a reference book!",
+                "I wanna hear the story too."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, you're right! What am I doing? I'm sorry I\nkeep getting distracted."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's... it's my fault too for getting so excited...\nOkay, we have to get serious with our search!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Right, classical literature... classical literature..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ooh... This one's called <i>The Dogfather and the\nStray Wolf.</i> It might be nice for story time too."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, I don't think that's the type of \"dogfather\"\nyou're thinking about."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'm very sorry! I'm so silly sometimes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek continues her search for a reference\nbook, all the while struggling against her\nnurturing tendencies."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'm quite happy to read it to you as well,\nTrainer. Are you ready?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "\"A long, long time ago, a <i>dreadful</i> dragon\nattacked a <i>poor</i> village and caused ever so much\ntrouble for the townsfolk...\""
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Creek's voice is so calming. I suddenly feel so...\nrelaxed."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Teehee. Go ahead and take a little nap, it's fine.\nThere, there. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "After a refreshing story time, Super Creek\nresumes her book hunt with a renewed sense of\npurpose."
+        }
+    ]
+}

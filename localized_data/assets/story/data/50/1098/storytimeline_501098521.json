@@ -1,0 +1,38 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Hmm, I see. If I combine this with the method I\ntried yesterday... hmm, interesting."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "<i>Yaaawn...</i>",
+            "choice_data_list": [
+                "You seem sleepy all the time lately.",
+                "You seem sleepy all the time lately."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah. I imported a few feng shui books from\noverseas, and they all have super interesting\nconcepts."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I've been so caught up in reading and trying them\nout that I haven't been getting much sleep.",
+            "choice_data_list": [
+                "Don't push yourself too hard, okay?",
+                "Don't push yourself too hard, okay?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I won't..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's good that Copano Rickey's passionate about\nstudying, but she's clearly sleep deprived."
+        }
+    ]
+}

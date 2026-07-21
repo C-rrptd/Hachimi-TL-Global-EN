@@ -1,0 +1,197 @@
+{
+    "title": "ぜ～んぶお任せください♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The first day of training with Super Creek officially begins."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I'm suuuper excited to see what kind of plan you made for me."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Let's do our best, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"A rookie trainer is still a trainer.\" Her words echo in my mind as I\nremind myself of the responsibility I now have.",
+            "choice_data_list": [
+                "All right, let's get to it!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Great, I'm looking forward to it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We start our training. A few hours later..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Phew... I finished all ten laps."
+        },
+        {
+            "name": "Monologue",
+            "text": "I designed the training plan based on her performance at tryouts."
+        },
+        {
+            "name": "Monologue",
+            "text": "But looking at how exhausted she is, I think I already pushed her too\nhard."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm sorry that it took me so long to finish.",
+            "choice_data_list": [
+                "No, it's my fault for not understanding your\nlimits..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that since becoming Super Creek's trainer, I may have\ngotten ahead of myself. I need to come back down to earth."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, you're doing well."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Don't worry. As we get to know each other better, things will smooth\nout in the future."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once again, I'm moved by the fact that this incredibly kind and\ntalented student partnered up with me."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...What are ya guys doin' in the middle of the track, huh?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Why hello there, Tamtam!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer, allow me to introduce you to my friend, Tamtam."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's Tamamo Cross, ya hear?! If you're gonna introduce me, then do it\nright, yeah?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway, I came over here 'cause I heard ya got yourself a trainer..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I can see ya already gettin' all pampered up.",
+            "choice_data_list": [
+                "Pampered?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's right—it doesn't matter who ya are, Creek'll do her thing. She\njust loves takin' care of the people 'round her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. It's true—my family runs a day care center."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Since I've spent so much time looking after children, it's become a\nhabit of mine now."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh, so that's why ya like goin' 'round bein' a mom to everyone.\nMakes sense now."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Hang on a sec. Don't tell me ya see me as one of your lil' kids too?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm... Sometimes I do, but I also think you're mature in your own\nway."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sometimes! ...I could say lotsa things 'bout that, but whatever. Creek's\none of my besties, yeah?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's why ya better not get too spoiled and slack off now! Make sure\nya watch her carefully!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aww, you're leaving already? Come back and visit again, okay? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross is right. I'm not here to mess around—I'm here to help\nSuper Creek achieve her best run."
+        },
+        {
+            "name": "Monologue",
+            "text": "And I'm going to keep working hard to be a trainer who takes care of\nmy students—not the other way around!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good work today, Trainer. I'm looking forward to tomorrow's training!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Oh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A large stack of instant noodle containers stands in Super Creek's line\nof vision."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Are you always eating instant noodles?",
+            "choice_data_list": [
+                "Kinda, yeah..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hm... You won't get enough vitamins if you don't eat your vegetables."
+        },
+        {
+            "name": "Super Creek",
+            "text": "How about I cook you something for dinner tonight? I'll bring it to you\nlater. ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "In that case, I'll head out now—huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek catches a glimpse of my tracksuit lying in a crumpled\nheap."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Do you often leave your clothes out like this?",
+            "choice_data_list": [
+                "Only when I get busy..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It'll get all wrinkly if you don't hang it up properly."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'll iron it for you this time, so make sure to be careful in the future,\nokay? ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Oh my! There are magazines everywhere."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I even have a chance to show my dependable side, Super\nCreek is already picking up after me."
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "パーティーはあの場所で",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking down the hallway after training,\nwhen..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>!\nGood to see you!",
+            "choice_data_list": [
+                "Good to see you too, Trainer Kiryuin!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So many things have happened over the last three\nyears, haven't they?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It doesn't seem like such a long time, but these\nlast few years have been the most memorable\ntime of my life."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "To be honest, I never thought I'd be able to make\na friend I could talk to like this."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But with your help, I've been able to learn so\nmuch. Thank you, from the bottom of my heart!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I look forward to seeing what's in store for us in\nthe future,\nTrainer <username>!",
+            "choice_data_list": [
+                "Right back at you!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "As fellow trainers, let's continue to work together\nand give it our all!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Also, if it's all right with you... I was thinking\nabout inviting both Meek and\n<chrname> out..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You know... to have a party celebrating all of our\nhard work..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "How does karaoke sound? Maybe I'm being a\nlittle too presumptuous, but I've already done\nsome research on a potential spot."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The food there looks great, and it's really popular\nwith the younger crowd. I think they'll both enjoy\nit!",
+            "choice_data_list": [
+                "Sure, let's go!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Great! They have this neat feature where you can\norder food via remote control, so feel free to use\nit whenever you like!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We invite <chrname> and\nHappy Meek, and we all have a great time\nsinging and eating together."
+        },
+        {
+            "name": "Monologue",
+            "text": "We invite <chrname> and\nHappy Meek, and we all have a great time\nsinging and eating together."
+        }
+    ]
+}

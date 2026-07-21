@@ -1,0 +1,25 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "The day is finally here! Sure took its time!"
+        },
+        {
+            "name": "Inari One",
+            "text": "My last race was downright pathetic. So, this is\nmy shot at clearin' my name!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm not gonna slip up twice! All right, let's get this\nrumble started!",
+            "choice_data_list": [
+                "I'll be cheering for you!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! This time 'round, I'll be blowin' up like\nnever before on the grand stage! Just wait and\nsee!"
+        }
+    ]
+}

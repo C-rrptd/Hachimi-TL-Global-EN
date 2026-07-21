@@ -1,0 +1,160 @@
+{
+    "title": "サイボーグではありません",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I suddenly realize that Mihono Bourbon is in the\ngym, training away in silence."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm pretty sure she's been at it for almost two\nhours now—with no rest.",
+            "choice_data_list": [
+                "Maybe it's time for a break?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you for your concern. I was lost deep in\nthought."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...I have a question that requires your input. Do\nyou find me frightening?",
+            "choice_data_list": [
+                "No... Why do you ask?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There have been rumors among the academy\nstudents that I may be a cyborg."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm initially surprised by the absurdity of this\nrumor, but intrigue makes me want to find out\nmore."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The rumor took on a life of its own before I could\nconfirm or deny the claims..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Did you hear?! Mihono Bourbon can shoot beams\nout of her eyes!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Wait, seriously?! I heard she can also fire rockets\nfrom her mouth!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rumors spawned more rumors, and soon enough\nmy image had ballooned into something else\nentirely."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "One time, I merely picked up and handed\nsomeone her towel, when..."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Please, have mercy! Not the beams! Anything but\nthe beams!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "How others evaluate me is none of my concern."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, I've determined that my frightening\nimage is a cause for concern, unintentional\nthough it may be."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "As such, I've been searching for a solution to this\npredicament."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "If you have any suggestions, I would appreciate\nyour input.",
+            "choice_data_list": [
+                "Train your facial muscles to be more expressive!",
+                "Speak with more inflection!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see your point. So I should first work on being\nmore expressive."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It's true that I've received many comments about\nmy lack of expression."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I appreciate your valuable insight. I will\ncommence training my facial muscles at once."
+        },
+        {
+            "name": "Monologue",
+            "text": "She proceeds to buckle down into training her\nfacial muscles..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hello, everyone."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Sh-she has such a lovely smile! Is she really a\ncyborg?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "She's not scary at all! Yeah, she's definitely just a\nregular Umamusume!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like the misunderstanding has been\ncleared up."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Inflection... That is, to raise and lower the tone of\nmy voice. I see your point."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "So the misunderstanding stemmed from my\nmechanical-sounding voice. It is a plausible\ntheory."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Situation confirmed. Inputting tone inflection. I\nappreciate your valuable insight."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Mihono Bourbon starts to speak\nwith inflection—in her own unique way. However..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "HeeeLLLoOo EvERyyyOoOooNe!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "...Is she yodeling or something?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I-I don't know... Maybe she's trying out her new\nupdate?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She ends up instilling even more fear amongst the\nstudents."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Commencing new search for solutions."
+        },
+        {
+            "name": "Monologue",
+            "text": "She gets tunnel vision searching for a new\nsolution and is unable to concentrate on training."
+        }
+    ]
+}

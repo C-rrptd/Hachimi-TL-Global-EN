@@ -1,0 +1,111 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of Mejiro Bright's all-important debut\nrace has come. And while most racers would\narrive at the track with time to spare..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Good morning to you, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright's appearance is as unhurried as\never. And not only that...",
+            "choice_data_list": [
+                "What's with the doll?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ohhh, this is Maki. Given that today is such an\nimportant race, I thought it best to bring her\nalong to watch over me."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My other little one, Kyu, is back at home. I\nexpect she's probably napping at the moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even as our leisurely chat continues, race time\ndraws closer and closer. And then..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hello, everyone. Let's all have a terrific race\ntoday."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huhhh?! You brought a doll into the paddock..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "What are you doing? What event do you think\nthis is?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, it's the day of our ever-so-joyous debut.\nAnd as such..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I thought I might approach it calmly. Now, let's all\nof us have a leisurely time today, shall we?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Y-yeah... Good point... When she puts it like that,\nit's kinda hard to argue..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I guess we were all pretty on edge, huh? Ahaha..."
+        },
+        {
+            "name": "Fan A",
+            "text": "H-hey, look! All the fire in the runners' faces is\ndying down..."
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, what the heck are they talking about?\nTheir expressions are getting all soft and\nrelaxed..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Mejiro Bright's relaxed vibe is\ninfectious."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, after a short waiting period..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. Ah, the joyous race is just about to\nbegin. And seeing as it <i>is</i> a race..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm staying perfectly calm... Niiice and calm... I\nshall race at my own pace, as always...",
+            "choice_data_list": [
+                "Bright..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's talking to her doll as if she's trying to\nsoothe it, but her voice... It's very slightly\ntrembling."
+        },
+        {
+            "name": "Monologue",
+            "text": "This isn't Mejiro Bright fooling around—this is her\ntrying to stay as calm as possible."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer? Is something the matter?",
+            "choice_data_list": [
+                "No, it's fine. But be sure to take it easy."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...I shall. Thank you very much. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if relieved, the young Mejiro lady smiles\nwarmly."
+        }
+    ]
+}

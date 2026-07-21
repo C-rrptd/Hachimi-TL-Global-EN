@@ -1,0 +1,96 @@
+{
+    "title": "ガブッと、撲滅！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While I'm out shopping, I see Biko Pegasus\npatrolling the district... with Shinko Windy\nsecretly trailing behind her.",
+            "choice_data_list": [
+                "What're you doing?",
+                "What're you doing?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Gah! Ya really wanna know what my plan is? All\nright, you've backed me into a corner, so I'll tell\nya!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm gonna steal all the glory of Biko's patrol! I call\nit... Operation: Justice Extermination!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "She's so full of herself! I asked her to play tag, but\nshe turned me down to do this stupid patrol!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I even tried waiting till she was done to ask again,\nbut she just went back to her dorm..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "So this is my plan! If anything bad happens, I'll\nswoop in and save the day first so she won't be\nable to—"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "See you later, granny! Take care to watch your\nstep now!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "What?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hey, Biko! Did you just help someone?! I was\nsupposed to do that and get all the glory!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Glory? Oh, are you offering to help? Thanks!\nThere's always so much happening around here\nthat I'll take all the help I can get!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You got it all wrong! I'm not offering to help!\nUgh, why would you even ask me to do something\nso draining?",
+            "choice_data_list": [
+                "Just tell her the truth!",
+                "Come on, help lessen her burden."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh?! I-I have no idea what you're talking about!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "The truth? Is there something you want to say to\nme? It's okay! Lay it on me!",
+            "choice_data_list": [
+                "Come on. Be brave."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nngh... Nnnngh... No! Just shut up! I hate all of\nyou!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy turns beet-red and blurts out her\nwords hastily before sprinting away as fast as she\ncan."
+        },
+        {
+            "name": "Monologue",
+            "text": "I point out that Biko Pegasus might be declining\nher offers to play tag because she's too tired from\nher patrols."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "If I help her, does that mean she'll still have\nenough energy to play tag with me after she's\ndone?!",
+            "choice_data_list": [
+                "Yep!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "F-fine! I'll help out! You'd better be grateful,\nBiko!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So the pair patrol together... and peace once\nagain prevails in the shopping district."
+        }
+    ]
+}

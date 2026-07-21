@@ -1,0 +1,230 @@
+{
+    "title": "芽吹きの前に",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Flower's Mother",
+            "text": "I can't believe the academy's letting you skip several grades and\nenroll... They must have seen your potential. Oh, my heart's still\nracing."
+        },
+        {
+            "name": "Flower's Father",
+            "text": "Your mother and I will always be there to cheer you on. If there's\nanything we can do for you, just say the word!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Thanks, Mom and Dad. And thanks, Tracen Academy, for believing\nin me. I won't let you down.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to make my dream come true here!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushin, Bakushin, Bakushiiin!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Phew!</i> Another splendid run if I do say so myself! <i>This</i> is how a model\nstudent carries herself! And yet, I feel like I could still do better..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmph! You there!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "M-me?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What do you say to working up a good sweat with yours truly?! Let us\nrun together, my fellow Tracen Academy comrade!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uh, you want to run... with me? O-of course! I'd be happy to!"
+        },
+        {
+            "name": "???",
+            "text": "My, you look like you're having fun."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Quite a lovely morning, isn't it? I'd like to join you on your run, if you\ndon't mind."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A good morning indeed! Oho, so you wish to race? Excellent! I'm\nalways ready for a challenge!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, I'd love to! R-race with both of you, I mean!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "I imagine the scent of flowers will carry on the breeze today. Hehe.\nWhat a wonderful way to enjoy a race."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha ha ha! This is but a mere warm-up! Here gooooes!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe, I'm afraid it will take more than that to outrun this burst of\nwind."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff, puff... Huff, puff...</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I can't keep up. It hurts... to breathe. The sound of their cleats is\ngrowing fainter with each step.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Why... can't I... Ngh!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(The two figures crossing the finish line looked so tiny, I could barely\nsee them."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmm, that was well played on my part! While the race <i>was</i> close\ntoward the end, my victory was sheer perfection! You two put on a\nsplendid show too, of course!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh? I was sure I reached the goal first. Hmm... I suppose without\nanyone here to judge, it's hard to say."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oho! If a decisive call is what you desire, then why don't we race\nagain? And this time, I'll make sure there'll be <i>zero</i> doubts about the\nwinner!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. When petals dance on the breeze, they sometimes obscure\none's view. I suppose, then, I have no choice but to become a gale."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(They ran so fast, and yet they've both recovered already. We're on\ncompletely different levels...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(After that, I started noticing how different I was from the others.\nEveryone was bigger, stronger, and so much more experienced than\nme. How can I even begin to compete?)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I get it now. The academy might have seen my potential, but... I'm just\na child. That means... I have to work even harder."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(When I look up, I see cherry blossoms, blooming proudly in the big\nblue sky. But... that's not me yet.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I make my way to the training track once again in search of a\npromising trainee. Scanning the grounds, I spot someone by\nthemselves in a quiet corner."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Phew.</i> Hm... I think I'm missing something. When Bakushin O sped up,\nshe was more...",
+            "choice_data_list": [
+                "Wait, aren't you...",
+                "Wait, aren't you..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, you're... the trainer I helped the other day, right? My name's\nNishino Flower. Are you feeling better?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I thank Nishino Flower for her help and bring up the question that\nimmediately comes to mind. It looks like she's training by herself,\nbut...",
+            "choice_data_list": [
+                "Why are you all the way back here in the\ncorner?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah... To tell the truth, I still have a lot to learn. And um... I don't want\nto get in the way of anyone else's training.",
+            "choice_data_list": [
+                "I don't think you'd get in the way..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, but I'm fine! I'm still starting out, but if I keep working hard, I'll\nbe able to catch up with everybody else!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It might be just one small step at a time, but I'm able to do a little\nmore with each passing day. Ehehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower smiles. Then, with a bow, she returns to her training."
+        },
+        {
+            "name": "Monologue",
+            "text": "She understands her limitations and is working hard to overcome\nthem. Her determination is awe-inspiring and pulls me out of my\ngloom.",
+            "choice_data_list": [
+                "...I'll keep giving it my all!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I may not have a track record yet, but I can still study and better\nmyself—every little bit will help me be the best trainer I can be for\nany future Umamusume I work with."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I begin spending more time in the library, trying to absorb as\nmuch knowledge as I can. One day, I see a familiar face."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, hello. Are you here to do some reading too?\nWooow, those are some really thick books...",
+            "choice_data_list": [
+                "Just studying up on how to be a better trainer."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But you're already a professional trainer, aren't you? That's amazing.\nYou must be working so hard!",
+            "choice_data_list": [
+                "All thanks to you.",
+                "All thanks to you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thanks to me?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, if it isn't Flower. What's up? You look like you're in a chipper\nmood today."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, Sky! Hehe, I am! Something really, reaaally good happened!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You don't say. That's why you seem more cheerful than usual, huh."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(That trainer said I gave them courage. Hehe... I guess I'll have to\nwork even harder!)"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Just... a few more reps! I think I can handle a little more weight..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "H-huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You okay, Flower?!"
+        }
+    ]
+}

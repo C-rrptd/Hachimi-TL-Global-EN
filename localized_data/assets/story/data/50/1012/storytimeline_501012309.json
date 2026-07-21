@@ -1,0 +1,183 @@
+{
+    "title": "有馬記念の後に・レースに勝って……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Hishi Amazon has conquered the Arima Kinen!\nShe's done it!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Hishi Amazon pulled it off!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, but to be honest, my eyes were on Narita\nBrian the whole time..."
+        },
+        {
+            "name": "Fan A",
+            "text": "No, I get what you mean! Sure, Hishi Amazon was\na bit faster this time, but still..."
+        },
+        {
+            "name": "Fan B",
+            "text": "Narita Brian runs like a real beast, no matter what\nplace she gets."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "(I got first place! I won! But...)"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "(Nobody cares how fierce the battle was...\nThey've only got eyes for Brian!)"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Argh! This sucks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the Arima Kinen comes to a close, everyone at\nthe Nakayama Racecourse finds themselves\ncompletely enraptured by Narita Brian."
+        },
+        {
+            "name": "Monologue",
+            "text": "She tells me she's going to pack her stuff and\nhead back early, and then she's gone."
+        },
+        {
+            "name": "Monologue",
+            "text": "This was the battle of her dreams—and she won!\nBut... she didn't look happy.",
+            "choice_data_list": [
+                "(Will she be okay?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My worries get the better of me, and I rush back\nto the academy to go find her."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Grrraaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm greeted by the sound of a familiar voice the\nmoment I reach campus."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Huff... Puff...</i>",
+            "choice_data_list": [
+                "(It's Hishi Amazon!)"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I won the race but I lost the one-on-one!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But so what?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'll channel all these frustrations into my running! I\nrefuse to be overshadowed by Narita Brian\nforever!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You never know how a race'll turn out till you run\nit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She charges up the incline, shouting words of\nencouragement to herself.",
+            "choice_data_list": [
+                "(These words ring a bell...)"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nothing out there is impossible right from the\nget-go!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You never know the outcome of a match till you\ngive it a try!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Wheeze... Pant...</i> Phew!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She said those very same things to me before I\nscouted her. It was her straightforward honesty\nthat won me over.",
+            "choice_data_list": [
+                "(She hasn't changed a bit.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the harsh reality in front of her, she\nremains stalwart and isn't afraid to keep going."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's only one thing I can say to someone as\nstrong as her."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Okay, one more time!",
+            "choice_data_list": [
+                "Hishi Amazon!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wha?! Teach, when did you get here?",
+            "choice_data_list": [
+                "Let's give the Arima Kinen another go next year!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian is sure to show up at the Arima Kinen\nnext year."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Hishi Amazon that it'll be different—we'll\nmake it a one-on-one that no one'll forget!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Teach, you..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe... Yeah! Thanks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, we discuss our next steps.\nConsidering the aptitude she showed for miles\nand medium-distance races during the Tiara\ntour..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to make our next goal the Osaka Hai,\nfollowed by the Yasuda Kinen!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, Teach? This could be my ego talking, but..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm gonna get first place in both of 'em. I won't\nsettle for less!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I've gotta step up to the challenge. Otherwise, I\nwon't have a chance against Narita Brian. She's\none heck of a beast."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, we vow to win first place in both races!"
+        }
+    ]
+}

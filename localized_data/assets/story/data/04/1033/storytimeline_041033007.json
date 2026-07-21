@@ -1,0 +1,237 @@
+{
+    "title": "繋がる天の橋",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today marks the start of summer camp. I've prepared two different\ntraining regimens for Admire Vega."
+        },
+        {
+            "name": "Monologue",
+            "text": "In short, there's one she can do alone and another that would require\nthe two of us to work as a team."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "So what do you think?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I show her both options and make it clear that I'm fine with either, but\nshe's taking an uncharacteristically long time to respond."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Let me think about it."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes both printouts and heads to her lodging."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(These regimens... they're both really well-thought-out.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Even the most basic exercises have been tweaked to bring out my\nstrengths...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(The whole training program is tailored for my running... for me.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Trainer said either one is fine, but it's obvious when you compare\nthem—what I need right now... is to work together with my trainer.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(But still...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Trainer? About my regimen, um..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I... I think..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That I... I need..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She struggles to find the words. Her answer is already formed—she\njust can't bring herself to say it out loud."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell she doesn't want to hurt my feelings.",
+            "choice_data_list": [
+                "It's okay.",
+                "It's okay."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?",
+            "choice_data_list": [
+                "The choice is yours.",
+                "The choice is yours."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Yeah. Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "She chooses the solo regimen."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch her progress, taking notes like always. I'll gladly do whatever I\ncan to support her."
+        },
+        {
+            "name": "Monologue",
+            "text": "At night, I crack open her recommended reading and gaze up at the\nsky, where the Summer Triangle stands out above the rest.",
+            "choice_data_list": [
+                "Vega, and Deneb, and... what was the third\none?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm flipping through the book, trying to find the right page, when..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Altair... The brightest star in Aquila."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega appears beside me.",
+            "choice_data_list": [
+                "Here to see the stars too?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah... guess so."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Trainer?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Training today was... nice. It felt worthwhile... like I was making real\nprogress.",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Y-yeah... But, um..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...The more you do for my sake, the more my heart hurts."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "All your expectations, your hard work, they... they should've been for\nmy sister, not me..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "And yet... here I am...",
+            "choice_data_list": [
+                "Who says you can't share?",
+                "Who says you can't share?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't claim to know much about her sister."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do know, however, that her sister is very dear to her... and also a\nsource of great heartache.",
+            "choice_data_list": [
+                "If you're running for your sister's sake...",
+                "If you're running for your sister's sake..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "All the schedules I put together, all the advice I give—they're not\nmeant for her alone.",
+            "choice_data_list": [
+                "Then everything I do is for <i>both</i> of you.",
+                "Then everything I do is for <i>both</i> of you."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "For... us?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Both me... and her..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Ah... so that's what it was.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(That time I turned back without going to see the stars...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Or started a conversation at the planetarium...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Maybe that wasn't me... but <i>us</i> all along.)",
+            "choice_data_list": [
+                "Ayabe?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes a seat next to me, looks up at the dazzling sky..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I guess I could teach you a thing or two."
+        },
+        {
+            "name": "Monologue",
+            "text": "...And whispers to me the secrets of stars that traveled light years to\nshine brilliantly here tonight."
+        }
+    ]
+}

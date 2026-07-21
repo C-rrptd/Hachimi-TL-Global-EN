@@ -1,0 +1,54 @@
+{
+    "title": "安田記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectator with Hat",
+            "text": "Hey, did you see who's running today?"
+        },
+        {
+            "name": "Spectator in Button Up",
+            "text": "I saw! It's that Umamusume from abroad, right?"
+        },
+        {
+            "name": "Spectator with Hat",
+            "text": "No, not her! I'm talking about the one who was on\nTV the other day! I'm a huge fan."
+        },
+        {
+            "name": "Spectator in Button Up",
+            "text": "On TV? Wait, you can't mean... No way, she's\nhere?!"
+        },
+        {
+            "name": "Spectator in Button Up",
+            "text": "Oh, this takes me back a bit! I used to follow all\nof Special Week's races, so I saw her as well. I was\njust thinking that it's been a while since I've heard\nanything about her."
+        },
+        {
+            "name": "Spectator with Hat",
+            "text": "What are you talking about? She's the hot topic\nright now! Wait, is she really in the same year as\nSpe?!"
+        },
+        {
+            "name": "Spectator with Hat",
+            "text": "Ahaha. At any rate, I always found her to be a\nlittle eccentric, but it turns out she's pretty\namazing!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hey, did you hear? There's a guest runner from\nabroad in today's Yasuda Kinen."
+        },
+        {
+            "name": "King Halo",
+            "text": "Not that it matters to me.",
+            "choice_data_list": [
+                "Either way, you're going to win.",
+                "Either way, you're going to win."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! That's right! No one can stand in my\nway!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll leave everyone in the dust!"
+        }
+    ]
+}

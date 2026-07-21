@@ -1,0 +1,240 @@
+{
+    "title": "怪物と予兆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days after her scrimmage with Tama Cross, I come across Oguri\nCap at the height of an intense training session."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Phew...</i> Okay, just one more set!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch as her feet gouge the ground, propelling her forward. There's\nno doubt about it—those legs are a force to be reckoned with."
+        },
+        {
+            "name": "Monologue",
+            "text": "Engulfed by her zeal for training, I lose track of time..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? Oh, it's you again.",
+            "choice_data_list": [
+                "Nice work. Giving it your all, huh?",
+                "Nice work. Giving it your all, huh?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep. I'm actually gonna be participating in the next tryout."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The deadline to apply for the race had already passed by the time I\nhad transferred in."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But after the race coordinators saw the scrimmage between me and\nTama, they decided to give me special permission to run in the next\ntryout."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If I do well during tryouts, I'll be one step closer to making my central\ndebut. I need to push myself now more than ever before."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh right. Sorry to keep asking you, but could you show me the way\none more time?",
+            "choice_data_list": [
+                "Where to this time?",
+                "Where to this time?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Anywhere near the school, as long as there's plenty of nature."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I didn't know there was such a vast forest behind the academy. This is\nperfect. Thank you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ahhh, yes. This is it. The forest air out here is just right. It cleanses my\nmind and calms my soul."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Back in the day, I'd always find myself running in these areas.\nEventually, the folks back home started suggesting I run in an\nUmamusume race.",
+            "choice_data_list": [
+                "So that's how you started racing...",
+                "So that's how you started racing..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. It's thanks to everyone back home and their support."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I remember when I ran in my first regional race, the townsfolk made\nme a huge banner, even though they were really busy working the\nfields..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whenever I had a race, everyone would gather at the end of the day\nand feast in my name—win or lose."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "\"What an amazing race!\" \"Watching you run is always a treat!\" \"Keep\nat it!\" ...I was always surrounded by words of encouragement."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's why... I love running so much."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And I love racing too. The bonds it makes. The joy it brings. I love it\nall.",
+            "choice_data_list": [
+                "You really care about the folks back home,\nhuh?",
+                "You really care about the folks back home,\nhuh?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Of course."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Everyone back home always says that seeing me race—seeing me run\nso freely and happily—means the world to them."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And my race with Tama was <i>really</i> fun. Just thinking about it gets my\nheart racing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If debuting means I get to run alongside other amazing racers as\nstrong and fast as Tama, then..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want to debut as soon as possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even as she reminisces about the past and contemplates her present,\nOguri Cap's ambitions shine through brilliantly."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Anyway, that's enough chitchat for today. I should get back to my\ntraining."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for bringing me here. I'll come to this forest to run when I\nneed to clear my mind and remember my roots."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'll be taking my leave. See you around."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap announces her departure and begins to walk away.\nHowever, as she does so—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ah."
+        },
+        {
+            "name": "Monologue",
+            "text": "She abruptly stops in her tracks and crouches over.",
+            "choice_data_list": [
+                "You okay?!",
+                "You okay?!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? Why the sudden change of expression?",
+            "choice_data_list": [
+                "I thought you might be hurt..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No... I'm fine. I just tore one of my shoelaces, that's all."
+        },
+        {
+            "name": "Monologue",
+            "text": "I glance down at Oguri Cap's shoes, and lo and behold, they're worn\ndown to basically nothing."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's no big deal. All of my shoes wear out quite quickly."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Gotta go buy a new pair again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap ties the torn laces together and once again sets off."
+        },
+        {
+            "name": "Monologue",
+            "text": "The damage on her shoes was nothing short of abnormal, probably\nbecause she runs with such incredible force. Normal shoes could never\nwithstand that kind of wear and tear."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap won't be able to realize her fullest potential if she keeps\nrunning in those."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to do something about it."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hmm, I see everything's as pricey as ever."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh, hey. You're that new trainer, yeah? The one always hangin' 'round\nOguri?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What's with the long face? Ya tryna find somethin'?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Tamamo Cross about everything that had happened."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hm, I getcha. C'mon, how'd Oguri not notice anything till now? She\nsure can be a ditz."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway! I'll help ya out. Tryouts are where ya go all out! It wouldn't\nbe fair to the trainers or herself otherwise!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A'ight, we're pickin' the toughest shoes for her! Go big or go home!",
+            "choice_data_list": [
+                "Thanks a bunch!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No biggie. Always glad to help."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Besides, this isn't just for her. If she doesn't hurry up and debut, how\nam I s'posed to race her again?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, let's get started! What's your budget lookin' like? Gotta know\nthat before we can do anythin' else."
+        },
+        {
+            "name": "Monologue",
+            "text": "With the help of Tamamo Cross, I was able to pick out a pair of shoes\nthat can withstand Oguri Cap's power."
+        }
+    ]
+}

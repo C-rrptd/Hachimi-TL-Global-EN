@@ -1,0 +1,378 @@
+{
+    "title": "エラー／ざわつき",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, after the Kikuka Sho, while we're\ntraining for the spring Tenno Sho..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Huff... Puff... Pant... Pant...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant... Pant...</i>",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "text": "Her usually pinpoint-accurate lap times are out of\nsync."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'm okay... I will proceed to the next exercise after\nI have recovered."
+        },
+        {
+            "text": "Her condition still seems off after that, so I call an\nearly stop to the day's training."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Error detected. Status—\"unsettled.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This is an intermittent error that has been\noccurring since the Kikuka Sho, usually during\nmemory playback of that race."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Analysis result—cause unknown..."
+        },
+        {
+            "text": "Mihono Bourbon looks almost meek. Just then..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um... Bourbon?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hello, Flower. How can I help you?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I know this is probably none of my business, but...\num... are you feeling okay?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I am fine. Why do you ask?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Maybe it's just me, but it seems like you've been a\nbit out of it lately."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You also seem to be eating a lot less than usual\nrecently. It's got me worried."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Consulting data logs. It's true that my average\nfood intake levels this week have decreased by\ntwenty percent compared to before."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, my body temperature is normal, and I\nam in no pain. I am fine. There are no issues."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That said... \"Thank you for your concern.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If you say so then that's good, but... please don't\npush yourself too hard, okay?"
+        },
+        {
+            "text": "The next day..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(200 meters completed in 12.33 seconds.\nExecute operation—\"tempo keep.\")"
+        },
+        {
+            "text": "Mihono Bourbon is back to running as usual,\nrecording mechanically precise times as if her\nperformance yesterday was just an anomaly."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(Reoccurrence of \"unsettled\" feeling deep in my\nchest confirmed.)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I will win today!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...!"
+        },
+        {
+            "text": "1,000 meters before the finish line, Bourbon\nabruptly accelerates and finishes with an absurd\nlap time."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...!",
+            "choice_data_list": [
+                "Bourbon?!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "... An error has occurred. I fell into a state of\nconfusion while running. The cause behind the\nphenomenon is unknown."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My physical fatigue has reached its limit. This will\nnot interfere with my training, however."
+        },
+        {
+            "text": "No matter how you slice it, there seems to be an\nissue. I take her to the infirmary."
+        },
+        {
+            "name": "School Nurse",
+            "text": "You don't seem to have any physical\nabnormalities. No nutritional or sleep\ndeficiencies, and you don't seem anemic."
+        },
+        {
+            "name": "School Nurse",
+            "text": "It could be something psychological. I think it\nwould be a good idea to take some time off."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But it is essential for me to make my daily\nadjustments in preparation for the spring Tenno\nSho.",
+            "choice_data_list": [
+                "I know how you feel, but you need to take a\nbreak."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Order acknowledged."
+        },
+        {
+            "text": "Thus, we schedule a few days off, beginning\nimmediately."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The chirping of the birds... The ripples on the\nriver's surface..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Status—\"idle.\""
+        },
+        {
+            "text": "Mihono Bourbon stares absentmindedly at the\nwater's surface. And then..."
+        },
+        {
+            "text": "<i>Thud, thud, thud, thud!</i>"
+        },
+        {
+            "text": "A small shadow runs along the riverbank with\nincredible speed."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Pant, pant, pant...</i> One... more... lap!"
+        },
+        {
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice has fallen. I must provide aid immedi—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hnnng!"
+        },
+        {
+            "text": "Rice Shower leaps straight back to her feet and\nstarts running again."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(Old shoes discarded by the roadside discovered.\nBased on their shape and color, I conclude they\nbelonged to Rice.)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "YAAAAAH!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "text": "Mihono Bourbon continues to watch Rice\nShower's solo training for the next few hours."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Phew..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Are you all right, Rice? It looked as if you hit your\nknee when you fell earlier."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Gyah! Bourbon?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah, I did! It's bleeding a little..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You should not neglect a wound, even if it is\nsmall. Let's go wash it and apply a bandage."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Treatment complete. Please keep the area moist\nand replace the bandage with a fresh one\nperiodically."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Th-thanks..."
+        },
+        {
+            "text": "Mihono Bourbon puts away her equipment and\nlooks firmly at Rice Shower's face."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Your actions were unexpected."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "According to my logs, it is not in your nature to\nstart running again immediately after falling."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh... you saw that? Well, that was..."
+        },
+        {
+            "text": "Rice Shower looks up at Mihono Bourbon as if\nshe's set her mind on something."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to do my best in the spring Tenno Sho...\nI-it's all because of you, Bourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Me?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...My heart has been racing ever since I ran\nagainst you at full speed in the Kikuka Sho."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "When I think about that race, my heart pounds\nand I get chills up my spine. I just can't help it..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to win... I want to win so much! I've never\nwanted something so badly before!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "When I get this feeling, the timid old Rice Shower\nstarts to shrink back."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I feel that maybe... I can work even harder!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It might even be possible to get first place at the\nspring Tenno Sho... No, I <i>want</i> take first place!"
+        },
+        {
+            "text": "Mihono Bourbon gazes intently at Rice Shower as\nshe speaks."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, something smells good... Could carrot curry\nbe on the menu today?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(The \"heart pounding\" that Rice described is\nsomething that I have a tendency to feel when the\nmemories of the Kikuka Sho replay in my mind.)"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(Her declaration suggests that this correlates with\na \"desire to win.\" In other words...)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Bourbon?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice. I will take my leave now."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wh-what's wrong?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There is a matter that I must report to Trainer."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, I have a \"desire to win.\""
+        },
+        {
+            "text": "That's the first thing out of Mihono Bourbon's\nmouth after she suddenly bursts into my office.",
+            "choice_data_list": [
+                "What's gotten into you?",
+                "What's gotten into you?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Replaying voice data."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"I want to win... I want to win so much! I've never\nwanted something so badly before!\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I feel the same way.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "text": "She isn't typically one to get excited about\nwinning, but..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I want to compete against others just like I\ncompeted against Rice at the Kikuka Sho. I\n\"desire to win.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I want to experience this as many times as I can,\nto relive those emotions."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is my desire!"
+        },
+        {
+            "text": "When she says that, her eyes sparkle in a way I've\nnever seen before."
+        },
+        {
+            "text": "It's like she's a different person compared to when\nshe was feeling unwell three days ago."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That's why, I'm going to win the spring Tenno Sho.",
+            "choice_data_list": [
+                "Let's do it!"
+            ]
+        },
+        {
+            "text": "Mihono Bourbon gives me a smile filled with\nelation and anticipation."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "title": "姉妹のハイポシシス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Several days after the tryouts..."
+        },
+        {
+            "text": "The siblings Biwa Hayahide and Narita Brian find themselves\nsurrounded by enthusiastic trainers."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "I'm beggin' ya! Just gimme a minute of your time!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch... What a pain. I told them I haven't even raced in tryouts yet."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Don't say that. You're receiving scouting offers regardless. That's\nproof of their confidence in you."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I still don't like it..."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "No one beats my drive! I can lead you straight to the Triple Crown!\nPlease, Beast!"
+        },
+        {
+            "name": "New Trainer",
+            "text": "I'd treat you the best! What do you say, Brian? No one would pay\nmore respect to your natural talent than me!"
+        },
+        {
+            "name": "New Trainer",
+            "text": "Oh, that goes for you too, Biwa Hayahide! Let me train you! A little\nsibling rivalry to sharpen our training! Sounds great, doesn't it?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm pleased at the offer, but I remain undecided. I must humbly\ndecline."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well then... I will be going on ahead, Brian."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Huh? Hey, if you're gonna leave, take these scavengers with you!"
+        },
+        {
+            "text": "Biwa Hayahide departs with a smile on her face. But under that smirk,\nI glimpse a hint of concern."
+        },
+        {
+            "text": "I decide to follow her out of curiosity."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm? Oh, it's you again. I believe I saw you watching us from a\ndistance earlier."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Did you follow me? Haha, seeing as how you helped with my glasses,\nI suspect you mean no harm.",
+            "choice_data_list": [
+                "Everything all right?",
+                "Everything all right?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Girl A",
+            "text": "Please, Sis! Wait for me! <i>Huff, huff...</i>"
+        },
+        {
+            "name": "Girl B",
+            "text": "Hahaha! Come on, hurry up! We're almost at the finish!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...My cherished little sister. She may appear aloof, but she is actually\nan earnest and good person.",
+            "choice_data_list": [
+                "Narita Brian, you mean?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes... As children we always amused ourselves racing in parks like\nthis. She was competitive and often wound up crying, since I was the\nfaster one then."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But... she said she loved racing and had fun running with me. She was\nalways following in my footsteps."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I wish I could've always been a sister she could look up to.",
+            "choice_data_list": [
+                "Are things different now?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ever since then, our goal has remained unchanged—to race in the\nTwinkle Series together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We were always together... That's why I could sense it. My sister's...\nNarita Brian's unique qualities began to surface."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And then her physical abilities swiftly grew to surpass mine. Power,\nspeed, stamina... She has them all in spades."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Everyone knows she's a rare phenomenon. In time, she'll become a\n\"Beast\" on par with President Symboli Rudolf.",
+            "choice_data_list": [
+                "A beast..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's why I needed an edge. But one that differs from hers."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What I lack in physical prowess, I make up for in precisely planned\nstrategies. And when there is a limit to training time, I maximize\nefficiency."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I have constructed formulas based on my theories, and I will find the\nsolution to victory—using my \"winning equation!\"",
+            "choice_data_list": [
+                "So that's your edge!",
+                "So that's your edge!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha, it's still a work in progress. My equation can't contend with\nBrian yet."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sniffle.</i> No fair! I wanna run super fast like you..."
+        },
+        {
+            "name": "Girl B",
+            "text": "Don't cry! There, there. Here, I'll tell you my secret!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We made a promise."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "She may not even remember, but... it doesn't matter. As her older\nsister and as an Umamusume, I must keep my word."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We will stand together at the Twinkle Series—and we will have the\ngreatest race of our lives!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And with my perfected winning equation—I <i>will</i> claim victory!"
+        },
+        {
+            "text": "The mysterious, ever calm, and collected Biwa Hayahide actually\nhides an intensely burning desire within."
+        },
+        {
+            "text": "And in her empirical running, I see entirely new possibilities for\nracing!",
+            "choice_data_list": [
+                "I can help!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh? What did you say?",
+            "choice_data_list": [
+                "I want to help write your winning equation!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "S-so you mean?! But... I'm still not sure if I'm ready."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And more importantly... are you certain?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...That I'm the sibling you want?",
+            "choice_data_list": [
+                "I want to be <i>your</i> trainer!",
+                "I want to be <i>your</i> trainer!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've written all the theories I'm developing in this notebook. Of\ncourse, my winning equation is here as well."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But today it seems I must write about an additional important matter."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It concerns you, Trainer. I'll label this section with your name."
+        },
+        {
+            "text": "And so, I become Biwa Hayahide's trainer."
+        },
+        {
+            "text": "Together, we vow to complete the unbeatable winning equation and\nachieve her goal."
+        },
+        {
+            "text": "A few days pass since teaming up..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(Hm, what is this? I hear more talk of Brian than usual.)"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "So is it true?! That Brian's gonna race in the Sprout Kinen!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Yeah, seems legit!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(The Sprout Kinen... Even among Junior runners, only the most\nesteemed racers can gain entry!)"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wooow! Amazing! It's totally unheard-of for a pre-debut Umamusume\nto be chosen!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Brian's on a completely different level!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So you've run even further ahead."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And that's why I <i>will</i> complete my winning equation!"
+        }
+    ]
+}

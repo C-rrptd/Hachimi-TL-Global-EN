@@ -1,0 +1,288 @@
+{
+    "title": "A Little Cloudy",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the first day of training for the Japanese\nOaks, I hand Nishino Flower her new training\nregimen."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? This one is completely different..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There's more stamina training, and the sessions\nare longer.",
+            "choice_data_list": [
+                "It's to prepare you for the 2,400 meters."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Oaks is 800 meters longer than the\nOka Sho. It'll take a lot of hard training to\nincrease her endurance."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I see... If I don't work really hard, I won't be able\nto finish the entire race..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay! Whatever training I need to do, I'll do my\nbest!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to show you some great results in the\nJapanese Oaks too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower is working as hard as she can to\nimprove. In order to support her as her trainer,\nthere's one thing I must make sure of.",
+            "choice_data_list": [
+                "You have to tell me if things become too much\nto handle, okay?",
+                "You have to tell me if things become too much\nto handle, okay?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff! Huff! Puff...</i>",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes... I-I'm fine... I just... need a break...",
+            "choice_data_list": [
+                "(This is taking a greater toll on her than I\nthought...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When running 2,400 meters, Nishino Flower's\nunable to use her greatest weapon: her\nfleet-footed speed. Maybe this distance is too\nmuch for her after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since it's her wish to run in the Japanese Oaks, we\ncontinue training every day, but..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Confusion detected. What is the matter, Flower?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(This is Mihono Bourbon. I really couldn't ask for\na kinder roommate.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um... It's my weight... H-hold on a second."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...I knew it. It's much lower than usual."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um... I think this scale's calibration is off."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Perhaps you should try another scale. I would\ntest this one myself, but I am afraid it might\nbreak."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can't believe my weight dropped so much and so\nquickly. I'm definitely eating enough..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You have been training very hard recently. It may\nbe that this weight loss is the result of your body's\ninability to handle the burden."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ngh... Yeah, I kind of figured as much..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Should I stay quiet about it? Trainer will just\nworry... I mean, I'm already having problems\nbecause of my size..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "If I say anything, I might have to stop training,\neven though the race is just around the corner..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can't even run properly in training yet. There's so\nmuch effort I can still put in."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This is difficult to judge on an emotional basis.\nHowever, logically speaking, if you continue to\noverwork yourself, you may become unable to run\nat all."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Therefore, I believe your best recourse is to\nreport this to your trainer immediately and\nprioritize maintenance."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...You're right. If I don't say anything, I'll just\ncause Trainer even more trouble."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Does this mean you will report your situation\naccordingly?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes, I will. Thanks for your advice, Bourbon."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So that's what's going on. Trainer, I...",
+            "choice_data_list": [
+                "I'll put a rest period into your schedule."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay. I'm sorry...",
+            "choice_data_list": [
+                "No need to apologize. Once you're rested,\nyou'll be ready to go again."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You think so? I really hope you're right."
+        },
+        {
+            "name": "Monologue",
+            "text": "With how intense her training is, I thought this\nmight happen, so I made sure to plan ahead, just\nin case. But the thing that bothers me most is...",
+            "choice_data_list": [
+                "Thank you for letting me know."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Honestly, I wasn't sure if I was going to. It's\nprobably not a big deal, and I didn't want to\nworry you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But Bourbon gave me the push I needed. I'm glad\nI told you now."
+        },
+        {
+            "name": "Monologue",
+            "text": "The fact she hesitated to tell me. I need to\nbecome a trainer she feels comfortable relying\non, or I'll never be able to fully support her.",
+            "choice_data_list": [
+                "(I have to show her how dependable I can be!)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Trainer? If I'm on break now, then does that\nmean...",
+            "choice_data_list": [
+                "Yes, we won't be training today.",
+                "Yes, we won't be training today."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Okay. Is there anything I can do besides training,\nthen?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The race is coming up, so I'd like to do whatever I\ncan."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she feels responsible for canceling our\ntraining session."
+        },
+        {
+            "name": "Monologue",
+            "text": "The best thing she can do now is to relax and get\nher weight back up. And in order for her to\ncomplete those two tasks..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, Trainer?",
+            "choice_data_list": [
+                "Order whatever you want!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can't do that!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I can cook my own meals! I'll do my best on that\nfront, so please—",
+            "choice_data_list": [
+                "Here. Look at the menu."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But, Trainer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, this miso-grilled mackerel looks really good...",
+            "choice_data_list": [
+                "Got it! Excuse meee!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ack! I didn't mean to say that out loud! Trainer,\nstooop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While I'm at it, I also order a lot of side dishes\nand desserts I think she would like."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew... I'm stuffed...",
+            "choice_data_list": [
+                "How was that?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It was delicious... I haven't taken the time to sit\ndown and enjoy so many of my favorites in a\nwhile.",
+            "choice_data_list": [
+                "Why don't we go get some tea now?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? Can we really? But aren't you busy?",
+            "choice_data_list": [
+                "I know a good place."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ooh!",
+            "choice_data_list": [
+                "They serve lovely tea cakes too."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Tea cakes?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, I'd love to see what it's like! Please lead\nthe way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower seems more relaxed. It's great how\nshe's always so earnest, but I think I should\nindulge her like this occasionally to keep the\nstress at bay."
+        }
+    ]
+}

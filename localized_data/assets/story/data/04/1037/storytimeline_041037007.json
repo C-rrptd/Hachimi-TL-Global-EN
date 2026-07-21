@@ -1,0 +1,237 @@
+{
+    "title": "Augenblick",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While working out a training schedule to make the most of summer\ncamp..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer, I have a favor to ask."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "These two hours after training on this day—no, two to three\nhours—could we keep this time slot open?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And, just to clarify, I mean for both of us.",
+            "choice_data_list": [
+                "Something going on?",
+                "Something going on?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have some... plans, yes. And I, um... I just need you to be there."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Would you be willing to help out?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not like her to be so vague. She looks a bit nervous, though, so I\ndecide not to prod and give her the okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Summer camp begins, and we train according to schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Pant, pant...</i>",
+            "choice_data_list": [
+                "Okay, that's all for today!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes... Thank you. And, um..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You've remembered to keep two to three hours open after this...\nright?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Right, then please meet me at the shrine in an hour and thirty-five\nminutes. I need to get ready, so I'll meet you there. Bye, for now."
+        },
+        {
+            "name": "Monologue",
+            "text": "An hour and thirty-five minutes later, I head to the shrine."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Right on time. I can always count on you to be punctual.",
+            "choice_data_list": [
+                "Plain clothes? Not workout gear?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Not right now, no. Trainer, are you fond of festivals?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The summer festival's very lively, isn't it? And also... full of delicious\naromas.",
+            "choice_data_list": [
+                "So this is the big thing you were planning.",
+                "So this is the big thing you were planning."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It was my roommate who told me that there'd be a traditional summer\nfestival near the training camp."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've been curious about Japanese festivals ever since coming here.\nAnd, fortunately, we had some time after training today, so...",
+            "choice_data_list": [
+                "You could've just told me."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Well, it's not that I was trying to hide it. It's just, I wasn't sure when\nto tell you, and kept putting it off.",
+            "choice_data_list": [
+                "Gotta say, I'm kind of surprised.",
+                "Gotta say, I'm kind of surprised."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Surprised... that I'd be interested in festivals? My roommate also said\nas much."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Or, to give a proper quote, \"You don't seem like the noisy\nfestival-goer type.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, in Germany we have <i>Karnevals,</i> which involve much more\nnoise than this festival. They're wild fun, really."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "During the event, everyone is free to laugh and get intoxicated by\nthe festive mood—I don't mind it, actually."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And so, since summer festivals are such a wonderful part of Japanese\nculture, I put it in my schedule to enjoy one to the fullest. Come on\nthen, let's go."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Did you know we have candy apples in Germany too? Holiday\nmarkets even have blue apples."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah... They're doing a festival dance over there. What a fascinating\npiece of culture."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They all look like they're having so much fun—hm? Wait, are they...\nwaving to us? Does that mean...",
+            "choice_data_list": [
+                "C'mon!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh? T-Trainer?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We get swept up in the festive mood and are thoroughly enjoying\nourselves, when..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh no, I lost track of the time!",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The fireworks will begin three minutes from now. If we don't hurry...\nNo, the probability of making it on time is too low.",
+            "choice_data_list": [
+                "You can't see them from here?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well, you can, but according to what I found, you can't see all of\nthem."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So, I found a better spot about ten minutes from here. If I ran at a jog,\nI'd probably get there in time, but...",
+            "choice_data_list": [
+                "Then what are we waiting for?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But you...",
+            "choice_data_list": [
+                "All that matters is that you get to enjoy the\nfireworks!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I forgot my most important goal for the day."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "We don't need to move. Change of plans, we'll watch the fireworks\nfrom here.",
+            "choice_data_list": [
+                "You sure?",
+                "You sure?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, I'm sure. See, the—"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Just then, the shrill whistling of fireworks cuts her off.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Wunderschön...</i> It's so... beautiful."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I think this is the best spot after all. Here, I get to accomplish my\ninitial goal..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"Having fun with you.\" That was my top priority for the day."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And I'm... having a lot of fun right now. Are you?",
+            "choice_data_list": [
+                "Yep, I'm very <i>glücklich</i> !"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. I'm happy too—properly happy."
+        }
+    ]
+}

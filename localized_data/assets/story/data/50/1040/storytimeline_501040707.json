@@ -1,0 +1,97 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm visiting a shrine with Gold City, who has been\nstuck in a slump as of late."
+        },
+        {
+            "name": "Gold City",
+            "text": "I never considered a shrine a place for relaxation,\nbut... I guess it's not so bad."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's quiet, and there's not many people around."
+        },
+        {
+            "name": "Gold City",
+            "text": "Interesting how different it is from when I'm here\non the job.",
+            "choice_data_list": [
+                "You modeled at a shrine?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Not exactly. Before shooting a major collection or\nfilming a new TV show, we attend a prayer\nceremony."
+        },
+        {
+            "name": "Gold City",
+            "text": "A bunch of us all get in a line, then the priest\nwaves that white thing around."
+        },
+        {
+            "name": "Gold City",
+            "text": "Not that that doesn't have its own vibe to it, but\nyou know, it's work, so everyone's just on edge."
+        },
+        {
+            "name": "Gold City",
+            "text": "I guess whether you're amped up or in the\ntrenches, once you've done all you can do, there's\nnothing left but to pray to the gods."
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, let's get to it, yeah?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clang, clang!</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "(Um... Hey there, gods. If you're listening, I've just\nbeen in sort of a rut lately, and I want to do\nsomething about it.)"
+        },
+        {
+            "name": "Gold City",
+            "text": "(I'm not asking you to make me faster. Just,\nwhether I win or lose, I want it to be based on my\nskill.)"
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh...</i> Well, that's done. I guess it might bring me\npeace of mind..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah. Actually, I think I'm already starting to feel\nbetter!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Maybe I was feeling panicked, thinking I didn't\nhave enough time?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, let's go, Trainer. I feel like this will help me\nconcentrate on my practice tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She swiftly struts off into the distance. With the\nsun shining behind her back, it looks as though\nshe's walking down a runway."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, a message from my manager."
+        },
+        {
+            "name": "Gold City",
+            "text": "What, an urgent job? She's coming to pick me up\nnow?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you kidding me? I thought I finally had a\nchance to rest..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Just gonna do me dirty like that, huh? Thanks,\ngods. Thanks a lot..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her wishes going unanswered, Gold City's\nmood doesn't seem to improve."
+        }
+    ]
+}

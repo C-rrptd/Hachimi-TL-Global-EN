@@ -1,0 +1,238 @@
+{
+    "title": "ご飯を、諦めない――オグリキャップ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "On my lunch break one day, I find Oguri Cap\nclutching a lunch box and letting out a subtle\nsigh."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given her famously enormous appetite, I'm\nsurprised she's not at the cafeteria scarfing down\neverything in sight.",
+            "choice_data_list": [
+                "...Just a lunch box today?",
+                "...Just a lunch box today?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah...\nNgh."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk...\nIt's no use. I'm still hungry..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I can't go to the cafeteria...",
+            "choice_data_list": [
+                "Any particular reason?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I was eating my usual amount in the cafeteria\nyesterday, when..."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Oguri's so lucky. She can eat all that and still maintain\nher racing weight. I guess she must have good\nmetabolism or something..."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "No matter how much I run or how little I eat, I still\nstruggle to hit my target. I wish I could eat without a\ncare too... <i>Sigh...</i> Life can be so cruel."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It surprised me. I didn't realize that people can't\nalways eat what they want, or as much as they\nwant..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Or even that people could be sad when they see\nme eat a lot.",
+            "choice_data_list": [
+                "So that's why you're eating out here on your\nown?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. But one lunch box... isn't enough."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want to eat more...",
+            "choice_data_list": [
+                "Don't overthink it. Just eat.",
+                "I bet there's a reason you eat so much.",
+                "I bet there's a reason you eat so much."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I want to eat more...",
+            "choice_data_list": [
+                "Don't overthink it. Just eat.",
+                "I bet there's a reason you eat so much.",
+                "I bet there's a reason you eat so much."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There are plenty of students besides Oguri Cap\nwho eat a lot. Even if she started eating less, I\ndoubt things would get any easier for that other\nUmamusume.",
+            "choice_data_list": [
+                "That's just how it is. She'll have to make peace\nwith that."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Maybe you're right. But still... It makes me sad."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Eating should make everyone happy, but it's only\nbringing her suffering... and that's tragic..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I know Oguri Cap's heart is in the right place, but\nshe's not helping anyone by starving herself. And\nsince she can't change reality, she might as well...",
+            "choice_data_list": [
+                "You should have a great big meal tomorrow.\nLike, really go for it."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Huh? But...",
+            "choice_data_list": [
+                "It'll be okay. Trust me."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Okay. I will."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "... ♪"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wow, Oguri's eating even more than usual today.\nAnd still..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hehe..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "She looks so happy... It's actually kinda making\nme wanna eat more too!"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Urk... It all looks sooo good. Fried rice, ramen, fried\nchicken...\nI mean... oil, carbs, oily carbs... I can't touch any of that!"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Nghhh... That's it! I can't hold out forever! Carbs\nand oily foods are just too delicious!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...!\nThat's the girl from yesterday..."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Maybe I should try talking to a dietitian or\nsomething...\nYeah! We can figure it out together!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Yeah.\nDo your best!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Now, where was I..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap does eat a huge—no, an <i>astonishing</i>\namount of food. But she's astonishingly active as\nwell."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's true for other Umamusume as well, but...\ngiven the sheer quantity of food Oguri Cap\nconsumes, her exercise regimen must be on\nanother level entirely."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I see... So that's it...",
+            "choice_data_list": [
+                "What's it?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Basically... I just have to show her that I eat a lot\nand I exercise a whole lot too."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So all we have to do is train together!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "After this break, we're doing crunches. Ten sets of\na hundred."
+        },
+        {
+            "name": "Monologue",
+            "text": "That afternoon, I spot Oguri Cap exercising\nalongside a younger student."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "<i>Pant... Pant...</i> Th-this is... ridiculous..."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Um, Oguri... Do you always train this hard?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No... I reduced the number of sets since we're\ntraining together today. Usually, I do about...\ntwice as many?"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Geez... No wonder you eat so much."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "How about you? Are you going to eat a whole lot\ntoday?"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Huh?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The food you have after this training session will\ntaste incredible. I guarantee it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "First you train hard, then you eat your favorite\nfoods. It's fine to have days like that sometimes!"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "..."
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "So if I can just keep up with this level of training... I can\nstop worrying about calories, huh?"
+        },
+        {
+            "name": "Dieting Umamusume",
+            "text": "Um, Oguri! Add some more weight, please. I want\nto eat a bowl of ramen heaping with roast pork\nafter this!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...!\nRight!"
+        }
+    ]
+}

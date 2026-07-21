@@ -1,0 +1,97 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Owww... Phew, that sure startled me!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I guess I'll have to follow the doctor's orders and\nrest for a few days...",
+            "choice_data_list": [
+                "I'm sorry! This was my fault for being\ninattentive!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's okay! I'm totally fine, so you don't have to get\nall upset!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks for giving me emergency treatment right\naway, Trainer. That helped a lot with the pain."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You're really amazing! You're as incredible as the\nhighest-ranking sumo wrestlers out there!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Speaking of, let's get back to training!",
+            "choice_data_list": [
+                "Why don't we observe others today?",
+                "If you feel any pain at all, we're stopping, okay?",
+                "If you feel any pain at all, we're stopping, okay?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Speaking of, let's get back to training!",
+            "choice_data_list": [
+                "Why don't we observe others today?",
+                "If you feel any pain at all, we're stopping, okay?",
+                "If you feel any pain at all, we're stopping, okay?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hmm... Okay. I guess learning by observation is\nimportant too.",
+            "choice_data_list": [
+                "We can use what you learn once your leg heals\nup!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! All right, I'll do my best to soak up\neverything I see!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop Hishi Akebono from running and have her\nrest until the doctor gives her the okay to start\ntraining again."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks! Let's get started right awa—"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "...!",
+            "choice_data_list": [
+                "Don't push yourself too hard!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm sorry, Trainer... I know I shouldn't..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as I thought, it's too dangerous to let her run\nlike this. I decide to have Hishi Akebono rest until\nher leg is fully healed."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Gotcha! But really, I'm fine!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've been looking forward to enjoying every dish\non the training menu you came up with!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Here's to a buono training session! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "By taking special consideration of her injury and\nstaying focused, we get through practice without\nany issues!"
+        }
+    ]
+}

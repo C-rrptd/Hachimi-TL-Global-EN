@@ -1,0 +1,53 @@
+{
+    "title": "天皇賞（春）にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Finally, the spring Tenno Sho is here! I can't wait\nto see Sky and Spe face off!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I betcha Special Week'll win. She's improved so\nmuch recently!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Yeah, Spe's stronger for sure, but Sky will\ndefinitely give her a run for her money at this\nlength. Besides..."
+        },
+        {
+            "name": "Fan A",
+            "text": "She always manages to pull through. I can just\nfeel it!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Inhale... Exhale...</i>",
+            "choice_data_list": [
+                "You're pretty focused.",
+                "You're pretty focused."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, yeah. Have you seen Spe? She's gotten way\nbetter."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm trying to calm myself down the best I can. If\nbreathing deeply will raise my chances of winning,\neven a little, then that's what I gotta do."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I know that alone won't cut it though. I have to\ngive this everything I have, right?",
+            "choice_data_list": [
+                "You can do it. And I'll be watching you."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, that sounds a little weird."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't make me all embarrassed. Just check in on\nme every once in a while, yeah?"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "重ならないニュアンス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "Ahahaha! No waaay! I'm <i>DEAD!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "That explosive voice... Turning my head towards the sound, I see\nTosen Jordan and her friend staring at their phones and laughing\nwildly."
+        },
+        {
+            "name": "Tosen Jordan's Friend",
+            "text": "Check this out, Jordan! This one's sooo good!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Omigosh, you're right! I <i>can't!</i> Ahaha, my sides!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not sure what's going on, but it looks like she's enjoying... something?\nI'll have to ask her about it later."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I told you, it's California Fuji Izumi."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You know, the comedian? The one doing all those stupid gags going\nviral on UmaTok?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "\"Gotcha! That there's the last straw!\" Come on, you've heard that line,\nright?",
+            "choice_data_list": [
+                "No..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously? Then... What about this... Pfft, hehe..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "\"Popping, ping popping!\" Ahhh! I can't! It's too good! Bahaha!",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, come <i>on!</i> If you don't laugh too, that's, like, peak cringe!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But seriously, you didn't know that one either? Do you, like, never go\non social media or something?",
+            "choice_data_list": [
+                "I've just been busy lately..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ohhh? Well, I guess this comedian <i>did</i> just start trending recently.\nHow about non-comedy stuff, then?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Stuff like... this, maybe? ♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Or maybe this? Isn't this the cutest?",
+            "choice_data_list": [
+                "Is that a... dance?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uhhh, no? Or, like, not exactly? Wow... You really don't know any of\nthese, huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "If you don't know these UmaToks, what are you even watching? What\ndo you do for fun?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking about it, I realize my schedule has been so busy that I no\nlonger keep up with entertainment much...",
+            "choice_data_list": [
+                "Uh... TV?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, I don't watch much TV, but... I should recognize the big names.\nWhat shows do you like?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to come up with a few names, but realize I haven't watched\nanything lately. Instead, I try mentioning the show I watched as a kid,\nComedy Derby."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Never heard of it... Must be old. Is it uploaded to UmaTube at all?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You know... I feel like I'm talking to my parents. Big yikes.",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Anyway, this meeting's over, right? Then I'm leaving. See ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "The world I see is so different from hers... At this rate, we might not\neven be able to communicate properly."
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to learn more about what she's into. I quickly pull out my\nphone and follow the comedian she mentioned and other viral\nUmaTokkers."
+        },
+        {
+            "name": "Monologue",
+            "text": "After days and days of studying this strange new world...",
+            "choice_data_list": [
+                "Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hm? What's up? And... why's your face so sus right now? S-seriously,\nwhat's going on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I've carefully observed the media she consumes, absorbing it all. And\nnow, it's time to show the fruits of my labor...",
+            "choice_data_list": [
+                "\"Gotcha! That there's the last straw!\""
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?",
+            "choice_data_list": [
+                "\"Popping, ping popping!\""
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh... Guess I'll snap a pic."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But, wow, talk about a throwback. I haven't watched that comedian's\nact in aaages.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "California Fuji Izumi is soooo last week. Now Michael L. Mica is what's\nlit. You know him?",
+            "choice_data_list": [
+                "N-no!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Really? Anyway, what's gotten into you? Your reaction to those\nvideos was mid at best when I showed them to you before.",
+            "choice_data_list": [
+                "I just wanted to make you laugh..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So wait. You studied all that... for me? Huh..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, you totally bombed, but try again. I'm uploading this next one\nto UmaTok, so you better do it right.",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems I'll need to work a little harder to close the gap between\nmyself and Tosen Jordan."
+        }
+    ]
+}

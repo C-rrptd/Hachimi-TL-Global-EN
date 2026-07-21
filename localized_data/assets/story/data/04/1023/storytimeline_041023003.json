@@ -1,0 +1,260 @@
+{
+    "title": "確かなエヴィデンス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Narita Brian, though still pre-debut, secures a place in the exalted\nSprout Kinen. It's an amazing accomplishment and the talk of the\nacademy."
+        },
+        {
+            "text": "The exhibition race will be held at the Tokyo Racecourse, where most\nlegendary runners first come to prominence."
+        },
+        {
+            "text": "I'm sure many are eager with excitement to see the Beast in action.\nHowever, the unforeseen happens..."
+        },
+        {
+            "text": "Biwa Hayahide is called by student council president Symboli Rudolf\nfor an urgent meeting."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You want me to race on her behalf?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What... what is the meaning of this, President?!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I understand that this is sudden and a lot to process. We are just as\nthunderstruck as you are."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But the reality is this... Narita Brian has come down with a fever."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The racer chosen to take her place in the Sprout Kinen is you. So I ask\nagain, Biwa Hayahide, will you heed the call?",
+            "choice_data_list": [
+                "Hayahide!"
+            ]
+        },
+        {
+            "text": "This is her chance. If she can race against top runners in the Sprout\nKinen, it should help her get closer to completing the winning\nequation."
+        },
+        {
+            "text": "Knowing that, I encourage her to join."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Impossible. I'm not at that level—Brian's level."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm no replacement for her!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I disagree. You—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know her capabilities more than anyone!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sorry, I lost my composure."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm worried about Brian's condition. Before I make any decisions, I\nwould like to go see my sister."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Of course. I apologize for not giving due consideration."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "However... there is, frankly, no time to spare. I expect your decision\nsoon."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "text": "Hayahide is anxious as we go to check on Narita Brian. At the\nhospital, we're told the ailing racer has just taken some medicine and\nfallen asleep."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "She looks terrible. I'm always telling her to take better care of herself,\nbut she never listens..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's the exact opposite of before.",
+            "choice_data_list": [
+                "What happened before?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It was a long time ago."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Her physical abilities began to surpass mine. No longer able to keep\nup, I started training recklessly."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But my sister—even though she was so young—was worried about me.\nAnd one day, while we were playing tag..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I should've treated it as a friendly game between sisters, as a proper\nolder sibling would.",
+            "choice_data_list": [
+                "But you didn't?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No. No matter how fast I ran, I was unable to catch up to her. I grew\nmore and more desperate, eventually neglecting to watch where I was\ngoing... I crashed into a fence and wound up in the hospital."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "While I was completely bedridden, Brian kept improving her speed on\nher own."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But I couldn't move—all I could do was use my head. That's when I\nbegan to persist in my studies."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In bed, I sank myself into my notes and books, constructing theories\nday in and day out. I even gave one the grand title of the \"winning\nequation.\""
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But... You know what, Trainer?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Not once in all this time have I ever been able to predict Narita Brian\nand her pure instincts."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "She always exceeds my calculations. She destroys all my equations.\nShe's an anomaly that I <i>cannot</i> solve!"
+        },
+        {
+            "text": "Her words are filled with suffering... And I realize she's been holding\nthis pain inside the whole time."
+        },
+        {
+            "text": "No matter how hard she thinks, the Beast always bests her theories.\nBut even now, she pushes on, always planning and formulating.",
+            "choice_data_list": [
+                "And that's how you gained your unique ability.",
+                "And that's how you gained your unique ability."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Your theories are an unrivaled force.",
+                "Your theories are an unrivaled force."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I told you, I've never been accurate when it comes to Brian. No matter\nhow hard I try, I'll never surpass her!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I still haven't been able to prove any of my theories—",
+            "choice_data_list": [
+                "I'm proof!",
+                "I'm proof!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You? How so?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In tomorrow's race, I'll stay near the lead until the final corner. The\nfront pack will be tightly grouped together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Following the last turn, I'll pass them from outside."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Then I will gain a lead of no less than ten lengths—and place first."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Three... two... one."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Time to confirm my calculations!"
+        },
+        {
+            "text": "I still remember how my chest pounded with excitement back then."
+        },
+        {
+            "text": "The way she talked about her calculations made my heart dance. I\ncouldn't help but want to work together and bring her theories to\nfruition!"
+        },
+        {
+            "text": "I was completely captivated by her brilliant winning equation!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "Let's solve your equation and seize\nvictory—together."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Why? Do you truly believe that I can reach her level?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "He's not the only one who believes in you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "She's not the only one who believes in you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "President!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "There's something of vital importance that I forgot to tell you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Vital importance?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, the one who so strongly recommended you above all others as\nNarita Brian's replacement..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "—was Narita Brian herself. She said it <i>must</i> be you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...!"
+        },
+        {
+            "text": "Biwa Hayahide gasps in total shock, but her expression quickly shifts\nto one filled with determination."
+        },
+        {
+            "text": "She is ready to do what's necessary."
+        }
+    ]
+}

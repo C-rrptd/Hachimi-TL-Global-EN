@@ -1,0 +1,231 @@
+{
+    "title": "プリーズ、マイトレーナー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "My meeting ran over, and now I'm late for my training session with\nTaiki Shuttle!",
+            "choice_data_list": [
+                "I've got to hurry!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I arrive at the training course to find Taiki standing alone, looking\nutterly dejected."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sob...</i>",
+            "choice_data_list": [
+                "Sorry I'm late, Taiki!",
+                "Sorry I'm late, Taiki!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "...!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wahhh! Traineeer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tearful hug is akin to a crushing tackle."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sob...</i>",
+            "choice_data_list": [
+                "Feeling better?",
+                "Feeling better?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yes... Sorry for breaking down on ya like that, Trainer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I just can't handle flyin' solo. I get so lonely that the tears start\nflowing nonstop."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Everything was fine while all my friends were here training and I had\npeople to talk to..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But eventually, everybody else went home, and I was left all on my\nlonesome. And you were nowhere to be found..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sob...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's hard to tell since she's always surrounded by friends, but it seems\nshe gets lonely pretty easily."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sob...</i> Oh?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry. Guess all that crying made me hungry.",
+            "choice_data_list": [
+                "Let's get something good to eat."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "To make up for missing her training session, I decide to treat Taiki to\na meal."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ooh, a sit-down restaurant!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Look at all the food and drinks to choose from! It's like I've died and\ngone to heaven!",
+            "choice_data_list": [
+                "Order anything you like.",
+                "Order anything you like."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Really?! Trainer, you're as givin' as the day is long!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, did that not come across? Sorry! I just meant... you're really\ngenerous!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What should I go with? Steak? A hamburger? Or maybe the special\ndeluxe parfait?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "...On second thought, I'll take 'em all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I let Taiki keep ordering until her stomach is sufficiently satisfied."
+        },
+        {
+            "name": "Monologue",
+            "text": "...It's probably best not to dwell on how light my wallet has become."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whew! Thank ya, Trainer! I'm so full—and so happy!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But Japanese steaks are a little on the small side..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The steaks I used to eat with my family were twice—no, three times as\nbig!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That sure takes me back. I always loved talkin' with my family and\nfriends over a good meal."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I miss them all so much..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki hangs her head sadly. Considering how easily she gets lonely,\nthe homesickness must be particularly hard on her.",
+            "choice_data_list": [
+                "I'll be here for you so you don't feel lonely.",
+                "I'll be here for you so you don't feel lonely."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Gasp!</i> Oh, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Thank ya! Thank ya very much!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm not going home yet! Not till I win the Twinkle Series!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "My precious family and friends are rootin' for me."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I love seeing their happy smiles every time I win!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Seeing everybody smile is my favorite thing in the whole, wide world!\nNothin' makes me happier!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So I won't let a little loneliness stop me from giving it my all!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "With you by my side, I can take on the world!",
+            "choice_data_list": [
+                "Let's do this—you and me!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yes! We'll make everybody happy—together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with our spirits renewed, we set our sights on victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, look! I see Dober over there!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, friend!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? What?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Dobeeer!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wha—gyah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems we still have a lot of work to do."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, sorry! ☆"
+        }
+    ]
+}

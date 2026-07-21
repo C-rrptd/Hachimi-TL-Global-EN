@@ -1,0 +1,34 @@
+{
+    "title": "ある意味アドバイスどおり……？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fortune Teller (?)",
+            "text": "You there... If you go beyond this point, you'll be\nmet with misfortune!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Haha, thanks for the advice! But the way I see it,\nthis is a lucky direction!"
+        },
+        {
+            "name": "Fortune Teller (?)",
+            "text": "No! Misfortune is sure to befall you! I'm warning\nyou!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hm... But feng shui says going this way is a great\nidea! Let me through, please!"
+        },
+        {
+            "name": "Fortune Teller (?)",
+            "text": "I cannot! I have forty years of experience in this\nfield! You must believe me!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Grrr... You sure are stubborn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey is left exhausted after her\nconfrontation with the shady-looking fortune\nteller..."
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "title": "YAGNIに従え",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been some time since I became Air Shakur's trainer. We haven't\nhad any glaring issues, but I do have one concern."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Talk, huh... What about?",
+            "choice_data_list": [
+                "Um... Would you like to get food together after\ntraining?",
+                "Um... Would you like to get food together after\ntraining?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...What?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us haven't gotten any closer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even on a good day, Air Shakur's attitude towards me is prickly at\nbest. But I want to do everything I can to support her in the Twinkle\nSeries."
+        },
+        {
+            "name": "Monologue",
+            "text": "And for me to do that, she needs to trust me. Obviously it won't\nhappen all at once, but surely I can build up that trust little by little."
+        },
+        {
+            "name": "Monologue",
+            "text": "After asking around, I managed to come up with a few ideas to help\nus get closer. All that's left is to bring them up to Air Shakur!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? An outdoor festival? No way."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What? You made your own PC? <i>You?</i> Huh... And?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's becoming clear that Air Shakur doesn't want to interact with me\noutside training-related business.",
+            "choice_data_list": [
+                "But I won't give up yet!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So now you want to spend the day together, huh? What's gotten into\nyou recently?",
+            "choice_data_list": [
+                "I just want us to get to know each other better.",
+                "I just want us to get to know each other better."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not necessary. We only formed a contract because I needed a trainer\nfor my debut.",
+            "choice_data_list": [
+                "But I'll let you pick the place!",
+                "But I'll let you pick the place!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We don't even have to talk. All I can hope is that this time together\nwill help her trust me just a little more. Once I explain my intentions\nto her..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We don't even have to talk. All I can hope is that this time together\nwill help her trust me just a little more. Once I explain my intentions\nto her..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All right, fine. Guess I'll just <i>waste</i> a day with this then... You said I\ncould pick the place, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I meet up with Air Shakur the next day. She then takes me\nto...",
+            "choice_data_list": [
+                "A net cafe?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "One with only single booths at that. Our booths aren't even next to\neach other... But I did promise she could pick, and I won't go back on\nmy word."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I also don't know when our next outing will be, if ever... So I have\nto make this work!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What now? This better be good, or I'm kicking you out.",
+            "choice_data_list": [
+                "Are you hungry?",
+                "Are you hungry?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...No, I'm not hungry, nor do I think I will be.",
+            "choice_data_list": [
+                "But it's almost lunchtime..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "C-can I at least get you something to drink?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Would you SHUT UP?!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All right, if you really wanna be friends or whatever, give me. Some\ndamn. SPACE!"
+        },
+        {
+            "name": "Cafe Staff A",
+            "text": "Excuse me, miss, could we speak for a moment?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "WHAT NOW?!\n...Ah."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. Guess I can't go back there.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Lots of trainers have business-like arrangements with their trainees.\nAnd it's not like their race results suffer from that lack of a personal\nrelationship."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm sure you're aware of that fact too. So I can think of only one\nreason you'd keep up this stupidity."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You must believe that us being all buddy-buddy would be good for\nme. Seeing the loner avoid making friends makes you sad, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Should've known better. Nothing changes."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The only partner I need is my PC. So quit inviting me out. Got it?",
+            "choice_data_list": [
+                "...I make no promises."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur doesn't see the need to build relationships with people. I\nunderstand that. After all, she made it this far on her own, with only\nher numbers to guide her.",
+            "choice_data_list": [
+                "(But...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "What will happen when she encounters a problem she <i>can't</i> solve on\nher own? I want to prepare for that possibility.",
+            "choice_data_list": [
+                "I won't give up that easy."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I don't get it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "As always, you make no sense. Wouldn't it be easier to just do as I\nsay?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Do whatever you want."
+        }
+    ]
+}

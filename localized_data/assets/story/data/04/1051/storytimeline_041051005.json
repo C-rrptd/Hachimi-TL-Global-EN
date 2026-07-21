@@ -1,0 +1,159 @@
+{
+    "title": "咲く日を待って",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some time has passed since I became Nishino Flower's trainer.\nEverything is going smoothly, and our time together is well spent.\nOne day..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer, if you want, I brought a bento box for lunch.",
+            "choice_data_list": [
+                "You made this for me?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes. Actually, my mom taught me this recipe yesterday. And, I wanted\nyou to try it too!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah! Trainer's a really thorough teacher! I'm having so much fun\nduring training!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm able to do a little bit more each day, and that makes me want to\nwork even harder."
+        },
+        {
+            "name": "Flower's Father",
+            "text": "\"Sounds like you've forged a good relationship with your trainer.\nThat's wonderful.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uh-huh! That's why I want to do something for Trainer, but I don't\nknow where to start. Do you have any advice?"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Hmm. Making a big deal out of things might not work... Oh! How\nabout this? You can present it as a casual gesture..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You liked the last bento I made, so... Um, if you don't already have\nsomething to eat, that is—",
+            "choice_data_list": [
+                "Thanks! I'll take it!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A medley of colorful vegetables and steamed foods jump out at me,\nincluding fried chicken and other items that are delicious even when\nthey're not piping hot. Each bite tastes of heartwarming home\ncooking."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "How... is it? Do you like it?",
+            "choice_data_list": [
+                "Everything is so delicious!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The flavors are just right—I could eat something like this every day. I\ntell Nishino Flower exactly that."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Every day?! U-understood! Ehehe... I'm glad you liked it."
+        },
+        {
+            "name": "Monologue",
+            "text": "She beams with happiness at having her mother's recipe\ncomplimented. I thank her again and continue to eat with gusto."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Today's bento is my dad's favorite. I hope you enjoy it too."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah! I have plans to hang out with some friends, so I'll see you later.\nBye!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a bow, she races away. I'm happy about the bento box, but I\nalso wonder if she isn't overexerting herself just to make them.",
+            "choice_data_list": [
+                "Did she take my words yesterday literally?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe she took what I said about being able to eat her food every\nday to heart."
+        },
+        {
+            "name": "Monologue",
+            "text": "If this is going to be a regular thing, then the least I could do is pay\nfor the ingredients. I'm eating the lunch box in the trainer's office\nwhen..."
+        },
+        {
+            "name": "Senior Trainer A",
+            "text": "Hey! You hard at work as always? Are you free for lunch? I figured we\ncould catch up. If you're down for that, we're meeting by the main\ngate!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's one of the senior trainers who took me under her wing. I'm starting\nto feel stuffed from my meal, but I also don't want to refuse the offer.",
+            "choice_data_list": [
+                "Yeah... I'll be there."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I shovel the last of the food into my mouth and dash toward the\nacademy gates."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I hope today's lunch box went over well. I know they're Dad's\nfavorite foods, but I hope Trainer likes them too.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(What should I make tomorrow? I'm sure Mom will be happy to share\nanother one of her recipes...)"
+        },
+        {
+            "name": "Senior Trainer A",
+            "text": "You all right? You hardly ate a thing!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...? Isn't that..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I learned a lot about training and how to improve partnerships with\nour Umamusume from my colleagues. I want to thank them for inviting\nme to lunch, but my stomach can't take any more.",
+            "choice_data_list": [
+                "Thanks for... lunch, you guys... <i>Urk.</i>"
+            ]
+        },
+        {
+            "name": "Senior Trainer B",
+            "text": "Whoa, don't force yourself to talk. Are you coming down with\nsomething? Sorry—we wouldn't have invited you if we'd known.",
+            "choice_data_list": [
+                "No. I'm the one who should apologize."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Could it be?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        }
+    ]
+}

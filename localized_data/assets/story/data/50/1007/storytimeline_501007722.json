@@ -1,0 +1,66 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Gold Ship comes to the trainer's\noffice..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Why, hello there, Trainer. Sure is lovely weather\nwe're having today, don't you think?",
+            "choice_data_list": [
+                "...Did something happen?!",
+                "...Did something happen?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Goodness, why do you look so startled?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I daresay you seem a little off today. Are you\nfeeling well?",
+            "choice_data_list": [
+                "You don't seem like yourself, either.",
+                "You don't seem like yourself, either."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well... If you must know, I've been having strange\nheadaches of late."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...Ah, speaking of which, I feel one coming right\nnow—ow, ow, OW!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Arrrgh! Gimme a break!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...Hm? What's with that look?",
+            "choice_data_list": [
+                "You're Gold Ship, right?",
+                "You're Gold Ship, right?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whaaa? I'm the one and only Golshi! Who else\nwould I be?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ouch..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh... All that shouting's made my headache even\nworse..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship seems to be plagued by bad migraines."
+        }
+    ]
+}

@@ -1,0 +1,381 @@
+{
+    "title": "溜",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With her debut not long behind her, we joined\nsome much-needed scrimmages to bolster her\nability to compete in large groups, but..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Gasp... Pant...</i> Third place?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Damn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In one scrimmage she'll take first, then take sixth\nin the next. And then first again. Her results\nrefuse to stabilize.",
+            "choice_data_list": [
+                "(She's just going to get stressed out at this\nrate...)",
+                "(She's just going to get stressed out at this\nrate...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But through these scrimmages, I've come to\nidentify her problem..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Graaaah!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Hyah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When challenged by another runner, she focuses\nher energy on the challenger until they back\ndown, for the entire race if need be."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, when she races against multiple\nopponents..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Haaa!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Think you can pass me?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Narita Brian is unable to run at her natural pace."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch!",
+            "choice_data_list": [
+                "(I want to do something, but...)",
+                "(I want to do something, but...)"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, you!",
+            "choice_data_list": [
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You're Brian's trainer, right? Is she sick or\nsomething lately?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "She hasn't been herself since her debut!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Where's that insane strength I saw during our\none-on-one?",
+            "choice_data_list": [
+                "Brian's best at one-on-one races.",
+                "Brian's best at one-on-one races."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Gulp!</i> W-Well yeah, I can't argue with that\nconsidering I absolutely got wrecked..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Urk... Come on! Don't make me remember that!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hurry up and get Brian back on her feet! I only\nbeat people down when they're at their peak."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "The longer I have to hold back now, the more I'm\ngonna let loose when we race!",
+            "choice_data_list": [
+                "(Hold back... then let loose...)"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What is it, Trainer?",
+            "choice_data_list": [
+                "You want to win, right?",
+                "You want to win, right?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch... Duh. You think there's a racer out there\nthat wants to lose?",
+            "choice_data_list": [
+                "In that case, why don't we change our strategy?",
+                "In that case, why don't we change our strategy?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What do you mean?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...In short, if someone passes me in the middle of\nthe race, I should just let them?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "You're telling me to just run away with my tail\nbetween my legs when there's a challenge right in\nfront of me?",
+            "choice_data_list": [
+                "No, that's not what I mean!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Okay, then what <i>do</i> you mean?",
+            "choice_data_list": [
+                "It's not running away or holding back—it's\nsaving your energy for later.",
+                "It's not running away or holding back—it's\nsaving your energy for later."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Saving energy?"
+        },
+        {
+            "name": "Monologue",
+            "text": "All of her problems stem from her fierce\ncompetitive spirit."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given that, if she can build that spirit up, convert\nit into energy, and release it one huge burst...",
+            "choice_data_list": [
+                "You can run in a way that's special to you.",
+                "You can run in a way that's special to you."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Special... to me?",
+            "choice_data_list": [
+                "The first across the finish line is the winner,\nafter all.",
+                "The first across the finish line is the winner,\nafter all."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...You have to be more detailed than that."
+        },
+        {
+            "name": "Monologue",
+            "text": "At the next scrimmage, seven new racers come to\nparticipate."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Since Brian's doing so poorly lately, I feel like I\ncan actually win!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Me too! I'm definitely not gonna lose!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "\"Store up and then explode,\" right?",
+            "choice_data_list": [
+                "That's right.",
+                "That's right."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What about the timing?",
+            "choice_data_list": [
+                "I'll leave that up to you.",
+                "I'll leave that up to you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like when racing one-on-one, her\ncompetitive instincts are excellent when she's in\nfull control of herself."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With nothing more than that to say, she makes\nher way to the gate. And then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thunk!</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "First place is mine!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Like I'll just hand it over! Hehe, see ya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As soon as the gate opens, the two racers fight\nvigorously for first place. As for Narita Brian..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, pardon me. Do you mind if I sit next to you\nand watch?",
+            "choice_data_list": [
+                "Go ahead."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What's this? She looks much more relaxed than\nbefore. Found a new solution, did we?"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "The competition is pretty fierce at the front.\nNarita Brian must be up there too."
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "Huh? She's not?! She's hanging back in the middle\nstill!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh? It's quite rare for her to stay out of the\naction intentionally."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(Gah... So frustrating... I just want to run to the\nfront!)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(This is actually killing me... My prey is <i>right\nthere,</i> mine for the taking, and I can't chase them\ndown!)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(That's it, I can't take it anymore—I need to hunt!)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Haha... I get it now."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...So this is saving energy? You're really asking a\nlot of me, Trainer!"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Oh, they're almost to the fourth turn. And the\nlead... hasn't changed?"
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "She wasn't making progress before, but I think\nthis settles it—Brian really is in a slump."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That can't be right... This doesn't align with my\ncalculations. Has she lost her passion? Or, don't\ntell me...",
+            "choice_data_list": [
+                "(That's right. This isn't the end.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian has been biding time, waiting for her\nperfect moment to attack!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And then, as they come out of the fourth turn..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(Time to go in for the kill—break through these\nrestraints and seize victory by the throat.)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...At last, the moment I've been waiting for."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huh? What was that just now?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "RAAAHHH!"
+        },
+        {
+            "name": "Umamusume A and B",
+            "text": "Gyah!"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Wh-what the?! Narita Brian is barreling to the\nfront!"
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "She's fast! How can she be so fast?! She couldn't\npass anyone before!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "How fierce! So this is how she races now!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No... the word \"race\" is hardly fitting. This is more\nlike... a hunt!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian shoots forth like a bird of prey\nhurtling toward its target."
+        },
+        {
+            "name": "Monologue",
+            "text": "With no concern for her entranced audience, she\nblasts across the finish line!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Huff... Huff... Puff...</i>",
+            "choice_data_list": [
+                "Now that's more like it!",
+                "Now that's more like it!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Pfff, hahaha!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What are you talking about? I've never felt like\nthis before."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "What were you thinking teaching me this? This\nfeeling could become an addiction!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian shows no signs of her usual fatigue at\nthe race. In fact, she is positively glowing."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do believe we've taken one further step into the\nfuture."
+        }
+    ]
+}

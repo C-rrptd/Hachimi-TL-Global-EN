@@ -1,0 +1,226 @@
+{
+    "title": "A Spell Passed Down Through the Academy?",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Umamusume A",
+            "text": "Is that really true? There's something that\nwondrous at the academy?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I only just heard about it too, but apparently!\nThey say it's a kind of happiness spell that's been\npassed down through generations of students at\nthe academy."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So let's get going! I wanna find out the truth\nabout this!",
+            "choice_data_list": [
+                "Sure, but where do we do that?",
+                "Sure, but where do we do that?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Good question! If it's a spell passed down\nperson-to-person, that means someone must\nknow it right now! So we gotta ask around!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "A legendary oral tradition, huh? ♪ Come to think\nof it, I've heard there's a sect of druids that pass\non their teachings orally instead of through\nwriting!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We've already got some good info! Druidic\nteachings... How mysterious!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Apparently, it's been passed down deep within a\nforest. That must be useful for keeping it secret."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We're off to the forest, then! Let's go, Familiar!",
+            "choice_data_list": [
+                "Right now?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There's nothing here!",
+            "choice_data_list": [
+                "Because we're in the wrong country... and\ncentury!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "A spell for happiness? Leave it to me! ☆"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "First, get some lip balm ready! Then push it out as\nfar as you can..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, all I have to do is write your name on the\nstick and recite the spell as the sun sets..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...\n..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nothing happened! \"A fateful moment of\nhappiness\" is supposed to \"occur\"! Doesn't that\nmean magic?!",
+            "choice_data_list": [
+                "Uh... Why don't we head back? It's almost\ndinner time."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No! I can't just give up if I know there's magic to\nbe found!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I gotta learn a ton of spells if I want to be a great\nwitch like Grandma!",
+            "choice_data_list": [
+                "But we don't have any leads..."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ngh... But I wanna know the happiness spell!"
+        },
+        {
+            "name": "???",
+            "text": "Exquisite! Your thirst for knowledge is truly\nadmirable!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "So you're the one who's been asking around\nabout the academy's happiness spell!",
+            "choice_data_list": [
+                "Director Akikawa?!"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Mm-hmm! It's a spell known by only a handful of\npeople at the academy! For you to seek it so\nfervently that word of your efforts has reached\nmy ears..."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Well, let's say I'm impressed! As a reward for all\nyour efforts, I shall entrust you with the secret of\nthe spell!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...Here we are."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "If we recite the spell the director taught us here,\nsome incredible magic should activate!"
+        },
+        {
+            "name": "???",
+            "text": "I got all the ingredients...\nHuh? What are you two doing here?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The treasure ship transports joy."
+        },
+        {
+            "name": "???",
+            "text": "...Well now. Are you prepared for the\nconsequences of the words you've recited?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uh, yeah!"
+        },
+        {
+            "name": "Cafeteria Lady",
+            "text": "Here you are! Our secret menu item, the Hearty\nTreasure Ship Parfait!",
+            "choice_data_list": [
+                "It's huge!"
+            ]
+        },
+        {
+            "name": "Cafeteria Lady",
+            "text": "It was removed from the menu for budgetary\nreasons, so now it's only passed down to those\nwho truly desire the biggest dessert at all costs..."
+        },
+        {
+            "name": "Cafeteria Lady",
+            "text": "It's like a forbidden spell! I'm surprised anyone\nstill knows about it. ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "S-so this is the result of the magic?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After all that frantic searching, it turns out the\nspell was just a password for a secret menu item!\nShe's going to throw a tantrum!",
+            "choice_data_list": [
+                "Well, these things happen!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Chomp!</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oooh! It's sooo good!",
+            "choice_data_list": [
+                "Wait, what?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This is great! A random dessert right out of\nnowhere!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This was so worth it. You don't find amazing spells\nlike this every day!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This is exactly why I can't stop searching for new\nspells! This magical parfait is the best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought she was going to say it isn't magical at\nall... but it seems like she has a much more broad\nand optimistic view of magic than I realized.",
+            "choice_data_list": [
+                "It really was a happiness spell!",
+                "It really was a happiness spell!",
+                "Maybe I should try it too.",
+                "Maybe I should try it too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought she was going to say it isn't magical at\nall... but it seems like she has a much more broad\nand optimistic view of magic than I realized.",
+            "choice_data_list": [
+                "It really was a happiness spell!",
+                "It really was a happiness spell!",
+                "Maybe I should try it too.",
+                "Maybe I should try it too."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, that's right. You get it, Familiar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All righty, now to dig in! I'm gonna eat every last\nbite!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but smile, seeing her get so excited\nover her giant dessert."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ha! Look at you, a mere familiar thinking you can\nuse forbidden spells!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But... maybe I can allow it once in a while. You\ndid help me find it, after all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, I often catch sight of Sweep Tosho in\nthe cafeteria, proudly casting her spell."
+        }
+    ]
+}

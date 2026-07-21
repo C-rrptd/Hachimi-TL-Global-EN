@@ -1,0 +1,235 @@
+{
+    "title": "第3話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "King Halo's performance left a strong impression on me, but..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Halo! You ran really well at the tryouts! I might be one of the newer\ntrainers, but we'd make a great team!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Rejected. A self-admitted inexperienced trainer like yourself wouldn't\nbenefit me. Go ask someone else."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "King Halo, I loved the way you ran! How about joining me? I can help\nyou be as successful as your mother!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Rejected. I don't bask in past glory, least of all hers. Is her history all\nyou're capable of seeing? You're unfit for me too."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh...</i> None of you are good enough. Please stop wasting my time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Scouting King Halo seems next to impossible."
+        },
+        {
+            "name": "Monologue",
+            "text": "With my head full of worries, I head off to the cafeteria to grab some\nfood."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Are you still thinking about that stuck-up princess? Sure, she might've\ninherited a bit of talent, but I wouldn't touch that personality with a\nten-foot pole."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Her pride outweighs her skill. Placing 2nd in the tryouts doesn't mean\nshe'll be able to stand her ground in the Classics.",
+            "choice_data_list": [
+                "No, I'm positive she's got what it takes for the\nbig races."
+            ]
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "...Well, if you say so. Don't say I didn't warn you though. Oh, speak of\nthe devil."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, King, I heard all about it. You turned down every single trainer?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph, sadly no one is befitting of a first-rate racer like me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ahaha, you're picky as always."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I've got good news for you! Drum roll, please... Congratulations!\nYou've been invited to participate in the upcoming scrimmage! ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's gonna be a great chance to draw lots of attention. Tons of trainers\nare gonna be there. What do you think?"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Wait a second. I'm pretty sure you got invited to it, not me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Now, now, don't think too much about it. Don't you wanna race\nagain?"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Yeah, you're right. Count me in."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm going to show off my skills to everyone and find the perfect\ntrainer for me!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All right! Looks like I'll be able to skip the race then. Thanks, King!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Skip?! Wait a second, Sky! Gosh, why do you always do this?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to find a trainer that meets her standards, King Halo resolves\nto participate in the scrimmage."
+        },
+        {
+            "name": "Monologue",
+            "text": "But why are her standards so high?"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant, pant...</i> Phew. Hah... hah... phew. Let's see my time... Hmm, not\nbad.",
+            "choice_data_list": [
+                "Hey, good work out there."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh... it's you again."
+        },
+        {
+            "name": "King Halo",
+            "text": "Sorry, if you're here to scout me again, my answer is still the same. I'm\nnot going to accept anyone less than first-rate—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bzzz... Bzzz...</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh, who is it now?! I swear, people always pick the worst time to\ncall!"
+        },
+        {
+            "name": "King Halo",
+            "text": "...It's Mother."
+        },
+        {
+            "name": "King Halo",
+            "text": "...",
+            "choice_data_list": [
+                "Aren't you gonna pick up?",
+                "Aren't you gonna pick up?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "It doesn't matter. I already know what she's going to say."
+        },
+        {
+            "name": "King Halo",
+            "text": "\"Have you found a trainer? No? See, I told you. Give up and come\nback home already.\""
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh... I wish she would stop thinking she knows better than me! Just\nbecause she won a few G1 races in the past doesn't give her the right\nto decide my future!"
+        },
+        {
+            "name": "King Halo",
+            "text": "When I told her I wanted to race, she completely blew up and refused\nto hear me out!"
+        },
+        {
+            "name": "King Halo",
+            "text": "She kept saying things like, \"The racing world isn't for the weak.\" and\n\"Don't follow in my footsteps.\"",
+            "choice_data_list": [
+                "Maybe she's just worried about her daughter?",
+                "Maybe she's just worried about her daughter?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Worried? ...Heh, as if."
+        },
+        {
+            "name": "King Halo",
+            "text": "She's never paid attention to me. Not while she was still a racer, nor\nwhen she left the track and started working. And now she wants to\nplay the role of a worried mother?"
+        },
+        {
+            "name": "King Halo",
+            "text": "She'd insist that I have no talent, that I should give up and find\nsomething else that'll make me happy."
+        },
+        {
+            "name": "King Halo",
+            "text": "My happiness? My talent? Who is she to judge?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "The only person who gets to decide what I do with my life is me!\nThat's why I'm never going to give up, no matter what!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm going to win and prove to her that I have the talent. I won't stop\nuntil she acknowledges that I'm also first-rate!",
+            "choice_data_list": [
+                "\"First-rate\"..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "That's right. No matter how many times I fall, or how many people\nlaugh at me, I'll make sure everyone knows my name."
+        },
+        {
+            "name": "King Halo",
+            "text": "It doesn't matter muddied I become. My head will always be held\nhigh. I will <i>never</i> back down."
+        },
+        {
+            "name": "King Halo",
+            "text": "I don't care what other people say or think of me. I am King Halo, the\nfirst-rate racer, and victory will be mine."
+        },
+        {
+            "name": "Monologue",
+            "text": "The determination in her voice is almost palpable."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though people may find her ambitions lofty and her self-proclaimed\n\"first-rate\" title laughable, it's a testament to her commitment."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's why I won't compromise when it comes to finding a trainer."
+        },
+        {
+            "name": "King Halo",
+            "text": "If the trainer doesn't have the same level of commitment as I do,\nthey'll never be able to truly support me."
+        },
+        {
+            "name": "King Halo",
+            "text": "...I think I've spoken enough. It's time for me to continue training."
+        },
+        {
+            "name": "King Halo",
+            "text": "If you don't mind, I'll be taking my leave."
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo turns on her heel and walks away. As I watch her shrink into\nthe distance, the word \"commitment\" rings in my ears."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, rain begins to pour down incessantly, lasting through the night."
+        }
+    ]
+}

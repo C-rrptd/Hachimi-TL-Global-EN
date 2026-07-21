@@ -1,0 +1,272 @@
+{
+    "title": "Dreams Are for the Taking",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today marks the start of summer camp. I show Sakura Chiyono O my\nnotes on our agenda and what I want her to focus on."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay, okay... I guess that's summer camp for you—we have a ton to\nget through!",
+            "choice_data_list": [
+                "It is a bigger workload. Think you can handle it?",
+                "It is a bigger workload. Think you can handle it?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Of course! I trust you and your Trainynotes!",
+            "choice_data_list": [
+                "\"Trainy...notes?\""
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! Problems I need to work on, techniques I can use to\nimprove—they're all written here in this notebook."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm guessing you read those books you bought and put a lot of\nthought into coming up with this regimen."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Which means, all your care and hard work as a trainer is packed in\nhere—it's your Trainynotes!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Just watch—I'll use our time at camp to improve as much as I can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes light up, burning bright with determination."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Gasp!</i> ...Almost to shore!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Can't stop yet! Ten more sets! \"The Chiyo that walks about finds the\nstarting gate\"!"
+        },
+        {
+            "name": "Student at Camp A",
+            "text": "Hey, don't you think Chiyo seems almost like a different person since\ncoming here?"
+        },
+        {
+            "name": "Student at Camp B",
+            "text": "Yeah, she's like super into it. We have to train harder too!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Pant, pant...</i> That should be everything for today!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I feel like everyone was staring at me on the way here... Was I doing\nsomething weird?",
+            "choice_data_list": [
+                "Nope, you were just being yourself."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh? Guess there's nothing to worry about then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our days of endless training continue, and before we know it, camp\ndraws to a close."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "R-really?!",
+            "choice_data_list": [
+                "Yep, your time's definitely improved since the\nstart of camp."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "0.1 seconds... <i>Our</i> 0.1 seconds!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's not much... almost nothing really, but still! I'm that much closer to\nMaruzen now, aren't I?",
+            "choice_data_list": [
+                "You sure are. Do you feel it?",
+                "You sure are. Do you feel it?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! Ehehe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our summer camp comes to an end. And now..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I didn't know there was a festival going on so close by. Thanks for\nbringing me here!",
+            "choice_data_list": [
+                "A little treat for all your hard work."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. Then I'll be sure to make the most of it! Cotton candy, yo-yo\nfishing, goldfish scooping, and... Oh!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "This plush doggie, doesn't it kinda remind you of Maruzen? Like how\nfluffy it is, and those kind eyes!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's so cute! Hey there, little guy, you wanna come home with me?",
+            "choice_data_list": [
+                "It reminds me of you, actually.",
+                "It reminds me of you, actually."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "M-me?! You mean..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wait, n-n-no! Never mind! Ahaha. Oh, Trainer, you're funny, you know\nthat?"
+        },
+        {
+            "name": "Stall Owner",
+            "text": "You two take a liking to that stuffed animal? Then why don't ya have\na go at our katanuki challenge?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Katanuki?"
+        },
+        {
+            "name": "Stall Owner",
+            "text": "Here's how it works: you take this sheet of candy here, and using a\nneedle and your fingers, cut out the shape in the middle!"
+        },
+        {
+            "name": "Stall Owner",
+            "text": "Make a clean cut, and I'll give ya the doggie as a prize! How about it?\nUp for a try?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, I do really like the doggie, but... this looks kind of hard.",
+            "choice_data_list": [
+                "I'll give it a try!",
+                "I'll give it a try!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm? ...Wait, what?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All fired up to win Chiyono O her prize, I give the katanuki challenge\na go, only to find it more difficult than I thought..."
+        },
+        {
+            "name": "Stall Owner",
+            "text": "Oof, close but no cigar. How about another go?",
+            "choice_data_list": [
+                "Okay! I'll get it this time!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wait, um, Trainer? Maybe you should start out away from the indents!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Looking at your previous tries, slowly chipping away at the perimeter\nseemed like the safest option, so...",
+            "choice_data_list": [
+                "Got it! I can always count on you, Chiyo!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "W-what? No, I was just jotting down notes as I watched... A-anyway,\nyou've got this!"
+        },
+        {
+            "name": "Stall Owner",
+            "text": "Ohh! We have a winner! And to the victor goes the stuffed animal!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're sure I can have it?",
+            "choice_data_list": [
+                "Yep, another reward for your work at camp.",
+                "Yep, another reward for your work at camp."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Thank you!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ehehe! I'll name you Sakura Dogg-O. Woof, woof!",
+            "choice_data_list": [
+                "He really does look like you.",
+                "He really does look like you."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're the only one who thinks that!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahem! Whether it looks like me or not aside, um... thank you once\nagain."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Not just for this little guy, but for all of summer camp, and everything\nbefore that too..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Remember what you told me once? That watching me gives you\nstrength, and seeing me work hard gives you courage."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I feel the same way. When I see you working hard, it makes me want\nto do my best too."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I've found more strength than I ever did alone. I've come so much\nfarther than I ever could alone."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So I know that as long as we keep working hard together, I can get\neven stronger!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll be your source of strength, and you'll be mine."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And then, even winning the Derby won't just be some faroff\ndream—we'll be strong enough to do it for real!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Or, um... th-that's what this little fella thinks, anyway...",
+            "choice_data_list": [
+                "Well, I agree with Dogg-O.",
+                "Well, I agree with Dogg-O."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I... I'm going to make my dreams come true! Even if I can't grow as\nquick as everyone else, no matter how long it takes, I swear I will!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"The late-blooming sakura is still a sakura,\" am I right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if in agreement, fireworks bloom bright in the night sky."
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "title": "総大将の貫禄",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "There's a fan meet and greet in the shopping\ndistrict today, which Special Week will be\nparticipating in. I'm there waiting for her when..."
+        },
+        {
+            "name": "???",
+            "text": "La la laaa! Badum deedum! ♪ La dee dah! ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Haaah ha ha! Have no fear, for Special Week is\nhere!",
+            "choice_data_list": [
+                "...Why are you dressed like that?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehehe! Just gettin' ready to rock-'n'-rule as the\nRuler of Japan!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I happened to overhear yesterday that an actor in\nOpera O's play couldn't make it, and that there\nwas an opening available!"
+        },
+        {
+            "name": "Special Week",
+            "text": "When I learned it was for the role of a feudal\nruler, I thought of this signature racewear and\nrealized that it was surely fate!"
+        },
+        {
+            "name": "Special Week",
+            "text": "And before I knew it, I had volunteered to fill in\nfor the role!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Anyway, the show's about to start, so you should\ncome watch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week is as confident as ever, but I'm\nreally worried. She was chosen for the role only\nyesterday. Does she even know her lines?",
+            "choice_data_list": [
+                "Are you sure you know the script?",
+                "Are you sure you know the script?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "It'll be fine! Opera O will handle the important\ndialogue, and all I have to do is improvise lines\nthat sound lordly!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oops, I'd better get ready! See you later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look on as she runs toward the stage that has\nbeen built in the shopping district. I guess the\nleast I can do is watch her performance."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, Father, isn't there anything we can do to\nmake you accept our engagement?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Um... Absolutely not! I refuse! And I'll never\nchange my mind on the matter!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But why?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?! Because, uh, as the ruler... I don't really\nwant to!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh, my lord! Is your refusal due to my lowly\nstatus? Am I not fit to number among your\nprestigious family?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "E-exactly! Our family's incredible! After all, I can,\nuh..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I can eat fifty shrimp tempura bowls, fifty bowls\nof ramen, fifty pieces of fried chicken, <i>and</i> finish\nit off with ten actual buckets of pudding!"
+        },
+        {
+            "name": "Special Week",
+            "text": "W-well?! Are you able to do the same? If not,\nthen I won't ever acknowledge you!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh, woe upon me! I'm incapable of doing such!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Since things have come to this...\nPrincess!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Won't you flee with me to a far-flung country?\nTake my hand, that we may throw ourselves upon\nthe tempestuous sea of fate!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hm?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, Father, isn't there anything we can do to\nmake you accept our engagement?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?! L-like I said, it's because Oper—I mean, this\nindividual isn't able to eat enough shrimp\ntempura bowls!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know what genre this play was supposed\nto be, but it's a full-on comedy now. The show\ntrips along the same way until the curtains fall."
+        },
+        {
+            "name": "Special Week",
+            "text": "Aaah! I was terrible out there! I'm so sorry, Opera\nO!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ha ha ha! What are you talking about? Just listen\nto that crowd!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?"
+        },
+        {
+            "name": "Fan A",
+            "text": "Spe! You were so funny!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I brought you something to snack on! You must\nbe hungry after that performance, right?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh my gosh! Is that yakisoba and takoyaki?! You\nbrought so much!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha! That just proves how delighted the\naudience was with your performance!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And what courage! You didn't hesitate to\nvolunteer as a replacement actor when you heard\nof our plight!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Though you were always on the cusp of being\novertaken by distress, you never broke character\nas a ruler and carried on nobly!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You have the makings of a star actor... You truly\nembody the role of a ruler!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Me? A good ruler?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Haaah ha ha! But of course! There's nothing to\nfear with me around!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems things didn't pan out the way she\nexpected, but Special Week was able to play a\nfantastic(?) ruler, so all's well that ends well."
+        }
+    ]
+}

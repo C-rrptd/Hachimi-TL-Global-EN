@@ -1,0 +1,269 @@
+{
+    "title": "夏宵に舞う",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Pant... Pant...</i> And there's the last lap. I believe we've finished\neverything we had planned for today.",
+            "choice_data_list": [
+                "Yep. Great work!",
+                "Yep. Great work!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's finally summer camp! Yaeno is in high spirits and powers through\nour training schedule for the day in no time."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Now then, I'll get straight to goofing off!",
+            "choice_data_list": [
+                "To... what?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Goofing off, as I was meant to accomplish at the amusement park. I\ngive you my word—I <i>will </i> forget about training during my downtime!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Especially... since there's something I want to check...",
+            "choice_data_list": [
+                "There is? Anything I can help with?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...No, I was just mumbling to myself! I'll let you know when I have a\nbetter grasp of it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Amateur though I am, I will attempt a gleeful romp down the shore.\nI'll give my full concentration to splashing in the waves!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I just finished a game with the tide! I tried to zigzag along the water's\nedge without touching it, learning much about route-planning\nfor—oh. I inadvertently trained again..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I went and played beach volleyball! I learned to read my opponents'\nbody language and how they channel power into pinpoint spikes,\nwhich is sure to be useful for... Ah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Yet again, I've failed to forget my training."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "This time... I went for a mindless run down the beach and back! Does\nthat... still count as training?",
+            "choice_data_list": [
+                "I think it does...",
+                "I think it does..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Tch, then I'll just keep trying! I'm going to the festival this evening! If\nyou can spare the time, I would appreciate the company, Trainer!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The waves of people are fierce as a storm-swept sea. Finding a way\nthrough this crowd will serve as good practice for breaking past the\npack... No!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Tch, even the festival cannot tear my mind from racing?",
+            "choice_data_list": [
+                "Oh boy... Hey, Yaeno! Check out the shooting\ngame!",
+                "Oh boy... Hey, Yaeno! Check out the shooting\ngame!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Good choice. Shooting targets shouldn't be relevant to racing...\nRight? This may be just the activity I need for a breakthrough."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I thank you for your guidance, Trainer.\nPardon, Sir! I would like to purchase a ticket for the shooting game!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop!</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hm."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop! Pop!</i>"
+        },
+        {
+            "name": "Festival Worker",
+            "text": "Too bad! You didn't hit anything this time, kiddo. Better luck next\ntime!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "To miss every shot... My lack of precision is humiliating.",
+            "choice_data_list": [
+                "Aw, c'mon, there's no shame in losing a silly\ngame. It's just for fun!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's allowed to make mistakes—that's how people grow. I'm trying to\nencourage her to take things easier, both in and out of training.",
+            "choice_data_list": [
+                "I know better than anyone how hard you work,\nYaeno."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hehe. Somehow, I knew you'd say that. First at the theme park, and\nagain now."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thank you. I think I've finally gathered my resolve. Trainer, would you\ngive me a little more of your time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I mean, of course. I nod my head without thinking."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Pardon, sir! I would like to purchase five more tickets for the game!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Aaand she's gonna be at this until she shoots something."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Urgh, what amateur shooting! To make this many attempts and still\nfail—it's almost laughable!",
+            "choice_data_list": [
+                "You can do it!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thanks, I'm not throwing in the towel yet! I'm starting to get a feel for\nit. I have to be slow with the aim, and line it up just right..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer, how is my form? Everything look okay?",
+            "choice_data_list": [
+                "Looks perfect!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I appreciate the support! Now I just have to hold the gun gently. Easy\nnow... Have fun..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And shoot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pop!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a soft thump, the cat plush Yaeno's been aiming at is knocked\noff its stand."
+        },
+        {
+            "name": "Festival Worker",
+            "text": "Bull's-eye! The prize is all yours! Nice shootin' there, kiddo!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oh... Thank you so much!",
+            "choice_data_list": [
+                "That was great, Yaeno!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I really did it! I let completely loose and had fun playing the game!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way back, as we near the lodge, Yaeno stops me, saying she\nwants to talk about something."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "At the festival, I felt like a little kid again. Playing with a toy gun,\ntrying to win a stuffed animal...",
+            "choice_data_list": [
+                "Did you have fun?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes, I did!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...And I finally understood why it took so long. Why I struggle to stop\ntraining in times of rest."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I was afraid of the blaze in my heart, ashamed of letting it show\noutside races."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Deep down, I thought unrestrained, childlike play... was a shameful\nmark of immaturity."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And so I practiced self-restraint and hid all my idle desires. I tried to\nthink only of training.",
+            "choice_data_list": [
+                "Yaeno..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But you taught me that it's okay to fool around and make mistakes.\nAnd that's why... That's why I was able to let go and have fun today."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Because you showed me that I don't have to fear the blaze. And\nthat... it's nothing to be ashamed of.",
+            "choice_data_list": [
+                "...Yeah! Work hard, play harder! Right?",
+                "...Yeah! Work hard, play harder! Right?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Right. I understand now. I can forget about training when I'm with\nyou."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "With that said, Trainer, I... I'd like to do some katas for you."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...For some reason, I feel that today's revelations will give me new\nstrength."
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod, and just as she begins, a firework bursts in the sky behind her.\nThe summer festival must be drawing to a close."
+        },
+        {
+            "name": "Monologue",
+            "text": "Framed by sparks of light, Yaeno strikes and dodges with a new\nenergy—performing the capricious dance of a flame."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "What a wonder. What a joy this day has been!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...It's perfect. After a time, Yaeno's blaze simmers down to a warm\ncrackle, and we close out the clear summer evening on a lighthearted\nnote."
+        }
+    ]
+}

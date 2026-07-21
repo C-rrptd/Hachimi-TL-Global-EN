@@ -1,0 +1,147 @@
+{
+    "title": "長旅にはご用心",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Off we go to Tokyo Racecourse! Got your lunches\npacked with a carrot or two for snack time?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Then time to head off to watch the Japanese\nDerby, where the air's electric and the view never\ndisappoints!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Right behind you, Bakushin O!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm surprised you just want me to observe,\nTrainer. I was sure you'd have me run in it..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Just wondering, but, um... why'd didn't you put\nme in it?",
+            "choice_data_list": [
+                "...I had a bad feeling about it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If Kitasan Black was willing, of course I would've\nconsidered having her run the Derby. It's just..."
+        },
+        {
+            "name": "Monologue",
+            "text": "2,400-meter long G1 races are unknown territory\nfor her, and the long straightaways at Tokyo\nRacecourse really test runners' mettle..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I couldn't imagine things going well. It was safer\nto skip the race than to risk having her suffer an\noverwhelming defeat and lose all confidence."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for the race itself... It goes exactly as I\nexpected."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Caster",
+            "text": "What speed! We haven't seen runners sprinting\nthis fast before! And now the front of the pack is\nbeing disrupted! Breaking through the bunch is—"
+        },
+        {
+            "name": "Caster",
+            "text": "Brusquement! Brusquement crosses the finish line!\nNo one was able to stop her! And she's set a\nDerby record, folks! We've witnessed history!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ooohhh?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A Derby record... Wow... If I had been out there..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I wouldn't have been able to do a thing... There's\nno way I could've kept up with that pace, no\nmatter how hard I tried to tough it out..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Whether it was just coincidence or fate, that\noverwhelming victory leaves Kitasan Black\nspeechless."
+        },
+        {
+            "name": "Monologue",
+            "text": "We return to my office and recap today's events."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer... 2,400-meter races... Medium and\nlong-distance races are scary... The second you\nrun out of stamina, it's game over."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Do you think I can handle G1 races that are\n2,400 meters or longer, just like the one today? I\nreally don't feel like I can..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No worries, Kitasan Black! There's nothing to fret\nabout!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O, who has been listening to us\ntalk the whole time, inserts herself into the\nconversation, full of confidence."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You've got the aptitude for both medium and\nlong races! There's no mistaking it, so don't you\nworry!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How can you be so sure I'll be okay, Bakushin O?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh heh heh! How could I not be? Just who do\nyou think your super special coach is, hm?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is I, Sakura Bakushin O! The Umamusume who\nhas been victorious in three 1,200-meter\nraces—aka 3,600 meters total! That's <i>super</i> long\ndistance!",
+            "choice_data_list": [
+                "So long distances... are just a couple of short\ndistances stacked together?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As far as I know, Sakura Bakushin O is a\nspecialized sprinter who has had many great\nshowings in G1 sprints."
+        },
+        {
+            "name": "Monologue",
+            "text": "That said, I've never heard anyone lump three\n1,200-meter sprints into one long-distance\n3,600-meter race... That's just not sound\nreasoning."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "If Bakushin O says I'll be okay, then I just might\nbe okay! Right, Trainer?",
+            "choice_data_list": [
+                "Uhh, I'm not really sure it's quite that simple..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I gently try to stop Kitasan Black from taking\nSakura Bakushin O's word at face value, and take\na moment to think."
+        },
+        {
+            "name": "Monologue",
+            "text": "Distance aptitude is a hard factor to pin down.\nThe only way to get a solid reading is to build up\nexperience in actual races."
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, I was sure she could handle long\ndistances... But I can't say for certain at this point."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, if I'm not really cut out for long races..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The autumn Kikuka Sho might be even tougher.\nThat's 3,000 meters long. I'd better keep my nose\nto the grindstone and train real hard!"
+        }
+    ]
+}

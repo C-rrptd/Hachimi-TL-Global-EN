@@ -1,0 +1,29 @@
+{
+    "title": "函館記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's time for the Hakodate Kinen, Trainer!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nothing else will do but a winner's star next to my\nname! It <i>is</i> Hakodate, after all!",
+            "choice_data_list": [
+                "I don't follow..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Do you see that moat over there? That's the\nstar-shaped Goryokaku Fort!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I want to earn a star that outshines even\nGoryokaku! What a sight that would be!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So let's get going and have ourselves a\nstar-spangled extravaganza!"
+        }
+    ]
+}

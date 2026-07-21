@@ -1,0 +1,83 @@
+{
+    "title": "レース敗北",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "Booooo! I lost! This totally suuucks!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Big yikes... What a joke... All I can do is laugh."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seriously... Cringe city.",
+            "choice_data_list": [
+                "You can still bounce back from this!",
+                "Losing isn't cringe."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What? What should I do, then? If you're just\nthrowing empty words at me, I'm gonna go off on\nyou."
+        },
+        {
+            "name": "Monologue",
+            "text": "I break down the reasons she lost today and the\nareas she needs to improve. If we can address\nthose properly, she should definitely be able to\nwin the next race.",
+            "choice_data_list": [
+                "So after this, we're g—"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Aghh! Stop! Stop already! It doesn't matter how\nmuch you ramble, it's not like I get what you're\ntalking about!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Basically, let's just meet up at the track after we\nget back. ☆",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm telling you I want you to teach me while I'm\nrunning. I totally get that you're giving this a lot\nof thought, okay?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So let's start as soon as we get back to the\nacademy. Don't be late!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears that Tosen Jordan has gotten her drive\nback. Afterward, we begin training seriously."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No, it's <i>way</i> cringe."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "The point of running is to win. That's why we're\nworking so hard."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I can't consider myself cool unless I get first place!",
+            "choice_data_list": [
+                "Then let's be cool and get first next time!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That goes without saying. There's no way I'm\ngoing out on an L note."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm gonna show everyone how much my running\nslaps! Let's gooooo!"
+        }
+    ]
+}

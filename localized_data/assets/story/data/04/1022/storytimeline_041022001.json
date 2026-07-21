@@ -1,0 +1,181 @@
+{
+    "title": "Every Day Is a New Day",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Television",
+            "text": "Also seen at the Embassy of Ireland's gala yesterday was a\ndistinguished young guest currently studying abroad at the Japan\nUmamusume Training Center Academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "That was the first time I heard of her—a news snippet blaring from a\nTV in an electronics store window."
+        },
+        {
+            "name": "???",
+            "text": "Hmm... What should I do? ...Oh! Pardon, may I have a moment of your\ntime?",
+            "choice_data_list": [
+                "Wait, you mean me?",
+                "Wait, you mean me?"
+            ]
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Indeed I do. Hehe, I'm terribly sorry to have startled you. I was\nhoping to consult a local about something."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "You see, I heard that this convenience shop had a dining counter. I\npurchased a cup of ramen and took it to a seat, but..."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "I'm afraid the server never came to prepare the noodles. Would you\nhappen to know if the dining service is closed today?",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm about as perplexed as she is, but I explain that convenience stores\nhave hot-water dispensers for customers to make the ramen\nthemselves."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Eh? I get to make it myself?! Me, making ramen?! Why, that... that..."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Oh, that sounds wonderful! If I may ask, where might I find this\nhot-water dispenser?"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "<i>Sigh.</i> That was such a lovely experience! To have shopping, cooking,\nand dining services all in one shop—it really is convenient!"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "I cannot thank you enough for your kind guidance. ♪ Now, if I may\nask..."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Could I trouble you to escort me to Ramen Rampage?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "...Oh, no, I'm sorry! Ehehe, it seems I got ahead of myself. A local\nstudent would look the route up online, wouldn't they?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I mean... yeah, probably. But her way of saying it leaves me slightly\nconcerned—it's like she's never stepped out into the real world\nbefore.",
+            "choice_data_list": [
+                "I can show you the way."
+            ]
+        },
+        {
+            "name": "Owner of Ramen Joint",
+            "text": "...Seiyaaa!"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Wow! Did he... He did! He just did the Rampage Colander Cross! I\ncan't believe I'm seeing it live!",
+            "choice_data_list": [
+                "The Rampage... Colander Cross?"
+            ]
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Yes! It's the technique he uses to drain the starchy water he boiled\nthe ramen in. It preserves the integrity of the noodles' texture and the\nflavor of the rich chicken stock!"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "When I read about it online, I just knew I had to see it for myself!\nAhhh... It was worth the forty-three-day wait!"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "The glistening beads of water, cast vigorously into flight but inches\nfrom my eyes... The chef's passion stokes the appetite more than I\never could have imagined!"
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "I truly cannot thank you enough for escorting me. You have my\ndeepest gratitude!",
+            "choice_data_list": [
+                "I'm glad to hear it, but I really didn't do\nanything special..."
+            ]
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Oh, but you did. I have no doubt I'll be cherishing this experience for\nthe rest of my life!",
+            "choice_data_list": [
+                "(...?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the pure excitement in her eyes... For some reason, I feel like\nthe moment will linger in my memory too."
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "Oh, it's almost sundown! That's a shame. I was thinking to squeeze in\none more stop.",
+            "choice_data_list": [
+                "There's still plenty of time before the dorm's\ncurfew.",
+                "There's still plenty of time before the dorm's\ncurfew."
+            ]
+        },
+        {
+            "name": "Regal Umamusume",
+            "text": "I know, but it's not the dormitory's curfew I'm—Oh."
+        },
+        {
+            "name": "???",
+            "text": "...Your Highness, please pardon the intrusion, but your excursion was\nonly permitted on the grounds that you would return by sunset. Please\nmake your way to the dormitory.",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Next thing I know, we're surrounded by impending figures in suits.\nWhere did they all come from?!",
+            "choice_data_list": [
+                "(And what do they mean, \"Your Highness\"?!)"
+            ]
+        },
+        {
+            "name": "Suit-clad Umamusume",
+            "text": "And you—it was not our intent to disturb your conversation.\nHowever..."
+        },
+        {
+            "name": "Suit-clad Umamusume",
+            "text": "Our charge, Fine Motion, descends from a royal bloodline. Though\nher noble house has since come to reside in Ireland...",
+            "choice_data_list": [
+                "W-wait, back up. She's a descendant of\n<i>royalty?!</i>"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Thank you for your concern, Captain. I'll return to the dormitory as\nsoon I finish thanking my gracious host.",
+            "choice_data_list": [
+                "You... you're really...",
+                "You... you're really..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. I hope my security didn't scare you. Thank you again for\neverything. I made some truly wonderful memories today!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Please take this as a token of my appreciation."
+        },
+        {
+            "name": "Monologue",
+            "text": "She places something in my palm with a firm handshake and then\nturns to leave, allowing the security guards to lead her away to the\nstation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Frozen from shock, it's not until they leave that I'm able to look at\nwhat she gave me. It's..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A Ramen Rampage coupon."
+        }
+    ]
+}

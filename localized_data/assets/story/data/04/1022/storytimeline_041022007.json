@@ -1,0 +1,252 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "The ocean!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No sooner do we arrive at summer camp than Fine Motion takes off to\nmarvel at the sea.",
+            "choice_data_list": [
+                "Fine, is this your first time at a beach?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No, far from it. Though it <i>is</i> the first time I've been to one with so\nmany friends. It's like a dream come true."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, the sensation of sand between my toes, and just... <i>everything.</i>\nIt feels like such a treasure to be here!",
+            "choice_data_list": [
+                "The perfect place to spread your wings, isn't it?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It really is! Oh—is that a hermit crab? I wonder if it's looking for a new\nshell."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hey, little guy. Can I help you look? I bet this beach is full of\nbeautiful shells!"
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "All right, are we all ready to run some laps? ...Hang on, where'd Fine\ngo?"
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "Oh, there she is! Looks like she's already started jogging! C'mon, let's\nhurry and catch up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion runs down the shoreline, beaming. Time flies, and camp\ngoes by in a happy blur."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before we know it, it's the evening of our last night. Fine and I decide\nto spend it at the local festival."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Mmm, that was lovely! What was \"candy floss\" in Japanese, again?\n\"Wata-ame,\" right? The way it melts in your mouth is so delightful!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hehe. All this training, and playing, and cooking, and treasure\nhunts. Ghost stories and now a big festival... This camp really had it\nall."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah! Fireworks!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "They're so... so beautiful..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...And then in a blink, they're memories—like all the other precious\nmoments we shared."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I think, maybe it's their fleeting nature that makes them linger so\nvividly in the mind when they're gone. Do you know what I mean?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Ah, no, I'm sorry. I hope I didn't spoil the festival mood with the\nsentimental talk."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What do you say we give the stalls another round? I spotted a sign for\njumbo takoyaki down that way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We wander for a while, chatting and snacking, and end summer camp\non a high note."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whew! That's the whole training set for today, I believe. It feels like\nit's been forever since I ran on the academy track.",
+            "choice_data_list": [
+                "Everything's settled back into the usual routine,\nhuh?",
+                "Everything's settled back into the usual routine,\nhuh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Agreed. Although, you never know when life will surprise you.",
+            "choice_data_list": [
+                "Is that a cue for another dragon attack?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, I'm afraid not this time. Though it would be fun to have little\nsurprises like the lost kitty. You know, just from time to time."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, I don't know what I expected. Not that I <i>want</i> there to be lost\npets, mind you. Ahaha."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Eh? Is this... instant ramen? Was this always here?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I almost forgot. When I cleaned up after our feline visitor, I moved my\nemergency snack stash. I can't believe I left ramen out where Fine\ncould see it..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ooh, Shura Ramen III? I don't think I've ever seen this kind!",
+            "choice_data_list": [
+                "It's all yours.",
+                "It's all yours."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Really?! Thank you, Trainer! Let me boil some water...",
+            "choice_data_list": [
+                "Now? Are you sure? I don't have anything else\nto put in it.",
+                "Now? Are you sure? I don't have anything else\nto put in it."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hm? What do you mean? I thought you only needed water.",
+            "choice_data_list": [
+                "But you could add other ingredients if you\nwanted. Aside from the fridge being empty, I\nmean."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You... can? You can add other things?! But that means... the\npossibilities are infinite!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my goodness! My mind is racing with ideas already! I have to try\nthem all!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer! Why don't we make a quick grocery run? Let's make our very\nown ramen together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And without a moment's delay, we're out the door, on our way to\nexplore the noodley miracles of the local market."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmm hm hmm hm hmmm ♪ We've got sprouts, lettuce, mushrooms,\nminced meat, and eggs."
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "Ah, hey Fine! Whatcha up to?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe. Well, my trainer and I are planning to test the best toppings\nfor instant ramen, so we're out buying ingredients."
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "Ramen toppings? I guess you could try some random meat and\ncabbage. That's what we'd usually toss in back home."
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "My dad would always put weird pub snacks in ours. Like he'd put\ndried salami in, and call it his house special..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ooh, you've made original ramen before? You <i>have</i> to tell me more!\nWe could all have a big ramen tasting party!"
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "If we play our cards right, Fine'll make it a high-society sensation or\nsomething. Can you imagine—royal instant ramen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Fine's friends along for the ride, we grab a couple more\ningredients and head back to my office."
+        },
+        {
+            "name": "Everyone",
+            "text": "Sláinte!"
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "Mmm... Y'know, this salami isn't half bad. It's kinda like those pork\nflavor packets, but actual meat."
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "The crab sticks I put in work pretty well too. They add like, I dunno...\nan extra layer of flavor, I guess?"
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "...An \"extra layer.\" I bet you sound like a food reporter in your head,\nhuh?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha! They really do taste completely different, though. I might try\nmaking it for my parents some time, when I'm back."
+        },
+        {
+            "name": "Fine's Friend B",
+            "text": "Now we're talking! If any of their friends in high places want my secret\nrecipe, I wouldn't mind sharing—as long as they pay me royalties."
+        },
+        {
+            "name": "Fine's Friend A",
+            "text": "Please. As if you invented grocery store ramen. Can it, or your\nmasterpiece is gonna go cold."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Exactly, and the noodles go limp if they sit too long. Ramen is best\nright in the moment!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It... it all is, isn't it?",
+            "choice_data_list": [
+                "\"All\" as in... what?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe... Nothing, I just realized something important, thanks to you\nthree."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Big special events are all well and good, but I don't have to make\neverything an occasion."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There's a lot to be said for simply enjoying the time I get to spend\nwith you here and now. Every day is a treasure.",
+            "choice_data_list": [
+                "...Yeah. I think you're on to something.",
+                "...Yeah. I think you're on to something."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Well then, before things go cold..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Let's savor what's in front of us. We can waffle on about the future\nwhen it gets here. Right?"
+        }
+    ]
+}

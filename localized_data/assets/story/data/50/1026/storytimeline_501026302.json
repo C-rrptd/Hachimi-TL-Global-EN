@@ -1,0 +1,339 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, as we stroll through the shopping\ndistrict..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I detect a dense crowd of people eighteen meters\nand fifty-four centimeters ahead of us. It appears\nto be..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A hot spring vacation and a deluxe carrot\nhamburger steak... I see.",
+            "choice_data_list": [
+                "Are you interested?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In truth, I am currently on a mission to seek an\nappropriate gift for you to show you my\n\"gratitude.\"",
+            "choice_data_list": [
+                "O-oh, thank you!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is only natural. However, the task is proving\nmuch harder than predicted..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The issue is that a gift's appeal is directly\ncorrelated to its price, and my finances are\nunfortunately limited as a student."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, I believe that a prize from this raffle\ncould supply me with a sufficient gift."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon stares at a poster that has all\nthe raffle's rules and regulations written on it."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reviewing raffle procedures. First, I must obtain a\nraffle ticket via a purchase... Hm..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, are you in current need of daily\nnecessities such as a toothbrush, socks, or\nperhaps a handkerchief?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not wanting to be selfish, I tell her to go out and\nbuy something for herself."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have successfully acquired a raffle ticket via\npurchase of protein powder. Proceeding to phase\ntwo."
+        },
+        {
+            "name": "Monologue",
+            "text": "She gives the tumbler's handle a powerful spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mission complete. Hot spring vacation coupon\nobtained."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Despite being fully cognizant of the possibility of\nwinning the grand prize, I am still experiencing\n\"amazement\" over this result."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I cannot fully believe that I won...",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Without further ado, here is your gift. I thank you\nnow and always, Trainer.",
+            "choice_data_list": [
+                "Are you sure?",
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...? Of course. This mission's objective was to gift\nyou with this vacation coupon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please use it to refresh your body and mind in the\nhot spring.",
+            "choice_data_list": [
+                "But you were the one who won it..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"Confusion\" detected in Trainer. Searching for\npossible solutions."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "One result found. The coupon is for two, so I will\naccompany you to the destination as your\nluggage bearer."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In addition, I will search for relaxation methods\nand plan the most effective hot spring vacation\nitinerary for you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Unfortunately, immediate implementation of this\nplan is impossible, but..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Is that acceptable?",
+            "choice_data_list": [
+                "I-I can't make you do all that!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd feel horrible making her do so much work, but\nI suppose it's better than if she didn't use the\nticket for herself at all.",
+            "choice_data_list": [
+                "Let's think about it once your race schedule has\ncalmed down."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm still not sure how we should use the coupon,\nbut I decide to hold on to it for now."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mission complete. First prize obtained."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It may not be as grand as a vacation coupon, but\nthis prize boasts exceptionally high nutritional\nvalue."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please take this. Thank you for all you have done\nfor me, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl.</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...",
+            "choice_data_list": [
+                "Why don't we share it?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is very kind of you, but...",
+            "choice_data_list": [
+                "It'll be tastier if we split it."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I cannot comprehend the logic behind that\nstatement, but if that is an order, then I accept."
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy the deluxe carrot hamburger steak\ntogether after we get back!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Results of raffle—second prize. This is not an\nunsatisfactory outcome, but..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I apologize, Trainer. I will use these carrots for\nmeal preparation—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon fixes her eyes on the large pile\nof carrots."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I've been struck by \"inspiration.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "With such a large amount of carrots, it will be\npossible to create new dishes."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In other words, I can complete my mission by\ncreating a gift from these!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Searching for recipes... Results returned for\nmultiple recipes, including dishes from braised\nburdock root and namul, to cookies and cakes."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please be in your office at 6:00 p.m., Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "At night in my office, she treats me to a feast\nfeaturing a huge variety of delicious carrot dishes!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A single carrot..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My sincerest apologies, Trainer. Please allow me\nto show you my appreciation at a later date.",
+            "choice_data_list": [
+                "You've shown me plenty already."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She stops mid-sentence and looks up as if\nsomething's caught her eye."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A bag of potatoes is one hundred and fifty yen...\nAnd one onion is forty yen!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, may I stop by your room at around 6:00\np.m. tonight?",
+            "choice_data_list": [
+                "Sure..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much. Please maintain a state of\nhunger until then."
+        },
+        {
+            "name": "Monologue",
+            "text": "At night, Mihono Bourbon visits me with a\ncontainer full of delicious curry."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Mission failed... I am terribly sorry, Trainer."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please allow me to express my thanks at a later\ndate.",
+            "choice_data_list": [
+                "It's all right! You've expressed yourself plenty\nalready."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Even so, I'm experiencing \"disappointment.\""
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't be so hard on yourself, young lady! There's\nalways next time!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Right..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I head home with Mihono Bourbon. Her shoulders\nare slumped in defeat the whole way back."
+        }
+    ]
+}

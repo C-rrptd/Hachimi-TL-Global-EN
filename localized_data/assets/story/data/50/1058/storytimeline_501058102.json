@@ -1,0 +1,202 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, Fukukitaru, Happy New Year! ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ohhh, I'm so happy..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Happy about what, Doto?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, last year I messed up our New Year's visit\nand ended up going to a shrine alone."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But I didn't make a single mistake this time!\nMaybe this is a sign of growth?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Why yes, of course it is! ☆ You're not the same\nDoto you used to be."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto has become a little more resilient\nsince that encounter with Admire Vega."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, just you wait. I'm going to give this year\nmy all!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'll definitely be able to support Opera O. I know I\ncan, because I've grown..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You've grown, huh?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, Shakur? Are you here to celebrate New\nYear's too?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Me? Course not. I'm just passing through, but\nmore importantly..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Listen up, Doto. Don't go believing in things you\ncan't put into numbers."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Growth, feelings, gods, wishes... Get caught up in\nthat nonsense, and you'll lose sight of reality."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I said it before your debut, and I'll say it again.\nYou need <i>skill,</i> not any of that good-luck junk."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't go tripping over yourself 'cause you've\nmisread the info. See ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "As Air Shakur leaves, I get the odd feeling she\nwas looking at me."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "T-T-Trainer... Shakur isn't the type to make up\nlies. She's right—I'm just not talented enough...",
+            "choice_data_list": [
+                "That's not true."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes, yes, I agree! If you ask me, numbers make as\nmuch sense as rapping underwater."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Have faith in the gods, and you'll be on the\ncorrect path! The gods save the earth! Nothing\ncan go astray if you have luck on the way! ☆"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "That would be nice, but..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, I'll need to do something this New Year's to\nwin the blessing of the gods."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, what do you think I should do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't want to push her so early in the year, so I\nthink a small blessing will do. What could work as\na cozy little adventure for her?",
+            "choice_data_list": [
+                "Chillax with the crew.",
+                "Go for a mountain retreat.",
+                "Learn the art of napping."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wow, chillaxing. ♪ Lounging about indoors with\neveryone sounds great."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So it's settled! Why don't we sing a New Year's\nsong to get in the chillaxing mood!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "La-la-la, la-di-da! ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yay! ♪"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "La-di-da-di-daa! ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um, this is a lot of fun, but all I've contributed is\na \"yay\" so far..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You're totally fine! It's New Year's—let me handle\nall the difficult parts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Relenting, Meisho Doto continues adding her own\nlittle contributions. She appears to be having a\nrelaxing time."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A retreat in the mountains... It sounds like a lot of\nwork."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I see... A follower of the gods is a practitioner of\n<i>shugendo,</i> and a practitioner of <i>shugendo</i> must\ntrain in the mountains."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now then! We should depart for those bitter, cold\npeaks where spirits roam free!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, the rice we cooked using the mess kit is\ngood to go. It's steaming hot!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "And here's a really fluffy blanket. We can get nice\nand cozy with this."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What is this?! The only peaks I see are the tops of\nthese tents! Are we just camping?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well, not that it's a problem. ♪ A trip to the\noutdoors is stimulating in itself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Pitching our tents, gathering kindling—we enjoy a\nlittle getaway from our everyday routines."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ooh! And did you know you can learn while you\nsleep? What an idea! A New Year's blessing."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Speaking of which, I think I've seen audiobooks\nthat send info directly to your brain via\nheadphones."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Maybe I'll put one of those on, and go take a\nnap."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, I don't know what to do! I can remember\nall these things, and it happened so suddenly."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I must have memorized everything from the\nsleep-learning audiobooks. It all just soaked into\nmy head."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto, honest to a fault, has absorbed all\nthe knowledge played back to her. I can see this\ninformation coming in handy later on."
+        }
+    ]
+}

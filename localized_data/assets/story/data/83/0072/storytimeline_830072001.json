@@ -1,0 +1,231 @@
+{
+    "title": "なんでもない日の……♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I spot Mayano Top Gun and Oguri Cap\nout on the track."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Huff... Pant...</i> Phew."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "That was a great run, Oguri! Here, have this! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "A yakisoba dog? Why are you giving me this?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, it's a little \"just-because\" present! From me to\nyou!",
+            "choice_data_list": [
+                "(A \"just-because\" present?)"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Make sure you take a break after you eat it. Do\nyou copy?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh... That was my stomach."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're amazing, Mayano. Thanks for this! I'll have\nit right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help feeling puzzled by their odd\nconversation. While I wonder about it, my gaze\nwanders toward Mayano Top Gun."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hm? Is there something you wanna ask?",
+            "choice_data_list": [
+                "What's a \"just-because\" present?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, you mean from earlier? Well, Oguri looked\nupset just now, right?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I figured something was up with her, but I didn't\nknow what exactly..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So I asked around, and that's how I got to the\nbottom of it!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Aw, that makes sense... I get anxious when my\ntimes don't improve too."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, we all have days where we really want to try\nharder. So I figured it might be nice to look after\nher and make sure she doesn't overdo it."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I wanted to make her feel better, so I did what my\ndad used to do for me!",
+            "choice_data_list": [
+                "That's why you got her a gift?",
+                "That's why you got her a gift?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yep! No matter how busy my dad was, he could\nalways tell when I was sad."
+        },
+        {
+            "name": "Mayano's Father",
+            "text": "Go ahead and open it. You're always working so\nhard, my dear little Maya."
+        },
+        {
+            "name": "Mayano's Father",
+            "text": "That's what I call a \"just-because\" present."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "He didn't get me anything special or whatever. It\nwas usually just snacks or stationery."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But knowing my dad was always thinking of me\nmade me forget all about my worries!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So that's what inspired me to get something to\ncheer Oguri up!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Besides, doesn't getting someone a present for no\nparticular reason kinda feel like a grown-up thing\nto do?",
+            "choice_data_list": [
+                "Your father is a wonderful man.",
+                "Your father is a wonderful man.",
+                "It really is mature to be considerate of others.",
+                "It really is mature to be considerate of others.",
+                "Maybe I should give something too.",
+                "Maybe I should give something too."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Besides, doesn't getting someone a present for no\nparticular reason kinda feel like a grown-up thing\nto do?",
+            "choice_data_list": [
+                "Your father is a wonderful man.",
+                "Your father is a wonderful man.",
+                "It really is mature to be considerate of others.",
+                "It really is mature to be considerate of others.",
+                "Maybe I should give something too.",
+                "Maybe I should give something too."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I know! Isn't he?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I talk to my dad a lot on LANE, and he even sends\nme little \"just-because\" presents on there too."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Here... Check these out!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "This one's a fancy cafe he saw after landing! And\nthis is a pretty view, and here's a cute kitty pic he\nsent me!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But you know, it's not the gifts that make me\nhappy, it's knowing he's thinking of me! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The grace with which she receives other people's\nkindness leaves quite an impression on me."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I wonder where we should go the next time I get\nto see him. ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Sometimes when he doesn't have any flights\nscheduled, we go out on father-daughter dates!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "We'll go out shopping or visit cafes... Oh, I know!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Do you think you could recommend somewhere\nawesome for me and my dad to go? ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "How about a place that's mature and exciting,\nbut also cute? And a little thrilling too!",
+            "choice_data_list": [
+                "Those criteria are all over the place!",
+                "Those criteria are all over the place!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I anguish over Mayano Top Gun's long list of\nconflicting demands."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hehe! Aren't I? I'm practically an adult lady\nalready! ♪"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Oh, there she is! ☆ Hey there, Maya! ★"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ooh, it's Marvey! Hi hi!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "We're about to head out to a cafe! ☆ The\nrainbow pudding with whipped cream there is\nbound to be marvelous! ★"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Wow! Is that a new dessert? You're not a real\nadult unless you keep up with the trends! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching Mayano Top Gun dash off, I glimpse a\npicture-perfect example of youth in full bloom."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly remember what I'm carrying in my\npocket and tell her that I have something for her."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh? But why? I haven't even done anything.",
+            "choice_data_list": [
+                "It's a \"just-because\" present!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahaha! Are you copying me? ♪ Yay! I wonder\nwhat it is?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ooh, a lollipop! I love these! Thank you so much!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe! I'm so happy! ♪"
+        }
+    ]
+}

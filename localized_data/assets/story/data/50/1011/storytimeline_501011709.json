@@ -1,0 +1,56 @@
+{
+    "title": "レース入着",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Grass Wonder",
+            "text": "I'm glad I was able to place reasonably high, but\nI'll admit I'm not quite satisfied..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I must accept my limits as of now and use this\nresult as motivation moving forward.",
+            "choice_data_list": [
+                "You did great.",
+                "You did great.",
+                "Push through to the top next time."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I must accept my limits as of now and use this\nresult as motivation moving forward.",
+            "choice_data_list": [
+                "You did great.",
+                "You did great.",
+                "Push through to the top next time."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for the compliment."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I set out to give it my all, and I believe I managed\nto do just that."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "To fail despite those efforts is an indication that I\nam lacking something."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But I will not dwell on this more than necessary.\nInstead, I must press forward with my eyes on the\nnext target."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah! ...Yes, of course."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My goal is the peak that lies at this path's end.\nThese results merely show that I have yet to arrive\nthere."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Steadily and calmly, we must build on what we\nhave achieved. Let us better ourselves race by\nrace, Trainer."
+        }
+    ]
+}

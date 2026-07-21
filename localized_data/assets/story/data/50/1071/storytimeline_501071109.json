@@ -1,0 +1,320 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the 24th of December, and today..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Happy holidays!"
+        },
+        {
+            "name": "Chiyono O and Yaeno",
+            "text": "Happy holidays!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan and I are hosting a party in my\noffice, and she's invited a bunch of her friends to\njoin us."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe! It was so much fun preparing for the party\nwith everyone! I felt a bit like I was back at home!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "While I am unaccustomed to celebrations such as\nthese... it has brought me great joy to break\nbread with all of you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I, too, am delighted that we've all been able to\nenjoy this party together."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Perhaps... that's because of all of the moments\nwe've spent together in the past."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ardan..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I see today as something of an end-of-year party\nas well, so I think it might be fun to talk about the\npaths each of us have traveled thus far."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's been such an eventful year! But you know, one\nmemory that'll <i>definitely</i> stay with me is that time\nat the Takarazuka Kinen, when..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sitting around a table full of food, Mejiro Ardan\nand her friends reminisce for hours."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, when the sun sets..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Are you certain? Leaving you and your trainer\nwith all the cleaning duties does not sit well with\nme..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I'm quite certain. I <i>am</i> the host, so please\nthink nothing of it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Well, I guess Yaeno and I'll be on our way! Thanks\nso much, Ardan!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Come on, Yaeno! You and I are going to have a\nlittle after-party! Tonight, you're with me!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Huh? Oh, um, very well."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Good luck, Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Thank you, Chiyono O."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for such an enjoyable day. If we have\nthe opportunity to throw a similar party next\nyear... I wish to do this again."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "For sure! Next year, and the year after that, too!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I will be there when the time comes, even if I have\nto make my way back from the ends of the earth."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...I'm grateful."
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing off Sakura Chiyono O and Yaeno\nMuteki...",
+            "choice_data_list": [
+                "Okay, ready to start cleaning up?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, but following that..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Shall we follow their example?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Let's have an after-party! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Once my office is spick and span, Mejiro Ardan\nchanges her outfit and the two of us go for an\nevening stroll through town.",
+            "choice_data_list": [
+                "This is the after-party?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. I wished to see the holiday splendor in town\nwith my own eyes."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "After all, I've spent so much time cooped up in\nthe manor that I've had very few opportunities to\nsee towns illuminated like this."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Hehe. I'll admit, I also wanted to experience\nwhat an after-party is like."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm over the moon that I've been able to do both\nwith you, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...The thought that this scenery can be only\nglimpsed at this time of year makes it so\nincredibly precious."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I feel as though... we're walking amongst a sea of\nstars."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan smiles as she speaks, and an idea\ncomes to me.",
+            "choice_data_list": [
+                "Why don't we go and see an even bigger sea of\nstars?",
+                "Why don't we go and see an even bigger sea of\nstars?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After making our way through the bustling night\nstreets, Mejiro Ardan and I eventually arrive at\nthe planetarium."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, I had no idea there was a planetarium here.",
+            "choice_data_list": [
+                "I'm glad there are still some seats left."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! It's been absolutely ages since I last visited\na planetarium. I'm quite excited."
+        },
+        {
+            "name": "Announcer",
+            "text": "Welcome to your guided tour of the cosmos. This\nevening, we'll be journeying through the stars\nthat illuminate this holy night."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Wow!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's all so beautiful..."
+        },
+        {
+            "name": "Monologue",
+            "text": "This doesn't even come close to paying Mejiro\nArdan back for everything she's done for me. In\nfact..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the stars twinkle in her eyes, and hearing\nthe excitement in her gasps, I feel like she's given\n<i>me</i> another gift."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! I got lost in the moment there."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for such a wonderful time, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Someday."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'd like to gaze upon real stars with you, just like\nthis.",
+            "choice_data_list": [
+                "Count on it."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes! I shall!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Mejiro Ardan and I making a promise for the\nfuture, tonight has become an evening I'll never\nforget."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, our after-party comes to an end, and I\nsee Mejiro Ardan back to her dorm."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for today, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "For the party, the after-party... and for inviting\nme to see a wondrous sea of stars."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thanks to you... it's been an evening I shall never\nforget.",
+            "choice_data_list": [
+                "I'm glad to hear that."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...The twinkling specks above us are all light from\ndistant stars, far far away—moments shining down\nfrom the past."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Some of those lights... may even be the last\nremnants of stars that no longer exist."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And yet..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In this moment, we're here, looking up at them."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And the words we weave now will go on, beyond\nthis moment and far into the future, as memories."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In your eyes, is the person I am today..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A star?",
+            "choice_data_list": [
+                "You're the most beautiful star I've seen tonight.",
+                "You're the most beautiful star I've seen tonight."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My mind reconjures the image of her in the\nplanetarium, starlight reflected in her eyes... I\ndoubt I'll ever forget the pure, radiant wonder I\nsaw in her today."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I feel the same..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "All day today, I've felt the breath of a star close\nby... I shall keep that breath safe within my heart."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "For as long as I draw breath myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Someday, I'll look back on the sparkling of the\nstars I saw tonight."
+        },
+        {
+            "name": "Monologue",
+            "text": "The night proves so unforgettable that I've got no\ndoubt in my mind about that."
+        }
+    ]
+}

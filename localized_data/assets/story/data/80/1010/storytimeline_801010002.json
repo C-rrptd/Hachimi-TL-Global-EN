@@ -1,0 +1,76 @@
+{
+    "title": "オゥ！　トゥナイト・パーティー☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out shopping in the shopping\ndistrict..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn it! I've gone and bought too much stuff! Now\nwhat?",
+            "choice_data_list": [
+                "Something up?",
+                "Something up?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn it! I've gone and bought too much stuff! Now\nwhat?",
+            "choice_data_list": [
+                "Something up?",
+                "Something up?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Why, howdy! Fancy seein' you here! Well, y'see,\nI'm havin' a party tonight!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I've been all excited since this mornin', and I\nbought a buncha stuff for it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But have a look-see! The way home's jam-packed\nwith people, and I'm in a real pinch!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't have the time to take the long way\nneither. Maybe I should just go the usual route...",
+            "choice_data_list": [
+                "Take the long way and run as fast as you can!",
+                "Take the long way and run as fast as you can!",
+                "Imagine yourself parting the crowd as you run!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't have the time to take the long way\nneither. Maybe I should just go the usual route...",
+            "choice_data_list": [
+                "Take the long way and run as fast as you can!",
+                "Take the long way and run as fast as you can!",
+                "Imagine yourself parting the crowd as you run!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now that's a mighty fine idea! So long's I kick 'er\ninto high gear, I should make it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw! Time to dash on home!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, partner. Let's gooo!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well I'll be! Color me enlightened!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw! I'll give it a real good shot!"
+        }
+    ]
+}

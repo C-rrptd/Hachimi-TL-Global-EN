@@ -1,0 +1,230 @@
+{
+    "title": "最後の試練",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Zenno Rob Roy",
+            "text": "So you see, this is <i>Rhodonite and the Dreamstone.</i> I'm sorry for lying\nto you all."
+        },
+        {
+            "name": "El & Dober",
+            "text": "...Huh?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You mean... th-the spring and the river and the forest we saw are all\nin this book?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...Huh? Y-yes, it's all in here. There's also a fight with the kelpie and a\nscene where they bargain with a cù sìth..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "H-hold on a minute. We need to get the second hint before the day\nends. Can you tell us more later? I'm... also curious about it."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...G-gladly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After finding the second hint without any problems, they gather in\ntheir tree house to read the novel together."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ohhh, so there were fairies called the peallaidh in the Lonely River.\nWhoa, they lure people close and then pull them into the river?!\nThat's scary..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, is this where we're going tomorrow? Oberon's Palace? A glowing\nblue cave... Ah, I can't wait!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so the night grows late... The next day, the five adventurers\narrive at the final obstacle, Oberon's Palace."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The open sea, the white clouds, aaand... the stone door leading to\nthe cave! At a glance, it looks like just your average stone slab, but\nthat won't fool me!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Yes, this must be the right place."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "In the book, they opened the door by placing the two stones they\nfound at the Lonely River and Ghillie Dhu's Garden on a pillar, right?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah! I don't see anything that looks like a pillar around here,\nthough... Instead, there are some dents in the surface of the door\nslab."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "There's a hole in the bottom-right, the middle, and the left. There's\nalready a stone in the bottom-right one."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "How about we try putting our stones in the two open spots? What do\nyou think, Rob Ro―hm? What's up? You look pleased as punch!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "What?! Um, no! N-n-nothing at all! I think that's a good idea, Taiki.\nThe shape and size look like a perfect fit."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay! If I may do the honors... This one goes here, and this one, right\nhere. Done! Open sesame!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The door glows, and with a slow rumbling noise, it starts to open... Or\nat least, that's what they thought would happen."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm. Maybe they were meant to go the other way round. Or was it the\norder I placed them in?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Possibly. Let's try every variation we can think of."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Nooo! We've tried everything! We even splashed it with water and\ndug around in the sand for clues, but still nothing!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm at a complete loss... Is there something we're missing?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The people fishing over there are probably locals, don't ya think?\nThey might know something! Hey, hey! Excuse me, guys!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! No way. There she goes!"
+        },
+        {
+            "name": "Local Fisherman A",
+            "text": "I see. A treasure hunt, huh? Now you mention it, I feel like I saw\nsomething engraved at the bottom of that big rock over there."
+        },
+        {
+            "name": "Local Fisherman B",
+            "text": "Oh, you mean those strange swirly letters we can't understand? I think\nit's just graffiti or something, though."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So, that's what I heard. Oh, this must be it! It <i>is</i> all swirly! What do you\nthink, Rob Roy?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "This is the language used in <i>Rhodonite.</i> Let's see... It says..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? You can read it?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "W-well, I spent some time deciphering it once so I could understand\nthe writing in the illustrations..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um... \"Ye who decipher this, miss not the fleeting chance when it\nshines.\" That's what it says."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Amazing! You're a genius!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe... Well, it appears the door only opens for a short time. But..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "(It's already quite dark. We need to go through the forest to get\nback. I can't put us all in danger again like last time.)"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...Unfortunately, I think we've already missed our chance."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Rob Roy has been deep in thought this whole time. Although she\nsaid we should go home, I have a feeling she doesn't really want to\ngive up.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Okay. Right now, I have my mask on, so...)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "R-Rob Roy, are you sure about this? Our bus leaves first thing in the\nmorning tomorrow. If we give up now, that's it..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, no, it's fine! I'm happy we even made it this far. And I wouldn't\ndream of putting you all in danger again."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They do say it's dangerous to go out in the forest at night, but this is\na campsite. The paths are clear and well-lit."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So, do you want to stay here a little longer and try and figure it out?\nIf we come up with nothing, we go home. If we get an inkling, we go\nback to the beach. What do you think?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm all for it! I don't want to give up now after coming this far!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh... Then... in that case, let's try a little longer. Thank you all."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Three stones, in the shape of a triangle... \"Ye who decipher this, miss\nnot the fleeting chance when it shines.\""
+        },
+        {
+            "name": "All",
+            "text": "Hmmm..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, not like this is an answer or anything, but... I feel like I've seen\nthis triangle somewhere before."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You have?! Where?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's the thing, I don't remember. I feel like I saw it when I was lying\ndown... Wait."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh. Oh? Oh! OH! That's it! The Summer Triangle!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh yeah! Those stones were in the exact same shape as the Summer\nTriangle! So what does it mean?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh? Rob Roy?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "(\"When it <i>shines.</i>\" It was referring to nighttime, when the Summer\nTriangle is visible!)"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "(\"Miss not the fleeting chance.\" Which means the door only opens for\na short time. This is our last chance! I have to hurry!)"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "<i>Pant, pant, pant!</i> The stones on the door are glowing like stars!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's opening! Thank goodness, we made it! We did it!"
+        }
+    ]
+}

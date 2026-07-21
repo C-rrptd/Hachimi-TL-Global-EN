@@ -1,0 +1,198 @@
+{
+    "title": "あなたにだけは絶対に",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Students",
+            "text": "You've got this, Kita!\nKeep that lead!"
+        },
+        {
+            "name": "Students",
+            "text": "Sato, you're almost there! One final push!\nYou can do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The crowd's really pumped up! It looks like\nSatono Diamond and Kitasan Black are facing off\nin a pick-up race."
+        },
+        {
+            "name": "Kitasan Black and Satono Diamond",
+            "text": "<i>Huff, huff, huff...</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "All right! Looks like victory was mine this time,\nDia!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ugh... I lost two out of our three races. You've\nbeen getting faster and faster lately, Kita."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, you think so?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But during that first race, you completely\noutpaced me to take the win."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah, I need to improve my focus! I'm gonna go\nto the library and look up some mental training\nmethods!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thanks for racing with me today, Dia! I'll catch\nyou later!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sure... I'll see you later, Kita."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Right. I need to get going myself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that night, noticing that the lights are still\non at the gym, I drop by to see what's happening."
+        },
+        {
+            "name": "???",
+            "text": "<i>Huff... Huff...</i>",
+            "choice_data_list": [
+                "Satono Diamond?",
+                "Satono Diamond?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm? Oh..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "My apologies. Is it time for lights out already?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's still a little time left. But it's already very\nlate, and she's the only one here...",
+            "choice_data_list": [
+                "You have time. But aren't you pushing yourself\ntoo hard?",
+                "You have time. But aren't you pushing yourself\ntoo hard?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Goodness, you're such a kind soul. I'm fine, really!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But I'm in no position to best my rival... Not at\nthis level.",
+            "choice_data_list": [
+                "Do you mean Kitasan Black?",
+                "Do you mean Kitasan Black?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Kita was the first Umamusume to make me feel\nlike I was actually outmatched."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I always thought that I only needed to focus on\nwhat was in front of me."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That if I simply kept looking ahead, I could fulfill\nmy birthright and meet everyone's expectations."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But then..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ahead of me, Kita stepped into view."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "My field of vision had always been empty, and\nyet there she was."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's why I want to surpass her."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She's straightforward, kind, and powerful. I want\nto do what it takes to overtake her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The sheer strength of Satono Diamond's resolve is\nclear. I consider my options...",
+            "choice_data_list": [
+                "Stay with her until lights out.",
+                "Make a quiet exit."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I encourage her to focus on training hard and\npromise to tell her when it's lights out."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Really? Thank you so very much!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Okay, I need to keep pushing myself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And then, after Satono Diamond returns to her\ntraining..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh? Someone's already using the leg press\nmachine..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Hngh... Phew!</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...It appears as though I should call it a day."
+        },
+        {
+            "name": "Monologue",
+            "text": "Without losing any focus whatsoever, Satono\nDiamond continues training for a while."
+        },
+        {
+            "name": "Monologue",
+            "text": "After warning her not to stay out too late, I let\nher know that I'm leaving."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, I'll make sure to be mindful of the time.\nThank you very much for your kind consideration!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I'm about to leave, I hear a voice coming from\nthe racetrack. And when I take a look..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Huff, huff, huff...</i> Phew!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Find a target to focus on... Yeah, I think I'm\nstarting to get it!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay, one more lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't wait to see what the future holds for these\ntwo Umamusume racing toward their dreams."
+        }
+    ]
+}

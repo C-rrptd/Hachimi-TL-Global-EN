@@ -1,0 +1,37 @@
+{
+    "title": "負けず嫌い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's about time for training, and I'm looking for\nGrass Wonder."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh dear, I just can't get one in. It must be how I'm\nsnapping my wrist."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh... I'm sorry, Trainer. Is it time for our training\nsession?",
+            "choice_data_list": [
+                "What were you up to?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Practicing free throws. I'll be taking part in a\nbasketball game with my classmates soon."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And no matter the contest, losing is not an option\nfor me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So I'm sorry, but I do have five minutes until\ntraining, correct?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's not wrong, so I wait as she spends those last\nfive minutes practicing furiously. By the end of\nour actual training, she's completely wiped."
+        }
+    ]
+}

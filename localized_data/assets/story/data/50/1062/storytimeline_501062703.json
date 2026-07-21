@@ -1,0 +1,202 @@
+{
+    "title": "Hospitali-Don't",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser and I are about to return to\nthe academy after a day out, when..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "W-w-wait! We can't go home yet! Today still isn't\nover!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You always do so much for me, so I've been\nthinking I should show my gratitude with some\ngood old-fashioned hospitality.",
+            "choice_data_list": [
+                "...Hospitality?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "That's right! And to make sure I pull it off, I've\ncalled in an advisor."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So without further ado! Drumroll please..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hello. I'm Ikuno Dictus. I shall endeavor to meet\nyour expectations."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thank you, Professor Ikuno! Let's give Trainer the\ngreatest hospitality there is!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Understood. I've already devised a plan, so\nplease leave everything to me."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And here we are! Is this where we're doing it?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes. But before we begin, let me first explain\nsomething about hospitality."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hospitality. How does one define it? The\nconclusion that I've reached is that it describes\nconduct which builds rapport with other party."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I see! So what do we do?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "First, we must ascertain your trainer's preferences.\nTrainer, would you mind doing some shopping?\nBuy whatever you like.",
+            "choice_data_list": [
+                "No problem!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All right! Now, let's investigate!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look around the store while my two companions\ntake in my every move."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, what do you think about that plushie? It's got\nsuch big, round eyes! And so many legs! It's\nperfect for you, Trainer.",
+            "choice_data_list": [
+                "I need some time to think."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "That's quite all right. One mustn't rush these\nthings, Tannhauser."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, a hospitality lesson from Professor Ikuno!\nWait a second, I want to take some notes!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ahem... As I mentioned before, hospitality is the\nact of building rapport."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "That is not limited to engaging with the other\nparty's hobbies and preferences. Keeping a\ncomfortable distance and pace are also a\nfundamental part of it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So... you're saying I shouldn't force things?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Precisely. Please don't forget to remain mindful\nmoving forward."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohhh! That's why you're the best, Professor Ikuno!\nI just know we're going to provide top-notch\nhospitality!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But there sure are a lot of important points to\ncover. Just taking notes on it all is a little—make\nthat <i>very</i>—tiring.",
+            "choice_data_list": [
+                "Do you want some help?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, are you sure? If so, I'd really appreciate it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser and I frantically take notes\nas Ikuno Dictus continues her lecture."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...Which about sums things up. And with that, we\nhave covered everything through\nintermediate-level hospitality."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "There's so much more depth to hospitality than I\nrealized! I've pretty much filled my whole\nnotebook!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks for helping me take notes, Trainer. Now,\nI'll be able to show you some great hospi—"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aaaggghhh!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I-I was supposed to show <i>you</i> hospitality, but you\nended up helping me out again!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...Gah! I'm sorry! I was so absorbed in teaching\nthat I didn't notice!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "This is like the opposite of hospitality! It's more\nlike... hospitali-don't!",
+            "choice_data_list": [
+                "You can always try again later!",
+                "There's no need to push yourself for my sake."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You're right! I just need to make sure I remember\neverything I learned today!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Then, allow me to quiz you. What is the one thing\nyou should never forget when providing\nhospitality?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Um... It's on the tip of my tongue... Building\ndecor!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Not quite! The correct answer is building <i>rapport.</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohhh, there really is so much to learn! I need to\nstudy more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser is motivated for her next\nchance to provide hospitality."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You don't have to worry about me! I'm not\npushing myself at all!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hmm... I think your trainer is trying to say that\nyou should act natural and be yourself."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohhh, I get it! Act natural! Natural...\nNAAATURAAALLL..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "THANK YOU FOR EVERYTHING... TRAINER..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "WHAT DO YOU MEAN MY VOICE IS TOO\nLOUD?! ISN'T THIS HOW I ALWAYS TALK?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser is considerably unnatural for\nthe rest of the day."
+        }
+    ]
+}

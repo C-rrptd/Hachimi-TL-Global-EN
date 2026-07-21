@@ -1,0 +1,239 @@
+{
+    "title": "My True Strength",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kitasan Black",
+            "text": "W-wait a second! Why're you trying to scout someone who just lost\nbig-time?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try scouting Kitasan Black right after her loss in the scrimmage.\nRather than excitement, she responds with bewilderment."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Y'know, I did lose and all, so what about me got you interested?",
+            "choice_data_list": [
+                "...I liked the look in your eyes."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh?! You picked me for my looks? Um, I'm happy you were watching\nme that closely, but I was sort of hoping you liked my running..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Anyways, I don't even have the right to be scouted yet. I'm just a\nnewbie..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah, but you're a trainer, so that means you're a specialist, right?\nCould I ask you some stuff about my running? Please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a shame about my scouting offer, but I agree to hear her out some\nother time."
+        },
+        {
+            "name": "Monologue",
+            "text": "The appointed time comes and goes, but Kitasan Black is nowhere in\nsight. She didn't seem like the type to break a promise..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? Mr. Sumo Wrestler, did you twist your ankle? I guess lending\nyou my shoulder won't help much, will it..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I've got it! Here, I'll carry you. Don't be shy—I've got good shoulders!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? Your puppy ran away?! Wait, is it that German shepherd over\nthere? All righty, here I go..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huuuh?! Your truck won't move?! And inside... you've got relief\nsupplies?! Then we have to hurry!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How about this—I'll carry the supplies! Don't worry, it's only twenty\nkilometers round trip! Piece of cake!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm so sorry... It's already this late, too... Whenever I see someone in\nneed, I just can't stop myself from helping them out.",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, I gave a sumo wrestler a piggyback ride, caught a puppy, and\ncarried some relief supplies. None of them took too long, but all\ntogether... I'm so, <i>so</i> sorry.",
+            "choice_data_list": [
+                "D-don't sweat it..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seems like Kitasan Black isn't just well-mannered, but an altruist, to\nboot. I decide to let her tardiness slide and hear her out."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "So how can I run better during races? The races here at Tracen are\ndifferent from what I'm used to, and I feel like I'm completely out of\nmy element."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I know I have to change <i>something,</i> but I don't know where to start, or\nwhat I should even work on...",
+            "choice_data_list": [
+                "Well, for starters, what do you think your\nstrengths are?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "My strengths! Right... Hmm, I've always acted based on my instincts,\nso I've never thought about that!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hm, which means... I need to learn more about myself. And to do that,\nI need—",
+            "choice_data_list": [
+                "Strong rivals to compete with."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Strong rivals! Got it! In short... I have to race against lots of tough\nopponents!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I organize a scrimmage for Kitasan Black, inviting only the cream of\nthe crop."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita! Today, I'm racing you.. and another, right? You know—the\nlegend herself!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah... If I want to figure out what my strengths are, then I've got to\nrace against the best of the best."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Apologies for the wait, Kita. I was informed that you wish to learn\nwhat your own merits are."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A fine motive—I will lend you my assistance. We have a 3,000-meter\nrun ahead of us, so please show me all the abilities in your arsenal."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Kitasan Black's scrimmage with Tracen Academy's top\nstayer—Mejiro McQueen—kicks off."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(W-wow... She hasn't slowed down this whole time... That's McQueen\nfor you!)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Huh?! She's getting farther away? And I can't... catch up?! Nnngh!)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Now! Kita—you're on!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Dia?! Was she just biding her time in the back?! No way!)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I don't want to lose, not again! Haaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Kitasan Black finishes in third place."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ugh... I'm pathetic. I lost to McQueen in stamina, and Dia in terms of\nstrategy..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Meanwhile, I haven't figured out anything! If this keeps up, how will I\never inspire others through my racing?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Running like this won't encourage anyone. I'll never be like my dad at\nthis rate...",
+            "choice_data_list": [
+                "Your dad?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah. My dad is an enka singer. He's got fans and pupils that really\nrespect him..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dad's popular for a reason. He knows when others are going through\nrough times, and he's never afraid to extend a helping hand."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Singing and racing are different, but I still want to be like him. I want\nto be someone who can inspire others and brighten up their day..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But if I can't even figure out my own strengths, then there's no way\nthat'll ever happen. All I'm good for... is helping others with small\nchores.",
+            "choice_data_list": [
+                "I think that's quite respectable already."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But anyone can do stuff like that, right? Basically, I'm just a bit of a\nbusybody."
+        },
+        {
+            "name": "Monologue",
+            "text": "My heart aches seeing Kitasan Black get so down on herself. Sure, her\nshortcomings might've been exposed in today's race, but..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "How about this—I'll carry the supplies! Don't worry, it's only twenty\nkilometers roundtrip! Piece of cake."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was late to our meeting because she helped a few people out\nalong the way. To her, it wasn't anything special..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But those small chores might conceal the hint she's looking for.\nFollowing this train of thought, I decide to tackle the problem with a\nnew approach."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hm, this is quite troubling... Either I wait for warmer weather, or..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "McQueen, what's on your mind? Ah, I know—didn't you race Kita the\nother day? Is it about that?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That case has already been settled. Currently, I'm worried about our\nmountaintop villa."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It appears that the generator there is malfunctioning. Were it not for\nthe snow, I could have carried over a new one as part of my training...",
+            "choice_data_list": [
+                "Hey... can I ask for a favor?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hm? You're... that trainer from last time. What's up?",
+            "choice_data_list": [
+                "About your problem—could you let Kitasan\nhandle it?",
+                "About your problem—could you let Kitasan\nhandle it?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sorry?! You want Kitasan Black to do it? But what for?"
+        }
+    ]
+}

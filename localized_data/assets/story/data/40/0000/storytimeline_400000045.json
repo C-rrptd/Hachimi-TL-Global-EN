@@ -1,0 +1,25 @@
+{
+    "title": "急いで初勝利を！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Trainer! We're running out of time!",
+            "choice_data_list": [
+                "What do you mean?!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well, the fact that the Umamusume you've taken\nunder your wing hasn't won a single race is\nbecoming an issue..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If she doesn't get her first win by September, her\ncontract may be canceled!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And September isn't far away! Please, you must\nfind some way to lead her to victory!"
+        }
+    ]
+}

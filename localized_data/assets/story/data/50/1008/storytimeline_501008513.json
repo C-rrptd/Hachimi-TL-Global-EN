@@ -1,0 +1,211 @@
+{
+    "title": "憧れヴィンテージ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking with Vodka in front of the station on\nour day off, when..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Whoa! Th-that's awesome!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer! Check out those guys over there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka's looking at a group of rugged-looking\nmen in leather jackets chatting with each other."
+        },
+        {
+            "name": "Vodka",
+            "text": "Those jackets they're wearing are vintage—I'm\ntalkin' fifty years back!"
+        },
+        {
+            "name": "Vodka",
+            "text": "There's no mistakin' those star-shaped studs\neither! Pops has always dreamed of wearin' that\nbrand!"
+        },
+        {
+            "name": "Vodka",
+            "text": "That's crazy! They're sooo cool!",
+            "choice_data_list": [
+                "You really like leather jackets, huh?",
+                "You really like leather jackets, huh?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, 'cause they're so cool!"
+        },
+        {
+            "name": "Vodka",
+            "text": "My dad likes them too, so sometimes I borrow\nhis..."
+        },
+        {
+            "name": "Vodka",
+            "text": "The feeling of genuine leather really is on a whole\n'nother level! The more you wear it, the more\ncomfortable it gets. Didja know that?"
+        },
+        {
+            "name": "Vodka",
+            "text": "...I've only got a cheap one made of fake leather,\nthough."
+        },
+        {
+            "name": "Vodka",
+            "text": "I still like it, of course, but the real thing just\nshines like a beaut!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'd love to have one...",
+            "choice_data_list": [
+                "You could go take one of theirs by force...",
+                "Keep on wearing the one you have and it'll get\nthere."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Whaaat?! Are you crazy?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Like I'd do something as lame as that!",
+            "choice_data_list": [
+                "Sorry! It was just a bad joke."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Jokes aside, I tell her that she could always ask\nthem to show her their jackets."
+        },
+        {
+            "name": "Vodka",
+            "text": "You think so? But wouldn't it be rude if I just\ncame up out of nowhere?",
+            "choice_data_list": [
+                "I'm sure it'll be fine if you're polite about it.",
+                "I'm sure it'll be fine if you're polite about it."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, but... What would I even say?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka suddenly starts fidgeting. I guess she gets\nshy around people she doesn't know. In that\nmoment..."
+        },
+        {
+            "name": "Man in Leather Jacket A",
+            "text": "Hey, you two! You keep lookin' over here... You\ngot a problem?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Agh! I-I mean... Uhhh...",
+            "choice_data_list": [
+                "You got this, Vodka!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "..."
+        },
+        {
+            "name": "Vodka",
+            "text": "U-umm... Your jackets... They're first-edition\nBoTTs, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka summons her courage and talks to them.\nSoon after..."
+        },
+        {
+            "name": "Vodka",
+            "text": "That's amazing! They're in such good condition!\nAnd check out that shine!"
+        },
+        {
+            "name": "Man in Leather Jacket A",
+            "text": "Right? You sure know your stuff!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka's getting along great with the guys in\nleather jackets."
+        },
+        {
+            "name": "Man in Leather Jacket B",
+            "text": "Hey, you wanna try mine on? It's wicked comfy!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Can I really?! Hell yeah I wanna try it on!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Whoaaa! It's wicked heavy!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Um, do you mind if I take a picture? I wanna brag\nto my pops!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka seems quite satisfied after a long,\nanimated discussion about biker fashion."
+        },
+        {
+            "name": "Monologue",
+            "text": "I assure Vodka that her jacket will be just as cool\nas theirs someday."
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah... you're right. It will!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All I've gotta do is wear it a bunch and it'll look\njust as vintage as theirs!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Heheh, it's decided then! I'm gonna put in the\ntime to make this the best leather jacket there is!"
+        },
+        {
+            "name": "Vodka",
+            "text": "With these two hands... I'm gonna craft the\npinnacle of all coolness!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Vodka starts to get really fired up..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmmm... But I wonder how long that'll take..."
+        },
+        {
+            "name": "Vodka",
+            "text": "I know! I bet I can speed things up by wearing it\nout in the rain!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Damage is definitely the fastest way to bring out\nthat vintage look!",
+            "choice_data_list": [
+                "Is it really cool if you force it?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmm. You've got a point..."
+        },
+        {
+            "name": "Vodka",
+            "text": "My dad did tell me some things are cool <i>because</i>\nthey take time to age."
+        },
+        {
+            "name": "Vodka",
+            "text": "But... sitting around and waiting just isn't my style!"
+        },
+        {
+            "name": "Vodka",
+            "text": "C'mon, Trainer. Let's run down the road so fast\nmy jacket gets dirty!"
+        },
+        {
+            "name": "Vodka",
+            "text": "This jacket'll tell my story—about how\nhard-boiled I am, of course!"
+        }
+    ]
+}

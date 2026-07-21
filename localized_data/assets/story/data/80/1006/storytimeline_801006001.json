@@ -1,0 +1,61 @@
+{
+    "title": "何と答えれば……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After training, I spot an Umamusume with a\ntroubled look on her face."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I always run with force... No, that's not it. I make\nsure to have fun... and do my best? That's not it\neither..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm, what should I do?",
+            "choice_data_list": [
+                "Something wrong?",
+                "Something wrong?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well... The school newspaper said that they\nwanted to write an article on me..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I've always been really bad at those kinda\nthings. I was just thinking about how I should\nrespond to their questions.",
+            "choice_data_list": [
+                "Why don't you show them how you train?",
+                "Think of it as a chance to work on your\nweaknesses."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I see... I wouldn't have to explain anything\nverbally then."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. I'll try doing just that."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right... I shouldn't run away from things all\nthe time just because I'm bad at them."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I still don't know what to do...",
+            "choice_data_list": [
+                "Maybe you can prepare some notes\nbeforehand?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh... That might actually work."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. I'll give it a shot."
+        }
+    ]
+}

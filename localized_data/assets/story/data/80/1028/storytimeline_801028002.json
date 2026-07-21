@@ -1,0 +1,126 @@
+{
+    "title": "どーんと☆お任せあれ♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Early one morning, I'm heading to the training\ntrack for an errand and find that it's currently\nunder maintenance."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clank, clank, clank, clank, clank! Hisssss!</i>"
+        },
+        {
+            "name": "Groundskeeper A",
+            "text": "Whoa! Did it break?! The leveler stopped working\nall of a sudden!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh? They're still working on the track? I wonder\nif something happened.",
+            "choice_data_list": [
+                "Looks like something went wrong.",
+                "Looks like something went wrong."
+            ]
+        },
+        {
+            "name": "Groundskeeper A",
+            "text": "Sorry for the delay! Our leveler malfunctioned,\nbut we're going to fix it up!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No worries! ♪ We can wait!"
+        },
+        {
+            "name": "Groundskeeper B",
+            "text": "Wouldn't it be faster to call a mechanic?"
+        },
+        {
+            "name": "Groundskeeper A",
+            "text": "It's the morning rush hour right now. There's no\ntelling when they can get here."
+        },
+        {
+            "name": "Groundskeeper B",
+            "text": "But there's no guarantee we'll be able to fix this\nthing on our own!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No need to rush! There's plenty of time before\nschool starts! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Just take a deep breath and take things one at a\ntime!"
+        },
+        {
+            "name": "Groundskeeper B",
+            "text": "You're right. We'll need to get the leveler out of\nthe way first, then continue smoothing out the\nground..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll help! You want this thing off the track, right?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Or would it be better if I give you a hand with the\nleveling?"
+        },
+        {
+            "name": "Groundskeeper A",
+            "text": "You don't have to do anything! We appreciate\nthe thought, but we couldn't possibly make a\nstudent do all that..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, it's all right if I give 'em a hand, right? What\ndo you think I should help with?",
+            "choice_data_list": [
+                "Can you move the leveler out of the way?",
+                "Help level the track by running around it!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "On it, boss! Okay, time to puuuush!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Haaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We set a steel plate under the leveler so it\ndoesn't mess up the ground. Then, Hishi Akebono\npushes it with all her might!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Nnnngh! It's so heavy! Just... a little... more!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Phew! I did it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono pushes the leveler off the track,\nand the workers manage to finish up maintenance\non schedule."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Sounds good! I'll be done before you know it! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono runs along the track carrying the\nharrow the workers removed from the leveler. Her\nlaps leaves the dirt behind her nice and smooth."
+        },
+        {
+            "name": "Groundskeeper B",
+            "text": "Wow! She's so fast! I think she might be faster\nthan the leveler itself!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's all smoothed out! ☆ What a relief! I'm glad\neverything got done before any other students\narrived! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "While Hishi Akebono was running, the mechanics\nmanaged to fix the leveler and return it to the\ngarage. Thus, maintenance was safely completed."
+        }
+    ]
+}

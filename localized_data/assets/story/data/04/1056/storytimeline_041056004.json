@@ -1,0 +1,202 @@
+{
+    "title": "大敗北でも大開運！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the tryouts finally arrives."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Lotus roots, celery stalks, spinach leaves... Lotus roots, celery stalks,\nspinach leaves...",
+            "choice_data_list": [
+                "Is that some kind of incantation?",
+                "Is that some kind of incantation?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's for good luck! This chant will allow me to focus my willpower and\nperform to the best of my ability!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've trained as much as I could! Regardless of how this race turns out, I\n<i>will</i> make you my trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Fukukitaru! How ya feelin'?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... We'd like to watch you run today, if you don't mind."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh! Taiki, Suzuka! Are you here to cheer for me?! It's nice knowing\nthe two of you've got my back!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's been a busy couple of weeks, but I think I'm ready, thanks to you\nguys!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don't even mention it! Tear up that racetrack! Show 'em what you've\ngot! Don't worry about Suzuka and me. We'll be making our debut\nsoon enough too!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Sorry for the head start, you two! See you at the Twinkle Series!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right, then... It's about time I head out. I'll try not to lose too hard!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yeah, give it your—\nWait, what?",
+            "choice_data_list": [
+                "Good luck!",
+                "Good luck!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Thanks! Be back soon!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... Does she intend on losing or something?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The race soon commences, and Matikanefukukitaru blasts out of the\nstarting gate."
+        },
+        {
+            "name": "Caster",
+            "text": "This much-awaited race is completely packed with extremely skilled\nrunners! Who will come out on top?!"
+        },
+        {
+            "name": "Caster",
+            "text": "Matikanefukukitaru is falling behind! Are the leading Umamusume too\nfast for her?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mgrrrgh! They're all... so fast..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's fine though. I just need to do what I promised I would—run!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's goooo! Super Fortune Daaaaash!"
+        },
+        {
+            "name": "Caster",
+            "text": "The runners have made their final turn and are entering the final\nstretch!"
+        },
+        {
+            "name": "Caster",
+            "text": "Matikanefukukitaru is picking up the pace from behind! Will she be\nable to close the gap?!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Yeeeaaah!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Maaan, I thought for a second there that I could overtake them all...\nHow'd I still end up in last place?",
+            "choice_data_list": [
+                "Eye-opening, right?",
+                "Eye-opening, right?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Still, you were so close... Had you another fifty meters, you would've\neasily cleared the whole group."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I know, right?! You might've been last, but you definitely had the\nbiggest impact!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Awww, you guys are being too nice."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Ah, Matikanefukukitaru! There you are! Please, let me scout you!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Huh? You want to... scout me?"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "That burst of speed during the last leg of the race was a sight to\nbehold! I'm positive that you and I can accomplish anything together!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "No, she needs <i>my</i> guidance! I'll be the one to scout her!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Waaah! Why are all these people coming to me? I was in last place!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Sorry, but destiny has already decided my trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru politely declines the offers from the trainers\naround her and looks my way."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her belief in divinations is unrivaled, and it goes without saying she's\na real character. Yet I can tell she loves running more than anything."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ummm... I'm not very good under pressure. Whenever I get nervous, I\nfeel like I'll start babbling some random incantation at any moment...",
+            "choice_data_list": [
+                "Let's create our own good fortune!",
+                "Let's create our own good fortune!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Whoa! Now that's more like it! Good fortune doesn't just come to\nthose who wait around doing nothing! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With tryouts behind us, I officially take on the role of\nMatikanefukukitaru's trainer."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So how about we get started? Not a second to waste!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hm, actually... Before we begin, could I ask you one small favor?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I was doing a carrot divination earlier, and it said that partner running\nwould be today's lucky activity. Problem is, Suzuka's busy today..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Could you run with me today?! Please, just this once!",
+            "choice_data_list": [
+                "Our paces wouldn't match at all!",
+                "Our paces wouldn't match at all!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "No worries! If you start falling behind, I'll just drag you along! So let's\ngoooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can even begin to question my decisions thus far, she takes\noff running, leaving me with no choice but to frantically attempt to\nkeep up."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Goo... morn...ing... <i>Yawn</i>",
+            "choice_data_list": [
+                "Someone's sleepy.",
+                "Someone's sleepy."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah... These past few days, I've been up late\nthinking about something..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But it's helped me come up with some ideas! A\nhundred proposals for next month's class goals!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now I just need to consolidate them into one..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Yawn...</i> I'll do my best..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her dutiful nature as class representative seems\nto be robbing her of her sleep."
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "title": "こちとら江戸っ子でい！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been some time since I became a trainer at Tracen Academy, but I\nstill have no trainee—heck, I haven't even attempted to scout anyone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not for a lack of talent, of course. Every student here is packed with\npotential. But whenever I think about scouting a runner, something\nalways holds me back..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I see. Well then, if I may offer some advice... perhaps what you need\nto do is think <i>outside</i> the box?",
+            "choice_data_list": [
+                "Like... outside the school?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That's right! ♪ As I'm sure you know, the Twinkle Series isn't the only\nrace series Umamusume run in!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Each region of Japan also holds its own independent series, and the\nracers there compete just as fiercely as those in national races."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "In the past, we've had trainers find real talented racers in the\nregionals. We've simply transferred them to Tracen Academy so they\ncould sign a contract.",
+            "choice_data_list": [
+                "I see!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing as there's a race today in Oi, I decide to head over to see\nwhat their racers are made of. However...",
+            "choice_data_list": [
+                "Wh-where am I?!",
+                "Wh-where am I?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The confusion that comes with navigating a new area is one thing, but\non top of that..."
+        },
+        {
+            "name": "Fiesty Stray Cat",
+            "text": "MRRRAOW!",
+            "choice_data_list": [
+                "GYAAAH!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I encounter an absolute <i>beast</i> of a cat, who apparently decided I'd\nmake the perfect prey! After a long, <i>long</i> game of cat and mouse..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Gurgle...</i>",
+            "choice_data_list": [
+                "(So... hungry...)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bwahahahaha! Whoa-ho there, you good? Ya look like you're bouta\nkeel over!"
+        },
+        {
+            "name": "Fiesty Stray Cat",
+            "text": "Mrrraow..."
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Oh? Well, if it isn't our resident furball... What's that? This stranger\nwas trespassin' on your turf?"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Aw c'mon, lay off, will ya? This stranger didn't know any better. How\nabout ya let 'em go, huh? Good kitty, kitty, kitty!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Umamusume fearlessly reaches out and pets the hissing menace.\nIn an instant, the ferocious feline transforms into a tame housecat!\nThis is... the work of a master cat whisperer!"
+        },
+        {
+            "name": "Fiesty Stray Cat",
+            "text": "Meeeeeow! ♪"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "All right, catch ya later!\nSo... guessin' this is your first time here? Locals don't usually get\nbullied by the cats or wander 'round like lost, hungry kids."
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Lucky for you, you ran into me! Lemme show ya to the tastiest soba\nplace in town!",
+            "choice_data_list": [
+                "You'd do that for me? But we just met...",
+                "You'd do that for me? But we just met..."
+            ]
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "So what? Leavin' people in need high and dry's not my style. Now\nc'mon, let's get you some noodles!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, the fearless Umamusume leads me to the local shopping\ndistrict. She walks with such confidence, I almost think she owns the\nplace!"
+        },
+        {
+            "name": "Soba Shop Owner",
+            "text": "Well, well, well, if it isn't li'l Inari! How would ya like some fried tofu?\nI've got plenty to go around!"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Oh, might needa take ya up on that! But before that, I brought ya a\ncustomer! Can ya get 'em some soba?"
+        },
+        {
+            "name": "Soba Shop Owner",
+            "text": "Ah, welcome! Hehe, since Inari brought you, I better treat you right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure enough, the soba I order comes topped with not one, but <i>two</i>\nshrimp tempura—a welcome surprise for my empty stomach!",
+            "choice_data_list": [
+                "Th-thank you so much!"
+            ]
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "That soba really slaps, right? This joint's the best in town!\n...By the way, whatcha doing in our neck of the woods, anyway?"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "If it's a guide ya need, I'm your Uma! I know these streets like the\nback of my hand. So let's hear it—where ya headed?",
+            "choice_data_list": [
+                "Well, I was trying to go to Oi Racecourse..."
+            ]
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Hm? Did you just say... Ahahahaha!"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "Talk about good timin'! That's where I'm headed after this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With my trusty guide's help, I successfully make it to Oi Racecourse. It\nlooks like I'm just in time to see the local tryout races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Woooo!"
+        },
+        {
+            "name": "Fearless Umamusume",
+            "text": "HRRRAUGH! GET OUTTA MY WAAAY!",
+            "choice_data_list": [
+                "Wait, that's—"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Who would've guessed I'd see her in the tryouts today! But more\nimportantly!"
+        },
+        {
+            "name": "Caster",
+            "text": "At long last, the final straight! Kicking into high gear and leaving a\ncloud of dust in her wake is none other than Inari One! Inari One!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Time to pull out... THE FINISHER! Urrraaaaaugh!"
+        },
+        {
+            "name": "Caster",
+            "text": "Inari One! Inari One takes the lead by two, no, three lengths and\ngrowing! She's got this! Inari One..."
+        },
+        {
+            "name": "Caster",
+            "text": "Crosses the finish line! Inari One has won her tryout race by four\nwhole lengths! That little body of hers really packs a punch! A\nflawless victory!",
+            "choice_data_list": [
+                "<i>Gasp!</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As I suddenly gasp for air, I realize... I was so enthralled by her race\nthat I forgot to breathe."
+        },
+        {
+            "name": "Monologue",
+            "text": "A heart-pounding performance, a run powerful enough to shake the\nvery earth... that competitive spirit that blazes like the festival\nfireworks, and the speed to leave even the sand glistening..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell from that race alone that she's got what it takes for turf\nraces—for the Twinkle Series! She's the one! I... I...",
+            "choice_data_list": [
+                "I <i>need</i> to scout her!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, sorry, but no. I appreciate the offer, but I can't take ya up on\nthat."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the race, I rushed over to Inari One to give her my pitch. While\nshe was kind enough to hear me out, her answer comes quickly and\nfirmly.",
+            "choice_data_list": [
+                "Oh... May I ask why?",
+                "Oh... May I ask why?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You can probably tell by now, but I was born and raised in this town!\nThe people here are like family—they've been watchin' over me since\nI was a teeterin' tot!"
+        },
+        {
+            "name": "Inari One",
+            "text": "And that includes my racin'. My trainer—Chief practically raised me,\nand I wanna make it big on <i>his</i> team."
+        },
+        {
+            "name": "Inari One",
+            "text": "Plus, well..."
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Ah, I finally found you, Inari! Congrats on the win! I, uh... I ended up\nin fifth, so I guess my stamina still needs some work..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, hey, lighten up! All that hard work gotcha onto the scoreboard,\ndidn't it? Besides, pretty sure the old man has already scouted ya,\nright?"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Yeah! And now I'm gonna be on the same team as <i>the</i> Inari One! I\ncouldn't be happier! I can't wait to train with you!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Oh, but I'm interrupting your conversation, aren't I? I'll let you get\nback to it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Okay, catch ya later!\n...I think that convo explains things better than I could."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm an Edo girl through and through. I don't wanna leave my teacher\nand all my teammates behind... Sorry 'bout that!",
+            "choice_data_list": [
+                "No, it's fine... I understand.",
+                "No, it's fine... I understand."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...Aw, c'mon, ya look like a deflated balloon. Cheer up, ya <i>clearly</i> got\nan eye for talent!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You'll find a trainee at Tracen in no time. I mean, that place is famous\nfor its crazy talented students, ri—",
+            "choice_data_list": [
+                "I couldn't find anyone at the school. Sure,\neveryone's talented, but..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "But... what?",
+            "choice_data_list": [
+                "You've just got something <i>special.</i>",
+                "You've just got something <i>special.</i>"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah, well... I-is that so? Uhhhh..."
+        },
+        {
+            "name": "Inari One",
+            "text": "You... know the way back, right? Try not to get cornered by the\nfurball this time.\nAnyway, uh... thanks for comin'!"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "title": "乙女の語らい",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Mejiro Ardan, Mejiro Ryan, and Daiwa\nScarlet chatting in the corner of the cafeteria."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Really?! I didn't know you two like shojo manga!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Why, yes. Reading is a treasured pastime of mine,\nand shojo manga has something to offer every\ngeneration."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Y-yeah. I've read a couple too..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh? Is something the matter, Ryan? You keep\nlooking over your shoulder..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Uh, well... It would be a little embarrassing if\neveryone found out I read romanc—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ah, ahem! I mean, no real reason!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So! Have either of you read any good ones lately?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Let me think, um..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I read \"Love Passing Love\" and it was great!\nThere's this scene in a classroom after school\nwhere the main character realizes her childhood\nfriend <i>likes</i> likes her!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And it's the perfect moment for her friend to\nopen up... but they can't muster up the\ncourage—and the main character ends up pushing\nthem away!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I know it's a cliche, but for me, the real charm of\nromance comics is those scenes where you have\ntwo characters struggling to convey their feelings\nfor each other!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You're absolutely right. The opposite always\nworks wonders too, when you have lovers whose\nfeelings are in sync, but fate keeps throwing\nobstacles their way."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, I know just what you mean! There's also—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ah... N-never mind..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What about you, Ryan? Have you read any good\nmanga recently?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Me?! Oh, um... I recommend..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Um, I... Well..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "O-oh! Sorry! I just haven't had time to read\nmuch... Ardan, could you recommend something\ninstead?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Very well. I shall do so."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I must admit, historical and fantasy settings\nappeal very much to me. The last comic I read,\n\"Distant Dragon River,\" was one such title."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The two leads are deeply in love, but they're also\nleaders of warring nations. In one particularly\nmemorable scene, the two secretly meet under\nthe cover of darkness to negotiate a truce."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I-i-in secret? R-really?!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes... For the heart-wrenching truth is that this is\nthe only way they can meet anymore."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Knowing that so many lives are depending on\nthem, they're forced to suppress their emotions\nand focus solely on the negotiations..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "However, after seeing one another's faces, it's not\nlong before they stop negotiating and start\nreminiscing about days gone by... Their feelings\nsoon win out..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "The distance between them grows smaller and\nsmaller... Their fingers intertwine—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Wha-wha-wha! EEEEEK!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I c-can't handle this anymore!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan cries out as she runs right past me\nand off to who knows where..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ryan, what's wrong?!\nOh? Hello, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Did you overhear our conversation just now?\nDid I... happen to say something strange to Ryan?",
+            "choice_data_list": [
+                "...She wasn't quite ready for that kind of detail\nyet.",
+                "...She wasn't quite ready for that kind of detail\nyet.",
+                "Your description was so good she got\nemotionally invested.",
+                "Your description was so good she got\nemotionally invested."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Did you overhear our conversation just now?\nDid I... happen to say something strange to Ryan?",
+            "choice_data_list": [
+                "...She wasn't quite ready for that kind of detail\nyet.",
+                "...She wasn't quite ready for that kind of detail\nyet.",
+                "Your description was so good she got\nemotionally invested.",
+                "Your description was so good she got\nemotionally invested."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "She wasn't ready? What do you mean by that?",
+            "choice_data_list": [
+                "I think that might've been too much to take in\nall of a sudden..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now that you mention it, the part I recounted was\nthe climax of the middle act... Oh dear, I believe\nthat might have been a \"spoiler,\" as they say."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah... How careless of me. I must remember to be\nmore cautious when giving recommendations."
+        },
+        {
+            "name": "Monologue",
+            "text": "I think she might be missing the point somewhat...\nbut at least she looks committed to bettering\nherself."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "So that's it... Well, it is true—your recounting of\nthe story was fantastic, Ardan!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But to run off all of a sudden like that... Ryan\nmust be quite the emotional type."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. Ryan's always been somewhat sensitive..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Which is precisely why I hoped she'd open up and\nrecommend a comic that stirred all those\nemotions of hers..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Now I'm really curious... Next time the\nopportunity arises, I'd love to hear what Ryan has\nto say!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Indeed... Well, when that day comes, be sure to\ntake a comfortable seat. Hehe."
+        }
+    ]
+}

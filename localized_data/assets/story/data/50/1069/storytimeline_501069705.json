@@ -1,0 +1,211 @@
+{
+    "title": "カーレースフレンド",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahhhhh! N-now I have to turn left! Come on,\nsteering wheel, turn faster! Fasteeeer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CRASH!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ugh... This is so difficult... I guess it isn't called\n<i>Demon Mode! Hot Rod Racing</i> for nothing!",
+            "choice_data_list": [
+                "That was a pretty big crash.",
+                "That was a pretty big crash."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahaha... Pretend you didn't see that..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Still, being in a car inside a game sure is different\nfrom being in one in real life! I'm not getting\nmotion sick at all while playing this!",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yeah! Maruzen said she's really good at racing\ngames! So even if I'm hopeless when it comes to\nreal cars..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I want to practice a lot so I can race around in a\nsports car with her in this game!",
+            "choice_data_list": [
+                "Keep it up!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I will! All right! Time for me to become the best\nracer ever!"
+        },
+        {
+            "name": "???",
+            "text": "Mwahaha! Don't make me laugh! It'll be a trillion\nyears before you're the best racer ever!",
+            "choice_data_list": [
+                "Wh-who's there?!",
+                "Wh-who's there?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Boasting seven top scores in racing games and\nten high scores in rhythm games, it's none other\nthan the great, the mighty... Me!",
+            "choice_data_list": [
+                "T-Teio!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "As the strongest racer of <i>Demon Mode! Hot Rod\nRacing,</i> I challenge you to a showdown, Chiyono\nO!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I won't lose that easily, especially not when it\ncomes to something related to hot rods!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Teio! I accept your challenge!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right, pedal to the metal right from the start!\nZooooom!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wh-whoa! Y-your cornering is amazing! Even so..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(I know an even wilder driver than this! That's\nright. Maruzen's driving is mind-blowing enough\nto give you goosebumps!)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I think it goes like... this! M-maybe?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Waaah! Wh-what are you doing?! You won't be\nable to turn if you go that fa—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...You made the turn?! That wasn't you just losing\ncontrol of your car?! Grrr! Wait for meeeee!"
+        },
+        {
+            "name": "Chiyono O & Teio",
+            "text": "Raaaah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew! I won! Well? What do you think of the\npower of the exalted Teio?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her incredible feat on that tight turn,\nSakura Chiyono O is still lacking in overall skills,\nand Tokai Teio wins by a landslide."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...",
+            "choice_data_list": [
+                "Ch-Chiyono O? Are you okay?",
+                "Ch-Chiyono O? Are you okay?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "H-hey... You were pretty good, you know! That\nreckle—er, bold driving style of yours will\ncertainly serve you well! A-ahaha..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That...",
+            "choice_data_list": [
+                "That?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That was <i>incredible!</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You flew like the wind, Teio! The tires of your car\nwere practically floating off the track!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And look at my time! I broke my record by ten\nwhole seconds! I feel like I'm getting closer to\nMaruzen's speed!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe... Yeah! The real thrill of games is trying\nnew things and seeing what sticks!",
+            "choice_data_list": [
+                "Seems you've found yourself an arcade buddy.",
+                "Seems you've found yourself an arcade buddy.",
+                "You should ask for a rematch!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe... Yeah! The real thrill of games is trying\nnew things and seeing what sticks!",
+            "choice_data_list": [
+                "Seems you've found yourself an arcade buddy.",
+                "Seems you've found yourself an arcade buddy.",
+                "You should ask for a rematch!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Arcade buddies! I like that!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Chiyono O! Wanna play a rhythm game\nnext?! I really like those too!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "A rhythm game?! S-sure! My dad likes music, so\nI've actually played a little guitar before..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "A-a rematch?! But I'm still not good enough to\nbeat her..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Who cares about that? Let's do it! Besides, no\nmatter how many rematches we do, you'll never\ndefeat me. ♪"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"Even the roots of a tree battle the soil!\" Yeah... If\nI don't do battle, I'll never improve!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're on, Teio! I challenge you to a rematch!\nYou may claim to be invincible, but I'm going to\ncatch up to you... and then surpass you!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha... An unlikely friendship, but one that is sure\nto be beneficial to them both. What a\nheartwarming sight to see.",
+            "choice_data_list": [
+                "Oh, if it isn't—"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Shhh! We don't want to intrude on their adorable\nlittle play date. Let's just watch over them. Ooh,\nthey're as cute as buttons! ♪"
+        },
+        {
+            "name": "Chiyono O & Teio",
+            "text": "All right... You're going down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them enjoy their game with wide\nsmiles, oblivious to all the people watching them\nquietly."
+        }
+    ]
+}

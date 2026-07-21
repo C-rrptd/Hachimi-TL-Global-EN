@@ -1,0 +1,216 @@
+{
+    "title": "ミイラハント～笑劇を打破せよ！～",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm dropping by the dance studio to pick up\nsomething I left behind, when Tamamo Cross\ncomes up to me."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, I don't suppose ya got some free time? If\nyou do, mind comin' over and watchin' us\npractice?",
+            "choice_data_list": [
+                "Sure. What kind of practice?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Us four are helpin' put together this\nmummy-themed haunted house as part of a local\nevent."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The idea is that the guests and a mummy hunter\nare gonna use toy guns to take out the mummies\nthat come at 'em."
+        },
+        {
+            "name": "Inari One",
+            "text": "It's totally unscripted, so we're practicin' our\nad-libbin'! Y'know, like improv."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay, the mummies are up now, so would you\nmind sharing your impressions after? The theme is\n\"mopey mummies.\"",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thanks a bunch! 'Kay, watch closely!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ughhhrrrrawwwrrrrr... The trEAsUre... iS miiiNe..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Gruhhh... Grrrahhh... tHe feSTivAL hAs cOMe!\nYoU wiLL jOiN thE feStiVaL toOoO!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I lament... that I couldn't care... for more people...\nSomebody, please... Let me coddle youuu..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And I am mopey because... I'm hungry. I haven't\neaten... so I'm going to come and eat you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear... I wonder if you're peckish because\nyou've not eaten enough veggies? Let me whip\nyou up a little something."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, Creek! Throw in some rice and miso soup\nas well. Oh, and don't forget to make enough for\nseconds!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! I'll make you as many servings as you\nlike. ♪ Eat up until you're all full! Oh, I'm so\ndelighted to be looking after you, Oguri."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I get as much of your cooking as I want... It's like\nI'm in heaven. <i>...Drool.</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All your reasons for bein' mopey are goin' out the\nwindow! How come yer all bein' such friendly\nmummies?! Get afta the people already!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't worry, I'm famished. I've still got plenty of\nroom!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's not the point!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Cut! Cut! Tama, how's this supposed to work when\nyou're breakin' character and crackin' jokes?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "S-sorry about that. Forgot what I was doin'\nthere..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Okay, you. How'd we do? And don't go easy on\nus!",
+            "choice_data_list": [
+                "It was pretty funny!",
+                "It wasn't especially scary..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "This is a disaster! Haunted houses aren't supposed\nto be funny!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I know I shoulda stayed in character, but Oguri\nand Creek were bein' way too ridiculous!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, I apologize... That wasn't my intention at\nall..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, well, it comes naturally to some folks.\nAnyways, look, we gotta get serious, stat."
+        },
+        {
+            "name": "Inari One",
+            "text": "We'll have a hunter for the real thing, right?\nThings'll work out so long as the hunter plays it\nstraight."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I guess so. Who's playin' the mummy hunter?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That'd be me."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why didn't ya say so?! And how come yer over\nhere pretendin' to be a mummy?!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I thought a mummy hunter should try and\nunderstand how the mummies feel... Am I wrong?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Are ya still gonna be able to hunt 'em if yer\nempathizin' with 'em? Geez. This sure isn't lookin'\ngood."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You should go study your own role now. Do some\nresearch. Watch a movie about a hunter or\nsomethin'."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, got it. You're always so on top of\neverything, Tama."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No kiddin'... This is supposed to be horror, but it's\nturned into comedy improv."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, why don't we use scary stage effects to\nmake it more immersive? They do say that sounds\nand sensations can heighten suspense."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh! Why don't we make the event into a full-on\nfright-fest? Let's have a look around the academy\nat night for scary inspiration!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Th-that's not a bad idea... but no way! We can't\njust hang around at school until it's dark! Y'know?",
+            "choice_data_list": [
+                "It should be fine if I'm with you.",
+                "It should be fine if I'm with you."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Th-the academy sure is scary at night, huh? Let's\nhurry up and find somethin' we can use for the\nevent. Like, how about the way our footsteps\necho?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, speaking of footsteps, have you heard the\nrumors? They say a red light comes chasing after\nyou if you go running through the academy at\nnight."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why're you talkin' about that <i>now?!</i> That's got\nnothin' to do with the show!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Oh my. Do you... hear that?"
+        },
+        {
+            "name": "???",
+            "text": "...at's... a... ...ous..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "N-nope. Nope. Nopenopenope! I don't hear\nnothin'!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, a red light. I wonder if it's the one Creek was\ntalking about?"
+        },
+        {
+            "name": "???",
+            "text": "...red... tiful... arv... ous...☆"
+        },
+        {
+            "name": "Tamamo and Inari",
+            "text": "YAAAAAHHHH!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Th-this is too much! It's gonna upset da kids! We\ngotta tone it down!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The important thing is that people of all ages can\nhave fun! Let's just go with the comedy version!"
+        }
+    ]
+}

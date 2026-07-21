@@ -1,0 +1,68 @@
+{
+    "title": "イエス！　レッツ・ハグ☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm looking for some training\nbooks in the library..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! I had my eye on that book you're holdin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. Lemme tell ya somethin', partner..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm always thinkin' 'bout what I need to work on in\norder to keep up with the pack, even in a\nstampede!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I wanna hear <i>your</i> opinion! Lay it on me!",
+            "choice_data_list": [
+                "Speed.",
+                "Power."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Speed? Now there's an idea! Just gotta run fast,\nget around your target, aaand..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "HUG 'EM!",
+            "choice_data_list": [
+                "Wait, what?! Hug them?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! I'll give it a shot right away!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "C'mere, hon! There's no escapin' this hug monster!\nI'll chase ya to the edge of the earth!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's the spirit! Just gotta get a hold of everyone\nwith my power and..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "HUG 'EM!",
+            "choice_data_list": [
+                "Wait, what?! Hug them?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! I'll give it a shot right away!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "C'mere, hon! Get ready for the strongest hug\nyou've ever had in your life!"
+        }
+    ]
+}

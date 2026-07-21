@@ -1,0 +1,42 @@
+{
+    "title": "レース入着",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, I'm sorry to say that I failed to achieve\nfirst place."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But I was able to unleash all the power I currently\nhave, and for that reason, I've no regrets."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "What are your thoughts on today's result,\nTrainer?",
+            "choice_data_list": [
+                "You did well to place that high.",
+                "Let's set our sights higher."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you. Your assistance has contributed a\ngreat deal to my being able to finish today's race\nwithout any regrets."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shall devote myself to seizing first place in the\nnext race. Please continue to advise me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...! One must always aim higher... Yes, that's an\nimportant lesson. I shall take it to heart."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I believe that my current weaknesses became\nquite evident during today's race."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Please assist me in creating a training regimen\nthat will put us in good stead for the next race. I\nlook forward to your instruction."
+        }
+    ]
+}

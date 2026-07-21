@@ -1,0 +1,234 @@
+{
+    "title": "弱点！？キミに教えてもらったコト",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Good morning! The flowers you had on display were wilted, so I\nreplaced them with new ones!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, and that there on your desk is a lucky handkerchief my dad\nmakes. It's good feng shui and made of really soft material, so you\nshould have it! What else..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The windows are closed, so open them up! Air circulation is the basis\nof feng shui, you know? And now your day's set to be super lucky! ☆\nWell, see you at training!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to her adjustments to the office, I start to find myself in a\ngood mood more often, and my work is going swimmingly. But I can't\nhelp thinking...",
+            "choice_data_list": [
+                "(She's done more for me than I have for her.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, it's supposed to be my job to support her. I wonder\nwhat I can do to repay her..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Huh? Oh, it's you, Trainer! What a coincidence! ...Right, do you have\nsome time now? There's somewhere I'd like to show you!",
+            "choice_data_list": [
+                "Right now?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's sudden, but I'm not actually in a rush, so I go with her."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "So here we are, the zoo! Hehe, outings like this are great for getting\nyour qi flowing, so it might just bring you some luck!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The key is to go in your auspicious direction! And this zoo just so\nhappens to be in that direction, so I've been meaning to bring you\nhere for a... while..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...Is someone crying? Sorry, I have to check if something happened!"
+        },
+        {
+            "name": "Timid Girl",
+            "text": "Where did... everyone go? <i>Sniffle...</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Are you okay? What are you doing out here all alone?"
+        },
+        {
+            "name": "Timid Girl",
+            "text": "I... I... Waaah! I dunno where they went!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Okay, so she got separated from her family... Figures, with the\nlandform around here being this damp and all."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "For now, let me take you to the lost kids center! It's a nice place filled\nwith fun things to do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment Copano Rickey grabs the girl's hand..."
+        },
+        {
+            "name": "???",
+            "text": "Oh, there you are!"
+        },
+        {
+            "name": "Older Sister",
+            "text": "I'm sorry, I shouldn't have let go of your hand! Mom and Dad are\nlooking for you, so let's hurry back!\nUm... thank you!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "No problem, I just stayed with her, that's all. I'm glad you found each\nother! Take care!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh yeah! On your way back, go down the big path in the middle! It's\nthe most auspicious path, so it's also the safest!"
+        },
+        {
+            "name": "Older Sister",
+            "text": "Auspicious path? Um... are you into, like... occult stuff?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "No, it's nothing to do with the occult, but I suppose it does often get\nmistaken for it. Why do you ask?"
+        },
+        {
+            "name": "Older Sister",
+            "text": "Well, at school, they told us not to go with people who say suspicious\nthings, because you could get kidnapped! So... Oh!"
+        },
+        {
+            "name": "Older Sister",
+            "text": "D-didn't you just say you would take my sister somewhere nice?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, that? What I meant is, the landform around here is making the qi\nstagnant. Doesn't the humidity make you feel a bit sluggish?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That means you have to be careful of the stagnant qi on the borders\nof the eight trigrams, so I thought she should be somewhere more\nlucky..."
+        },
+        {
+            "name": "Older Sister",
+            "text": "Stagnant qi? Trigrams? I don't know those words. Oh, you must be...\nMooommyyy!",
+            "choice_data_list": [
+                "Ah, wait!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I calm down the children and explain that Copano Rickey is a student\nat the academy who wanted to take the girl to the lost kids center.\nShe's not anyone suspicious."
+        },
+        {
+            "name": "Older Sister",
+            "text": "S-s-s-sorry! I'm sorry! I was just so scared, and I... I... Forgive me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It worked out in the end, but I'm worried that the incident just now\nput a damper on her mood..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ahhh, I messed that up! Thank you for working things out! I guess\nfeng shui must sound kind of scary to children."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I probably should have waited for the little girl to calm down before I\nstarted explaining things. People always tell me that I come on too\nstrong. Well, lesson learned!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Or maybe she's fine? She's talking normally, and she's already\nreflected on what went wrong and how to fix it. But the tension\nshowing on her face tells a different story.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "What? Yep, never better! I'll take care not to make the same mistake\nagain, and I definitely won't let it get to me!",
+            "choice_data_list": [
+                "That's not what I mean."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey is good at lifting the mood with feng shui. Her ability\nto avoid disturbing her qi by planning for the future and working\ntoward those plans is her strength."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why she's desperately attempting to put a lid on her negative\nemotions right now and ignore them altogether. I tell her that I've\nnoticed."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh... Yeah. Maybe you're right. You know, my dad told me something\nsimilar once."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "He said I try too hard to solve everything with feng shui, and I tend to\navoid facing my feelings... especially when I feel weak."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Feng shui works subconsciously, so you shouldn't put a lid on it. I\nthought I knew that, but... heh, looks like I messed up again."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "So, um... what now? How am I supposed to solve my problems without\nfeng shui?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She puzzles over the question. My guess is that she needs to start by\nsimply acknowledging her emotions.",
+            "choice_data_list": [
+                "Back at the zoo, how did you feel in the\nmoment?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Huh? How'd I feel? Well, let's see... When the girl screamed, I felt a\ntightness in my chest and my mind went blank...",
+            "choice_data_list": [
+                "Were you sad that you got misunderstood?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Sad? Oh, I think that's it! But I get misunderstood all the time, so that\npart wasn't a surprise."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's just... I know I can do better than that...",
+            "choice_data_list": [
+                "So you were disappointed that you couldn't get\nyour point across?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Y-yeah! I don't usually make people scream! I know I can tell people\nhow to improve their luck more effectively!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...So, yeah. That's what I was thinking."
+        },
+        {
+            "name": "Monologue",
+            "text": "When she looks at me, I notice her face has relaxed and she's got her\nusual cheerful expression back."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Whew, I'm feeling better already! It's like a weight's been lifted off\nmy chest! ...Guess I really was ignoring my feelings."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Thanks for the talk. ...You're the best, Trainer!"
+        }
+    ]
+}

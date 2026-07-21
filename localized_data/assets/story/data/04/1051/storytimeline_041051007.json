@@ -1,0 +1,248 @@
+{
+    "title": "笑顔の花が咲く",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp has begun. I want to use this opportunity to get Nishino\nFlower to relax and open up around me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to work hard so I can grow even more as an Umamusume!\nOh, but I'm also fine with doing solo training!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I have to make sure I don't burden Trainer. I should be careful with\nwhat I ask for.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "But it's obvious that she's doing her best to make herself unobtrusive.\nI can already feel a distance forming between us."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff... huff...</i> I think I'll do one more lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower runs at an unsteady pace. Her determination to push\npast her limits is affecting her performance."
+        },
+        {
+            "name": "Monologue",
+            "text": "Summer camp is a getaway from the everyday, so I want her to enjoy\nher time here. What can I do to help her relax?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Telling her she doesn't have to try so hard or that she ought to have\nfun would probably end up having the opposite effect."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe I could take a kinder, softer approach, like how she does with\neveryone else around her...",
+            "choice_data_list": [
+                "Wait, that's it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking back on the time I've spent with Nishino Flower, the solution\nsuddenly comes to me. I don't know if it'll work, but I'll put my whole\nheart into the effort."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I couldn't run the way I wanted from start to finish...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh... Hello? Mom... Dad... What's going on?"
+        },
+        {
+            "name": "Flower's Father",
+            "text": "Sorry for calling in the middle of summer camp, but we haven't heard\nfrom you in a while and were starting to worry."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "We know you tend to keep things to yourself, so we thought we'd\nreach out instead."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, actually..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And I keep thinking I need to get myself together, so I don't bother\nTrainer, but... Nothing I try works."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer's busy. I don't want to waste their time, but I still..."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mom?"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Flower... You remind me of your father and I when we were younger."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Flower's Father",
+            "text": "Maybe you could try being more open with your feelings. I'm sure\nTrainer wants that as well."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "I know you're worried about burdening the people you care about,\nbut... I don't think that's how your trainer views it."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "After all, you're both trying your best to understand each other. You\ncan do that by letting them get to know you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Understand... each other?"
+        },
+        {
+            "name": "Flower's Father",
+            "text": "You have to be brave, but I know you can do it, Flower. Because\nyou're the one who gave your mother and I courage."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Do you really think I can?"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Of course! Besides, hasn't your trainer also given <i>you</i> courage?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sob.</i> I... I'm... so sorry..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I remember what Trainer said to me when I cried.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Let me be your trainer!\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Those words shook me to my core.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You gave me courage too.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Your words also gave me courage.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mom, Dad. Thank you so much!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff... huff... Sigh...</i> Phew!\nTrainer, I'm done with the final lap!",
+            "choice_data_list": [
+                "Good job! We'll continue our training after\nlunch!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Trainer? Before we eat, I... I want to tell you something!",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "F-for the longest time, I was worried that I was bothering you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uh, like the day you went out for lunch with the other trainers. I gave\nyou that bento without even considering that you might have had\nplans already."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "All you did was tell me you liked the food, but I was so happy that... I\nwent overboard...",
+            "choice_data_list": [
+                "Oh no, that wasn't—"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that I was invited to lunch after I finished eating her food. I\ntruly was happy about receiving it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "R-really? Then... I misunderstood again... I... Oh, this is so\nembarrassing!",
+            "choice_data_list": [
+                "Actually, now that you mention it..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I take out a bento box from my cooler bag. It's a token of the\nappreciation I'd been trying to convey to Nishino Flower for so long."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A bento... f-for me? And you made it yourself?!",
+            "choice_data_list": [
+                "It might not taste as good as yours, but..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! I... I'm so happy right now!",
+            "choice_data_list": [
+                "Happiness is better when it's shared, right?",
+                "Happiness is better when it's shared, right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh... Ehehe. Right! I put my heart into the lunch I made for you, and\nI'm sure yours was made the same way."
+        },
+        {
+            "name": "Monologue",
+            "text": "We have lunch by the beach. Nishino Flower happily bites into a\nslightly burned omelet."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Hey, Trainer?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Next time, let's try a bento exchange. I'll make sure to include lots of\nyour favorite foods."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's why, um... Could you maybe put my favorite foods in the one\nyou make, too?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we spend an enjoyable lunch talking about Nishino Flower's\nfavorite and least favorite foods, as well as new things she wants to\ntry out."
+        }
+    ]
+}

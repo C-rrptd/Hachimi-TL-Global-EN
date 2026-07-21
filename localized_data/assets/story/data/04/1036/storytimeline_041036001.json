@@ -1,0 +1,265 @@
+{
+    "title": "脈打つアルゴリズム",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Parcae... understands me. They take the data I input and guide me to\nthe correct answer. Adhering only to truth, they do what I want them\nto and do it well."
+        },
+        {
+            "name": "Monologue",
+            "text": "As long as I give them the right input, the output is absolute. The\nperfect, all-encompassing, well-defined equation."
+        },
+        {
+            "name": "Monologue",
+            "text": "But because of that... Parcae can't understand <i>me.</i> In their world of\nones and zeros, the process of despair simply doesn't exist."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm on the lookout for a racer to scout, so I stop by practice. There, a\nnumber of Umamusume who haven't made their debuts yet gather to\ntrain."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Opera O and Top Road are both so cool... I may never catch up, but...\nI have to try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As expected of the prestigious Tracen Academy, all the students\nhave promise. As I watch them excitedly, I notice something out of\nthe corner of my eye..."
+        },
+        {
+            "name": "???",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Beside me is an Umamusume observing the runners on the track. Her\nserious gaze occasionally shifts to her laptop, where she seems to be\ntyping something.",
+            "choice_data_list": [
+                "(What an intense stare. It's almost like...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her gaze isn't fixed on the racers in front of her, or even her laptop\nscreen... They seem to be searching for something... desperately so."
+        },
+        {
+            "name": "???",
+            "text": "...Tch!",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Hmph...",
+            "choice_data_list": [
+                "(Ah, I shouldn't have been staring like that.)"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey, did you see that? Air Shakur seriously freaks me out. I can't believe she\nglared at an adult like that..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "But isn't she, like, a genius or something? Even Teach said she's got the brains\nand skills... It's just the way she does things that's off."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Apparently, she's always out till just before curfew. I bet she's up to no good...\nMaybe that's why she's so prickly... I don't know what goes on in her head."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur... It looks like she's got quite the fearsome reputation, and\nperhaps rightfully so. That uniquely fierce stare left quite the\nimpression on me."
+        },
+        {
+            "name": "???",
+            "text": "Like. I. Said. I'm not doing anything, so what's the big deal?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, as I'm returning to the school from a quick trip into town, I\nspot an Umamusume being stopped by the police.",
+            "choice_data_list": [
+                "(Those ears look familiar... Wait.)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Every damn time, you stop me. And for what? It's not even that late...\nAh.",
+            "choice_data_list": [
+                "Air Shakur!"
+            ]
+        },
+        {
+            "name": "Police Officer",
+            "text": "Hm? You there... Do you know this girl?",
+            "choice_data_list": [
+                "She's a student of mine."
+            ]
+        },
+        {
+            "name": "Police Officer",
+            "text": "So you're from the academy... Good. I'll hand you over to your\nteacher now. No more wandering around so late at night, got it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Hand me over\"? Way to treat me like a criminal. And based on\nnothing but assumptions at that."
+        },
+        {
+            "name": "Police Officer",
+            "text": "That's not it! You're always in those net cafes till late. I'm just worried\nyou'll get wrapped up in something bad... You're so stubborn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something tells me that unless I say something, these two will just\nkeep bickering...",
+            "choice_data_list": [
+                "Sorry, I was the one who told her to wait there\nfor me.",
+                "Sorry, I was the one who told her to wait there\nfor me."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?",
+            "choice_data_list": [
+                "I apologize for worrying you."
+            ]
+        },
+        {
+            "name": "Police Officer",
+            "text": "...If that's the case, fine. However, you shouldn't leave minors\nunattended for so long. As for you, if you're waiting for your teacher,\njust say so!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I take Air Shakur back to the dorms after bidding the policeman good\nnight. She doesn't say a word to me the entire way back...",
+            "choice_data_list": [
+                "Make sure you're not out too late, okay?",
+                "Make sure you're not out too late, okay?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...That all you're gonna say? I was out till curfew, and I know my\nreputation around school's not great. It's obvious you'd be suspicious."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Lemme guess, you just don't want to deal with this crap, right? In that\ncase, I wholeheartedly agree.",
+            "choice_data_list": [
+                "I just figured you had a good reason to be out\nlate.",
+                "I just figured you had a good reason to be out\nlate."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...What?",
+            "choice_data_list": [
+                "You just seem... serious about racing.",
+                "You just seem... serious about racing."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The way she looked this afternoon tells me everything I need to\nknow. I can't imagine anyone with that stern gaze doing something\nthat could jeopardize her career."
+        },
+        {
+            "name": "Monologue",
+            "text": "Instead... I imagine she was simply looking for somewhere she can\nconcentrate in order to continue her work, whatever it is."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So you're not even going to investigate further? You're just letting me\ngo because of baseless impressions and feelings... You're no better\nthan that cop."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ultimately, everyone just sees what they want to see—mixing desires\ninto decisions... and your minds suffer for it. That’s why I chase the\ntruth... You're unreliable, unlike my partner.",
+            "choice_data_list": [
+                "Your... partner?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch... My PC. But they're more than just a machine, okay? They're\nlike another brain—a partner capable of giving me all the answers."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Based on all the data I collect, they can give me the most efficient\nregimen, a surefire strategy for scrimmages... and whatever else I\nneed."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "As long as I don't mess up during data entry, they'll spit out the right\nanswer. And they give it to me straight too, none of that vague crap."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But Parcae can only help those who want to help themselves. That's\nwhy we work so well. I’m more than willing to follow the path they set\nfor me.",
+            "choice_data_list": [
+                "You really trust them, huh?",
+                "You really trust them, huh?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, no duh. I made them myself after all.",
+            "choice_data_list": [
+                "You're... amazing.",
+                "You're... amazing."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Gross much?",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like I've upset her once again... So I decide to head back to my\nroom, reminding myself to mind my words and actions going forward."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, Shakur! You're finally baaack! U-um, uh... Are you... Um, weeell..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I was organizing some of my data. It's just easier to concentrate at a\ncafe than here."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And I thought I told you, you don't have to wait up for me. The entire\nreason I leave is so you... Whatever, let's just sleep. We've gotta be\nup early."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Okayyy... Um, that reminds me... Shakur, a trainer is going to observe\nyour training tomorrow, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They want to see what I can do. I mean, I'll run, but... I know it's going\nto end the same as always. It's not even worth running a simulation."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Either way, it doesn't concern you. I'm turning off the light."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I knew it. The answer didn't change.\nC’ｍon, Parcae..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Parcae... You were born of my obsession with the Twinkle Series.\nEverything from your OS to the applications you use—I made you\nmyself.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Based on your analysis, I should be debuting soon. My physical\ncondition is improving as predicted. However...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(<i>That</i> number hasn't changed. Which makes sense, since the code is\nright. That number is absolute.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(So why do I... keep redoing it? Analysis? Verification? Desperation?\nWhat is it...)"
+        }
+    ]
+}

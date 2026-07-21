@@ -1,0 +1,174 @@
+{
+    "title": "史を顧みて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, when visiting the library to return some\nreference materials I've borrowed..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, Trainer. Have you some business to attend to\nhere as well?",
+            "choice_data_list": [
+                "Yeah. You too, Ardan?",
+                "Yeah. You too, Ardan?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I've come to peruse some history books. Few\npeople know this, but this library actually houses\nan extensive collection on history."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I often come here in my free time to make use of\nit.",
+            "choice_data_list": [
+                "Right, I remember that you're into history\nbooks.",
+                "Right, I remember that you're into history\nbooks."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. ...They're absolutely captivating."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Within these pages lie the endeavors of those of\nthe past, remaining forever for us in the present\nto pore over. That fact alone makes me tingle\nwith excitement..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "By peering into the lives of the people who lived\nbefore us and contemplating how the historians\nwho recorded them must have felt, I feel a surge\nof emotion from my own world expanding."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Every time I immerse myself in one of these\nbooks, I feel myself hoping to live my own life\nwith such sincerity."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I feel that I gain something akin to... a courage\nneeded to fulfill the moments I have."
+        },
+        {
+            "name": "Monologue",
+            "text": "Detecting a hint of excitement in Mejiro Ardan's\nvoice, I find myself wanting to experience the\nsensation she's describing...",
+            "choice_data_list": [
+                "I'm thinking of reading a history book myself.",
+                "I'm thinking of reading a history book myself."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my! You truly want to?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well, um, in that case, if it's all right with you..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Please allow me to assist you with your search for\na book to read.",
+            "choice_data_list": [
+                "You don't mind helping?",
+                "You don't mind helping?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Not at all!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "So then, have you ever wanted to read a\nparticular sort of history book? I'd like to make as\ninformed a recommendation as I possibly can."
+        },
+        {
+            "name": "Monologue",
+            "text": "Knowing Mejiro Ardan, I've got no doubt that she\nknows the genre in and out. I should see what she\nrecommends."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd like to read a history book that is...",
+            "choice_data_list": [
+                "Full of tumultuous events.",
+                "Approachable for beginners.",
+                "One you like, Ardan."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Full of tumultuous events... Then perhaps one\nthat recounts the rise and fall of an empire would\nbe to your liking?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As people are faced with the potential collapse of\ntheir very civilization, their myriad decisions\nmake waves upon history and result in a great\ndeal of tumult."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I have a fair few good reads in mind. Shall we\ntake a look at them?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before long, Mejiro Ardan gives me her\nhandpicked recommendation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words echo through my mind as I read\nthrough the history book she chose, and I get a\nglimpse into the sorts of things she holds dear..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Approachable for beginners... Then perhaps one\nthat focuses on a specific historical figure would\nbe to your liking."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Historical events of their lifetime are relayed from\ntheir perspective, much in the same way that a\nnovel's story is told through the eyes of its\ncharacters."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I have a fair few good reads in mind. Shall we\ntake a look at them?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before long, Mejiro Ardan gives me her\nhandpicked recommendation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words echo through my mind as I read\nthrough the history book she chose, and I get a\nglimpse into the sorts of things she holds dear..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A book that <i>I</i> like! Well, I'd be perfectly happy to\nrecommend one of those, but..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...I wonder what I should do.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This is highly embarrassing, but um... I simply\nhave so many favorites that I can't narrow the\nselection down."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I haven't had many opportunities like this to\nrecommend history books either...",
+            "choice_data_list": [
+                "Why don't you tell me what you like about all\nyour favorite books?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Understood. Then I shall do precisely that—in\ngreat detail, and to the best of my ability!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, as I watch Mejiro Ardan's history book\npresentation unfold..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get a glimpse into the sorts of things she holds\ndear from the way she talks so excitedly about\nher favorite history books..."
+        }
+    ]
+}

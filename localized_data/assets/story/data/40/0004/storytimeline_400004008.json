@@ -1,0 +1,229 @@
+{
+    "title": "誰が為に最強は有る",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Reporter Otonashi's article on me was surprisingly\nwell received!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Wow, so this is the kind of regimen\n<chrname> does with her trainer."
+        },
+        {
+            "name": "Passerby B",
+            "text": "I heard all those rumors about excessively brutal\ntraining, but this paints a whole different picture."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the article makes the rounds, those strange\nrumors about me gradually begin to fade away."
+        },
+        {
+            "name": "Monologue",
+            "text": "The days <chrname> and I spent with\nReporter Otonashi are over in what feels like the\nblink of an eye..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Working late again? Are you thinking about your\nrace agenda?",
+            "choice_data_list": [
+                "I see you're still at it as well."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes, I do this because I love it. That said, I'm not\nhere today to get my usual coverage on you.",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I've just now received word—you've been selected\nto participate in the Twinkle Star Climax."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Congratulations!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You finally did it! So, how does it feel?!",
+            "choice_data_list": [
+                "I had faith that we'd make it in."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Oh? I like the confidence! I take it you won't\nrelinquish the title of \"greatest\" to anyone else!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'd like to take this opportunity to snap a photo\nof you. How about one down by the training\ntrack?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Great! That was perfect, thank you!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "We certainly made the most of the empty track."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I managed to get a rare shot of a <i>trainer</i> running\ndown it at full speed!",
+            "choice_data_list": [
+                "I actually got pretty flustered when you\nsuddenly started running alongside me."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I figured that was the best way to imbue the\nimage with a sense of realism. Phew... I can't\nremember the last time I ran that hard.",
+            "choice_data_list": [
+                "You're very fast."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Hehe. You think so?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "...I've finished my reporting for the day, so what\ndo you say to a casual chat?",
+            "choice_data_list": [
+                "No objections here."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Thank you. Let's admire the scenery of the track..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "While we go for a light run!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We do as she proposes and continue our talk\nwhile jogging around the track."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "You know how you complimented my speed back\nthere? Well, back in the countryside, I was known\nfor being fast."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I was quite proud of my speed when I was a child.\nBut one day..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "An Umamusume transferred into my class.",
+            "choice_data_list": [
+                "An Umamusume, huh..."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It goes without saying, but she was incredibly\nfast! The gap between us was such that I had no\nhope of even touching her tail."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "So I quit track and field. The very idea of a human\nwinning against an Umamusume was absurd!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Reporter Otonashi rapidly picks up speed. It\ntakes everything I have to keep up with her!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "If I couldn't compete with her, I wanted to see her\ncrowned as the greatest! That was the selfish\ndream I clung to!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "She was truly incredible! It may have been a\nchildren's racing club, but she still finished in first\nplace over and over!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But then! <i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "After crossing the finish line, Reporter Otonashi\nsuddenly comes to a stop."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "...She lost in a major race. And because of that,\neveryone refused to acknowledge that she was\nthe best runner in the club."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Her destiny changed that day. She possessed real\nability, and in terms of both talent and results,\nshe was probably the club's very best..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But in the end, she decided to quit racing... It\nhappens a lot, I suppose.",
+            "choice_data_list": [
+                "It does?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Yes. A single defeat can decide one's fate. It can\nforever close off a path that was once open to\nyou."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But even now, I... I can't help but believe that she\nwas the fastest runner in the entire world.",
+            "choice_data_list": [
+                "So that's why you created the new race series?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I suppose so... Though, that's not the only reason,\nof course."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I think it's because of her that I'm using my\nposition as a reporter to show the world my\ndefinition of the \"greatest.\""
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I want as many people as possible to see it—the\nmoment a truly talented Umamusume proves her\nstrength.",
+            "choice_data_list": [
+                "That's why you want to attract a huge number\nof spectators."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Right. I couldn't realize my childhood dream..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "But the Twinkle Star Climax is my other dream.",
+            "choice_data_list": [
+                "I'm sure this will be an amazing race series."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I think so, too! Especially now that I know what\nyou'll be bringing to it."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Once again, congratulations on making it in. I'm\nso excited it almost feels like <i>I'm</i> the one who's\ngoing to be racing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day when the \"greatest\" will be decided is\nquickly approaching. <chrname> and I\nhave come this far...",
+            "choice_data_list": [
+                "(I wonder if we can achieve our dream.)",
+                "(I wonder if we can achieve our dream.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Our dream was born the day I promised I'd run\nalongside <chrname>. There's no\nturning back now."
+        }
+    ]
+}

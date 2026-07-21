@@ -1,0 +1,233 @@
+{
+    "title": "寄り道したいお年頃",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Gold City wanted a change of scenery, so\nI took her out for the day. On our way back to the\nacademy..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, Trainer. Isn't there anywhere else you want\nto go?",
+            "choice_data_list": [
+                "All that's left is to head back..."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...Oh.",
+            "choice_data_list": [
+                "Is there somewhere you wanted to drop by?",
+                "Is there somewhere you wanted to drop by?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Not especially. That's why I asked you."
+        },
+        {
+            "name": "Gold City",
+            "text": "One time, when my manager was driving me to\nwork after school, we passed by some students in\nuniform."
+        },
+        {
+            "name": "Gold City",
+            "text": "I could hear them from inside the car. They were\ntalking about how their evening out was just\ngetting started."
+        },
+        {
+            "name": "Gold City",
+            "text": "It was already getting dark, so it was like, how are\nyou \"just getting started\" when places are about\nto close?"
+        },
+        {
+            "name": "Gold City",
+            "text": "But they sounded like they were literally having\nthe time of their lives, and it just stuck with me\neven after I got to the studio."
+        },
+        {
+            "name": "Inari One",
+            "text": "Well, if it isn't City. You two out and about too?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh... Inari. No, we're actually on our way back."
+        },
+        {
+            "name": "Inari One",
+            "text": "Whaaaat?! You're goin' home? The party's just\ngettin' started!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You're missin' out! C'mon, follow me! I'll show you\nhow to spend the evenin'."
+        },
+        {
+            "name": "Gold City",
+            "text": "But...",
+            "choice_data_list": [
+                "We might as well. Maybe we'll learn something."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Are you sure?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah! Your trainer knows what I'm talkin' about!"
+        },
+        {
+            "name": "Inari One",
+            "text": "City, you ready? Time is money, so we gotta run\nat top speed!"
+        },
+        {
+            "name": "Gold City",
+            "text": "W-wait, Trainer can't keep up with us...",
+            "choice_data_list": [
+                "I'll meet you at the destination.",
+                "You two go have fun together."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Well... if you say so."
+        },
+        {
+            "name": "Inari One",
+            "text": "What's gotten you all concerned? You wanna stay\nwith your trainer that much?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I-it's not like that! I'm not a child!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha—you're right, though. If we're gonna have\nfun, we should all enjoy it together—especially\nwhen it comes to watchin' a race!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? But it's a weekday, and it's already late.\nTokyo Racecourse won't be hosting any..."
+        },
+        {
+            "name": "Inari One",
+            "text": "What do you mean?! Don't tell me you forgot\nanother one of our great racecourses!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Whoa..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hahaha, can you feel the energy? Oi Racecourse\nis where dirt and spirit come together to dance."
+        },
+        {
+            "name": "Inari One",
+            "text": "By the way, are you on that Umagram thingy too?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I'm on <i>Umastagram,</i> if that's what you mean..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, then you wanna go take some pics? There's\nthis supposedly great spot Falco won't stop\ntalkin' about."
+        },
+        {
+            "name": "Gold City",
+            "text": "Falco, huh? Then it's probably somewhere\npicturesque, yeah? Heh, Jordan might be into it\ntoo."
+        },
+        {
+            "name": "Inari One",
+            "text": "Also, there's lots of interestin' foods to try. Why\ndon't we take a look around?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, let's do it!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Wait, hold on! The field's entering the paddock\nfor the next race!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh my gosh, which should we check out? I'm\nliterally so torn!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, such an innocent soul. You must be havin' a\nblast."
+        },
+        {
+            "text": "Gold City's eyes twinkle with excitement like a\nchild's."
+        },
+        {
+            "name": "Inari One",
+            "text": "That's what I like to hear, Trainer! Sounds like you\nknow exactly how to have fun after school."
+        },
+        {
+            "name": "Inari One",
+            "text": "The trick is—no grown-ups allowed! Us students\nneed our time to ourselves!"
+        },
+        {
+            "name": "Gold City",
+            "text": "But...",
+            "choice_data_list": [
+                "Just send me a text whenever you're ready to\ncome back."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, City, don't let this chance go to waste.\nLet's go!"
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "text": "I part ways with Gold City. Later, after doing\nsome shopping at the shopping district..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, Trainer. You're on your way back?",
+            "choice_data_list": [
+                "You finished hanging out already?",
+                "You finished hanging out already?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yup! First we hit up the arcade, then we got\nhoneyade, then we went to a public bath, and..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, you're way too excited. Look, you're scarin'\nyour trainer."
+        },
+        {
+            "text": "Gold City's cheeks are flushed. It seems she really\nenjoyed her time out on the town."
+        },
+        {
+            "name": "Inari One",
+            "text": "What's this? Has the sight of a lass fresh out of\nthe bath rattled your noggin?",
+            "choice_data_list": [
+                "Rattled my... what?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, I'm <i>askin'</i> if you're swooning at the sight.\nYou got that dreamy look on your face."
+        },
+        {
+            "name": "Gold City",
+            "text": "What are you saying, Inari?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey now, hey now, what're <i>you</i> gettin' all\nflustered for? Your trainer's standin' right in front\nof <i>two</i> drop-dead beauties here."
+        },
+        {
+            "name": "Inari One",
+            "text": "Or what, did you think you were the only one?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh, Inari!"
+        },
+        {
+            "text": "Gold City blushes as Inari One laughs teasingly."
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "孤狼",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A large group of students is training together, but\nmy eyes gradually fall on the lone figure watching\nthem from afar."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Um, we're gonna do a group training session with\neveryone who's still around..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "If you're interested, would you like to join us?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Nope. Find someone else for your games."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Okay... Sorry for bothering you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian turns down their offer so harshly, I\ncan't help but wonder if there's a reason she\ndoesn't want to run with them..."
+        },
+        {
+            "name": "Monologue",
+            "text": "That day on my way home after school, I see her\nrunning on the track."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Huff, huff...</i>"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hm? What? You need something?",
+            "choice_data_list": [
+                "No, it's just..."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Then leave me alone. You're distracting me.",
+            "choice_data_list": [
+                "Just don't overdo it.",
+                "Just don't overdo it.",
+                "You just wanted to run on your own, huh?",
+                "You just wanted to run on your own, huh?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Then leave me alone. You're distracting me.",
+            "choice_data_list": [
+                "Just don't overdo it.",
+                "Just don't overdo it.",
+                "You just wanted to run on your own, huh?",
+                "You just wanted to run on your own, huh?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No, duh. I always make sure to keep my training\nbalanced."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Was that all you came here to say? Can I get\nback to training already?",
+            "choice_data_list": [
+                "Just be careful."
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Whatever..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian dismisses me curtly and continues\nrunning again."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Tch... So you saw, huh? Yeah, I focus better when\nI'm alone."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "So can you leave already?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Brian runs off without a second glance at\nme."
+        }
+    ]
+}

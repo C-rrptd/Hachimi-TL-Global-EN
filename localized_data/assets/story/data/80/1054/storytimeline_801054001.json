@@ -1,0 +1,95 @@
+{
+    "title": "ヒーローの苦悩",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm walking by the plaza..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Halt, citizen! Have you seen any scary bad guys\naround here?",
+            "choice_data_list": [
+                "Uh... bad guys?"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'll... take that as a no. So another peaceful day...\n<i>Sigh...</i>"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hear me out! I'm suffering the worst woes a hero\ncould feel right now!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I love peace, and of course I wish for it from the\nbottom of my heart..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "But I also really, <i>really</i> want to fight against some\nbaddies! I wanna fight them and shout out my\nspecial moves while I'm at it!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I wanna have epic battles like a real hero!",
+            "choice_data_list": [
+                "You'll need to preserve your strength, then.",
+                "Now's your chance to train!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Awww, what? But my problem is that I <i>don't</i>\nwanna do that..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I wanna look cool fighting, just like Carrot\nRanger!",
+            "choice_data_list": [
+                "And is Carrot Ranger always fighting baddies?"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Of course not. She'd use up all her energy if she\nwas in hero mode all the time, so she's normally in\nher Umamusume form to—"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oh!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I guess it's pretty important for a hero to preserve\nher strength too, huh!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Thank you, citizen, for teaching me such a\nvaluable lesson!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "So you're saying I should prepare for future\nbattles?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Raaaah! Yeah! That sounds so cool! In order to\nprepare for battles, I've gotta do some serious\ntraining!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Like dodging tires careening down a cliff! Or\nchasing after Pop's car!",
+            "choice_data_list": [
+                "Don't try this at home, kids."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Relax, I won't go to such extreme lengths.\nEspecially since Carrot Ranger says not to do\nanything dangerous either!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All right! I don't have time to be worrying over\nsomething so silly!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I've gotta train so that I'm ready to take on any\nwrongdoer that appears! Thanks for everything!"
+        }
+    ]
+}

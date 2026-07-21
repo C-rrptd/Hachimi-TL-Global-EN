@@ -1,0 +1,267 @@
+{
+    "title": "ごめんなさい、でもいつか――",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Since that day, I'll often spot Meisho Doto training for her big race."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Huff... Huff... Huff...</i> O-one more lap!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Huff, puff... Wheeze...</i> S-so tired... No! I've got to keep going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter how exhausted she looks, she just keeps pushing forward,\none step at a time."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "This will be... the best race everrrr!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hyah?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh! Impressive, Doto!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, the day of the Tracen Meet arrives! The stands are filled to\nthe brim with racers who have come to participate, and those here to\nsee them."
+        },
+        {
+            "name": "Classmate A",
+            "text": "Did you hear? Opera O and Doto are gonna have it out in today's\n1,800-meter race! Check out this flyer! \"Doto vs. Opera O—A\nBeautiful Symphony!\""
+        },
+        {
+            "name": "Classmate B",
+            "text": "\"A Symphony\"? Uh... Marketing aside, why Doto? I mean... She's just\ngonna goof up, right?",
+            "choice_data_list": [
+                "(Prove 'em wrong, Meisho Doto!)"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Finally, today's the day our symphony will ring louder and more\nbeautifully than any other! May the best racer win, Doto!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "R-right!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Inhale... Exhale...</i> Okay... Shoes, check. Running number, check...\nCrippling nausea... None! I've got this!"
+        },
+        {
+            "name": "Caster",
+            "text": "All the racers have entered the gate... Who among them will be the\nwinner of today's 1,800-meter? And... they're off!"
+        },
+        {
+            "name": "Caster",
+            "text": "The racers have reached the third corner. The favorite for today, T.M.\nOpera O, is in the center of the pack, but clearly has her eyes on the\nfront!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(I-I can feel Opera O's presence... Now it's just a matter of time\nbefore—)"
+        },
+        {
+            "name": "Caster",
+            "text": "We've reached the homestretch! T.M. Opera O races forward from the\noutside!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(Here she comes!)"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The only fitting ending to today's story is... me taking another step\ndown the road to victory!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(Sh-she's getting farther and farther away! Opera O really is amaz—)"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep!"
+        },
+        {
+            "name": "Caster",
+            "text": "Oh dear, Meisho Doto loses her balance! Did she trip over herself?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(Why? Why now of all times?! I-I really am a worthless—)"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"I think tenacity's one of your strong points.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"I think tenacity's one of your strong points.\""
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Urgh... Urrraaagh!"
+        },
+        {
+            "name": "Caster",
+            "text": "And she quickly recovers! Now she's got her eyes on Opera O! Two\nhundred meters to go... Will Opera O maintain her lead? Or will Doto\novertake her?!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(I can catch up... I can pass her!)"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaaah!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "T.M. Opera O and Meisho Doto are battling it out for first place! Our\nwinner is... T.M. Opera O!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Huff, huff... Sigh...</i> I couldn't catch up after all..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(Still... It's nice to see so many smiles... Maybe I was a good villain for\nOpera O after all...)"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ahhh, listen to those cheers! I feel the gazes of adoration upon me!\nExcellent! Thank you, thank you, one and all!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "However, the starring role is nothing without her supporting cast!\nThat's right, I speak of the villain with an indomitable spirit, the\ntenacious Meisho Doto!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eh?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "She went up against my brilliant genius yet still managed to put on a\nmagnificent show! Let's hear it for Meisho Doto!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooo!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-what?! Th-thank you very much, b-but why?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The persistence you showed in your training was beyond my\nexpectations, just as I expected! You proved once again I was right\nabout you!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh? B-but wasn't it just a coincidence that you chose me?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ha ha ha! What are you talking about?! In any case, I look forward to\nracing you again, Doto!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Meisho Doto stands there, motionless, as the thunderous applause\nrushes over her once more."
+        },
+        {
+            "name": "Classmate A",
+            "text": "What a race! I was so scared when I thought she was gonna fall! Nice\nrecovery, Doto! You really did it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nobody's mocking Meisho Doto now. Excited, I rush down to her side."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So you came to watch the race too... Thank you. I-I'm just glad I was\nable to finish... Ehehe..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But you know... I feel like I took a step forward today."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's clearly downplaying what she accomplished today, as well as\nhow hard she worked. Glancing down, I see all the bandages on her\nlegs."
+        },
+        {
+            "name": "Monologue",
+            "text": "This racer has fallen countless times and cried innumerable tears. Yet\nevery time, she wiped her eyes and picked herself back up.",
+            "choice_data_list": [
+                "You're a tough one.",
+                "You're a tough one."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Huh?! Wh-where did that come from?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If it's change she wants, I know she has what it takes to make it\nhappen. After all... she never knows when to quit.",
+            "choice_data_list": [
+                "I want to see where that strength takes you.",
+                "I want to see where that strength takes you."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-wait... Does that mean...",
+            "choice_data_list": [
+                "Please be my trainee!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "What?! A-a-are you sure you want m-m-m-me?!",
+            "choice_data_list": [
+                "Positive!",
+                "Positive!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "A-actually, I... I thought of your words while I was racing today!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "You told me my tenacity is my strength... A-and that seemed to push\nme forward. S-so, u-um…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "You told me my tenacity is my strength... A-and that seemed to push\nme forward. S-so, u-um…"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-if you're by my side, I feel like I can change! So, um, I look forward\nto working with you, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Stumble!</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hyah! I-I stepped on your foot?! A-are you okay?! Trainer?!"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "title": "広がる！ステップ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tokai Teio",
+            "text": "Hup! Hah! ♪ Nice, a new high score!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day while passing by the arcade, I spot Tokai\nTeio playing a dance game while surrounded by a\nlarge crowd."
+        },
+        {
+            "name": "Crowd",
+            "text": "You're amazing, Teio!\nSo cool! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "After every song, the onlookers erupt into cheers\nand applause. I can't imagine she's anything less\nthan delighted by the support. However..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Hm."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Sigh...</i> What should I do?",
+            "choice_data_list": [
+                "Is something the matter?",
+                "Is something the matter?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hm? Oh, I know you. You watched me dance the\nother day too, right?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Then you remember how hard I worked to boost\nthat one game's popularity, right?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, lately, it feels like everyone's just focused\non watching me. Hardly any of them seem\ninterested in the game itself..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I mean, don't get me wrong. I love all the praise\nI'm getting, but still...",
+            "choice_data_list": [
+                "You want everyone to play the game too, right?",
+                "You want everyone to play the game too, right?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Exactly! What can I do to make that happen\nthough?",
+            "choice_data_list": [
+                "Why not find someone else to play the game?",
+                "What if you dance with the audience?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What? Instead of me? Why?!",
+            "choice_data_list": [
+                "They might find the game more approachable if\nsomeone else played it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio is so incredibly skilled at the game\nthat it might actually be turning people off the\nidea of playing it themselves."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, I hadn't thought about it from that\nperspective. But that makes sense..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, then! It's time to recruit a helper!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So did you pick me for this because I seem like I'd\nbe terrible at dance games?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What? I know you can dance, Nature. I picked\nyou because it looked like you had time on your\nhands."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, there's no need to glare like that! Look, the\ngame's about to start!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wha?! H-hold on! I still don't know how to play!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You'll be fine! I'll help you out. ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wh-what do I do?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Copy me! Just step to the rhythm."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's it! You're doing great! ♪ Now keep it up\nand follow my lead!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Heh."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait, I got the third-highest score?! <i>Sigh.</i> Even\noutside of races, I end up in third..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's incredible for your first time playing!\nYou've still got nothing on me, though. ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You could've kept that last part to yourself... But\nyeah, that was kinda fun."
+        },
+        {
+            "name": "High School Girl A",
+            "text": "I thought just watching that game was fun, but maybe I\nshould try playing it too..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. I'd call that a smashing success."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What is?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You did great, Nature! On top of all the praise\nI've heaped on you, I'm also going to treat you to\nsome honeyade. ♪"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...But why?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Dance together? Why?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Playing alone probably feels daunting, but I\nfigure people might be more willing to try if they\nhave someone dancing with them."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Now that you mention it, that game <i>does</i> have a\ntwo-player mode..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, I guess I could help out. But I don't want to\ndance with just anyone.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I mean, this is <i>me</i> we're talking about! I shouldn't\nbe giving people the honor of dancing with me\nfor nothing."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's right. If they want that honor, they'll have\nto work for it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Listen up! If you want a chance to dance with me,\nraise your hand!"
+        },
+        {
+            "name": "Crowd",
+            "text": "...Hm?\n<i>Gasp!</i>"
+        },
+        {
+            "name": "Crowd",
+            "text": "Me, please! I want to dance with you!\nOoh! Me, me, me!",
+            "choice_data_list": [
+                "(She's, uh, certainly popular!)"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, now we're talking. ♪ I can't possibly dance\nwith all of you..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So how about this? Let's have a little tournament,\nand the last player standing gets to dance with\nme!"
+        },
+        {
+            "name": "Crowd",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "High School Girl A",
+            "text": "I really want to dance with Teio, but I've only ever\nwatched her play this game..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, then I guess you're not interested in taking\nmy hand."
+        },
+        {
+            "name": "High School Girl A",
+            "text": "...!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That's not good enough. You need to put in the\neffort. But I know you can try your best for me...\ncan't you?"
+        },
+        {
+            "name": "High School Girl A",
+            "text": "Ah! Of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins a sudden competition where the\nprize is the chance to dance with Tokai Teio. It\ntakes everyone a while to get used to the game,\nbut..."
+        },
+        {
+            "name": "High School Girl A",
+            "text": "Wh-whoa! My legs keep getting tangled up!"
+        },
+        {
+            "name": "High School Girl B",
+            "text": "Hehe! Same, but this is pretty fun, huh? It's hard,\nbut I really want to improve my score!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Good! They all look like they're having fun. What\na perfectly delightful development! ♪"
+        }
+    ]
+}

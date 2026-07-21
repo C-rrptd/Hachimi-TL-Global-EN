@@ -1,0 +1,231 @@
+{
+    "title": "オカルト？ノンノン☆これがリアル風水",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Tip-tap, tip-tap!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Come on, hurry up! This way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The tryouts are about to start, but Copano Rickey feels a strange shift\nin the atmosphere. She runs into the building, and as she leaps up the\nstairs..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Good! From here, I can...",
+            "choice_data_list": [
+                "Why are we on the roof?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Because when you want to see the whole picture, the best way is to\nget a bird's-eye view from above! This is geographical feng shui in\naction!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Let me see if I can find what's causing this qi disruption..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, over there! In that corner! A lot of trainers are gathering in one\nspot. But why?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Is it because of the renovations on the track? Oh, I know—the next\nrace has a lot of front runners, so they probably want to watch the\nfight for position. The two just so happened to coincide!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer, it's not safe for them to run like this! We have to stop the\nrace from happening!",
+            "choice_data_list": [
+                "We can't do that. Besides, we wouldn't make it\ndown there in time."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah... Can't we shout?! I don't know if they'd believe us over the\nphone."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "At least the disruption doesn't look like it'll get any bigger.\nHopefully, the five elements can ward off misfortune long enough to\nsee them through..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The race begins..."
+        },
+        {
+            "name": "Racer A",
+            "text": "Hey, run straight! Are you even looking?! Out of my way!"
+        },
+        {
+            "name": "Racer B",
+            "text": "You're the one who needs to move! Ugh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The race ends without any disqualifications or tumbles, but as Copano\nRickey predicted, it was quite the rough race."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Phew, I'm so glad nothing disastrous happened. Thankfully, it wasn't\ntoo bad.",
+            "choice_data_list": [
+                "How did you know something was wrong? By\ninstinct?",
+                "How did you know something was wrong? By\ninstinct?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Instinct? Not at all! Feng shui isn't something wishy-washy like that!\nIt's a well-established discipline!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Remember when we looked down from the roof? Well, that's when I\nrealized."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "In the qian direction... that is to say, the northwest, a group of\ntrainers had gathered to watch the race."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Their presence pulled the racers' attention towards the qian direction,\nand when everyone's qi is in the realm of do-or-die competition..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's only natural for racers to miss small things, like being careless\nwhile turning the corner in front of them, or even crashing into\nanother racer."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "In other words, you have to always be on the lookout for inauspicious\nturns and the borders of the eight trigrams."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I could see all of that through feng shui. Not just me, but anyone\ncould've seen that coming if they had the proper knowledge."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Feng shui isn't superstition. It's an ancient practice that has been\nhoned over 3,000 years—a study of environmental luck!",
+            "choice_data_list": [
+                "It's a study, is it?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought she was just the superstitious type, but maybe I was wrong.\nShe did back herself up, and her predictions even came true."
+        },
+        {
+            "name": "Monologue",
+            "text": "The feng shui-obsessed Copano Rickey might be a lot more sensible\nthan I first thought. Who knows? She could be hiding limitless\npotential."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "See? Now you understand how amazing feng shui is, right? It lets you\nsee into the future! I bet you can't wait to tell everyone about it!",
+            "choice_data_list": [
+                "I don't know if I'd go that far...",
+                "I don't know if I'd go that far..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "What?! You're a tough nut to crack, huh?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well then, I'll give it one last push! I'm in the next race, so watch me\nrun!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'll show you the power of feng shui in action! ☆ After this, you won't\nbe able to deny it anymore. It'll be the best proof yet!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The qi of the earth is always with me. When I get really into my\nrunning, I can even hear its voice! Here I go! Rickey! ☆ Lucky! ☆\nGreat victory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm left pondering about the earth's voice as she heads off to run in\nthe next tryout—a mile race on turf."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(It's started! Okay, no problems so far, and the formation is as\nexpected. If I imagine the eight trigrams lying over the track, it's easy\nto read my place.)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "For the moment, I'll keep up this pace. ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(Here! Right before the last corner! This is where it comes down to\nreading. I've got to pay attention to the qi around me...)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All that's left is to listen to the earth's voice and run toward the flow\nof qi..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Now, where will it lead me today?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Wait, what? Huh?! What's going on?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I can't hear the earth's voice today! No, this can't be happening!\nAaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey loses the race, failing to show off the power of feng\nshui that she had so confidently declared."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "No, I'm telling you, that's not how it usually goes! Normally, the\nearth's voice guides me across the finish line in first!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Something was off today. The balance of the elements? Or the\ninfluence of the wind? Maybe I was thrown off by the trouble in the\nlast race."
+        },
+        {
+            "name": "???",
+            "text": "Rickey, you were a mess out there... But I guess it was inevitable.\nPredictable, even."
+        },
+        {
+            "name": "???",
+            "text": "You've got to stop going on and on about feng shui. Wake up and\nput that energy into training!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, Tarumae... So you saw my race, huh?",
+            "choice_data_list": [
+                "Um, and who might you be?",
+                "Um, and who might you be?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Hello, I'm Hokko Tarumae, a friend of Rickey's. I come from\nTomakomai, where I perform as a local idol."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Rickey constantly pushes her feng shui onto me, and frankly, I'm tired\nof it. I hope she comes to her senses soon and stops."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You mean you still don't believe me? Feng shui really <i>is</i> powerful!\nThat said..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I don't know what went wrong today. Oooooh, I just don't get it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey laments her defeat with Hokko Tarumae. Is there\nreally any truth to feng shui? And if there is, why didn't it work for her\ntoday?"
+        }
+    ]
+}

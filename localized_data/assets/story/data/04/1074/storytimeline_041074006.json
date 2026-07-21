@@ -1,0 +1,240 @@
+{
+    "title": "Walking out of Step",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On my day off, I find myself strolling aimlessly through town when I\nspot a familiar face."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh? If it isn't Trainer. Good day, what a lovely coincidence this is.",
+            "choice_data_list": [
+                "Are you on your way somewhere?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I am. Ah, which reminds me. Trainer, if you happen to have time..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Would you like to accompany me to the amusement park?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You see, Father went out of his way to send me a pair of tickets, but I\nnearly forgot about their expiration date."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. I'm loath to admit it, but if you hadn't bumped into me, one\nof the tickets would have gone to waste.",
+            "choice_data_list": [
+                "That reminds me, isn't your father...",
+                "That reminds me, isn't your father..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, Father operates an amusement park. Which means, I too am\nquite acquainted with these kinds of places."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That is why... Oh my, isn't this a perfect opportunity?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. Today, I'll be <i>your</i> guide for the day! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, the unusually insistent Mejiro Bright takes the lead and\nguides me through the amusement park."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, the wait for this ride... is expected to be one hour. Um, perhaps\nthat's a little too long?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, let us look for a different ride to enjoy.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "(<i>The</i> Mejiro Bright is worried about the time?!)"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, this one has a 120-minute wait time... 120 minutes, which means\nwe'll have to wait two hours."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Unfortunately, we will have to forego this one as well. A two-hour\nwait is double that of the previous ride's, after all."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, this ride will take three hours... When you think about it, waiting\ntimes at amusement parks are rather long, aren't they?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot a few rides with more reasonable waiting times, but it seems\nlike Bright is going out of her way to avoid those."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Efficiently enjoying an amusement park... It's harder than you'd think,\nisn't it? Um, next up is..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Oh!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, Trainer! Look over there. That ride says it has a\nfifteen-minute waiting time!",
+            "choice_data_list": [
+                "Hooray!",
+                "Hooray!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "However, my cheers of joy quickly fade away as I realize why exactly\nthis ride has such a short waiting time."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CLICK... CLACK... CLICK... CLACK...</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Here it comes... It's the big drop..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CLACK!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>WHOOSH!</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Whee, we're falling...",
+            "choice_data_list": [
+                "AAAHHHHH!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The ride we're on is called, \"Extreme Revolution: Hell's Fury.\" It's\nfamous for being one of the most intense thrill rides around..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But thanks to testimonials like, \"My eardrums burst,\" and, \"I straight\nup fainted,\" most people don't dare go near, let alone ride this beast\nof a roller coaster."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was an experience I wouldn't mind <i>not</i> going through\nagain. Getting off the ride, I sit down on the nearest bench and catch\nmy breath."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, are you feeling okay? My, your eyes are spinning round and\nround.",
+            "choice_data_list": [
+                "I-I'm okay...",
+                "I-I'm okay..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Um, I had hoped that taking an efficient route would give you the\nmost enjoyable experience."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But it looks to me like you're even more fatigued than usual. Is\nsomething the matter?",
+            "choice_data_list": [
+                "I'm having a great time!",
+                "I'm having a great time!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I let Bright know that just walking around the park and chatting is\nalready plenty fun for me."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, is that so?",
+            "choice_data_list": [
+                "Let's go on that ride next, it looks relaxing.",
+                "Let's go on that ride next, it looks relaxing."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That ride... Ah, you mean the Ferris wheel. But what about the\nhour-and-a-half waiting time?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If we wait there, we'll likely not have any time left afterwards. Are you\nokay with that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I nod my head in agreement, Bright looks like she wants to say\nsomething, but stops. And so, we go and line up for the Ferris wheel."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, the sun has already set. Ah, but look down there. The park's\nlights are all on now."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It's so... beautiful. From up on this Ferris wheel, I can see everyone in\nthe park."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee... There's some guests riding that roller coaster from earlier.\nAnd over there, I see a parade about to begin."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Everyone looks like they're having so much fun. I see the happy faces\nof satisfied guests everywhere I look."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And yes, of course, I, too, am content."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer, thank you very much for today.",
+            "choice_data_list": [
+                "I should be the one thanking you."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You know... being a guide is harder than it looks. Even riding the\nFerris wheel was one of your ideas, not mine."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But... thanks to you, I'm so happy! I couldn't imagine a better evening."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Teehee. Even if we run into a roadblock, with the two of us\ntogether, I feel as if we can overcome any hurdle."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well then, let us head home. It's past my curfew, but we'll be fine if\nit's the two of us.",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes, as long as we apologize together."
+        },
+        {
+            "name": "Monologue",
+            "text": "When we finally get back, the dorm leader gives us a lengthy lecture.\nStill, it's a small price to pay for a fun day together with Bright!"
+        }
+    ]
+}

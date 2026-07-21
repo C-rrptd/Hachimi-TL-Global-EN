@@ -1,0 +1,201 @@
+{
+    "title": "Yum, Yum, Mun!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Event Announcer",
+            "text": "The next scrimmage is a 1,800-meter turf run. The track is still a bit\ndamp from last night's rain, so we might see some unexpected results!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "One, two, three, four. Two, two, three, hey! Three, two, three, four.\nFour, two, three, hey!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tannhauser is taking part in a scrimmage race today. Among her\nopponents are the formidable Mihono Bourbon and Rice Shower."
+        },
+        {
+            "name": "Monologue",
+            "text": "She hasn't made much of a name for herself yet, so there aren't many\ncheers for her."
+        },
+        {
+            "name": "Student A",
+            "text": "Oh, so Machitan's running today, I see! I heard that she did really\ngreat in that special training session the other day."
+        },
+        {
+            "name": "Student B",
+            "text": "Yeah, and not only that, she even managed to keep up with Bourbon\nand Rice in group sessions!",
+            "choice_data_list": [
+                "(Looks like she has some fans.)"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "It would appear that word's getting out about our ambitious little\nfriend."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Machitan! Go for it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Stirred by Twin Turbo's hearty words of encouragement, cheers begin\nto ring out from the stands."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wowie, now there's some pressure! All right, head in the game, me.\nI'm gonna win this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Head held high after the boost from the crowd, Matikanetannhauser\nheads for the starting gate."
+        },
+        {
+            "name": "Event Announcer",
+            "text": "Mihono Bourbon with a five-... six-... seven-length lead! The fight for\nsecond place is heating up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon prevails with a wide lead in the homestretch, and\nMatikanetannhauser is unable to overtake Rice Shower for second\nplace."
+        },
+        {
+            "name": "Event Announcer",
+            "text": "Mihono Bourbon is way out front! It's a landslide victory!"
+        },
+        {
+            "name": "Student A",
+            "text": "I kind of thought that Machitan would, well... stand out a little bit\nmore than that..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Amidst the thunderous applause for Mihono Bourbon, barely a word\nescapes the mouths of those who had been cheering for my partner.",
+            "choice_data_list": [
+                "(I really thought we had it this time... I hope\nshe's okay.)"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sigh...</i> Sorry, Trainer. It looks like I still got a long ways to go."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I wonder if the mushy turf ended up hurting me a bit. I'll need to build\neven more leg muscle... somehow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking about how disappointed Tannhauser must be, I resolve to\nget back to the drawing board to build a new regimen. But then..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm feeling positively peckish right about now. Think I'll head to the\ncafeteria! Ehe, wonder what I should get. Udon's sounding pretty\nyummy, I think.",
+            "choice_data_list": [
+                "(...Now?)"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Time to dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We begin to eat lunch without one word about the morning's race. I\nwonder if my concern is somewhat misplaced."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm? What's up? You're kinda starin' off into space.",
+            "choice_data_list": [
+                "It's just that... I thought you might be feeling a\nbit down..."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Feeling down? Because of what?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess she's completely moved on. I choose my next words carefully\nso as not to cause any undue stress."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, so that's it! It's true that I was pretty disappointed right after the\nrace, but that means I just have to keep practicing and improving."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So... yeah. No time to dwell on that when I could be dwelling on this\nbowl of noodles instead. And on how to adjust my training plan, of\ncourse!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, these carrot bits are <i>dee-lish!</i>",
+            "choice_data_list": [
+                "(How can she be acting so normal about all\nthis?)"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh yeah, I get that."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey, everyone! Whaddya get?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pretty sure I get exactly what your trainer here's thinking. You were\nprobably wondering how she can act all normal after something like\nthat, right?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tannhauser's always the calmest of the bunch out on the track."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Surely you've never seen her cry or fuss when things don't go her way\nduring training, yes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's certainly true, now that I think about it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehe, I'm okay, I'm okay! My legs are just a little shaky. Looks like I've\nstill got work to do."
+        },
+        {
+            "name": "Student B",
+            "text": "Really? 'Cause you were pretty awesome up till those last three\nhundred meters. You were right on her tail!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff... huff...</i> Ha... I don't... think sooo!"
+        },
+        {
+            "name": "Robber A",
+            "text": "It's been almost twenty minutes straight of this. How is she not totally\nexhausted by now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's always acted really... <i>normal.</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "People don't seem to pick up on that about her. I doubt <i>she's</i> even\nthought that hard about it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wait... wait... Did you just compliment me?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "That's simply how she is, so please continue to look after our dear\nfriend."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oho, come on now. What are you two? My parents?"
+        },
+        {
+            "name": "Monologue",
+            "text": "They might not be her parents, but they have shown me a little more\nof Matikanetannhauser's hidden greatness."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tenacity seldom wavers, and that's a sort of strength few can\nachieve."
+        }
+    ]
+}

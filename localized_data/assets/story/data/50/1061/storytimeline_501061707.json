@@ -1,0 +1,113 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've come to a shrine with King Halo."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sigh.</i> I haven't been feeling myself lately..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Maybe I should say a little prayer—just enough\nfor some peace of mind.",
+            "choice_data_list": [
+                "We've come all the way here, after all."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes, I believe I shall give the gods the\nopportunity to make my wishes come true!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Why don't you say a prayer too? Just waiting\naround would be a waste of time."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I pray with King Halo."
+        },
+        {
+            "name": "King Halo",
+            "text": "Grant me a tremendous victory in the next race..."
+        },
+        {
+            "name": "King Halo",
+            "text": "And may my road to glory continue to shine with\ndazzling light!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, and also, I want good health, no traffic\naccidents, and lots of joy for the younger\nstudents!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Standing beside her, I can hear King Hero voicing\nher prayers with unusual seriousness."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm... I think that's everything. May all my\nwishes be granted!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, a gentle breeze caresses my cheek."
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, what a pleasant breeze. Hehe."
+        },
+        {
+            "name": "King Halo",
+            "text": "I feel a little better somehow. This god is a good\nlistener!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Whew... To have even the gods on my side feels\nlike my charm has bewitched the heavens."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's a first-rate Umamusume for you! ♪\nOhohoho! Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following that, King Halo's performance in\ntraining improves."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, a strong gust of wind blows through,\nrustling the surrounding trees."
+        },
+        {
+            "name": "Crow",
+            "text": "<i>Caw! Caw!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-wh-what was that?! I felt an ominous\npresence!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-what could have drawn these ill-fated omens\nto me?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh wait, I get it... You're trying to get me to buy\na lucky charm, aren't you?"
+        },
+        {
+            "name": "King Halo",
+            "text": "What greedy little gods you are... Fine, I'll play\nalong just this once."
+        },
+        {
+            "name": "King Halo",
+            "text": "I should buy one soon before they sell out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, King Halo clutches her new charm with\na worried expression on her face."
+        }
+    ]
+}

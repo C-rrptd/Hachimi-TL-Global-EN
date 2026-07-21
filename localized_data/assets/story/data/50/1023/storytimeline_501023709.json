@@ -1,0 +1,81 @@
+{
+    "title": "レース入着",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "So this is the current extent of my abilities..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I can't afford to be so careless, especially not\nafter discovering such a flaw in my calculations."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm... Perhaps it'd be best if I go back to the\ndrawing board and start from the ground up."
+        },
+        {
+            "text": "It'd be a shame if she abandoned all her hard\nwork, but the choice is ultimately hers.",
+            "choice_data_list": [
+                "Some of it is good!",
+                "Some of it is good!",
+                "I think you're right.",
+                "I think you're right."
+            ]
+        },
+        {
+            "text": "It'd be a shame if she abandoned all her hard\nwork, but the choice is ultimately hers.",
+            "choice_data_list": [
+                "Some of it is good!",
+                "Some of it is good!",
+                "I think you're right.",
+                "I think you're right."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you. I really appreciate you helping me\nwith my theories and calculations."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're right. The path to success is paved with\nfailure. Nothing I've done has ever been a waste\nof time."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, then! First, let's identify the parts of the\nstrategy that did work. If we do that, then—",
+            "choice_data_list": [
+                "Your next race will end in victory instead!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes! I'll do whatever it takes to perfect my\nwinning equation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Right! I'll strike the iron while it's hot and rework\nmy calculations now while my memory of the race\nis still fresh."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's head back right away... Wait—before we go\nback, I need to buy some bananas.",
+            "choice_data_list": [
+                "Uh, why?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Because the glucose they provide is excellent for\nboosting brain function. They're essential for long\nbrainstorming sessions."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "For the record... I don't want to buy them simply\nbecause I want to eat bananas!"
+        },
+        {
+            "text": "Biwa Hayahide and I grab some bananas from the\nsupermarket before heading back, and then we\nput in some long hours going over race data."
+        }
+    ]
+}

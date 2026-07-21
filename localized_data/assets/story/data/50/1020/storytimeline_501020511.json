@@ -1,0 +1,250 @@
+{
+    "title": "闇の仕事？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Seiun Sky during lunch time. Just as I'm\nabout to call out to her..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Sei, that thing you gave me the other day was so\ncool! I feel like a million bucks!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh! There are other amazing products too. I've\nbeen making serious bank. Want me to get some\nof those too?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Please! Oh, hold on! Is it okay if I tell some of my\nfriends?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sure thing. That way everyone benefits. You just\ngo ahead and spread the good news! See ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "What a shady exchange. I mull over whether I\nshould say something when..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Sky! Stop your dubious dealings!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa! You scared me there! I dunno what you're\ntalking about though."
+        },
+        {
+            "name": "King Halo",
+            "text": "Don't play the fool! \"Making bank,\" \"spread the\ngood news\"! It's crystal clear what you're up to!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Ohhh, I get it. You mean <i>that.</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Welp, this is bad. I'm busted... Gumshoe King has\ndone it again."
+        },
+        {
+            "name": "King Halo",
+            "text": "You are sorely mistaken if you think you can get\naway with this on my watch! Now, clean up your\nact and—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait, before that. Do you actually have any kind\nof proof?"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Hm?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, you <i>are</i> a detective, right? I'm guessing\nyou've got some decisive evidence or whatever?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Of... of course I have! Don't underestimate my\nskills in investigation!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ooh, I'm really shaking in my boots now. Guess I'd\nbetter get my affairs in order."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ngh... fine, have it your way. I'll do whatever it\ntakes to catch you!"
+        },
+        {
+            "name": "King Halo",
+            "text": "...You over there! Sky's trainer! You've been\neavesdropping all the while!",
+            "choice_data_list": [
+                "Me?!",
+                "Me?!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Assist with my investigation! You're concerned\nabout Sky too, aren't you?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "As such, I shall grant you the right to suggest a\nmeans of obtaining evidence! Now, speak!",
+            "choice_data_list": [
+                "Try tailing her.",
+                "Catch her red-handed!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Surveillance, I see! In that case, we must begin at\nonce!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Phew! Okay, one more lap to go."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Sky</i> is training by herself? How suspicious!\nSomething must be afoot!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait a sec, is that... Gumshoe King? I see my\ntrainer's acting as your Watson, then."
+        },
+        {
+            "name": "King Halo",
+            "text": "It's rather rare for you to be training so\ndiligently... This means you're clearly up to\nsomething!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, I guess it might look a little off... but what\ncould lil' ol' me possibly be up to?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Th-that would be, um... the illicit manufacturing\nof skill-enhancing cleats! Or some such!"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Wait a moment—this is a diversion! You've\ndistracted me with your individual training while\nsome shady deal is underway elsewhere!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Boy oh boy, that's some imaginative deducing\nthere. Gotta hand it to you, King."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! But of course! Now, accept your\ndefeat!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, sure. But maybe you'd better accept yours\nfirst? If you'd kindly look this way..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "These are from back home. They're our prized\nveggies."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Huh?"
+        },
+        {
+            "name": "King Halo",
+            "text": "What?! You've just been handing out\nvegetables?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep. I got a boatload of them sent from home.\nI'm overflowing with energy from all the nutrients\nI've been getting."
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-why didn't you tell me?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehehe, let's just say I wanted to see how much\ndetecting the great Dumbshoe King was actually\ncapable of... Catch ya later!"
+        },
+        {
+            "name": "King Halo",
+            "text": "W-w-wait right there! Skyyyyy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo chases after Seiun Sky, and I'm left\nspeechless as I watch the two of them running\noff..."
+        },
+        {
+            "name": "King Halo",
+            "text": "I see! Concrete proof <i>would</i> be more reliable than\nmere scraps of evidence we might find here or\nthere!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We meet up with some of King Halo's pals and\narrange a stakeout..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Boy, I'm beat... It sure isn't easy lugging <i>this</i>\naround all day long."
+        },
+        {
+            "name": "Bob Cut Umamusume",
+            "text": "Umm... King? This is Point A. Sky is currently\nresting. From what I can tell, she's got a\nsuspicious bag under her arm."
+        },
+        {
+            "name": "King Halo",
+            "text": "All right, this is our chance! All units, proceed!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Accept your defeat, Sky! You've been caught\nred-handed!"
+        },
+        {
+            "name": "Cat-eyed Umamusume",
+            "text": "We've got you surrounded!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yikes! It's the King Detective Agency!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so the contents of the dubious bag are\ninspected..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-what is this? There's nothing but vegetables\nin here..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And that's precisely all I've been handing out,\nvegetables sent to me from back home. My\nparents are farmers."
+        },
+        {
+            "name": "King Halo",
+            "text": "Impossible... Was this all brought about by my\nown misunderstanding?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heh-heh-heh, well, you sure put on a heck of a\nshow, Dumbshoe King."
+        },
+        {
+            "name": "Cat-eyed Umamusume",
+            "text": "Oh man... Still, those vegetables look really\ndelicious, Sky."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, I can drop some off for you later. I've got\nloads."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Guess that means one more place to stop by on\nmy delivery run. That's great muscle training and\nall, but it'll sure be tough."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I could really use some assistance... Maybe from a\ncertain someone who suspected I was up to no\ngood."
+        },
+        {
+            "name": "King Halo",
+            "text": "O-oh fine! By way of an apology, I'll help you out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, with King Halo's help, Seiun Sky finishes\nhanding out all her vegetables after a few days."
+        }
+    ]
+}

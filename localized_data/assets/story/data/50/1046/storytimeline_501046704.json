@@ -1,0 +1,209 @@
+{
+    "title": "メモリー☆聖地巡礼",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, we bump into Eishin Flash out in town."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hello, Falcon. Are the two of you on an outing?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yep! ♪ Even an Umadol has to take a breather\nevery now and then! ☆"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I heard your trainer helped you with your studies."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So the reason Falcon has needed fewer extra\nclasses must be thanks to your tutelage."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hold up, Flash! You can't just go around in public\nblurting out stuff about an Umadol needing extra\nclasses!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What do you mean? I just meant to say that your\ntrainer must be an excellent instructor."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Geez... Flash can sure be clueless sometimes. Did\nshe really have to say that?",
+            "choice_data_list": [
+                "So you've been doing well at school?",
+                "So you've been doing well at school?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, the less extra classes I have to take, the\nmore I can concentrate on training and\nperforming, right?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "There's still a very long way to go until I become a\ntop Umadol!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I thought, she's actively trying her hardest to\novercome her weaknesses. In that case...",
+            "choice_data_list": [
+                "How about I take you out for a change of\nscenery as a reward?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Whoa, really?! No way! ♪ Ooh, wherever should\nwe go..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "How about a trip down memory lane? It'll be like\na Falco pilgrimage! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hehe, do you remember that first tryout race we\nfaced as a team?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's the same track I always run on, but there's still\nsomething nostalgic about it. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I spent so much time practicing karaoke, I can\neven sing rock and enka now. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I need to be able to cover any genre if I want to\nbe a first-rate Umadol! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "This was where we first met, at my street\nperformance."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...It's thanks to you that I can give my all in both\nrunning and performing."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I hope you know just how grateful I am for that! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hehe, what a gorgeous sunset! It makes me want\nto sing. ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "♪♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon looks as brilliant as when I saw her\nperform for the first time.",
+            "choice_data_list": [
+                "Falco! Falco!",
+                "You've grown a lot.",
+                "You've grown a lot.",
+                "I'm glad I became your trainer.",
+                "I'm glad I became your trainer."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon looks as brilliant as when I saw her\nperform for the first time.",
+            "choice_data_list": [
+                "Falco! Falco!",
+                "You've grown a lot.",
+                "You've grown a lot.",
+                "I'm glad I became your trainer.",
+                "I'm glad I became your trainer."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Call my name and I'll turn around! ☆ I'll shine\nright on your heart! ☆",
+            "choice_data_list": [
+                "Shine! ☆ Shine! ☆"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm the cutest Umadol! ☆ Full of sparkling\ndreams! ☆ Smart Falcon! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahaha! ♪ You're the best call and response\npartner in the whole wide world, Trainer! ☆",
+            "choice_data_list": [
+                "It's because I've got tons of experience.",
+                "It's because I've got tons of experience."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "True! ☆ I'm so glad to have you as my first fan,\nalways helping me chase my dreams! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna work even harder from here on out, so\nstay by my side! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, I find myself clapping. Her\nsinging and dancing have both improved, and she\nshines brighter than ever."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehe! ☆ Thanks! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Let me give you something special as thanks for\nyour support! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Are you ready? ☆ Three, two, one! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click!</i>"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Here you go, Trainer! A photo for my number one\nfan, to remember today's pilgrimage by! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Let's make a lot more memories from here on out,\nokay? ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, me too. I'm so happy that you're my\ntrainer..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "If it wasn't for you, I'd still be limiting myself to\nonly turf..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I would never have realized that I could shine as\nan Umadol by racing on dirt as well."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...Eheheh. It's a bit embarrassing to come out and\nsay this kinda stuff, huh?",
+            "choice_data_list": [
+                "...Yeah, maybe a little."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But I still think I need more experience to become\na top Umadol."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "There's still a long road ahead... but I can keep\ngoing because you're by my side."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm counting on you, Trainer! ☆"
+        }
+    ]
+}

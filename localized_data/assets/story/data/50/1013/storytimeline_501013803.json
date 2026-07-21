@@ -1,0 +1,272 @@
+{
+    "title": "それはきっと、青写真よりも",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's breaktime at summer camp. I find Mejiro\nMcQueen leafing through a pretty hefty book.",
+            "choice_data_list": [
+                "What kind of book do you have there?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, are you interested too, Trainer? Care to join\nme?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen beckons me over. I sit down\nnext to her and take a look at the book..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's a photo collection which chronicles the\nglorious moments of the Mejiros."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This photo is but one of many. It shows a plaque\nthat was earned after an arduous 3,200-meter\njourney, a very important memory to my\ngrandmother."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "For every Mejiro, there lies a path forged by the\ngreats. Which is why one day..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I, too, want to stand on that peak. I will achieve\nthe same dream that was cherished by the Mejiros\nbefore me."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes her time viewing each photo in the\nalbum. Her eyes give away the emotions welling\nup inside."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...?",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Nothing, it's just that this one caught my eye. It\nhas a different feeling to the others."
+        },
+        {
+            "name": "Monologue",
+            "text": "The photo is a scenic view taken from a hill.\nObserving it, I can almost hear the whistling\nbreeze.",
+            "choice_data_list": [
+                "...What a beautiful place.",
+                "...What a beautiful place."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Oh my... that's a photo one of our predecessors\ntook during their own summer camp."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, Ardan? How long have you been there?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. Would you like me to tell you where this\nphoto was taken? I will say, it's a bit of a steep\ntrek, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan explains the route, likening the hike\nto a challenging training session."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "According to the instructions Ardan gave us, first\nwe enter the dense thicket on the left and climb\nthe slope to the top. All right, let's make haste!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff...</i> Phew...\nThe breeze feels so nice. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Together with a jovial Mejiro McQueen, I journey\nto the photo's location. However..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff, huff...</i> Trainer, I believe we still have some\nways to go!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eeeek! Is that a hornet?!",
+            "choice_data_list": [
+                "Let's make a break for it!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff, huff...</i> The grass is dense, and there are\ninsects aplenty. I suppose this is the great\noutdoors, though..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen, despite the hurdles, chooses to\npress on. I point out a detour on the map that\ncould make it easier.",
+            "choice_data_list": [
+                "(...I don't want her to push herself any further.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no road out here to follow. Plus..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The scenery we'll find is bound to be the same as\nthe photo. As beautiful as it is..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gasp...</i> Is this the br-bridge?! <i>Gulp.</i>",
+            "choice_data_list": [
+                "...We can always turn back."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...But we haven't made it there yet.",
+            "choice_data_list": [
+                "Why do you want to see the scenery so much?",
+                "Why do you want to see the scenery so much?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh! Well, that's because... I've only seen it in the\nphoto..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I haven't experienced it for myself. If I limit my\ndreams to photos and imagination, I'll never make\nthem a reality."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'll be fine, Trainer. As long as your hand is here\nto guide me, I can proceed forward, past this old\nbridge and my apprehensions.",
+            "choice_data_list": [
+                "...I understand."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I take her hand, we cross the bridge, and go over\nthe hills. The two of us press ahead, never once\nlooking back..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...",
+            "choice_data_list": [
+                "This is where the photo was taken!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Yes, indeed. But compared to the photo, this is\nmuch more...",
+            "choice_data_list": [
+                "Beautiful...",
+                "Beautiful..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I expected it to look like the photo. But the\nreality is far more vibrant. The scent of the\nflowers captures my senses..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...As I thought, you mustn't settle with a simple\nphoto or a dream."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If we had cut our journey short, how would we\nhave experienced the flowers' sweet scent, or the\nrustling of the leaves? This beauty would've been\nlost to us.",
+            "choice_data_list": [
+                "...McQueen?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Reality is far more beautiful. More beautiful than\na photo, my imagination, or my dreams."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her gaze doesn't stop at this scenery. It extends\nbeyond, to her road of dreams..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Toward a 3,200-meter journey far more difficult\nthan the steep and arduous path of today.",
+            "choice_data_list": [
+                "(I know what she's thinking, what she's set her\nsights on...)"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I want to win first place in the spring Tenno Sho."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "For all the people who've supported my\ngrandmother, my family, and me. The dream that\nthey see through us—I want to make it a reality."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "And just like we experienced today, the\nachievement will be far more beautiful in reality. I\nwant to see and feel it for myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her goal has not changed from the day we\nmet—to win the Tenno Sho, a goal long sought by\nthe Mejiro family."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I apologize, I got a little carried away there. The\nsky feels so close from here. It's wonderful.",
+            "choice_data_list": [
+                "Perhaps your predecessors wanted to share\ntheir dreams in the same way.",
+                "Perhaps your predecessors wanted to share\ntheir dreams in the same way."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh! Maybe that's why they included this photo in\nthe album...",
+            "choice_data_list": [
+                "Let's take our own photo to symbolize our\ndetermination.",
+                "Let's take our own photo to symbolize our\ndetermination.",
+                "Let's commit this scenery to memory."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh! Maybe that's why they included this photo in\nthe album...",
+            "choice_data_list": [
+                "Let's take our own photo to symbolize our\ndetermination.",
+                "Let's take our own photo to symbolize our\ndetermination.",
+                "Let's commit this scenery to memory."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Yes, we should."
+        },
+        {
+            "name": "Monologue",
+            "text": "This photo will be a reminder of the\ndetermination we felt today. And then, perhaps..."
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, a new runner will travel to this same\nlocation, and declare their dreams for the future."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Yes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Let us remember, how this scenic view that my\npredecessors preserved in a photo was far more\nbeautiful in reality."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That way, the two of us may realize a dream far\nmore beautiful than any photo or any desire\ncould portray."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I take in the view with Mejiro McQueen\nfor a little while longer."
+        }
+    ]
+}

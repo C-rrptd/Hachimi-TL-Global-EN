@@ -1,0 +1,168 @@
+{
+    "title": "Before the Japanese Derby",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "TV Celebrity",
+            "text": "It's finally here! It's time for Derby Week!"
+        },
+        {
+            "name": "TV Celebrity",
+            "text": "On this week's show, we'll be bringing you live\ninterviews with each of the competitors! We'll be\nkicking things off with Ines Fujin! Can you hear\nus?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yes! This is Ines Fujin, and I'm here with my\ntrainer!",
+            "choice_data_list": [
+                "A pleasure to be on the show!"
+            ]
+        },
+        {
+            "name": "Announcer",
+            "text": "Haha, you certainly seem a little nervous there,\nTrainer."
+        },
+        {
+            "name": "Announcer",
+            "text": "But that's not surprising when your trainee is\ncompeting in the Derby! Not to mention, her\ntrack record indicates she has the talent to claim\nvictory!"
+        },
+        {
+            "name": "Announcer",
+            "text": "In all honesty, have you ever felt overwhelmed by\nthe responsibility on your shoulders?",
+            "choice_data_list": [
+                "Not at all. I have complete confidence!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Haha. My trainer promised to lead me to victory\nas the number one favorite!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm pretty self-indulgent, to be fair. I've only been\nable to make it this far because I have my trainer\nand my family behind me."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(That's why I believe in them!)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(My family isn't particularly wealthy. To be\nhonest, I felt like I'd just be a burden on them if I\nenrolled in the academy.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(But Mom and Dad told me not worry, and my\nlittle sisters cheered me on.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Even after all that, I still can't bring myself to\nfully depend on their kindness.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(I know I should concentrate more on my training,\nbut I want to keep working part-time to support\nmy sisters as they pursue their dreams.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "(Yet in spite of all that hassle, my trainer still\nchose to accept me.)"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My trainer is truly amazing. So just sit back and\nwatch us achieve greatness."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "When the two of us put our heads together, we're\nunstoppable. Even if we get marked as the\nfavorites, I know we'll still pull through."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My dream right now is to win the Derby as the\nnumber one favorite!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Phew... I wonder if I came on a little too strong\nduring the interview."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I can't afford to lose after saying all that.\nHeh-heh, are you ready for this, Trainer?",
+            "choice_data_list": [
+                "I've always believed that you'll win.",
+                "I've always believed that you'll win."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha. I know you have faith in me."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's why I'm going to pour everything I have\ninto the race ahead of us!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whatever it takes to win!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Wooooo!\nGo Ines!\nYou can do it, Ryan!"
+        },
+        {
+            "name": "Caster",
+            "text": "What an incredible atmosphere! We just received\nconfirmation that we've got an all-time record\nnumber of spectators here for today's Derby!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So, Ines. This is our first race together since the\nSatsuki Sho."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yes, and that was only a month ago."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But I can see you've grown even more\ndependable, Ryan. Each time we meet, it's like\nyou're a whole different person."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You think so? ...Haha, well, it's an honor to hear\nyou say that."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You probably don't realize it, but you're the one\nwho brought me this far."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "When I watched you, it helped me bring my own\ndream into focus."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Your dream?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's why I can't let you win the Derby! No\nmatter how hard you try to break away, I'll\novertake you in the end!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe. Listen, Ryan..."
+        },
+        {
+            "name": "Little Sister A",
+            "text": "Big Sis! Do your beeest!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "That's not gonna happen. I won't let you snatch\nvictory out of my grasp."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Well then, we'll just have to settle this on the\ntrack."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yeah, game on!\nAfter all..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "This isn't just my dream that I'm fighting for."
+        }
+    ]
+}

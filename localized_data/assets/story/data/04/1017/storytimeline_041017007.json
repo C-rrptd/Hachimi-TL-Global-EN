@@ -1,0 +1,247 @@
+{
+    "title": "第3話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf and her fellow students are staying at a seaside\nfacility for the summer training camp."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Phew... That's it for today's training regimen."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The camp has only just begun, so better safe than sorry. I should go\nfor a cooldown walk.",
+            "choice_data_list": [
+                "How about we go explore a bit, then?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha, you certainly make a tempting offer. Very well then—I could\nuse the company."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The mind needs breaks too, after all. There should be a seaside cafe\nnearby, if you're feeling as peckish as I am."
+        },
+        {
+            "name": "Monologue",
+            "text": "We wrap up Symboli Rudolf's training and head for lunch. Then, later\nthat evening..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh, good evening, Trainer. Working in your free time? You're\ncertainly dedicated.",
+            "choice_data_list": [
+                "What brings you here?",
+                "What brings you here?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I was conducting a light patrol of the camp. ...Perhaps I have too\nmuch time on my hands."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Although, I suppose it's a good thing that there are no issues to\ndemand my attention..."
+        },
+        {
+            "name": "???",
+            "text": "Aaaaaah!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Wh-what was that scream?!",
+            "choice_data_list": [
+                "Someone might be in trouble!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Let's go! I pray nothing is wrong!"
+        },
+        {
+            "name": "???",
+            "text": "Aaaaaah!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The screams are coming from more than one direction! What in the\nworld is going on?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Pant... Pant...</i> That last scream came from somewhere around here...",
+            "choice_data_list": [
+                "But there's no one around.",
+                "But there's no one around."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I don't understand. I'm sure I heard someone here just moments ago..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Please... be safe, everyone."
+        },
+        {
+            "name": "Umamusume",
+            "text": "<i>Bwaaaah!</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What?!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Huh? Whoa! P-president?! I'm so sorry—I thought you were a\nclassmate!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "We're so, so, so sorry! A bunch of us were goofing off, trying to scare\neach other. I don't even know where to start apologizing..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You were scaring each other? ...So, no one is hurt or in danger?"
+        },
+        {
+            "name": "Umamusume",
+            "text": "No..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ahaha! What a relief! If nothing else, you certainly did a great job of\nspooking <i>me!</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "U-um... President Rudolf?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahaha... Ah, it's nothing. I'm just happy you're making the most of\nyour time together."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My apologies for interrupting your game. Please, carry on."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm? Is something the matter? You all seem rather lost for words...",
+            "choice_data_list": [
+                "Maybe they thought they were in for a scolding.",
+                "Maybe they thought they were in for a scolding."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A scolding? But they've done nothing wrong. This is their own free\ntime—why shouldn't they use it as they see fit?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We're all students. There's more to our lives than racing and training,\nand the times we spend together will serve as a vital springboard for\nthe future."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Besides, each day of our lives comes but once. During a special event\nlike this camp, who wouldn't want to make fun memories to look back\non?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Even I... Haha. Yes, I would be lying if I were to claim I didn't enjoy\nthese little everyday moments.",
+            "choice_data_list": [
+                "Then why not ask if you can join them?"
+            ]
+        },
+        {
+            "name": "Umamusume",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha. Now, now. You know I can't impose on them like that."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Pay my trainer's words no mind, everyone. We've a long camp ahead\nof us, so you should take this opportunity to recharge—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "U-um! President Rudolf?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "If it's all right with you... Would you, you know, care to join us?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Are you sure?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Y-yes! Only if it's no trouble, though!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Trouble? Perish the thought. Hehe... I would be delighted to join you!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Alpha Team, report."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Yes, ma'am! Preparations are complete, and everyone's in position!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent. Next, Bravo Team, make your way to the staging area. Stay\nalert for any lurking dangers."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Once you locate an ideal spot, hide yourselves. You know what to do\nafter that, correct?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Yep! We jump out and give the others a good scare!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Superb. Best of luck, and let's scare up some good fun."
+        },
+        {
+            "name": "Umamusume",
+            "text": "Roger that!",
+            "choice_data_list": [
+                "You're really getting into this.",
+                "You're really getting into this."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Is that really so surprising? I want this spook-off to be a runaway\nsuccess."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It would be a shame if we didn't put forth our best effort for the\nparticipants. A team effort will maximize the scare factor.",
+            "choice_data_list": [
+                "I'm glad you're having fun.",
+                "I'm glad you're having fun."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha... You know, you're right. I've never had this much fun at a\ntraining camp before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus begins an event that will go down in history as the camp's most\nthrilling spook-off."
+        }
+    ]
+}

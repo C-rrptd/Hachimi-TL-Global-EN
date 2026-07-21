@@ -1,0 +1,93 @@
+{
+    "title": "硝子の少女は学びたい",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm researching something in the library after\nschool when Mejiro Ardan walks in."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ngh... Not again...",
+            "choice_data_list": [
+                "You all right? You look dizzy..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I'm fine... Thanks for asking... but you\nneedn't worry. I'm used to it."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "More importantly, there's a book I need to find."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Ah, here it is. Volume twenty-eight of the\n<i>Twinkle Series Almanac.</i>",
+            "choice_data_list": [
+                "Wow... Have you read the whole collection?",
+                "Wow... Have you read the whole collection?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. I started reading these on the days I wasn't\nfeeling well, and before I knew it, I was hooked."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...My body can't handle a lot of strain, so I\nthought I should try to learn more about racing\nthrough its history instead."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'll do whatever I can... so that one day, I will\nleave my mark on racing history.",
+            "choice_data_list": [
+                "You work so hard even when you're not training.",
+                "You work so hard even when you're not training."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "No, it's nothing, really. I just do it because I want\nto."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, by the way, are there any books you would\nrecommend besides training guides?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I know there's definitely a book that's perfect for\nsomeone with a frail constitution like Mejiro\nArdan. If I recall correctly, the title should be...",
+            "choice_data_list": [
+                "<i>Healthy Three-Minute Recipes for Athletes!</i>",
+                "<i>Changing Your Brain Through Good Sleep.</i>"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A cookbook! That sounds wonderful. I would love\nsome healthy recipes."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm actually quite the chef despite my\nappearance. ♪ My nanny taught me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'll check it out and start reading it today. I'm sure\nI can strengthen my body with the right diet."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan smiles gently and goes off to look\nfor the book."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, interesting... I certainly rest more than the\naverage person, so knowing the best way to sleep\nwould be a great help."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, I'm glad I asked you. I'll read it straight\naway and put its teachings into practice tonight."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure Mejiro Ardan's sleep quality will improve\nwith help from the book. Hopefully that means\nher condition will also get a little better."
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "title": "一流の服",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, King Halo and I are going to a fashion show for the latest\nsignature racewear."
+        },
+        {
+            "name": "Monologue",
+            "text": "We agreed to meet up at 9 a.m., but..."
+        },
+        {
+            "name": "King Halo",
+            "text": "You're late! What time do you think it is?",
+            "choice_data_list": [
+                "Umm... it's 9 a.m."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "If I say 9 a.m., then I mean 8 a.m.! Gosh, how could you keep me\nwaiting for a whole hour?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Making me, a first-rate Umamusume, stand alone at the back of the\nline..."
+        },
+        {
+            "name": "King Halo",
+            "text": "As your punishment, you'll have to treat me to some tea before we\nhead back. Hmph, be grateful that I'm letting you off the hook this\ntime!",
+            "choice_data_list": [
+                "That's a bit... unreasonable..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Please, I'm practically being magnanimous. Anyway, enough with the\nchitchat—hurry up and get in line!"
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo pulls me into the line."
+        },
+        {
+            "name": "King Halo",
+            "text": "There are so many people here that it might be hard to see the stage.",
+            "choice_data_list": [
+                "It seems like it's a pretty popular show.",
+                "It seems like it's a pretty popular show."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course it's popular... Perhaps you don't fully comprehend the\nsignificance of today's event, so let me enlighten you."
+        },
+        {
+            "name": "King Halo",
+            "text": "Today, only the finest brands will be shown. We'll see the best outfits\nfrom the best designers! Truly a first-rate experience!"
+        },
+        {
+            "name": "King Halo",
+            "text": "The show's going to be so good that you won't even want to blink.\nDon't even think about looking away for a second!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Especially when it comes to..."
+        },
+        {
+            "name": "Monologue",
+            "text": "King Halo's eyes sparkle with excitement as she rattles off every\naspect of the fashion show."
+        },
+        {
+            "name": "Monologue",
+            "text": "One hour later..."
+        },
+        {
+            "name": "King Halo",
+            "text": "It's almost time for the show to start, but we've barely moved\nforward... I can't see anything from here..."
+        },
+        {
+            "name": "King Halo",
+            "text": "I hope they didn't make us wait all this time just to tell us that they've\nalready reached max capacity...",
+            "choice_data_list": [
+                "Should we leave?",
+                "Should we leave?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Why on earth would I do that? Today's show is—"
+        },
+        {
+            "name": "Show Staff",
+            "text": "Excuse me, are you King Halo?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah... yes, that's right. Who might you be?"
+        },
+        {
+            "name": "Show Staff",
+            "text": "Aha, I had a feeling. I'm part of the event operations team. I wanted\nto say that it's been an honor to work with your mother on the show—"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, I see."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm well aware that my mother's designs are the main event and will be\nshowcased as the grand finale."
+        },
+        {
+            "name": "Show Staff",
+            "text": "So you're interested in her work as well? Of course, you're her\ndaughter after all. I've heard from your mother that you've been\nfantastic at Tracen—"
+        },
+        {
+            "name": "King Halo",
+            "text": "Are you sure that's what you heard?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Please, spare me the platitudes. I know well what she would say, and\nespecially what she <i>wouldn't.</i> Like you said, I <i>am</i> her daughter."
+        },
+        {
+            "name": "Show Staff",
+            "text": "Oh, my apologies... Well, if you'll excuse me then..."
+        },
+        {
+            "name": "King Halo",
+            "text": "I guess he was one of my mother's acquaintances."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm, it looks like you've got something to say. Well, don't make me\nwait—just get it out already.",
+            "choice_data_list": [
+                "I didn't know your mother was part of this show.",
+                "I didn't know your mother was part of this show."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "After my mother retired from racing, she became a professional\ndesigner for signature racewear."
+        },
+        {
+            "name": "King Halo",
+            "text": "It pains me to say this, but she truly embodies \"first-rate\". She\nsurpasses everyone's expectations with each and every dress she\nmakes."
+        },
+        {
+            "name": "King Halo",
+            "text": "Her designs are timeless, crafted with perfection for all racers. There's\na lot to be learned from her work."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Well, I suppose not all racers. She never made anything for me."
+        },
+        {
+            "name": "King Halo",
+            "text": "It doesn't matter though. Her talent in design didn't carry over into\nsewing. Honestly, she's terribly clumsy."
+        },
+        {
+            "name": "King Halo",
+            "text": "Despite her own shortcomings, she's always been overly competitive\nand vain. She's loath to show even her own daughter something less\nthan perfect."
+        },
+        {
+            "name": "King Halo",
+            "text": "I remember how she bought a birthday cake for me, watched me eat\nit, then hid in another room to eat her own failed creation."
+        },
+        {
+            "name": "King Halo",
+            "text": "It's ridiculous. I wish she'd just acknowledge her weaknesses and\nfailures.",
+            "choice_data_list": [
+                "Like mother, like daughter, huh?",
+                "Like mother, like daughter, huh?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Not at all!"
+        },
+        {
+            "name": "Staff Member",
+            "text": "Everyone, thank you for waiting! We'll now begin guiding you all to\nthe event hall!"
+        },
+        {
+            "name": "King Halo",
+            "text": "It's about time. Come on, let's get going."
+        },
+        {
+            "name": "King Halo",
+            "text": "...They better show some excellent dresses. Otherwise, I won't forgive\nthem for making me wait so long."
+        },
+        {
+            "name": "Event Announcer",
+            "text": "And that concludes today's event. Thank you for coming. Please\nreturn home safely."
+        },
+        {
+            "name": "King Halo",
+            "text": "That... was... amazing! Did you see the new designs by UMADA? Oh\nmy gosh, I love how they designed the switching skirt!"
+        },
+        {
+            "name": "King Halo",
+            "text": "But the prettiest one was definitely—",
+            "choice_data_list": [
+                "Was definitely?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "...Never mind!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph. Just you wait and see. I'm going to surpass my mother's race\nrecord in no time."
+        },
+        {
+            "name": "King Halo",
+            "text": "And I won't just have one signature racewear—I'm going to have a\nwhole closet full of them!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Because I'm a first-rate racer—the one and only King Halo!",
+            "choice_data_list": [
+                "Yes you are. Let's give it our all!",
+                "Yes you are. Let's give it our all!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! I'm glad you're on the same page as me! Excellent! ♪"
+        },
+        {
+            "name": "King Halo",
+            "text": "Let's head back to the academy now. We've got lots of planning to\ndo for tomorrow's training schedule!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As King Halo walks away from the event hall, her face shines with\never-increasing determination."
+        }
+    ]
+}

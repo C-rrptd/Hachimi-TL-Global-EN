@@ -1,0 +1,58 @@
+{
+    "title": "要検証・他者の介在による偶発性",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day at the training track..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What should I do for training today? Hm,\nconsidering the skies are cloudy..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What good timing. You there! I'd like your input\non something!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What will you be focusing on today? Researching\na new running style, or quick decision-making?",
+            "choice_data_list": [
+                "A running style.",
+                "Decision-making."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yes, an excellent choice! The running techniques\nof Umamusume are always improving."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I see. The success or failure of a race hinges on\nsplit-second decisions, which makes the speed of\none's thinking important indeed."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I shall take that into consideration. I wonder what\nresults will come of this chance meeting.",
+            "choice_data_list": [
+                "Why did you ask me?",
+                "Why did you ask me?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hahaha! A magnificent question!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Happenstance and serendipity are factors that\ncannot be ignored in research."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is why I took advantage of two chance\noccurrences—you and the cloudy skies."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You too should embrace happenstance to avoid\nfalling into a rut! Doing so is the path to truth!"
+        }
+    ]
+}

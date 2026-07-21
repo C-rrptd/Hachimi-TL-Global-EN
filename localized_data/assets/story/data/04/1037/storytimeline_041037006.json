@@ -1,0 +1,298 @@
+{
+    "title": "Naschkatze",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "Mm. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "On my day off, I'm walking around town one weekend and run into an\nunusually cheerful Eishin Flash.",
+            "choice_data_list": [
+                "Flash!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, Trainer. I didn't expect to see you here.",
+            "choice_data_list": [
+                "What are you up to?",
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Just taking notes on the cake shops I've visited today. They were all\nexcellent in their own way, so I wanted to write their special traits\ndown while it was fresh in my mind.",
+            "choice_data_list": [
+                "You really like cake, huh.",
+                "You really like cake, huh."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well, as you know, my family runs a cake shop. Back home, I made a\nhobby of going around to different stores and learning about the\ncraft."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It wasn't just about flavor. I'd check interior design, the variety of\ncakes offered, location, customer makeup—fifteen criteria in total."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So yes, I do like cake, but it would be more accurate to say I like cake\nshops.",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There's still another shop on my itinerary. Well, a cafe, not a cake\nshop."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's my main destination for today—the Moon Cafe. It's just around the\ncorner two streets behind you and through the residential\narea—about a fifteen-minute walk.",
+            "choice_data_list": [
+                "Mind if I tag along?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Might be a good chance to get to know her better. We rarely talk\nabout anything besides training."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...If you have three hours to spare."
+        },
+        {
+            "name": "Monologue",
+            "text": "I soon learn what she means by that as a long line snaking towards a\ncertain shop comes into view...",
+            "choice_data_list": [
+                "Wow, just look at that line.",
+                "Wow, just look at that line."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, it's a popular cafe, so at around 3:35 on a Saturday there's on\naverage a forty-five minute line."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...I've factored the wait time into my plans, but is that all right with\nyou?",
+            "choice_data_list": [
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Okay, well, let's get in line then."
+        },
+        {
+            "name": "Monologue",
+            "text": "We've been in line for ten minutes, and she hasn't spoken a word...\nSince we're stuck here, I decide to use the opportunity to make\nconversation.",
+            "choice_data_list": [
+                "So, of the cakes you had today, which did you\nlike best?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "No response—maybe she'd prefer the silence. I consider apologizing\nwhen..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I've decided. My favorite was the <i>Sachertorte</i>—a type of chocolate\ncake—at the fifth shop I visited."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The chocolate fondant was particularly well done. The texture was a\nbit firm, but it split apart just right when I bit into it."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Fondant can also be soft, but I prefer it with more of a crunch."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The tang of the <i>Aprikose</i>—apricot—also rounded out the flavors well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...And that's why it was the best cake I've eaten today. Is my answer\nsatisfactory?"
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "We're ready to seat our next customer."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Already? ...Oh, it's been fifty-five minutes. I'd lost track of time."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Shall we?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let's call someone over in ten minutes. I've already decided what I'm\ngetting, but you take your time.",
+            "choice_data_list": [
+                "What are you getting?",
+                "What are you getting?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Seasonal tarts are what they're known for, so I'll be getting the\nseasonal tart and coffee set."
+        },
+        {
+            "name": "Monologue",
+            "text": "I figure I'll just order the same as her, when an item on the menu\ncatches my eye.",
+            "choice_data_list": [
+                "Ooh, look. \"Today Only! Spécialité Set.\""
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Could I see?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"An original cake from our sister store. Not announced anywhere due\nto short supply. If you see this, consider yourself lucky!\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I see. An original... No, I've already decided on the tart for today."
+        },
+        {
+            "name": "Monologue",
+            "text": "She always sticks to her plan, and it seems choosing what to order is\nno exception. Well, in that case..."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Are we ready to order?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, um...",
+            "choice_data_list": [
+                "One spécialité set and one tart set."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah..."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Very good. I'll be right back with your order."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Yeah."
+        },
+        {
+            "name": "Cafe Staff",
+            "text": "Sorry to keep you waiting. One seasonal tart set and our one-day-only\nspécialité set."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The spécialité is... a chocolate and caramel two-layer cake. It's\nbeautifully constructed, almost like an old German castle..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm sure it'll melt in your mouth...",
+            "choice_data_list": [
+                "Here, let's go half-and-half."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh? Why are you slicing it in two? It'd be more even if you\ncentered—wait, you mean half for me?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, that's why you got the spécialité set? But that's your order. I\ncouldn't—",
+            "choice_data_list": [
+                "We don't have all day. Here."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah... Right, well, if you insist."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Mm! It's... rich. Each bite feels so heavy, but not to the point of being\noversweet. It's..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Delicious! It tastes like <i>glücklich...</i> happiness."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To make it even, you can have half my tart. Hold on, I'll measure the\nexact center and—",
+            "choice_data_list": [
+                "Y-you don't have to be so precise."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, that won't do. I've got measuring tape, so I can get it perfect."
+        },
+        {
+            "name": "Monologue",
+            "text": "After enjoying our sweet time together..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That was delicious."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Even more so than I expected. Next time, I'll have to extend my\nallotted time by thirty minutes and order another item.",
+            "choice_data_list": [
+                "Glad you had a good time.",
+                "Glad you had a good time."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...And all because of an unplanned event.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I mean how we just happened to meet earlier. Without you, I wouldn't\nhave gotten as much out of coming here."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's just... I can't bring myself to admit that the best results depend on\npure coincidence. So instead, my best course of action is..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Making plans to do another round of visiting cake shops soon...\nWould you like to come along?",
+            "choice_data_list": [
+                "I'd love to!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. I'll make a note of it in my schedule."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, I think I've managed to get a bit closer to her today."
+        }
+    ]
+}

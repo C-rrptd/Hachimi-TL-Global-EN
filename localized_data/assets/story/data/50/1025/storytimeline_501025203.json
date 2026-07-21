@@ -1,0 +1,44 @@
+{
+    "title": "Before the Kikuka Sho",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "No one utters a word. Such is the gravity of the\nsituation."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the day of the Kikuka Sho, and the\nparanormal phenomena are finally calming...\nToday, Manhattan Cafe's abilities will be put to\nthe test."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer, this is the first time."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The first time I've felt before a race that... I might\nbe able to catch up to my friend...",
+            "choice_data_list": [
+                "Let's make it happen!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her smile is without its usual anguish. I watch over\nher, hoping that today's race will finally bring us\nto the light at the end of our long tunnel."
+        }
+    ]
+}

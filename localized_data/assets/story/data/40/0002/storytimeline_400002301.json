@@ -1,0 +1,101 @@
+{
+    "title": "樫本代理の秘密の一面",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm out looking for some protein-rich\nsnacks for our team training."
+        },
+        {
+            "name": "Monologue",
+            "text": "However...",
+            "choice_data_list": [
+                "(I can't find anything suitable!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as I'm about to fall into the pits of despair, a\nsharp voice cuts through my thoughts."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "What are you doing? You're in everyone's way.",
+            "choice_data_list": [
+                "Ms. Kashimoto! Well, uh..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hesitantly explain the situation to her."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "So in short, you're looking for cheap,\neasy-to-find, and protein-rich snacks that come\nin small portions..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I believe kinako sticks would be a good choice,\nthen.",
+            "choice_data_list": [
+                "Oh! That sounds perfect!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Since kinako is simply roasted soy powder, it's\nrich in protein, and the sticks are a perfect size\nfor grab-and-go snacks."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "It's a bit of a walk, but there's a small store three\nblocks down and to the right that carries them."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "They sell economy-sized bags with individually\npackaged servings, and they're priced very fairly."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Just be aware that kinako tends to dry out the\nmouth, so make sure to prepare enough drinks for\nyour racers as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stand in awe at how quickly Ms. Kashimoto was\nable to find a solution to my problem.",
+            "choice_data_list": [
+                "Wow, it's amazing how quickly you came up\nwith that."
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "It's a habit of mine. I can't help but remember any\nstores and locations I come across that stock\nthem.",
+            "choice_data_list": [
+                "Are you a fan of kinako sticks?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A trace of darkness passes over Ms. Kashimoto's\nusually cool expression at my question."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "An Umamusume I used to train loved them."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Excuse me. I must be going."
+        },
+        {
+            "name": "Monologue",
+            "text": "She leaves before I can stop her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her parting expression is so pained that I can't\nhelp but remember it long after she's gone..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The good news is that the kinako sticks she\nrecommended are a hit with the team, and I have\na new snack to add to their diets."
+        }
+    ]
+}

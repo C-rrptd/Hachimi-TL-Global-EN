@@ -1,0 +1,210 @@
+{
+    "title": "I RejEcT yOu",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Can you believe in that which you cannot see?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehe... You're incredibly fast, without a doubt... I'm going to have to\ndo better than this..."
+        },
+        {
+            "text": "That which is only beheld in the eyes of another?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...So that I can catch up... to my friend..."
+        },
+        {
+            "text": "Who exactly are you?"
+        },
+        {
+            "text": "It's well past dusk when I realize I've forgotten my phone somewhere."
+        },
+        {
+            "text": "I probably set it down while focusing on watching some training\nsessions around the academy today."
+        },
+        {
+            "text": "I jog back to where I assume I've left the thing, and am reassuringly\ngreeted by a flashing low-battery light.",
+            "choice_data_list": [
+                "Oh, thank goodness—"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Hehe..."
+        },
+        {
+            "name": "???",
+            "text": "—s is fun... hehe...\n—ow can I... —atch up?"
+        },
+        {
+            "text": "I don't expect to hear anything on the track at this hour, let alone\nlaughter. Is someone really out here training right now?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Phew... Don't worry... I can keep going."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...That's right. However many more times it takes..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I really love... running with you...",
+            "choice_data_list": [
+                "(Just, uh... who is she talking to?)"
+            ]
+        },
+        {
+            "text": "There's certainly no one around besides us. I know that it's quite dark\nout, but still. Thinking it strange, I approach the lone student, when..."
+        },
+        {
+            "text": "<i>Thwack!</i>",
+            "choice_data_list": [
+                "Wha?!"
+            ]
+        },
+        {
+            "text": "It feels as if something has rammed into my shoulder. I can't see\nanything in the vicinity, however.",
+            "choice_data_list": [
+                "(Right... I <i>am</i> pretty exhausted, after all...)"
+            ]
+        },
+        {
+            "text": "But a girl talking to someone who isn't there? And then myself\ncolliding with some kind of invisible force?"
+        },
+        {
+            "text": "The night air isn't the only thing giving me the chills... Though it's\nprobably just my imagination running wild..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Are you for real? I'll gladly take up the offer! It's always been my\ndream to make it big in a G1 race!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "For real. Let's turn that dream into reality!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "O-okay! I've been aiming to debut in the Twinkle Series this whole\ntime, so..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "I sense you've got what it takes. I'll be back to watch your tryout race.\nThink you can show me everything you've got?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...",
+            "choice_data_list": [
+                "Oh, right. The girl from last night..."
+            ]
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Hey, <username>! Looks like you've got your\neyes on someone."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Oh, the girl over there? ...She does run with mighty fine form. Are you\ngonna scout her?",
+            "choice_data_list": [
+                "Well, I'm not so sure just yet..."
+            ]
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Really? I've definitely seen her somewhere, though... Um, maybe in\nthese pamphlets, yeah?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Found her—Manhattan Cafe. She's good. If you're not going to scout\nher, then I'm off to chat to her."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You want... to scout me?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Yeah! If you don't have anyone else in mind, why don't we aim for the\ntop of the Twinkle Series together?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "The Twinkle Series..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "You can outrun anyone else out here for sure!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Anyone else? Hm... Do you think... I could even outrun... <i>her</i>?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "...\"Her\"? Who? Oh, I'm guessing you have a rival then?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Yes. She's incredibly fast... That girl standing right over there..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "O-over there? But there's no one th—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She looks like me... She's the one who led me here. My dear friend..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She hasn't changed since we were children... Always running ahead of\nme... I dream of... reaching her..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Huh..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "<i>Sigh</i>... Save your breath. Don't think she's looking to really talk to\nanyone, let alone be scouted.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "New Trainer A",
+            "text": "I couldn't make heads or tails of anything she was babbling about... It\nwas like she was trying to drive me off. And honestly, the things she\nwas saying were kind of, uh..."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Kind of creepy?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "New Trainer A",
+            "text": "I'm just saying that maybe you shouldn't bother. She seems to be\nmore trouble than anything..."
+        },
+        {
+            "text": "I'm reminded of what happened last night."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...That's right. However many more times it takes..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I really love... running with you..."
+        },
+        {
+            "text": "I chalk up all that happened last night to my imagination, but perhaps\nthere is something more at play here."
+        },
+        {
+            "text": "Does she really not have any interest in being scouted?"
+        },
+        {
+            "text": "My mind drifts, pondering the mysterious Manhattan Cafe. Next thing\nI know, the sky has darkened into a murky night..."
+        }
+    ]
+}

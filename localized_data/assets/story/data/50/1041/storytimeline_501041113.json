@@ -1,0 +1,236 @@
+{
+    "title": "バクシン的研究結果！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm walking around campus..."
+        },
+        {
+            "name": "Rat?",
+            "text": "<i>Squeaky, squeak!</i> Bakushin, Bakushin!",
+            "choice_data_list": [
+                "...Is that a rat?"
+            ]
+        },
+        {
+            "name": "Cat?",
+            "text": "<i>Meow, meow!</i> Bakushin, Bakushin!",
+            "choice_data_list": [
+                "No, a cat?",
+                "No, a cat?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm afraid not!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is I, your class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait, no! I blew my cover!",
+            "choice_data_list": [
+                "...Are you playing hide and seek?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, I'm playing pretend! You see, I don't want my\nresearch subjects to find me—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait?! Where did my subjects go?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's go find them, Trainer!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no idea what is going on, but it doesn't feel\nright to leave her alone either. So, I decide to tag\nalong..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The tracks don't look so good today..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That's because of yesterday's rain. But these are\nthe perfect conditions for muddy track training."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But then... my misfortune might cause something\nbad to happen..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Taking appropriate measures in the event of an\nirregular occurrence is also a part of training. Do\nyou not recall this?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon... You're right. Thank you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It's no matter. More so, there is something that\nhas caught my interest—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Urgh, this mud is heavy... to think I would become\ntrapped! You're quite the opponent, ol' muddy\ntrack!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's so difficult to catch what they're saying.\nEspecially Bourbon!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Conditions... irregu...lar? Part of... pla... platter of\ntuna?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "They plan to eat sushi after training?! Hm, I must\nalso attend for my research then!",
+            "choice_data_list": [
+                "Are those two your research subjects?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohoh! How did you know?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes, I am conducting research on those two, my\nsupposed future rivals..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is quite a large project, so I had all intentions\nto keep it a secret from you as precaution."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yet it appears you are quite the mind reader,\nTrainer! You're some kind of cryptid, aren't you?!",
+            "choice_data_list": [
+                "I'm no cryptid.",
+                "I'm no cryptid."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I more or less understand why Sakura Bakushin O\nis keeping watch of the two Umamusume, but I\nfeel I should still ask her directly...",
+            "choice_data_list": [
+                "Why those two specifically?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good question, I will answer you as class\nrepresentative. Those two are the latest hopefuls\nfor the Classics next year!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Which means I will surely face them if I'm to\nfollow the Bakushin Road!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Rice Shower. She's on the small side, but she's a\nstayer with real talent. She may seem wimpy, but\ndeep down she has the guts to win."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Mihono Bourbon. She has enough speed to run as\na sprinter, and her stamina lets her take\nadvantage of her speed. That makes her a\nformidable contender."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Both of them are hard to handle, but Bourbon will\nlikely be the harder fight."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Her speed cannot be taken lightly. I'll have to\nbattle for the lead right from the start..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...Um, hey, are you listening?! Don't space out\nnow!",
+            "choice_data_list": [
+                "That was quite the excellent analysis."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O usually just plows headfirst\ninto things, but here she is making astute\nobservations."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! I am class representative after all!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Analyzing my rivals is but a piece of cake... No, it\nis merely a crumb of my powers!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If I get the research bit down, then any medium\nrace will become a cinch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hasn't quite grasped the most important\nfactor here, but I hold back on saying anything.\nThat's when..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Bakushin O."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wh-wha—?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have observed that you, Bakushin O, have been\ntracking us since morning."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Therefore, I have reasoned that you must have\nsomething you wish to discuss with us. So I shall\nask you—"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Before you do!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I most certainly have not been researching you\ntwo! No way, nuh-uh!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh? R-research?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's right! Go now, practice in peace!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Squeak!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Wait, Bakushin O! If you run off like that, then—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Slip.</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Gyaaah! Wha—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Oh no! Bakushin O looked back because I called\nout to her, and now she's covered in mud!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While helping her up, I think over how best to\ndeal with Sakura Bakushin O's fervent dedication\ntoward the Bakushin Road..."
+        }
+    ]
+}

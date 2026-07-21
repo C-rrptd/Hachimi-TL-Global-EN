@@ -1,0 +1,256 @@
+{
+    "title": "目標達成の後に・みんなのちゃんこ鍋☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A new post on Umasta reads, \"Announcing the\nChanko Tournament! Show off your best chanko\nto everybody! ☆ Apply now!\""
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Aaand posted!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I sure hope everybody has fun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a fine day, and I find myself at the Chanko\nTournament, an event Hishi Akebono set up for\nher fans."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I didn't expect so many people to come! Thank\nyou so much, everybody!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Just a reminder of the rules I posted on\nUmasta—every one of you will have to make your\nown chanko."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Do you have your recipes ready?"
+        },
+        {
+            "name": "Bono Fans",
+            "text": "We sure do!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Great! Looks like your preparations are\nperfect. ☆ Let's have fun, everyone!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, time to get cooking!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ooh, it's interesting how you have different ways\nto make broth."
+        },
+        {
+            "name": "Bono Fan A",
+            "text": "Yes, I prefer to slowly simmer kombu seaweed,\nbonito flakes, and various dried seafoods\ntogether to bring out their flavor."
+        },
+        {
+            "name": "Bono Fan B",
+            "text": "I prefer to save time by using a blend of\nstore-bought soup base and chicken broth."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I see! Both have a very buono aroma!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wow! I see you're making a spicy chanko with\ngochujang paste and kimchi!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, and you're using miso! It smells so nice!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Watching everyone has inspired me so much!\nTrainer, let's try to make the best chanko ever!",
+            "choice_data_list": [
+                "Let's do this!",
+                "Let's do this!"
+            ]
+        },
+        {
+            "name": "Bono Fan A",
+            "text": "Excuse me! I watched Bono's latest stream, and\nwell... You're Bono's trainer, right?",
+            "choice_data_list": [
+                "That's me."
+            ]
+        },
+        {
+            "name": "Bono Fan A",
+            "text": "I was really happy when we got to see a new side\nof Bono as a racer!"
+        },
+        {
+            "name": "Bono Fan A",
+            "text": "I became quite interested in races after that, and\nI really want to see her race in person!"
+        },
+        {
+            "name": "Bono Fan B",
+            "text": "Me too! After that stream, I realized races were\nmore exciting than I thought!",
+            "choice_data_list": [
+                "Wow, thank you both!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Hishi Akebono's strategy of filling up the\nstands by filling up the audience's stomachs first\nis working great!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone seems to be enjoying chanko\ntournament until..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh? That aroma..."
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "Whoa, what do you think you're doing, adding in\npork and curry roux? This isn't a curry\ncompetition, you know."
+        },
+        {
+            "name": "Bono Fan D",
+            "text": "But my kids love it when I make this chanko for\nthem. They say they like this version the best."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small argument breaks out near the edge of the\nvenue."
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "You're giving your children <i>this</i> and calling it\nchanko? Let me set things straight for you."
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "My father is a chef and he says <i>real</i> chanko is\nmade with chicken meatballs and vegetables."
+        },
+        {
+            "name": "Bono Fan D",
+            "text": "B-but—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sparks start flying, but Hishi Akebono puts an\nend to it by making a casual remark."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's true that chanko made with chicken meatballs\nand veggies is yummy and buono."
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "Oh! Bono..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But the neat thing about chanko is that each\nsumo stable has its own unique recipe."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "There are salty variations and spicy ones. Some\nwrestlers even add cheese and yogurt into their\nchanko."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Each stable creates their own chanko by making\ndifferent adjustments to the recipe."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's those differences that make their flavors so\nspecial and memorable."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's why I think it's okay not to use chicken\nmeatballs or veggies in your chanko if you don't\nwant to."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "As long as your chanko makes the people who eat\nit happy and ready to keep working hard, then it's\nreal chanko!"
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "I'm sorry. I was being too narrow-minded..."
+        },
+        {
+            "name": "Bono Fan D",
+            "text": "I got caught up in the moment too, so I\napologize."
+        },
+        {
+            "name": "Bono Fan C",
+            "text": "No, it was all me... And I'm sorry I ruined your\nevent, Bono..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe! You don't have to apologize! There's\nnothing to worry about."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But enough of that. The broth of your chanko\nlooks so clear and tasty!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You must've put a lot of effort into getting the\nbasics exactly right while making this."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The meat in your curry chanko looks super yummy\ntoo! ♪ I think tons of people will love this!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Everyone made so many types of chanko. There\nare spicy ones and creamy ones..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "They might be different, but they all look so\nbuono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I can't wait to try each one with you all! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono's easygoing energy clears the air,\nand the Chanko Tournament ends on a warm\nnote."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her bond with her fans has grown even stronger!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Thanks for the great time at the Chanko\nTournament, everyone!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"All of your chankos were very buono!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Let's all protect and preserve our own unique\nflavors! ☆\""
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Aaand posted!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahhh... That was so much fun, and there was so\nmuch great chanko."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Best of all, a whole lot more people are\ninterested in racing now!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All right! I'm gonna do my best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Sprinters S. will be held right after summer\ncamp ends. Now's the time to ramp up our\ntraining so we can be at our best for it!"
+        }
+    ]
+}

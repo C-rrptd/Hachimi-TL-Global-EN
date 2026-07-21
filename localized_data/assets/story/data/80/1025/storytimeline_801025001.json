@@ -1,0 +1,97 @@
+{
+    "title": "夜の独走",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One night, as I'm patrolling the tracks..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I see an Umamusume running silently alone. I can't\nseem to recall how long she's been out here,\ndespite patrolling the area for so long.",
+            "choice_data_list": [
+                "You planning to keep running?",
+                "You planning to keep running?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...",
+            "choice_data_list": [
+                "HELLOOOOO!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Yes... Goodbye."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...",
+            "choice_data_list": [
+                "Do you always run so much?",
+                "Do you always run so much?",
+                "You sure are focused.",
+                "You sure are focused."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...",
+            "choice_data_list": [
+                "Do you always run so much?",
+                "Do you always run so much?",
+                "You sure are focused.",
+                "You sure are focused."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "There's someone I want to catch up to... so I have\nto keep running too.",
+            "choice_data_list": [
+                "So you're chasing a goal, huh?",
+                "So you're chasing a goal, huh?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Night always falls while I'm running. That's why... I\nalways run... this much."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Now, if you'll excuse me."
+        },
+        {
+            "name": "Monologue",
+            "text": "She leaves the track without another word. As I\nwatch her go, something startling strikes me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe was the only one who left, but\nI'm positive I heard more than one set of\nfootsteps walking away..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It's nothing that special... There's just someone\nalways running ahead of me, and I want to catch\nup to her."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like her clear goal is what drives her to\nbe so focused."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Are we done now? My friend has left already, so\nI should go too."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she leaves, something startling strikes me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe was the only one who left, but\nI'm positive I heard more than one set of\nfootsteps walking away..."
+        }
+    ]
+}

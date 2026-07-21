@@ -1,0 +1,198 @@
+{
+    "title": "いざ征かん、ヴィクトリーロード",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's almost time for tryouts, where Umamusume show potential trainers\nwhat they're capable of."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the day draws closer, runners devote themselves to nonstop\ntraining."
+        },
+        {
+            "name": "Monologue",
+            "text": "But there is one among them who decides on an entirely different\napproach to preparing."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Come one, come all. Tonight, the world shall witness T.M. Opera O's\nglorious road to victory."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What could one call an act so bold? \"T.M. Opera O, Prelude to the\nCrown!\" ...is how it will be known."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh. From the name alone, it is sure to be unrivaled in beauty and\npassion!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I imagine what will come, and hark! I can already hear the fanfare of\nangels, ringing from the heavens!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, all that's left is to wait for the audience to arrive, but..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hmmm, everyone must be preoccupied with training. There aren't\nmany passersby at all."
+        },
+        {
+            "name": "Monologue",
+            "text": "That student is talking in the middle of an empty plaza. She's rather...\ndifferent than the other racers.",
+            "choice_data_list": [
+                "(What in the world is she doing?)",
+                "(What in the world is she doing?)"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as I'm thinking this to myself, our eyes meet."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ahhh! You there! Welcome and well met!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe, you needn't say a word. I know you've come to see my most\nepic performance."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "How could you resist? <i>I</i> am the librettist! <i>I</i> am the director! And <i>I</i> am\nthe star! Gifted with a splendid cast—namely, me—it shall be the\ngreatest opera of all time!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Please, take your seat on that bench there. Ahem, attention please.\nThe show will now begin.",
+            "choice_data_list": [
+                "H-hold on a sec!",
+                "H-hold on a sec!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hm? What's wrong?",
+            "choice_data_list": [
+                "What do you mean you're performing an opera?",
+                "What do you mean you're performing an opera?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh... It's simple, really."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Listen well. In three days' time, I will run in the tryouts. It is to be a\ngrand event, with much of the academy in attendance."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And thus, I'm here performing a stunning overture to celebrate its\neve. My opera will stir talk of the race into a tempest of excitement!",
+            "choice_data_list": [
+                "But wouldn't the \"eve\" of the race be the day\nbefore?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My, what a peculiar thing to claim. Who decided that the eve <i>must</i> be\nexactly one day before?",
+            "choice_data_list": [
+                "You know, like, the definition of the word...",
+                "You know, like, the definition of the word..."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hahaha! Again, who ever said that words be <i>restricted</i> to their\ndefinitions?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "To be shackled by common sense is entirely nonsensical."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Why you ask? For I am king among kings! <i>That</i> is why I have been\ndubbed the Centurial Overlord!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And so, what does it matter to an overlord whether the eve is one or\nthree days before? Heh, do you finally understand?",
+            "choice_data_list": [
+                "Not at all..."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hm, appreciation for the fine arts <i>is</i> an acquired taste. You'll get\nthere eventually."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Worry not—I nonetheless welcome you as first to bear witness to my\nshow."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My phenomenal performance will live in your soul for eterni—hm?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hold for a moment. That pin, glimmering in the midday sun—is it not a\ntrainer badge?",
+            "choice_data_list": [
+                "Yeah, it is..."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh... Haha... Ahahaha! Haaah ha ha ha!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Perfect! I am at this very moment in need of a trainer! For <i>I</i> shall soon\nbe speeding down the road to victory!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "This is nothing less than fate! As someone so utterly captivated by my\nopera, you'll be most fitting for the job!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Do not be shy—take my hand! Come now!",
+            "choice_data_list": [
+                "Uh, this is kinda sudden!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh? Ah, I see. You are reluctant to claim such a highly esteemed role\nfor yourself."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I understand your deep feelings about it. I, too, become overwhelmed\nwhenever I look myself in the mirror."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And so, I offer this amazing suggestion. Become my provisional trainer\nin order to steel thy will."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "We can determine our compatibility before the tryouts this way!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I shall neither run nor hide. Take all the time you need to acclimate to\nmy glorious presence!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! The curtains now rise on my triumph, fair trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to reason with the imposing student over and over, but she just\nwon't listen."
+        },
+        {
+            "name": "Monologue",
+            "text": "So now I find myself in the awkward position of being T.M. Opera O's\nprovisional trainer..."
+        }
+    ]
+}

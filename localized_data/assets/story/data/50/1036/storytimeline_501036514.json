@@ -1,0 +1,227 @@
+{
+    "title": "“コレ”もガラクタ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "...\nThat should do it."
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, Air Shakur shows up at my office with a\nlarge cardboard box.",
+            "choice_data_list": [
+                "Um... Shakur? What is this exactly?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's yours.\nKeep what ya want and chuck whatever you don't."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't really understand, but I accept it for now\nand then check the contents. Everything is still\nsealed. It seems she hasn't touched any of it since\nit was delivered."
+        },
+        {
+            "name": "Monologue",
+            "text": "The contents are absolute chaos. At first, I think\nit's just crammed full of junk food, but then I\nnotice some healthy, organic food mixed in there\ntoo."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are \"health drinks\" with no scientific\nbacking mixed in with the latest scientific magazines.\nI also find what appears to be a child's towel as well\nas a stylish handkerchief. Amid this assortment of\nseemingly random items, something catches my eye.",
+            "choice_data_list": [
+                "A photo?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It shows a youthful yet frail Umamusume cradling\na child in what looks to be a bar. There's a\nmessage on the back of the photo."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's right.\nIt's all from my mom."
+        },
+        {
+            "name": "Monologue",
+            "text": "My curiosity gets the best of me a few days later,\nand Air Shakur lightly acknowledges it was a gift\nfrom home."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's all about what I expected. Man, she's so\npathetic.",
+            "choice_data_list": [
+                "Your mom?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "She just wants to give the appearance of being a\nparent. That's why there's no rhyme or reason to\nwhat she sent."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I mean, a kids towel and a baby picture? I\nimagine that's her way of saying she wants things\nto go back to how they used to be."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Before I was old enough to know any better, my\nmom dressed me up in whatever she liked. She\njust misses the days when I went along with\neverything like a good little girl."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is not her typical tone. I can gather from her\nopen aggression that there's a deep rift between\nher and her mother.",
+            "choice_data_list": [
+                "(If I tell her about the message, it might just\nadd fuel to the fire...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The message on the back of the photograph of\nthe two reads: \"At the very least, tell me what you\nwant me to do. Try to understand my feelings.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I can't even remember the last time we spoke\nproperly. You'd think she'd take the hint by now\nthat I'm through with her."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Besides... <i>she</i> was the first to throw in the towel.\nShe should have just ended it there."
+        },
+        {
+            "name": "Monologue",
+            "text": "A possible reason for all the random items strikes\nme. She may have no idea what Air Shakur\nactually needs. This could be the result of her\nagonizing over every possibility."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Try to understand my feelings.\" I imagine this\nmight be a plea for not only understanding, but\nfor a chance to speak.",
+            "choice_data_list": [
+                "Yeah, it seems like she doesn't get you. But..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But what?",
+            "choice_data_list": [
+                "It could be a sign that she wants to do\nsomething for you."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, right.\nAnd even if that was the case, I don't need her\nforcing anything on me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not wanting to intrude any further, I decide to\nchange the subject.",
+            "choice_data_list": [
+                "Where was the photo taken?",
+                "Where was the photo taken?",
+                "At any rate, she sure sent a bunch of stuff..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Not wanting to intrude any further, I decide to\nchange the subject.",
+            "choice_data_list": [
+                "Where was the photo taken?",
+                "Where was the photo taken?",
+                "At any rate, she sure sent a bunch of stuff..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just some bar she used to work at.",
+            "choice_data_list": [
+                "So she was a bartender?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "As if she could do that without making a mess of\neverything.\nNo, she was a singer."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "She sat in the corner and sang for everyone while\nthey drank."
+        },
+        {
+            "name": "Monologue",
+            "text": "So her mother was a singer. I'm interested in\nhearing more, but Air Shakur doesn't seem to\nwant to continue the discussion."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take another look at the photo. Her mother has\na gentle look about her, while Air Shakur looks\nlike she was as uncompromising as a kid as she is\nnow.",
+            "choice_data_list": [
+                "You sure were cute.",
+                "You sure were cute."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All kids look more or less the same at that age."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah... Just look at that outfit. Freakin' frill city."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I hated it so much that I tore it to shreds one day\nwhen she wasn't around. I remember her crying\nher eyes out after."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And the way she cried... looking right at me with\ntears streaming down her face... I couldn't stand\nit."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if Air Shakur and her mother will have a\nchance to talk sometime in the future."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like too much to have come from just a\npackage or two. I suspect that...",
+            "choice_data_list": [
+                "Have you never opened a single thing she's sent\nyou?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Of course not."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, hang on. I opened one."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, Doto did. Not me.",
+            "choice_data_list": [
+                "Meisho Doto?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah. Y'know, same room? Apparently, she\nthought it was for her."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No idea why, but apparently my mom sent some\nsuper spicy snacks. Anyway, Doto wolfed them all\ndown."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "She practically begged for me to forgive her when\nshe realized. She wouldn't stop moping. Can you\nimagine how annoying it is to deal with that in\nyour own room?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I told her she did me a favor since I didn't even\nwant them in the first place, and I'd give her even\nmore. That made her happy. Too happy..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "She started talking to me all the time after that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Weirdo."
+        },
+        {
+            "name": "Monologue",
+            "text": "I imagine scenes like that are not altogether\nuncommon in their dorm room, and I get the\nfeeling I've caught a glimpse of the reason why\nMeisho Doto is so attached to Air Shakur."
+        }
+    ]
+}

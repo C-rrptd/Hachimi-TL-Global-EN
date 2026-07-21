@@ -1,0 +1,30 @@
+{
+    "title": "クレーンゲーム成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wow, amazing! You got one!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thank you, Trainer!",
+            "choice_data_list": [
+                "It's no big deal.",
+                "It's no big deal."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hey, no need to be humble! You won it for me,\ndidn't you?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm really happy! I'm gonna treasure this plushie\nforever."
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

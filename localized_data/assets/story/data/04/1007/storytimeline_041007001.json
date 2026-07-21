@@ -1,0 +1,215 @@
+{
+    "title": "第1話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I started as a trainer here at Tracen Academy only a few days ago."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's peaceful watching the students practice while I fantasize about my\nown glorious days to come..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm hopeful that I'll soon become someone's trainer, and help them\ngrow into an excellent racer. That is, until..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "URRRAAAGH! OUTTA MY WAY!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<I>Huff... pant...</I> Crud... Where are ya?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Barnacles! I don't see 'em! I'm positive my Golshi Radar was pinging in\nthis direction..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<I>Radar alert... Radar alert... Trainer signal detected.</I>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "No doubt—that's a radar ping, all right! There's a trainer somewhere\nclose by!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But... where? If I remember right, trainers are green creatures with\nbig, pointy fangs..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah-ha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I make eye contact with the oddball student... I've got a bad feeling\nabout this."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, you there. You're a trainer, right?",
+            "choice_data_list": [
+                "Well, I don't have green skin or pointy fangs..."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh? Whaddya mean? You're wearing a trainer badge, so that makes\nyou a trainer, doesn't it?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Geez, you need to quit the nonsense. You might get kidnapped by\nstudents looking to be scouted..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "—Students like me! The esteemed Gold Ship!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Resistance is futile! No way I'm letting a wild trainer run free!\nRAAAGH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The one who calls herself Gold Ship is getting way too close! This\ncould be dangerous!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I might be in actual danger—I'd better get out of here, fast!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah! Hey, you! Hold it right there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to escape behind the main hall. It seems I've lost her."
+        },
+        {
+            "name": "Monologue",
+            "text": "What was that all about?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Excuse me... Are you all right?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You're quite out of breath. Did something happen?",
+            "choice_data_list": [
+                "Gold Ship was chasing me..."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Goodness, Gold Ship was?! Well, how should I put this... You have my\nsympathies."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I have to ask—how is it that you found yourself in such a\npredicament?",
+            "choice_data_list": [
+                "I think she's looking for a trainer...",
+                "I think she's looking for a trainer..."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That makes sense... You see, she has a strong desire to debut and\nstart racing."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Having a trainer is an essential step to running in official races."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship, however, hasn't found one yet. Or rather... how should I\nput this? She can't hold on to one."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Anyway, in her efforts to find a trainer, she's likely resorted to trying\nto kidnap one..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like Gold Ship is a real troublemaker around the school."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seriously wants to race, which is great and all, but I can't imagine\nI'd be able to handle her..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "URAAAAGH! Where's that wild trainer?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh no... I think she's caught up to you!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can't get embroiled in this mess, so you'll have to pardon me. Do try\nyour best to stay safe!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "GRAAAAAARGH! Where are you?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Not good! I gotta make a break for it! I hope she doesn't see me..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oho! A wild trainer appears! ♪"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You're mine now—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<I>Swoosh!</I>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Woohoooo! A successful hunt!",
+            "choice_data_list": [
+                "S-somebody help!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aww, don't wuss out on me now. It's not like I caught you to fill my\nbelly or anything."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I'm just gonna take you on a teensy-weensy, kinda-huge adventure.\nNow that you're caught up on the details, all aboard!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Still crammed in a bag, I get carried off to who knows where..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Several hours later..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ding ding! What a day! Bright an' shiny! This is the perfect weather to\nsearch for treasure!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Okey dokey, Golshi's super... exciting... awesome treasure hunt\nbegins... NOW!"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "What the... Where am I?!\n<I>To be continued</I>"
+        }
+    ]
+}

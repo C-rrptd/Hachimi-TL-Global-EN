@@ -1,0 +1,302 @@
+{
+    "title": "カワイイの衝撃",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Dozing off, I see an old memory dance through my dreams."
+        },
+        {
+            "name": "Monologue",
+            "text": "On my way home from the amusement park, I find a girl crying\nbecause she got separated from her mom.",
+            "choice_data_list": [
+                "Want me to help you look for her?"
+            ]
+        },
+        {
+            "name": "Young Umamusume",
+            "text": "Really?! Thanks, big bro! Hehe, you're so nice. ♪"
+        },
+        {
+            "name": "Young Umamusume",
+            "text": "Really?! Thanks, big sis! Hehe, you're so nice. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tears dry as we search, and then... as we pass the park's princess\ncastle, she stops and looks up.",
+            "choice_data_list": [
+                "...Do you want to be a princess when you grow\nup?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As I follow the girl's gaze to the castle, the question slips out of my\nmouth. In response, she turns around and flashes me a warm, mellow\nsmile."
+        },
+        {
+            "name": "Young Umamusume",
+            "text": "Well, my dream is—"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's morning, and I arrive in front of the Tracen Academy school gates\nto find a huge crowd of people outside waiting for something."
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "No way—I think we managed to grab the best spot here! We're like\nsuper close!"
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "Waking up early to claim a spot was so worth it! And If I'm lucky,\nmaybe I can get a selfie...",
+            "choice_data_list": [
+                "Excuse me, but what's going on?"
+            ]
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "Whaaat?! Trainer, you're joking, right? Today's the day the famous\nUmastagrammer known only as \"Curren\" is transferring to <i>our</i> school!",
+            "choice_data_list": [
+                "...Curren?"
+            ]
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "Wait, you really don't know?! We're talking about the selfie goddess\nwith over 3 million followers on Umastagram—that Curren!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like this new transfer is already well-loved by the student\nbody. My curiosity piqued, I decide to wait with the crowd for her to\narrive."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon enough, a limousine parks in front of the school gate, and a\nsingle girl steps out."
+        },
+        {
+            "name": "Fans",
+            "text": "Aiiieeeeek! Curren!"
+        },
+        {
+            "name": "Curren?",
+            "text": "Wow! ♪ What a welcome! Don't tell me you were all waiting for me?"
+        },
+        {
+            "name": "Curren?",
+            "text": "Hehe, you all are just the best!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You just made me the world's happiest Curren Chan! ♪ Heehee! ♪"
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "No way! It's like Curren's got filters on her—but in real life!"
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "Omigosh—she's positively glowing! <i>The</i> Umastagram star, Curren, is\nreally in front of me right now!"
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "Um, do you mind if I get a picture with you? I'm your b-b-biggest fan!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Not at all! Let's see... Right, this pose will make you <i>extra</i> cute!"
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "Whoa, I actually... got a pic with her. Wow! Thank you so much! I'll\ntreasure this forever!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Curren's happy when everyone's happy! ♪ When you post that pic,\ndon't forget to spread the love via #CurrenChan!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Everyone, there's still plenty of pictures to be taken! ☆ Just remember\nsure to share the pics with all your friends, okay? ♪"
+        },
+        {
+            "name": "Fans",
+            "text": "Okaaay! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "What a presence... I find myself staring at the impromptu photoshoot,\nlost for words, when suddenly... my eyes meet Curren's."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Y-you're—",
+            "choice_data_list": [
+                "...Wh-who, me?",
+                "...Wh-who, me?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yeah, I'm talking to you, silly!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "After all... you and I are meant to be!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You're a trainer at this academy, aren't you? I think... I was destined\nto find you here!",
+            "choice_data_list": [
+                "Huh... What?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's decided—I've made up my mind! From today on... you'll be <i>my</i>\ntrainer! ♪",
+            "choice_data_list": [
+                "Whaaaaat?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Is... that a no? You know, I've been waiting so long to see you... Sniff,\nsniff..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her sudden barrage of cuteness nearly sways me, but I return to my\nsenses. A contract between trainer and Umamusume isn't something to\nbe taken lightly.",
+            "choice_data_list": [
+                "C-come over here for a sec!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Okaaay! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Leaving the school gate behind, I take the time to explain to Curren\nChan about trainers and how she shouldn't pick hers off of a first\nimpression.",
+            "choice_data_list": [
+                "You came here because you had a dream, right?",
+                "You came here because you had a dream, right?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...A dream, huh?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Well, of course I do! ♪ After all, I came to this school..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...so I could hear everyone tell me how cute I am! ♪ I bet that at <i>the</i>\nTracen Academy, I'll get waaay more followers!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It feels like someone just hit me over the head with a sledgehammer.\n<i>That's</i> why she enrolled here?!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hear me out, okay? I want even more people to love me, and to do\nthat—I need you!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "So, pleeease... Big Bro! Be my one and only trainer! ♪",
+            "choice_data_list": [
+                "B-\"Big Bro\"?!",
+                "B-\"Big Sis\"?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "So, pleeease... Big Sis! Be my one and only trainer! ♪",
+            "choice_data_list": [
+                "B-\"Big Bro\"?!",
+                "B-\"Big Sis\"?!"
+            ]
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "...Is that trainer actually trying to turn down Curren? And when she's\nasking so earnestly, too..."
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "If I were a trainer, I know I'd jump at an opportunity like this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can feel her fans staring daggers at me right now... I try to come up\nwith a good reason to turn her down, but somehow..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Then from today on, you're my trainer! We're official! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wait, what did I just agree to?! She had me in the palm of her hand!\nI'd better keep my guard up around her in the future..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yay! ♪ Now we'll aaalways be together! Isn't that great, Big Bro? ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yay! ♪ Now we'll aaalways be together! Isn't that great, Big Sis? ♪"
+        },
+        {
+            "name": "Fans",
+            "text": "Congratulations, Curren!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a round of applause from the nearby onlookers... but not\neveryone seems so keen to welcome the new arrival."
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "...What's the deal with that crowd?"
+        },
+        {
+            "name": "Race-loving Umamusume",
+            "text": "An Umastagrammer... I hope she knows the rest of us are here to <i>race.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess popularity is a double-edged sword. But at this academy, the\nonly way to prove the doubters wrong is with your race results."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...Big Bro, are you worried about me?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...Big Sis, are you worried about me?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, thanks. But it'll be okay—because I'm suuuper cute! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, a physical evaluation is held for Curren Chan.\nSurrounded by throngs of curious spectators, she shows off a variety\nof skills."
+        },
+        {
+            "name": "Instructor",
+            "text": "1,200 meters on dirt! A-at that speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our surroundings break out in commotion. For a newbie, her time was\nexceptional! She might just have a natural talent for sprinting."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Big Brooo! Hey hey, how did I do? I was reeeally cute out there,\nright? ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Big Siiis! Hey hey, how did I do? I was reeeally cute out there,\nright? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren Chan... Why did she transfer here, and what does she want out\nof racing? For now, I hit the follow button on her Umastagram profile."
+        }
+    ]
+}

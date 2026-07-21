@@ -1,0 +1,200 @@
+{
+    "title": "正義の圧？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "There's no way I can accept that!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm... Is it that you're incredibly sensitive, or is it\nthat you have an exceptionally strong sense of\njustice?",
+            "choice_data_list": [
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, Trainer? No, it's nothing really."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just a moment ago, there were some Umamusume\ntalking about me. They were saying—"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "They were being so cruel! They called Tachyon a\ndangerous person who's always making strange\ndrugs!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're her trainer, so you won't let that slide,\nright?",
+            "choice_data_list": [
+                "I'm certainly not a fan of badmouthing people\nbehind their back."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Right! We need to call attention to—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Stop it! This is a waste of time."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "More importantly, I don't care. This matter is\ncompletely unrelated to my research."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Gaining the approval of others isn't my priority."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How can you say that?! They're all getting the\nwrong idea about you. It's so sad!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now, now, no need to get all worked up over it.\nHow about some tea to calm you down?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Come, follow me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Phew. Thanks for the tea."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It made my tongue tingle a bit and had a\nmysterious flavor, but it was delicious."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I see, I see. That's good to hear."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But... I still can't accept what happened earlier."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Saying bad things about someone who's earnestly\npursuing their dreams... it's just not right!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm... You're really serious about this. What do\nyou think, Trainer?",
+            "choice_data_list": [
+                "Let your research results prove them wrong.",
+                "Show them what makes you amazing."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I couldn't care less if they reconsider their\nopinion, but the approach in itself isn't bad."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah... That's true. Actually proving yourself is a\nsure bet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You know... I'm sorry. I sort of stepped outside\nmy bounds there."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hahaha! You did absolutely nothing wrong! Come\non, keep your head up."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "For some reason, seeing you feeling down makes\nme restless."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Hehe. Thanks for everything, Tachyon!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well... sorry for staying so long. Thanks for the\ntea!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet seems satisfied as she leaves,\nhowever..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That's odd... I laced her tea with a concoction\ndesigned to transmit signals from her nerves to\nher hair, triggering movement based on her\nemotions."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Her hair was supposed to stand on end in reaction\nto her anger, yet..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm, there was basically no change at all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I was hoping I'd be a step further towards\nactualizing body modification, but it seems to be\nanother failure! Haha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but think, perhaps she <i>is</i> in fact a\ndangerous person."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that Agnes Tachyon learned something\nfrom the interaction with Daiwa Scarlet."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That's a bold thing to say... Are you suggesting I\nshowcase the results of my research?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's it! Do you have any recent successful\nexperiments to show off?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Um... the one on turns, perhaps?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Turns?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yes. I have these glasses that lead you on a less\nstrenuous path when navigating a turn on a track."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wow! That sounds amazing!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "They might not be allowed in an actual race, but\nyou could use them during training to better\nadapt to the track!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, perhaps, but there's still room for\nimprovement..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Let's do it! Why waste any time? We should show\nthem right now!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Right?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "O-okay, okay. ...You really don't let up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Pressed by Daiwa Scarlet, Agnes Tachyon works\nthrough the night to complete the glasses."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with their use, she successfully masters the\nart of running through turns."
+        }
+    ]
+}

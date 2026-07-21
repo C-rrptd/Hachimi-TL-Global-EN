@@ -1,0 +1,53 @@
+{
+    "title": "菊花賞にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's race, the Kikuka Sho, is the longest of\nthe Classics."
+        },
+        {
+            "name": "Monologue",
+            "text": "Long races are Gold Ship's forte, so I'd really like\nto see her win this, but..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Yaaawn...</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "This is some darn good tea... And the autumn\nleaves are looking lovely..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The way she's kicking back, you'd think she's here\nfor a leisurely vacation.",
+            "choice_data_list": [
+                "This is no time to relax! The race is about to\nstart!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh yeah, the race."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It's fine. The best way to win a race is to go in\nloose and relaxed."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I'll be there just as soon as I finish my tea, don't\nyou worry. Oh, and by the way..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Can you pass me those rice crackers?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Relaxing might just be her way of getting ready\nfor the race, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Honestly, she's really stressing me out!"
+        }
+    ]
+}

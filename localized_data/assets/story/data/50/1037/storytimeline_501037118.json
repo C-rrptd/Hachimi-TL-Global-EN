@@ -1,0 +1,368 @@
+{
+    "title": "Die Frage",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahhh, the beach! ☆ Isn't the sparkling sand just\nwonderful, Trainer?",
+            "choice_data_list": [
+                "So you are!",
+                "So you are!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's like being on a fancy vacation! Y'know, like,\nDubai vibes! ☆ Or something like that!",
+            "choice_data_list": [
+                "We're still very much in Japan, though!",
+                "We're still very much in Japan, though!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Um, could someone please explain what is\nhappening?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Shouldn't I be training? What of my schedule?\nAnd why is Falcon here?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Trainer, I beseech you... Please explain what this\nis all about!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "There's nothing like a taking a vacation to let off\nsome steam! Like living it up in Dubai! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking Smart Falcon's advice, I arranged a trip\nto... a relatively close beach since Dubai wasn't\nreally an option."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, I used Umadol ☆ Power to bring you all this\nway! ♪"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Umadol Power? Is that what you call the\nextreme manhandling you gave me?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aw, you gotta let bygones be bygones! You're\nhere now, so enjoy yourself!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "We can have cute drinks, or laze around on the\nbeach... Oh, suntanning isn't an option, though.\nSkin damage is a no-go for an Umadol like me!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I appreciate the thought. Honestly, I am touched\nyou'd do this for me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However... I can't afford to frolic on the beach\nright now. I must return to my training at once—"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Nuh-uh. You're not going anywhere."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Falcon?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I mean, I can tell you've been in a really bad\nplace lately."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You used to come home at the same time every\nday, but now there's no telling when you'll be\nback... And you're always rushing around every\nwaking minute."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's like you can't do what you really wanna do."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You always support me with anything and\neverything I want to do..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So I started wondering if there's anything <i>I</i> could\ndo for <i>you.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Falcon..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And there is! There's something I definitely can\ndo! After all, I'm an Umadol!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And Umadols can brighten anyone's day! ☆ If you\nhang out with me, you're <i>guaranteed</i> to feel\nbetter!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...That is the most illogical reasoning ever."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But it's true! ☆ So just forget about everything for\ntoday and live it up with me!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "C'mon! If we just start walking, I bet we'll find\nsomething to do eventually! Any ol' direction will\nwork, so let's—"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Are you telling me you have no set plan?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Um..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Tell me what you wish to do other than relax on\nthe beach."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'll look into the nearby tourist locations and\ncreate the perfect plan for us."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You're awesome, Flash! I'll leave it to you,\nthen! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, we slowly get into vacation mode\ntogether."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, wow! That church is huuuge."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It seems they are holding an exhibition on the\nhistorical stained glass windows inside. Would\nyou like to see it?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You bet! ...Hehe! ♪"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hm? Why are you laughing?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I was just thinking that I managed to find\nsomething you like. ☆"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And that makes you happy? You are truly an odd\none."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, around the time Eishin Flash starts to\nrelax..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Phew... I'm stuffed... Ugh, the heartburn..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I told you not to add extra whipped cream to\nyour order..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aww, come on. It's not like you don't have a big\nsweet tooth too."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I do. That is why I didn't add extra cream, so I\ncould savor my dessert without suffering\nheartburn."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But don't you secretly wanna try absolutely\nsmothering your dessert in the stuff?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In my youth, I once made myself very sick by\ndoing so. Never again."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You really are amazing, Flash..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...How do you mean?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I always, always pile an entire mountain of\nwhipped cream on my pancakes, and I always\nregret it afterwards."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I stay up too late using my phone and oversleep,\nflunk my tests, and never finish my homework. I\nknow it's bad, but I still do all that. Hehe..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But not you, Flash. You find a goal, make a plan,\nand see it through to the end."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You learn from all your mistakes and never\nhesitate on your path. You always march straight\non forward."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's why I think you should just go for it and do\nwhat you want! ♪ I know you can accomplish\nanything you set your mind to!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Whether or not the race is worthy of my pride as\na racer. In other words, G1 races—races that only\nthe best in the world can run."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This is the most optimal race schedule I can\ndevise for myself."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, I..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon's earnest words of encouragement\nring true and clearly move Eishin Flash. Now\nmight be my chance...",
+            "choice_data_list": [
+                "Flash, I have a suggestion."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "What is it?",
+            "choice_data_list": [
+                "Would you run with me?",
+                "Would you run with me?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Pardon?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have changed clothes... but are you truly serious\nabout this?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I cannot understand. A human stands no chance\nagainst an Umamusume in a race."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, you <i>are</i> racing on sand instead of turf, so\nwho knows? Do your best, Trainer! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ready? On your marks, get set..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The race is settled as soon as it starts."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Are you all right, Trainer?",
+            "choice_data_list": [
+                "I lost by a hundred lengths..."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That's an exaggeration. Now, would you please\nexplain why you asked to race me?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Why did you ever make such a foolish\nproposition?",
+            "choice_data_list": [
+                "You don't seem happy you won."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Naturally. What joy is there in defeating such an\neasy opponent?",
+            "choice_data_list": [
+                "But that's exactly what you proposed.",
+                "But that's exactly what you proposed."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!",
+            "choice_data_list": [
+                "There's no pride in winning after fleeing from a\nchallenge."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The perfect schedule is designed for victories that\nhave meaning because they offer a challenge.\nThere's no point in winning just because you can."
+        },
+        {
+            "name": "Monologue",
+            "text": "More specifically, it's utterly pointless for Eishin\nFlash. She's worked so hard for so long to get to\nthis point. What she needs right now is to...",
+            "choice_data_list": [
+                "Win a race that you <i>want</i> to win.",
+                "Win a race that you <i>want</i> to win."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!",
+            "choice_data_list": [
+                "Don't you want to win in the G1?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I... do. I want to compete at a high level... and be\nvictorious."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I, too, believe there is pride to be had in\naccomplishing such an achievement."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But... what meaning is there in taking on a\nchallenge that may be impossible to overcome?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Is it so strange that I would rather change my\nplans so I can win in front of my parents?"
+        },
+        {
+            "name": "Monologue",
+            "text": "At last, Eishin Flash confesses her true feelings. If\nonly there was something I could do to help her\nget over this fear of failure..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Where your running leads you is up to you."
+        },
+        {
+            "name": "Monologue",
+            "text": "In that case..."
+        }
+    ]
+}

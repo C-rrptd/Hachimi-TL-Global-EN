@@ -1,0 +1,46 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Air Shakur..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice Air Shakur eyeing a claw machine filled\nwith Umamusume plushies.",
+            "choice_data_list": [
+                "Do you want one by any chance?",
+                "Do you want one by any chance?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Yeah, right."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've analyzed claw machines before. They're\ngames that utilize a fusion of digital and\nmechanical technology."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "From what I've ascertained, grabbin' a plushie\nshould be a piece of cake if you do it right.",
+            "choice_data_list": [
+                "In that case, I'll give it a shot.",
+                "In that case, I'll give it a shot."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Sure, show me what ya got. Make sure you factor\nin the plushie's weight distribution and the track\nthe claw moves on."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

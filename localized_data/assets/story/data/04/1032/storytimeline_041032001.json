@@ -1,0 +1,265 @@
+{
+    "title": "ツァイガルニク効果",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "My head hurts...",
+            "choice_data_list": [
+                "(Huh? What's going on?)",
+                "(Huh? What's going on?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I must've been out for a while. When did I—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hey, you. You're finally awake.",
+            "choice_data_list": [
+                "...Agnes Tachyon?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon, a talented runner that even a rookie trainer like\nmyself has heard about, is standing right in front of me."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Looks like you're in a state of shock. You just regained consciousness,\nso I'd advise you to not overdo it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now, sit in this chair for me. It's time to <i>relax.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I do as she says and sit on the infirmary stool."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now... do you know why you're here? Can you recall?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "By the way, I'm the one who carried you here while you were\nunconscious. So the question is <I>how</I>—and <I>why</I>—did you lose\nconsciousness?",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I rack my brain for an answer as dull throbbing pain courses through\nmy head. If I recall, I was walking down the hallway..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, heeey, heeeeey! Tachyon, I said waaait!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why, if it isn't Bakushin O! What's got you this riled up? It's not like\nyour beloved homeroom was burned to a crisp or anything."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You're right, it wasn't burned to a crisp!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Then all's well that ends well. See you."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Your class representative commands you to stop! There's nothing <i>well</i>\nabout any of this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes, the classroom is still standing! BUT! Do you understand how\nclose we got to disaster?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "One corner of the classroom had an <i>eensy</i> bit of smoke, right? Is it\nreally something our class representative should get so upset about?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Huh?! H-hmmm... When you put it that way..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You only filled the entire classroom with smoke, so I guess I <i>should</i> let\nyou off this time?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Magnanimity is a virtue, class representative. You would do well to\nremember that."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...Ah, wait! The teacher even told me eight times to ignore the\nexcuses and capture you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I won't let you escape, Tachyon!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! I knew that wouldn't work!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Stop right there! BAKUSHIN, BAKUSHIIIN!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! You there—yes, you, the trainer! Don't let Tachyon through!",
+            "choice_data_list": [
+                "(W-wait, me?!)",
+                "(W-wait, me?!)"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm? Whoa, there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm, looks like you remember the events that transpired."
+        },
+        {
+            "name": "Monologue",
+            "text": "I certainly do, including the fact that the girl in front of me is the\nculprit who filled the classroom with smoke.",
+            "choice_data_list": [
+                "Why did you fill the classroom with smoke?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What a peculiar thing to ask... To further my <i>research</i>. Why else?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Research</i>... Agnes Tachyon's eyes light up as she says the word.",
+            "choice_data_list": [
+                "(I have a weird feeling about this...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Noting to myself that it's probably best to not get too involved with\nher, I attempt to stand up—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Creak...</i>",
+            "choice_data_list": [
+                "Huh?! I can't move?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "(When did she tie me to this chair?!)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Might you be the type who gets lost in their own thoughts? As\nsomeone of the same breed, I understand your confusion all too well."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Out of the kindness of my heart, here's some advice—you'd be wise to\nguard yourself better."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "After all, you never know when you might run into a researcher\nlooking for a spry, healthy adult male to serve as her test subject,\nright?",
+            "choice_data_list": [
+                "T-test subject?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "After all, you never know when you might run into a researcher\nlooking for a spry, healthy adult female to serve as her test subject,\nright?",
+            "choice_data_list": [
+                "T-test subject?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As for me, this windfall is certainly welcome. Maybe I should pay my\nrespects at the shrine."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "At any rate, everyone at this academy already knows me far too well.\nForget asking for test subjects—everyone runs away from me on sight."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And yet—HA-HA-HA! Never would I have imagined that fresh blood\nwould show up on my doorstep! What a stroke of luck!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So, my guinea pig—ah, apologies, I mean rookie trainer.",
+            "choice_data_list": [
+                "Did you just call me a guinea pig?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "An adult needn't worry about such trifling matters."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "More importantly, I have one special—wait, given your heartiness, I'll\nhave you drink three of my medicines.",
+            "choice_data_list": [
+                "...What's in them?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh, the proof is in the pudding—or should I say, the\nmedicine?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Don't worry... Worst case, both of your legs will glow green-gold for a\nfew hours. A cute side effect, if I say so myself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What I really want to see is the human quadricipital data that I can\ncollect with this."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's a well-known fact that human and Umamusume body structures are\nalmost entirely identical, but by comparing data from both, perhaps a\nnew—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Tachyon... Are you up to no good again?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why, if it isn't Cafe! What's the matter? Perhaps you've finally come\nto join my experiment—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Keep dreaming. I came to tell you that the teacher's looking for you. I\nthink... it's about the upcoming tryouts."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hurry up... and go already. Now... Right now..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Okay, okay... Message received, so don't glare at me like that! Looks\nlike the experiment will have to be put on hold."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "See you around, rookie trainer!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Sigh...</i> I'll... untie you..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stammer out my thanks as I count my lucky stars. I'm saved... At least,\nfor now."
+        }
+    ]
+}

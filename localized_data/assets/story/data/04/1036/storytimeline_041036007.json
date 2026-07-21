@@ -1,0 +1,244 @@
+{
+    "title": "“Change mode”",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer training camp has arrived at last."
+        },
+        {
+            "name": "Monologue",
+            "text": "In addition to training, there are also plenty of events\nhappening—everything from a beach day to a fireworks show... The\nschool even planned a barbecue."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm off, so time me, okay?\n...Hey, you listening?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. Sit in the shade while you time me. And drink some water. I\ndon't want to have to redo my laps 'cause you passed out."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd like to think Air Shakur and I have grown closer since the\nbeginning. But whether or not she <i>trusts</i> me...",
+            "choice_data_list": [
+                "(That's... up for debate...)",
+                "(That's... up for debate...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, summer is always jam-packed with events, so this is the perfect\ntime to deepen our bond!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Or at least, that's what I had <i>hoped</i>..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A day at the beach? Unless it's for training, no way am I spending\ntime in this heat."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A fireworks show? What a lame, loud, and illogical idea. Pass."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not happening.",
+            "choice_data_list": [
+                "But... I haven't said anything yet!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're inviting me to the school barbecue. It's so obvious. What's\nnext, the pool? Camping? Get your summer-loving head out of the\nclouds, moooron."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I know you're up to something, so give it up. I'm not doing anything\noutside of training."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All that cheerful laughter is just noise to me, plain and simple. You\nshould know that by now."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that Air Shakur doesn't like noisy places. Perhaps I should\nhave considered that when finding events to invite her to.",
+            "choice_data_list": [
+                "Well, that doesn't mean I should give up!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Surely there must be a summer activity Air Shakur would like... As I\nstare ahead in thought, a spark of light flutters in the distance, before\ndisappearing again.",
+            "choice_data_list": [
+                "That's it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching the fireflies would make the perfect peaceful summer\nactivity! One that I'm sure Air Shakur will enjoy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, I head in the direction I saw the firefly, and my nights\nspent searching for their gathering space begin."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unfortunately, it's been days since then, and my search has yet to\nprove fruitful..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I start to wonder if I was seeing things that day. This river looks\nperfect for fireflies, but I've yet to see a single one.",
+            "choice_data_list": [
+                "(And summer camp will end soon...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as I begin to think it better to give up for this year, I feel a hand\non my shoulder."
+        },
+        {
+            "name": "???",
+            "text": "Stop right there, stranger. Let's see some ID... That reminds me, I've\ngotten reports of a weirdo stalking the woods late at night.",
+            "choice_data_list": [
+                "I-I'm not doing anything suspicious!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Goootcha."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You've been acting weird all day. You think I wouldn't notice?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now, what're you up to?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like I'd better fess up... I explain my quest for fireflies and the\nreason behind it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now it's fireflies, huh? I thought you'd been too quiet lately... When\nare you gonna learn?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I thought I told you. I don't need all this buddy-buddy stuff. I\nalready—",
+            "choice_data_list": [
+                "I know, I know. You already have Parcae.",
+                "I know, I know. You already have Parcae."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't get it.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't get it. If you <i>know,</i> then why can't you just accept it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "At first, I thought it was pity or a sense of superiority, but I don't think\nthat's it. It's something else."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So why do all this? Conviction? A sense of duty? Some weird new\ntraining technique I'm unaware of?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The answer comes to me surprisingly quick.",
+            "choice_data_list": [
+                "I just care about you. That's all.",
+                "I just care about you. That's all."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that I know Air Shakur already has the perfect partner in her\nPC. No doubt that's the reason she was able to get this far without\ntrouble."
+        },
+        {
+            "name": "Monologue",
+            "text": "But if she continues to avoid relying on others, I can't help but worry\nabout what will happen when she <i>does</i> encounter trouble she can't\nhandle."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she pushes people away even then, whatever that trouble is, it\ncould stop her in her tracks.",
+            "choice_data_list": [
+                "That's why I want us to get closer."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ha... So this improbable possibility you've come up with is the reason\nyou've been inviting me to every little thing?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You got us kicked out of a net cafe, inserted yourself into my\nshopping... and wandered around in the dark hunting bugs for that?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What were you going to do if this pissed me off more? It would've\nended in a lot more than me <i>pushing</i> you away.",
+            "choice_data_list": [
+                "I know you wouldn't let it get that far."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is anything but timid. If I <i>really</i> made her mad, she would\nhave simply found another trainer."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i> So annoying.",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You talk like you know what you're doing, yet here you are, worrying\nabout something that isn't even guaranteed to happen."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's so illogical. Just like everything you do."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...And fireflies prefer darker places than this. The ground is too hard,\nand there's not enough grass. Did you even check upstream?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur turns and heads in the opposite direction of camp. For a\nsecond I think to correct her, but something stops me.",
+            "choice_data_list": [
+                "Shakur?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You coming or not?\nWatching fireflies doesn't sound so bad."
+        }
+    ]
+}

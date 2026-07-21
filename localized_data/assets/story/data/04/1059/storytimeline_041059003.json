@@ -1,0 +1,274 @@
+{
+    "title": "そして、ブラックアウト",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Doctor",
+            "text": "Fortunately, we were able to treat it early and it is\nnon-life-threatening, but I cannot recommend that she continue work\nas a trainer."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "I see... Well, I knew that this day would come sooner or later. I'm\nsorry, Bell."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-it's nothing you need to apologize for!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If anything, it should be me for not getting any stronger this whole\ntime..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given the circumstances, it is decided that it is best that the chief\ntrainer moves on to retirement."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "<username>, I'd like you to take over. I trust you."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "If it's you, I know that things will be just fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her official retirement comes into effect two weeks from now. I've\naccepted the job of chief trainer, but it is up to Mejiro Dober if she\nwishes to stay."
+        },
+        {
+            "name": "Monologue",
+            "text": "For that reason, I make an effort to better understand her feelings."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sorry, but can this wait? I'd like to focus on my training right now."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm sorry, but can we talk about this another time? I'd like to\nconcentrate on my training right now."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She placed all her faith in me, but I was never able to even give her\none win. I need to change that before it's too late."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She placed all her faith in me, but I was never able to even give her\none win. I need to change that before it's too late."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I only have two weeks, so I need to do everything I can right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "For the next few days, I'm busy with the handover and have little time\nfor much else."
+        },
+        {
+            "name": "Monologue",
+            "text": "When those tasks finally come to an end, I can't help but think of\nMejiro Dober.",
+            "choice_data_list": [
+                "I really should go check in on her."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff...</i>",
+            "choice_data_list": [
+                "Dober!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Eh? You...",
+            "choice_data_list": [
+                "Dober, isn't this a bit too much?",
+                "Dober, isn't this a bit too much?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Eh? Oh, Assistant Trainer...",
+            "choice_data_list": [
+                "Dober, isn't this a bit too much?",
+                "Dober, isn't this a bit too much?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Shut up! Leave me alone!",
+            "choice_data_list": [
+                "But if you push yourself like this...",
+                "But if you push yourself like this..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Please, would you leave me be? I told you that I don't have much\ntime!",
+            "choice_data_list": [
+                "But if you push yourself like this...",
+                "But if you push yourself like this..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I <i>HAVE</i> to push myself. Because I'm so weak!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I <i>HAVE</i> to push myself. Because I'm so weak!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I've always, <i>always</i> been so weak!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I thought I would be able to start winning right away. To be able to\nrun with confidence like Bright... To be as strong as Ryan..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "As a member of the Mejiro family, there's so much I want to prove.\nBut I..."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "And we have our first-place finisher! The other runners follow close\nbehind! Everyone, a big round of applause for everyone giving it their\nbest!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Oh, number 8 Mejiro Dober is rounding the last turn! She was a little\nlate out of the gate, but she hasn't given up!"
+        },
+        {
+            "name": "Young Dober",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Spectators",
+            "text": "You're doing your best! Just keep it up! Just a little farther! You can\ndo it!"
+        },
+        {
+            "name": "Young Dober",
+            "text": "<i>Huff... huff... gasp...</i>"
+        },
+        {
+            "name": "Young Dober",
+            "text": "Doing your best? \"Keep it up\"? \"It's okay\"? I've never heard anyone\nsay those things to Ryan and the others..."
+        },
+        {
+            "name": "Young Dober",
+            "text": "They always yell about how fast and amazing Bright and Ryan are...\nBut not for me..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That was a devastating day for me. I messed up at the start and\nfinished practically a whole lap behind everyone else. I've felt that\nothers have been laughing at me ever since."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I always feel ashamed and powerless... My heart starts to feel like it's\ntrying to escape my chest, and my legs begin to feel like they're not\neven my own..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's why I can't run properly in front of people anymore! No one\nelse at the academy is like this!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I felt myself getting slightly better with Trainer's guidance, but now\nI'm going to lose her too!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I have to do something! I have to win a race, even if it means\npushing myself this hard!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm such a weakling, but I have to change that even if I have to do it\nalone!",
+            "choice_data_list": [
+                "You won't be alone."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?",
+            "choice_data_list": [
+                "I'm here to support you.",
+                "I'm here to support you."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You mean to say that things will be okay if you take over as my\ntrainer? That things will work out? Don't make me laugh!",
+            "choice_data_list": [
+                "It's because you are an extremely capable\nrunner!",
+                "It's because you are an extremely capable\nrunner!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Have you even been listening to anything I've been saying?! I'm a\nweakling, and I always have been!",
+            "choice_data_list": [
+                "You've also never given up.",
+                "You've also never given up."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Keep going, keep goooing! Aaaaah!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just know that I would face a repeat of that scrimmage race if I just\nlet things be, however."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just know that I would face a repeat of that scrimmage race if I just\nlet things be, however."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I was thinking that talking to you could be some good mental\ntraining for me! You can do that much as my assistant trainer, right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I was hoping... maybe I could talk with you to help me build some\nmental fortitude. Would that be okay?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She placed all her faith in me, but I was never able to even give her\none win. I need to change that before it's too late."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She placed all her faith in me, but I was never able to even give her\none win. I need to change that before it's too late."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I only have two weeks, so I need to do everything I can right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "She hasn't given up this entire time, chasing after her goal of winning\na race in front of the eyes of many.",
+            "choice_data_list": [
+                "Someone who doesn't give up cannot possibly\nbe a weakling."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Gasp!</i>",
+            "choice_data_list": [
+                "Mejiro Dober, you are an incredible racer.",
+                "Mejiro Dober, you are an incredible racer."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I... I'm not...",
+            "choice_data_list": [
+                "Dober! I'll be waiting for you!",
+                "Dober! I'll be waiting for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I believe in her capabilities, even if she chooses to polish them alone.\nI want her to understand, though, that if she needs any support, then\nI'll be waiting."
+        },
+        {
+            "name": "Monologue",
+            "text": "I try my best to make that known to her as she dashes away into the\nnight."
+        }
+    ]
+}

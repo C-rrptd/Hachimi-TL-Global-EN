@@ -1,0 +1,402 @@
+{
+    "title": "道,分かたれて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days after the intensity of the Japanese\nDerby, Mejiro Ardan receives some bad news."
+        },
+        {
+            "name": "Monologue",
+            "text": "She learns that Sakura Chiyono O, who she ran\nalongside, is to be hospitalized due to a serious\ninjury, and she won't be racing for the time being."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This should be just about everything you'll need\nat the hospital."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm sorry, Ardan... You should be training but\nyou're here helping me..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, come on now, you needn't feel guilty. You\ndid just the same for me whenever I was\nhospitalized or discharged."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's only natural that I should be here for you too.\nIf we've shared a roof, we ought to be able to\nshare our troubles as well... don't you think?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ardan..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Would you like to get some fresh air with me?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "That sounds nice, but wouldn't that worsen your\ncondition?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll be fine! I was told not to run, but I'm allowed\nto walk as long as I take it slow."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Also... I want to take a look around the academy\nsince I won't be coming back here for some time."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Understandable. Let's go for a walk then, shall\nwe?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I wonder when I'll get to run on this track again..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahaha. We finally ran the Japanese Derby, and\nthough it wasn't long ago, it feels almost like a\ndream now..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, it wasn't a dream."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It was a very, very special race... one in which\nyou, Yaeno Muteki, and I all pitted all we had\nagainst one another."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes... You're right."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It was a once-in-a-lifetime race... full of\nmemories..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "To think that I was able to run that race with both\nyou and Yaeno that day..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm just... so glad."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Oh no! It's almost time for me to leave!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh dear! Let's hurry back and pick up your\nbelongings."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Well... I should get going."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Right... Do take care."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And also..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I hope we can run again, together, in a race even\nmore magnificent than the Japanese Derby."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I shall be waiting for you on the turf, Chiyono O...\nas your rival."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll do my best! I won't let this be the end!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I want to run with you and Yaeno even more... So!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I swear that someday... I'll make my comeback!\nUntil then, wait for me!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Of course.\n...I believe in you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay... I'll be off."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(...You can do it, Chiyono O. I just know you've\ngot what it takes to get through this and return to\nracing.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Just as you were there for me, it's now my turn to\nbe there for you. So I'll be there, waiting for\nyou...)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yaeno..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Has Chiyono O departed?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, she left a moment ago."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I was shocked at how you and Chiyono O ran in\nthe Japanese Derby."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Or rather, if I may be candid... it would not be\ninaccurate to say that I was thunderstruck."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The sheer determination the two of you displayed\nin that fleeting instant... The way you ran with\nunbound spirit... These sights remain vivid in my\nmind."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I was reminded once again... that you are both\nunmistakably worthy opponents."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Thus, I have made up my mind."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When the time comes, I will run against and best\nyou both in a direct contest. I swear it..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As an archrival... to both of you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Yaeno... So she believes as well!)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(She believes that Chiyono O will race with us\nagain...)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...I welcome the challenge."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I, too, shall run with all my heart against you and\nChiyono O."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...As your rival!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan is with me in my office, recounting\neverything that happened today."
+        },
+        {
+            "name": "Monologue",
+            "text": "And when she finishes talking, I see in her eyes a\nlight of fierce determination that's brighter than\never before!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...A newfound feeling stirs within me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Until now, all my intense training and racing has\nbeen in an effort to leave a dazzling trail of light\nbehind me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But the person I am right now seeks more than\nthat."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yaeno considers me her rival, and for her, I wish\nto do myself proud."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I wish to reach the same level as Chiyono O,\nwhom I've no doubt at all will return to racing one\nday."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I can feel these wishes deep down, burning with\nthe intensity of a raging inferno."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Trainer. May I ask you to show me the way?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "To a stage upon which I can aim for even greater\nheights, as a rival to both Yaeno and Chiyono O!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In my mind, I can envision two futures that satisfy\nher request."
+        },
+        {
+            "name": "Monologue",
+            "text": "The first would see her participate in the final\nrace of the Triple Crown tour—the long-distance\nKikuka Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki, who fully considers Mejiro Ardan\nher rival, will likely be making an appearance at\nthe Kikuka Sho as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "If I did make Mejiro Ardan race in a long-distance\nrace like that, I'd effectively be forcing her into\nan uphill battle..."
+        },
+        {
+            "name": "Monologue",
+            "text": "That being said, if I put Mejiro Ardan—as she is\nright now—up against Yaeno Muteki again, their\nclash could reveal a path to greater heights!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The second future would entail Mejiro Ardan\nmaking an appearance at the autumn Tenno Sho,\na prestigious medium-distance race dominated by\ntop senior-year racers."
+        },
+        {
+            "name": "Monologue",
+            "text": "And if my predictions are right, two particular\nrunners—whose names are known to every racer\nof this era—will be attending the race too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"The Beast\" Oguri Cap... and Tamamo Cross, \"the\nWhite Lightning.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap is a prodigy from the countryside who\nrose to the top ranks by achieving a miraculous\nstreak of wins after her debut. Right now, her\nincredible talents are the focus of a great deal of\nattention."
+        },
+        {
+            "name": "Monologue",
+            "text": "As fate would have it, she's in the same year as\nMejiro Ardan, so perhaps they were bound to\ncompete against one another sooner or later."
+        },
+        {
+            "name": "Monologue",
+            "text": "And then there's Tamamo Cross, who managed a\nludicrous series of victories during her senior year.\nShe's hailed as the number one in the country\nand—in this moment—the pinnacle of the racing\nworld."
+        },
+        {
+            "name": "Monologue",
+            "text": "With Mejiro Ardan hoping to cast an unfading\ntrail of light upon the present itself, there's\ndefinitely a lot she could learn from racing such a\ntrailblazing opponent."
+        },
+        {
+            "name": "Monologue",
+            "text": "A battle against two giant stars who have made\nwaves across their generation might just show her\na new world of possibilities!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Mejiro Ardan's trainer, the future I'm going to\nshow her is...",
+            "choice_data_list": [
+                "Let's enter the Kikuka Sho.",
+                "Let's enter the autumn Tenno Sho."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The goal race is now the Kikuka Sho."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...The Kikuka Sho."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My battle will be against Yaeno once more, I see.",
+            "choice_data_list": [
+                "It's going to be a tough race.",
+                "It's going to be a tough race."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, it will be. But I knew it would be."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I have chosen \"the steepest, most strenuous path\nof all.\" And the <i>moment</i> in which I can truly shine\nis found in the heat of such fierce battles."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Hehe. I wonder what will happen during our\nrace. Just thinking about it makes my heart soar."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Starting with tomorrow's training... I'll be counting\non you once again, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having set our sights on the Kikuka Sho, we\nsolemnly swear—with the night sky as our\nwitness—to push ahead toward our next battle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The goal race is now the autumn Tenno Sho."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...The autumn Tenno Sho."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "So that race is to be the site of my next\nbattle—against the runners hailed as the greatest\nof this moment.",
+            "choice_data_list": [
+                "It's going to be a tough race.",
+                "It's going to be a tough race."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, it will be. But I knew it would be."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I have chosen \"the steepest, most strenuous path\nof all.\" And the <i>now</i> in which I can truly shine is\nfound in the heat of such fierce battles."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...Hehe. I wonder what manner of running I can\nexpect from the senior year racers. Just thinking\nabout the race makes my heart soar."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Starting with tomorrow's training... I'll be counting\non you once again, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having set our sights on the autumn Tenno Sho,\nwe solemnly swear—with the night sky as our\nwitness—to push ahead toward our next battle!"
+        }
+    ]
+}

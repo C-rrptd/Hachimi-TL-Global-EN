@@ -1,0 +1,230 @@
+{
+    "title": "Valentine's Day",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Heh-heh-heh. Excellent! Just a little more and I'm\ndone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho is laughing boldly, sparking her\ndorm leader, Fuji Kiseki, to come check on her."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh my. I certainly didn't expect to find you\nmaking sweets when I heard all that racket."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey! Even I can bake a bit! I'm making chocolates\nfor Valentine's Day!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna feed them to my familiar and make\nthem do whatever I say!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, you've got a special Valentine's magazine...\n\"Chocolate recipes to steal their heart,\" huh?\nHehe, sounds promising!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, my super deluxe baked chocolates are almost\ndone!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Eugh! Gross! Why do they smell like that?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmmm... Just curious, but what did you put in\nthem?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I only used normal ingredients, just like the\nmagazine said! Chocolate, powdered sugar..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Plus some mugwort and chameleon plant to\nenhance the effects. Oh, and I also added some\nboiled-down mulberry and multiflora rose!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I see. It sounds like quite a high concentration of\nmagical power! Do you think your familiar can\nhandle it?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh! Good point... You'd think <i>my</i> familiar would\nhave a lot of magic power, but that is <i>not</i> the\ncase!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Maybe you should make another batch. I'd be\nhappy to help, if you'd like!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Okay, the ingredients and measurements seem\nokay! So far, everything is just like the recipe\nsays."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now it says we have to bake it thoroughly in the\noven! What do they think I am, some kinda\nnormie?! I can have it ready in no time at all with\na little magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Burn it all! Scarlet ☆ sage... Turn up the heat!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oopsie... Looks like you're using a lot of magical\npower! I'm just going to adjust it a smidge so you\ndon't run out!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now all we have to do is wrap it! I'll use some\nmagic string to tie it up so the magical power\ndoesn't escape!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh? But according to this grimoire, you should\nwrap it up with a cute bow to drive the recipient\ncrazy."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, you're right! There sure is a lot of depth to\nthis charm magic!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm working in my office one day when a very\ncheerful Sweep Tosho drops by."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Happy Valentine's Day, Familiar! Here, these\ndeluxe baked chocolates are for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's right... Today is Valentine's Day. I've been\nso busy that I completely forgot.",
+            "choice_data_list": [
+                "Thank you. I really appreciate it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I open the box, and the smell of baked chocolate\nfills the room. It looks great!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "They're super special chocolates I made just for\nyou! If you eat one—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(I'm sure you'll already be captivated by the time\nyou notice anything! And then...)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(You'll do whatever I say and become even more\nfamiliar-y!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! One bite and I'm sure you'll be hooked! Fuji\nhelped me make the magic a bit more mild, so it\nshould be perfect for you!",
+            "choice_data_list": [
+                "So they're from both of you?",
+                "So they're from both of you?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's right. We made them tog—huh?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(Wait a second! If there's magic from both of us in\nthere, that means...)"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You know, Familiar. I think I have quite a bit of\nwork you could do for me."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehehe. And it's not as if you can refuse. You're\ncrazy about me, after all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No way I'm letting that happen!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're <i>my</i> familiar! Give those chocolates back\nright this instant!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She grabs the box back so fast I don't even see\nher move!",
+            "choice_data_list": [
+                "Wh-what's wrong?",
+                "Wh-what's wrong?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Don't you question me! No means no!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho runs off with the chocolates."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No way I'm letting that happen!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I put one in my mouth. It's crisp on the outside\nand soft on the inside. Any bakery would be\nproud to sell chocolate this good!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aaagh! Why did you do that?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Idiot! You stupid idiot! Now the magic is going to\ntake effect!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Just to make sure... You wouldn't do anything for\nFuji if she asked you to, right?!",
+            "choice_data_list": [
+                "I'd like to think I'd help her if she was in\ntrouble."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ugh! What are you saying?! You're <i>my</i> familiar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It looks like I need to do a reversal ritual! Go lie\ndown on the sofa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It might be best not to resist... I do as she says\nand lie down."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Epimedium, epimedium! Return this soul to its\nmaster! Pronto!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...There! How do you feel? Do you remember who\nyour true master is?! Me or Fuji?!",
+            "choice_data_list": [
+                "You are.",
+                "You are."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Phew... You're such a handful! I'm not gonna help\nyou next time you decide to just eat whatever\nyou find off the street! Got it?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She isn't particularly good at expressing herself,\nbut it seems like she cares about me. This\nValentine's Day has made that abundantly clear!"
+        }
+    ]
+}

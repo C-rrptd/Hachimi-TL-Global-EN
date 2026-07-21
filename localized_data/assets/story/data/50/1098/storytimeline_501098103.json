@@ -1,0 +1,189 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time for this year's summer camp, which means\nlong days, hard training, and improvement in\nleaps and bounds."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Summer camp... Nnngh... We haven't even left yet\nand I'm already getting dizzy...",
+            "choice_data_list": [
+                "Are you okay? Do you feel fatigued?",
+                "Are you okay? Do you feel fatigued?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah, a little... I think I scheduled too many\nmedia appointments. I've been doing like five\nshoots a day on the regular."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Every day, I'm surrounded by people. I really\nappreciate their support, but everything's been so\nnon-stop..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh. Is this what it meant?",
+            "choice_data_list": [
+                "...What what meant?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I saw it through feng shui. A circle of light with a\nlittle spot of darkness inside it."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Maybe that little spot was a sign that I was about\nto get really, really busy. Ahahaha..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She'd been eager to do media work, but it seems\nshe bit off more than she could chew. The best\nway to reenergize her would be...",
+            "choice_data_list": [
+                "Let's stay away from the media while we're at\nsummer camp."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah... Yeah. You're right. That might be a good\nidea! I do wanna focus on training. And..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "There's something else that's been bothering me...\na lot.",
+            "choice_data_list": [
+                "Something's bothering you?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah. Look, over there..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I glance away from the gate to see a familiar\nscene unfolding."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Are you really going to quit? I think it's still too\nearly for you to give up."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "I've got it. Why don't you try a little good luck\nritual to lift your spirits? They've been pretty\npopular lately."
+        },
+        {
+            "name": "Departing Umamusume",
+            "text": "...There's no point. In the end, the reason I can't\nwin is just because I'm not good enough.\nGoodbye."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "There are still so many racers like her. Ones who\ngive up because they're lost, or don't know what\nto do."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, I know. I'm going to try reaching out to some\nof them at summer training camp. Just watch me!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh! Hey! You three over there! Is there anything\nyou've been worrying about when it comes to\nrunning?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I can help you right out with a little feng shui! ☆\nC'mon, let me know what's been on your mind!"
+        },
+        {
+            "name": "Student A",
+            "text": "Oh, you're... Copano Rickey, right? The racer\neveryone's been talking about recently? U-um..."
+        },
+        {
+            "name": "Student B",
+            "text": "We're not really into that stuff, thanks. See you."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah!"
+        },
+        {
+            "name": "Student C",
+            "text": "Oh! Acute! Can we talk to you for a minute? We'd\nlike some advice about our training."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, of course, dearies. If there's anything at all I\ncan do for you, just let me know."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "So, feng shui is really popular right now, but none\nof the Umamusume at Tracen are even remotely\ninterested, y'know?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Meanwhile, Acute's always surrounded by racers\nwho want her advice. I hardly ever see her alone.",
+            "choice_data_list": [
+                "Oh, is that what's been bothering you?",
+                "Oh, is that what's been bothering you?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah. I wanna make <i>everyone</i> happy! And the\npeople I want to teach feng shui to the most..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Are the ones trying to overcome whatever\nchallenge is in front of them. I mean, they've\ngotta be doing the most worrying too, right?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "There are just as many students dropping out of\nTracen Academy as ever. And once they're gone,\nthe light of feng shui can't reach them..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's frustrating... and really sad. I know Acute's\nadvice must be helpful too, but I just..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hey, Trainer. Why do you think the other\nUmamusume don't believe in feng shui?",
+            "choice_data_list": [
+                "I'm not sure. But there has to be a reason.",
+                "I'm not sure. But there has to be a reason."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Their clear lack of interest makes me think there's\nsomething going on that we don't know about."
+        },
+        {
+            "name": "Monologue",
+            "text": "If we could just figure out what..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer! I'm gonna do my best this summer! I'm\ngonna do everything I can to get them to believe!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "And then, once we get everyone to trust in my\nfeng shui..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "We might have to change my own future plans a\nlittle.",
+            "choice_data_list": [
+                "To what?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "We can shift our focus from racing to spreading\nfeng shui far and wide.",
+            "choice_data_list": [
+                "Rickey?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's how much I care about helping others with\nfeng shui. And that's why..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "This summer, I'm gonna give all I've got!"
+        }
+    ]
+}

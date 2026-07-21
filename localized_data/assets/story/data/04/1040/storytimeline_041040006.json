@@ -1,0 +1,287 @@
+{
+    "title": "ふたつの道が遠いだなんてきっと嘘",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After declaring that she would quit modeling, Gold City fully devotes\nherself to training. But something's off today..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh, I lost momentum at the end again. What's wrong with me?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I threw away my career for this! Trainer, hit me with your most brutal\ntraining regimen!",
+            "choice_data_list": [
+                "Why don't we take some time off?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Are you serious? But I can still—",
+            "choice_data_list": [
+                "No buts! You need a change of pace!",
+                "No buts! You need a change of pace!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "O-okay, gosh... Don't have to go into scary teacher mode. Fine, I'll\nrest. Happy now?"
+        },
+        {
+            "text": "On our day off from training, I'm walking around town when I spot\nGold City at a cafe."
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "text": "She's staring at her phone, looking troubled. I figure maybe I should\nleave her alone, but she catches sight of me before I can leave."
+        },
+        {
+            "name": "Gold City",
+            "text": "...I know you're there. Sneak around all you want—you can't mask your\nannoying aura."
+        },
+        {
+            "name": "Gold City",
+            "text": "What, this? Oh.... just looking at old pictures.",
+            "choice_data_list": [
+                "What kinda pictures?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Records of practice and my diet, and... some work things. Don't need\nthese anymore.",
+            "choice_data_list": [
+                "They're fond memories, no?",
+                "They're fond memories, no?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Not really. I can just delete them. Racing is all that matters to me now."
+        },
+        {
+            "name": "Gold City",
+            "text": "Not that I have the times to show for it... I just, I don't know, can't go\nthose last few meters."
+        },
+        {
+            "name": "Gold City",
+            "text": "...Well, change of pace, right? C'mon, if you hover around looking\nlike my manager, you can be my unwanted attention repellant."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, but don't <i>actually</i> act like my guardian, yeah? Just keep your\nmouth shut and look like you belong."
+        },
+        {
+            "name": "Gold City",
+            "text": "What a boring movie."
+        },
+        {
+            "name": "Gold City",
+            "text": "They had a few brands I like, but nothing really caught my eye... <i>Sigh.</i>"
+        },
+        {
+            "text": "No matter where we go, Gold City doesn't seem to be having a great\ntime."
+        },
+        {
+            "text": "All of a sudden, she stops and looks up. A huge advertisement with\nher face on it looms overhead.",
+            "choice_data_list": [
+                "Got you thinking?",
+                "Got you thinking?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? N-no! Just, it's hard to ignore, isn't it? But whatever, won't see\nany of those anymore."
+        },
+        {
+            "name": "Gold City",
+            "text": "Once I retire, the next model will take my place. Stand still for a\nsecond, and you'll fall behind and fade away."
+        },
+        {
+            "name": "Gold City",
+            "text": "Good riddance, I say. The cameras never saw the real me anyway. Just\na worthless, fake illusion."
+        },
+        {
+            "name": "Gold City",
+            "text": "...I'm exhausted."
+        },
+        {
+            "text": "She suddenly stops in her tracks again."
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "name": "Gold City",
+            "text": "...Go on, spit it out. You've been wanting to say something, haven't\nyou? This whole time—I can tell.",
+            "choice_data_list": [
+                "You miss it, don't you?",
+                "You miss it, don't you?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh. What, another one of your lectures? No, I'm not missing\nanything. My past needs to be tossed out.",
+            "choice_data_list": [
+                "And that includes your phone's pictures?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? What are you even talking about? What does my phone have to\ndo with anything?",
+            "choice_data_list": [
+                "All your modeling memories, that's what.",
+                "All your modeling memories, that's what."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "A-are you stupid? Those mean <i>nothing</i> to me, okay? All I care about\nis running."
+        },
+        {
+            "name": "Gold City",
+            "text": "Here, I'll delete them right now. I don't need them!"
+        },
+        {
+            "text": "She whips out her phone and opens the photo app."
+        },
+        {
+            "name": "Gold City",
+            "text": "Stupid pictures! I'm so done with these... stupid...",
+            "choice_data_list": [
+                "Can I have a look?",
+                "Can I have a look?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "No! ...Er, fine, whatever. Just a little."
+        },
+        {
+            "name": "Gold City",
+            "text": "...This was my first time in front of a TV camera. Look at my face, I'm\ntrying way too hard... I can't."
+        },
+        {
+            "name": "Gold City",
+            "text": "This was my first commercial. It did pretty good. This is me crying\nafter my first screwup. Don't look. You never saw that."
+        },
+        {
+            "name": "Gold City",
+            "text": "This... this was my first pic with a fan. Said her dream was to be a\ndesigner, and have me wear her clothes."
+        },
+        {
+            "name": "Gold City",
+            "text": "...",
+            "choice_data_list": [
+                "These don't look very fake to me."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, shut up! What do you know, huh?! I'll delete them—all of them!"
+        },
+        {
+            "text": "Her slender finger taps the Select All button, then inches toward\nDelete..."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll do it, just... just you watch..."
+        },
+        {
+            "text": "Then, her finger stops."
+        },
+        {
+            "name": "Gold City",
+            "text": "Why? ...I decided to throw this life away. I have to, or my running'll\nnever amount to anything!"
+        },
+        {
+            "name": "Gold City",
+            "text": "So why... why, when I'm running, do all the memories come flooding\nback?"
+        },
+        {
+            "name": "Gold City",
+            "text": "During practice, and races—why does it feel like there's a gaping hole\nin my heart?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Why can't I just throw it all away? I just want to be rid of it, please!",
+            "choice_data_list": [
+                "You don't need to throw away the real \"you.\"",
+                "You don't need to throw away the real \"you.\""
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Aha... You're so stupid. You literally said that already. Get a new line,\nstupid. I just can't with your stupidity.",
+            "choice_data_list": [
+                "You can run both roads!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh for—No, I really can't!",
+            "choice_data_list": [
+                "But <i>we</i> can!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...No, you did <i>not</i> just say that. What, you think you're like my partner\nin crime now? Yeah, right!",
+            "choice_data_list": [
+                "No, I think I'm your trainer!",
+                "No, I think I'm your trainer!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Seriously! How do you keep it up?! Be discouraged for once! Stop\nbothering with a pain in the ass like me!",
+            "choice_data_list": [
+                "Nope."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...Stupid. Stupid, stupid, stupid. You are <i>so</i> stubborn, and cringe, and\nweirdly arrogant!",
+            "choice_data_list": [
+                "I can't deny that."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh...</i> Honestly, what even are you? Oh right, you're my \"trainer.\""
+        },
+        {
+            "name": "Gold City",
+            "text": "...You really think I could run both roads?",
+            "choice_data_list": [
+                "We'll find a way together."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah... maybe. I guess I just have to keep looking.",
+            "choice_data_list": [
+                "It might take some time—but that's okay."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Stupid. Telling a runner to take things slow? <i>Sigh.</i> I should probably\nsay sorry to my manager.",
+            "choice_data_list": [
+                "I'll apologize too.",
+                "I'll apologize too."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Hah! Oh, I'm dying just picturing it. But no, I started this, so what do\nyou have to apologize for?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Appreciate the sentiment, but I'll do this myself. And I'll tell her that,\nwell, I've got two legs—one for racing, one for modeling."
+        }
+    ]
+}

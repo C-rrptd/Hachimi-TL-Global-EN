@@ -1,0 +1,41 @@
+{
+    "title": "仕事人の樫本理子",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Riko Kashimoto",
+            "text": "When I noticed your light on, I didn't want to\nbelieve you'd still be awake, yet here we are."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "You're looking awfully pale. Have you been\ngetting enough rest?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Riko Kashimoto—an executive member of the\nURA currently employed by Tracen Academy—is\nsuddenly standing beside me.",
+            "choice_data_list": [
+                "I've been a little busy lately..."
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "What would the students think if you, a trainer,\nwere to collapse from exhaustion? You should be\nmore mindful of your position."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her warning is harsh, but I can't help noticing she\nmust have also just finished a rough day of work."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Well... I suppose I'm in no position to scold others\nfor working late today."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Come, we should go now."
+        },
+        {
+            "name": "Monologue",
+            "text": "We head out of the office while sharing some\nnotes and information with each other."
+        }
+    ]
+}

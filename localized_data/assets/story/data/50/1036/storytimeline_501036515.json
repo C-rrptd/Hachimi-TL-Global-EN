@@ -1,0 +1,246 @@
+{
+    "title": "“コレ”が理由",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur and I are finishing up a short-term\nhigh-altitude training trip. I planned for us to\ntake a bus back to campus, but..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. Will you quit moping already?",
+            "choice_data_list": [
+                "I just can't believe how much it rained."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "An unexpected downpour led to constant delays\nand, ultimately, we missed the last bus."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even with radar equipment, it's particularly\ndifficult to get precise weather measurements for\nmountainous areas."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It takes quite an ego to think you can plan things\nperfectly in the face of that. Let's just deal with\nthe practical matters at hand, and figure out how\nwe're going to get back."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "We can't get a phone signal here. And the map\ndoesn't show any houses or parking areas nearby."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But the GPS can still show us our current location.\nI figure all we can do is walk down the mountain\nuntil we get a signal."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds easy enough, but she's been undergoing\nintense high-altitude training. It'll take her some\ntime to recover, and I don't want to put any more\nburden on her if I can help it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whew.\nLet's go.",
+            "choice_data_list": [
+                "(If we could just get a signal...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I look around and spot an open area in the\ndistance that I checked out when we first arrived\nin the mountains."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. What're you doing wandering all over the\nplace staring at your phone? You're distracting\nme.",
+            "choice_data_list": [
+                "I just wanted to check out the scenery."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "We're not here for sightseeing. Plus, I doubt your\nbody is used to the altitude yet.",
+            "choice_data_list": [
+                "I'm not going to push myself too hard."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I didn't tell her at the time, but I was searching for\nspots around the training area where I could get a\nphone signal, just in case something like this\nhappened."
+        },
+        {
+            "name": "Monologue",
+            "text": "At that time, my phone was able to connect a few\ntimes around the ridgeline and in some open\nareas. The place I just spotted is near one of\nthose spots."
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering the radio waves are travelling\ndownwards, there's a slight chance we might be\nable to catch a signal! But we'd have to leave the\nroad, which presents its own risks...",
+            "choice_data_list": [
+                "Wait here!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?\nHey!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Thank goodness I was able to call for a car."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I managed to get a signal at the spot I had my\neye on, and people at the base of the mountain\nsent a car up for us."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Was it really worth it? There was no need for you\nto injure yourself.",
+            "choice_data_list": [
+                "Tis but a scratch.",
+                "Tis but a scratch."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I was so absorbed in making my way through the\ndark mountain path that I must have scraped\nmyself on a branch or something without realizing\nit."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What you should've done is tell me you were\nlooking for a place with a signal."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I could've analyzed the distance to the base\nstation and the topography to narrow down likely\nspots. Though it still would've been so inefficient\nand hardly worth the time..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It would've been way faster to just walk. So...\nthat's what we should've done."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't go wasting your energy like that.",
+            "choice_data_list": [
+                "It's not always a waste. I'd say it worked out\ntoday.",
+                "It's not always a waste. I'd say it worked out\ntoday."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Pure coincidence."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Like I said earlier, you should've told me what you\nwere trying to do. I would've gone instead, and it\nwould've been much faster.",
+            "choice_data_list": [
+                "Maybe that's why I didn't say anything."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?",
+            "choice_data_list": [
+                "I wanted to make sure you stayed safe.",
+                "I wanted to make sure you stayed safe."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nNo one asked you to do that.",
+            "choice_data_list": [
+                "Just relax until we get back.",
+                "Just relax until we get back."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. And yet look who passed out first."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Waste of energy,\" huh? I'm sure one to talk."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Look at those damn stars, twinkling up there.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(There was a time when people believed the\nunscientific claim that the sky revolved around us.\nBut back then, the idea that the Earth was what\nmoved seemed crazy.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(All that energy spent arguing was wasted. Of\ncourse, we all know that now.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But I don't have time to wait for \"someday\" or\n\"coincidences\" to roll around for everyone to\nunderstand. I have to prove things <i>now.</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's just before midnight. I guess I can still do\neverything I had planned tomorrow.",
+            "choice_data_list": [
+                "Please just get plenty of rest.",
+                "Please just get plenty of rest.",
+                "Next time, I'll be ready for every possible\nscenario."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's just before midnight. I guess I can still do\neverything I had planned tomorrow.",
+            "choice_data_list": [
+                "Please just get plenty of rest.",
+                "Please just get plenty of rest.",
+                "Next time, I'll be ready for every possible\nscenario."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Of course. I'd have to be some kind of idiot to go\nrunning.",
+            "choice_data_list": [
+                "I mean, I want you to give your brain a proper\nrest as well."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't worry. I'll be dedicating all my resources to\nresting."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Seeing as you worked so hard to protect me and\nall."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You do that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...And I will too.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But not today. All you need to do today is grab a\nquick bath and hit the sack."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm serious. Don't even think about it.\n...Later.",
+            "choice_data_list": [
+                "Good night."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nThanks."
+        }
+    ]
+}

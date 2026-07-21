@@ -1,0 +1,42 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "I've been pretty busy recently, huh? I've been\nworking super hard!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "And I'm going to work super hard today, too! And\nI think I'll start by tidying these shelves! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "First of all—ah?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Whoops... I'm sorry. My hand slipped! But it's not\nbroken, so don't worry! I'll be more careful from\nnow on!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Okay... I'll just put this in this drawer—OW!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I trapped my finger in the drawer... That really\nsmarts...",
+            "choice_data_list": [
+                "You all right?",
+                "You all right?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Haha! I'm fine, I'm fine! Rickey! ☆ Lucky! ☆\nAwesome fortune! ☆ I'm doing great, as usual!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...It's obvious she's putting on a show. Maybe all\nthe races she's been running lately are taking\ntheir toll on her... I should adjust her schedule."
+        }
+    ]
+}

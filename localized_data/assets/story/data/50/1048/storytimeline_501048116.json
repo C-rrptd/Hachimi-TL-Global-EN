@@ -1,0 +1,439 @@
+{
+    "title": "ばかなんだもん",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "But you know, I think I've done pretty well up till\nnow."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I ran in the Satsuki Sho. Healed my nail. Did well\nin a G2 and other races. Like, low-key, I crushed\nit."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "When people think of me, I hope they think of\neverything I did last year."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Now, though... things aren't looking too hot."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So no one needs to see me anymore."
+        },
+        {
+            "name": "Gyaru B",
+            "text": "My mom's here! Let's all go to the beach today!"
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Yaaay! ☆ Party! Party! ☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Gyaru C",
+            "text": "...Jordan? You good? Wait, you have today off\ntoo?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh? Oh, yeah! I'm totally fine!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm supposed to rest my legs, so... pretty sure I\ndon't need to check with my trainer."
+        },
+        {
+            "name": "Gyaru D",
+            "text": "..."
+        },
+        {
+            "name": "Gyaru E",
+            "text": "Whatcha doin' on your phone over there?\nMessaging your crush?"
+        },
+        {
+            "name": "Gyaru D",
+            "text": "...No! Ugh, c'mon, let's go already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "New Year's is over and school has been back in\nsession for a few days now. But still no word from\nTosen Jordan.",
+            "choice_data_list": [
+                "(She's leaving me on read...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I've reached out on LANE, and even visited her\nclassroom, but she seems to be avoiding me."
+        },
+        {
+            "name": "Monologue",
+            "text": "(Buzz, buzz...)",
+            "choice_data_list": [
+                "Could it be..."
+            ]
+        },
+        {
+            "name": "Teacher",
+            "text": "Hello. Is this Tosen Jordan's trainer? Do you have\ntime to talk?",
+            "choice_data_list": [
+                "Oh, uh... how can I help you?"
+            ]
+        },
+        {
+            "name": "Teacher",
+            "text": "Well, one of my students just reached out to me..."
+        },
+        {
+            "name": "Gyaru A",
+            "text": "I lost at tryouts agaaain! I haaate schoool!"
+        },
+        {
+            "name": "Gyaru B",
+            "text": "Holy, the water's colder than my teacher's stare\nafter I failed that test for the fifth time. ☆"
+        },
+        {
+            "name": "Gyarus",
+            "text": "Ahahaha!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(The beach, the ocean... This is nice.)"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(Wonder if my nails will peel off if I put my feet\nin. I didn't bring any oil or anything...)"
+        },
+        {
+            "name": "Gyaru C",
+            "text": "...Jordan? Are you gonna get in?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah... Sure."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(Well, you know what? Who cares what happens\nto my nails?)"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I think I'm done worrying about it."
+        },
+        {
+            "name": "Gyaru D",
+            "text": "...Jordan?",
+            "choice_data_list": [
+                "Wait!",
+                "Wait!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Trainer?! What are you doing here?"
+        },
+        {
+            "name": "Gyaru D",
+            "text": "Sorry, Jordan! I've just been really worried about\nyou recently, and..."
+        },
+        {
+            "name": "Gyaru D",
+            "text": "Teach, I really need your help! Do you have\nJordan's trainer's contact info?!"
+        },
+        {
+            "name": "Gyaru D",
+            "text": "She seems really down. We try to cheer her up,\nbut nothing works. We're heading to the beach\nnow, and..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But... why? Why did you have to get a teacher\ninvolved?",
+            "choice_data_list": [
+                "That's how worried she is about you.",
+                "That's how worried she is about you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Y-yeah, right! We just hang out together because\nwe have the same dumb people vibes...",
+            "choice_data_list": [
+                "Do you really think that's all?",
+                "Do you really think that's all?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Wh-whoa! What's going on?! Why is your trainer\nhere?! And what's with the angry vibe?!"
+        },
+        {
+            "name": "Gyaru B",
+            "text": "H-hold on a second! Jordan worked so hard last\nyear, didn't she?! She should be able to have fun\nfor today at least!"
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Jordan is like, our star! We need her to recharge\nso she can shine for us again! Right?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!"
+        },
+        {
+            "name": "Gyaru A",
+            "text": "Honestly, you're <i>such</i> an inspiration for gals like\nus! You're like our star!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sounds like they really look up to you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sounds like they really look up to you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But I... I'm not someone worth looking up to..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "If you want inspiration for girls like you guys,\nwhat about City? Or Helios, or Palmer? They're\nall way better than me!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Plus, I'm legit dumb! Like, it's over for me! No way\nI can compete in senior year!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm just going to keep losing and losing and\nlosing... Honestly, I shouldn't even be trying in\nthe first place!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "All it's gonna amount to is me running like crap\nand embarrassing myself..."
+        },
+        {
+            "name": "Gyaru C",
+            "text": "But... we're dumb too."
+        },
+        {
+            "name": "Gyaru C",
+            "text": "We look up to you so much, Jordan. From day\none, you've let all of us dream bigger."
+        },
+        {
+            "name": "Gyaru C",
+            "text": "It doesn't matter how many times you lose, I just\nknow you're always gonna slay."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!",
+            "choice_data_list": [
+                "You really are a dummy!",
+                "You really are a dummy!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Excuse me?",
+            "choice_data_list": [
+                "A big dummy! The biggest, even!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She plunged head first into the Triple Crown tour\nwith only the vague goal of \"making it big\" to\nguide her."
+        },
+        {
+            "name": "Monologue",
+            "text": "She tried to shrug off injury with the pure desire\nto run in the Satsuki Sho, despite her entire\ncareer being on the line."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yo. Five nail tips done. Pretty good, right?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Okay, fifteen seconds, then! Grab your\nstopwatch—let's do it! Ready..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She tackles training head-on with simple\nearnestness, even if she doesn't understand what\nwe're trying to accomplish."
+        },
+        {
+            "name": "Monologue",
+            "text": "She works stupid hard, throwing herself into one\nfoolish challenge after another.",
+            "choice_data_list": [
+                "That's what makes you strong."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What are you... I...",
+            "choice_data_list": [
+                "That's why you never gave up the fight."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter what she's up against, she keeps\nfighting."
+        },
+        {
+            "name": "Monologue",
+            "text": "If Tosen Jordan were smarter, she would have set\na practical goal and avoided the Satsuki Sho if\nher nails got worse."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe she would have lost her will to run when\nshe saw the lineup for the Arima Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "She would have understood what common sense\ndeemed impossible for her, understood that\ngiving up is always an option when faced with a\nwall.",
+            "choice_data_list": [
+                "But you're a dummy, so you always chose to\nfight.",
+                "But you're a dummy, so you always chose to\nfight."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter what others said, she faced even the\nmost imposing walls with the unbridled optimism\nthat they <i>can</i> be scaled."
+        },
+        {
+            "name": "Monologue",
+            "text": "And, to be perfectly honest..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well, we've made it this far somehow. All we can\ndo is try our best, right?",
+            "choice_data_list": [
+                "You're a badass when you fight.",
+                "You're a badass when you fight."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Quit joking around.",
+            "choice_data_list": [
+                "I'm not. I honestly think you're cool."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her friends nod in agreement.",
+            "choice_data_list": [
+                "So embrace your stupidity."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The next time common sense tries to get in our\nway, we just have to dumb down and take it on."
+        },
+        {
+            "name": "Monologue",
+            "text": "After all, common sense has never stopped her\nyet."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sniffle...</i> You...",
+            "choice_data_list": [
+                "What could be cooler than being the greatest\ndummy there is?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Are you stupid?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You know... You're the real dummy! Dumb, dumb,\ndumb dummy dumb!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Who's ever heard of being the greatest dummy,\nanyway? That's..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That's something only a dummy like me could pull\noff!",
+            "choice_data_list": [
+                "Now you're talking!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Shut up... dummy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The tears Tosen Jordan has been holding in\nfinally come pouring out."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Soy sauce noodles, broth, toppings! Put 'em\ntogether, and..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Close with capers!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So <i>that's</i> what you want me to aim for? You're\nkidding, right?",
+            "choice_data_list": [
+                "Well, if you want to be the greatest, she's one\nof the walls in your way."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uhh... yeah, no, I think that's pushing it..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Lack of common sense aside, Gold Ship's prowess\nis undeniable, and she's announced her bid for\nthe Senior Spring Triple Crown."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Just thinking about this is making me even\ndumber... So we really have to do this, huh? The...\nOsaka Hai, was it?",
+            "choice_data_list": [
+                "That's right. The Osaka Hai comes first.",
+                "That's right. The Osaka Hai comes first."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...And close with capers."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, Jordan! Welcome back! Are you training right\nnow?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Palmer?! Um..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Did you decide on your goal? I'll join you if you're\ngonna run."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Thanks. Do you mind if I ask you later?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Cause my new goal is to be the greatest!"
+        }
+    ]
+}

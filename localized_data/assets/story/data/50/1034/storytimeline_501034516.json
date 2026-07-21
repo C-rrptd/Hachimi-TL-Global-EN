@@ -1,0 +1,65 @@
+{
+    "title": "おあげの魅力には抗えない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I head into the cafeteria during the lunch\nbreak, I spot Inari One with a veritable mountain\nof dishes in front of her."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss, ya gotta hear this! Looks like the\ncafeteria has gone and changed their fried tofu\nsupplier."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hey, Boss, ya gotta hear this! Looks like the\ncafeteria has gone and changed their fried tofu\nsupplier."
+        },
+        {
+            "name": "Inari One",
+            "text": "When I tried the inari sushi, it tasted so freakin'\ngood. Left me absolutely stunned!"
+        },
+        {
+            "name": "Inari One",
+            "text": "So, I ended up orderin' every fried tofu dish on\nthe menu! Time to dig in!",
+            "choice_data_list": [
+                "Don't you think you've ordered a bit too much?",
+                "Let's enjoy us some fried tofu!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oof?! Ya don't pull your punches..."
+        },
+        {
+            "name": "Inari One",
+            "text": "I suppose one look at my plate and anyone'd say\nthat, though. But I can't return the order, so...",
+            "choice_data_list": [
+                "I'll help you eat it."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, now we're talkin'! I can always try the rest of\nthe menu some other day. So, I'll hold back on\ngorgin' myself this time."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll kick things off with the kitsune soba! Haaah!\nLook at that fatty tofu soakin' up all the broth!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I help prevent Inari One from overeating\nby sharing in her meal."
+        },
+        {
+            "name": "Inari One",
+            "text": "Gotcha! I'm gonna scarf down every last bite!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Lookit this thick block of fried perfection! I can\npractically taste it already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Inari One fills her stomach with a feast of\nfried tofu dishes."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "El Condor Pasa",
+            "text": "I did it, Trainer! A soaring, sweeping—absolute\nvictory!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehehe. Well, it's only natural. I'm the world's\nstrongest, after all!",
+            "choice_data_list": [
+                "Let's do our best at the next race too!",
+                "Let's do our best at the next race too!",
+                "Let's not get complacent!",
+                "Let's not get complacent!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehehe. Well, it's only natural. I'm the world's\nstrongest, after all!",
+            "choice_data_list": [
+                "Let's do our best at the next race too!",
+                "Let's do our best at the next race too!",
+                "Let's not get complacent!",
+                "Let's not get complacent!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Of course!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm countin' on you for the training I need to stay\non top!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That said, my next victory is already a sure thing!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I know! That's just what my papa always says!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "\"The real fear comes after you win. That's when\nthere's a target on your back!\""
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I can't get complacent with more strong enemies\nahead! Don't worry, Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Let's keep on headin' toward the very top!"
+        }
+    ]
+}

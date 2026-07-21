@@ -1,0 +1,246 @@
+{
+    "title": "RE：フレッシュ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In order to help Taiki Shuttle further hone her skills, we've joined\nsummer camp."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Pant, pant...</i> Across the line!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Pant, pant...</i> Whew. Was that the last item on the training schedule?",
+            "choice_data_list": [
+                "Yep, you're all done!",
+                "Yep, you're all done!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay! There's actually something I'd like us to do together."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What goes hand in hand with summer camp? That's right—a barbecue!\nI've been itchin' to throw one for the longest time!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I was so fired up, I scoured every website and book I could find.\nThere are lots of delicious foods out there in nature!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So let's gather up some of those super fresh ingredients and have a\nbarbecue together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She should really be resting after her training session, but those\nsparkling eyes make it hard to turn her down.",
+            "choice_data_list": [
+                "Sure, why not?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Woohoo, good! ♪ Thank ya! Then let's get going!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hm-hm-hmm... ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Make sure to look both ways, now. According to one of the books I\nread, there should be mushrooms growing around here."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I bet they're even fresher than the ones ya find at the grocery store.\nSo let's get lookin'!",
+            "choice_data_list": [
+                "Watch out for the poisonous—"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ooh! Look over there, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Look at those colorful red and white spots! Could that be one of\nthose legendary mushrooms that turns ya into a giant when ya eat it?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Can't take your eyes off it, huh? Do ya really wanna eat it that badly?\nOkay, say no more! I'll go get it!",
+            "choice_data_list": [
+                "That one's obviously poisonous!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Poisonous?! Oh, that's a real shame. It looked so cool..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Then how 'bout that one? The rainbowy coloring makes it look\nreally tasty!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wondering if she actually just wanted to pick mushrooms, I continue\nto follow Taiki as she bounces happily through the trees."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eventually, we emerge to find ourselves on a sandy beach."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! We found the ocean, Trainer! Ya know what that means—shellfish\nand sea urchins galore! Let's go!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can stop her, Taiki races out into the water."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whew! I found a whole slew of shellfish! I'm sure there are some you'll\nlike in here!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Anywhoo, please follow me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It may be summer, but she could still catch a cold running around\nsoaking wet like that.",
+            "choice_data_list": [
+                "Couldn't we just buy the rest?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No! They gotta be fresh! Only the most delicious ingredients will do!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, let's continue the hunt! Here we go!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow! Look, Trainer—a crop field! We've stumbled on a real treasure\ntrove here! Japanese veggies are downright delicious!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "There just happens to be somebody out pluckin' the produce right\nnow. I'm gonna ask if he'll share his haul if we lend a hand!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Let's go! Go, go, gooo!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Up we go... Whew. Okay, mister! I finished pulling all the weeds!"
+        },
+        {
+            "name": "Farmer",
+            "text": "Hoo boy! Thanks for the help, you two. Go ahead and help yourself\nto those vegetables I promised."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yay, thank ya! Hehe. Which veggies would ya like, Trainer?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Once we've decided, it'll finally be time for the grand finale!",
+            "choice_data_list": [
+                "Isn't it a little late to start setting up?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nah, it'll be no problem—trust me! Come on, Trainer! Hurry up and\nmake your picks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After selecting my preferred vegetables at Taiki's urging, I follow her\nto our next location."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Welcome to our very own happy barbecue party! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "There on the beach is a fully equipped barbecue set, seemingly\nborrowed from the summer camp facilities.",
+            "choice_data_list": [
+                "W-when did you do all this?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The truth is, I woke up bright and early to get it ready!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So I sure am glad ya didn't say no when I asked ya to help me hunt for\ningredients."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We ended up getting our hands on a bunch of fresh ingredients, so\nthis barbecue's sure to be a special <i>and</i> delicious affair!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Please accept this as a little gift from me to you!",
+            "choice_data_list": [
+                "So this was all for my sake...",
+                "So this was all for my sake..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. Thank ya for all your help, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whenever I'm feeling lonely, you're always there for me."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So even though I'm away from my family, my days are full of smiles!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And also, I realized something. You're not just my trainer..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're my precious Japanese family!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's why I want ya to experience a bona fide barbecue, just like I\nused to have with my family back home!",
+            "choice_data_list": [
+                "Thanks, that means a lot!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. Yes! Operation Surprise was a great success!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, Trainer! Tell me what ya wanna start with, and leave the rest\nto me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I gathered each and every ingredient just for you! They're all here for\nya to enjoy!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'll pour my heart into grillin' em up real nice, so be sure to eat your\nfill!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon, both my stomach and heart are full to bursting from Taiki's\nbarbecue."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp is here. With the Kikuka Sho on the\nhorizon, this summer will put us to the test."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The wheels of fortune go round and round! All\naboard, we're heading southward!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Summer camp is finally here, Trainer. Let's make it\none to remember!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And do know that our fate is at stake here. If we\ndon't find ourselves in the illumination of great\nhope, only darkness awaits. We either find\nhappiness or we die!",
+            "choice_data_list": [
+                "That's a bit of an exaggeration..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "M-maybe. But now you know how determined I\nreally am."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now then, according to my lucky map... our\ntraining camp is just up ahead."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Egads, the direction we're heading in now is very\nauspicious! Northeast, the direction of the ox!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's keep on pushing! The farther we go, the\nmore good fortune will come our way!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait! We've gone past the central point on my\nmap... That can only mean..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ack?! We're going in the least auspicious\ndirection possible! Bad luck is upon us! STOP THE\nBUS!",
+            "choice_data_list": [
+                "They're not going to stop the bus...",
+                "They're not going to stop the bus..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Uuugh, I guess you're right... I just knew this\nsummer wasn't going to be that simple..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But that's why I have to fight back with everything\nI've got. Come at me, endless sea of challenges!\nYou'll have to get through Trainer first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...I think I'll let her fend for herself. This is bound\nto be one fiery summer."
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "title": "カーネーションは鮮やかに",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Though today is usually my day off, I have been summoned by the\nempress. I make my way over to our meeting spot."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've got quite the nerve to keep me waiting, Trainer.",
+            "choice_data_list": [
+                "I'm sorry... Oh, did we always have a vegetable\nfield?",
+                "I'm sorry... Oh, did we always have a vegetable\nfield?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You didn't know about it? It's official academy property, and we even\nutilize it for some classes."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Anyway, I called you out here to help me move these."
+        },
+        {
+            "name": "Monologue",
+            "text": "Following her gaze, I see a number of wooden carts filled with\nflowers. Red, white, yellow... it certainly makes for a colorful sight."
+        },
+        {
+            "name": "Air Groove",
+            "text": "We have more blooms than anticipated. This was not originally my\nintention, but I could use a hand.",
+            "choice_data_list": [
+                "Well, you're in luck! I've got two, complete with\ngreen thumbs!",
+                "Well, you're in luck! I've got two, complete with\ngreen thumbs!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "If you've got time for jokes then you've got time for work. Let's go."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Wow, they're all so lovely! Thank you for doing this every year, Air\nGroove!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We park the carts in front of the dormitories, where we're met with a\nlong line of students."
+        },
+        {
+            "name": "Air Groove",
+            "text": "One flower per person. Stay in line, and tell us which color you desire\nwhen it's your turn."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Make sure to deliver them in person if you can, preferably with a\nletter or gift. That's the best way to show your appreciation."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Mom's definitely going to love this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly remember what day it is.",
+            "choice_data_list": [
+                "So these are Mother's Day carnations?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right. I always plant them so that they'll bloom around this\ntime."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Many of us are living far away from our parents currently. At times like\nthese, it's more important than ever to show our gratitude."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Incidentally, do you know what a yellow carnation signifies?",
+            "choice_data_list": [
+                "Different colors mean different things?",
+                "Different colors mean different things?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Do I have to explain everything?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "First, take the red carnation. It signifies love for one's mother. It\nmakes for a very popular gift on this day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "On the other hand, a yellow carnation signifies jealousy, and is often\navoided as a gift."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You may be surprised to hear that there are a number of students who\nchoose the yellow carnations."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Many of them are second-generation runners, and it is no stretch to\nsay that they see their own mothers as their biggest rivals."
+        },
+        {
+            "name": "Air Groove",
+            "text": "In other words, giving your mother a yellow carnation is akin to saying\nthat you will surpass her legacy."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All right, that was the last student. Thank you for your help."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It looks like we only have a single yellow carnation remaining."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove smiles gently as her eyes fall onto the remaining blossom."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I suppose I'll give this one to my own mother.",
+            "choice_data_list": [
+                "It's very beautiful.",
+                "It's very beautiful."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Air Groove is about to take the flower into her own hands, we\nhear a pair of footsteps hesitantly approaching."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "U-umm..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh, you're from Ritto Dorm. Is something the matter?"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "I was doing some extra training today, and before I knew it the sun\nstarted setting. Um... Are the flowers all gone?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "No—in fact, you're quite lucky. There's exactly one left."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Go on, it's yours."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Oh, thank you so much!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The young girl bows her head in thanks to Air Groove and promptly\ndeparts."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh... Just enough, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her visage is stoic with a hint of satisfaction... but it's difficult to tell\nwhat she is really feeling."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do know that she was planning on taking that last flower, though. I\ncan't help but be reminded of when she was injured at the dance\nlesson.",
+            "choice_data_list": [
+                "Are you neglecting yourself for others again?",
+                "Are you neglecting yourself for others again?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh. You're such a worrywart."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm not too proud about what happened at that dance lesson, but I've\nthought long and hard about my attitude since then."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If I mean to earn the respect of others, I need to respect myself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's no good pursuing my ideals if I neglect my own needs in the\nprocess. On that point, I admit... I was a little foolish."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What just happened now is different, though.",
+            "choice_data_list": [
+                "You're not sacrificing your own well-being?",
+                "You're not sacrificing your own well-being?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right. I don't mind going without a flower at all."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Even without a tangible symbol to represent it, the resolve in my\nheart is firm. I will tell my mother of my ambition directly.",
+            "choice_data_list": [
+                "That does seem more your style."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Exactly. So there is nothing you need to worry about."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I can't have any trainer of mine being too flustered for my sake."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Although... I suppose if you hadn't spoken up in the infirmary, I...\nwouldn't have...",
+            "choice_data_list": [
+                "Hm? What was that?",
+                "Hm? What was that?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm taking better care of myself now, that's all!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "My mother doesn't often reminisce about her racing career, but I once\noverheard her say that she couldn't have become a queen by\nherself..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That the watchful eyes of someone she trusted became a mirror—one\nwhich more honestly reflected her ideal self."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What I'm trying to say is... well, you know.",
+            "choice_data_list": [
+                "You have my eyes whenever you need them.",
+                "You have my eyes whenever you need them."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Why do I get the sense that you're teasing me? ...Fool."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a hint of kindness in her halfhearted scolding. We pause\nawhile to watch the sun set."
+        }
+    ]
+}

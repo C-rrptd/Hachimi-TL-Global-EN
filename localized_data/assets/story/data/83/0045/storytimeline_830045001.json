@@ -1,0 +1,226 @@
+{
+    "title": "気まぐれ天才魔法少女スイーピー☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking down the hallway, I hear some\nstudents' voices."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What the heck's going on here?! This stuff's\ntotally in our way!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Maybe they were used for an event? But there are\nso many of them..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I see a huge pile of boxes stacked in front of\nthem. It looks like the boxes are blocking the\nway."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Dang it! If we don't do something about this we'll\nbe late for class!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, I'm going to blow them away with magic!\nHere goes nothing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Raging torrent, wash away all in our way!\nChrysanthemum ☆ Splash!"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Sparkles from the heavens, drive away all in our\nsight! Oxypetalum ☆ Blue Star!"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hey, nothing's happening!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "B-be quiet! I just need to warm up is all!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All right, it's time for a hero to step up! It's time\nfor <i>me</i> to step up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, wait! I'm not ready to step down!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I wanted to work up to this, but it looks like I've\ngot no choice. Here comes my ultimate\nincantation!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho waves her wand. I have a feeling\nthings are about to get magical—no, physical!",
+            "choice_data_list": [
+                "Give it your best shot!",
+                "<i>Hold it!</i>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Leave it to me! This is the magic my granny\nalways used to cast when she got into a fight with\nmy gramps!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "ULTIMATE IMPACT!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>BOOM! THWUMP! CRASH!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She may be small, but she packs a punch! Dozens\nof boxes are flattened in the blink of an eye!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Whoa! Nice job, Sweep! Now we can waltz on\nthrough!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, everything's a breeze when you've got a\ngenius magical girl by your side! ♪ I wanna cast\nthat magic again..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Crap, look at the time! We've gotta get to class!",
+            "choice_data_list": [
+                "What about all the cardboard?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll clean it up later with magic! Come on you two,\nwe need to book it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They rush away... I know Sweep Tosho said she'd\nclean it up later, but I'd hate to leave such a\nmess."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to clean it up before anyone else comes\nalong."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, now let's get back to—huh?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wow! Everything's been tidied up! I must have\nperformed some subconscious magic!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hey! Just what do you think you're all doing?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yikes! We've been spotted!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Flower! Biko! We've gotta escape while we can!\nWe still have time to outrun her!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Tch, they got away. Hey you, do you know what\nhappened here?",
+            "choice_data_list": [
+                "Actually..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain the situation to Air Groove and\napologize for letting Sweep Tosho destroy the\nboxes."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I see. Looks like you got played by that naughty\ngirl."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But that does make you complicit. And you'll\nneed to take responsibility for your actions."
+        },
+        {
+            "name": "Monologue",
+            "text": "I agree to Air Groove's terms and set about\ncleaning diligently by myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear later that Sweep Tosho and the others were\nalso given a very stern lecture."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why are you trying to stop me?!",
+            "choice_data_list": [
+                "Your ultimate incantation is too powerful."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...Oh, you're right. There's no telling what'll\nhappen when I set it off."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, fine. I'll try a different type of magic\nthen. ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's time for a command spell!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Cirsium ☆ Oxalis ☆ Iris! I command you two to\nclean up these boxes!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "What?!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Okay, Flower, I've folded the cardboard! What's\nnext?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Tie them up with string. Here, take this end of it\nand...",
+            "choice_data_list": [
+                "I'll prop up the cardboard."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, that'd be great! Thank you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us get to work cleaning up the\nboxes. However..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ngh..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How come you're all having such a blast?! You're\nbeing forced to clean up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So it's come to this, has it?! I'm gonna have to\nshow you how it's done! Hand me that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Feeling lonely as she watches us from the\nsidelines, Sweep Tosho ends up joining in too."
+        }
+    ]
+}

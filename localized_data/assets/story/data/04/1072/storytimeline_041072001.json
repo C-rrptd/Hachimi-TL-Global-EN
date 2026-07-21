@@ -1,0 +1,260 @@
+{
+    "title": "夕空に舞う",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After an afternoon shopping, I start heading home as the sun does the\nsame for the night. I'm walking past the riverbank when..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hah!",
+            "choice_data_list": [
+                "Wha?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The shout rings in my ears, like the sharp clang of an expertly wielded\nblade. My feet stop, and my head unconsciously turns to the source."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inhale... Exhale...</i>",
+            "choice_data_list": [
+                "If I'm not mistaken, that's Yaeno Muteki."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hup! ...Hah! ...Sei! ...Tah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Each punch, each kick... Her every movement cuts cleanly through the\nevening air, punctuated by that same resounding, thunderous voice."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Exhale...</i> Keh... HYAH!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Exhale...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm so awestruck, I hardly catch myself staring. Her form perfectly\nbalances ferocity with composure... I can tell she's devoted countless\ntime to refining her art, and it... it's beautiful.",
+            "choice_data_list": [
+                "(It's almost like she's dancing...)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Pardon. May I have a word?",
+            "choice_data_list": [
+                "Huh? Oh! Uh, y-yeah!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I notice that you don a Tracen Academy badge. Did you need me for\nsomething, Trainer?",
+            "choice_data_list": [
+                "No, uh... I was just passing by and became\ncaptivated by your forms. Sorry..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You really... Ahem. That is far too high of praise for one so\ninexperienced as me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Even now, my heart was not clear of distractions. Tomorrow's tryouts\nlinger in my mind, no matter how I try to recollect myself through\ntraining."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Still, an amateur though I am, I will apply all my abilities to the race.\nIt would be an honor to see you there, should your schedule permit it.",
+            "choice_data_list": [
+                "Th-the honor would be all mine!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Why am I being so formal? I feel like I'm talking to a wise old martial\nartist, not a student!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And then, out of nowhere—"
+        },
+        {
+            "name": "Thuggish Umamusume A",
+            "text": "Hey, hey, HEY! Who do you think <i>you</i> are? We don't need some little\nprincess from the academy stinkin' up our turf!"
+        },
+        {
+            "name": "Thuggish Umamusume A",
+            "text": "If you wanna use our spot, you're gonna have to pay up and make it\nworth our while!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...I turn my head to see two delinquents sauntering over to us."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Your turf, you say? To my recollection, this field is part of the public\npark."
+        },
+        {
+            "name": "Thuggish Umamusume A",
+            "text": "Can it! You know what I damn mean, smartass! Hey boss, this Uma's\nbein' all uppity!"
+        },
+        {
+            "name": "Thuggish Umamusume B",
+            "text": "...Yeah, she's uppity all right. But how long's she gonna be able to\nkeep the smug act up? Just saying, but if you don't want trouble, pay\nup or go back to playin' tag on your school playground."
+        },
+        {
+            "name": "Monologue",
+            "text": "The \"boss\" of the pair scowls at Yaeno Muteki with an intimidating\nleer... But I can't let her get away with this!",
+            "choice_data_list": [
+                "You there, stop this at once!",
+                "You there, stop this at once!"
+            ]
+        },
+        {
+            "name": "Thuggish Umamusume A",
+            "text": "The hell?! You stay outta this!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HAH!"
+        },
+        {
+            "name": "Thuggish Pair",
+            "text": "Ah?!\n<i>Gulp...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki's cry shocks the pair like a bolt of lightning. They stop\nstill and look at her wide-eyed."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Now then... Are you going to press this matter further?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her voice is light and calm, like the quiet surface of a lake. At the\nsame time, though, there's a cold, unfathomable depth to it."
+        },
+        {
+            "name": "Thuggish Umamusume B",
+            "text": "...Nah, we're leaving. I can see we're outmatched."
+        },
+        {
+            "name": "Thuggish Umamusume A",
+            "text": "Huh? Boss, wait! D-don't leave without meee!",
+            "choice_data_list": [
+                "(There they go...)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I apologize for raising my voice. I thought only to resolve the\nsituation at hand, but I am sorry if I startled you.",
+            "choice_data_list": [
+                "Oh, I'm fine. Thank you so much!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm just amazed by the way she demonstrated such raw power without\nletting her composure slip for a second. There wasn't even a hint of\nanger on her face!",
+            "choice_data_list": [
+                "That was so cool!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...You flatter me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now I'm <i>really</i> curious what her running is like. I excuse myself for the\nevening, bubbling with excitement for the tryouts tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "And, come the next day, that excitement only builds. I head to the\ntrack to watch Yaeno Muteki's race, and start looking around."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "That one there, Super Creek—she was amazing out there! She's\nalready made such a strong impression on everyone."
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "Oguri Cap stood out too. I can see why they call her the Beast. She's\nstill rough around the edges, but there's definitely a real gem hiding\nin her."
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "There are so many promising racers at the tryouts this time. We're in\nfor some wild races when this generation hits the big tracks."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I'm here too. This time, I'll prove myself. I'll reap the fruits of my\ntraining and win glory today—I swear I will!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Panting...</i>"
+        },
+        {
+            "name": "Racer",
+            "text": "...All right, here goes. Haaaah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah! You're not... passing me!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Racer",
+            "text": "Hehe, she really did fall for it!",
+            "choice_data_list": [
+                "(Hold on!)"
+            ]
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "Yaeno Muteki... Looks like she took the bait. If she doesn't regain her\nhead quickly, she'll burn all her energy before the last spurt."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "To think she'd make the same mistake again... She had so much\npotential, but if she can't keep cool in races, that's the end of it."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't believe my eyes. The Yaeno Muteki I saw yesterday was so\ncomposed. She wielded the fiery spirit within her like a tempered\nblade, keeping it quiet in its sheath until the moment she struck! But\nnow..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I swear... I'll keep... pushing ahead! Hraaaaah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Pant... pant...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She rampages with a wild ferocity. Unable to temper the flames within\nher, Yaeno Muteki burns up her energy and loses the race."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Pant... pant...</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "How could I... let this happen again?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Amateur! I keep making such... such amateur mistakes! I won't be able\nto restrain the blaze within me like this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can see frustration written all over her face, and yet, I can't summon\nthe words to speak up. Silently, helplessly, I watch as she leaves..."
+        }
+    ]
+}

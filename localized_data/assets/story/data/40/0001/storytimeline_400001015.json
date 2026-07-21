@@ -1,0 +1,186 @@
+{
+    "title": "変人記者、登場！？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One afternoon, while getting ready for training\nwith <chrname>..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock!</i>"
+        },
+        {
+            "name": "???",
+            "text": "Excuse me? Are you\nTrainer <username>?",
+            "choice_data_list": [
+                "Um... May I ask your name?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "I'm terribly sorry. I should have introduced myself.\nI'm a reporter for Twinkle Monthly."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "My name is Etsuko Otonashi."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I was looking for trainers to write about, and\nDirector Akikawa mentioned your name\nspecifically."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I'll do my best not to interfere with your training. I\nlook forward to working with you."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is the first I'm hearing of any interview, but\nOtonashi's polite and sincere attitude puts me at\nease.",
+            "choice_data_list": [
+                "It's a pleasure."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Thank you for agreeing to take part."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Let's get into it, shall we? As I'm sure you're\naware, the launch of the URA Finale has taken\nthe racing world by storm."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Could you tell us how that's affected you and\nyour trainee's outlook?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that there have been big changes, but\never since the day I decided to walk with\n<chrname>, my convictions have\nalways stayed the same.",
+            "choice_data_list": [
+                "I will keep supporting her so she can achieve\nher dreams."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I see. In other words, you consider your role as a\ntrainer to be...",
+            "choice_data_list": [
+                "To help my Umamusume achieve her dreams!"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Th-that's...",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "That's simply... simply..."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "SIMPLY AMAZING!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "To help your trainee Umamusume achieve her\ndreams! That's what you said, no?!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Then I'm sure you must be willing to take on any\nburden with a smile!",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Training wherever and whenever she asks! Taking\nher on hot spring tours to recover from races!\nVenturing to remote mountain streams just to\nfetch her a cup of water!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Ah... What devotion... I'm so moved!",
+            "choice_data_list": [
+                "(I never said that!)"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Splendid! I see the interview has started!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "What do you think? Quite the talented trainer,\nno?"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Absolutely! This is only our first meeting, but I've\nbeen practically moved to tears!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "It takes a special trainer to be willing to plunge\ninto a hurricane for their trainee!",
+            "choice_data_list": [
+                "(Okay, I <i>really</i> don't remember saying that!)"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Wonderful! That's a prospective star\nUmamusume's trainer for you!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I've been keeping a close eye on your recent\nactivities!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "But hmmm... How strange! It seems like you're\nhaving trouble gaining fans."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Worry not! There's still time before the URA\nFinale! I'm sure you can turn things around!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "You're receiving a fair bit of support as well! With\na performance as compelling as yours, I knew\nyou'd win hearts!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Anticipation! Make the best of every race that\ncomes your way and show us some great results!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Astonishing! You're also receiving more support\nthan I could ever have imagined!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "With a trainee as captivating as yours, a spot in\nthe URA Finale is no mere fantasy!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "A star Umamusume is measured by the amount of\nsupport she has. That's how you can tell she is\nloved."
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "I would also like to help you gather more support."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Gratitude! The media's assistance will be\nessential, both for boosting the popularity of our\nUmamusume and for ensuring the event succeeds!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I'm counting on you, Miss Otonashi! Help us make\nthe URA Finale a success!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Of course. Thank you very much for your time,\nTrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that I've met a powerful ally in the fight to\nincrease <chrname>'s support..."
+        }
+    ]
+}

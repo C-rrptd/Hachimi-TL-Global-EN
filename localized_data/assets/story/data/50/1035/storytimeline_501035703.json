@@ -1,0 +1,322 @@
+{
+    "title": "いきなりフットサル！？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After our outing, Winning Ticket and I return to\nthe academy."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin, Hayahide, I'm back! Let's go play futsal!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Say what? Why futsal all of a sudden?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Cause I saw some people playing it today, and it\ngot me all excited!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Experiencing new exciting things will make me\nstronger! So let's get to futsalling!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But Ticket, do you even know the rules?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sure do! My dad told me about it before."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "He's a pro sports trainer, so he knows all kinds of\nstuff."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, a professional trainer? That's interesting.\nWhat does he specialize in?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Um... I'm not sure! But he's pretty awesome at\neverything!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...I see. I'm not sure why I expected you to at least\nknow what your own father does..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Ticket's enthusiastic—and somewhat\nforceful—invitations, she gathers players in no\ntime."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "WOO! It's finally time to kickoff! Isn't futsal\ngreat?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "This is it! It sets my heart pounding in a different\nway from racing! This is what I was looking for!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Different from racing? They're both sports, so\nwhat's the difference exactly?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's easy! The difference is..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That I get to be on the same team as you and\nTaishin!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Normally, we'd be opponents in a race, right? So\nwhen one of us wins, that means the others lose."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But in futsal, the three of us can win together!\nIsn't that awesome?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Celebrating victory with my besties will be the\nbest thing ever! Yeeeaaah!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I think I understand now. She has a point.\nWouldn't you agree, Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "One point doesn't make a victory..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So what are our positions? We can't start until we\ndecide that."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, indeed. It may not be a deciding factor in\nwhether we win or lose, but what position Ticket\nplays will be a key component."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's get some advice from her trainer, shall we?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So many options! I wanna play the most exciting\nposition!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Trainer, where should I be? Huh, huh? What do\nyou think?!",
+            "choice_data_list": [
+                "Striker.",
+                "Goalkeeper."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ohh, striker! That's the player in front who gets to\nshoot the ball!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Every point scored would make it more and more\nexciting! Yeeeah, I'll do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The referee whistles the start signal."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, I'm bringing the ball right in front of the\ngoal. Ticket, here! Come on, take the shot!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taaake this! JUMPING... NO TRAP... WINNING\nSHO—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "It's mine!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Gaaah! My ball!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Idiot! Don't just stand there talking—make the\nshot!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Indeed, Ticket... Was that narration really\nnecessary?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaaaah! <i>Sniffle...</i> Yeah, it's importaaant!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Saying the line right before you get the goal is\nthe most moving way to score!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm... Well, at least have a logical strategy. If\nthe ball gets stolen before you make the shot,\nyou'll never achieve victory."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Got it! Then next time... I'll get it for suuuure!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Once more, Winning Ticket aims for the goal."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "LET'S GO! JUMPIIING... NO TRAP... WINNING\nSHO—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Everyone, slide tackle! Get her!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You dumbass! You did the exact same thing!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Raaaagh! Even if everyone tries to tackle me..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'll be fine if I just persevere! Wraaaagh!"
+        },
+        {
+            "name": "Students",
+            "text": "Aaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket evades the onslaught of sliding\ntackles."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "She managed to dodge them all... And without a\nstrategy. What a feat."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'll make it this time! JUMPIIING! NO TRAP!\nWINNING SHOT!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whoa! That speed!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No one can stop it. Ticket's power is incredible."
+        },
+        {
+            "name": "Monologue",
+            "text": "Filled with the tremendous spirit of her special\nattack, the ball flies like lightning..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...far above the goal and into the distance."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whaaaat?! No WAAAAY!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "After a great setup like that, you miss? Well, I\nguess you moved me to feel <i>something,</i> all right."
+        },
+        {
+            "name": "Monologue",
+            "text": "The game was messy but exhilarating, and Ticket\nlearned how to deal with sliding tackles using\nsheer guts."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ooh, keeper! If I stop all the balls that come my\nway, it'll definitely move the audience!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, with Ticket's core strength, that seems like\na suitable choice. Let's go with that formation."
+        },
+        {
+            "name": "Monologue",
+            "text": "The game begins."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Taishin, I'll pass to you. Get it to the goal!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay! I'll slip past the defense, and—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Move it, move it! Yeeeaah!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ticket?! Why's the keeper out on the field?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You know... After seeing you play, I wanted to\nshoot the ball so bad!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin, Hayahide, that's it! Can I be a keeper\nwho also attacks?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, keepers <i>have</i> sometimes been known to\ntake penalty kicks, but it's not exactly\nconventional..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless of convention, Winning Ticket runs\naround playing both defense and offense."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Haaah! Attack, then defend, then attack again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She dances around the field like a brilliant\nprodigy!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Geez, she's so fast I can barely see her..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, with that speed, crossing the field and\nplaying both positions is actually an option."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I can do it! I'm doing it! I can play both positions!\nYEEAH!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Everyone! Counter offense! Now, while their\nkeeper is away!"
+        },
+        {
+            "name": "Students",
+            "text": "Right!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? A counter-what now?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "NOOOO! We totally lost!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The opponent's clever strategy led to their\ninevitable defeat... But at least Ticket gained\nsome impressive speed."
+        }
+    ]
+}

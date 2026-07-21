@@ -1,0 +1,132 @@
+{
+    "title": "あたしがなンとかするでがんす！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While out shopping, I come across a pop-up\nmarket for products from Morioka. I'm taking a\ncursory look around, when..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Welcome t'the Trav'lin Morioka Fest'val! Come\ntake a look!"
+        },
+        {
+            "name": "Shop Owner",
+            "text": "S'right! We're here t'introduce Morioka's\ntraditions 'n' fest'vities. You could call this shop\nMoriokan \"pee ar\"!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Speaking of Moriokan fest'vals, don't forget 'bout\nthe sansa odori!\nSakkora! ♪ Choiw—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oof! S-s-s-so sorry! I didn't s—"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, you're a train'r from Tracen, aren't you!\nTerribly sorry for bump'n into you!",
+            "choice_data_list": [
+                "Looks like a fun dance."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I-it is! It's called the sansa odori. It's a tradition'l\ndance acc'mpanied by taiko drums."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "It's easy to learn, so folks of all ages dance it all\nth'time at school field days 'n' local events 'n'\nsuch."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "People even dance down th'street during festivals\nlike a p'rade. There's even a contest every year\nt'see who boogies it th'best!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There's plenty of other chain dances and such as\nwell that anyone can join! It's more fun than a\nbarr'l of monkeys!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Just talking about it really takes me back...\nEv'ryone's hearts united as one...",
+            "choice_data_list": [
+                "You must really love sansa odori.",
+                "You must really love sansa odori."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ehehe... You can say that again! I love it like\npeanut butt'r loves jelly!"
+        },
+        {
+            "name": "Shop Owner",
+            "text": "Hahaha, you haven't changed a whit... Thinking\nthat, I can't help but feel bad..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "What's wrong?"
+        },
+        {
+            "name": "Shop Owner",
+            "text": "Well... Take a look around. At the rate business is\ngoin' t'day, I might hafta throw in the towel..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "N-now that you mention it, there haven't been\nany custom'rs."
+        },
+        {
+            "name": "Shop Owner",
+            "text": "Guess we got noth'ng that stands out t'these big\ncity folk. And I wanted to bring good news back\nto all th'folks back home who helped with th'prep\nand what have ya..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "What a cryin' shame! There's so much good stuff\nhere! If they'd only just take a look..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I know! Let me try talk'n to people! I'll draw in\ncustom'rs somehow!"
+        },
+        {
+            "name": "Shop Owner",
+            "text": "Yukino..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ev'ryone's worked so hard, I wanna help out too!"
+        },
+        {
+            "name": "Shop Owner",
+            "text": "...Thank you kindly. You've always been such a\npeach. I don't want you to push yourself too hard."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Er... Hmm...",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I-I'm fine, thanks! I'm not givin' up."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "There's gotta be a good way. Hm... Hmmmmm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yukino Bijin racks her brain for ideas all the way\nback to her dorm."
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "title": "センチメンタルdream",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "Falcon? She isn't here. She left about one hour and thirty-five minutes\nago."
+        },
+        {
+            "name": "Monologue",
+            "text": "A day has passed since I recommended that Smart Falcon run on dirt\ncourses. Wanting to talk to her again, I've come to her dorm in search\nof her.",
+            "choice_data_list": [
+                "Um, who are you?",
+                "Um, who are you?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My apologies for the late introduction. I'm Eishin Flash, Smart\nFalcon's roommate."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Are you... Falcon's trainer? If it's urgent, contacting her smartphone is\nthe surest way to get a hold of her."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Although I can't guarantee that she'll check her phone. She might've\nturned it off by now.",
+            "choice_data_list": [
+                "Do you know where she went?",
+                "Do you know where she went?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well..."
+        },
+        {
+            "name": "Fan A",
+            "text": "Silence Suzuka was amazing! I knew she was good, but I didn't think\nshe'd win by that much!"
+        },
+        {
+            "name": "Fan B",
+            "text": "I'm so glad we caught the whole thing in person! I can't wait to see\nSuzuka take center stage for the winning concert!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My search for Smart Falcon leads me to the racetrack. The stadium's\nfilled to the brim with excited onlookers waiting for the winning\nconcert to begin."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow! This is so exciting! ☆ Go, Suzuka! You can do it! I believe in\nyou!",
+            "choice_data_list": [
+                "Fal—"
+            ]
+        },
+        {
+            "name": "Wild Crowd",
+            "text": "YEAHHH! SUZUKAAA!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The concert begins. Everyone's eyes are glued to the incredible\nperformance that follows."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Silence Suzuka's voice isn't the loudest, the joy in it is\npalpable—a joy shared by all her cheering fans."
+        },
+        {
+            "name": "Fan A",
+            "text": "Ahhhh! <i>Sniffle...</i> Suzukaaa! You're the best! Watching you run makes\nme feel like I can do anything! I'll keep working hard, just like you do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For a moment, I find myself captivated like everyone else. Then my\neyes drift over to Smart Falcon."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes are also locked onto the stage, but something about her\ngaze seems... different."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the concert ends, I look for Smart Falcon, but she's already\ngone. It's possible that she left for the dorm, but I suspect otherwise."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hi, everybody! I'm Falco! That was a great concert, wasn't it? ☆\nSuzuka never fails to impress!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But don't go anywhere yet! I'll give you a fantastic performance too!\nAll I ask is that you remember my name! ☆ With that said, let's get\nstarted! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "My suspicions are confirmed when I spot Smart Falcon performing by\nthe riverside. Maybe this is just a plan to attract an audience still\nriding their concert high, but..."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Hey, she looks like an Umamusume too. Do you know her?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Nah, never seen her. Maybe she hasn't made her debut yet? Anyway,\nwasn't Suzuka's concert great? My favorite part was when she—",
+            "choice_data_list": [
+                "(No one's staying to watch her...)"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Pant... pant...</i> How was that, everybody?! It's my dream to one day\nperform on a major stage! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "One day..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I... wonder when that'll be..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, it's not like anybody here would know. Time to head—oh."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I... I've always loved idols a lot, ever since I was little. They're so cute,\nand they smile so bright that they light up any stage."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I kept telling myself that I'd be an idol one day too. But that dream\nchanged just a little when I saw my first race."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I went because I'd heard that Umamusume sing and dance just like\nidols do, in addition to race. It was such a strange concept to me that\nI had to find out more."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Seeing everybody running their hardest, I couldn't take my eyes off\nthe racetrack—not even for a second!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But what was even more exciting was the concert that came after!\nWhen the spotlight hit them, everyone shone twice as bright as they\ndid on the racetrack!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I thought to myself, \"That's what I want!\" Umamusume shine their\nbrightest while running, and their winning concerts are the cherry on\ntop!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's when I decided to become an Umadol! I wanted to light up the\nworld like they did—no, even more than that! I wanted to become a\nshining beacon of hope!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Just like... the way Suzuka did today, taking first place and\nperforming center stage..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I want to be a shining star just like her! I want to be an Umadol that\nmoves the hearts of all who watch me!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "If I keep working hard, one day my dream'll come true. Or at least,\nthat's what I keep telling myself...",
+            "choice_data_list": [
+                "Falcon..."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, I don't mean to say that I feel like giving up! Let me make it\nclear—I still dream of becoming a world-class Umadol!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's just that... that dream feels so distant today. Suzuka was so\namazing, it's hard to think I could follow in her footsteps... Haha...\nha...",
+            "choice_data_list": [
+                "You have a shot at winning if you run in dirt\nraces."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, I know... I actually knew as much from the start."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ever since I was admitted here, my teachers have all suggested that I\nrun on dirt courses. They say it suits me better."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But... I can't become a top Umadol running in dirt races. You know\nwhat I mean, right?",
+            "choice_data_list": [
+                "Because they aren't as popular as turf races..."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Uh-huh. If I choose to run in dirt races, I'll never perform on a big\nstage like Suzuka did today."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "The fans like turf races because that's where all the superstars are. It's\nonly fair that the runners who win there are considered the best."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Sure, I could run on dirt courses, win races, and be the star of those\nwinning concerts."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But... that's not what I want! I don't want to be the lead of just <i>any</i>\nconcert! My dream is to become a top Umadol and make it big on the\ngreatest stages!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I don't want to give up on my dreams just 'cause I'm \"better suited\" for\nsomething else! There's no room for compromise! I can't do it! I won't\ndo it!",
+            "choice_data_list": [
+                "So that's how it is...",
+                "So that's how it is..."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You probably think I'm being ridiculous. But I don't care! I'll keep\nracing on turf courses in hopes of one day achieving my dream!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I understand her reason for wanting to run in turf races. I also agree\nthat it's important to dream big, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to think that dirt racing is some kind of second-rate\ncategory, and that's just not right. In order to help her realize that...",
+            "choice_data_list": [
+                "Would your teachers be okay with you missing\nclass tomorrow?",
+                "Would your teachers be okay with you missing\nclass tomorrow?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh?! Oh, uh... As long as you're the one asking for permission, they'd\nprobably be okay with it, but... why?",
+            "choice_data_list": [
+                "I want to take you to a race."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Okay. I still don't get why, but I'll do it."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But in exchange, you have to do one thing for me!",
+            "choice_data_list": [
+                "And that would be?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, you see..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'd like it if you called me Falco, not Falcon! ☆ It sounds cuter that\nway!"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "宝塚記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Oh, it's Air Shakur."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Fan B",
+            "text": "Hey, should we do it? ...C'mon!"
+        },
+        {
+            "name": "Spectators A & B",
+            "text": "Air Shakur! Good luck today!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Fan A",
+            "text": "Kyaaa!\nOkay, see you later!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "That was nice, right?",
+                "That was nice, right?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why're you phrasin' it as a question?",
+            "choice_data_list": [
+                "Because you didn't really look excited about\nit..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...That kinda stuff's been happenin' to me a lot\nlately."
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, she's been getting tons more\ninterview requests since the spring Tenno Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur's battle against a more obvious\ndifficulty has led to increased exposure, and that\nmight be helping her fans feel more comfortable\ngiving her their open support.",
+            "choice_data_list": [
+                "It's proof that people recognize your real worth.",
+                "It's proof that people recognize your real worth."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It does feel a little late coming, but perhaps her\nambitions are close to being realized."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Why am I gettin' this weird premonition that\neverything'll change after this race? Is this what\nthey call a gut feeling?)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Whatever it is, it feels weird for some reason.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Haven't I always wanted people to recognize my\nworth?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(...No, I can't think about that now. These aren't\nopponents I can beat with my head in the clouds.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I can think all I want <i>after</i> I win."
+        }
+    ]
+}

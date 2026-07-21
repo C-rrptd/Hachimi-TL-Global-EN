@@ -1,0 +1,267 @@
+{
+    "title": "求めてた言葉は",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's a few days before the academy's tryouts, an event where students\ncan demonstrate their skills to trainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "I head over to the track to see how the racers are doing today."
+        },
+        {
+            "name": "Vodka",
+            "text": "Well, I'm outta here. Catch ya guys later."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wait, Vodka?! Where do you think you're going?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh, she's such a wannabe delinquent!"
+        },
+        {
+            "name": "Teacher A",
+            "text": "I'm concerned for her... I know she's got the talent, but tryouts are\ncoming up. Will she be okay?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh uh, you don't need to worry about her performance. She'll be just\nfine."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Why don't we just go ahead and start practicing? The other students\nare waiting for your directions."
+        },
+        {
+            "name": "Teacher A",
+            "text": "You're right. Well then, let's get started, shall we? We'll begin with a\n2000-meter jog."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the upcoming tryouts, Vodka seems to be boycotting\npractice today.",
+            "choice_data_list": [
+                "She doesn't strike me as lazy, though...",
+                "She doesn't strike me as lazy, though..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Curious, I follow her to figure out why."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmph. \"Until you all find a trainer, you'll be following the instructors'\ntraining regimen!\""
+        },
+        {
+            "name": "Vodka",
+            "text": "As if I have time for that generic crap!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna do things my own way!",
+            "choice_data_list": [
+                "Are you going to train by yourself?",
+                "Are you going to train by yourself?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh? Who are... Oh, you're one of the academy's trainers."
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah, got a problem? I'm a lone wolf, and that means I don't mingle."
+        },
+        {
+            "name": "Vodka",
+            "text": "Besides, the teacher's plans are waaaay too chill for me. My body'll\nget weaker at that rate."
+        },
+        {
+            "name": "Vodka",
+            "text": "Anyway, we're done, right? I'm gonna go do my thing now."
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka bluntly ends the conversation and walks off. I hang around for\na bit more, observing her training."
+        },
+        {
+            "name": "Vodka",
+            "text": "Pheeeew! Now that's what I'm talkin' 'bout!"
+        },
+        {
+            "name": "Vodka",
+            "text": "But I'm just gettin' started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though she's overloading in certain aspects of her training and\nneglecting others, she's still going strong in her own way."
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh, still here? Damn, you must have nothin' better to do.",
+            "choice_data_list": [
+                "So you really weren't trying to skip training.",
+                "So you really weren't trying to skip training."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "What? Me? Skip training? Do I look that lame?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Listen up, I'm gonna be the coolest racer in the Twinkle Series, the\nkind who leaves everyone in the dust!"
+        },
+        {
+            "name": "Vodka",
+            "text": "If I <i>do</i> the same as everyone else, then I'll <i>be</i> the same as everyone\nelse."
+        },
+        {
+            "name": "Vodka",
+            "text": "It's just like gettin' buried in the middle of the pack. You get stuck in\nthere with no way out."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna train harder—so I can be faster than everyone else! I'm not\ngonna get stuck behind anyone!",
+            "choice_data_list": [
+                "Is that why you made your own training\nregimen?",
+                "Is that why you made your own training\nregimen?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yep. Got a problem?",
+            "choice_data_list": [
+                "Not really.",
+                "Not really."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Although boycotting her teacher's regimen and creating her own\nhaphazard one isn't the best course of action, she's got guts."
+        },
+        {
+            "name": "Vodka",
+            "text": "H-hey, whatcha doin' starin' at me like that?",
+            "choice_data_list": [
+                "Oh, I was just thinking that you're pretty cool."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Coo—?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "A-ahem! Sorry, can ya say that again? I couldn't hear ya!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ya said somethin' 'bout me right? C'mon, say it one more time!",
+            "choice_data_list": [
+                "...You're pretty cool?",
+                "...You're pretty cool?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, what's with that weak answer? Put some oomph into it!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What did ya call me?",
+            "choice_data_list": [
+                "Cool!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "...!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hehehe! You've got a good eye for things!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna keep training... but you can stick around for as long as ya\nwant!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Because I'm so cool and generous!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right, I'm pumped! Let's up those reps!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch her train with even more gusto, I can't help but grin."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, tryouts officially begin and Vodka makes her\nappearance."
+        },
+        {
+            "name": "Vodka",
+            "text": "Graaaaah!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ngh!"
+        },
+        {
+            "name": "Caster",
+            "text": "Vodka is pushing ahead! Vodka is pushing ahead! Daiwa Scarlet is\nfighting with all her might..."
+        },
+        {
+            "name": "Caster",
+            "text": "But the gap is too big! Vodka finishes in first, Daiwa Scarlet in\nsecond!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Your running's a bit rough around the edges, but you've got great\npotential, Vodka! Why don't you come and join me?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "No, come join me instead! I've amassed plenty of data on the racers\nI've trained in the past. I'll be able to design a training program\nspecifically for—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Sorry, but I'm not interested that kinda thing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka's performance pulls in many scouting offers, but none seem to\nland.",
+            "choice_data_list": [
+                "(If I recall, what she really wants to hear is...)"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh, it's you from the other day! Hehe, whatd'ya think about my\nracing?",
+            "choice_data_list": [
+                "You were super cool, Vodka!",
+                "You were super cool, Vodka!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "For real?! Yes!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey hey, you're not training anyone yet, right? How 'bout joining\nforces with me?",
+            "choice_data_list": [
+                "I'm down!",
+                "I'm down!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Hell yeah! Looking forward to workin' with ya, Trainer!"
+        }
+    ]
+}

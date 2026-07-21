@@ -1,0 +1,73 @@
+{
+    "title": "他人に危害を及ぼしてはならない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One night, when I go to check the track\nconditions..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear metallic clanging coming from somewhere...\nI look in the direction of the sound and see\nMihono Bourbon running."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Test concluded. All conditions within acceptable\nparameters. Load increase confirmed to be safe.\nOptimal weight calculated at..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she stands there after her run, I glance at her\nfeet and see what look to be extremely heavy\nweights tied around her ankles.",
+            "choice_data_list": [
+                "What are those?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "These are custom-made ankle weights meant to\nincrease resistance during training.",
+            "choice_data_list": [
+                "They look super heavy...",
+                "They're kind of noisy for this late at night...",
+                "They look super heavy...",
+                "They're kind of noisy for this late at night..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "These are custom-made ankle weights meant to\nincrease resistance during training.",
+            "choice_data_list": [
+                "They look super heavy...",
+                "They look super heavy...",
+                "They're kind of noisy for this late at night...",
+                "They're kind of noisy for this late at night..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The weights pose no issue. Based on my previous\nassessments, doubling this load will still fall within\nan acceptable range."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I will continue to calculate the most optimal mass\nlimit for me. Goodbye."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch Mihono Bourbon as she runs off with ease,\ndespite having adding more weights to her\nankles."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Concern acknowledged. Auditory disturbances\nfrom nocturnal practice sessions could negatively\nimpact the surrounding area."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My sincere apologies. I was unaware of the noise\nissues. Thank you for bringing this information to\nmy attention."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Going forward, I shall take appropriate measures,\nsuch as adjusting my practice hours, to ensure I\ndo not disturb others during training."
+        }
+    ]
+}

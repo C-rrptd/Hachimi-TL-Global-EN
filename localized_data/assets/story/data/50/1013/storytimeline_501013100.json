@@ -1,0 +1,201 @@
+{
+    "title": "メジロマックイーン登場！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At last, Mejiro McQueen's journey to compete in\nthe Twinkle Series begins."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm super psyched for it as well. But first, I need to\nhead to the cafeteria for a bite to eat."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sigh...</i> Such a wonderful smell."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "There's a weightiness to it, yet it's delicate as\nwell."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, it's nice and strong. It might not even need\nsugar."
+        },
+        {
+            "name": "Monologue",
+            "text": "(That's Mejiro Ryan, a member of the noted\nMejiro family. She's athletic and radiates energy.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The academy's cafe is rather elaborate, isn't it?\nThere are so many flavors on the menu."
+        },
+        {
+            "name": "Monologue",
+            "text": "(This is Mejiro Dober, also a member of the\nMejiro family. She's a bit hard to please.)"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "L-look, look! They're from the Mejiro family!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "They're having a high-class conversation! Just\nhow I thought they'd be!",
+            "choice_data_list": [
+                "(Now that I look at them again, they really do\nhave an impressive aura!)",
+                "(Now that I look at them again, they really do\nhave an impressive aura!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And last but not least, my trainee—Mejiro\nMcQueen."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her in this light, I can really sense the\nnoble air she emits."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But, are you sure you don't want a chocolate\npudding crepe, McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? ...Yes, I'm sure!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm perfectly fine! I-I brought my own special\ndessert, you see!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Special dessert?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y-yes. I made it myself with nuts in place of flour."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Low in sugar and high in protein, it's very\nnutritious. Above all else, the exquisite flavor\nsolidifies it as an exceptional dessert."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ooh, that's wonderful. In that case, I'm sure you\nwouldn't mind if I had one of those crepes myself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Of course, go right ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take a closer look at the dessert Mejiro\nMcQueen has and realize it's from a recipe I once\ntaught her."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be working hard to reach her goals,\njust like always.",
+            "choice_data_list": [
+                "You're giving it your all, aren't you?",
+                "You're giving it your all, aren't you?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, Trainer!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, it's McQueen's trainer. Hi!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right. McQueen has been working hard\nnonstop lately!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Having set a goal to conquer the Tenno Sho, it's\nonly natural for me to work hard to reach it."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Not to mention, my debut is very soon, which\nmeans I must brace myself and focus all the more.",
+            "choice_data_list": [
+                "Let's go all out!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, of course. I hope you'll accompany me with\nthe intention of doing the same."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Still, it's gonna be a long time before you\ncompete in the Tenno Sho, right?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Shouldn't you be aiming for the Classics first?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, consider conquering the Tenno Sho my\nultimate goal."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Before that, I plan to achieve success in the\nClassics and make steady progress toward the\nTenno Sho."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ahh. Then I guess that means we'll be meeting at\nthe Classics!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Just so you know, I'm not gonna lose! I've had my\nsights on the Classic Triple Crown for a long time\nnow!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I'm well aware of just how hard you've been\nworking."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Therefore, I won't be going easy on you either. I'll\nbe giving the Classics everything I have!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, let's both give it our best shot! ...Oh, it\nlooks like Dober is back."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, awesome! There really is chocolate\npudding on top of the crepe!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wh-what did you say?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks for bringing one for me too, Dober!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It was no trouble. No one else was in line. Well, I\nthink I'll go ahead and dig in."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gulp...</i>",
+            "choice_data_list": [
+                "You wish you'd gotten one after all, don't you?",
+                "You wish you'd gotten one after all, don't you?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, uh, no, that's not it!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm not fighting to restrain myself or anything of\nthe sort!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, Mejiro McQueen and I have begun\naiming for the Tenno Sho in earnest!"
+        }
+    ]
+}

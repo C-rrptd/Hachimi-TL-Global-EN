@@ -1,0 +1,209 @@
+{
+    "title": "雲の向こう、宙のかなた",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I visit the library with Admire Vega, but she\nsuddenly disappears."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Thank you so much, Ayabe!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's dangerous to use the step ladder like that.\nRemember, you're an Umamusume before a\nlibrarian."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "R-right!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Okay, I have to do my best to be careful... for the\nsuccess of the Meteor Shower Corner."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meteor shower? That reminds me, I saw\nsomething on TV about one happening soon. The\nlibrary must be preparing something for it.",
+            "choice_data_list": [
+                "Your special event corner looks fun.",
+                "Your special event corner looks fun."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's not even complete yet."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "This book or that book... I wonder which one is\neasier to understand."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Another day, I'm headed out to do some research\nalone when..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "There must be something I can do to thank you\nfor helping me out again."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't need anything. Rather, you should keep\nworking."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Give me half of those papers. I'll cut them."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "U-um... Thank you again! You're even helping me\nwith my description texts!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm just seeing this through to the end. Besides,\nyou seemed a little stuck."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh yeah... I'm supposed to be researching, but I\nkeep getting drawn in by the mythology."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I can see that. You're often reading stories\nabout heroes at the checkout counter."
+        },
+        {
+            "name": "Student A",
+            "text": "Look, it says \"Meteor Shower Corner\"! That\nreminds me, we'll be able to see one soon, right?"
+        },
+        {
+            "name": "Student B",
+            "text": "The academy is supposed to be a great spot to\nsee it! Maybe reading up beforehand will make it\nmore fun."
+        },
+        {
+            "name": "Monologue",
+            "text": "The display corner is finally complete. I'm looking\nforward to the day of the event and seeing how\nmuch their work together pays off. However..."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the day of the meteor shower... I see Zenno\nRob Roy staring gloomily at the rain running\ndown the windows."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah...",
+            "choice_data_list": [
+                "It's not letting up...",
+                "It's not letting up..."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Haha... The weather can't be helped. We'll have\nto look forward to the next opportunity."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "All the visitors to our special corner must be\nreally disappointed too."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Are you sure?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Huh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Was all our work really for nothing?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The books we selected, the crafts we struggled to\nmake, not to mention the time spent writing out\nexplanations on the poster."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Even if the sky is blocked out by clouds, the stars\nand our efforts don't just disappear."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You're right! I..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "We learned so much prepping for this event. Like\nabout meteor showers that come from afar and\nthe fascinating heroes represented in\nconstellations..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ayabe, thank you! I'll be back!"
+        },
+        {
+            "name": "Student A",
+            "text": "\"Stargazing Without the Stars\"? Wow, this sounds\ninteresting! Can we join?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Yeah! Even if we can't see the stars, we can still\ntalk about them."
+        },
+        {
+            "name": "Student B",
+            "text": "True, we already learned so much just by reading.\nBy the way, I came across a funnily named meteor\nshower! It's called Hair Strands."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "So this is what she came up with. A meeting in the\nlibrary for talking about stars... In other words,\n\"Stargazing Without the Stars.\"",
+            "choice_data_list": [
+                "You really came through in the end.",
+                "Do you have any tips about stargazing to tell\nthem?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "This wasn't my idea.",
+            "choice_data_list": [
+                "But what you said motivated her."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sure, but she's the one who made it happen. This\nis all her doing."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Quit looking at me like that..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I must not have done a very good job hiding my\nsmile. Her expression does look less severe now\nthough."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Student A",
+            "text": "Stargazing tips? I wanna know!"
+        },
+        {
+            "name": "Student B",
+            "text": "We want to be able to see the meteor shower\nnext time! How should we go about starting?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I want to know too! If it's not too much trouble..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega begins to quietly speak. Although\nsomewhat blunt, she carefully explains while the\nUmamusume around her listen in silence."
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "title": "小さな『ありがとう』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? A letter-go-round? What's that supposed to\nbe?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, the way it works is, I'm gonna write a letter\nto your family and Grass's family."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Then... <i>we'll</i> write a letter to Spe's mother. Is that\nwhat a letter-go-round is?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I see Special Week talking with her friends in the\ncafeteria, and the sight of her reminds me of the\nlast time I spoke with her."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yup! I'm actually in the middle of planning out an\nimportant operation!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I thought it would be fun to write letters together,\nand I'd be able to introduce both of you to my\nmom too!",
+            "choice_data_list": [
+                "(I wonder if this is the operation she was talking\nabout then.)",
+                "(I wonder if this is the operation she was talking\nabout then.)"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. This does sound very fun. I wonder what\nyou've written about me, Spe."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! I wrote that you're always really elegant and\nthat your running form is beautiful, but somehow\nyou're still super fast!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my. Hehe, your honesty is always so blindingly\npure."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's see. What should I write about Sei? \"She's an\nimportant friend to me. She's bright and fun and\nbrings a calm energy with her wherever she goes.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, don't rope me into this. I never said I'd\nparticipate."
+        },
+        {
+            "name": "Special Week",
+            "text": "\"But it's a real pain when we have to search for\nher when she plays hooky from training.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You know, it's a lot more convenient to just send\na text. Why go out of your way to write a letter at\nall?"
+        },
+        {
+            "name": "Special Week",
+            "text": "\"And recently, she's really been giving us the slip.\nShe keeps hiding in all sorts of places, as if she's a\ncat or something.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah! Because I'm trying not to be found! You\nthink <i>you're</i> the only ones having a tough time?"
+        },
+        {
+            "name": "Sky and Grass",
+            "text": "\"Spe's been sneaking in too many snacks\nrecently.\""
+        },
+        {
+            "name": "Special Week",
+            "text": "N-nooo! Don't write that! Mom'll start sending me\nfewer snacks if she finds out!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Haha! We're just teasing. \"That was just a joke. In\nreality, Spe cheers us up a lot with how energetic\nshe always is.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Oh."
+        },
+        {
+            "name": "Special Week",
+            "text": "Letters just make me more forthcoming with my\nfeelings!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! Thanks for writing such nice things about\nme, Sei!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Don't mention it. Gosh, there's that gleaming\nsmile of yours."
+        },
+        {
+            "name": "Seiun Sky's Letter",
+            "text": "\"Dear Gramps. Thanks for your call and for\nwatching my scrimmage. I didn't say this during\nour call, but you made me real happy.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, Seiun Sky receives a letter back\nfrom her grandfather."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow. Gramps has some seriously good\nhandwriting. What's this blotch of ink over here,\nthough?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ooh, that letter! Did your grandpa send you a\nreply?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, that was close! This is confidential! If you\nwanna look, you'll have to make an official\nrequest first."
+        },
+        {
+            "name": "Special Week",
+            "text": "Awww... Still, I can tell it's a wonderful letter just\nby looking at your face!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Sigh...</i> I can't get anything past a letter\nconnoisseur like you. Fine, you're right! Gramps's\nletter was tear-jerking and full of warmth!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What's that, Mr. Letter? You want me to write a\nresponse right away? Well, if you say so!"
+        },
+        {
+            "name": "Letter from Sky's Grandfather",
+            "text": "\"Dear Sky. I should be the one thanking you for\nalways bringing a smile to my face!\""
+        },
+        {
+            "name": "Letter from Sky's Grandfather",
+            "text": "\"Watching you run fills me up with joy and energy!\nAll you have to do is continue working hard and\nbeing who you are, all right?\""
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm so glad the letter made you so happy, Sei.\nSeems like my letter operation was a success."
+        },
+        {
+            "name": "Special Week",
+            "text": "Okay! Guess it's my turn now to read the letter I\ngot back from my mom. ♪"
+        },
+        {
+            "name": "Letter from Spe's Mom",
+            "text": "\"Dear Spe. A 'letter-go-round' sounds like a really\nfun idea. I'm happy to learn that you have so\nmany good friends.\""
+        },
+        {
+            "name": "Letter from Spe's Mom",
+            "text": "\"Their kindness and personalities came through\nloud and clear. Cherish those friendships. Spe, my\ndear. I wish you a life of happiness, forever and\nalways.\""
+        },
+        {
+            "name": "Special Week",
+            "text": "That's right, Mom! Me and my dear friends and\nrivals are all doing our very best!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's right, Mom! Me and my dear friends and\nrivals are all doing our very best!"
+        },
+        {
+            "name": "Letter from Spe's Mom",
+            "text": "\"P.S. Since you apparently have been snacking so\nmuch, I'll be cutting back on the amount of\ncarrots I send you.\""
+        },
+        {
+            "name": "Special Week",
+            "text": "Nooooo!"
+        }
+    ]
+}

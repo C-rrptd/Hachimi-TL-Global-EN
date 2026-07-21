@@ -1,0 +1,45 @@
+{
+    "title": "朝日杯FSにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "Well, here I am, to watch the race..."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Mihono Bourbon is racing today. Did you hear\nthat she's aiming for the Classic Triple Crown?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Sure did. But isn't she best at sprinting?"
+        },
+        {
+            "name": "Spectator A",
+            "text": "That's what I thought too. Her trainer's just\nwasting both of their time."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "G-go, Bourbon! Y-you can do it!"
+        },
+        {
+            "text": "The murmur of the crowd echoes quietly\nthroughout the runners' tunnel."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Today, at Asahi Hai Futurity Stakes, I will\naccomplish our objective of changing the public's\nperception of me."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'll be off now, Trainer.",
+            "choice_data_list": [
+                "Get out there and give it everything you've got!",
+                "Get out there and give it everything you've got!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood!"
+        }
+    ]
+}

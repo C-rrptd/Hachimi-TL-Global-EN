@@ -1,0 +1,30 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "<i>Yawn...</i> Ah, crap.",
+            "choice_data_list": [
+                "Late night?",
+                "Late night?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Not particularly."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I spent the time I wasn't able to sleep working...\nWhat's wrong with that?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Yawn...</i> Anyway, keep your nose out of it."
+        },
+        {
+            "name": "Monologue",
+            "text": "After staying up late working because she\ncouldn't sleep, Air Shakur seems drowsy all day."
+        }
+    ]
+}

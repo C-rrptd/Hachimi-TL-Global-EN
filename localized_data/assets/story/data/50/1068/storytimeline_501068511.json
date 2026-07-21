@@ -1,0 +1,205 @@
+{
+    "title": "先輩と！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm walking through the school building, I spy\nKitasan Black smiling as she follows a rather\nnervous-looking Special Week."
+        },
+        {
+            "name": "Special Week",
+            "text": "Okay! On your right you can see a popular spot\namong students at the academy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whenever they feel frustrated after losing a race,\nthey yell into the tree stump!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Got it! Hehe! Okay, next up is... Oh!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hey, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "O-oh, hello! It's so, um, lovely to see you out and\nabout!",
+            "choice_data_list": [
+                "Uh... Er, it's nice to see you walking around,\ntoo?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe! It's hilarious watching how awkward you\ntwo are right now! But it's all right! There's no\nneed to be so formal, so relax!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Right! <i>Inhale... Exhale...</i>",
+            "choice_data_list": [
+                "So, what are you two up to anyway?",
+                "So, what are you two up to anyway?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, you see..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahem! Unfortunately, I am unable to attend to\nyou since I'm on the clock and working with Prez\ntoday!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whaaat? Seriously?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, but have no fear! My friend, Special Week,\nwill fill in for me!"
+        },
+        {
+            "name": "Special Week",
+            "text": "G-greetings! My name is Special Week! I hope to\nbe of much help to you today!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe! No need to be so proper, Spe! You're an\nupperclassman now, so don't be afraid to carry\nyourself with a little more dignity!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "By the way, Teio, my task today is merely an\ninspection, so I do not require help if you are\nbusy..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nope! Don't even think about it, Prez! I already\ndecided I'd be helping you today, so you'd better\ntake me along!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Anyway, that's why Spe is filling in for Teio today!"
+        },
+        {
+            "name": "Special Week",
+            "text": "As her upperclassman, I thought it'd be\nappropriate to give her a guided tour around the\nschool! But what else can I show her? Hmm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "So she says, but Kitasan Black has been at Tracen\nfor a while, so giving her a school tour now seems\nkind of pointless..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Psst, Trainer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I know what you're thinking, but all I want right\nnow is to be pampered by my kind, reliable\nupperclassman!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I think you've basically shown me everything\nthere is to see around campus, so hmm... What\nelse can we do?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'd love to go partner running with you and pick\nyour brain for recommendations on what to order\nat the school cafeteria!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I've heard so much about your achievements and\nwould love to uncover the secret of your strength!"
+        },
+        {
+            "name": "Special Week",
+            "text": "S-sure! Okay, we can do that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't shake the feeling that their roles as upper\nand underclassman have reversed in terms of\nwho's leading who..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Which do you think we should do, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black shoots me a meaningful look. It\nseems she wants me to make the decision so she's\nnot the one taking the lead from her\nupperclassman.",
+            "choice_data_list": [
+                "You should go partner running!",
+                "Why don't we get some food together?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Let's go, then!"
+        },
+        {
+            "name": "Special Week",
+            "text": "All right! Let's run another lap!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Okay! I'll definitely cross the finish line before\nyou overtake me this time!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, look at that! Kita and Spe are getting on so\nwell!",
+            "choice_data_list": [
+                "Huh? Weren't you supposed to be inspecting\nsomething?",
+                "Huh? Weren't you supposed to be inspecting\nsomething?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well... I kinda left halfway through. The whole\ntime I was out, I couldn't stop worrying about\nthose two."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I felt bad for having my head in the clouds while I\nwas with Prez, so I decided to come back and put\non my mantle as a good upperclassman."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, but it seems like I was worrying over\nnothing. No matter who she's dealing with..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Kita's a pro at getting people to open their\nhearts."
+        },
+        {
+            "name": "Special Week",
+            "text": "V-very well, but I won't go down that easy!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Look, Spe! They're serving miso ramen today!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heh heh heh... Did you know, Kita? There's also a\n<i>secret</i> menu!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Believe it or not, you can order a double portion\nof soft-boiled egg from it!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wooow! A double portion?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since we've entered her area of expertise, Special\nWeek does a 180, taking on a new air of\nseniority."
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, you're incredible, Spe! You know\neverything there is to know about food!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe! Yup! I've got your back when it comes to\nfood! Go ahead and order whatever you want! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It still feels like Kitasan's eagerness to be\npampered is what's giving Special Week a bit\nmore room to flex her seniority."
+        }
+    ]
+}

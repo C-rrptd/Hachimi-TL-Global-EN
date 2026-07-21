@@ -1,0 +1,171 @@
+{
+    "title": "BeHiND yOu",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, heavy rain necessitates we cancel our outdoor training. I'm\nspending time in my office to put together an indoor training plan.",
+            "choice_data_list": [
+                "(Wait a sec... Where's my pen?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I've noticed that I've been losing items much more often lately.\nYesterday I misplaced some paperwork from the academy, and today\nit appears I've lost my pen."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stand up from my desk to go fetch a new one, when—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bump!</i>",
+            "choice_data_list": [
+                "Urk!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Though I'm alone in my office, I feel as if someone has collided with\nme, and I stumble forward.",
+            "choice_data_list": [
+                "(Maybe I'm just tired...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "That won't do. How am I supposed to be an effective trainer if I'm just\nbumbling around? I slap myself on the cheek and proceed."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Phew... Um... trainer? The music...",
+            "choice_data_list": [
+                "Music?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice that the music we were using for our shuttle runs has stopped.",
+            "choice_data_list": [
+                "Oh, sorry! I spaced out for a moment!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hey... Have you, um...",
+            "choice_data_list": [
+                "I should probably get more rest."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No... That's not it."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Have you noticed... anything strange recently?",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "If not... good."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Maybe you should call it a day here?",
+            "choice_data_list": [
+                "Yeah, that's probably for the best.",
+                "Yeah, that's probably for the best."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Okay... In that case, I'll be sticking around a little longer.",
+            "choice_data_list": [
+                "Oh, then I'm okay to stay too."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You don't... need to do that. Please go home and rest..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No detours... Go straight home... And also..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You shouldn't come to the training course at night... At least for a\nlittle while..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You mustn't visit me... at night..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I walk outside to find that the rain has stopped. I head home while\npondering what she just told me.",
+            "choice_data_list": [
+                "(She doesn't want me visiting her at night for a\nwhile it seems...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe she's upset with me for all the careless mistakes I made today.\nI begin to think of ways to avoid making the same blunders tomorrow,\nwhen..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm chilled to my very core. It's as if someone is glaring at me from\nbehind...",
+            "choice_data_list": [
+                "Wh-who's there?",
+                "Wh-who's there?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I turn quickly to find no one there. I still feel some kind of presence\ndirectly behind me!"
+        },
+        {
+            "name": "???",
+            "text": "...Um.",
+            "choice_data_list": [
+                "Whaaah!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I forgot... to tell you something.",
+            "choice_data_list": [
+                "Y-you scared me half to death!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm sorry... That wasn't my intention."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I just wanted to tell you to be careful..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "So with that said..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I knew it... Instead of me, it looks like it's targeting Trainer..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Is it... displeased? Or could it be..."
+        }
+    ]
+}

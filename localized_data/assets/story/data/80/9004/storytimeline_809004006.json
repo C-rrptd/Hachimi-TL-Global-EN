@@ -1,0 +1,150 @@
+{
+    "title": "公園での遊び方",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I invite Trainer Kiryuin out to the park for a day\nof rest and relaxation..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It's been a while since I've come to the park for\nreasons outside of work!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...I played at the park by myself a lot when I was\nyoung.",
+            "choice_data_list": [
+                "By yourself?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "D-don't get me wrong, I had friends! But I also\nliked to play alone."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "For instance, I used to gaze up at the sky while I\nwas on top of the jungle gym and read <i>Twinkle\nMonthly...</i>"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Or I would sit on the swing and read the Trainer's\nHandbook..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You know, fun stuff like that!",
+            "choice_data_list": [
+                "That sounds more like studying to me..."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Th-that's not all I did! Since you're so curious, I\nalso enjoyed the rest of the playground too!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The seesaw, the horizontal bar, and so on...",
+            "choice_data_list": [
+                "Did you play alone on the seesaw?",
+                "Are you pretty good on the horizontal bar?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yeah. As an adult, I couldn't recommend this to\nchildren, but..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I would stand on one the end of the seesaw and\nthen walk over to the other end. That really\nhelped me with my balance!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The trick is to start lowering your stance once you\ncross to the opposite side."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "If you want to improve your sense of balance,\ndoing that over and over with the right posture is\nthe way to go."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, I know! I'll just show you. Watch!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So, you avoid the seat, then extend your spine\nnice and straight..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "See? This is the point where it's easy to lose your\nbalance, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kiryuin extends both of her hands out to keep her\nbalance. She looks quite proud as she crosses the\nseesaw."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Not bad, right? My friends always tell me that I've\ngot good balance. I'm very confident in it..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah, s-sorry. I'm rambling now, aren't I?",
+            "choice_data_list": [
+                "I'm gonna give it a shot too!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yeah, go for it! I'll be right beside you, so don't\nworry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After making sure there are no children around to\nsee, I play on the seesaw with Trainer Kiryuin."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yeah, especially pull-ups!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The trick is to use your strength to gradually get\nused to doing it, rather than trying to do it all at\nonce."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "For starters, just do ten... or even just five."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Results may be the most important thing at the\nend of the day, but that doesn't mean you should\nignore the process."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You'll only find your way to good results if you\nhave a solid base of hard work!",
+            "choice_data_list": [
+                "This sounds less like playing and more like\ntraining, doesn't it?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I-if that's the case, then maybe I actually haven't\nplayed at the park before..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A look of shock comes over Trainer Kiryuin's face\nas she realizes this, so I invite her to play on the\nswings with me."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I couldn't really do anything at first, but I got\nmore and more used to it until I could do a\nhundred!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...Come to think of it, I haven't done any pull-ups\nat all lately. Do you mind if I try now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I cheer Trainer Kiryuin on as she does pull-ups\nwith a fiercely determined expression."
+        }
+    ]
+}

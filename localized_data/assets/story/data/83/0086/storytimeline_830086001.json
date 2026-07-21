@@ -1,0 +1,159 @@
+{
+    "title": "Anything for My Classmates",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking by the dance studio when I see Narita\nTop Road practicing vigorously."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "<i>Pant... Pant...</i> That was terrible! But I'm not giving\nup yet! Okay, one more time!",
+            "choice_data_list": [
+                "(She's really working hard!)"
+            ]
+        },
+        {
+            "name": "Classmate A",
+            "text": "Oh! Class Rep! Thank goodness I found you!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Huh? ...Whoa! What's wrong?"
+        },
+        {
+            "name": "Classmate A",
+            "text": "It's b-b-bad! Real bad! C'mon, hurry! Everyone\nneeds you!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Uh oh. This must be a real emergency. Okay, lead\nthe way!"
+        },
+        {
+            "name": "Classmate A",
+            "text": "Okay! And... oh! Could you come too? Having an\nadult around would make us feel a lot better!",
+            "choice_data_list": [
+                "Uh, sure!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Is everything okay?!"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Class Rep! You came! And you even brought a\ntrainer!"
+        },
+        {
+            "name": "Classmate B",
+            "text": "What a relief... Now we'll actually have a fighting\nchance at passing tomorrow's makeup exam!",
+            "choice_data_list": [
+                "Wait. Makeup exam?"
+            ]
+        },
+        {
+            "name": "Classmate A",
+            "text": "S-sorry! I was in such a rush that I forgot to\nexplain the situation...",
+            "choice_data_list": [
+                "And here I thought something terrible had\nhappened..."
+            ]
+        },
+        {
+            "name": "Classmate A",
+            "text": "But this <i>is</i> terrible, and we need your help! Please\nhelp us study! We're done for otherwise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't mind sticking around, but Narita Top Road\nwas in the middle of dance practice. I look her\nway worriedly."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Heh... Hehe... Ahahaha!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah, I'm so relieved. I thought someone had gotten\nhurt or something! I'm so glad it was nothing\nserious."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Anyway, I'd be happy to help with your studies.\nI'm a strict teacher, though, so be prepared to\nwork hard!"
+        },
+        {
+            "name": "Classmates",
+            "text": "Thank youuu! You're a lifesaver!",
+            "choice_data_list": [
+                "What about your dance practice?",
+                "What about your dance practice?"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Oh, it's fine. I can practice whenever. What about\nyou, though? Do you have the time?",
+            "choice_data_list": [
+                "I've got nothing planned, so I can help."
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Really? Thank you so much!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Let's split up the work. First, we need to get a\ngrasp on what we're dealing with and determine\nwhat will be on the test tomorrow."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Next, we'll analyze the situation, figure out what\nthey don't understand, and tackle everything\nthey're struggling with!",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "All right, everyone. Time to get serious! Let's get\nyou all passing scores tomorrow!"
+        },
+        {
+            "name": "Classmates",
+            "text": "Yes, ma'am!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm curious to know how the makeup exam went,\nso I visit the students' classroom the next day."
+        },
+        {
+            "name": "Classmate A",
+            "text": "Yessss! I passed! Thank you so much! You really\nsaved us!"
+        },
+        {
+            "name": "Classmate B",
+            "text": "I know, right?! You made everything so easy to\nunderstand! We would've been goners without\nyou, Top Road!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ahaha. All I did was help. You're the ones who\nput in all the work!",
+            "choice_data_list": [
+                "You're so modest.",
+                "You're so modest."
+            ]
+        },
+        {
+            "name": "Classmate B",
+            "text": "Oh, hi! And yeah, she really is! Top Road's so\ngood at everything—school, dancing, races... but\nshe's so humble about it!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Aw, you're exaggerating!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "But thank you! I'm just really glad I was able to\nhelp you all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Top Road smiles brightly. She's the picture\nof a model student!"
+        }
+    ]
+}

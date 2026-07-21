@@ -1,0 +1,41 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's finally Winning Ticket's turn to make her\ndebut!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Aaaaagh! M-my time is here, Trainer!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Th-the nerves are making my heart pound like\ncrazy! I'm feeling kinda itchy all over too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Am I gonna be okay?! I hope I can still run!",
+            "choice_data_list": [
+                "You'll do fine, Ticket!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoa! You're really sure! That's reassuring,\nTrainer!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But I guess I do feel a little braver now. I can do\nit! I'm gonna be fine!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If I let a little thing like a debut scare me, I'll\nnever make it to the Derby!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All riiight! I'm gonna give it all I got—FOR THE\nDERBY!"
+        }
+    ]
+}

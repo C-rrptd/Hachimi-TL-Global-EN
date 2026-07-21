@@ -1,0 +1,22 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "Ughhh, that was so close. That claw is way too\nweak!",
+            "choice_data_list": [
+                "I'm sorry...",
+                "I'm sorry..."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, don't beat yourself up about it. Seriously!\nThese things are mostly luck."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing."
+        }
+    ]
+}

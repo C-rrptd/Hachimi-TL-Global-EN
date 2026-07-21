@@ -1,0 +1,273 @@
+{
+    "title": "これもひとつの愛情表現っ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle has invited us to a day at the\nmountain stream. After we meet up with\nMatikanetannhauser, the three of us wait for our\ntrain."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I can't wait to see it! But weren't you going to\ninvite more people?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Everyone had the same story—too busy, maybe\nnext time, yadda yadda. It's a right shame... But\nhaving you two here is more than enough!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, I'm glad to hear it. Maybe next time we\ncould all go camping! And there's always the\nTracen Academy Summer Walk too."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's right! There's so many fun events ahead!\nWe could cut a rug 'round the campfire!",
+            "choice_data_list": [
+                "What's the Summer Walk again?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Just something the academy organizes for\nsummer! They do a bunch to help us all relax!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "They even pay for some of our travel! So let's\ntake this chance to relax our tails off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The academy also runs a training camp in the\nsummer. It's a hectic season for the students, so\nthese pockets of respite are all the more\nimportant."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, the train's here! Onward ho, to the stream we\ngo!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm all done changing! Woohoo, the water's all\nsparkly!\nUgyah! Not to mention freezing! Brrr!",
+            "choice_data_list": [
+                "Careful not to slip."
+            ]
+        },
+        {
+            "name": "Tannhauser and Taiki",
+            "text": "'Kaaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The pair frolic in the water and pick berries with\nchildish delight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching them play, I'm reminded of the hugging\ndilemma from before. I wonder if\nMatikanetannhauser has already resolved it."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Doesn't the water feel just grand? The current's as\nsmooth as all get-out!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hup!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa! It gets really deep over here! Be careful!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmm!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's bracing against the current. It's not exactly\na hug, but it might work as practice for one. Or\nmaybe this is the result of her training?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh? Do you hear that adorable chirp—oh no!\nThat baby chick fell out of its nest!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "We have to save it! Oh, but I remember hearing\nthat if you touch a chick, the parents will\nabandon it because your smell got on it..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But still! We can't just leave that poor birdie all\nalone! The little thing needs to go home!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hey! Taiki?!",
+            "choice_data_list": [
+                "It's not safe! Let me do it!",
+                "It's not safe! Let me do it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can stop her, Taiki Shuttle is climbing the\ntree, baby bird in her arms."
+        },
+        {
+            "name": "Monologue",
+            "text": "She makes good progress at first, but she loses\nher footing midway and comes to a halt."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoops! I was so busy mindin' the little one I\nplumb forgot to look at my feet!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...\nJust keep still for a moment!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It looks like the closest stable foothold from\nwhere you're at is... Ah, actually, that spot might\nbe rotten..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "In that case... I think this spot might be able to\nhold your toes... Yeah, judging by the diameter, it\nshould be deep enough. And from there..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay, I think I've got it!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Move your left foot down and to the right about\ntwelve centimeters! You'll be backtracking a\nlittle, but don't worry. After that, take your right\nfoot and..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Matikanetannhauser's precise\ndirections, Taiki Shuttle makes it to the nest\nsafely. And then..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw, we did it! Thanks a ton, Tannhauser! The\nlittle chicky made it home safe and sound!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yay! Thank you so much, Taiki!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, and the mom's back in the nest too! I guess\nshe was keeping watch nearby the whole time! It\nlooks like she's got no problem, thankfully!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Phew! That's a relie—whoa!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Taiki!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle briefly loses her balance, and\nMatikanetannhauser shoots up the tree to\nsupport her. They slowly make their way back\ndown."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I owe you one! I was really flailing there."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Are you hurt?! You must've been so scared!\nOhhhhh, I'm so glad you're safe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser hugs Taiki Shuttle tight. She\nmust really have been worried."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sigh...</i> Thank goodness..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, Tannhauser... You've got such a warm heart!\nI'm so happy right now!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I can feel the worry and love just shootin' off you!\nSorry for giving you a fright, but thanks for saving\nme!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(I get it. Thinking of others, worrying about them,\nand trying to help them... They're all ways to show\nyour love. Have I finally gotten my feelings\nacross?)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehehe, I get it now. There are a lot of ways to\nshow your love."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And thank you too, Trainer! Don't think I didn't\nsee you down there with your arms out, ready to\nbreak our fall!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I would've rather gone unnoticed, seeing as I\ndidn't actually help anything..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh! Does that count as showing love too?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It sure does! Love and peace make the world go\nround! Get over here! This one's a group hug!",
+            "choice_data_list": [
+                "What?! No, that's not necess—"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to hold my ground against their\nhug—which is more of a tackle—we fall into the\nstream with a huge splash."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry 'bout that, Trainer! I really had you worried\nback there, didn't I? Here's a hug to calm you\ndown!",
+            "choice_data_list": [
+                "That's okay, really!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Don't tell me you're embarrassed? You <i>are!</i> I told\nyou that we need hugging practice!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Did you say hugging practice? Say no more! I can\ngive y'all hugs 'til the cows come home!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to explain that I'm not actually embarrassed,\nbut in the face of the two grinning Umamusume,\nit proves to be futile."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry 'bout that, Trainer! I really had you worried\nback there, didn't I?",
+            "choice_data_list": [
+                "I'm just glad you're safe."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask her not to do anything dangerous in the\nfuture. I don't even want to think about if\nanything bad were to happen."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Exactly! Geez, you had us both worried sick!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"That goes for you too,\" I mutter with a sigh, but I\nultimately keep it to myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"That goes for you too,\" I mutter with a sigh, but I\nultimately keep it to myself."
+        }
+    ]
+}

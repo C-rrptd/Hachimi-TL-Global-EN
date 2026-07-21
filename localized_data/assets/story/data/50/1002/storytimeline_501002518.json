@@ -1,0 +1,41 @@
+{
+    "title": "ぼんやりモード",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I catch Silence Suzuka staring off into space as I\nline up for lunch.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, sorry. I wasn't paying attention. I guess I'm\njust a bit... tired."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You know... I had this thought while\njogging—what if I don't stop? What if I just keep\ngoing until... there's nobody else?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And so, one by one, I passed each person walking\nin front of me. And then, suddenly..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "There I was, running alongside some rice fields,\nnext to a rural railroad track."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Getting back home was tough."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must have run a long way. She certainly looks\ntired."
+        }
+    ]
+}

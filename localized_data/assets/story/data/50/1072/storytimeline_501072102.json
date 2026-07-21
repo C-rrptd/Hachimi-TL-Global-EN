@@ -1,0 +1,282 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's, and I'm relaxing in my office when\nI receive an invitation from Yaeno Muteki to\nusher in the new year with a shrine visit."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do find it a little odd that she specifically wants\nto rendezvous in a park, but I go along with it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Happy New Year, Trainer.",
+            "choice_data_list": [
+                "Happy New Year! Let's hope this year is another\ngood one!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes, indeed.",
+            "choice_data_list": [
+                "Shall we head to the shrine?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "In a moment, please! There's something important\nI have to tell you first."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inhale...</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Please forgive me for what happened at the\nArima Kinen!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I let my emotions get the best of me and behaved\nso disgracefully!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I made an embarrassing spectacle of myself in\nfront of you. If there was a hole nearby, I would\nhave crawled right into it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I vow to never again repeat that blunder! Please\naccept my sincerest apologies!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wasn't especially troubled by Yaeno Muteki's\npassionate outburst after the Arima Kinen..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it looks like she's unable to forgive herself for\nhaving let her emotions dictate her behavior.",
+            "choice_data_list": [
+                "It's quite all right.",
+                "It's quite all right."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll exercise greater restraint in the future!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "However, when I said I would defeat Oguri..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I meant it. That's my goal, and it hasn't changed."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My conduct may have been shameful, but\neverything I said came from the heart."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When the crowd was going wild for Oguri at the\nArima Kinen..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It dawned on me that their enthusiasm had\nnothing to do with me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Everyone was so caught up in the excitement of\nseeing Oguri and Tamamo..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Nobody mentioned the Classic Triple Crown."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It felt as if everyone had forgotten about the\nSatsuki Sho and the Japanese Derby... And about\nChiyono O, Ardan, and me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I couldn't accept that."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thus, I have decided to challenge Oguri!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I can best her—the racer at the center of\neveryone's attention—it will surely make a lasting\nimpression and keep us from being forgotten!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll defeat Oguri with a performance that will live\non in the memory of the masses!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That is what I have chosen.",
+            "choice_data_list": [
+                "So that's your obsession.",
+                "So that's your obsession."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My... obsession?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes, that's right! This fierce emotion... this must\nbe obsession!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I've been suppressing these intense emotions,\nbelieving they must never surface..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing this, I come to understand why she's been\nstruggling to find an obsession of her own."
+        },
+        {
+            "name": "Monologue",
+            "text": "If an obsession becomes too strong, it can mutate\ninto something wild. She must have been\ndisciplining herself unconsciously to keep her\nemotions in check.",
+            "choice_data_list": [
+                "It's fine as long as you wield those feelings\nproperly.",
+                "It's fine as long as you wield those feelings\nproperly."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. My desire to pursue this obsession has\nbecome so strong that I can no longer suppress it."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But that's the type of passion I need if I'm going\nto make it to the finish line."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thus, I have no choice but to dedicate myself to\nmastering the blaze fierce and water still, to\navoid overstepping any boundaries."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I intend to channel this obsession towards winning\nraces. I will harness its potential as I run, without\nletting it take hold of me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As per our original plan, Yaeno Muteki and I pay\na visit to the shrine."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It seems we've avoided the crowds. Luck is on our\nside!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Have you decided what you'll be praying for?",
+            "choice_data_list": [
+                "For you to stay healthy.",
+                "For your hard work to be rewarded.",
+                "For Oguri Cap's defeat!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "For me to stay healthy? My body is robust. I don't\nthink my health warrants any concern.",
+            "choice_data_list": [
+                "I'm worried about you training too hard."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that I'm concerned she might overdo\nthings by drawing on sheer willpower to continue\neven when she's exhausted."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh... An uncomfortably feasible concern."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I do believe that I know my body well, but I'll\nendeavor to be careful all the same."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "After all, I don't wish to cause you any undue\nvexation."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Let's skip training today and use this time to rest."
+        },
+        {
+            "name": "Monologue",
+            "text": "After visiting the shrine, Yaeno Muteki and I head\nto a teahouse to enjoy some mochi and take it\neasy."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Yaeno Muteki that I'm hoping for her hard\nwork and commitment to training to be rewarded."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You prayed that <i>I</i> be rewarded?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer, you are a paragon among mentors!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I must return the favor to you..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "By training! Even more training!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Well then, I best get to it! Please excuse me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I even have a chance to say that she\nshould at least relax on New Year's, she runs off."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm?! You want to beat Oguri Cap as well?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Is that how fiercely you wish to join me in my\ngoals? I read you loud and clear!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Let's go on a boat ride!",
+            "choice_data_list": [
+                "What? Why now?!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Given the deep connection we share in this\nmoment, I believe we could row a boat in perfect\nunison!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It'll be an apt opportunity to show how in sync we\nare!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not fully sure what she means, but since she\ninsists, I agree to go boating with her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki's intuition turns out to have been\nsurprisingly on the mark."
+        },
+        {
+            "name": "Monologue",
+            "text": "We maneuver the boat with such ease and\nperfectly synced strokes that we end up drawing\nattention from passersby."
+        }
+    ]
+}

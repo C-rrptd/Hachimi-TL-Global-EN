@@ -1,0 +1,210 @@
+{
+    "title": "腹が減っては巡回できぬ☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today has been absurdly busy. I drag myself up to\nthe rooftop to take a quick break, but when I get\nthere..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "How are things, Biko? Have there been any\nbaddies lurking about?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All is well on campus today! How are things at\nyour end?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Everything's fine with me, too! Lunch was\ndelicious, and everyone's good and happy! ☆",
+            "choice_data_list": [
+                "What's this about baddies?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, Trainer! Biko and I were just in the middle of\nour patrol around school! ♪"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Biko patrols every day to protect the peace of\nthe academy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's right! Listen up, trainer of Bono! If you\nhave any woes or worries, let me know so I can\nlend you my aid!",
+            "choice_data_list": [
+                "I've been really fatigued lately, actually...",
+                "Do you have any tricks for conserving stamina?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "What?! That's terrible! Have you eaten yet? Wait\nright there! I'll be right back with some fresh\nchanko!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's the wrong way to go about things, Bono! If\nyou make too much food, you'll only send your\ntrainer into a food coma!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "And you can't defeat a villain if you're in a food\ncoma, unable to move at the most critical\nmoment! The true solution is to raise your\ntrainer's baseline endurance!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "At least, that's what Carrot Ranger says!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I see, I see! So, what if we try moving lots and\nthen eating lots?!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Yes, that sounds great! Come, let's patrol the\nschool together!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Roger! Just say the word if you start getting tired,\nokay, Trainer? I'll help keep you on your feet! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, going along with Biko Pegasus's\nsuggestion, I join their patrol while Hishi Akebono\nkeeps me upright by supporting my back."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All clear!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All clear! ☆",
+            "choice_data_list": [
+                "All clear."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Okay, next location!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All clear!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All clear! ♪",
+            "choice_data_list": [
+                "All clear."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Nice! All is at peace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After surveying every possible nook and cranny\non campus, I finally hit my limit and slump down\ninto a crouch."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hm?! Are you all right there?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh dear! Hang in there, Trainer! Here, I'll carry\nyou!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hefts me up before I even get the chance to\ntell her I'll be fine after a breather."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Incredible as always, Bono! There's clearly\nnothing to worry about with your baseline\nendurance!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I think I got a little stronger today, too. ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks for coming with us today, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll make some yummy food for you once we get\nback, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I savor the dinner Hishi Akebono kindly prepares,\nand soon my tired body is soothed back to\nnormal."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Have some meat! It'll help with your stamina! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "She's right! Carrot Ranger eats curry with big\nchunks of meat in it! Come, Bono! The time for\nsustenance has come!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You've got it! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Make sure you chew your food properly! That\nmakes it easier for your body to absorb all the\nnutrients."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And you'll feel way more energetic, too!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "<i>\"Way more\"?!</i> Amazing!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Chewing carefully helps with digestion, and that\nleads to you getting hungry again!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I get it! So the next step is to eat more and regain\nyour energy!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Exactly! And if you keep repeating those steps,\nthen you'll be able to maintain your stamina\nperfectly! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "All right, from now on, let's eat a whole heap of\nmeat before we go on our patrols!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've got it covered! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a grin on her face, Hishi Akebono starts\nlaying out dish after delicious dish as Biko\nPegasus watches in amazement."
+        },
+        {
+            "name": "Monologue",
+            "text": "The sight of the hearty chunks of meat coupled\nwith the aroma of the curry is enough to bolster\nmy stamina tenfold!",
+            "choice_data_list": [
+                "Thanks for all the food!"
+            ]
+        },
+        {
+            "name": "Akebono and Biko",
+            "text": "Let's dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us enjoy our meal together, then\npatrol the school until evening."
+        }
+    ]
+}

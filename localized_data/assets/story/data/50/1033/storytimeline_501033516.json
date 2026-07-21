@@ -1,0 +1,120 @@
+{
+    "title": "ふわっふわスイート",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On my way back from shopping, I see Curren\nChan invite Admire Vega to a cafe."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I'm real tired... Let's take a break and get\nsomething sweet to eat. Okay?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm going home. Pass me my stuff.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh, you're Ayabe's trainer! The two of us were\njust about to go and grab pancakes."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I never agreed to that. We just bumped into each\nother by chance."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I just can't get my mind off of pancakes. Look,\neven your trainer is making an \"I want a pancake\"\nface.",
+            "choice_data_list": [
+                "I am?",
+                "I am?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You are. So, let's go already! Pancaaakes! ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, let go! Quit pulling me!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Look at this pancake tower! ♪ The fruit\ndecorations are so cute!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at the mountain of thick pancakes topped\nextravagantly with fruit and gourmet\nmarshmallows."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Now this is a treat worth splitting! Let's dig in!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Oh? It's... so fluffy..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Exactly! The pancakes sold here are so airy, they\njust melt in your mouth!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "This texture... it's so light on the palate. You just\nwind up eating more."
+        },
+        {
+            "name": "Monologue",
+            "text": "The pancake on Admire Vega's plate disappears\nin an instant.",
+            "choice_data_list": [
+                "Try not to eat too much, okay?",
+                "Try not to eat too much, okay?",
+                "(I'll let her eat as much as she wants.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The pancake on Admire Vega's plate disappears\nin an instant.",
+            "choice_data_list": [
+                "Try not to eat too much, okay?",
+                "Try not to eat too much, okay?",
+                "(I'll let her eat as much as she wants.)"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well... of course, I was only planning to eat this\none plate."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Delicious..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Haha! I knew you'd enjoy these fluffy pancakes,\nAyabe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega carefully and slowly savors her\nreasonable serving of pancakes."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega is normally strict on herself. I think\nit would be good for her to indulge in something\nshe enjoys every once in a while."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The bottom layers remind me of chiffon cake.\nThey're really fluffy..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Haha! I knew you'd enjoy these fluffy pancakes,\nAyabe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although the tower of pancakes is meant to serve\na group of people, Admire Vega ends up eating\nthe majority of the stack."
+        }
+    ]
+}

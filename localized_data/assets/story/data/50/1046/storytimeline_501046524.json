@@ -1,0 +1,251 @@
+{
+    "title": "あなたの街で,Connect Live☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a very successful performance beneath an\nunderpass, Smart Falcon is seeing off her fans."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you so much for coming, everyone! I'll see\nyou all at the next one! ♪"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "E-erm... Hey, Falco!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeees? ☆\n...Oh?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You were in the back row... with the handmade\nfan, right? ♪"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "H-huh? Y-you... you remember? There were so\nmany people, but you remember me? How come?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You made that fan just for today, didn't you?\nThat makes me super happy. ☆ Thanks for always\nshowing up to my performances. ♪"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "No waaay! You're a goddess among goddesses! I\ncan't believe you remembered me!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Come on, don't exaggerate! ☆ Anyways, you had\nsomething to tell me, right?"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Ah, that's right! I was just wondering if you'd\nrecord a message of support for my childhood\nfriend... Unless that's too much to ask..."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "It's just, my friend is a huge fan of yours as well,\nbut she's too busy to leave our hometown..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It's no trouble at all! I'll be her very own\ncheerleader!"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Y-y-you're seriously an angel sent from heaven...\nMy friend has been stressing out and feeling\ndown, but this will definitely cheer her up!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, I'm sorry to hear that. Here's hoping my voice\ncan lift her spirits a little."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I know! I've got a better idea than just recording a\nmessage! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "What would you say if I told you I'd put on a\nwinning concert near where your friend lives?"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "I-if you did that, she'd be able to come too!\nB-b-but... why would you go that far for us?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'd do anything for my fans! That's what being an\nUmadol is all about!"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Faaa... Fal... Falcooo!"
+        },
+        {
+            "name": "Female Fan A",
+            "text": "I-i-incre... Incredible! Beyond incredible! I... I can't\nbreathe... <i>Gasp...</i>",
+            "choice_data_list": [
+                "B-by the way, where exactly is your hometown?"
+            ]
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from Hokkaido! Would you\nbe able to come to the racecourse in Sapporo or\nHakodate?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow! Hokkaido? ♪ I bet if I ate some delicious\ncheese and crab before a concert, I'd never run\nout of energy! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at either Sapporo or Hakodate."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from Yamagata! Would you\nbe able to come to the racecourse in Fukushima,\nMorioka, or Niigata?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow! Yamagata?! ♪ The air there is so fresh! I\nbet it would feel amazing to do a concert\nthere. ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at Fukushima, Morioka, or Niigata."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from Chiba! Would you be\nable to come to the racecourse in Nakayama or\nFunabashi?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow! Chiba?! ♪ I bet I could really kill it at the\nconcert after having some of that nutritious offal\nstew! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at either Nakayama or Funabashi."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from out west! Would you be\nable to come to the racecourse in Hanshin or\nKyoto?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow! Kansai? I bet crowds would really get\ninto the concert there. ☆ It'll definitely be a fun\nperformance!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at either Hanshin or Kyoto."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from Fukuoka! Would you\nbe able to come to the racecourse in Kokura?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow, Fukuoka? ♪ There are so many cute girls\nthere, but I'll be even cuter when I'm on stage! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at Kokura."
+        },
+        {
+            "name": "Female Fan A",
+            "text": "Oh... right! Sorry! I'm from Kanagawa! Would you\nbe able to come to the racecourse in Kawasaki?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wooow, Kawasaki? ♪ That's the city of music,\nisn't it? I bet I'll get super pumped! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Trainer? We can go, riiight?",
+            "choice_data_list": [
+                "I'll try and work something out with your\nschedule!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yaaay! I'll be aiming for center stage, so make\nsure you're there cheering me on! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Smart Falcon promises she'll appear in\na winning concert near her fan's hometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time to put together a strategy to claim center\nstage at Kawasaki."
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "title": "突然の厚意",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm walking around the academy, Symboli\nRudolf spots me and approaches."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah, perfect timing. I was just hoping to speak with\nyou."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A matter has arisen that requires the student\ncouncil's attention. It seems we need all hands on\ndeck."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Would you mind if I missed today's training\nsession to attend to it?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I shall ensure that it is dealt with by the end of\nthe day, so future sessions should be unaffected—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hold it right there, bucko!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Teio?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You need a hand, right? Well, I've got two!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I appreciate your enthusiasm, but this is a matter\nfor the student council."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "C'mooon, I just wanna help out!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I won't mess around! I pinky swear!",
+            "choice_data_list": [
+                "Rudolf can handle this.",
+                "Many hands make light work, right?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed. I should be enough to make up the\ndifference."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No way! Awww, so much for Operation Get\nPraised..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Fine, you win! But next time, I won't take no for\nan answer!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I am flattered enough that you asked."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you, Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Urgh..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Anyway, I'm needed in the student council office.\nI'll see you tomorrow, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, Symboli Rudolf attends to her\nduties with lightning speed. By the end of the\nday, she has finished everything."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, exactly! See? It's a great idea!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Just think about it! The harder I work, the quicker\nyou can get back to training!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I have to say, I did not foresee my own trainer\ntaking Teio's side."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Very well, then. But I expect you to follow my\ninstructions to the letter."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yahoo! You got it, Prez! To the letter!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeaaah, I'm gonna be <i>rolling</i> in compliments! ♪"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well then, if you'll excuse us, Trainer."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe! ♪ I'm Prez's little helper! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Symboli Rudolf manages to clear her\nstudent council workload by the end of the day."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is thanks in no small part to Tokai Teio\nfollowing instructions carefully, lightening the\nload on Symboli Rudolf's shoulders."
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "title": "メジロ家のあの子たち～難しい選択～",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm working in my office alone one night after a\nday of training with Mejiro McQueen."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Good evenin'! Coming through!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry for barging in here so late.",
+            "choice_data_list": [
+                "...What's going on?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It is understandable that you would be confused.\nAllow me to fill you in on the particulars."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them explain their sudden entrance.\nApparently, they were about to watch a movie,\nbut the dorm's television was broken."
+        },
+        {
+            "name": "Monologue",
+            "text": "So the conversation turned to them possibly\nwatching it in my office instead."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I apologize for suddenly springing this upon you.\nWould you care to join us, perhaps?",
+            "choice_data_list": [
+                "Sure, I don't mind."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My, that's good to hear. Well then, I'll attend to\nthe preparations."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon after, the four of us begin to watch the\nmovie."
+        },
+        {
+            "name": "The Three",
+            "text": "Eek!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My goodness! Just as I thought they had escaped\nfrom the monster, they're now locked in this\nroom!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yikes, they're cornered from every angle! They're\ndone for!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "They better get outta there and find somewhere\nsafe, stat!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I hold the same—"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But wait."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ryan?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Think about it. The room is closed off. The hero\nand heroine are all alone."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This can only mean one thing... This is their\nmoment!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "They should make the most of it and stay right\nthere together until the end!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nah, not gonna work! That's just plain dangerous!\nThey totally need to get outta there. Right,\nMcQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, me? Um... What do you think of this, Trainer?",
+            "choice_data_list": [
+                "They're in danger so they should find an escape.",
+                "They should stay there together and make\nsomething happen."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I see your point."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Palmer, I am in agreement with you. I too believe\nthey should try and escape."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nice choice, McQueen! Knew you'd have the guts\nto make a run for it!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But now that I think about it... just how are they\ngonna pull it off?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, obvious! They need to get into an open\nstance! Or maybe they should go for a closed\nstance and get a good back swing in?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What are you... No one here understands your\ngolf jargon, you know!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The situation seems to have gone beyond Mejiro\nMcQueen's grasp."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "If that's how you feel, Trainer... then I will have to\nagree with Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, really? I'm happy to hear that!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So, McQueen, what do you think will happen\nnext?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Obviously, their heightened emotions will make\nthem fall for each other! Or maybe they'll start to\nremember how important they are to each other?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I mean... they're in a closed room! <i>Something</i> has\nto happen, right? <i>Riiight?</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I can't... I can't think with you staring me down\nlike that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The situation seems to have gone beyond Mejiro\nMcQueen's grasp."
+        },
+        {
+            "name": "Monologue",
+            "text": "The movie progresses to its final act."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Noooo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The monster is growing in size! Aaah, it's looking\nthis way!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I cannot take this any longer! We need rescue\nefforts, rescue efforts! Mobilize the Mejiro\nDefense Team! Dispose of this beast at once!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha! You are way too invested in the movie. At\nleast you're enjoying it!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah... too bad the Mejiro family doesn't actually\nhave a defense squad."
+        }
+    ]
+}

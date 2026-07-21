@@ -1,0 +1,276 @@
+{
+    "title": "メジロパーマーのトレーナー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Palmer hones her running with an unceasing smile, right up to\nthe middle of this year's summer training camp."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nothing seems to be getting in the way of the good times. However..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh hey, Trainer! You should take a little break. Aren't you thirsty?\nDon't worry about me and go on ahead."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wait, your face is mad red! Let's get you under the shade, right away!\nOh yeah, didn't we bring a damp towel today?!",
+            "choice_data_list": [
+                "P-Palmer?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's long gone before I can get a chance to tell her to relax. I\nwonder just what's going on."
+        },
+        {
+            "name": "Monologue",
+            "text": "While she's always been a kind and caring person, something feels a\nlittle different about all this. She's usually more easygoing in the way\nshe helps."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wait, don't tell me..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha, I see. A complaint, huh? But if she needed to say something\nduring our training session..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Then it must've been about me and my runnin', huh. Makes sense! I\ncan't say I don't get where she's coming from."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is she caught up on that complaint I got from that one trainer? If\nthat's the case, I need to intervene."
+        },
+        {
+            "name": "Monologue",
+            "text": "I slipped up by giving that issue more spotlight than it deserved. I\nneed her to be more relaxed."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm aware of a festival happening tonight near the camp grounds, so I\ndecide to invite Palmer out for a night of fun."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sheeesh, this place is <i>hoppin'!</i> There're stalls for days out here!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey Trainer, you lookin' to stuff your face? Or do you wanna goof off\nwith some games? I'm down for anythi—",
+            "choice_data_list": [
+                "What do <i>you</i> want to do, Palmer?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh, me? Well uh... I was kinda thinkin' that I'd follow you—",
+            "choice_data_list": [
+                "I want to do whatever you want to."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eh? But I uhh... Wha? I didn't really have anything in mind, so uhh...",
+            "choice_data_list": [
+                "Oh? We can leave if it's too much of a pain..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "A pain? Heck no! It's not a pain at all, for real. So howsabout uh... The\nshooting range, yeah!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Got your eyes on a prize, Trainer? Leave it to me and my\nsharpshootin'!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sorry... Got nothing. Zilch. Like how did I even manage to get the\nshots to go in the <i>entirely</i> opposite direction? Huh?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "O-one shot? Yikes, you're way too good at this! What the actual\nheck?!",
+            "choice_data_list": [
+                "Anything you want?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, word? Then I'll take that decoration thingy up at the top... Nah,\nhold up. Aim for something <i>you</i> want!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "This cookie cutting game is <i>tough</i> ! Is this a skill issue? I wanted to\nget something nice for ya..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How's it going over there? Better than me, I hope. Oh, just a little\nmore! Carefully... carefully...",
+            "choice_data_list": [
+                "I'll let you handle the rest!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Say wha?! But this is like, the most important part! But okay, sure. I'll\ngive it a shot since you asked!",
+            "choice_data_list": [
+                "Okay, here you go... Oops..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, it snapped!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha, Trainer, that face you made just now... Haha, yikes!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But don't worry about it! We'll win the night yet! Look, there's a water\nballoon yo-yo game over there! Let's give it a whirl!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Phew, that was a blast! We played our hearts out <i>and</i> stuffed our\nfaces. Feelin' good, feelin' good!",
+            "choice_data_list": [
+                "If you had a good time, then I'm happy."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "So you really were lookin' out for me... Sorry, I guess you noticed I've\nhad kind of a weird vibe lately, huh?",
+            "choice_data_list": [
+                "Did that issue with the other trainer bother you?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? Oh yeah, something like that did happen, right? Nah, that didn't\nreally bother me."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It's just that you're always going out of your way to help me, no matter\nwhat it is. And like, I know that's a trainer's job and stuff..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I thought I'd do something nice for you in return, but maybe I went a\nlittle too hard. Ahaha, well I screwed up!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Looks like despite my best efforts, I just went and made it feel all\nweird. Sorry, I'm pretty embarrassed.",
+            "choice_data_list": [
+                "Don't worry about it one bit."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But you must've felt overloaded as heck...",
+            "choice_data_list": [
+                "I do what I do for you, and it's plenty fun."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh, wha? H-hey, hold up..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Trainer's still so serious about the job... So sincere towards\nsupporting me...)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Ever since scouting someone, it's been like this.)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Scouting someone...)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Scouting... me...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm glad I got to be your trainer, Palmer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!",
+            "choice_data_list": [
+                "Wh-what's wrong?!",
+                "Wh-what's wrong?!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(So Trainer's not only content with being a trainer...)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(But is especially happy to be <i>my</i> trainer?)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Trainer's saying that as my trainer... helping and supporting <i>me</i> is\nfun?! That's it, right?)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Waaa! Ahhh!",
+            "choice_data_list": [
+                "Palmer?! Do you have a stomachache? Or is it a\nfever?!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "Y-yeah?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm so fired up. I'm gonna run like heck and win, on god."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Our running is the real deal. I'll show everyone what we're made of,\nrack up wins, and uh..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'll show <i>you</i> that you made the right call by becoming my trainer!",
+            "choice_data_list": [
+                "R-right back at you!",
+                "R-right back at you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that I'm going to work hard so that one day, she'll be able to\ntell me how happy she is to have chosen me as her trainer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahhh!",
+            "choice_data_list": [
+                "Palmer?!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Sob.</i> Trainer's so... so..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is it the heat? I use my hand to fan the collapsed Mejiro Palmer with\nall the energy I can muster."
+        },
+        {
+            "name": "Monologue",
+            "text": "She glances at me and just giggles, her face a striking ruby-red."
+        }
+    ]
+}

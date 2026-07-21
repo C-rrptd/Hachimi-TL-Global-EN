@@ -1,0 +1,172 @@
+{
+    "title": "フレッシュ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While I'm out with Satono Diamond, we spot\nKitasan Black in deep discussion at the\ngreengrocer."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What's the matter, Kita? That's quite the frown\nyou've got there..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, hey, Dia!\nThis shop's actually in a bit of a bind..."
+        },
+        {
+            "name": "Grocer",
+            "text": "We're still sitting on a heap of leftover stock, and\nthere are hardly any customers."
+        },
+        {
+            "name": "Grocer",
+            "text": "Cheap veggies here!\nGet your fresh, delicious vegetables!",
+            "choice_data_list": [
+                "...No one's coming over."
+            ]
+        },
+        {
+            "name": "Grocer",
+            "text": "See? This always happens when my favorite\nbaseball team loses. It's some kinda terrible jinx..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Apparently, this happens every single time."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Grrr!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You can overcome this jinx!\nDon't give up! You just need to fight it head on!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Like... What if I were to buy all of your leftover\nvegetables?",
+            "choice_data_list": [
+                "I think that's going a little far..."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Then, we'll find another way! I can't just ignore\nsomeone who needs my help!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I know! Let me help you sell them!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Me too! We'll help you break this jinx!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "ATTENTION, SHOPPERS!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "WHO WANTS SOME FRESH VEGGIES?!"
+        },
+        {
+            "name": "Passerby",
+            "text": "What the?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black's shouts echo throughout the\nshopping district, causing people to stop in their\ntracks."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We've got fresh, juicy tomatoes and plump, shiny\neggplants! Perfect for tonight's dinner!"
+        },
+        {
+            "name": "Housewife",
+            "text": "My, she's certainly full of energy. I think I'll see\nwhat the fuss is about."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All our stock is delicious. ♪ Take a look around."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe. This is going really well!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's all thanks to your powerful voice. ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Your customer service is great too! That polite\nnature of yours is really working here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter... Murmur, murmur...</i>"
+        },
+        {
+            "name": "Grocer",
+            "text": "Wow! This is the first time I've sold so much after\nmy team lost!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. We didn't do anything special. If you had\nstayed positive, I'm sure business would still have\nflourished without us."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That's true! I think your shouts were just lacking\ntheir usual vigor today!"
+        },
+        {
+            "name": "Grocer",
+            "text": "Maybe you're right! Now that you mention it, I\ndefinitely lacked energy back there."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "\"Don't let the jinx beat you!\"\n\"Forget about your superstitions and just have\nfun!\""
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It you put those feelings into your voice, you can\ndispel any measly jinx. ♪",
+            "choice_data_list": [
+                "Positivity is the key to all things in life!",
+                "Can it really get rid of any jinx?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. That's right!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hey, why don't we search for other people\nbothered by jinxes? We might be able to help!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm coming too! Let's ask the people in the\nshopping district!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us march around the shopping\ndistrict on the lookout for undiscovered jinxes!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, do you doubt me? Then I'll just have to break\nanother jinx!"
+        },
+        {
+            "name": "Grocer",
+            "text": "In that case, I actually have one more! When my\noverall sales are good, people stop buying my\ncucumbers."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Then we need them to understand how great your\ncucumbers are! Maybe we can showcase delicious\nways to enjoy them?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That might work! I know a three-star chef I can\nask for some recipes. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their demonstration is a huge success, and they\nend up selling all of the cucumbers!"
+        }
+    ]
+}

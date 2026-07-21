@@ -1,0 +1,42 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day has finally come for Mihono Bourbon's\ndebut race."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Initiating scan. Heart rate and blood pressure\nnormal. These results indicate that I am relaxed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Put simply, I am not nervous. However, I can\nbecome nervous if necessary. Are those your\norders?",
+            "choice_data_list": [
+                "No, you're fine!"
+            ]
+        },
+        {
+            "text": "Her typical calmness brings me some relief.",
+            "choice_data_list": [
+                "Get out there and run as fast as you can!",
+                "Get out there and run as fast as you can!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. I will execute your\ncommand."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'm going now, Trainer."
+        }
+    ]
+}

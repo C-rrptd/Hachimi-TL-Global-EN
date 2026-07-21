@@ -1,0 +1,52 @@
+{
+    "title": "夏合宿（2年目）終了",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Before we know it, it's already the final day of\nsummer camp."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Phew... Well... I think that was a productive\nsummer camp!",
+            "choice_data_list": [
+                "...Why are you all dirty?",
+                "...Why are you all dirty?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Because I was trying to go one-on-one with a\nbear!",
+            "choice_data_list": [
+                "Say what?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The final day of camp is the time to put your\nprogress to the test, right? So I wanted to see\nhow much my power has improved!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But unfortunately, I wasn't able to find any\nbears..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I tried calling out to them, searching through the\ngrass, pulling up tree roots... But I couldn't find a\nsingle one...",
+            "choice_data_list": [
+                "Thank goodness for that!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-Trainer? Why are you on the ground? And why\ndo you look so pale?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "S-somebody call an ambulance! Don't die on me,\nTrainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wasn't at risk of dying, but the thought of\nKawakami Princess fighting a bear was far too\nhorrifying. I tell her not to attempt that ever\nagain."
+        }
+    ]
+}

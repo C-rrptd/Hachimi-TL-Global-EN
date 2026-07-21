@@ -1,0 +1,252 @@
+{
+    "title": "激昂、そして心は張り裂けて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day after I fail to scout Gold City, I'm walking along under the\ntrees, when..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "So, that big fuss out on the course—that was City, wasn't it?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I think the guy she was arguing with was her trainer? Seemed pretty\nheated. Wonder if she's okay..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't like the sound of that. I'd better go take a look!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Then, what? You're saying I should just stop training?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "No, no, not at all. It's just, you don't want to put on too much muscle\nand ruin your proportions, or get any nasty scratches on your body!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Form is what you should be working on. Looking pretty while you run\nis the name of the game for you. Oh, that and winning concert\npractice!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay, so, is any of that gonna help me run faster? Help me win?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Wait, <i>that's</i> what you're worried about? It'll be fine. I'll handle it. The\ntrick is, you just gotta run in races you know you can win."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Then there won't be a scratch on your reputation! The glamorous, the\nvictorious Gold City—star of the show! The perfect plan, am I right?"
+        },
+        {
+            "name": "Gold City",
+            "text": "No... No, no, no! That's <i>not</i> who I want to be!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Tell me... Why?"
+        },
+        {
+            "name": "Gold City",
+            "text": "You said... you'd make me the top Umamusume. That I'd be the\nbrightest star on the turf."
+        },
+        {
+            "name": "Gold City",
+            "text": "So why? ...Why are you giving me this crap?!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "What? No, no, my stance hasn't changed. I mean c'mon, you're <i>the</i>\nGold City."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Everyone talks about you—the cool and fierce model!"
+        },
+        {
+            "name": "Gold City",
+            "text": "...!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "You'll be great. Just leave it all to me! How to present you, how to\nmake you shine—I've got it all figured out."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "You just have to do what I say! It's for your own good. I mean, that's\nwhat a trainer's for, isn't it?",
+            "choice_data_list": [
+                "That's not what a <i>real</i> trainer does!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Y-you again... Why are you..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "And who do you think you are? Why don't you mind your own\nbusiness, huh?",
+            "choice_data_list": [
+                "A real trainer listens to their trainee!",
+                "A real trainer listens to their trainee!"
+            ]
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Oh yeah? You got some nerve, pal!"
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "H-hey! ...Kid doesn't know what's good for her. I coulda made her a\nstar."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Dodged a bullet with that temper, though. Oh well, plenty of fish in\nthe sea."
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to make sure she's all right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My search takes me all across campus to no avail. There's only one\nplace I haven't looked...",
+            "choice_data_list": [
+                "Gold City!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uwaaah! What, what is it?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You scared me... Seriously, what's going on? You the paparazzi or\nsomething?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain the predicament and ask if she knows where Gold City could\nbe."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Sooo, you feel the need to find her, why? ...Kinda sus."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I know you're trying to scout her, but like, you're just after her looks,\naren't you? I mean, I get it—she's drop dead gorgeous."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But that means you're like, not any different from her manager, you\nknow?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So lemme ask you. Why do care about her?",
+            "choice_data_list": [
+                "She's a hard worker, and I want to support her."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Support her, huh."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So like, you're gonna do what, exactly, for her?",
+            "choice_data_list": [
+                "I don't know yet."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You got nothing?! Wait, like actually? Not a good look.",
+            "choice_data_list": [
+                "I mean, I barely know anything about her... yet.",
+                "I mean, I barely know anything about her... yet."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Huh?",
+            "choice_data_list": [
+                "I want to talk to her, and get to know her."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Only then can I decide what to do—her input is just as important as\nmine."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh-huh... Well, you do you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wait, why's it feel like you're waiting for me to say something? Can\nyou not?",
+            "choice_data_list": [
+                "Please, tell me where she is!",
+                "Please, tell me where she is!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wh-whoa there, don't creep any closer! Nope, not doing this!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, again? You've got to be joking!",
+            "choice_data_list": [
+                "Please! You have to tell me!",
+                "Please! You have to tell me!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No! Just, no! And stay away!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Phew. Should be safe he—",
+            "choice_data_list": [
+                "Pleeease!",
+                "Pleeease!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "How are you <i>still</i> following me?! Just get lost already!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Stop! Ugh, I can't with you! Why are you asking me, anyway?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I literally have no idea where she could be. I mean, the riverbank, I\nguess, but—"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, shoot.",
+            "choice_data_list": [
+                "THANK YOU!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, wait a sec!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Don't tell her you found out from me, okay? Seriously, you better not\ntell! She's legit scary when she's mad!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey! Are you listening?!"
+        }
+    ]
+}

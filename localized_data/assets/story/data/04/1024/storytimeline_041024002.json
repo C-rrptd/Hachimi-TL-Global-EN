@@ -1,0 +1,236 @@
+{
+    "title": "フライト準備は難航中？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun showed me something remarkable at the tryout race\nthe other day."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wander the academy grounds, hoping to meet the spirited racer one\nmore time."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hurry up, Yukipe! Don't you wanna watch Gold City race with your\nown eyes? Let's get moving!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "H-hold up, Maya! On second thought, I'm not sure if I wanna go... I've\nnever been 'round so many people..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "C'moooon, you'll be fiiine! I'll be with you the whole time!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, wait. I think I've seen you before..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, right! You're that trainer I met at tryouts! Wow, funny seeing you\nagain! Why are you here?",
+            "choice_data_list": [
+                "I came looking for you.",
+                "I came looking for you."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh? Me? Waaait, this is like..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Such a grown-up situation! Squee! ♪"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Buuut I'm kinda in a hurry right now, so... as much as I wanna talk,\ny'know..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Wait, I have an idea! Why don't you come with us? That'd be perfect!\nRight, Yukipe?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Huh? U-uhhh... Maya? What're you—"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You're coming with us! It's time for takeoff!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Whaaa?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before either Yukino Bijin or I can interject, Mayano Top Gun grabs\nthe two of us by our wrists and drags us along with her."
+        },
+        {
+            "name": "Caster",
+            "text": "The runners are now approaching the fourth and final corner! Gold\nCity makes a beautiful turn from the track's outer side! And right\nbehind her is Tamamo Cross!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'll show ya what true grit looks like!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You're not going anywhere!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ohhh! Wooow! City's really someth'n else!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I know, right?! City and Tamamo are both sooo cool! It's like they're\ntwinkling!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ohhh... So you can go <i>zoooom</i> there? I never would've thought that!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Watching grown-up Umamusume race is always suuuper exciting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun's eyes are twinkling with joy, and her gaze is glued\nto the top Umamusume from start to finish."
+        },
+        {
+            "name": "Caster",
+            "text": "Finiiish! Tamamo Cross takes first place! A close second, Gold City\nfollows right behind her!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff... huff... huff...</i> Yeah! Victory's mine!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Dang it, I messed up the timing on my sprint..."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's fine. This won't happen again. Mark my words, Tamamo. I'm going\nto win next time."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Heh-heh. Sounds like a challenge if I've ever heard one! I'll take ya\nup on dat any time, any day, City!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wow! That race was amaz'n! Tamamo and City were both so cool!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So she shouldn't have gone <i>bam</i> there... It was too early! And City\nfigured that out... She really is amazing!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ughhh, watching twinkly grown-ups race makes my heart keep going\nall <i>badump, badump...</i> I wanna be twinkly too!",
+            "choice_data_list": [
+                "Badump? Twinkly?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yep! There's always something new to learn from these big races! So\nwatching them makes my heart go badump!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "All those racers are so much more experienced and grown up! And\ngrown-ups are twinkly!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "So like, I wanna be like that too! I wanna be all twinkly and running in\nraces that make people go badump!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Awww, maaan. I wanna run in the Twinkle Series toooo!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "M-me too! G1 might be a ways away, but I'll get there one day! I\nhafta!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "All right! Let's get ourselves back to the academy and start train'n!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Blegh, <i>training</i>?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I don't wanna! I'm not gonna! Training sucks!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm gonna explore the racetrack! See ya!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Wait, Maya! Geez, she's already gone...",
+            "choice_data_list": [
+                "Is she not very good at training?",
+                "Is she not very good at training?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "No way! There's noth'n Maya can't do! Once she puts her mind to\nsometh'n, you can't stop her. She's amaz'n like that."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Like when she got used to runn'n on the dirt tracks real quick! And\nI've never seen her even break a sweat dur'n our dance lessons!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "She's even good at study'n! Anyway, if she says \"I got it,\" then she's\nreally got it!",
+            "choice_data_list": [
+                "\"I got it\"?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Uh-huh, Maya says it heaps of times. For everyth'n, actually! She gets\nit all! It's amazing, really..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Yukino Bijin, I feel like I have a slightly better\nunderstanding of Mayano Top Gun and her abilities."
+        },
+        {
+            "name": "Monologue",
+            "text": "She has a prodigious ability to \"get it\"..."
+        },
+        {
+            "name": "Monologue",
+            "text": "That is, her astounding intuition that always leads her down the right\npath. She's a bona fide genius!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But for some reason, she has no interest whatsoev'r in training... Ever\nsince our first session, she hasn't shown up at all...",
+            "choice_data_list": [
+                "She only showed up once?!",
+                "She only showed up once?!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Yeah... And 'cause of that, she isn't allowed to run in any races—not\neven scrimm'ges!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I get that races are where you're s'pposed to show the fruits of your\ntraining, but... I dunno... I still feel sorry for Maya. The poor thing..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't stop thinking about Mayano Top Gun. She wants to race more\nthan anything, yet..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is there anything I can do for her?"
+        }
+    ]
+}

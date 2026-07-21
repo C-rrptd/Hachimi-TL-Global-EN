@@ -1,0 +1,248 @@
+{
+    "title": "オーケー！ユーもフレンズでーす☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The next day arrives with Taiki Shuttle still believing she's been\nscouted."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking it wrong to recruit someone based on a misunderstanding, I\nset out in hopes of breaking the news to her gently."
+        },
+        {
+            "name": "Monologue",
+            "text": "After a bit of searching, I find Taiki in the courtyard with a couple of\nother students."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Gulp...</i> Okay, Fukukitaru—ready as I'll ever be! Tell me what ya see in\nyour vision!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Sure thing! Here goes!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pri-pri, mero-mero, starry-cup... O great Shiraoki, bestow upon me\nyour wisdom!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...I've got it! Listen and be amazed, Taiki! Your lucky direction for this\nmonth is... east-southeast!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ooh, <i>yes!</i> That's just the answer I needed, Fukukitaru!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So Suzuka, let's have the party somewhere to the east-south-south...\neast-east? Yeah!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The east-southeast, wasn't it? I'm not sure what direction the\neast-south-south-east-east would be..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, now—no use getting hung up on the details!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whatever the case, Suzuka, it's gonna be a good time!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Come to my barbecue party, and I'll feed ya till your body's all soft\nand squishy!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Th-that's a kind offer, but I'm not sure I want to be soft and squishy..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Either way, I'm really happy for you, Taiki! Congratulations on finding\na trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Thanks, Fukukitaru! Hope to see ya there too!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm wanna invite as many friends as I can. 'Cause ya know what they\nsay—the more the happier!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Taiki chatting cheerfully with her classmates, it's plain to see\nthat she's a bright and friendly individual."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ehehe. I just wanted to tell ya how much I'm looking forward to our\ntraining session today!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And, well... People tell me I can be a smidge unfocused, but don't ya\nworry! I'm gonna give it the good ol' college try!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her boundless enthusiasm makes it all the more difficult to turn her\ndown."
+        },
+        {
+            "name": "Monologue",
+            "text": "But a decision must be made...",
+            "choice_data_list": [
+                "Glad to have you aboard!",
+                "Glad to have you aboard!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You bet! Thanks for taking me under your wing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus, our first training session together begins. However..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, Suzuka! Howdy!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah, Taiki—wait, stop! Please don't pounce on me, okay?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Well, that's too bad. Hugs are a sign of affection, ya know."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yours are a bit like being hit by a truck. Actually, aren't you supposed\nto be training right now?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, I clean forgot!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry for runnin' out on ya all of a sudden, Trainer! Soon as I spotted\nSuzuka, my legs just sort of went off on their own."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ooh, I know! Since you're here and all, why don't we train together,\nSuzuka?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What? W-well... Would that be all right with you, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though completely unplanned, having someone with Silence Suzuka's\ntalent join our session would undoubtedly prove beneficial.",
+            "choice_data_list": [
+                "Honestly, I'd consider it a favor.",
+                "Honestly, I'd consider it a favor."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Okay then. I was planning to do some distance training today, so\nwould you mind if we ventured off the school grounds?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Off the grounds?! That sounds like fun!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "No problem at all! Let's go, go, go!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hold on, Taiki. That was a question for your trainer...",
+            "choice_data_list": [
+                "No worries. Go ahead!",
+                "No worries. Go ahead!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Then it's off to the races! Yeehaaaaaw!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hey, wait!\nS-see you in a bit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wait at the school gate for them to return, feeling only the slightest\nbit apprehensive. Eventually, I hear the sound of footsteps."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Pant, pant...</i> We're back.",
+            "choice_data_list": [
+                "Uh... Where's Taiki?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Huh? Wait, what?! I was sure she was right behind me!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "S-sorry! She has a habit of stopping to talk to everyone she meets, so\nI meant to keep a close eye on her..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But I have my own habit of getting tunnel vision whenever I run... I-I'm\nreally sorry!",
+            "choice_data_list": [
+                "Let's go look for her!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Suzuka and I search all along the running course for Taiki."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Bang! Yes, another bullseye!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, I just heard her! I think she's over this way!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Ooh, me next! I wanna try! Show me how it's done!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Just leave it to yours truly! Once ya learn my sharpshootin' skills,\nyou'll be just like a hero in a Western—toy pistol or not!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "There you are, Taiki! Thank goodness we found you!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, if it ain't Suzuka! And Trainer too! Why're ya both so out of\nbreath?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ohhh, sorry! I totally forgot I was in the middle of running!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Taiki..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems the road ahead of us is going to be quite the bumpy one."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well... I made some cute friends, so... can ya p-please forgive me this\none time?!"
+        }
+    ]
+}

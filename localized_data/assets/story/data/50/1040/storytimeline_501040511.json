@@ -1,0 +1,195 @@
+{
+    "title": "食べないのは悪手だよ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the way to lunch with Gold City, we meet\nYukino Bijin in the hallway."
+        },
+        {
+            "text": "<i>Grrrumble!</i>"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Gosh, I'm starv'n...",
+            "choice_data_list": [
+                "That was quite a stomach growl."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "What's wrong, haven't you had lunch?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Well, you see... The other day, I went to a sweets\nbuffet with a friend..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "After we finished, my friend said she ate a bit too\nmuch, so she started this diet."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Then I noticed my skirt was feeling a little tight,\nso I figured I should join her... Hehe."
+        },
+        {
+            "name": "Gold City",
+            "text": "I see. But that doesn't mean you should skip\nmeals."
+        },
+        {
+            "name": "Gold City",
+            "text": "In fact, you came just at the right time, Yukino.\nFollow me!"
+        },
+        {
+            "name": "Gold City",
+            "text": "So, are there any types of food you don't like?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Not particularly, but... um, City? This is the\ncafeteria..."
+        },
+        {
+            "name": "Gold City",
+            "text": "That's right. Trainer and I were just about to eat\nlunch, so you should join us too."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "B-but..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Eat a balanced meal and you'll be fine. First up,\nyou should include some fiber-rich vegetables..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, and soy products are good too. Do you like\ntofu and natto?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Y-yeah, I like 'em both!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, there's grilled fish on today's menu. Do you\nlike fish?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I love fish!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But, um, do you really think I should be eating\nthis?"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's fine. Oh, you should eat your vegetables first.\nIt'll slow down the digestion and absorption\nprocess."
+        },
+        {
+            "name": "Gold City",
+            "text": "You know, skipping meals tends to backfire—you\nend up eating even more later to compensate for\nthe lack of energy."
+        },
+        {
+            "name": "Gold City",
+            "text": "Plus, if you don't get enough nutrients, it's going\nto affect your skin too."
+        },
+        {
+            "name": "Gold City",
+            "text": "Your skin is so beautiful and smooth, it would be\na shame if you started breaking out. Got it?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Ahhh! I-I'll do m'best!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Okay, I'm gonna eat well as I can!"
+        },
+        {
+            "text": "I'm always impressed by the beauty perspective\nthat Gold City brings."
+        },
+        {
+            "text": "Maybe she can help me out with some of my own\nbeauty troubles...",
+            "choice_data_list": [
+                "You know... I'm actually trying to build more\nmuscle...",
+                "Do you know what I can eat to feel full?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? You care about that kind of thing too?",
+            "choice_data_list": [
+                "Well, I want to look good for those interviews!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Hmm, I see. Let me think..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Okay—how's this for an idea? Just for today, I'll\nbe your trainer and you can be the trainee."
+        },
+        {
+            "name": "Gold City",
+            "text": "Now give me ten more! Don't give up—you got\nthis!",
+            "choice_data_list": [
+                "Raaagh!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Strengthening the lats will improve your posture,\nwhich, of course, will make you look better in\nphotos."
+        },
+        {
+            "name": "Gold City",
+            "text": "But you know all that already. You're a trainer\nafter all.",
+            "choice_data_list": [
+                "O-of course!",
+                "O-of course!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Guess I can just watch, then."
+        },
+        {
+            "name": "Gold City",
+            "text": "...This is so weird. A trainer being trained by an\nUmamusume."
+        },
+        {
+            "text": "Over the following months, Gold City helps me\nstick to the regimen until I start to see results."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Oh, I'd like to know that too!",
+            "choice_data_list": [
+                "I tend to get kind of hungry really often..."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, my usual tactic is to snack on nuts if I get\nhungry..."
+        },
+        {
+            "name": "Gold City",
+            "text": "But tell you what—I'll make a list to give both of\nyou later. I got it from an experienced model\nwhen I was first starting out.",
+            "choice_data_list": [
+                "A diet list for professional models?!"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Whoooa, but isn't that classified information?"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's not that special. You can find the information\non the list just about anywhere."
+        },
+        {
+            "name": "Gold City",
+            "text": "Since I don't have the list to give you both now...\nwell, I'll just have to pick your foods for you."
+        },
+        {
+            "text": "Thanks to the very satisfying menu she served me,\nI manage to get my afternoon's work done\nsmoothly."
+        }
+    ]
+}

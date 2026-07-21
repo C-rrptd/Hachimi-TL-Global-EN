@@ -1,0 +1,230 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Jingle, jingle, jingle, jingle...</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer! I wanna go somewhere special today!",
+            "choice_data_list": [
+                "Go somewhere? Like where?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hmm... Well, it is the holidays, so there's only one\nplace that fits the bill..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And that's a rural fishing village!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I expected somewhere more fancy, but I was\ncompletely off the mark. Several bus rides later,\nwe arrive at a snowy fishing village."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our footsteps crunch with each step through the\nsnow..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bwooom...</i>"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "This is it! This is the atmosphere I was hoping for!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The snow blowing against the window, the faintly\nvisible fishing port in the distance, and the barely\naudible sound of a steam whistle..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I feel like I've been transported right into the\nworld of enka music. It's so awesome...",
+            "choice_data_list": [
+                "It feels kind of melancholic, though, doesn't it?",
+                "It feels kind of melancholic, though, doesn't it?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Melancholic? Well, I'd probably feel that way if\nnobody else was here..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But I feel fine because you're here with me!\nBesides, if I had free rein over how I celebrated\nthe holidays, I'd do it in peace and tranquility."
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how boisterous Kitasan Black usually\nis, I'm surprised by how austere her preferences\nare."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, by the way, do you want anything to drink,\nTrainer? I can pour it for you!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "What should I have? Hmm... I think I've have a\nwarm glass of cider...",
+            "choice_data_list": [
+                "You want warm cider?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah, I prefer to drink it warm rather than cold."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "There's just something so good about warm apple\ncider. It just goes down so smooth."
+        },
+        {
+            "name": "Monologue",
+            "text": "After a moment of shock, I realize she's talking\nabout non-alcoholic cider. What's more, she has\nquite a sophisticated way of drinking it."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I don't feel like having cake today. I think I'm in\nthe mood for some soy-pickled squid or fish\ncakes with wasabi!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Anyway, Happy Holidays, Trainer! Let's take it\neasy today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We toast each other while gazing at the falling\nsnow. It turns out to be a strangely charming time."
+        },
+        {
+            "name": "Monologue",
+            "text": "We knock back drink after drink while reminiscing\non times since passed."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Spending time like this is so nice... This might\nreally be enough for us.",
+            "choice_data_list": [
+                "Enough? In what way?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, I feel like we normally live in excess, or\nlike... There's just so many things around us all the\ntime."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But if you whittle everything down to the bare\nnecessities..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You'll discover all we really need in life is some\nfood and drink with a close friend, and the\noccasional toot of a distant steam whistle..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That's what I mean by this being enough. I could\nlive happily with just what we have here."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I feel so moved... I've always wanted to visit a\nplace like this at least once in my life."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Thank you so much for accompanying me here,\nTrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black looks totally relaxed as she enjoys\nthe holidays in a simple yet reflective manner."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for me, I feel lucky to see a side of the clutch\ncaptain Kitasan Black that no one else has ever\nseen before."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for me, I feel lucky to see a side of the clutch\ncaptain Kitasan Black that no one else has ever\nseen before."
+        },
+        {
+            "name": "Monologue",
+            "text": "That night..."
+        },
+        {
+            "name": "Old Fisherman",
+            "text": "Kita... Are you there, Kita?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "H-huh? You're one of the local fishermen... Is\neverything okay?"
+        },
+        {
+            "name": "Old Fisherman",
+            "text": "We prepared a festive li'l tree for ya. Care to take\na look?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A tree?! For me? What do you think, Trainer?\nShould we go?",
+            "choice_data_list": [
+                "Looks like you're getting a warm welcome!",
+                "Looks like you're getting a warm welcome!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The news that none other than <i>the</i> Kitasan Black\nis visiting this village is bound to be a big deal."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah! Let's go check it out, then! We can't walk\naway from such a kind offer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The old man takes Kitasan Black by the arm and\nleads us to a mountain path that lies beyond the\nvillage. We follow it until..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoooa, check out this tree!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We're greeted by the stunning sight of a\nmagnificent fir tree reaching towards the sky."
+        },
+        {
+            "name": "Old Fisherman",
+            "text": "I don't have any ornaments for it, but I did my\nbest to sweep some of the snow off and make it\nlook prettier."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "This is more than enough for me! Nature on its\nown is plenty beautiful..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "This is the ultimate gift, don't you think, Trainer?",
+            "choice_data_list": [
+                "Yeah. Want to make a wish?",
+                "Yeah. Want to make a wish?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sure! Let's do it together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a big smile on her face, Kitasan Black clasps\nher hands together and makes a wish."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We promise to live our lives with dignity, just like\nthis great tree."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Even if we're nothing to look at, we'll stand true\nand tall, and penetrate through any thick snow\nclouds that get in our way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The great fir tree and snowy sky above appear to\nfully accept Kitasan Black's earnest wish."
+        }
+    ]
+}

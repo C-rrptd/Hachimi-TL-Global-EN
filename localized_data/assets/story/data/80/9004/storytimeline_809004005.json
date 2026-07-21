@@ -1,0 +1,160 @@
+{
+    "title": "身をもって学ぶべし！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>!\nThanks for inviting me out today!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So what are we doing today?",
+            "choice_data_list": [
+                "How about a hike?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "A hike? You mean in the woods or something? I\ngo there often for training."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That sounds good to me. Let's go!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "We're really deep into the woods, aren't we? I've\nnever been here befo—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah, that's quite a steep hill up ahead! Look at\nhow much the path twists and turns too... Not to\nmention the wind!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I had no idea this was here. I bet it would make a\nperfect place for training..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um... Have you been using this area as a training\nlocation, perhaps?",
+            "choice_data_list": [
+                "No, I just found it—"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you for showing me such an invaluable\nplace!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I was just thinking about implementing a new\ntraining regimen for Meek, so this is perfect\ntiming!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I really can't thank you enough!",
+            "choice_data_list": [
+                "R-really, I didn't do—"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Don't be so modest! I won't let this favor go to\nwaste! Forgive my eagerness, but—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm going to give it a try now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All of a sudden, Kiryuin begins to run up the\nslope in a fine display of athleticism."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's back by my side in a flash."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hm... It's less slippery than I thought. So maybe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "This time she takes off in a different direction...\nbut the path is blocked in multiple places by\nfallen trees!",
+            "choice_data_list": [
+                "Be careful!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hup!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Phew! This is great!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I only ran through some preliminary exercises,\nbut... I was able to confirm almost everything that\nI needed!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Those fallen trees are the perfect height for\njumping over, and the soil is firm enough for safe\nlandings!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "There's nothing especially dangerous out here, so\nthis is the perfect place to train!",
+            "choice_data_list": [
+                "You're so athletic!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Th-thank you! This is also thanks to the Trainer's\nHandbook!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "\"Train not only your mind, but also your body.\nThere is much to be learned from honing your\nphysique.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ever since I was a kid, I've played every sport you\ncan imagine and put that wisdom to use."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm far from a professional athlete, of course. Nor\nam I a match for an Umamusume when it comes to\nrunning."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But I believe I've learned enough to pass on my\nexperience.",
+            "choice_data_list": [
+                "That's very admirable."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "N-not at all... I'm still just a novice, really..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But it makes me happy to hear such praise from a\ncontemporary."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I promise I won't disappoint you. I'll continue to\nwork hard from now on!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Anyway, thank you for showing me this place!\nOnce I get home, I'm going to work on that\ntraining regimen!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, and I'll be sure to share it with you once I'm\ndone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Trainer Kiryuin shares her new\nspecial training regime with me, just like she\npromised."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "レース疲れ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "May I ask what you thought of my running today?"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the most part, she was as confident as ever on\nthe track..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But now that I think about it, she might have\nlooked a little tired.",
+            "choice_data_list": [
+                "You seemed to be struggling a bit."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So you thought the same... Perhaps I should start\npaying more attention to my body's needs and\ngive myself some rest."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Not that you're at fault, of course. We've both\nbeen pushing ourselves a little too hard of late."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We must both strive to keep one another at the\ntop of our game."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf has a point. It might be wise to\nrethink our schedule."
+        }
+    ]
+}

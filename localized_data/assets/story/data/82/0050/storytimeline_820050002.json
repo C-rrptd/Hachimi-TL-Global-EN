@@ -1,0 +1,141 @@
+{
+    "title": "Let's Go Fishing Again",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "King Halo",
+            "text": "Sky, do you have any plans for our day off\ntomorrow?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm going boat fishing. ♪ I reeled in a whole\nbunch last time."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "S-sorry. I must still be a little... troubled from last\ntime's incident..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Incident?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You hugged Grass and then pinned—I mean,\ncornered me up against the wall."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Oh! Yeah, I heard something like that went\ndown!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha-ha! ☆ Sorry about that! I only planned to\ntease you two a bit..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But your reaction was just too delicious, Dober.\nSo I went a little overboard. ♪"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! You mean you <i>weren't</i> sleepwalking?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, take it easy on us, will you?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ehehe. I won't do it again, so forgive me, okay?\nPretty please?"
+        },
+        {
+            "name": "King Halo",
+            "text": "..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Are you perhaps... feeling under the weather?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?"
+        },
+        {
+            "name": "King Halo",
+            "text": "I mean... for a trickster such as yourself to\napologize so easily..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Now that's a bit harsh. I'm more than capable of\ngiving an honest apology."
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes, I suppose. But in those cases, there's always\na catch."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nah, you're overthinking it."
+        },
+        {
+            "name": "King Halo",
+            "text": "You see?! Knowing you, just now, I would expect\na, \"Oh, so you want me to play a trick on you,\"\nkind of response!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Now that I think about it, you've been acting\nstrange the whole day. Is there a reason for this?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Argh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nnngh... You're right... I do feel a little dizzy,\nactually."
+        },
+        {
+            "name": "King Halo",
+            "text": "What?! I knew it! Come on, hurry over to the\ninfirmary already!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...\n...Phew."
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, I happen to be on the same train as\nSeiun Sky. She's brought a few fishing goods\nalong, but her expression reads a little solemn..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, I thought I felt a familiar pair of eyes\nwatching me. Were you smitten by the sight of me\nall geared up for fishing?",
+            "choice_data_list": [
+                "Please be careful while you're out there.",
+                "I was thinking about the delicious fish you gave\nme last time."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah... You're right on that, haha. And not only\n\"out there.\"",
+            "choice_data_list": [
+                "Huh? What do you mean?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ah. Nothing. Just talking to myself."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh! Haha, are you perhaps hungering for more?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Well, it's no use thinking about the fish of the\npast!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm going to haul in a bunch more to satisfy that\nstomach of yours! ♪"
+        }
+    ]
+}

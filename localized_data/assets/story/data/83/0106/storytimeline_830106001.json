@@ -1,0 +1,169 @@
+{
+    "title": "貴方にあこがれて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I decide to attend a seminar held by an instructor\nfrom a prestigious Umamusume training school. In\nfront of the venue, I meet..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now here's a familiar face. Have you come to\nlisten to my mother's talk as well? Your\ndedication is laudable.",
+            "choice_data_list": [
+                "Huh?! Your mother is the one leading this\nseminar?!",
+                "Huh?! Your mother is the one leading this\nseminar?!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You came without knowing that? Absurd. My\nmother has trained many superb Umamusume.\nKnow that every word she utters is replete with\nwisdom!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Now, during this exercise, it's important for the\ntrainee to position themself like bam and\nsqueeze, then bring that oomph down low.",
+            "choice_data_list": [
+                "(I, uh, can't follow this at all...)"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I see. So you should activate your abdominal\nmuscles while keeping your back straight, then\nshift the load into your glutes."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Just paying attention to those things is sure to\ndrastically improve the quality of training\nexercises. That's my mother for you!",
+            "choice_data_list": [
+                "(How did she understand that jargon so\nperfectly?!)"
+            ]
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "When instructing children, you must grasp the\nidiosyncrasies of how each of them run—oh,\nplease hold on! My nose is itching. Ahh... Ahh..."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "<i>AAACHOOO!</i>",
+            "choice_data_list": [
+                "(Whoa! That scared me...)"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Simply magnificent!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "She's so bold, sneezing at full force with no\nreservations about what others may think! What\ntenacious mental fortitude!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That is no doubt the secret behind my mother's\nsuccess in the grand races she ran. I must learn\nfrom her example!",
+            "choice_data_list": [
+                "(The things she admires about her mother are...\nstrangely skewed.)"
+            ]
+        },
+        {
+            "name": "Event MC",
+            "text": "Now, let's watch footage from a famous race\nduring your career so we can look back on that\ntime—"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Oh, please wait a moment! Watching old footage\nis all well and good, but what do you say we\nreenact that race, right here and now?"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "It would be far more beneficial to witness the race\nwith your own eyes! Let's see... Air Groove! Could\nyou play the role of my rival, please? ♪"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Y-you want me to stand in for your rival?! But I\nhaven't rehearsed or prepared anything..."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "You'll be fine! You've watched that Japanese\nOaks video countless times since you were a\nchild! Quickly, come up on stage!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "O-of course..."
+        },
+        {
+            "name": "Monologue",
+            "text": "They even prepare a racecourse backdrop for the\nstage, and the reenactment co-starring the\nmother-daughter pair is brought to life."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "And now it becomes a fierce competition on the\nstraight! Okay! Here my rival, number nine,\nappears from the outside! Come in like <i>vwooosh!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>V-v-vwooosh!</i>"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "That cute expression won't cut it! You need to\nglare at me with rage!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Y-you want me to glare at you, Mother?! Grrr...\nH-how is this?"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "No, that's all wrong! Sharpen your gaze and really\nscowl! Start again from the <i>vwooosh</i> part!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Um, f-from the <i>vwooosh?!</i>",
+            "choice_data_list": [
+                "(Poor Air Groove... She sure is having a rough\ntime of it...)",
+                "(Poor Air Groove... She sure is having a rough\ntime of it...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "They have to redo parts of the race multiple\ntimes, but the seminar hosted by Air Groove's\nmother is eventually brought to a close."
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Wheeze... Wheeze... Wheeze...</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "M-Mother... I can't believe you dragged me on\nstage without discussing anything in advance. I\nalmost..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's no surprise Air Groove feels so upset. Her\nmother definitely went too fa—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...I almost couldn't contain the admiration within\nme!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I couldn't have asked for a better place to train\nmy mental strength! Thank you for bestowing me\nsuch a valuable learning opportunity!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I must review today's events and really commit\nthe knowledge I gleaned into my head! If you'll\nexcuse me!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Goodness, she's far too serious about these\nthings. But I guess that's just like her..."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "But with how air-headed I am, I suppose it's only\nnatural that my daughter would compensate by\nbeing extra on top of things."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "...Well, no point dwelling on it. Maybe I should\ntake her out somewhere as an apology."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I learned a great deal about the\nunconventional relationship between Air Groove\nand her mother."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> seems to have sustained a\nslight injury..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But summer camp only comes around once a year,\nand time is ticking. What to do...",
+            "choice_data_list": [
+                "Make her take a proper rest.",
+                "Encourage her to keep going."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to concentrate fully on treatment and\nrecovery."
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> seems to be feeling a little\ndepressed because she can't get any exercise..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to enthusiastically encourage\n<chrname> to keep going..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it all goes wrong! Now it seems like the injury\nhas gotten even worse..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And the injury is miraculously healed! Practice\ngoes perfectly!"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "All right! I did it! Did you see that, Trainer?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I gave it everything I've got... It seems I did pretty\nwell!",
+            "choice_data_list": [
+                "It was an incredible run!",
+                "It was an incredible run!",
+                "Keep up the good work!",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I gave it everything I've got... It seems I did pretty\nwell!",
+            "choice_data_list": [
+                "It was an incredible run!",
+                "It was an incredible run!",
+                "Keep up the good work!",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! Thank you so much! Hearing such high praise\nfrom you is a reward in and of itself!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe... Next time, I'll do even better! That's a\npromise!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I will! I'm headed straight for my dream!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. It's so close, I feel like I can practically\nreach out and touch it."
+        }
+    ]
+}

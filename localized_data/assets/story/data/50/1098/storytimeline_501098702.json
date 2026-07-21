@@ -1,0 +1,180 @@
+{
+    "title": "劇的・風水リフォーム！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Today's outing was great! All that's left to do now\nis head back to the academy and get some rest..."
+        },
+        {
+            "name": "Old Man",
+            "text": "We barely get any customers! How are we\nsupposed to revitalize this old inn?!"
+        },
+        {
+            "name": "Old Lady",
+            "text": "You only just took over! Don't throw in the towel\nso fast! There's a lot of history here, you know.\nYou should take good care of this place!",
+            "choice_data_list": [
+                "(Are they having business trouble?)"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Are you struggling with something? I'd be happy\nto lend you an ear!"
+        },
+        {
+            "name": "Old Man",
+            "text": "...And so, I'm thinking about closing down my\nparents' inn. Sure there's a history there, but it's\nrun-down and nobody comes to stay there\nanymore..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "An inn that has to be closed down due to a lack\nof customers... that's also a precious building you\ninherited from your parents..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Um! Could you show me the inn?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I see... So this is the entrance..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I knew it! It's filthy!",
+            "choice_data_list": [
+                "Rickey! That's rude!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But the entrance is where you invite the god of\nfortune in! You can't extend an invitation when\nit's in this state!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But the direction's not bad, y'know. This place has\nthe right qualities to bring in all the good luck it\nneeds! Okay, let's use feng shui to revive this inn!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer, we're giving this all we've got! Roll up\nyour sleeves and put on your work gloves!",
+            "choice_data_list": [
+                "...So I'm helping too, huh.",
+                "...So I'm helping too, huh."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Let's sweep out all the dust and bad qi. ♪ We can\nswish-swish it all away! ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oooh! You can see the color of the floor again!\nHi there! How are you? How does it feel to\nbreathe again?",
+            "choice_data_list": [
+                "(It looks like she's enjoying her chat with the\nfloor...)"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Sooo, if we look at the floor layout first... Okay,\nlet's move this dresser! Oh, and that dressing\ntable! And then...",
+            "choice_data_list": [
+                "There's still more to move?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Of course there is! We have to be thorough if\nwe're going to get the good qi flowing! ☆ So go,\ngo, goooo!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Once we're done with this, let's go shopping! We\nhave to get some new decorations!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hm... The floor creaks when you walk on it... We\nmight need a hammer and some nails too."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...Hey, Dad. Can you call a carpenter for me?",
+            "choice_data_list": [
+                "You're going that far?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah! If we're going to do this, we might as well\ndo it right! And you can just hear the hallway\ncrying out in pain!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We make steady progress using both feng shui\nand physical strength..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Phew. So, how's it look? It's a big improvement,\nright?"
+        },
+        {
+            "name": "Old Man",
+            "text": "Wow... It's like a brand-new inn!"
+        },
+        {
+            "name": "Old Lady",
+            "text": "Yes, and the atmosphere's wonderful! It's like the\nplace has been completely reborn!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "We just did a little cleaning is all! I also arranged\neverything in line with feng shui, so things should\nstart getting real happy around here!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The building's happy! ☆ You're both lucky! ☆\nDon't you think that's wonderful?"
+        },
+        {
+            "name": "Old Man",
+            "text": "...Hmm. Yeah. You're right! You've done so much\nto restore this inn—there's no way I'm going to let\nit close down on my watch!"
+        },
+        {
+            "name": "Old Man",
+            "text": "Thank you. This precious inn has been in the\nfamily for generations, and I'm going to do my\nbest to revitalize it!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You're very welcome!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "My goal is to make everyone happy with feng\nshui! If you give me a shot to do that, I'll do the\nbest <i>I</i> can!",
+            "choice_data_list": [
+                "You're a real feng shui pro.",
+                "That was really... worth the effort..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe. Well, I've been watching my dad for years!\nI'm glad I got to put everything I learned from him\nto use!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Still... a professional, though?! Hehe. That has a\nnice ring to it! Hehehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She might have been a little intense, but it looks\nlike her encouraging personality has made people\nhappy. I hope she can keep showcasing the full\nextent of her skills."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, did all that tire you out? I'm sorry!",
+            "choice_data_list": [
+                "It's a good kind of tired."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well, that's a relief! I feel the same!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The tiredness you feel after helping people is the\nbest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She might have been a little intense, but it looks\nlike her encouraging personality has made people\nhappy. I hope she can keep showcasing the full\nextent of her skills."
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "title": "不透明なエチュード",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The next day, T.M. Opera O called me to \"come witness the most\nregal of training regimens.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no idea what kind of practice she normally does... But before I\nhave time to really think about it, I arrive at my destination."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe, just in time. Let the training now commence.",
+            "choice_data_list": [
+                "At a dance studio?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Why the surprise? I believe I said we are to train. Where else would\none go?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, stand back and <i>behold.</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "One, two, aaaand... THREE!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah! I dance as beautifully as a swan!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "At times elegant... At times dramatic! That's the cue for the\nthunder—<i>baboom!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O's performance continues as I stand there mystified..."
+        },
+        {
+            "name": "Monologue",
+            "text": "What does any of this have to do with training?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh... That should do it. Go ahead—you may now give your rave\nreview.",
+            "choice_data_list": [
+                "Um, words are failing me at the moment...",
+                "Um, words are failing me at the moment..."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Wha... Were you even watching?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Well, no need to fret. You understandably need time to take in my\nartistic vision. Now, on to my next training!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The water is clear as a gleaming diamond... It's as if my coming has\nbeen blessed.",
+            "choice_data_list": [
+                "So what're we doing at the pool?",
+                "So what're we doing at the pool?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Do you not see? I must strike the perfect midair pose... Await my\nglory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While her words are still unraveling in my mind, Opera O climbs the\ndiving board and leaps from the top!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hark! What dances through the skies with the grace of a swallow? 'Tis\nI!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaahaha! I hope my radiance didn't blind you."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Pant... Pant...</i> The final stop on today's training tour lies just atop this\nstaircase!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And we have arrived!",
+            "choice_data_list": [
+                "Now what are we doing?",
+                "Now what are we doing?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Obviously, we're making a visit to the shrine."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clink!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "May my beauty fill the whole world with happiness..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "May my beauty fill the whole world with happiness!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "That is how we say our prayers at the shrine."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, let's hurry back to school before the heavens grow wrathful in\ntheir envy of me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With her unique style of preparation completed, we've returned to\nthe academy. Maybe now we can get to some actual work..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haha, what a worthwhile day of training it's been."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What say you? Having spent the day together, have you come to\ncomprehend my brilliance?",
+            "choice_data_list": [
+                "You don't want to do any normal training?",
+                "You don't want to do any normal training?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Normal training? My naive friend, that <i>was</i> my normal training."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A cut above the rest, to be sure. For that is what one must shoulder as\nthe Centurial Overlord."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be completely serious, but could that really be how she\nwants to train?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You appear to have something to say. Go on, I shall grant you the\nchance.",
+            "choice_data_list": [
+                "Being the Overlord means having to win races."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, that goes without saying. Perhaps at this very moment, you're\nthinking..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "\"You won't win if you don't take training seriously. You'll never be\nOverlord.\""
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Then let me tell you this, Trainer. I am <i>always</i> serious."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "And this is the optimum training for a ruler."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's filled with such shameless confidence that there's nothing I can\nsay otherwise."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You seem unconvinced..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A terrible shame—I'm afraid we'll have to call off our provisional\narrangement. I require a trainer willing to follow me to my dreams."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I'm sorry for taking up your time. May we meet again someday."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now, off to a fine rose bath to wash away the fatigue of hard work!\nHaaah ha ha ha ha ha hah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M Opera O makes a grand departure, but doesn't seem to have\nbeen offended."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch her go, a tinge of regret comes over me. Maybe I shouldn't\nhave spoken that way..."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "リフレッシュ完了",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Morning, Trainer!",
+            "choice_data_list": [
+                "Did you get enough rest yesterday?",
+                "Did you get enough rest yesterday?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah! I even had time to deep clean my room!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I really fine-tuned the flow of qi, so I'm feeling\ngreat! I'm ready to get to work again today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like Copano Rickey really made the\nmost of her day off."
+        }
+    ]
+}

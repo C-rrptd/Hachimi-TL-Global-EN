@@ -1,0 +1,110 @@
+{
+    "title": "剛毅朴訥、仁に近し",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm taking a stroll through a park on my day off,\nwhen..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HI-YAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I come across Yaeno Muteki practicing martial\narts.",
+            "choice_data_list": [
+                "Hard at work, huh?",
+                "Hard at work, huh?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You're from the academy... Yes, this training is\nmy daily routine."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "However, my skills still pale in comparison to\neither of my masters..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I thought I could apply the ancient martial arts\nI've studied to racing as well... I believed that if I\nran fast, I could also punch faster..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I entered the academy for this reason, but doing\nso only opened my eyes to just how far I have yet\nto go.",
+            "choice_data_list": [
+                "Who are your masters?",
+                "Who are your masters?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My grandparents. They're masters of the Kongo\nYaegaki style."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "What can I possibly do to come closer to reaching\ntheir level?",
+            "choice_data_list": [
+                "You should focus on how quickly you can\npunch.",
+                "You should focus on how powerfully you can\npunch."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I see. I shall concentrate my efforts on\nincreasing the speed of my strikes, then."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I will try it at once... HAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>",
+            "choice_data_list": [
+                "S-so fast!",
+                "S-so fast!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm. Concentrating on the speed of my punches\nhas made me realize I need to improve my form."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I feel as though I am once again a novice, seeing\nthings for the first time! I shall continue this\nexercise for a little longer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki stoically continues practicing her\npunches."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I see. I shall concentrate my efforts on\nincreasing the strength of my strikes, then."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I will try it at once... HAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wham!</i>",
+            "choice_data_list": [
+                "S-so strong!",
+                "S-so strong!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm. Concentrating on the force of my punches\nhas made me realize how much energy each strike\nconsumes."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "However, that is exactly the point of training. I\nfeel all the more motivated to continue now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki stoically continues practicing her\npunches."
+        }
+    ]
+}

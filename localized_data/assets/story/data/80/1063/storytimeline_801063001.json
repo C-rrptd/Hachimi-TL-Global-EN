@@ -1,0 +1,112 @@
+{
+    "title": "イクノ式万全メソッド",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I spot Ikuno Dictus looking around the track by\nherself."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "If the starting gate is here, and the audience will\nbe over there... Hm...",
+            "choice_data_list": [
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I've been tasked with organizing the scrimmage\nfor this year's orientation, so I'm doing some\npreliminary inspections for it."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Apologies, but could you please move from that\narea? I need to measure the track's width.",
+            "choice_data_list": [
+                "You sure are meticulous."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes, I assume that is why I was entrusted with this\nduty."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Orientations are not the time to cut any corners."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I still have much to do, so if you'll excuse me...",
+            "choice_data_list": [
+                "You're going to do this all by yourself?",
+                "You're so passionate."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes. I alone was given this task. Once I have a lay\nof the situation, the rest of my work should be\neasy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her confident claim, it still seems like a\nlot of work for one person. I'm about to offer to\nhelp, when..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oh, come on, Ikuno! Are you seriously trying to\ndo everything by yourself again?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Didn't we tell you to let us know if you needed\nhelp?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "But <i>I'm</i> the one who was entrusted with this—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Yeah, yeah. But three heads are better than one,\nand we'll finish quicker too!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Very well. Then can you two start taking these\nflags and..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ah... My apologies. I have to instruct them on\nwhat to do, so I must take my leave."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I'd like to get a good idea of the audience's view\nfrom the bleachers, so please stand in the front\nand back corners and wave your flags. After\nthat..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ikuno Dictus seems to be very well-liked by her\nfriends. It appears my services aren't needed after\nall."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes, of course. There's never a reason not to be."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "The general public will also be present during the\norientation."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "And in the audience will surely be Umamusume\nwho will one day be among our members."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I want those future Tracen students to have a\nrelaxing and enjoyable experience here."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "But that is not the only reason."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "If we consider that this orientation is a local event\nmeant for the whole community to enjoy, it's\nimperative to design it to be accessible to all..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I learn a lot about how much goes into making\nsuch an event fun... as well as how passionate\nIkuno Dictus is about this orientation."
+        }
+    ]
+}

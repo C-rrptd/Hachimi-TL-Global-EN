@@ -1,0 +1,98 @@
+{
+    "title": "ファンレター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some fan mail has arrived for Air Shakur.\nHowever..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just put them all over there. It's not like there's\nanything worth reading.",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They've gotta be weirdos if they're writing to <i>me.</i>\nI bet they're not even expectin' me to read it all\nanyway."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Let's hurry up and get training."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Pant, pant...</i> How was my time?",
+            "choice_data_list": [
+                "...Fine."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! You're supposed to be a pro, so try acting\nlike one. Leave all your personal feelings outta\nthis."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They're <i>my</i> fans. I'm allowed to think whatever I\nwant about them."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And I don't care what they think about me either.\nEveryone's equal, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That may be true... But...",
+            "choice_data_list": [
+                "In that case, I'll just hold on to them for you."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What? I just said I don't freakin' need th—",
+            "choice_data_list": [
+                "As your trainer, we're equals, right?",
+                "As your trainer, we're equals, right?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch."
+        },
+        {
+            "name": "Monologue",
+            "text": "As soon as we finish training, I go to put the fan\nmail in a storage box. As I do..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A single postcard falls to the floor, and I\naccidentally catch a glimpse of the contents."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"When I was having trouble at work, seeing you\nrun with such determination really helped me find\ncourage. That's why I won't ask you to do your\nbest.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"I'm writing this letter just to let you know that\nyou have people like me out there cheering for\nyou.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, another fan letter arrives. Once\nmore, Air Shakur shows no interest in opening the\nenvelope. Still...",
+            "choice_data_list": [
+                "Let's have a good session today."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Yeah, yeah."
+        },
+        {
+            "name": "Monologue",
+            "text": "She may not have a typical relationship with her\nfans, but there's unmistakably some kind of bond\nat work."
+        },
+        {
+            "name": "Monologue",
+            "text": "Realizing that makes me even more excited to\ntrain her."
+        }
+    ]
+}

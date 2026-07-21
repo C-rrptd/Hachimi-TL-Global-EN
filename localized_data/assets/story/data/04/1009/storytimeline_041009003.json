@@ -1,0 +1,239 @@
+{
+    "title": "誰よりも変なヤツ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "For a while after the tryouts, Daiwa Scarlet was constantly\napproached by trainers attempting to scout her."
+        },
+        {
+            "name": "Monologue",
+            "text": "But now..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Hm? What, is nobody going to talk to Scarlet?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "I've set my sights on Vodka. No matter how much potential Scarlet\nhas, her personality is going to make things difficult..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Well, you have a point there. Guess I'll try speaking to Vodka too."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph, now that's more like it! The annoying crowd's gone, so I can\nfinally focus on my training."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "At least, that's what I'd like to say. Hey! What are you still doing\nhere?!",
+            "choice_data_list": [
+                "I want to talk with you.",
+                "I want to talk with you."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Oh, could it be that you still think I'm a perfect honor student\nwho'll listen to whatever you say?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Since you're still here, I'll let you in on a secret. It was <i>all</i> an act."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "This is the real me! And like those guys from earlier said—I'm\nstubborn, selfish, and short-tempered."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well? Your dreams crushed yet? Good, then scurry along, shoo.",
+            "choice_data_list": [
+                "I'm not going anywhere."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...What? Were you even listening to me?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm saying I'm not the good girl you think I am! Get it into that thick\nhead of yours already!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Tracen Academy's packed with fast runners! And me, I'm the one who\ndecided to put on airs, get cocky, and then lose pathetically!",
+            "choice_data_list": [
+                "You're not pathetic at all!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What do you know?! I don't need your pity!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Because... I get it. All I do is mouth off about being the \"number one\nthis\", the \"number one that\"—but it's all talk—it's not real!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I lost to Vodka once, and here I am wallowing in self-pity and going\non reckless training runs... Even I know that I'm being unreasonable!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But... what else can I do?! If I'm not number one, then how can I even\nface myself?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I have to be number one in speed, in strength! Number one in\npopularity, in fans—and I won't settle for anything else!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I won't be satisfied unless I'm all of those things. That's the kind of\nperson I am, take it or leave it!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "To stay true to myself—I have to keep on being number one!",
+            "choice_data_list": [
+                "That's why I'm here—to support you.",
+                "That's why I'm here—to support you."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...H-huh?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wait, hold up. You're saying that <i>after</i> listening to my rant... Are you\nreally that clueless?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Take a hint, pal! I told you, I'm a stubborn girl who's obsessed with\nbeing number one!",
+            "choice_data_list": [
+                "Then let's become number one together."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Tch, what's your problem! Why're you still trying to scout me?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'll say this now, but I'm not going to just nod my head and listen to\neverything you say, you know?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And if I don't like your training menu, I won't stop bugging you about\nit! Are you willing to deal with all of that?!",
+            "choice_data_list": [
+                "We can discuss all that until we agree!",
+                "We can discuss all that until we agree!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Wh-what the heck is with you?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Saying you want to support me... that we'll do this together... Hey,\nwere you serious about all that?",
+            "choice_data_list": [
+                "I'll be your number one trainer.",
+                "I'll be your number one trainer."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Hmph. Could you not steal my catchphrase like that?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Geez... Looks like I've been scouted... by a real weirdo. <i>Sniffle...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet bursts into tears, as if she's been freed from the heavy\nburdens weighing her down."
+        },
+        {
+            "name": "Monologue",
+            "text": "A little while later..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I wonder how long it's been since I cried in front of someone else."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh...</i> Not really in the mood to run anymore. I guess I should head\nback."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Honestly, I've been feeling sluggish recently. So I think... I'll tuck in\nearly for once."
+        },
+        {
+            "name": "Monologue",
+            "text": "As Daiwa Scarlet walks away, I notice that she's lost the spirit she\nonce had. Looks like the second place finish at the tryouts really did\na number on her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still brainstorming ways to get her confidence back, I decide to pay\nthe cafeteria a visit."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yoohoo, Vodka!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh? Oh, it's just Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaddaya mean, <i>JUST?!</i> ...You okay Vodka? You've got this bored\nlook on your face lately."
+        },
+        {
+            "name": "Vodka",
+            "text": "Not really... You're just imaginin' things."
+        },
+        {
+            "name": "Vodka",
+            "text": "It's just... Recently, she's always walkin' around with that dumb look\non her face..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She? Oh, you mean Scarlet? She's your roommate <i>and</i> rival, after all.\n'Course you'd worry!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Th-that's not—We're not like that..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But you're right, she's been pretty down in the dumps. I wonder if\nlosing to you at the tryouts was a big shock for her?"
+        },
+        {
+            "name": "Vodka",
+            "text": "...Y'know, I just didn't think she was the type to give up this easily."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Vodka?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Tch... Forget it. Whatever, one less rival for me to worry about. Catch\nya later."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey Vodka, wait up! I said waaait!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think I might have the perfect solution to all this."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O didn't turn up for training\nyesterday. Today, I hear a strange voice when I\nenter my office."
+        },
+        {
+            "name": "???",
+            "text": "And... that goes over there... Done!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Welcome, Trainer! I've just finished making the\nconference banner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprised, I glance at the unfurled banner by her\nfeet... It reads \"Sakura Bakushin O's Apology\nConference.\"",
+            "choice_data_list": [
+                "You didn't need to go that far."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, as a class representative, I'm supposed to be\na role model. I have to take responsibility for my\nmistakes!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay, let's kick off the apology conference! I\nwould like to offer my sincerest apologies!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I was blasting along a Bakushin-worthy straight...\nand I got lost in the moment. Before I realized it,\nit was already night!",
+            "choice_data_list": [
+                "All right. Just be careful next time.",
+                "All right. Just be careful next time."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I promise! I won't fall into temptation a second\ntime!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To reflect, I've decided to use this banner as my\nbed sheets going forward!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I figure she has expressed her sincere regrets\nrather clearly, so I stop her from going any\nfurther."
+        }
+    ]
+}

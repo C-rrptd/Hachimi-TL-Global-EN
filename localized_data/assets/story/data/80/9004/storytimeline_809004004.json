@@ -1,0 +1,254 @@
+{
+    "title": "趣味を探して",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Trainer Kiryuin",
+            "text": "<i>Inhale... exhale...</i>"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Okay! I can't stay like this forever! I have to do\nsomething, or else nothing will ever change!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...But how do I begin?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah, with a greeting, of course. \"Hey there, Trainer\n<username>. Nice job out—\"",
+            "choice_data_list": [
+                "Hey there, Trainer Kiryuin!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yes, like that. And next, I should—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Wh-what?!\nTrainer <username>?!",
+            "choice_data_list": [
+                "Were you looking for me?",
+                "Were you looking for me?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um... Well..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "A-actually... Well, I was just wondering..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "W-would you happen to have any interest in\nkaraoke, perchance?!",
+            "choice_data_list": [
+                "I would, perchance!",
+                "Not really..."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh! Really?!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um... In that case, would you care to join me\nnow?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her suggestion is a bit sudden, but I agree to go\nto karaoke with Trainer Kiryuin."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Well... we're here.",
+            "choice_data_list": [
+                "Do you sing karaoke often?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "N-not really..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Honestly... I can't even remember how many years\nit's been since the last time I went."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It was probably... when I was still in preschool,\nmaybe?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I've entirely forgotten how this works. Do we have\nto call the staff to request songs using this\nphone?",
+            "choice_data_list": [
+                "Actually, you use the tablet over there..."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, I see..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Sorry for inviting you out like this so suddenly!",
+            "choice_data_list": [
+                "Is something up?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "A-actually..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hmmm... Oh, there you are. Hey, Meek—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "What?! You don't hang out with your trainer,\nMeek?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Not really."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "That's wild. My trainer and I go to the arcade\ntogether all the time on my days off!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "My trainer likes playing video games. She's sooo\ngood at them. She's even helped me get better!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Oh, really? That sounds fun..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm embarrassed to say this, but... I don't have any\nhobbies."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I enjoy reading trainer textbooks, adjusting\ntraining regimens, and analyzing data. But those\nthings don't count as hobbies..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So there's nothing I can do for fun with Meek!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But I don't want her to always be bored because\nof that!",
+            "choice_data_list": [
+                "So that's why you came up with the idea for\nkaraoke?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yeah... I remembered my mom taking me when I\nwas very young."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That was the last time I went, but I thought if I\nstarted going more, I could call it a hobby!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I never seem to do anything but study... It's how I\nspent my whole student life, and even now, I..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I don't know why I'm like this...",
+            "choice_data_list": [
+                "A-anyway, why don't we start singing?!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah... R-right, we should get started!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "If it's okay with you, I'll go first!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Twinkle, twinkle, little star! ♪ How I wonder what\nyou are! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kiryuin may only know children's songs, but her\nvoice is undeniably a thing of beauty."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "<i>Cough, cough...</i> Oh my, I think I might be losing\nmy voice from all that singing. Haha..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thanks so much for accompanying me today!",
+            "choice_data_list": [
+                "Anytime! It was fun!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Really?! That's... I'm glad to hear it!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um, Trainer <username>...\nIf you wouldn't mind..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Would you join me on my new \"hobby\" again\nsometime?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Only if it's not too much trouble, I mean!",
+            "choice_data_list": [
+                "I would love to!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Okay! I'm looking forward to it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Trainer Kiryuin looks to be in high spirits as we\ntalk on the way back home."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh... I-I see..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Sorry for springing such a weird question on you\nall of a sudden..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Uh... Please forget I asked."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Anyway... see you later."
+        },
+        {
+            "name": "Monologue",
+            "text": "Trainer Kiryuin takes her leave, looking dejected."
+        }
+    ]
+}

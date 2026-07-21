@@ -1,0 +1,80 @@
+{
+    "title": "秋華賞にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Everyone's gathered for the final race of the\nTriple Tiara, the Shuka Sho. It won't be long till\nthis decisive race begins, folks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Male Dober Fan",
+            "text": "I've got my handkerchief and tissues ready, so I'm\nall set! I'm rooting for ya, Mejiro Dober!"
+        },
+        {
+            "name": "Female Dober Fan",
+            "text": "Please, oh, please! I hope I get to see Dober smile\nthat smile again!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober is so focused that she doesn't even\nreact to the sound of the roaring crowd."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We're finally here, huh."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Well? Are you nervous?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Never mind. I just wanted to get you back since\nyou're always asking me the same thing.",
+            "choice_data_list": [
+                "I am nervous, actually."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Just kidding. You always ask me that, so I wanted\nto tease you a bit to get you back.",
+            "choice_data_list": [
+                "I am nervous, actually."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I answer her question frankly. As her trainer, there\nhasn't been a single time I wasn't nervous while\nseeing her off for a race."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh... So you get nervous too."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh... So you've been feeling nervous for me all\nthis time?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. I've always been so caught up with myself\nthat I never noticed."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Too bad for you, I'm not going to give you a\nchance to be nervous."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll show you and everyone else how much I've\ngrown throughout the Triple Tiara."
+        }
+    ]
+}

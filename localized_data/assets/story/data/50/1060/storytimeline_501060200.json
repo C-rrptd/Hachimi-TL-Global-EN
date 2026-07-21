@@ -1,0 +1,46 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of Nice Nature's debut race has finally\narrived."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh...</i> \"Debut,\" huh? Sounds so... youthful."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'll probably be talking about \"the good ol' days\"\nby tomorrow.",
+            "choice_data_list": [
+                "You seem relaxed.",
+                "You seem relaxed."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, appearing relaxed is my specialty."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Besides, it's not the debut that matters... it's what\ncomes after it.",
+            "choice_data_list": [
+                "Just go out there and show off what you've\nbeen working on!",
+                "Just go out there and show off what you've\nbeen working on!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah... I'd more than love to do that if I had\nanything worth showing..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But it wouldn't be a Nice Nature race if I didn't\nscrew up on an important day like this."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, I'm sure I'll do just fine! I guess I'd better be\noff."
+        }
+    ]
+}

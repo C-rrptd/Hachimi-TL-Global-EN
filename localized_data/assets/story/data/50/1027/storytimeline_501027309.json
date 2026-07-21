@@ -1,0 +1,113 @@
+{
+    "title": "有馬記念の後に・筋肉の奇跡",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Incredible! With an explosive sprint, Mejiro Ryan\nsnatches the win from star racer Oguri Cap!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Huff, huff, huff...</i> Wh-what... just happened...",
+            "choice_data_list": [
+                "You were amazing, Ryan!",
+                "You were amazing, Ryan!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "O-oh, yeah! Thank you! But..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I can barely remember what happened... I was\nscared, so I started running like crazy. That's all I\nknow."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I guess my body just kept on moving.",
+            "choice_data_list": [
+                "This is a victory for your muscles, I'd say.",
+                "This is a victory for your muscles, I'd say."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right... Even if I lost my senses, my body\nstill remembered how to move."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I can't believe that I beat Oguri. But still, I'm\nhappy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Mejiro Ryan..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "O-Oguri!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I underestimated you. Never thought you'd make\nit so far this year."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Turns out I was wrong. You were impressive out\nthere."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, thank you very much!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Let's do it again. Next year I'll come back more\nprepared."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap bids Mejiro Ryan farewell and walks\naway with a flourish."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "She's so cool... Now that's a real star\nUmamusume."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You don't have a race at the end of next year yet,\nright? You're free?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I-I'll be free. Uh, you didn't have to come all the\nway back to ask or anything..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thank you, Trainer."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This battle against a superstar was great\nexperience for next year!",
+            "choice_data_list": [
+                "What are you going to do next?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Next up is... the G1 at the beginning of the year."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I wanna enter the spring Tenno Sho! I'll use this\nexperience in a race against McQueen, so please\nhelp me prepare for it!",
+            "choice_data_list": [
+                "Okay, let's do this!",
+                "Okay, let's do this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After her surprise victory against Oguri Cap,\nMejiro Ryan sets her sights on her next goal."
+        },
+        {
+            "name": "Monologue",
+            "text": "The spring Tenno Sho—her rematch with Mejiro\nMcQueen will surely be a battle to remember."
+        }
+    ]
+}

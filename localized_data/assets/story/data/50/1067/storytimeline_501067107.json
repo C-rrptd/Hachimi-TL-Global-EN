@@ -1,0 +1,264 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Happy Valentine's Day, Trainer! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well then, shall we go?",
+            "choice_data_list": [
+                "Go where?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! You'll find out once we get there. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's Valentine's Day, and for some reason, Satono\nDiamond has suddenly decided to take me\nsomewhere. The place we arrive is..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nowhere special. We're just standing outside\nRitto Dorm. However, an unfamiliar device sits in\nfront of the entrance.",
+            "choice_data_list": [
+                "What's with the claw machine and that mountain\nof boxes?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! This is your Valentine's surprise!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I've prepared an extra, <i>extra</i> large claw machine\nfor you!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The rules are the same as a regular claw machine\nexcept a person is suspended from the crane and\nhas to grab the prizes themselves."
+        },
+        {
+            "name": "Monologue",
+            "text": "In other words, someone will have to act as the\nclaw."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I thought it'd be fun to surprise you for\nValentine's Day, so I did quite a bit of research\nlooking for ideas."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's when I came across an article about a\ncompany affiliated with the Satono Group that\nused a giant claw machine during an event!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It looked like so much fun, I went and borrowed\nthe machine along with some staff to help\noperate it. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The prizes are Valentine's chocolates! I've\nprepared many different varieties, so go ahead\nand take the ones you like!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I've included everything from inexpensive\nchocolates to limited edition chocolates made by\nfamous chocolatiers."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The staff will operate the crane for you. Just tell\nthem in which direction you want to move! ♪",
+            "choice_data_list": [
+                "Wait, are you telling me—"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, that's right! You get to be the claw! I hope\nyou enjoy my special Valentine's Day gift!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I shouldn't have expected anything less from\nSatono Diamond, with her curiosity and rich\nimagination. As her trainer, I have no choice but\nto participate!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Traaainer! Please shout out the direction you\nwant to go!",
+            "choice_data_list": [
+                "A-around here is good!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Okaaay!\nLower it down carefully, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The claw operator is so skilled at handling the\nmachine, I don't feel scared at all as I'm lowered\ntoward the mountain of chocolate."
+        },
+        {
+            "name": "Monologue",
+            "text": "In fact, I'm starting to have a lot of fun! I reach\nout for the chocolate surrounding me and fill my\narms to maximum capacity."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! You're quite good at this! Your sense of\nbalance is fantastic!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Would you like to go for one more round? Be\ncareful not to drop any!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! You're completely absorbed in the game!\nI'm so glad you're enjoying yourself! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Brilliant performance, Trainer! I couldn't stop\nwatching you!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But more importantly, it looked like you had a lot\nof fun.",
+            "choice_data_list": [
+                "I did!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Great! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'd love to share even more fun experiences with\nyou. Both on and off the track.",
+            "choice_data_list": [
+                "Me too!",
+                "Me too!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh right, the chocolates! You won them fair and\nsquare, so feel free to tuck in!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I plan to eat some chocolate and reminisce about\nthe day after I get back too."
+        },
+        {
+            "name": "Monologue",
+            "text": "No doubt I'll remember her smile every day as I\nslowly work through the massive amount of\nchocolates I won from the claw machine."
+        },
+        {
+            "name": "Monologue",
+            "text": "In fact, I'm starting to have a lot of fun! I scoop\nup an armful of the chocolates surrounding me.",
+            "choice_data_list": [
+                "What's this?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! That one is, um..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The wrapping on one of the boxes is a little messy\nand looks hand-wrapped. I reach for it, losing my\nbalance in the process."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "T-Trainer! Please don't push yourself too hard!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh no, you dropped your other chocolates..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Could it be that... you noticed?"
+        },
+        {
+            "name": "Monologue",
+            "text": "My haul from the claw machine is impressive.\nAbove all else, I manage to snag the box with the\nslightly misshapen wrapping!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That one, um... It contains chocolates I made\nmyself.",
+            "choice_data_list": [
+                "I thought as much!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So you went out of your way to get it because\nyou realized I made it?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Geez...",
+            "choice_data_list": [
+                "Mind if I eat them?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please, go ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "I unwrap the box, pluck out one of the beautifully\nplaced chocolates, and take a bite."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm puzzled by the curious taste that fills my\nsenses. It's not that it's bad—I would even say\nthat it's tasty—but I can't place the flavor."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Does it taste strange?",
+            "choice_data_list": [
+                "It's good, but I can't figure out what it is I'm\ntasting..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I had a feeling that might be the case... I wanted\nto try giving the chocolate a unique flavor, but\nthey turned out a bit funny..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I didn't think they were terrible when I sampled\nthem, but I honestly wasn't sure if they were good\nenough to give to you..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you so much for trying them! You don't\nneed to eat them all!",
+            "choice_data_list": [
+                "Want to try finding something that pairs well\nwith this chocolate?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel that pairing the chocolates with another\nflavor will make them taste better, so I suggest\neating them with other food."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I see. So you think we should search for\nsomething that will complement it, like another\nsnack or some fruit?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That sounds fun! Let's do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We try eating the chocolates with all kinds of\ndifferent things in an attempt to come up with a\ntasty combination."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, we find that Satono Diamond's\nhomemade chocolates go best with dragonfruit."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. We've created a one-of-a-kind chocolate\nexperience, haven't we?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Even though it tastes fantastic, I won't tell a soul\nabout this combination. It'll be our little secret. ♪"
+        }
+    ]
+}

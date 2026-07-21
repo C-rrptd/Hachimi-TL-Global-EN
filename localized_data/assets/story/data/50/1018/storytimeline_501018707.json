@@ -1,0 +1,89 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, Air Groove and I are visiting the shrine for\na change of pace. Or so I thought..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After one look at the long staircase leading to\nthe shrine, Air Groove has decided she wants to\nuse it for training."
+        },
+        {
+            "name": "Air Groove",
+            "text": "First off, we should pay our respects.",
+            "choice_data_list": [
+                "Wait, weren't you going to train?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes, and that's why we need to pay our respects.\nI'll be using those steps leading up to the shrine,\nafter all."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's only right to give thanks to the resident god\nbefore I begin."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Speaking of which, watch where you're standing!\nThat's where the god walks! Move over to the\nside."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Did no one teach you the basics of how to visit a\nshrine?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now, come on. Let's go."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Clear your heart and offer a prayer. That is how\nyou show respect to the god."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap! Clap!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have thanked the god for allowing us to use the\nshrine grounds for my training. Now I can use\nthose steps without worry."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm? My body feels awfully light..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I suppose my prayer had an effect."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's like my mind and body have been inextricably\nlinked, and both have been honed to a fine\nedge..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All right! Let's hurry up and get to those steps.\nCome along!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon after incorporating the steps into her\ntraining, Air Groove manages to achieve an\nincredible lap time."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Okay, time for training."
+        },
+        {
+            "name": "Monologue",
+            "text": "We attempt to do some training on the steps, but\nAir Groove struggles to achieve her usual good\nform."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh, this must be punishment for my immaturity...\nHow could I shame myself like this before a god?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No matter. I have to be more diligent so this\ndoesn't happen again."
+        }
+    ]
+}

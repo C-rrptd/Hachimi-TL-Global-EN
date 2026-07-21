@@ -1,0 +1,195 @@
+{
+    "title": "ありがとうを言いたくて……！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm walking along the beach, when..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm so glad we got some yakisoba dogs from that\nbeach hut!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, the owner said it's his most prized recipe.\nWe should eat up before they go cold."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "His most prized recipe?! Okay, let's dig i—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! Aaahhh!"
+        },
+        {
+            "text": "A bird—a black kite—suddenly swoops down and\nsteals the yakisoba dog from Nishino Flower's\nhands!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh no. Well, I guess you can't argue with Mother\nNature."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Buuut at least it didn't carry you away. Here, you\ncan have mine."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What?! A-are you sure you don't mind?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep, yep, go ahead. My horoscope said I should\nstay away from red ginger today anyhow."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You'll actually be doing me a favor by eating it."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, um, thank you..."
+        },
+        {
+            "text": "The next day at the academy, I run into Nishino\nFlower glancing this way and that as if searching\nfor someone.",
+            "choice_data_list": [
+                "Are you trying to find someone?",
+                "Are you trying to find someone?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um... Actually, I'm looking for Sky."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There's something I wanted to give her, but I\ndon't know where she could be."
+        },
+        {
+            "text": "I ask if she's tried looking near the forest where\nthey ran into each other previously."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh—no, I haven't! Thank you!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But <i>where</i> near the forest... I guess I'll just have to\nlook!"
+        },
+        {
+            "text": "I offer to join Nishino Flower in her search for\nSeiun Sky, and she accepts."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm, this is the last likely spot where she'd come\nto nap, but..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah—Sky?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mmm... Did... did someone just call my name?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh... Flower? How come you're out of breath?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff...</i> Um, I have a present for you!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "A present? What for?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sky, you always behave as if nothing's a big\ndeal..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But you gave me your yakisoba dog at the beach,\nand before that, you helped me find the stuff I'd\nlost..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, and there was that time you got that scary\ncentipede out of the flowerbed for me too,\nremember?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, did I? You youngsters have such impressive\nmemories."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Anyway, that's why today, I really wanted to show\nyou how much I appreciate all of it!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's a flower crown. I wanted to give it to you\nwhile the buds are in full bloom.",
+            "choice_data_list": [
+                "You really worked hard to get that crown to\nher.",
+                "A flower crown of gratitude. How sweet."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yep! I was running all over the place!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, <i>that's</i> why you were out of breath?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Since you showed up in such a rush, I figured you\nfound out I was ditching class and came to drag\nme back."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? You mean you're here playing hooky?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Whoops. Me and my big mouth."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "S-Sky! Geez... What am I going to do with you?"
+        },
+        {
+            "text": "Seiun Sky puts the flower crown on her head, and\nNishino Flower escorts her back to the academy."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! I'm really happy with how it turned\nout!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thanks again, Sky, for everything you've done for\nme!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha-ha. You're overthinking all this. Not that I\nmind, though."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Even if I am overthinking it... I was really happy\nwhen you helped me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...It was nothing. Really."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, Sky?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? N-nothing. Anyhoo..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Thank you for the crown. And since you came all\nthe way here, how's about relaxin' a little?"
+        },
+        {
+            "text": "The sunlight shines gently through the trees as\nSeiun Sky and Nishino Flower relax for a while."
+        }
+    ]
+}

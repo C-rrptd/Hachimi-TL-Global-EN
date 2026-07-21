@@ -1,0 +1,112 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reporting diagnostic results—minor damage."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The probability of worsening is low, but... I have\ndetermined that I'm still capable of physical\nactivity if I successfully keep my power in check."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Requesting permission to continue with training. I\nwill successfully complete today's tasks.",
+            "choice_data_list": [
+                "I'm worried about you, so let's take a break.",
+                "...All right. Let's keep going!",
+                "...All right. Let's keep going!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Requesting permission to continue with training. I\nwill successfully complete today's tasks.",
+            "choice_data_list": [
+                "I'm worried about you, so let's take a break.",
+                "...All right. Let's keep going!",
+                "...All right. Let's keep going!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You're... worried?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Order acknowledged. I apologize for causing you\nconcern."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Commencing operation—\"recuperating to avoid\ncausing you concern.\""
+        },
+        {
+            "text": "And so, Mihono Bourbon rests to recover from\nher injury."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. Commencing\noperation—\"continuation of limited-strength\ntraining.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Restricting power output in consideration of the\ndamaged body part."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "First, I'll try fifty percent power output!",
+            "choice_data_list": [
+                "Wait! 50% is too—",
+                "Wait! 50% is too—"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...!"
+        },
+        {
+            "text": "<i>Thud!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Pain in... damaged area... confirmed...",
+            "choice_data_list": [
+                "Are you all right?!",
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I apologize. Even at 50% power output... my\ninjury seems to have been irritated."
+        },
+        {
+            "text": "Realizing that any exercise will just make her\ncondition worse, I advise her to rest quietly."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No pain at fifty percent output. Threshold\ncleared. Next is fifty-five percent!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reporting. I have verified that I am capable of\ntraining at up to sixty-five percent power output."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I propose revising our training regimen based\nupon this data.",
+            "choice_data_list": [
+                "Got it!",
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I will show you that I can reliably execute any\nregimen I am given."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is all for you, for instructing me and believing\nthat I could successfully limit my power output."
+        },
+        {
+            "text": "Making an immediate comeback, Mihono\nBourbon succeeds in limiting her power and fully\ncompletes the revised regimen!"
+        }
+    ]
+}

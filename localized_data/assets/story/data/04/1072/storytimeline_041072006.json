@@ -1,0 +1,241 @@
+{
+    "title": "反転いまだ成らず",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "How did I end up here..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooosh!</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...!\nThis roller coaster... It's a tough one, to be sure."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "However, I will accept its challenge and emerge victorious! Come—we\nride to battle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This chaos all started a few hours ago."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm spending the afternoon in town on my day off when I spot Yaeno\nreading flyers on a train station billboard."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hello, Trainer. What a coincidence.",
+            "choice_data_list": [
+                "What are you up to?",
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Well, I thought long about the break I was supposed to take. I\nconcluded that I should take action and start searching for activities\nthat could distract me from training long enough to rest."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That said, I live by the discipline of martial arts. I'm embarrassed to\nadmit that I am not familiar with many recreational sites in the area."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is my chance to get her mind off training. I know just the\nplace—somewhere <i>anyone</i> would enjoy.",
+            "choice_data_list": [
+                "How about the theme park?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The theme park... What an astute suggestion. I believe that may allow\neven one as myself to unwind."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's settled—let us be off!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, here we are."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Whew... That roller coaster was formidable, indeed.",
+            "choice_data_list": [
+                "Did you have fun?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Fun? Naturally, I enjoyed the experience, but more than that... I was\nimpressed by the acceleration on the downward slopes."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "There are races with declines too. I've practiced for them, but this\nride has given me new ideas."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not gonna lie, I was expecting \"Yeah!\"—not a deep dive into the\nracing applications of roller coasters. I've gotta get her mind off\ntraining <i>fast!</i>",
+            "choice_data_list": [
+                "Yaeno, quick! Follow me!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's too dark... Trainer! Where did you go?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hm, my eyes are slowly adjusting."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "This is..."
+        },
+        {
+            "name": "Ghost?",
+            "text": "Heeeehehehee! None who enter this mansion will ever see the light of\nday again!"
+        },
+        {
+            "name": "Ghost?",
+            "text": "Hope you're ready for a spook!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "A spook?!",
+            "choice_data_list": [
+                "(Heh. The haunted mansion's got her full\nattenti—)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HAH!"
+        },
+        {
+            "name": "Ghost?",
+            "text": "Ack?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Do not think the dim light will hide you! Wretched spirit, you'll pay\nfor whatever you've done to my trainer."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm, it seems to have fled that way. Hehe... You can't outrun me!"
+        },
+        {
+            "name": "Monster?",
+            "text": "BOO! Heehee! Bet that gave you a fright!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Not a chance! Now take this! Kongo Yaegaki's ultimate finisher—"
+        },
+        {
+            "name": "Monster?",
+            "text": "EEP?!",
+            "choice_data_list": [
+                "YAENO, STOP!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Trainer, get behind me! I'll fend off this beast!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Good. I kept a level head even before supernatural foes. That was\nan excellent exercise in willpower... Wait!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I... I almost tried to connect the experience to my training. I'm sorry!\nYou invited me here to relax, and yet I betrayed your goodwill!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm supposed to be practicing restraint, not using every event as a\nlearning experience. Ah, what an amateur mistake!",
+            "choice_data_list": [
+                "You just need more practice. You'll get the\nhang of relaxing if you keep trying."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Huh? But, I... I couldn't possibly ask you to help me practice <i>not</i>\npracticing. It'd be ridiculous..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I already caused you so much trouble over my break... And now I'm\ntroubling you again."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Please don't worry about me. I swear to you that I'll overcome this\ntrial myself!",
+            "choice_data_list": [
+                "Nope, I'm helping you until you get it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not backing down. This is the kind of guidance that trainers are\n<i>for.</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But—",
+            "choice_data_list": [
+                "And besides, it's fun watching you try to lighten\nup!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Huh? Um... It's... fun?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno looks at me, dumbfounded. It's getting late, though, so we\ndecide to call it for the day and head home to the dorms."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the train, Yaeno speaks up softly."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Is it truly okay? For me to keep trying and failing..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I recognize that I'm immature... and that's a large part of why I devote\nmyself to practicing self-discipline."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I think it's also why, deep down, part of me was against your decision\nto let go of that training."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "So now...",
+            "choice_data_list": [
+                "So now?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...No, nothing. Allow me to think it over a little more first."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno falls silent. She doesn't say another word the whole way back."
+        },
+        {
+            "name": "Monologue",
+            "text": "I understand a bit better now, though. She's been relying on training\nto harness her energy for so long. Managing herself without it could\nbe a good experience for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll be here to support her through it. Summer's right around the\ncorner, so now's the perfect time!"
+        }
+    ]
+}

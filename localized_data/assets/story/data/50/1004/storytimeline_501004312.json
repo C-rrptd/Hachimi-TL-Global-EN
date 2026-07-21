@@ -1,0 +1,102 @@
+{
+    "title": "夏の福島にて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectator A",
+            "text": "Your running is incredible, Hot Rod!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Thanks for giving us such a fun race! Come to\nFukushima again sometime!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thanks for your support! The scenery around the\ntrack is gorgeous! I'll definitely be back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky has a great race during summer\ncamp."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow, it's already getting dark..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'd have loved to spend the night there, but we\nhad to get back to camp."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I enjoyed the race so much, though! Summer\ntraining has really paid off!",
+            "choice_data_list": [
+                "It was a great race! No notes!",
+                "It was a great race! No notes!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, thanks. I wonder if everyone else had a\ngreat time too."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, Maruzensky!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Spe!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Welcome back! Wait, I mean, when did you go to\nFukushima?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "When I saw you on the live broadcast, I thought\nyou must have a twin!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heehee! I'm glad I caught you by surprise!\nAlthough, I'm pretty sure my name was on the\nracer list..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe, guess I missed it."
+        },
+        {
+            "name": "Special Week",
+            "text": "Really though, I was glued to the screen! When\nyou crossed the finish line, everyone was so\nexcited!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I was so motivated by watching it that I even did\nsome training right afterwards!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow, really?!",
+            "choice_data_list": [
+                "Sounds like you're still inspiring people.",
+                "Sounds like you're still inspiring people."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That makes the hard work all worth it! ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Um, by the way, I arranged a celebration party\nfor you with Grass and the others!"
+        },
+        {
+            "name": "Special Week",
+            "text": "We want to hear all about the race from you and\nyour trainer!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You're the best! Of course I'd love to be a part of\nit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the mid-camp race ends up being both a\ngreat result for us and a powerful motivation for\nothers."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "title": "桜花賞の後に・心躍る挑戦",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I greet Air Groove as she returns from her\nawe-inspiring performance in the Oka Sho."
+        },
+        {
+            "name": "Air Groove",
+            "text": "As expected from the Oka Sho, the competition\nwas spectacularly fierce."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Races like this truly do set my heart alight."
+        },
+        {
+            "name": "Monologue",
+            "text": "The race has just finished, but Air Groove is\nablaze with fighting spirit!",
+            "choice_data_list": [
+                "You'll need to give even more at the Japanese\nOaks.",
+                "You'll need to give even more at the Japanese\nOaks."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Indeed."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Let's get back. I want to go over today's race and\nstart strategizing for the Japanese Oaks.",
+            "choice_data_list": [
+                "You got it!",
+                "You got it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Oaks is coming up fast. We can't\nafford to rest on our laurels!"
+        }
+    ]
+}

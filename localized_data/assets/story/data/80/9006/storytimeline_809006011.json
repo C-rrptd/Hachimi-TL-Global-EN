@@ -1,0 +1,136 @@
+{
+    "title": "理子との絆・過ちは繰り返さない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Riko Kashimoto",
+            "text": "Good morning, Trainer\n<username>."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I figured you would be here as you weren't in your\nroom.",
+            "choice_data_list": [
+                "Something wrong?"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Have you made your first shrine visit for the new\nyear? If not, would you like to join me?"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I know it's a little late for a first visit, but it's far\nbetter than not going at all."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "It's a trainer's job to pray for the safety of their\nracers."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I must do everything I can to avoid having regrets\nlater.",
+            "choice_data_list": [
+                "Regrets?"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Yes... Like when you wish you'd done something\ndifferently or that something had turned out\nanother way."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I want to prevent any regrettable things from\nhappening, as much as possible—both for the\nsake of my racers and for myself."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "It's a hard lesson I learned from my past.",
+            "choice_data_list": [
+                "You must have learned something important."
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Yes, but there is no end to learning. We must\nalways strive to improve for our students."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "To ensure that everyone who wishes to race can\nstrive toward the future they desire..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I won't make the same mistakes again."
+        },
+        {
+            "name": "Monologue",
+            "text": "I see a strong resolve in her gaze as she looks\nhigh into the sky above."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "And that's why I must thank you.",
+            "choice_data_list": [
+                "Uh, for what?"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Because I was able to learn so much from the\nhonest approach you take with your trainee."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Although I do think you venture out too far at\ntimes..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "As a fellow Tracen trainer, I'll be sure to caution\nyou whenever you do go overboard, all right?",
+            "choice_data_list": [
+                "I'd appreciate it!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "...Heh."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Well, here's to a—"
+        },
+        {
+            "name": "Man with Headband",
+            "text": "Heeey, you two! Care to pound some mochi?"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Huh? Us?"
+        },
+        {
+            "name": "Man with Headband",
+            "text": "Yeah, you two! C'mon, you can eat what you\nmake, and nothin' beats freshly made mochi!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "B-but I... well...",
+            "choice_data_list": [
+                "Let's do it!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "<i>Sigh...</i> Very well. I suppose it's not often we get\nan opportunity like this."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "...I wonder if I can even lift the mallet."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Hrgh! Urk! Hnnnngh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I help her as she shakily wields the mallet, and we\nhave fun making some mochi together."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get the feeling that our friendship will only\ncontinue to grow from here."
+        }
+    ]
+}

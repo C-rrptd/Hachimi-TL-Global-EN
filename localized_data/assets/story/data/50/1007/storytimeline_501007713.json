@@ -1,0 +1,102 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Gold Ship is injured, so I bring her to the\ninfirmary."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Beep-beep-beep...</i> Damage detected. Golshiroid,\ncommencing scan.",
+            "choice_data_list": [
+                "Wh-what is it?!",
+                "Wh-what is it?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Damage minimal. Mission can be resumed at will.\nAwaiting commander's orders. <i>Beep, beep.</i>",
+            "choice_data_list": [
+                "Repairs take priority.",
+                "Let's upgrade your operating system!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Commencing secondary scan... <i>Beep.</i> Mission can\nbe resumed at will. Requesting new orders.",
+            "choice_data_list": [
+                "Overruled. Repairs must take priority."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, c'mon! I'm fine, I tell you!",
+            "choice_data_list": [
+                "The commander's orders are final!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now they're official orders? Drat. Can't override\nthose even if I wanted to..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Sigh.</i> Order acknowledged. Prioritizing repairs...\n<i>Beep, beep, beep...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship isn't happy about being put on bed rest\nfor a few days and goes wild once she makes a\nfull recovery."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Suggestion approved. Golshiroid, initiating\nupgrade sequence!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Engaging instantaneous upgrade."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ouch!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What gives?! Everything was fine just a second\nago..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Great, now I'm just a pile of scrap. <i>Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her self-diagnostics clearly didn't produce good\nresults, because she suddenly gets eerily quiet."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>B-b-beep.</i> Suggestion confirmed. Initiating\nupgrade sequence!",
+            "choice_data_list": [
+                "Stronger! Stronger!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hmm... Confirmation pending."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Approved. The current operating program can\nonly be upgraded under one condition.",
+            "choice_data_list": [
+                "What condition?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Beep-beep.</i> Ice cream from the school store is\nrequired to upgrade Golshiroid. Otherwise,\nupdate will be postponed indefinitely."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no getting around it. I accept her\ncondition, and then two of us rework her training\nschedule."
+        }
+    ]
+}

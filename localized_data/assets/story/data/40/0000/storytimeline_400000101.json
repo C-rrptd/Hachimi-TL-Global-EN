@@ -1,0 +1,30 @@
+{
+    "title": "URAファイナルズ予選にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The URA Finale is a stage upon which all\nUmamusume can shine."
+        },
+        {
+            "text": "At long last, the day of the preliminaries has\narrived."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, thank you for seeing\n<chrname> off."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You've finally made it this far. As a fan, I'm\nelated.",
+            "choice_data_list": [
+                "We'll make it one for the history books!"
+            ]
+        },
+        {
+            "text": "Heheheh, I've no doubt. I'm looking forward to\nthe race!"
+        },
+        {
+            "text": "The gates will fly open any minute now... URA\nFinale, here we come!"
+        }
+    ]
+}

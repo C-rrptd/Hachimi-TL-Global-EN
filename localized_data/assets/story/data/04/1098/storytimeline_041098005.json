@@ -1,0 +1,156 @@
+{
+    "title": "キミの運気☆リッキーにおまかせあれ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been a while since I became Copano Rickey's trainer. Right now,\nshe's staring deeply into my soul."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer, are you feeling a bit worn out?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You look kind of unwell, like you have a headache. You've been\nleaning forward with your hands holding up your head for a while\nnow."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hadn't noticed, but now that she mentions it, I do have a sharp\nheadache, and my brain feels foggy.",
+            "choice_data_list": [
+                "I wonder what's wrong with me."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You don't have an idea? Hm, if you're unaware, then it must be due\nto... a pillar in the landform."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Your office feels okay, so the problem must be coming from your\nroom!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well, there's no time like the present! I'll do an impromptu feng shui\ncheck! Let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can stop her, she rushes off to check the feng shui in my\nroom."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hmmm, I see...",
+            "choice_data_list": [
+                "What's the verdict?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Aha, there's definitely something wrong! Especially with the bedding,\nI'd say. Oh, but I'm not saying it's dirty or anything! The place looks\nclean! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But in terms of feng shui, there are areas that I think we could\nimprove on to enhance your luck!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "To be more specific, I see you're using a towel as your pillowcase. It\nmight be convenient, but it negatively affects your luck in work\nmatters."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's also not great that both the curtains and the bedcover have a\npatterned design. It makes the yang in the room overpower the yin."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Is that your nightwear? It looks like you're using old clothes to sleep\nin. It's good to reuse things, but you should probably buy pajamas."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "There's more I could comment on, but let's start with this for now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We move things around and bring new things in just as she instructs..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Put this here... and done!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, the room does make me feel a lot calmer now!",
+            "choice_data_list": [
+                "Wow!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Haha! I know. It's hard to put into words, but something feels\ndifferent. The power you feel subconsciously—that's feng shui!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Keep your room like this, and... Rickey! ☆ Lucky! ☆ We'll be happy!\nTeehee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Monologue",
+            "text": "My head feels a lot clearer, and I'm ready to go. Maybe it's because\nof my good condition, but I'm feeling unusually motivated.",
+            "choice_data_list": [
+                "I feel great!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Really? I'm so glad! You see, what we did in your room was remove\nthe overhead pressure!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, by overhead pressure I mean the things that cause you tension\nwhile you're sleeping."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "For example, too many patterns around you scatter your energy, and\nsleeping on a real pillowcase is better for your sleep than a towel."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "By making these small changes, we corrected the distortions in your\nroom, and now you can sleep better, which leads to better luck for\nyou!",
+            "choice_data_list": [
+                "I see!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "This is the power of feng shui—the study of environmental luck!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "When your surroundings change, your thoughts do too. And when\nyour thoughts change, so do your actions, and even your personality\ntoo!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "So if you want to be happy, start with your surroundings! Anyway,\nputting the luck talk aside for now..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Tell me, how are you feeling? Isn't your head feeling clear and\nrefreshed? I bet you're just bursting with energy, aren't you?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Wouldn't you like to put this feeling into words and share it with the\nworld? You do, right? Right?",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well, why waste any more time! We've got to spread feng shui far and\nwide! Let's go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She drags me outside, and we spend the rest of the day parading\naround the academy until the sun goes down."
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "title": "ボーノなレースに必要なもの！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while we're devising a strategy for the\nMile Ch., Hishi Akebono calls out to me\nexcitedly."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh! Look, Trainer! Taiki is on TV!"
+        },
+        {
+            "name": "Narration",
+            "text": "Taiki Shuttle has been making a name for herself\nover the past year. In fact, her growth is showing\nno signs of slowing down."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Narration",
+            "text": "What's the driving force behind her success, you\nask? Why, it's her desire to overcome a certain\nracer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's right! My goal is to take down Hishi\nAkebono!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I went all out preparin' for the last Sprinters S. so I\ncould ensure my victory!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I trained every day from dawn till dusk and did\npair running with different friends of mine!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I cut out all my snacks too and exercised until I\nwas nothin' but muscles!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I still didn't win! Ahaha!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It sucks real bad right now, but I'm still havin' a\nlot of fun! I swear I won't lose the next one,\nthough!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even through the screen, I can tell Taiki Shuttle is\nstronger and faster than she was during the\nSprinters S. last month."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hoists me over her shoulder in an instant and\ntakes off running. This time, I already know where\nwe're going."
+        },
+        {
+            "name": "Monologue",
+            "text": "And I find I'm correct as we skid into the kitchen."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "My size is my strength!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's why I'm so powerful and can deal with\ngetting blocked on the track so well!",
+            "choice_data_list": [
+                "Yup.",
+                "Yup."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Which means if I bulk up and get even <i>more</i>\nmuscular, I'll be more powerful than ever!",
+            "choice_data_list": [
+                "Okay, you're not wrong, but—"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Status quo notwithstanding, I'm not sure her legs\ncan handle the strain if she gets any larger than\nshe is now."
+        },
+        {
+            "name": "Monologue",
+            "text": "The very thought sends a thread of anxiety\nthrough me. However..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I want to get so big and strong that I'll be able to\nbeat Taiki Shuttle without a doubt!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I decided to race my way, and I wanna go all-out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. We already made the decision\ntogether, so now's the time to take action.",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay! Thanks, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All right! Now that that's out of the way, I'll make\nus poached chicken and broccoli salad for lunch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono starts cooking right away. She sets\na pot of water to boil, then begins slicing up\nchicken breast meat."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The trick is to poke holes in the meat with a fork\nand massage it well with salt and sake."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "After that, let it rest for a while. In the meantime,\nwe can make the sauce."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I think I'll use soy sauce, sugar, sake, and sesame\noil today! Oh! I can't forget to mince some white\nonions while I'm at it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She mixes the sauce and slices cucumbers to act\nas a base for the rest of the food. The water starts\nboiling while she's cutting the broccoli."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh! I gotta sprinkle on the starch! Not too much\nat a time, now... Perfect!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Next, it's time to poach the chicken."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It has to cook all the way through to be safe to\neat, but it'll get too chewy if it gets overcooked.\nIt's a tough balance!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She then scoops out the cooked chicken breasts\nand cools them in a bowl of ice water."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once the meat has cooled, she drains the water\nand puts the finishing touches on the broccoli\nsalad. And just like that..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Soup's on! Ta-dah! Presenting a heaping helping\nof poached chicken and broccoli salad! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small mountain of food gets plopped down in\nfront of me with a thud."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Enjoy, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Here's to our next victory! I'll win it with my—no,\nwith <i>our</i> very own running!",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The chicken and broccoli couldn't be more\nperfect, and the two of us practically devour it\ntogether."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before long, the plates are empty."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Whew! I'm full to bursting! That was so tasty! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that we both have fuel in our tanks, it's time\nto hash out a plan moving forward."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take out my training handbook to look up what\nkind of strength training is effective for building\nmuscles, when I hear giggling."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe!",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, nothing. It's just, well..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It almost feels like with the two of us together, we\ncould do anything!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following that, we ramp up training even more to\nreach the victory in our sights."
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, as the Mile Ch. draws closer, a reporter\ncomes to do an interview with Hishi Akebono."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Who's my rival? It's Taiki Shuttle, of course. ☆"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Really! Wow, this is a showdown between fated\nrivals, then, isn't it?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe. I'm training hard right now so I can race\nTaiki at my very best!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've put on lots and lots of muscle too."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Look!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono barely finishes speaking when I\nfeel my feet leave the ground.",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe! Upsy-daisy!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Wow! I can't believe how easily you're able to lift\nup your trainer with one arm..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Correct me if I'm wrong, but you're a full size\nbigger than you were at the Sprinters S., aren't\nyou?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe! You're right!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'll be more powerful than ever on the track, so\nlook forward to it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's the first challenge Hishi Akebono has ever\npublicly issued, and it becomes the talk of the\ntown in no time."
+        }
+    ]
+}

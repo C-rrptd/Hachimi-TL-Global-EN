@@ -1,0 +1,180 @@
+{
+    "title": "運命の待ち人来たる！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tryouts—where Umamusume of all backgrounds meet their destined\ntrainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "I stop by a nearby shrine to make a quick wish in hopes of meeting\nthe absolute best Umamusume."
+        },
+        {
+            "name": "???",
+            "text": "Whoaaaaa! Do my eyes deceive me, or is that shining emblem what I\nthink it is?!"
+        },
+        {
+            "name": "???",
+            "text": "So the fated day has finally arrived! My trainer has appeared before\nme!",
+            "choice_data_list": [
+                "If it's money you're after, I don't have any."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Waaah?! Just who do you think I am?! I'm an upstanding Umamusume!\nI'd never do something so nefarious!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, right. I haven't introduced myself. Sorry about that! Call me\nMatikanefukukitaru!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've been waitin' and waitin' for <i>the One</i> to show up. Finally! All that\nwaiting has paid off!",
+            "choice_data_list": [
+                "The One? What are you talking about?",
+                "The One? What are you talking about?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm talking about none other than you, of course!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "A mere few hours ago, the great Shiraoki revealed to me that I must\ncome to this shrine and try my luck by drawing a fortune."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And surprise, surprise—it said I would \"meet the One\" at this very\nspot!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's when you showed up, just like it said you would!",
+            "choice_data_list": [
+                "I think you've got the wrong person."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "H-hooold on, don't you move! I've got the right person—I know it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Just think about it for a moment! I'm an Umamusume, and you're a\ntrainer! Isn't this too perfect to just be some kind of coincidence?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Our meeting was fated—predestined to happen and divined by the\ngreat Shiraoki herself!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Tis not the time to dawdle! We must rise to the challenge and seize\nour future by running in the Twinkle Series—you and me, together!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's really going to make me her trainer if I don't say anything.",
+            "choice_data_list": [
+                "Sorry, but I can't be your trainer without getting\nto know you first.",
+                "Sorry, but I can't be your trainer without getting\nto know you first."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Fair enough. That checks out!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Got it! In that case, please hear me out! There's this event where I can\nshow you who I really am!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "At the upcoming tryouts, I'll prove to you my worth as a runner!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'll make you regret that you didn't scout me right here and now, just\nyou wait and see!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And when you eventually change your mind, that's when we'll start\ntraining! But for now, I've gotta hit it! Great fortune await me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that final exclamation, the young girl by the name of\nMatikanefukukitaru dashed off into the horizon."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, I make my way to the racetrack and see all the hopeful\nUmamusume deeply focused on training for the upcoming tryouts."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let's give this our best shot! Got it, Suzuka?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ummm... Why did you bring me here? What are we doing at the\nracetrack?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today's carrot divination said that I'd be lucky during partner running\npractice! So you gotta practice with me!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well... If that's all you're asking for, I suppose it wouldn't hurt to\nhelp..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's the spirit! Thanks a bunch! I'll give you a little charm later as a\ngift! It makes you separate all your disposable chopsticks perfectly\ndown the middle!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All righty then... Since today's lucky number is 39, let's do thirty-nine\nlaps around the course!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "What?! You do realize that one lap is two kilometers, right?\nThirty-nine laps would be over sixty kilometers..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Not a problem! The lucky number never lies!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "H-hey! We aren't really doing this, are we?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Huff... huff...</i> Dang it... Maybe thirty-nine was too much..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Pant... pant...</i> I told you so... And running at full speed from the very\nstart definitely didn't help..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But we ran this far precisely because we set such a high bar! It's all\nthanks to today's lucky number!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "We only ran four laps though..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay, let's move on now! The carrots told me that swimming is the\nbest training to do next, so to the pool we go!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today's lucky number is 39, so let's swim across the pool and back\nthirty-nine times!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I beg of you... Enough with your lucky number..."
+        },
+        {
+            "name": "Monologue",
+            "text": "What a strange—perhaps even fateful—encounter... Does\nMatikanefukukitaru really have what it takes to prove herself at\ntryouts?"
+        }
+    ]
+}

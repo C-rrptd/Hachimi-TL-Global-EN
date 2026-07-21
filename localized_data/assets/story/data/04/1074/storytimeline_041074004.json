@@ -1,0 +1,276 @@
+{
+    "title": "Lighting the Way",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, what a lovely event that was. And my sisters were as elegant as\never. I wish to stand side by side with them on that stage as soon as\npossible."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Mejiro meet and greet was a roaring success. On the way back,\nMejiro Bright and I find ourselves basking in the afterglow of the\nevent."
+        },
+        {
+            "name": "Event Attendee A",
+            "text": "Today's meet and greet was great and all, but to be honest, I'm not sure about\nBright and Dober. I haven't heard much about them."
+        },
+        {
+            "name": "Event Attendee B",
+            "text": "This is just what I've heard, but apparently their running could use some work.\nThe Mejiro family's hyping them up as future stars, but I dunno..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I know Bright isn't usually the type to let a little criticism get to her.\nEven so, today seems to be a little different."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...I have no choice but to achieve an exemplary result at the tryouts. I\nmust show everyone a run that will live up to their expectations."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "This is my duty as an Umamusume of the Mejiro family...",
+            "choice_data_list": [
+                "...Hey, do you mind if we take a quick detour?",
+                "...Hey, do you mind if we take a quick detour?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh... This is where we first met. Hehe, that's right. We watched that\ntree together, side by side."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Hm? That leaf... I see it finally fell to the ground. What a shame. It\nheld on for so long, too...",
+            "choice_data_list": [
+                "Take a closer look."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...My! I spot a bud... It's a little one, but it's definitely there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though the leaf we watched together has fallen, new life has already\nbegun to take its place. If it can fend off the remaining whispers of\nwinter, then it'll surely bud brilliantly in the coming spring."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "So that's how it is. Soon... spring will come.",
+            "choice_data_list": [
+                "And it'll be your spring, Bright.",
+                "And it'll be your spring, Bright."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's always been moving forward by herself, at her own pace. My\nadvice helped her evolve—only because she had already laid down\nthe groundwork."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My spring... Is it truly... just around the corner?",
+            "choice_data_list": [
+                "It's your turn to bloom.",
+                "It's your turn to bloom."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Can I become just like my sisters? Can I finally join their ranks as a\nproud Mejiro?",
+            "choice_data_list": [
+                "Of course you can!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Relative A",
+            "text": "Bright? Unfortunately, she has a rather delicate build... It's a shame,\nbut racing will likely prove difficult for her."
+        },
+        {
+            "name": "Mejiro Trainer",
+            "text": "Ryan has a gift for running! She'll make waves in the scene for sure.\nHm? As for Bright... you watch from the sides for now."
+        },
+        {
+            "name": "Young Ryan",
+            "text": "Bright, what were you—oh, were you watching us run again? You\nshould just run with us next time!"
+        },
+        {
+            "name": "Young Bright",
+            "text": "...Ryan. Can I... Can I become like you and the others someday?"
+        },
+        {
+            "name": "Young Ryan",
+            "text": "You betcha! I dunno what you mean by \"like us,\" but you can be\nwhatever you wanna be!"
+        },
+        {
+            "name": "Young Ryan",
+            "text": "So come on—let's run together!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...I finally understand. Back then, when I was staring at that leaf... I\nmust've been waiting for you."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I shall present you with a victory at tomorrow's tryouts. And then, I'll\nmake my debut!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Huh... It looks like today's race is full of slow starters. I'm guessing\nthey'll save their gas for the final stretch, which means we're in for a\nlong one."
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "<i>The</i> Mejiro Bright is here, too. And she's acting as carefree as ever... I\nwonder how she'll do. It'll all come down to the timing of her final\napproach."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Provisional Trainer, I've finished my warm-up. Do you have any words\nfor me today?",
+            "choice_data_list": [
+                "Remember to focus on both your own running\nand your position in the pack."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This race will likely come down to a battle of patience over when to\naccelerate in the final stretch. Worrying too much about your time\nand losing your pace means putting yourself at a disadvantage."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "All I need to do is wait for my opportunity and seize it. Just like we\npracticed.\n...Still, can I really win this race?",
+            "choice_data_list": [
+                "You've got this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her acceleration might be a tad slow, but her running itself is a cut\nabove the rest. As long as she times her final spurt correctly, she\nwon't lose."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee, thank you. I promise to live up to your expectations of me...\nand achieve victory!"
+        },
+        {
+            "name": "Caster",
+            "text": "And our racers are out of the gates! 1,800 meters of turf, six\nracers—all proceeding along at a slow and steady pace!"
+        },
+        {
+            "name": "Racer A",
+            "text": "...H-hey, this is more than just <i>slow and steady...</i> Someone, anyone...\nhurry up and take the lead!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Haha... this is kinda funny.\nAren't they going <i>way</i> too slow?"
+        },
+        {
+            "name": "Racer B",
+            "text": "Ugh... I can't take this! I'm a little early, but here I go!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "(...There's nothing to fear. I only need to keep my pace and wait for\nan opportunity. And once it's my turn to blossom...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bright!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "(...I can hear your voice, just like when we practiced. My time to\nblossom... has come!)"
+        },
+        {
+            "name": "Caster",
+            "text": "Our racers have reached the final stretch! They're all speeding\nup—What's this?! From the very back of the pack, Mejiro Bright flies\nforward!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Everyone, bear witness! I shall show you the might of the Mejiro\nfamily—of its newest light!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright has convincingly won the tryouts race! But before I have\ntime to bask in her victory..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "I-it took her two minutes?! To run 1,800 meters?! That's way too slow,\nat least ten seconds behind the average!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "Haha... Well, this is worse than I expected. Who's going to want to\ntrain someone who took two whole minutes to run 1,800 meters?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Don't worry, I saw it. I saw your strength... and your determination. I\nneed to make sure I don't fall behind!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've returned, Provisional Trainer... Look, I won the race as I promised!",
+            "choice_data_list": [
+                "You ran great out there!",
+                "You ran great out there!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure, her time was slow. But her ability to surge forward in the final\nstretch is a talent that'll surely be applicable even in the highest\nechelon of races!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If she can perfect that skill, then her future looks bright. As I think\nthat, I find myself curious about her future racing career, and the road\nthat she'll walk."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well then, Trainer. I look forward to working with you from today\nonwards.",
+            "choice_data_list": [
+                "...Huh? What happened to the \"provisional\"\npart?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm aiming for faraway heights—the summit of the racing world.\nHowever, those peaks are too bright for me to face alone."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That is why... I would like you to guide me there. Please, will you join\nme in welcoming the spring?",
+            "choice_data_list": [
+                "You got it!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Gasp!</i> I'm so happy. Yaaay."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I've teamed up with Mejiro Bright to compete in the Twinkle\nSeries, where she can reach new and greater heights!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hooray. Woo... I've finally... debuted. ♪"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...How long are you planning to stand there? If you're going to be\nBright's trainer, then you have to learn when to cut her off, or you\nwon't make any progress.",
+            "choice_data_list": [
+                "Hey, let's go back!",
+                "Hey, let's go back!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Hey, sorry to interrupt, but if you're going to be Bright's trainer,\nthen you should learn when to cut her off.",
+            "choice_data_list": [
+                "Hey, let's go back!",
+                "Hey, let's go back!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Okaaay! ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Okaaay! ♪"
+        }
+    ]
+}

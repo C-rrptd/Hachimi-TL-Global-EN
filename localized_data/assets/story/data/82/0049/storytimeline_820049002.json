@@ -1,0 +1,179 @@
+{
+    "title": "たまには他力も",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while strolling near a park, I see Gold\nCity in the middle of a photo shoot."
+        },
+        {
+            "name": "Staff A",
+            "text": "Okay, let's take ten! City, please make sure to\nrest up!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Got it."
+        },
+        {
+            "name": "City's Manager",
+            "text": "Here, I packed you lunch, so eat up. Tell me if\nyou're feeling the slightest bit unwell, okay?"
+        },
+        {
+            "name": "Gold City",
+            "text": "...Yeah, yeah, I will."
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh.</i> She's been such a helicopter manager lately.\nI ended up relying on her to handle my meals\ntoo..."
+        },
+        {
+            "name": "Gold City",
+            "text": "(This lunch box is massive... Was she just, like,\ncooking up a storm between my gigs? Hah, that's\ncrazy...)"
+        },
+        {
+            "name": "Gold City",
+            "text": "(Well, it's not like I can make my own food or\nanything... No matter how many cookbooks I go\nthrough, my cooking never gets any better.)",
+            "choice_data_list": [
+                "Something on your mind?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, you're that trainer from school... No, it's\nnothing big. Just thought it's about time I look\nafter myself.",
+            "choice_data_list": [
+                "There's no shame in relying on others for things\nyou find difficult.",
+                "There's no shame in relying on others for things\nyou find difficult."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that though it takes courage to rely on\nothers, there's much to be gained in doing so."
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "name": "City's Manager",
+            "text": "City, are you done eating? How's your stomach\ndoing?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Yeah, I'm done, and my stomach's fine. Anyway, I\nate the whole thing. Thanks for making it."
+        },
+        {
+            "name": "City's Manager",
+            "text": "You sure you're okay? You tend to hold back a\nlot... If you have any concerns about your meals, I\ncan always make some arrangements for you."
+        },
+        {
+            "name": "City's Manager",
+            "text": "Aside from just making you lunch, I've been\nlooking into ordering dinner deliveries for you on\nshoot days too, so..."
+        },
+        {
+            "name": "Gold City",
+            "text": "It's okay, you don't need to do all that."
+        },
+        {
+            "name": "Gold City",
+            "text": "I mean, I have been thinking about my meals...\nBut I'm not, like, stressing over it or anything."
+        },
+        {
+            "name": "City's Manager",
+            "text": "So you <i>are</i> worried about your meals! Don't\nworry, I can handle this—"
+        },
+        {
+            "name": "Gold City",
+            "text": "No, listen! It's not like that!"
+        },
+        {
+            "name": "Gold City",
+            "text": "(Nothing will change if I let her do all the work.\nBut then again... I'm in no position to fix things by\nmyself.)"
+        },
+        {
+            "name": "Gold City",
+            "text": "(There's much to be gained in relying on others,\nhuh? Well, if that's true...)"
+        },
+        {
+            "name": "Gold City",
+            "text": "...The thing is, I want to be able to make my own\nmeals."
+        },
+        {
+            "name": "Gold City",
+            "text": "So instead of cooking for me... Well, I was\nwondering if you could teach me how to cook."
+        },
+        {
+            "name": "City's Manager",
+            "text": "City..."
+        },
+        {
+            "name": "City's Manager",
+            "text": "Hehe! I'd be happy to do that. We can hold the\ncooking lessons at my house."
+        },
+        {
+            "name": "Monologue",
+            "text": "During my lunch break, I spot Gold City looking\naround for someone to help her out."
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, Yukino! Do you have a second?"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "<i>Munch, munch...</i> Mmm! This's sup'r yummy, City!\nThe sausages are grilled t'perfection!"
+        },
+        {
+            "name": "Gold City",
+            "text": "...That's a relief.",
+            "choice_data_list": [
+                "Were you able to improve your cooking with\nyour manager's help?",
+                "See, relying on others isn't so bad, is it?",
+                "See, relying on others isn't so bad, is it?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...That's a relief.",
+            "choice_data_list": [
+                "Were you able to improve your cooking with\nyour manager's help?",
+                "See, relying on others isn't so bad, is it?",
+                "See, relying on others isn't so bad, is it?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Ah... Yeah, I guess I was. She's given me a few\nlessons."
+        },
+        {
+            "name": "Gold City",
+            "text": "Mm, yeah. Even for my standards, I'd say this\ntastes pretty good."
+        },
+        {
+            "name": "Gold City",
+            "text": "(It's important to do the best you can in life...\nBut, I guess it's also important to ask for help\nwhen you need it.)"
+        },
+        {
+            "name": "Gold City",
+            "text": "...Yeah, you might be right about that."
+        },
+        {
+            "name": "Gold City",
+            "text": "(I've got to practice more if I'm ever going to\ncook my own meals.)"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "This is seriously so yummy! I didn't know city\nlunches tasted this good! This brings a tear t'my\neye, it does!"
+        },
+        {
+            "name": "Gold City",
+            "text": "...Pfft. Come on, calm down and eat your food."
+        },
+        {
+            "name": "Gold City",
+            "text": "(It'd be cool to keep the lessons going. Getting\nYukino's opinion on my cooking every now and\nthen might be a good idea.)"
+        }
+    ]
+}

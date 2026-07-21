@@ -1,0 +1,232 @@
+{
+    "title": "普通じゃないアンタとアタシで",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet—an Umamusume with an intense fixation on being\nnumber one."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why her second-place finish at the tryouts came as a shock,\nplanting seeds of doubt within her. If that's the case..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You want me to have a rematch with Vodka?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...So I can get my revenge for the tryouts? What's the point in that?",
+            "choice_data_list": [
+                "Let's take back your spot as number one."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You serious?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm on board, but it won't be easy. You <i>do</i> have a plan, I hope?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Maybe you want me to save my energy for the end instead of running\nat the front? Sorry, but some makeshift plan like that won't be enough\nagainst her.",
+            "choice_data_list": [
+                "I want you to run one furlong farther in front\nthan usual."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Some trainer <i>you</i> are! Have you ever heard of \"stamina management?\"\nAnyone rushing to the front like that is guaranteed to burn out !",
+            "choice_data_list": [
+                "You're not just <i>anyone</i> though, you're number\none.",
+                "You're not just <i>anyone</i> though, you're number\none."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ugh..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ughhh fine! We'll do it your way. I just have to do it, don't I?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well don't just stand there—there's training to be done! You <i>did</i>\nprepare a training menu to build up my stamina, riiight?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm warning you—your regimen better be up to par, or you'll regret it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Scarlet and I spend the next few days completely absorbed in\nbuilding up her stamina. Before long, the day of the race is upon us..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hm? If it isn't Air Groove! Yoohoo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Teio... So you also came to watch."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "When I heard about a one-on-one between Scarlet and Vodka, I just\nknew I <i>had</i> to see it! Hey, looks like they're gonna start!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...",
+            "choice_data_list": [
+                "Feeling nervous?",
+                "Feeling nervous?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Yeah, and what of it?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Actually—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Scarlet. You ready yet?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...I am."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, I'm off. You better keep your eyes glued to me, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's finally time—the rematch against Vodka begins!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, Scarlet's out front! Is she going with the same strategy as last\ntime?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But didn't this also happen at the tryouts? If this keeps up, won't\nVodka pass her at the final stretch again?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No, wait. It appears that things aren't the same as they once were."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Now!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Huh?! Wai—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wha—she's going for her last spurt this early?! She barely made it\nacross the finish line last time, and you're telling me she's gonna keep\nthis up 'til the end?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're right. It's a reckless maneuver. However!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "(Back then, I couldn't become number one.)"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "(My bluff was called, my pride—torn to pieces. I drowned in self-pity,\nknowing full well how pathetic I was.)"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "(Even now... I'm still suffering! My body's hot! My throat hurts! I can't\nfeel my legs! Still—)"
+        },
+        {
+            "name": "Vodka",
+            "text": "Tch... Augh! Why... why!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Why... can't I catch up to her?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "(—I want to win! I <i>NEED</i> to win! Nobody's going to be number\none—except for me!)"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "(I know that maybe I'm just being way too stubborn... But that's fine!)"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Right now, let me show you just how pigheaded I can really be!\nHaaaaah!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Scarlet!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Heh. Don't think it's gon' be that easy! Yaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet wrings out the last of her energy as Vodka closes in.\nThe winner is—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Bravo, Daiwa Scarlet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Pant... Pant...</i> I... won?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh, dammit! I actually lost—maaan!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Vodka..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmph. Hey, don't go thinkin' things are over."
+        },
+        {
+            "name": "Vodka",
+            "text": "Got it? Next time, I'm settlin' the score! I won't lose... honor student!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Hehe. I like your attitude—I'll be waiting! The number one spot will\nalways belong to me!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Isn't that right, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like my days of aiming to be number one with Daiwa Scarlet\nhave only begun."
+        }
+    ]
+}

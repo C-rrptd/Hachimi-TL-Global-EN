@@ -1,0 +1,176 @@
+{
+    "title": "煌めきの先",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm walking the academy grounds when I\nspot Tokai Teio. She seems to be searching for\nsomething.",
+            "choice_data_list": [
+                "Did you lose something?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sort of? It's kind of complicated..."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Huh? It's not here either... And she said she\nalready looked there..."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Maybe she twirled her pen so hard it flew like a\npropeller up into a tree... All right! I'll take a look!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Stooop! What do you mean, \"All right,\" Tsuru?!\nWhy are you trying to climb that tree?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Oh, Teio! One of the younger students said she\nlost her pen, so I was helping her find it!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tsuru always helps friends in need, which is great,\nbut she gets weird ideas in her head sometimes. I\ncan't just leave her on her own.",
+            "choice_data_list": [
+                "Huh? Speaking of, where did Tsurumaru\nTsuyoshi go?"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "<i>Huff, huff...</i> I did a quick run around the building,\nbut no luck!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "O-oh... Oh dear... I-I feel another dizzy spell\ncoming on!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa! You're working yourself way too hard!\nCome on, focus on your breathing for a bit,\nokay?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah... Haha! Sorry!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "It's just that, if I see a younger student in need, I\nwant to do what I can! Go that extra minute for\nthem, you know?"
+        },
+        {
+            "name": "???",
+            "text": "I think you mean \"go that extra mile.\" But I admire\nyour desire to do your utmost."
+        },
+        {
+            "name": "Teio & Tsurumaru",
+            "text": "Prez?!\nPresident Rudolf?!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Allow me to join the search. After all, is it not the\nduty of a senior student to help their juniors when\nthey need it?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "We were heading back to the student council\noffice to sign off on some documents, but they'll\nhold until tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "If it's the job of senior students to help their\njuniors, then it's the job of a trainer to support\nthe students.",
+            "choice_data_list": [
+                "I'll pitch in.",
+                "I'll pitch in."
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Thank you, everyone! I can't tell you how grateful\nI am that you went so far to help me!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "That pen is suuuuper important to you, isn't it?\nKeep it close from now on, okay? Bye..."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "<i>Cough, hack!</i> O-oof. Talk about ruining the\nmood!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Aww, you don't have to beat yourself up. The way\nshe was cradling that pen... I'm pretty sure she got\nyour message!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Trust me—I'm a super genius with a mind as sharp\nas a knife, so I know what I'm talking about!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Hehe, you think? Oh, what am I saying, you're\nright! Thanks, Teio!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe...",
+            "choice_data_list": [
+                "Something tickle your funny bone?",
+                "Something tickle your funny bone?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh, it's just that I'm blinded by the light of their\nforthrightness."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They saw a student in need and lent a hand,\nworking together to solve the problem."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This academy is blessed to have so many\nkindhearted students and trainers..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I feel like I got a glimpse of the bright future\nahead.",
+            "choice_data_list": [
+                "This encounter taught me a lesson as well.",
+                "This encounter taught me a lesson as well.",
+                "I hope I can see that bright future unfold soon.",
+                "I hope I can see that bright future unfold soon."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I feel like I got a glimpse of the bright future\nahead.",
+            "choice_data_list": [
+                "This encounter taught me a lesson as well.",
+                "This encounter taught me a lesson as well.",
+                "I hope I can see that bright future unfold soon.",
+                "I hope I can see that bright future unfold soon."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We're of the same mind. I, too, gleaned much\nfrom this experience. I owe them both."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you."
+        },
+        {
+            "name": "Teio & Tsurumaru",
+            "text": "You bet!\nYeah!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I couldn't agree more."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, did I hear you say it's still bright enough to\nrun? Are we going for a run now?!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ooh, yeah! I'm also ready to run, since I always\nstay on top of my stretches!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha! Well then, who am I to refuse?"
+        }
+    ]
+}

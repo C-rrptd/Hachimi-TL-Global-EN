@@ -1,0 +1,188 @@
+{
+    "title": "お昼寝マイスター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out, Seiun Sky and I are dozing on the\ntrain back when I suddenly awaken."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Zzz...</i>",
+            "choice_data_list": [
+                "Wake up!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Yawn...</i> Mm... Morning..."
+        },
+        {
+            "name": "Train Announcement",
+            "text": "Next is the last and final stop—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The last stop... Huh? Where are we?"
+        },
+        {
+            "text": "Having fallen asleep and taken the train to the\nend of the line, we decide to take a stroll before\ncatching the return train home."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Walking around an unfamiliar place like this feels\na little like we're on vacation, doesn't it?",
+            "choice_data_list": [
+                "A vacation wasn't in the plan..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't go sweating the details. ♪ Let's just take it\neasy till the train comes."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa whoa, what's that? Could it be..."
+        },
+        {
+            "text": "Spotting something, Seiun Sky turns her back to\nthe sea and takes off running."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is... I can't believe it! This thing's doing a\nbang-up job!"
+        },
+        {
+            "text": "I run to catch up and find her passionately\nadmiring a massive rock."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Look at that flat top! It looks sooo comfy. ♪ And\nwith the soothing sound of the waves too, I bet\nyou could catch some fine Zs here."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The only trouble would be the light reflecting\nfrom the ocean in summer, and then the cold wind\nin winter... Yeah, points off for those."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, you get two stars! I think you're worth\nadding to my \"secret nap spots of the country\"\nmap.",
+            "choice_data_list": [
+                "You have a secret nap spot map?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hehe. Nothing gets past you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It's a compilation of the best places to snooze I've\nfound while out and about."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep, as long as you've got this map, you can find\na great place to zonk right out, wherever you are.",
+            "choice_data_list": [
+                "So basically it's a collection of places you go\nwhen you skip practice."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What a scandalous thing to say... Still, can't say\nyou're wrong there."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, back to business. I gave this guy two stars\nfor visuals, but now it's time to assess the sleep\nsituation."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I think a snooze test's in order. See ya when I\nwake up!"
+        },
+        {
+            "text": "We're going to miss the train if she dozes off\nhere!",
+            "choice_data_list": [
+                "No more sleeping!",
+                "No more sleeping!",
+                "Let me test it instead!",
+                "Let me test it instead!"
+            ]
+        },
+        {
+            "text": "We're going to miss the train if she dozes off\nhere!",
+            "choice_data_list": [
+                "No more sleeping!",
+                "No more sleeping!",
+                "Let me test it instead!",
+                "Let me test it instead!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow, telling <i>me</i> not to sleep is a lot like telling a\ngourmand not to eat."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All I'm asking for's about two—no, three hours.",
+            "choice_data_list": [
+                "We'll miss the train."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ohhh, that bit slipped my mind. We gotta get\nback to the station soonish, huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The harmony between the fluffy seat and the\ngentle rocking of the carriage... I think someone\nonce called it \"the train line lullaby\"..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All aboard the three-star nap spot—the train. ♪"
+        },
+        {
+            "text": "It sounds like Sky plans to fall into a deep\nslumber on the train ride back. That's what got us\ninto this mess in the first place, so I vow to stay\nawake."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa... You're gonna test it out for me?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, it's only natural you'd be curious about how\nit feels to sleep atop a seaside boulder.",
+            "choice_data_list": [
+                "...Sure."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Go ahead then, Trainer. You handle this review."
+        },
+        {
+            "text": "I decide to give Sky a review that will satisfy her.\nThat way, we can head for the station ASAP."
+        },
+        {
+            "text": "The sound of the waves is lulling me off to sleep. I\ncan't afford to nod off here, but it's hard to\nresist...",
+            "choice_data_list": [
+                "Oh no... At this rate... I'll actually..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, good morning. I mean, it's already dark out,\nso I guess it's good evening.",
+            "choice_data_list": [
+                "I fell asleep!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You looked reeeal comfy. ♪ Yep, my nap spot\nradar's as reliable as ever."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "While you were out cold I even went and found\nsome other spots that looked ripe for napping."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Fancy testing those out too?"
+        },
+        {
+            "text": "Sky still looks eager to explore, but I manage to\npersuade her that we should make for the station."
+        }
+    ]
+}

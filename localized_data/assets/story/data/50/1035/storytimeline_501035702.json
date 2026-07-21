@@ -1,0 +1,328 @@
+{
+    "title": "三国志演技",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from our outing, Winning Ticket\nand I stop at a bookstore in town."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? Whoaaaa! This is... No waaaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be totally absorbed in a novel she\npicked up. Later on..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "HEEEEY! Taishiiiin! Hayahideeee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Back at the academy, she runs at full pelt over to\nher two friends, Narita Taishin and Biwa\nHayahide."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The three of us are inseparable! We were born in\ndifferent places, but from now on, we're brothers!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Brothers?! What're you going on about?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. Ticket, tell me. Have you perhaps recently\nread \"Romance of the Three Kingdoms\"?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah, that's <i>totally</i> right! I read it at a bookstore\njust now, and it was so moving!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That's why I wanna be your brother-in-arms! Who\nwould you wanna play? Which character?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm out."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? Whyyyy?! Come on, if you don't do it, I'll\nhave to find someone else!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Pleeease, I really wanna be your brother, Taishin!\nIt wouldn't be the same with anyone else!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, I said I don't want to. It's so childish."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I get how you feel, but you know Ticket is never\ngoing to give up."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Besides, with her enthusiasm, she might rope in\nthe entire academy into playing a \"Romance of\nthe Three Kingdoms\" game."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That sounds terrifying... Fine, I'll do it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Good. Now, shall we get this over with?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The Oath of the Peach Garden... If I were to\nchoose one out of the three warriors in this scene,\nI'd be..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Guan Yu. I swear on my Green Dragon Crescent\nBlade and, er, beard to fight for salvation!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "How's that? I suppose I'm the wise general. You're\nup next."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, okay... Uh... I don't wanna be a musclebrain\nlike Zhang Fei, so..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hey. I'm Liu Bei, and as the oldest, I'll set the\nworld straight. Or something like that."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "All right, next. Finish the oath."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "My name is Tickezo! Thank you for joining me,\nbrothers!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tickezo's not part of the story! Didn't you say you\nloved the book? You forgot your character\nalready!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There wasn't a Tickezo? Aww... In that case..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "My name is Ticketarooo!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "This is nuts. \"Ticketaro\" doesn't even sound\nChinese. Geez..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, but I'm glad she at least read a historical\nnovel. We can learn a lot from the past.",
+            "choice_data_list": [
+                "Agreed.",
+                "Agreed."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, it seems you're somewhat knowledgeable\ntoo."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There are so many historical novels. Which one\ndo you think would be most useful for Winning\nTicket to experience?",
+            "choice_data_list": [
+                "<i>The Three Musketeers</i>.",
+                "Stories from the Sengoku period."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, <i>The Three Musketeers</i> —the famous French\ntale. A story from a country that loves racing\nwould certainly be useful."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hm... Oh, I've heard of that one."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay! Then let's do that too!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Only for a little while. Now let's see..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "My name is Athos. I will lead you to honorable\nvictory!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm Aramis. I focus on being flashy for the ladies,\nbut well, who cares."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "My name is TICKEZOOO! I'm all for you, my\nbrothers!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Stop that! Pick either Porthos or D'Artagnan, and\nstop inserting yourself!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay! My name is D'a... D'al... DALMATIAN!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's a dog... But at least you're on the right\ntrack."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, it would be a poor lesson if we stopped at\nintroductions alone—we should delve a little\nfurther into French culture. There's ballroom\ndancing, or..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ballroom dancing?! All riiight, that's it! Let's get\ndancing!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Come on, you two! Dance like nobody's watching!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, I suppose dancing <i>would</i> be more\nproductive than playing a character."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Yeah, yeah. I'm stuck on wherever this ride\ngoes, I guess."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them practice dancing until they're\ndrenched in sweat."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wooow, so this is the world of <i>The Three\nMusketeers!</i> It's <i>so</i> incredible!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm not sure the musketeers did any dancing."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Did you see, Trainer? Isn't this neat?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "New, heart-touching experiences can help me\ngrow! They'll make me stronger!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The excitement of races is great, but let's look for\neven more cool and exciting things!",
+            "choice_data_list": [
+                "S-sure..."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All right, let's gooo! YEAH! I'M DALMATIAN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the dalmatian—I mean, Winning\nTicket—starts looking for all kinds of emotionally\ntouching moments."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ahh, the Sengoku period... It <i>is</i> important to\nstudy the history of one's own country."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sengoku! I know a little about that!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Speaking of... Taishin, wasn't there someone\nimportant in history with your name?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I dunno, was there a warlord called Taishin?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah, let me remember. His name was..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taika no Taishin!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoaaaa! Isn't that cool? You share a name with\nsomeone super famous!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That's not a person! You're thinking of Taika no\n<i>Kaishin.</i> I'm not a reformation period!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I think there was a Hayahide too. Uh, what was he\ncalled... Kobayakawa Hayahide?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeeeaah! I put my trust in you, Hayahideee!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Wrong—that's Kobayakawa Hideaki. And don't\ntrust him. He's got red flags of betrayal all over\nhis history."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All riiight! The battle is about to begin! Everyone,\nto waaaarrr!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Sigh...</i> She certainly keeps us busy. But I guess\nrunning around is more effective than fooling\naround."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, if we're gonna run, I don't mind so much."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them wildly dash around like the\nwarlords of old."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "This... this is truly the Sengoku period! Waaaah!\nI'm really feeling it!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Haha, we didn't go to war or anything. It was just\ntraining like usual."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Did you see, Trainer? Isn't this neat?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "New, heart-touching experiences can help me\ngrow! They'll make me stronger!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The excitement of races is great, but let's look for\neven more cool and exciting things!",
+            "choice_data_list": [
+                "S-sure..."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "All riiight! Let's go! I will unite this land into a\nwondrous country! To Honno-ji Temple!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure how it worked out, but she's in high\nspirits. That's how Winning Ticket starts looking\nfor all kinds of emotionally touching moments."
+        }
+    ]
+}

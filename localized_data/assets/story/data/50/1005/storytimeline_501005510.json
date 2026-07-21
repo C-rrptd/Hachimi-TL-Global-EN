@@ -1,0 +1,221 @@
+{
+    "title": "秀麗なる門番",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hey, good talk at the dorm leader meeting\ntoday, Hishiama! Now then..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Three, two, one and... zero. It's now officially\nafter curfew!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "A'ight, let's catch ourselves a good haul of\nstragglers today!"
+        },
+        {
+            "name": "Rito Dorm Residents",
+            "text": "<i>Huff, puff!</i> F-Fuji! Sorry we're late!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Curfew was twenty minutes ago. Did something\nhappen to keep you all out?"
+        },
+        {
+            "name": "Rito Dorm Residents",
+            "text": "W-well, no... We just got caught up while chatting\nand lost track of time. We're really sorry!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I appreciate your honesty. It's fine to enjoy\ncompany with friends, but be more careful next\ntime."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "When I think of all you darling ponies wandering\nabout so late at night, why, I find myself simply\novercome with distress!"
+        },
+        {
+            "name": "Rito Dorm Residents",
+            "text": "<i>Gasp!</i> Okay!\nWe'll be better next time, promise!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ugh. I'm not sure if I'd call that a slap on the wrist\nor a kiss on the cheek. They aren't gonna learn if\nyou don't scare 'em good."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! Your no-nonsense approach certainly\nkeeps your residents in line, that's for sure!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But the moment I saw them running up, breathless\nwith apology, I knew they were sincerely sorry."
+        },
+        {
+            "name": "Rito Dorm Delinquent",
+            "text": "There you are! Yo, Fuji! What the hell's with this\nthing?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What the... What <i>is</i> that? Hang on, is that a plush\nof you, Fuji?"
+        },
+        {
+            "name": "Rito Dorm Delinquent",
+            "text": "The minute it hit eight o'clock, it started blasting\nout these super cringe lines, and I couldn't turn it\noff!"
+        },
+        {
+            "name": "Fuji Plush",
+            "text": "\"Oh, my darling, are you not home yet? Hurry\nback! I miss you so, my sweet pony!\""
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha! Don't tell me you don't like my little gift!"
+        },
+        {
+            "name": "Rito Dorm Delinquent",
+            "text": "When did you even <i>put</i> this in my bag?! Ugh, I get\nit already! I'll stop breaking curfew, all right?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's the weirdest disciplinary method I've ever\nseen, but eh... Suits you."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well, being able to provide exactly what is\nneeded is the noble work of an entertainer, after\nall! ♪"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oops, it's nearly nine. We should head back soon\ntoo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh... Brian! Just what time do you think it is right\nnow?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Dunno. Wasn't paying attention."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wish you <i>would,</i> though. It's not hard to—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Whatever. I'm going to sleep. Bye."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wait, Brian! I'm not do—hmmm..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...So that's what happened last night."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Brian is such a tough nut to crack. I don't know\nwhat to do with her.",
+            "choice_data_list": [
+                "You might have to switch up the way you talk to\nher."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But how? What do you think would work?",
+            "choice_data_list": [
+                "You have to be fierce like Hishi Amazon!",
+                "You have to be strict like Air Groove!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I think I know what you mean! Heheh, that might\nactually work. I'll give it a shot!"
+        },
+        {
+            "text": "The next night, Narita Brian once again returns\npast curfew."
+        },
+        {
+            "name": "Hishi Amazon(?)",
+            "text": "You there! Brian! And just what time do ya think it\nis right now?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ama?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Wait, it's just you! Stop messing with me!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Get back here! I let it slide last time, but you're\nnot gettin' away this time."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "If you aren't gonna listen to me, then let's settle\nthings with a one-on-one race!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ugh, quit it with your stupid impersonation! Ama's\nnot even like that! She's more—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>...Sigh.</i> Never mind. I don't have the energy for\nthis..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'll be more careful about curfew, all right? You\nhappy?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh! That really worked! ♪"
+        },
+        {
+            "text": "Fuji Kiseki manages to maintain her dignity as\ndorm leader and add a new personality to her\nrepertoire of characters."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "She does get pretty intense when she chides us\nduring student council meetings... I'll give it a try!\nPlaying the Empress should be good practice!"
+        },
+        {
+            "text": "The next night, Narita Brian once again returns\npast curfew."
+        },
+        {
+            "name": "Air Groove(?)",
+            "text": "You! Just what do you think you're doing still\nout? Do you have any idea what time it is?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ack, Air Groove?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Huh, it's just Fuji Kiseki... Wait, Fuji Kiseki?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Don't you dare run. Upon my pride as Empress, I'll\ndrill into your head the vital importance of\npunctuality!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Ngh... What is this pressure I'm feeling?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Argh, enough already! This is more trouble than\nit's worth!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Look, I'll be more careful about curfew, so get off\nmy back already."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh! That really worked! ♪"
+        },
+        {
+            "text": "Fuji Kiseki manages to maintain her dignity as\ndorm leader and add a new personality to her\nrepertoire of characters."
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day in February..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "My! It's quite crowded. And the tables aren't even\nset yet."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Buono! Is everyone here? This is more than I\nexpected!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But the more, the merrier! All right, everyone! To\nthe kitchen!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(Why am I making chocolate?!)"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(I somehow got swept up in the crowd, but I guess\nsomeone will let me know if I'm not supposed to\nbe here...)"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wow! Your tempering technique is amazing! And\nyour attention to detail is bona fide buono!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Um... Thank you..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Aaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, my! Are you all right?!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I-I think so..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank goodness. Was it only the one bowl that\nyou dropped? That's not so bad. There's no need\nto panic—we'll get this taken care of in no time."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Why did I stay the whole time?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I have training in five minutes! What am I going to\ndo with all this?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I already bought chocolates for Trainer. If I were\nto give something homemade as well, it might\ngive the wrong impression..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm overthinking this. It's totally fine to give both\nstore-bought and homemade chocolate. And I\ncan always explain myself, if necessary."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hello, Trainer! I'm ready to get to work.",
+            "choice_data_list": [
+                "Excellent! Let's get started, then!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, you certainly seem ready to go. But before\nthat, I wanted to thank you for everything—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...",
+            "choice_data_list": [
+                "Is something wrong?",
+                "Is something wrong?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Huh? O-oh, no! It's nothing! There's absolutely\nnothing wrong at all!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-it's just, today is Valentine's Day, right? So, I\nthought I might g-give you some chocolates!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So, happy Valentine's Day! Thank you for all of\nyour expert instruction!",
+            "choice_data_list": [
+                "Oh! Uh, you're welcome?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, let's get to work, shall we? I'll start warming\nup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her strange behavior, the chocolates she\ngives me are simply delicious."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...",
+            "choice_data_list": [
+                "Hayahide?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, uhhh... Ummm... Let me start first by saying..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Today is Valentine's Day. It's a day in which\npeople have traditionally expressed affection.\nHowever, it has also become a day in which to\nexpress gratitude and friendship."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Therefore, the act of offering chocolates to those\nwe feel indebted to should not be considered\nunusual in any way or have any presumed subtext\nassociated with it!",
+            "choice_data_list": [
+                "(She's talking even faster than usual...)"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Phew..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So, I got some chocolates for you. I bought them\nat the store the other day.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But wait, there's more! I also have these for you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They're... I, uh, made them myself.",
+            "choice_data_list": [
+                "Oh! I can have both?",
+                "Oh! I can have both?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "O-of course! I think they accurately convey my\nfeelings of gratitude. Although, truthfully, even\ntwo may be inadequate for that..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I wasn't planning on making homemade\nchocolates, but I think they turned out fairly well.\nI hope you like them."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If you find yourself preferring the ones that I\nmade, I'll bear that in mind and focus more of my\nefforts to that end next time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although both are good, the homemade ones\nseem to taste just a bit sweeter."
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "title": "A Princess and Her Prince",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "We're here at last! I'm so super-duper-ultra excited for summer camp!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Buuut... this isn't just time to jump for joy! Isn't that right, Trainer?"
+        },
+        {
+            "text": "Right... While summer camp is our chance to train, there's also a\nspecial event happening this year."
+        },
+        {
+            "text": "There's a race that follows the road from the beach all the way to\ncamp... And Kawakami Princess has entered to run."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I even thought all about the most important things from the movie!\nToday we've got to show off the true bond between a princess and\nher prince!",
+            "choice_data_list": [
+                "We definitely will!",
+                "We definitely will!"
+            ]
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Well, well, I thought I smelled a commoner. It's the same smell of\ncheap noodles that, unlike authentic ramen, will live out their life in\nanonymity!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ah, it's you! Dark Princ—ahem—I mean, the bully from before!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh... I suppose you hope to join the race today? I wouldn't\nrecommend it, since <i>I'll</i> be participating."
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh heh heh... I'm sure even you understand now. You'll never win\nagainst a real princess, so why don't you just slink off—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Never! There's no way I'll back down from this battle! As a fighting\nprincess, I'll be there, with my prince by my side!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Hmph! You just don't learn, but have it your way... I'll simply have to\ncrush you underfoot this time!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "To be honest, I can't really compare to her. I might hate it, but I saw\nthe truth when we raced."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Still... I won't run away from this! I have to win! We have to combine\nour powers to defeat her, 'kay?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So we need to start strategizing right away! First things first..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A name for our battle plan! I'm thinking either, \"The Princess and\nPrince's Big Banquet\" or \"The Power of Two - Winds of Victory!\"\nWhich one do you like?",
+            "choice_data_list": [
+                "We can always think of the name later..."
+            ]
+        },
+        {
+            "text": "After our strategy meeting, the day gets even hotter, leading into the\nfiery race we've prepped for!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Pant... Pant...</i> Hyaaah!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Well, look at you! All that confidence, only to get worn out so soon!"
+        },
+        {
+            "name": "Student Caster",
+            "text": "We're past the midpoint! The hot summer sun must be taking a toll on\ntheir stamina! Who will pull ahead?!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "<i>Pant... Pant...</i> Hehehe! Make way for a real princess! Raaaaagh!"
+        },
+        {
+            "text": "Someone in the back is sprinting all the way to the lead... It's Dark\nPrincess!"
+        },
+        {
+            "name": "Student Caster",
+            "text": "They're almost at the finish line! It looks like first place is going\nto—hold on!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "HIIIYAAAAAH!"
+        },
+        {
+            "name": "Student Caster",
+            "text": "Kawakami's pulled away from the pack! That's one big burst of speed!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Huh?! But she was exhausted. Where's that power coming from?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hraaagh! Princess Acceleration... times a trillion!"
+        },
+        {
+            "name": "Student Caster",
+            "text": "Kawakami's caught up to the lead right before the finish! Who will\nclaim the win?!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "<i>Pant, pant...</i> You don't know who you're messing with! Victory goes\nto... the true—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It goes to the princess with a true bond! And that's MEEE!"
+        },
+        {
+            "name": "Student Caster",
+            "text": "Finish! First place goes to... Kawakami! She won by a nose!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hah! I did it! Yeah!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "N-no... This can't beee! How... How could I lose?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I saw through your trick. You're good at charging ahead from the\nback during the last leg."
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "What did you say?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I did lose to you once, so my trainer found out all about you."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's why our plan was to wait until you went full strength, then I'd\ndish out all my power at once and return the favor! It's called..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Princess Power Times a Trillion - Demolish Dark Princess with Our\nTrue Bond!\" Catchy, huh?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Still though, we put all that work into our strategy, but it was a close\none! You really are a tough enemy!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Hmph... I don't need your pathetic consolations!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Come on, we're not enemies anymore since the race is over! That's a\nPrincess Fighter promise! From today on, we're friendly rivals!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Hah, you like Princess Fighter? I stopped watching that years ago."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What?! I knew it—you're a Princess Fighter fan too! Cause all your\nlines were just like Dark Princess!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "E-enough of that! You're totally wrong! I only watched it when I ate\ninstant noodles at snack time..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes, yes, yesss! This is a victory for the powerful bond between a\nprincess and her prince!"
+        },
+        {
+            "text": "It's just us on the moonlit beach, and Kawakami Princess is filled with\nglee after her big win."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I forgot, Trainer! There's something I really wanted to try if I won! Can\nwe?!",
+            "choice_data_list": [
+                "Anything you want!",
+                "Anything you want!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ehehe, okay, here it is! Um... You remember the last part of the\nmovie? I want to recreate it with the two of us!",
+            "choice_data_list": [
+                "The last scene in Princess Fighter?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yeah! On their way home after saving Earth, the princess and prince\nhave a heart-to-heart on the moon!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Let's see... Ahem! O-okay, here I go!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Prince... We did it... We saved the planet.\"",
+            "choice_data_list": [
+                "\"You fought beautifully, Princess.\""
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"But this isn't the end. Everyone's waiting for us back on Earth!\"",
+            "choice_data_list": [
+                "\"You're right. Our race isn't over yet.\""
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"No matter the battle, I will overcome it! Because I... I am with my one\nand only prince!\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aaaah! The bond between them really is special!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(And the prince of <i>my</i> destiny... is right here in front of me!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Heehee! With the power of our bond, we're going to perform the\ngreatest miracles the world's ever seen!"
+        }
+    ]
+}

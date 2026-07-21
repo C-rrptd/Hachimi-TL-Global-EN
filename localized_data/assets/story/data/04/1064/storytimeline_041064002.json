@@ -1,0 +1,253 @@
+{
+    "title": "フリーに走り出せ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days after the tryouts, I'm walking around town when I find..."
+        },
+        {
+            "name": "Freestyle Race Staff A",
+            "text": "Hey you! Any interest in watching some freestyle races? We've got\nsome real fire bouts lined up over in the alley today!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Freestyle Race Staff A",
+            "text": "The Twinkle Series is cool and all, but freestyle races are just as\nexciting!\nOh, you there! Miss Umamusume! You should check this out too!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Freestyle, huh?\nWhoa, hey! Look who it is!",
+            "choice_data_list": [
+                "Hi! Out running?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Mhmm, yeah. Just warming up for some training, and thinking about\nwhat you said the other day about a style that suits me."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But yeah, this freestyle thing? I've always known about it, but I've\nnever actually watched a race in-person..."
+        },
+        {
+            "name": "Freestyle Race Staff A",
+            "text": "You both seem pretty interested! Knew it! Just come on over here,\nthen! Feel free to join a race at any time if you want, too!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh? Oh, okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Freestyle racing is popular among amateur Umamusume who want to\nrun unbound by rules and norms. They're often held in empty lots\nrented for the very purpose."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some runners prefer these kinds of races over going pro, no matter\nhow fast they may be. They compete as their hearts desire in front of\na great many fans."
+        },
+        {
+            "name": "Freestyle Race Spectators",
+            "text": "Yeeeaaah!"
+        },
+        {
+            "name": "Freestyle Umamusume",
+            "text": "Haaa!\nUooogh!\nI'm number one around here! Haaa!",
+            "choice_data_list": [
+                "Now this is something else!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With so many rowdy, rough-and-tumble running styles at play,\nfreestyle is plenty different to watching Twinkle Series races. The\ncompetitive spirit on display is quite moving in its own way!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "This feels totally different from all those official races... So this is\nfreestyle..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Incredible... Like, just watching 'em gets me so pumped!",
+            "choice_data_list": [
+                "Feel like entering one?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!\nYeah... Yeah, think I do!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey there, mind if I join in? Or I can wait for the next one, doesn't\nmatter to me!"
+        },
+        {
+            "name": "Eyebrowless Umamusume",
+            "text": "Oh, newbie lookin' to jump in? Love the enthusiasm. Sure, come on\nover. What's your name?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uh, Palmer! It's uh, Mejiro Palmer."
+        },
+        {
+            "name": "Tongue-pierced Umamusume",
+            "text": "Oh, a Mejiro eh? Looks like we got a celeb on our hands. Name's\nkinda long though, so how about we just call you Palmer? Oh yeah,\nwe'll draw straws to determine gate numbers before the race."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uh, okay? So just \"Palmer\" is fine?"
+        },
+        {
+            "name": "Tongue-pierced Umamusume",
+            "text": "Yeah? No way people'll remember a name that long. Might not even\nremember the short version if ya don't win..."
+        },
+        {
+            "name": "Eyebrowless Umamusume",
+            "text": "Don't think too hard about it. Just gotta win, yeah? It's all about\nstrength and runnin' your own way in the freestyle world. Let's go,\nPalmer!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh! Yeah, lookin' forward to it!"
+        },
+        {
+            "name": "Caster",
+            "text": "And they're off! In the lead, we have a first-time entrant, number two\nin the red tracksuit! Can she keep it up?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Okay, calm down, and let's do this like always...)"
+        },
+        {
+            "name": "Determined Umamusume",
+            "text": "Hraaagh! Y'all better stop screwin' around if you wanna win!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Oh yikes, now <i>that's</i> some fierce running! Kinda incredible to see it\nup close!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Maybe I should try out... something like that? I mean... no better\nchance than a race like this!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(And right now I'm just newbie number two in the red tracksuit. I'm not\na Mejiro—I'm Palmer!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Win or lose, I'm not a Mejiro!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Tch! Haaah!",
+            "choice_data_list": [
+                "The way she's running now..."
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "Fast, she's fast! Number two Palmer takes first! That speed was\nactually crazy! She wins by six whole lengths!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff...</i> Dang, how did I... This is way too much fun!"
+        },
+        {
+            "name": "Eyebrowless Umamusume",
+            "text": "Whoa whoa whoa, where the hell did that come from? That got me all\nfired up! Let's go again, Palmer!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Okay, sure thing! Wanted to run some more anyways! Kinda wanna\ntear up the track until there's nothin' left!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haaa!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(My legs just won't stop! And this breeze feels great! It feels like I'm\nmoving my body in a way that I can give my all!)"
+        },
+        {
+            "name": "Tongue-pierced Umamusume",
+            "text": "Oh, look at her go! She's kinda like, stupidly fast. Hm?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff... huff...</i>\nHeh, crap! Might've gotten a little too wild..."
+        },
+        {
+            "name": "Tongue-pierced Umamusume",
+            "text": "Pfft, hahaha! Now she's flounderin'! Don't tell me you didn't think this\nthrough? Haha, now that's <i>too</i> funny!"
+        },
+        {
+            "name": "Freestyle Umamusume",
+            "text": "Palmer! Go! Run like hell!\nYou're somethin' else, Palmer! Smash that finish!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Okay, you got it! This time, I'll run like never before! Watch me snatch\nthe win and burn this run into your memories!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hraaagh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time all of the freestyle races scheduled for the day are over,\nthe frenzy surrounding Mejiro Palmer has reached its peak."
+        },
+        {
+            "name": "Freestyle Umamusume",
+            "text": "Paaal-mer! Paaal-mer! Paaal-mer! Paaal-mer!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wow, everyone's so fired up... Hehe, and seriously, for me? I don't\nthink I've ever heard my name called out so much..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Thank you! I'm SO hyped up right now!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Phew... My head's still spinning from all that.",
+            "choice_data_list": [
+                "Those cheers were something else!",
+                "Those cheers were something else!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Right? That's the first time that's ever happened to me. Nothing like\nthat tryout race, for sure. People who didn't even know that I'm a\nMejiro were cheering my name!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "High-key, that felt so, so awesome! I wanna keep doing that from\nhere on out."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah... Yeah! I want everyone to know my name! To spread the word\nof \"Mejiro Palmer\" far and wide!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes are positively dazzling. I can see that she's finally found her\ndream and her calling. And without a second thought...",
+            "choice_data_list": [
+                "Seems you've got a dream. Can I help make it\ncome true?",
+                "Seems you've got a dream. Can I help make it\ncome true?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh? Wait, so are you like, scouting me? For real?",
+            "choice_data_list": [
+                "If you'd have me!",
+                "If you'd have me!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Thank you! I'm <i>beyond</i> stoked. So yeah, let's do this thing, Trainer!"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Vodka has many victories\nsnatched under her belt..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Trainer! There's a time limit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka suddenly appears in front of me, making\nno sense.",
+            "choice_data_list": [
+                "What are you talking about?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Don't tell me you forgot about that ticket!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Remember New Year's at the start of my senior\nyear? I won a big prize in that raffle.",
+            "choice_data_list": [
+                "The ticket for the hot spring!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Right! That!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I wanted to go there by motorcycle..."
+        },
+        {
+            "name": "Vodka",
+            "text": "I thought I'd have one by the time the Twinkle\nSeries wrapped up."
+        },
+        {
+            "name": "Vodka",
+            "text": "But I still don't have one! And we can't just sit\naround anymore."
+        },
+        {
+            "name": "Vodka",
+            "text": "We're running out of time.",
+            "choice_data_list": [
+                "Wait, time for what?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "The ticket expires! If we don't use it soon, it'll be\njust scrap paper!"
+        },
+        {
+            "name": "Vodka",
+            "text": "We don't have time to be picky anymore. It's time\nto go touring... by train!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click clack... Click clack...</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ohhh yeah! Let's see what this baby can do!",
+            "choice_data_list": [
+                "Vodka, you're bothering people...",
+                "Vodka, you're bothering people..."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "...Wooo! Nice driving, conductor!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka whispers out cheers for the train, and it\nzooms us to the inn."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Whew! That was a great bath!"
+        },
+        {
+            "name": "Vodka",
+            "text": "The heat just seeped into my bones like\n<i>fwooshhh!</i> My whole body's warmed up now!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Welp, I'm comin' to your room after this."
+        },
+        {
+            "name": "Vodka",
+            "text": "We've gotta talk all about how we tackled that\nmountain pass!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Not that we did any of the work, though!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yep. The train kinda stole our thunder on that\none."
+        },
+        {
+            "name": "Vodka",
+            "text": "Aughhh! I can't believe we came to a hot spring\non a rattling train, swaying gently while eating\nsnacks."
+        },
+        {
+            "name": "Vodka",
+            "text": "It's no different than a field trip. I wanted you\nright behind me, holdin' tight while we ripped\nthrough those corners on the back of my\nmotorcycle.",
+            "choice_data_list": [
+                "Why don't we talk about something else?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "You're right. Oh well, let's talk about our other\nmemories, I guess!"
+        },
+        {
+            "name": "Vodka",
+            "text": "We've still got plenty of other tales!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka continues to talk merrily while we enjoy a\nhot pot with a side of sashimi."
+        },
+        {
+            "name": "Vodka",
+            "text": "Seriously! I really had no clue what to do at the\nDerby!"
+        },
+        {
+            "name": "Vodka",
+            "text": "If you hadn't given me such good advice, I\nwould've given up."
+        },
+        {
+            "name": "Vodka",
+            "text": "And then at the Fan Fest! You told me to keep on\nbein' me when we were up on the roof!",
+            "choice_data_list": [
+                "Did I say that?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Wait. You forgot?! You gotta be joking! I was\nreally moved."
+        },
+        {
+            "name": "Vodka",
+            "text": "It's because of what you said that I... I..."
+        },
+        {
+            "name": "Vodka",
+            "text": "<i>Sob...</i>",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka's suddenly at a loss for words and starts\nsobbing.",
+            "choice_data_list": [
+                "Wh-what's wrong?",
+                "Wh-what's wrong?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Talking like this made me think... Well, it made\nme realize..."
+        },
+        {
+            "name": "Vodka",
+            "text": "You and I have always been touring. I didn't even\nnotice.",
+            "choice_data_list": [
+                "We have?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah. Even without motorcycles, you've always\nbeen ridin' by my side."
+        },
+        {
+            "name": "Vodka",
+            "text": "And whenever I was about to take a wrong turn or\nstep on the brakes, you put me back on track!"
+        },
+        {
+            "name": "Vodka",
+            "text": "You're the one who told me to keep goin' straight\nahead and not to be afraid."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm sure I would've fallen if I'd been alone. I\nmight've even given up..."
+        },
+        {
+            "name": "Vodka",
+            "text": "But you were there for me! It's all thanks to you!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Even if we didn't ride that mountain pass, we've\nstill got a bunch to talk about. Loads and loads of\nstories..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Ugh, how annoying! I'm so lame! I wanted us to be\nlaughin' the night away..."
+        },
+        {
+            "name": "Vodka",
+            "text": "But I can't stop these feelings! Aughhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure Vodka's always been compassionate\ndeep down. It looks like, here in this inn with no\none else around, she can't keep up the tough-guy\nact."
+        },
+        {
+            "name": "Vodka",
+            "text": "Thanks, Trainer... Thanks, partner."
+        },
+        {
+            "name": "Vodka",
+            "text": "Feel free to laugh at how pathetic I'm bein', by\nthe way!"
+        },
+        {
+            "name": "Vodka",
+            "text": "You'd better not tell anyone about this, though!\nThe hot spring melted my heart is all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka wears her true feelings on her sleeve all\nnight and continues to laugh through her tears."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Vodka and I have formed an\nirreplaceable bond during this time together."
+        }
+    ]
+}

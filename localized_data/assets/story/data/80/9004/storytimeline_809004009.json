@@ -1,0 +1,153 @@
+{
+    "title": "トゥルーエンディング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> has made amazing strides\nthese past few years, earning us both a\nwell-deserved break."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um, Trainer <username>?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Next time you have a day off, would you... like to\nspend some time together?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "There's somewhere that I want to take you."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Here we are! It's a hot spring hotel!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "What an amazing building! There are so many\nkinds of baths here. I'm looking forward to all\ntheir different effects!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hehe, I can barely contain myself!",
+            "choice_data_list": [
+                "What made you want to go to a hot spring all of\na sudden?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I want to invite Meek here to celebrate three\nyears of our working together, but I figured I\nshould do some preliminary research first."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I can't look like I have no idea what I'm doing in\nfront of her, you know?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "All right, let's go!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ahhh, the hot water felt great! I'm starting to\nregret only doing a day trip."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Did you try out the flower bath?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The hot water combined with the jasmine\nfragrance was incredibly relaxing!",
+            "choice_data_list": [
+                "I bet Meek would love that too."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, yeah. She definitely would!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But... I'm feeling a bit dizzy after all those baths.\nCould we take a walk outside?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ahh... I knew the cool air would make me feel\nbetter."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You know... Meek and I..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...Ah, sorry... Whenever I think of Umamusume,\nthere's something that always comes to mind."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Umamusume and their trainers must always work\nin tandem."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "We've struggled so much to get where we are...\nbut it wasn't just the two of us the whole time..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "There were many people who walked by our side,\nproviding support and watching over us..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Delivering their feelings to us with hopeful eyes."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The Trainer's Handbook never mentioned this,\nbut... the support of others really is important to\na racer's growth..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "And that's just one of the lessons I learned in\nthese last three years.",
+            "choice_data_list": [
+                "Maybe you should write it all down."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hey... You're right. That's a great idea!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I've also learned much from you,\nTrainer <username>."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "As a rival and as a friend, you've taught me so\nmany things that I didn't know."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "And as a trainer, it feels like my worldview has\nbeen broadened considerably thanks to you.",
+            "choice_data_list": [
+                "I feel the same way about you."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hehe. Well, in that case... we both helped each\nother out, didn't we?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "With all that I've learned, I want to write my own\nTrainer's Handbook now."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'll include everything from the past three\nyears—the successes, the failures, and so much\nmore.",
+            "choice_data_list": [
+                "Have you thought of your opening line?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Not yet. Hmmm... How about..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "\"Find yourself a lifelong rival—a supporter you\ncan cheer on... and a helper you can be there for.\""
+        }
+    ]
+}

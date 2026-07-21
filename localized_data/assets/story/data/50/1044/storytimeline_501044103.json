@@ -1,0 +1,36 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp begins today! I've prepared a\nspecial training regimen aimed at improving her\nconcentration!",
+            "choice_data_list": [
+                "Let's get started wi—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Today's no good.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I mean, come on. We were on the bus forever.\nLurching back and forth and back and forth the\nwhole time..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uuugh... This is why I hate buses!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho seems unusually delicate today, so I\ncarry her things to her room for her and begin\nplanning tomorrow's training schedule."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uuugh..."
+        }
+    ]
+}

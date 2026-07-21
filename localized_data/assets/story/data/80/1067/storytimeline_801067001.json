@@ -1,0 +1,121 @@
+{
+    "title": "新しいもの、大好きです！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Refreshed Umamusume",
+            "text": "Aaah, now that hits the spot! No lunch is\ncomplete without some melon soda!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Melon soda?"
+        },
+        {
+            "name": "Monologue",
+            "text": "One early afternoon in the cafeteria, I spot\nSatono Diamond looking very interested in the\nmelon soda offered in the soda fountain."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Okay, I'll give it a taste as well. ♪ This should be\nmelon soda, I presume?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She produces a teacup and gets ready to\ndispense some soda into it.",
+            "choice_data_list": [
+                "Er, hang on a sec!",
+                "Er, hang on a sec!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes? Is something the matter?",
+            "choice_data_list": [
+                "Are you really gonna drink it out of a teacup?",
+                "Are you really gonna drink it out of a teacup?",
+                "Is this your first time trying melon soda?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes? Is something the matter?",
+            "choice_data_list": [
+                "Are you really gonna drink it out of a teacup?",
+                "Are you really gonna drink it out of a teacup?",
+                "Is this your first time trying melon soda?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, yes... Oh, is this not the correct way to do\nit?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Do you mind telling me the proper procedure? I\njust love experiencing new things!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to Satono Diamond that usually people\ndrink melon soda out of a glass. However..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, now I understand!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll ask Father to borrow some of his crystalware,\nthen.",
+            "choice_data_list": [
+                "...Crystalware?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Why yes. It's a wonderfully exquisite collection he\nbought overseas."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm sure the melon soda will just look extravagant\nin it!",
+            "choice_data_list": [
+                "Wait, hold on!",
+                "Wait, hold on!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh dear, is that no good either?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond really is on a whole other level..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It is! Hee hee! I'm getting so excited just looking\nat it!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "By the way, just how much melon is in this melon\nsoda?",
+            "choice_data_list": [
+                "Uh, what?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That can't be an odd question... After all, it's\ncalled <i>melon</i> soda, correct?",
+            "choice_data_list": [
+                "Well, it's kind of like how melon bread also\ndoesn't—"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Melon bread?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh my word! Whatever is that? Is it bread filled\nto the grain with melons?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I'm talking to a being raised on another\nplanet. Nothing gets through to Satono Diamond\nno matter how I try to explain things."
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "title": "Love Ramen",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "I could really go for some ramen right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "The words suddenly spill out of Fine Motion, and\na chill instantly spreads throughout the room.",
+            "choice_data_list": [
+                "(What does she have in store today?!)",
+                "(What does she have in store today?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Whenever she's muttered about ramen in the\npast, something always happens without fail. For\nexample..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I could really go for some ramen right now.",
+            "choice_data_list": [
+                "There's a place nearby. Want to stop by?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm... No, that's not what I'm craving right now."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've got it! Let's procure a food truck!",
+            "choice_data_list": [
+                "A food truck?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes. I'd like to make ramen to match the intensity\nI'm feeling with my own two hands! Right away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And then, on a different day..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, I know! Let's make our own ramen alley here\nat the academy!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Come along, Trainer. Let's go speak with the\ndirector! I'm counting on your diplomatic savvy! ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "How are you with airplanes, Trainer?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There's a type of ramen I'd like to eat right now,\nbut we'll never get there unless we go by air.\nCome on, let's fly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our ramen-related adventures have continued\never since, showing me a passion in Fine Motion\nthe likes of which I'd never imagined. At this\npoint, I have no idea what to expect."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So there's some ramen I've been wanting to try for\nages... Would you like to try it with me?",
+            "choice_data_list": [
+                "That's it?!",
+                "That's it?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Um... yes? I just feel like trying something new."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There are three I've been curious about. Could\nyou choose which one we try?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Putting it simply, the choices are <i>chashu</i> pork\nramen, soupless <i>aburasoba</i> ramen, or spicy tan\ntan noodles! Which do you think sounds best?",
+            "choice_data_list": [
+                "Chashu pork ramen.",
+                "Aburasoba.",
+                "Tan tan."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I think you might be surprised. I can't wait!"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Aaand... order up! One Tower of Chashu!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "We're presented with a bowl of soy sauce ramen\ntopped with a stack of chashu pork slices so high,\nit truly towers over us!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow... It's like seeing the Tower of Babel in its\ncompleted glory!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer! A ladder, please! I'm going to start from\nthe summit!",
+            "choice_data_list": [
+                "You're going to eat all that by yourself?!",
+                "You're going to eat all that by yourself?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. To whom do you think you're speaking?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Make no mistake, I will finish this. I swear on my\nfamily's honor!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Fine Motion eats her way down the pork\ntower until..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That hit the spot! ♪\nPhew! That was superb, Chef!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Incredibly, Fine Motion has actually conquered\nthe whole tower by herself!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oho... So we're really doing this? We're entering\n<i>the zone?!</i>"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Aaand... order up! Enjoy your XXXtra Garlic\nAburasoba!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We suddenly find ourselves caught in the eye of a\nraging garlic storm!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ngh! Th-this is—"
+        },
+        {
+            "name": "Security Captain",
+            "text": "Your Highness, it's far too dangerous! What\nyou've been served can hardly be called ramen!\nIt's just a mound of chopped garlic!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No, I cannot run from this. No matter the form it\ntakes, if it assumes the title of \"ramen\"..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I shall bestow my love upon it! Here I go!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hyaaah! Phew... One more lap!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Someone's looking sharp—wait, huh? What's that\nweird sign you're wearing?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Please do not come within a one-kilometer\nradius of me. -Fine\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...What the?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What?! Shakur?! Y-you mustn't! It says to stay\naway! No fair!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In a rare sight, today I get to see Air Shakur\nchasing Fine Motion around."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...So you're okay with this, right? Even though\nthere's no telling how I'll end up?"
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Aaand... order up! Here's your Molten Menkib\nTan Tan Noodles!",
+            "choice_data_list": [
+                "Oof, my eyes are stinging!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Named after the beautiful star Menkib, this soup\nis so spicy, it shares the star's same pale blue hue."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Please, grant me the power to get through this...\nHere goes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooooosh!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What's this? I'm... running? I'm rounding the\nfourth corner and moving onto the final straight..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Zoooom!</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, it's coming! And a such terrible speed!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "#$&*%@?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's s-s-<i>SPIIIICYYYY!</i>",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ngh... Yesh. Yah. Ah shink... ah'll be... ogay..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ooh, th-that's spicy... It's spicy, but I feel like I've\nlearned something from this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her words, Fine Motion pulls off a\nstaggering performance at training the next day."
+        }
+    ]
+}

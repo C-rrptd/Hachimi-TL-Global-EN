@@ -1,0 +1,219 @@
+{
+    "title": "貴方の夢を受け継いで",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright throws herself into training for the\nSatsuki Sho. However..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll pull ahead right from the start! Raaaaah!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh! Dober?! Ngh..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes, I won! I knew if I kept up the pace, I'd be\nable to block you from catching up!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I ran with all my strength, yet it wasn't enough..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, Trainer?",
+            "choice_data_list": [
+                "You're not used to making the race.",
+                "You're not used to making the race."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Making the race?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A runner ought to know how to set and control\nthe pace of the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Most race makers are front runners or pace\nchasers. They set the tempo from the start,\ncreating an advantage for themselves."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's not an option for those who surge forward\nat the end. If they're not suited to the pace up\nfront, they're in for a lot of trouble."
+        },
+        {
+            "name": "Monologue",
+            "text": "While Mejiro Dober may be capable of setting\nthe pace, Mejiro Bright is the model example of\nthose who can't."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "So, does that mean I should mimic Dober's\ntechnique?",
+            "choice_data_list": [
+                "It's not that simple...",
+                "It's not that simple..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "For the most part, an Umamusume's running style\nis something they're born with. Trying something\nunfitting would be to ignore their natural\nstrengths."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to find a way to make Mejiro Bright\nstronger at what she does best."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Bright'll be running in the Satsuki Sho at\nNakayama, yes? The final stretch there is pretty\nshort..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Her chances are dangerously slim if she continues\nrunning as is, especially if the pace doesn't suit\nher."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's probably best to think of a specific\ncounterstrategy. Unfortunately, I'm at a loss for\nsuggestions.",
+            "choice_data_list": [
+                "Let's invite a more strategic racer to coach us,\nthen."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh? Did you say... coach?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A lot of strategy goes into knowing just when to\ntime a spurt—even in disadvantaged\ncircumstances. There are definitely runners with a\nknack for it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finding that kind of runner to coach Mejiro Bright\nand help her develop a strategy for Nakayama\nmight be what we need."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The perfect timing... even when at a\ndisadvantage..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pardon, Trainer. I have a request, if you don't\nmind."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'd like to learn from someone who's adapted to\ntheir weaknesses, rather than someone who's\ngood at spurts outright."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I don't believe learning tactics will result in me\nbecoming tactical. I'd prefer help from someone\nwho shares the same struggles as me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Someone who struggled like you... I see. I guess\nthat makes sense."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I think you could learn a lot from an experienced\nUmamusume who runs the way you do.",
+            "choice_data_list": [
+                "Okay, then let's do that."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright's casual response turns out to be\nfairly logical."
+        },
+        {
+            "name": "Monologue",
+            "text": "So... an Umamusume who surges during the final\nstretch, has recognized skill, and also struggled\nduring the Classics..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks for calling, Trainer! I'm totally pumped to\ncoach Bright!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "All right, time to get to it, Bright! Let's get swole!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thank you for agreeing to help, Ryan. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright's eyes sparkle. She must be excited\nto be coached by her beloved Mejiro Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Your ears open, Bright? When they say the last\nstretch is short, they're not just talking about\ndistance."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Not being aware of your position can slow your\nspeed. And if you don't push yourself through the\nmiddle, you'll miss the moment to go for the lead."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'll call over some friends and we can do a\nscrimmage! Sound good to you?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Understood, Ryan!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Aaaaaah!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Don't turn so wide at the corners, Bright! You're\nbetter off putting your muscles into finding an\nopening on the inside!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Pant, pant...</i> This is raaather difficult, isn't it?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Got that right! But if you don't master it, you'll\nend up just like I did. I don't want you quitting\nbefore you've made it.",
+            "choice_data_list": [
+                "That's right. Ryan, you..."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yep! I got pounded into the dirt! I wasn't strong\nenough back then, so that was part of it too."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I don't want you going through what I did, Bright.\nSo don't let up your effort!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Understood!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I knew Mejiro Ryan would be the perfect coach.\nShe speaks so frankly about her failure and\nexperiences."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Bright, a Mejiro has never won the Satsuki Sho\nbefore. But..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Don't worry about that! Only worry about running\nwell. At the end of it, make sure to leave\neverything on the track!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I will, Ryan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right—this isn't just Bright's attempt at the\nTriple Crown, but another attempt on behalf of\nthe Mejiro family."
+        },
+        {
+            "name": "Monologue",
+            "text": "This easygoing Umamusume carries the\nexpectations of her family on her shoulders, yet\nshe appears incredibly happy."
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "title": "C'mon, It's a Snowball Fight!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "Let's have a snowball fight, Trainer!",
+            "choice_data_list": [
+                "A snowball fight?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah. To tell you the truth, I'm trying to try lots\nof new things recently!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "The other day, a friend taught me knitting! Oh,\nand yesterday, I made omelet rice!",
+            "choice_data_list": [
+                "That's impressive.",
+                "That's impressive."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yep! Even though my knitting turned out all\ntangled and I burnt my omelet, it was super-duper\nfun!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "So I wanna try a snowball fight next! My friend\nfrom the shopping district invited me to play! It'll\nbe two-on-two, with prizes at stake!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her this eager to challenge herself, I can't\nfind it within me to refuse her.",
+            "choice_data_list": [
+                "Okay, let's do it!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! Let's win it too!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It's completely snowed over! Isn't it pretty?!",
+            "choice_data_list": [
+                "A-aren't you cold wearing that?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll be fine! I'll get nice and warm soon enough!\nPlus, it's easier to move arou—"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, everyone's already here! Hi, guys! I brought\nmy trainer along!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara's eyes meet those of the other\nparticipants. Behind their friendly smiles lies an\nair of fierce competitive spirit."
+        },
+        {
+            "name": "Participant",
+            "text": "Urara, we won't lose to you today! Bring it on!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Okay! We aren't losing either! Right, Trainer?!",
+            "choice_data_list": [
+                "You got that right!"
+            ]
+        },
+        {
+            "name": "Organizer",
+            "text": "The rules are simple! Get hit with snowballs three\ntimes and you're out!"
+        },
+        {
+            "name": "Organizer",
+            "text": "Utilize the snow trenches available and topple\nthe plastic flag in your opponent's field with a\nsnowball! Understood?!",
+            "choice_data_list": [
+                "Let's think of a strategy!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A strategy?! Wow! You sound just like a\ncommander!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I gotta think too! Hmm... Hnnngh..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I think we should make a lotta snowballs! Should\nwe make and throw them together?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Or should we do those separately? What do you\nthink, Commander?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I consider all the ideas she throws my way and put\ntogether a strategy. Soon after, the snowball\nfight begins."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I think we've made enough snowballs. What about\nthe other team?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The team in question launches snowballs in our\ndirection at periodic intervals, as if wary of our\nadvance."
+        },
+        {
+            "name": "Monologue",
+            "text": "But the openings make it possible to avoid their\nprojectiles while invading deep into their\nterritory.",
+            "choice_data_list": [
+                "Time for us to go on the offensive!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Roger! I'll break their ranks, so you protect the\nflag, Commander! And..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "...Cover me please!",
+            "choice_data_list": [
+                "Will you be fine on your own?",
+                "Will you be fine on your own?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yep! Don't worry! It's a competition, so it's no\ndifferent from a race!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll whoosh through and win with a bang! Sit tight\nand cheer for me!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'll make sure our strategy is a success!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Snow scatters into the air after each footstep as\nHaru Urara charges into the enemy's territory with\nseveral snowballs in hand. When she returns..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "We won, we won, we won!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yay! Our strategy was a great success!"
+        },
+        {
+            "name": "Organizer",
+            "text": "Urara, congratulations! You really know how to\nmake a match exciting. Here's your prize!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh wow! It's a snow globe! Look at the snowmen\nand snow rabbits! They're so cute! Yours matches\nmine!",
+            "choice_data_list": [
+                "Maybe I'll decorate my room with this."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, me too! That way, even if it's spring, summer,\nor fall..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I can be reminded of the great fun I had today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Haru Urara in the picture, today's minor\nsnowball fight felt more like a large-scale field\nday. Not even snow can slow her down."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whoa! Who knew they were hiding so many\nsnowballs!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We made it to the semifinals only to fall prey to\nthe hidden stock of snowballs our opponents\nprepared."
+        },
+        {
+            "name": "Organizer",
+            "text": "Good job, Urara! I gotta say, you came really\nclose there. Anyways, here's the runner-up prize!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wow, a bath towel with snowman patterns?! Aww,\nthey're so smiley and adorable!",
+            "choice_data_list": [
+                "Just like you, Urara.",
+                "Just like you, Urara."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! 'Cause I had so much fun!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ooh, I know! Let's have another snowball fight\nnext year too!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "When the time comes, let's think of more\nstrategies than we did today! And then, let's take\nfirst place! Woo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Against the chilly backdrop of snow, Haru Urara\nshows me her trademark sunny smile."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aww, nooo! We lost!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "They were amazing though! I tried zipping past\nthem, but then those three snowballs were like\npow, pow, pow!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "They must have had a number of strategies up\ntheir sleeves too.",
+            "choice_data_list": [
+                "We'll do better next time!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, let's win next time!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, right! I got some snowflake stickers for\nparticipating! I'll share them with you later!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe! This was so much fun, and we even got\nstickers! ...I'm so glad we participated!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara hops and skips atop the snow as if to\nshow everyone her joyous mood."
+        }
+    ]
+}

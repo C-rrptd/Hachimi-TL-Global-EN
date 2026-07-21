@@ -1,0 +1,196 @@
+{
+    "title": "真っ直ぐ届け、この気持ち！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm in town one day when I see Narita Taishin\nholding something that looks like a present."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Creek... I-I... I got this for—no, that doesn't get\nany of my feelings across!",
+            "choice_data_list": [
+                "(Could that be for Creek?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe the sincerity training her friends put her\nthrough the other day has paid off? It looks like\nshe's ready to hand over her gift."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it also looks like she's having a lot of trouble\ntaking that final step..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Crap, she's here..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Sorry for the wait, Taishin! ♪ Thanks for inviting\nme out today! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "So where are we going?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Um... well, we're not really going anywhere... I... I\nactually have a present I need to give—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh! I see! You need my help picking out a present\nfor a friend?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Shoot, now what do I do? I can't figure out when\nto give her the present!)"
+        },
+        {
+            "name": "PA Announcement",
+            "text": "Don't miss out on today's sales! Why not thank\nthe important people in your life with a little\ngift? ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Urk... Yeah, I've gotta do this. Better spit it out\nsoon...)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Taishin, are you okay? I bet there's a lot on your\nmind! Why don't we take a break? ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my! That was scrumptious! What a wonderful\nmeal! ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Dammit, I just can't do it... Why is this so hard?!\nI'm such a dummy!)"
+        },
+        {
+            "name": "Woman",
+            "text": "Here, honey! I got you a present! I tried really\nhard to choose something perfect for you! ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(I chose my gift for Creek carefully too. I wanted\nto choose something that would make her really\nhappy...)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(C'mon, get yourself together, Taishin! You told\nyourself you were gonna give her the gift today!)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Okay. I'm gonna do it. I've gotta—)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehehe."
+        },
+        {
+            "name": "Super Creek",
+            "text": "The person you want to get a present for must\nmean the world to you."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I can tell just from that look on your face. We\n<i>have</i> known each other for a long time, after all."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Ugh, come on! It's now or never. Just be sincere!)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...You're right. She really is important to me. So...\nhere! This is for you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I invited you out today to give you this, but..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I-I actually bought this apron ages ago."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I.. I wanted to give it to you earlier, but I couldn't\nbring myself to do it, and time kept on passing."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But I made up my mind! I told myself I'd be\nsincere with you, so..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Thanks for everything, Creek. Really."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Taishin! Thank you so much!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I can't believe you went to all that trouble for my\nsake! I'm just—I'm so..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ohhh! Biiig hug time! ♪"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wh-whoa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh...</i> Fine. But not too long."
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching from afar, I see Narita Taishin has\nfinally given Super Creek her present. Then, the\nnext day..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Here.",
+            "choice_data_list": [
+                "A present? For me?",
+                "A present? For me?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, well... You helped me during my training,\nand I don't like owing people favors."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hnnngh! Don't treat me like some kid!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From a distance, I see Narita Taishin shoving her\nway through a crowd of people as she makes a\nbeeline for me.",
+            "choice_data_list": [
+                "Did you hand over your gift?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, shut up! Now's not the time for your stupid\nquestions!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's just a little thank-you in return, Taishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I said I don't want anything! It's the thought that\ncounts or whatever!"
+        }
+    ]
+}

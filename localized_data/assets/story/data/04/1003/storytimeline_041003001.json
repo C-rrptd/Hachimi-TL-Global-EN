@@ -1,0 +1,228 @@
+{
+    "title": "無敵のテイオー様！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day before tryouts, and I'm taking an afternoon stroll in a\nnearby park, when suddenly..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wh-whoooa! Move! Move!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing I was unable to react to her in time, Tokai Teio leaps clean\nover my head. Moments later..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whew!\n...Here, your hat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, this little girl's hat had gotten stuck in a tree, and Teio's\nfetched it for her."
+        },
+        {
+            "name": "Girl A",
+            "text": "Whoa! Thanks so much, miss! That jump was super high! You looked\nso cool!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tsk tsk, don't you know my name? I'm the incredible, the invincible\nTeio! ♪"
+        },
+        {
+            "name": "Girl A",
+            "text": "In...vincible? I don't know what that means, but it sounds cool!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehehe! You may shower me with all the praise you want!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, almost forgot. You there! Sorry for the scare."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No brakes on these legs—ended up flying right over you! Oh, you're\nnot hurt or anything, are you?",
+            "choice_data_list": [
+                "I should be asking <i>you,</i> that's quite some air you\ngot. Are your legs fine from the landing?",
+                "I should be asking <i>you,</i> that's quite some air you\ngot. Are your legs fine from the landing?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hah! It'll take more than that to hurt me! See? Not a scratch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That was no short fall, but she really does seem to be just fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's tough, and agile too, if that jump is anything to go by—a natural\nathlete's physique."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Did I scare you? I totally did, didn't I? Hehe. ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, shoot! Almost forgot I was in the middle of a run. See ya later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Tokai Teio runs off, her steps light as a\nbreeze—another testament to her talent."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch from the sidelines at tryouts the following day, she's still at\nthe top of my mind."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Spectators",
+            "text": "That's it, Teio!\nKeep it up!"
+        },
+        {
+            "name": "Caster",
+            "text": "And coming up from behind is Tokai Teio, gunning for the lead with a\nspring in her step!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. First place is mine!"
+        },
+        {
+            "name": "Caster",
+            "text": "Tokai Teio pulling farther and farther ahead! She's not slowing down,\nshe's leaving everyone else in the dust!"
+        },
+        {
+            "name": "Caster",
+            "text": "And across the line with four lengths over second place! Today's\ntryout triumph goes to Tokai Teio! What an overwhelming display of\nstrength!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Phew! Heeey! What'd you all think of my race?"
+        },
+        {
+            "name": "Fan A",
+            "text": "You were the best, Teio!"
+        },
+        {
+            "name": "Fan B",
+            "text": "You were so cool!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, thank youuu! But, just another day for me!",
+            "choice_data_list": [
+                "Incredible performance out there!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? You... Ah! You were the one at the park yesterday! Wait, but\nwhat are you doing here?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, I get it! You're a trainer! You've even got the badge and\neverything!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So if you're talking to me... does that mean you're here to scout me?",
+            "choice_data_list": [
+                "I'd love to be your trainer!",
+                "I'd love to be your trainer!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe. Ohhh, I don't know... See, I've been approached by a <i>lot</i> of\ntrainers, even before tryouts."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Ah! There you are, Tokai Teio! Your performance was simply\nincredible! You <i>have</i> to let me scout you!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Teio, let's work together! With me, you won't just be a G1 champion,\nyou'll be a Triple Crown Champion!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wh-whoa, and now there's more! Nnngh, so many trainers want me,\nit's impossible to choose!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But, well, since I'll be the one doing the actual running, maybe it\ndoesn't even matter who my trainer is."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, whoever beats me in rock paper scissors gets to scout me!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Come now, Teio—the bond between trainer and runner should not be\ntaken so lightly."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahh, it's Prez! Prez is here!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You came to watch my tryouts! Well? Well? What did you think?! I\ncame first again!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, yes, I saw with my own two eyes. You ran an excellent race, as\nalways."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Woohoo! Hehe. A compliment from Prez! ♪ Hey hey, did you all hear\nthat?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Huh? Y-yes, but never mind that now—I'm here to talk about scouting."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "\"Never mind\"?! What do you mean, \"never mind\"? Do you have <i>any</i>\nidea how great Prez is?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She's not just the student council president, she's the fastest and\nstrongest and <i>coolest</i> racer ever, <i>and</i> she's also my biggest role\nmodel!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "One day, I'm gonna be just like her, then she'll be giving me\ncompliments all day long!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sooo, if you're serious about scouting me, then first you'd better learn\nall about how great she is!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Starting with, let's see... Have you seen her debut race? No way you\nhaven't, right? Oh my gosh, the way she rounded that first corner!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio proceeds to regale the hopeful trainers with tales of her beloved\nstudent council president's heroics."
+        },
+        {
+            "name": "Monologue",
+            "text": "Needless to say, there was no time to talk about scouting."
+        }
+    ]
+}

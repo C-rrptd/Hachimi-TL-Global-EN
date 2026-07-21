@@ -1,0 +1,162 @@
+{
+    "title": "人情ラプソディ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "Hmm? What's that gesture mean? You cold?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, got it! Hot springs! You wanna try a\nJapanese-style bath, yeah?!"
+        },
+        {
+            "name": "Foreigner",
+            "text": "[Foreign Language]"
+        },
+        {
+            "name": "Monologue",
+            "text": "On a busy street, I catch sight of Tamamo Cross\nand Oguri Cap attempting to communicate with a\ntourist from overseas."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No dice... I can't understand a thing, 'sides that\nhe's stressed out."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "He looks to be in a hurry. Do you think it's\nsomething urgent?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Rather, don'tcha think he's gettin' kinda pale?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rumble...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's it! He's hungry!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nah! He's lookin' for the toilet!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Which makes this an emergency! Hey, you\nthere—come help out!",
+            "choice_data_list": [
+                "O-okay!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, mister! Follow me!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The closest toilet is over at the park!",
+            "choice_data_list": [
+                "Excuse me, make way!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Comin' through! Thanks for yer cooperation!"
+        },
+        {
+            "name": "Foreigner",
+            "text": "[Foreign Language]"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ahaha! He left lookin' a lot happier, huh?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "He must have been thanking us. It's a good thing\nwe avoided disaster."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Still, I'm surprised you recognized he needed the\ntoilet."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I was as lost as you were at the start, but when his\ntummy rumbled and he went pale, it clicked!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Plus, since I've always got you around, I know\nwhat \"hungry\" looks like—and that wasn't it!",
+            "choice_data_list": [
+                "You never hesitate to help others, huh?",
+                "You're very kind.",
+                "You're very kind."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Plus, since I've always got you around, I know\nwhat \"hungry\" looks like—an' he wasn't it!",
+            "choice_data_list": [
+                "You never hesitate to help others, huh?",
+                "You're very kind.",
+                "You're very kind."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C-c'mon! I'm just tryin' to get on the director's\ngood side!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're getting embarrassed."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri! You promised to stop pointin' that out!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm? I don't remember making that promise."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You <i>promise</i> promised!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah, whatever. Nothin' wrong with bein' friendly,\nyeah?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And if language gets in the way, I'll use vibes!\nThat's just how I roll!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Th-thanks! Y'know, it's kinda embarrassin' to be\ntold so straight!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right, she's very kind. She never hesitates\nto recommend the best places for Kansai cuisine\nor even just spots where you can eat til you drop!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Why're your examples all 'bout food?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That you, Oguri? Gettin' hungry, huh?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All this talk about food makes me want to go to\none of those eat-till-you-drop places again..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Then let's grab a bite! Lunch never tastes better\nthan it does after doin' a good deed!"
+        }
+    ]
+}

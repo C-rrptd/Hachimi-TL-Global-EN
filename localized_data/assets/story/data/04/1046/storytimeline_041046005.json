@@ -1,0 +1,171 @@
+{
+    "title": "イチバンcheer UP↑↑",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Smart Falcon",
+            "text": "Heeeey, Trainer! Listen to this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm making my rounds throughout the academy, I spot\nSmart Falcon running my way with a huge grin on her face."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm gonna be cheerleading at the next Tracen Meet! ☆",
+            "choice_data_list": [
+                "You mean <i>the</i> Tracen Meet?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Held twice a year at Tracen Academy, the Tracen Meet is a race that\nnever fails to attract a crowd. It's one of the institution's largest\nevents."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yep! The one and only! There's gonna be sooo many people coming\nto watch!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I wonder if I can make all those people my fans if I dance for them!\nEhehe! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that evening, I run into her a second time, but her energy is\ndrastically different."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Go, go. You can do it.\nLet's go. Do it, do it...",
+            "choice_data_list": [
+                "(Did something happen?)",
+                "(Did something happen?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm about to call out to her when I notice her talk to another\nUmamusume."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Sigh...</i> I really wanted to dance, y'know?"
+        },
+        {
+            "name": "Dirt-Racing Umamusume",
+            "text": "Yeah... Why'd they put us on flag duty anyway?"
+        },
+        {
+            "name": "Dirt-Racing Umamusume",
+            "text": "\"You should do dirt racing!\" this. \"You're really good at twirling a\nflag!\" that. It's like we never get a say in what we do. Nobody's ever\ngonna notice us at this rate..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears the two have been assigned to flag duty instead of the\nmain cheerleading roles.",
+            "choice_data_list": [
+                "(How should I approach them?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As I try to come up with something positive to say..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, it is what it is, so we might as well make the most of it and do\nour best! C'mon, let's get back to practice!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So we hold it like this... and spin it like that! Then we do this, and...\nvoila! Easy as pie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Their flags flutter in the evening sky. As I watch the two flag-bearers\nhandle the heavy poles with ease, I begin to understand why they\nwere assigned that role."
+        },
+        {
+            "name": "Monologue",
+            "text": "With their practice now complete, Smart Falcon's partner takes her\nleave, leaving me free to approach the now-alone Umamusume."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Phew...</i> That took way more energy than I thought it would... I'm\ntotally exhausted!",
+            "choice_data_list": [
+                "You twirled that flag like a champ.",
+                "You twirled that flag like a champ."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Whoa, Trainer! When did you get here?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Sigh...</i> I really did want to show off my cute dance moves instead of...\nthis.",
+            "choice_data_list": [
+                "Flag-bearers are important too."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I guess that's true... Maybe I'll still be able to wow people like this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon remains a bit doubtful, but the day of the Tracen Meet\narrives regardless."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Go! Go! You can do it!\nLet's go! Do it! Do it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon twirls her flag next to the breathtaking dancers, waiting\nfor her time in the spotlight. When it's finally her turn, she moves to\nthe center and seizes the opportunity."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Go! Go! YOU CAN DO IT!\nLet's go! Do it! DO IT!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Wow! Look at her with the flag! She's amazing!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah! The way she handles that thing... I've never seen someone so in\nsync with their flag!",
+            "choice_data_list": [
+                "(That's it! You're doing it!)",
+                "(That's it! You're doing it!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "...Or so I thought."
+        },
+        {
+            "name": "Fan B",
+            "text": "Man, these cheerleaders are crazy good! Are you seeing this?! Tell me\nwho else could pull off a pyramid like that!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Wow, you're right! And look at their beautiful smiles! They're so cool\nand cute that I can't take my eyes off them! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Sigh...</i> \"The flag-bearers were great, but the cheerleaders were the\nstars of the show!\" is all I keep hearing..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I knew I couldn't compete with them...",
+            "choice_data_list": [
+                "You did your best, and that's what matters!",
+                "You did your best, and that's what matters!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But they probably won't remember who I am! Maybe they'll be able to\nrecall the flag's pattern, but not who waved it..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some results take time and effort to attain, and becoming a top\nUmadol might be one of them."
+        }
+    ]
+}

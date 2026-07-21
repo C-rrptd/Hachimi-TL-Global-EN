@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Symboli\nRudolf..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Look there, Trainer. Do you see that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She points towards a claw machine. The prizes\nseem to be plushies shaped like Umamusume."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What a marvelous variety of designs. Rather\ncharming, wouldn't you agree?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They would look perfect in the student council\noffice... Hmmm, what to do..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf falls silent as she stares at the\nplushies.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm rather unused to these amusement centers.\nTruth be told, I've never played a claw machine\nbefore.",
+            "choice_data_list": [
+                "Want me to do it?",
+                "Want me to do it?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Part of leading is choosing the right person for\nthe job. I would be a fool to refuse."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I eagerly await your success, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

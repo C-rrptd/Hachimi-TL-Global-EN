@@ -1,0 +1,201 @@
+{
+    "title": "Sweepy and the Magical Journey",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Siiigh...</i> It's kinda boring just going home. I\nwonder if there's something fun we could do.",
+            "choice_data_list": [
+                "Hm... Something fun..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Actually, ever since I saw how much fun she had\nat the zoo, I've been looking into other places\nthat she might enjoy. This might be the perfect\nopportunity to try!",
+            "choice_data_list": [
+                "I'll take you somewhere fun!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You seem awfully sure of yourself. Is it really that\nfun?",
+            "choice_data_list": [
+                "I have a careful selection of magical locations!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh yeah? If you're really that confident, let's see\nwhat you got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "First, I take her to a place where a\nsword-and-sorcery fantasy movie was shot.\nHowever..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I thought you said we were going somewhere\nwhere there was a great magical battle?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Woosh...</i>",
+            "choice_data_list": [
+                "(It's just a commemorative sign?!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Are you suuuure people used magic here? It's\npretty weird there aren't any traces of magic at\nall!",
+            "choice_data_list": [
+                "W-well, next is a place we can see magic!"
+            ]
+        },
+        {
+            "name": "Wandering Magician",
+            "text": "Abracadabra!\nGoodbye, sesame!"
+        },
+        {
+            "name": "Wandering Magician",
+            "text": "And there you have it! The card the young lady\nchose has disappeared! Isn't that incredible?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What the heck? You call that magic? You just\nmade a card disappear is all!"
+        },
+        {
+            "name": "Wandering Magician",
+            "text": "Huh?! H-how is that not surprising?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Grandma can do way more amazing magic than\nthat! You're nothing more than a novice!",
+            "choice_data_list": [
+                "N-next place!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh! Now this place has some atmosphere! ♪ Is\nthis some kind of ritual?"
+        },
+        {
+            "name": "Man Dressed as Monk",
+            "text": "Rin, Pyo, To, Sha, Kai, Jin, Retsu, Zai, Zen...\nKYAAAAAH!"
+        },
+        {
+            "name": "Man Dressed as Monk",
+            "text": "Join us, you two. None who wish to partake in the\nesteemed Miracle ☆ Training Experience... shall...\nes...cape..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "H-hey... Is it just me, or are they inching toward\nus? Something's really weird here!",
+            "choice_data_list": [
+                "S-sorry! Maybe another time!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Every single place was vastly different from what I\nhad imagined. I thought it would be okay as long\nas there was some connection to magic, but I\nshould have looked into everything more."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, Familiar. Was that it?",
+            "choice_data_list": [
+                "<i>Gulp!</i>"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You look like you just saw a ghost.\nAha... That must mean..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Come on, Familiar! This is toootally\nunacceptable! You haven't trained enough! Get it\ntogether!",
+            "choice_data_list": [
+                "Sorry! Next time will def—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Here, drink this!",
+            "choice_data_list": [
+                "Wh-what is it?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This is the perfect tea for someone like you who's\nstill short on training! It's super gross!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It'll make you sweat until you're about to pass\nout! Come on, hurry up and drink it!",
+            "choice_data_list": [
+                "H-hold on a second!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho creeps closer and closer. Then,\nbefore I can react, she grabs hold of me and\nforces her mystery tea down my throat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A chill races through my whole body! An\nunbearable bitterness takes hold of my mouth,\nand my strength fails..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, you're awake! Haha! ♪ You should've seen\nthe look on your face!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So how do you feel? What was it like to pass out?\nWas it so gross you're still speechless?",
+            "choice_data_list": [
+                "I can speak. It's just..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My body feels shockingly light. It's as if all the\nexhaustion I've accumulated over the day has\nbeen swept away. This tea must have come from..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That was a super special medicine that Grandma\ntaught me to make! It looks like it might've been\na bit too strong for you, though."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But at least you can move again! We can dive\nback into work tomorrow!",
+            "choice_data_list": [
+                "The taste was actually traumatic...",
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wow! You're really complaining about the taste?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I know some medicine that's waaay more bitter\nthan that! And way more effective too! Maybe I\nshould make that one for you next time.",
+            "choice_data_list": [
+                "Th-this one was plenty!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! ♪ Well, there's plenty more where that\ncame from, so you can rest easy! Now be a good\nfamiliar, and work yourself ragged for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The smile on her face as she concerns herself with\nmy health makes me want to make the next time\nas fun as possible."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! Of course! It's my job to look after my\nfamiliars, after all."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Still, I can acknowledge your gratitude for having\nsuch a kind master! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her kindness as she concerns herself with my\nhealth makes me want to make the next time as\nfun as possible."
+        }
+    ]
+}

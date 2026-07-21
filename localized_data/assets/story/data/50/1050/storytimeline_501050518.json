@@ -1,0 +1,42 @@
+{
+    "title": "気合いで完食。でも……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "Can I get the B combo with a salad as the side?"
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "Uh-oh, I'm sorry! Looks like we only have the A\ncombo left, dearie."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What? That's the deep-fried stuff, isn't it? In that\ncase..."
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "And the only side left is the bucket of fries... But\nyou're a growing girl, so you should eat up!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oof.",
+            "choice_data_list": [
+                "You all right?",
+                "You all right?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Don't ask."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin doesn't look very well..."
+        }
+    ]
+}

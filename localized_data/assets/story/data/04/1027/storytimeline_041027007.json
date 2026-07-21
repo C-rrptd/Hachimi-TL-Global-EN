@@ -1,0 +1,256 @@
+{
+    "title": "大筋群を信じて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One morning during Tracen's summer camp, I notice Mejiro Ryan\nwalking toward me, stretching her arms."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Morning, Trainer! Looking forward to another great workout!",
+            "choice_data_list": [
+                "Energetic as always, I see.",
+                "Energetic as always, I see."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh yeah, my engines are rearing to go! Your training might have\nsomething to do with that. Ah, right, the morning meeting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One after the other, trainees congregate in the lobby of the camp\ndorm. The head trainer then steps forward."
+        },
+        {
+            "name": "Head Trainer",
+            "text": "We've reached the halfway point of the summer camp, and I'm sure\nyou're starting to feel the effects of your training. No doubt you want\nto test out your new skills."
+        },
+        {
+            "name": "Head Trainer",
+            "text": "Which is why we're holding scrimmages on the last day of the camp! If\nyou're interested, let your trainers know, and they will apply in your\nstead!"
+        },
+        {
+            "name": "Head Trainer",
+            "text": "At the moment, we already have one participant... Oguri Cap!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wait, you're telling me I could race against Oguri?!",
+            "choice_data_list": [
+                "Are you interested?",
+                "Are you interested?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, I've had my eyes on Oguri ever since she transferred to this\nschool."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "She doesn't have a fancy family name supporting her. She gets by on\npure talent... She's the real deal."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer... can you sign me up for the scrimmages? I want to race\nOguri.",
+            "choice_data_list": [
+                "Consider it done!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks! I'll show her everything I've got!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Speaking of which... we better come up with a workout routine if we\nwanna beat Oguri!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oguri's acceleration at the end of the race is her secret weapon. She's\na late surger, just like me."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But is it a good idea to stick to the same strategy here?",
+            "choice_data_list": [
+                "Hmmm... Good question...",
+                "Hmmm... Good question..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Two strategies immediately come to mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "We could refine our current strategy and face Oguri Cap head-on.\nOr... we could surprise her with a pace chaser strategy and try to get\nahead of her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I relay these options to Mejiro Ryan and tell her the choice is hers.\nAfter pondering for a while, she raises her head."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I want to try the pace chaser strategy!",
+            "choice_data_list": [
+                "That's a surprise.",
+                "That's a surprise."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah. Normally, I'd want to face her head-on—make it a battle of the\nsurgers. But I want to expand my horizons and try something new!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes are full of conviction—even more so than usual. I can easily\ntell how badly she wants to win this.",
+            "choice_data_list": [
+                "All right, then pace chaser training it is!",
+                "All right, then pace chaser training it is!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, let's do this!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Since our strategy requires keeping a steady pace over a long period,\nwe need to work on my stamina!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A teensy bit of stamina training ain't gonna take me down! Come on,\nmuscles, lemme hear you cry out! Your pain, my gain!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Huff, puff... Wheeze...</i>",
+            "choice_data_list": [
+                "All right, let's take a break."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Got it! Thanks!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "We don't have much time, but we should be—huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, a sudden gust of wind hits the two of us. In that moment, I\nsee a white blur out of the corner of my eye..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wait... Was that Oguri?!",
+            "choice_data_list": [
+                "Oguri Cap?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, I'm sure of it! I'd never miss that silvery hair of hers! That\nsprint... She must be training like crazy too."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Good. I wouldn't wanna fight Oguri if she wasn't gonna give it her\nall."
+        },
+        {
+            "name": "Monologue",
+            "text": "Moved by Oguri Cap's determination, Mejiro Ryan softly smiles. As I\nstand by her side, I notice a few trainees gossiping behind us."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey... Was that Oguri? I thought she was in a slump..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Yeah, I bet that's why she's training so hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "A slump... Sounds like the pace chaser strategy was the right choice.\nWe can definitely catch her off guard at this rate."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...",
+            "choice_data_list": [
+                "Ryan? What's up?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It was just for a moment, but I caught a glimpse of Oguri's face when\nshe ran by. She looked so determined. No way could you call that a\nslump."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "When you're prepping for a big race, you've gotta believe you can do\nit. Otherwise, there's no way you could run like that."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Believing in yourself... In that case..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the scrimmage arrives, and from what I can tell, Oguri Cap\nis in tip-top shape, just like Mejiro Ryan predicted."
+        },
+        {
+            "name": "Head Trainer",
+            "text": "All right, racers, get into position. Ready, set... go!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oguri, I've always looked up to you, but now... I'm gonna surpass you!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oguri's in a great position! Ah, but so is Ryan! Ohhh... I can't wait to\nsee the final dash for the finish line!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "This is me... This is how <i>Mejiro Ryan</i> runs!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Oguri's pulled ahead, but Ryan's not far behind! They're doing it!\nThey're facing each other head-on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They're neck and neck! Who will win?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hehe... Rats. Thought I had her there, but she beat me good."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry for changing our strategy midway through... Seeing Oguri take\nher training so seriously made me want to take her on as a surger.",
+            "choice_data_list": [
+                "Well, did you have fun?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You bet! That race was so intense! If I had just been a liiiittle bit\nfaster, I bet I could've won!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm disappointed, sure, but I'm not sad at all. If anything, I'm proud of\nmyself for doing things my way!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I want to get stronger—strong enough that I won't lose to Oguri Cap\nor Mejiro McQueen ever again!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Trainer... Will you... help me get there?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan shows me the brightest smile I've ever seen. In that\nmoment, my conviction to make her dreams come true grows even\nstronger."
+        }
+    ]
+}

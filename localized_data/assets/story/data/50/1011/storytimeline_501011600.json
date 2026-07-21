@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Grass Wonder",
+            "text": "Ah, the moment is almost upon us. Hehe, I can't\nwait to see how this race will turn out.",
+            "choice_data_list": [
+                "You sound sure of yourself.",
+                "You sound sure of yourself."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. I always aim to keep my usual composure.\nFretting won't lead to good results."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Though I hope you won't take that to mean that\nI'm lacking drive."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The drive that propels me isn't meant to be seen.\nIt stays hidden, a quiet flame in my heart."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm fully prepared. All that remains is to calmly go\nout there and win. ♪"
+        }
+    ]
+}

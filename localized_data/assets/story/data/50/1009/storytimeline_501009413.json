@@ -1,0 +1,26 @@
+{
+    "title": "アイツの存在",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Their argument has a lasting effect on Daiwa\nScarlet, whose performance on the track begins\nto slump."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her running reflects the anxiety in her heart.\nSeeing her condition, I decide to...",
+            "choice_data_list": [
+                "Enter her in the Japanese Oaks.",
+                "Enter her in the Japanese Derby."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to stick to the path Daiwa Scarlet has\nchosen and prepare for the Japanese Oaks,\naiming for a conquest of the Tiara tour."
+        },
+        {
+            "name": "Monologue",
+            "text": "I prepare to enter her in the Japanese Derby,\nwhere she will face off against Vodka."
+        }
+    ]
+}

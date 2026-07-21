@@ -1,0 +1,245 @@
+{
+    "title": "てか爆逃げっしょ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "\"I've got to talk to you about something.\" It's been a while since\nPalmer's confided in me, and she looks tense. After a bit of silence..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "S-so hey! I was thinkin' that I really do want to try running free... In my\nown kinda way, ya know?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Like I did at those freestyle races... No, actually, I wanna go beyond\nthat! I just wanna blast off, right out of the gates! Like... That's what's\nmost fun for me... I think!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I wanna give it a try, at least. That's the only way I believe I can\ncompete. If I'm running and having fun, then somehow..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Um... So whaddya think, Trainer? Haha, gonna say it's too risky, right?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, like, it's a pretty big gamble as far as strategies go. I'll\nprobably get myself all tuckered out before the finish and make a\nmajor fool out of myself..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I get it... You can't be having a Mejiro under your wing run like that..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She begins to trail off. I feel her resolve, however, and ask her\nsomething in return.",
+            "choice_data_list": [
+                "You want everyone far and wide to know your\nname, right?",
+                "You want everyone far and wide to know your\nname, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh? Oh, yeah. That's right.",
+            "choice_data_list": [
+                "Do you want them to know you as a Mejiro?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!",
+            "choice_data_list": [
+                "Or do you want them to know you as \"Mejiro\nPalmer\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah..."
+        },
+        {
+            "name": "Freestyle Umamusume",
+            "text": "Paaal-mer! Paaal-mer! Paaal-mer! Paaal-mer!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Right. That's right! I wanna...)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "We gotta aim for front-running dominance! Can you arrange my\nregimen and scrimmages for that?",
+            "choice_data_list": [
+                "Leave it to me!",
+                "Leave it to me!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We turn a new page on our training regimen from this moment\nforward. We're going to focus on developing her front running skills."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff... huff... huff...</i> How's this for a start? Does this look okay?",
+            "choice_data_list": [
+                "Run even more like you've never run before!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "...!\nLike never before... Even more..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(So I've gotta really run... Wait, maybe that's not enough?! No, it's\nnot... I need to do more... That's right!)"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "\"Raisin' the roof, bringin' down the house, all while having a blast!\""
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I've gotta run like I wanna bring the place down! Haaa!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff... huff... </i> Shoot, my breath... Oof! I can't!",
+            "choice_data_list": [
+                "Are you okay? You were running amazingly!",
+                "Are you okay? You were running amazingly!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Phew... <i>Huff...</i> Yeah..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I reeeally brought the place down, yeah?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, the day of the scrimmage..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wh-wh-wh-whahey! ☆ Get that W, Palmster!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You know it, fam! Lesgooo! I'm boutta slay this race for real! Let's get\nit!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "W-well she seems to be in good spirits. Haha, I guess she's doing\nokay. Didn't she lose in a big way just the other day, though?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Yeah, when she ran with Mejiro Ryan, I think? I've got my eyes on\nsomeone else today, tho—"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hehe, seems like everyone's underestimating me again. Good, I'm\ngettin' more fired up by the second!",
+            "choice_data_list": [
+                "You show 'em!",
+                "You show 'em!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You bet! Here goes nothin'!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ryan, why don't we seek a better vantage point? Something is\ndifferent about Palmer today. I can feel it."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "McQueen! Yeah, I think you're right. I was about to suggest the same!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-chak!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hraaagh!"
+        },
+        {
+            "name": "Runner A",
+            "text": "Wait, what?! Sh-she's so fast!"
+        },
+        {
+            "name": "Runner B",
+            "text": "Uh, isn't that like <i>way</i> too fast?! They just started!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff... huff... huff...</i>\nHahahahaha!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(Run away, run away, run away! From common sense, from the Mejiro\nname! From my own messed up way of thinking, just gotta run run run!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "(All I gotta do is have a blast! I can do this—I <i>will</i> be true to myself!)"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Woooo!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "You're... kidding. She actually won running like that?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Practically no one runs like that!"
+        },
+        {
+            "name": "Trainers",
+            "text": "So this is... Mejiro Palmer!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Amazing. Just amazing! Palmer's running is unlike anyone's in the\nentire Mejiro family!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In other words, a running style that she can call her own. It seems that\nnone of us can afford to underestimate it."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Paaalmeeer! Yikes, what the HECK, girl? That was like so freakin',\nfreakin'..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "LIT! You brought this place down, for sure! Palmster, you absolutely\nslayed!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahahaha! Thanks, Helios. You absolutely slay too, my sunshine."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And thanks, Trainer, for giving me that push I needed. And from here\non I just gotta keep..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Raisin' the roof and stuff! Waheeey!",
+            "choice_data_list": [
+                "Waheeey!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pledge not to rest until the name \"Mejiro Palmer\" is indeed one that\nwill never be forgotten by time."
+        }
+    ]
+}

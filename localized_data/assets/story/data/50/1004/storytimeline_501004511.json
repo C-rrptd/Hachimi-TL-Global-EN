@@ -1,0 +1,211 @@
+{
+    "title": "ヘイカノジョ、遊びましょ♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while stopping by the shopping center..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, Tazuna, what do you think?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Um, well, I appreciate the invitation...",
+            "choice_data_list": [
+                "What are you two up to?",
+                "What are you two up to?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, Trainer! Good timing!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, Trainer! Good timing!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Can you please help me entice Tazuna?",
+            "choice_data_list": [
+                "Entice?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! We ran into each other just as she was\nfinishing an errand for the director."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So I thought we could hang out together and\nchillax! But she isn't playing along..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The director is waiting for me. I have to go back\nsoon."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You're always so serious! Let your hair down every\nonce in a while!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Maruzensky and Tazuna get along quite\nwell, despite their relationship as student and\ndirector's assistant."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You've been working nonstop lately. Everyone is\nworried about you!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Even so..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C'mon, use that newfangled phone of yours to\ncall the director up real quick! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Just repeat after me, \"I shall return posthaste\nafter enjoying a lemonade at a cafe with\nMaruzensky!\" ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "A lemonade at a cafe... does sound rather\nwonderful...",
+            "choice_data_list": [
+                "(It's actually working.)"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer, don't you think she should have a\nlittle fun?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Trainer, don't you think she should have a\nlittle fun?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky comes on strong, but her heart is in\nthe right place. However, I also know that Tazuna\nis very serious about her work...",
+            "choice_data_list": [
+                "We could take a leisurely stroll back to the\nacademy.",
+                "I think it's okay to have a little fun sometimes."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, that's an interesting idea. Any particular\nreason?",
+            "choice_data_list": [
+                "A friendly chat can be pretty refreshing, don't\nyou think?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That's true... Chatting with friends can put some\npep in your step."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well said, Trainer! Let's make our way back, then."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, you say that like your bacon just got saved!\nRude..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe... I know you're just worried about me,\nMaruzen. And I do appreciate the concern."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Eh, it's no biggie. Anyway, enough of the boring\nchitchat..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer! Wait until you hear this juicy secret about\nTazuna! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer! Wait until you hear this juicy secret about\nTazuna! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What?! What are you talking about?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "The other day, I went to her room unannounced,\nand when I opened that creaky closet of hers—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "MARUZENSKY!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ehehe, only joshing ya! Let's head back! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We don't end up discussing any secrets, but I get\na glimpse of just how close the two of them are as\nwe walk home."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "See! It's agreed!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "See! It's agreed!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Why resist the inevitable? Have some fun with\nme!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, very well. Only for ten minutes, okay?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yaaay! You're mine now, Tazuna! ☆"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Of course, your attendance will also be required,\nTrainer!",
+            "choice_data_list": [
+                "I had a feeling you'd say that.",
+                "I had a feeling you'd say that."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Of course, your attendance will also be required,\nTrainer!",
+            "choice_data_list": [
+                "I had a feeling you'd say that.",
+                "I had a feeling you'd say that."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, you saw that coming, did you? You know me\ntoo well! ☆"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, you saw that coming, did you? You know me\ntoo well! ☆"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right, let's start with a little shopping! And\naway we gooo! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! Wait for us!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe... As spirited as ever."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us end up walking around the mall.\nAlthough it's a little exhausting, it's also a nice\nbreak."
+        }
+    ]
+}

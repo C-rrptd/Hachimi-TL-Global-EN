@@ -1,0 +1,198 @@
+{
+    "title": "パジャマ姿の姫君",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O and I are on our way back to the\nacademy when..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh? And who might you be?"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "Um... Uh... I...",
+            "choice_data_list": [
+                "(A child in pajamas? Alone out here?)"
+            ]
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I-I really wanted to meet you, Opera O, but...\nbut... <i>Sniffle... sob...</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah-ha, no need for tears. While they do glisten\nlike beautiful pearls, a smile suits you so much\nbetter.",
+            "choice_data_list": [
+                "Are her parents around?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hmm... She appears to be lost."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "<i>H-hic...</i> O-Op... Um, Opera O... <i>Sniffle!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "We'll need to calm her down first before we can\nhelp her."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I am honored to meet you, Princess! Should you\nhave no prior engagement..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Might I, the Overlord, be of service to you as\nyour escort?"
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O holds out her hand, and the girl\nstops crying as she timidly takes it. We should\ntake her to the police station first."
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O agrees, but just as we turn to go..."
+        },
+        {
+            "name": "Nurse",
+            "text": "Ah, there you are! I'm so sorry for the trouble!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh... You are a nurse, I take it? Do you know this\nlittle one?"
+        },
+        {
+            "name": "Nurse",
+            "text": "Y-yes... She's a patient at the—wait... Aren't you\nT.M. Opera O?!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh? I see you know me. Well, of course you\nwould have knowledge of my name!"
+        },
+        {
+            "name": "Nurse",
+            "text": "That girl is a fan of yours... and it seems she snuck\noff after finding out Tracen Academy was nearby."
+        },
+        {
+            "name": "Nurse",
+            "text": "You can't do that, understand? We were all so\nworried about you."
+        },
+        {
+            "name": "Girl in Pajamas",
+            "text": "I... I-I... um... S-sorry... <i>Hic!</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I ask that you please excuse her just this once! My\ncaptivating beauty is to blame."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "As an apology, I offer you a collectible\nphotograph of myself—no! Ten copies of my film,\n<i>24 Hours with You: An Opera Anthology</i> for you\nand every person at the hospital as well!"
+        },
+        {
+            "name": "Nurse",
+            "text": "Oh, um... That's very nice of you, but, well...\nAnyways, thank you for looking after her!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Sigh...</i> Sneaking out of a hospital all just to meet\nme."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "How corruptible it is, this beauty of mine!",
+            "choice_data_list": [
+                "She was crying, too.",
+                "She was crying, too."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, from the joy of meeting me, and from\nreflecting on the hardship of her solitary journey."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Cars and signage abound in this place. Many a\nthing must appear a giant monstrosity to a child\nof her age."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "But she overcame her fears all for the sake of\nseeing me with her own eyes."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Relief, joy, and a sense of accomplishment surely\nenveloped her upon arrival... That is to say, those\ntears were proof of her courage."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ahh! Such an admirable soul! I must open my\nheart to such purity!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Opera O comprehends the entire well of emotion\nbehind the girl's tears."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "However! Sneaking away from a hospital is an act\nfar too dangerous!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I must offer a gift that will both ease her heart\nand curb those impulses.",
+            "choice_data_list": [
+                "How about you inspire her with your efforts?",
+                "How about a small present?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "...Indeed, that would be best."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "We must begin training right away, Trainer!",
+            "choice_data_list": [
+                "Absolutely!",
+                "Absolutely!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I will create a short, two-hour piece which can be\nperformed within visitation hours. With me in the\nstarring role, it shall be an excellent opera!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to convince her that, instead of an\nopera, her brilliance on the racetrack would be a\nbetter gift."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "An excellent idea!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Then what are we waiting for? There are\npreparations to be made, Trainer!",
+            "choice_data_list": [
+                "Preparations?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "For the photographs, of course! Her album of me\nwill not fill itself!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Me during twilight, me under starlight... Ah yes,\nand me at dawn!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, T.M. Opera O adamantly insists that I\nhelp with taking her photos."
+        }
+    ]
+}

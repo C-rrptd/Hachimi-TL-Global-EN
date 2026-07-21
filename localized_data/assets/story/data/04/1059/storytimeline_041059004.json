@@ -1,0 +1,315 @@
+{
+    "title": "それでも、ファイター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some time later, I hear a knock on the door of the training staff\noffice."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...",
+            "choice_data_list": [
+                "I'm very glad to see you, Dober.",
+                "Of course I am, Dober."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, is what you said before still true? Are you still willing to support\nme?",
+            "choice_data_list": [
+                "I'm very glad to see you, Dober.",
+                "Of course I am, Dober."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I-it's nothing too deep. I just want to win. I need to do this..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you so much. Then, well..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So please. Can you help me win?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If you don't mind... Please help me win."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "This next scrimmage is my last chance to offer up a win to Trainer.",
+            "choice_data_list": [
+                "We'll win it—together."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Okay."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus begins a fair few days of intense training."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus begins a fair few days of intense training."
+        },
+        {
+            "name": "Monologue",
+            "text": "She certainly has what it takes to be an excellent runner, and her\nimprovement day-to-day is tangible. Some worries linger, however.",
+            "choice_data_list": [
+                "That was a great time, Dober.",
+                "That was a great time, Dober."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh? But still..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you. I felt like that was one of my best too. But still..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm worried about not being able to replicate these kinds of results in\nfront of a crowd."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm worried about not being able to replicate these kinds of results in\nfront of a crowd."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm going to go for another. Please time me again."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having shared her thoughts, she takes off once again. It seems like\nmental roadblocks are quite deep-rooted.",
+            "choice_data_list": [
+                "If only I could do something... anything...."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her continue to give it her all, a thought occurs to me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even before I took over main training duties, I've noticed one thing\nabout the way she runs down the track.",
+            "choice_data_list": [
+                "(She never really looks at the stands, does\nshe?)"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, no, but isn't that normal? When I'm running, I just want to focus\non the track.",
+            "choice_data_list": [
+                "You may be making too much of an effort to\nnot look at them."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps thinking too much about not looking at the stands is causing\na break in her overall concentration."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Th-that's...",
+            "choice_data_list": [
+                "Let's try something out before the scrimmage.",
+                "Let's try something out before the scrimmage."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What... do you want to try?",
+            "choice_data_list": [
+                "Even if it's just for a second, why don't you try\nlooking towards the spectators?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! I-I can't do that... I'm just so—",
+            "choice_data_list": [
+                "I'll be right there, cheering you on.",
+                "I'll be right there, cheering you on."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "B-but!",
+            "choice_data_list": [
+                "I'll be cheering on a runner I have complete\nfaith in."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the scrimmage race finally arrives."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my! Just look at all these people!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "It's undoubtedly due to the rumors of that famous trainer's retirement.\nThere are likely many trainers looking to scout Dober themselves."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Even though it is known that she still encounters some difficulties, she\n<i>is</i> still a Mejiro after all."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I guess so... Will she be okay, though? She's been pushing herself way\ntoo hard, and I'm worried that she's going to get hurt."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hmm... Ryan, I don't think you should worry. She will definitely be\nokay."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Right. I can tell just by looking at her that something is different\ntoday."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Bell..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Trainer... She's definitely come to see me today, right? I want to win.\nI want to win! I want to win for her today!)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(But... It's all the same... My heartbeat is overwhelmingly loud...)",
+            "choice_data_list": [
+                "Dober, over here!",
+                "Dober, over here!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Ah... I looked... Right toward the spectators...)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(Over there...)",
+            "choice_data_list": [
+                "It's okay, Dober! You're a strong runner!",
+                "It's okay, Dober! You're a strong runner!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What're you yelling out... Dummy."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She really... believes in me..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's about to begin—the final race in which Mejiro Dober's chief\ntrainer can preside over."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's about to begin—the final race in which Mejiro Dober's chief\ntrainer can preside over."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clank!</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff... huff... huff...</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(My heartbeat is still so loud... I still don't think I'm able to run\nexactly like I do while training.)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(I hate being the center of attention. Their shouts, their cheers, the\nvery sense of their presence... I don't want to look over at those who\nare laughing at me...)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But still... Haaaaa!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(But still! There are some over there who do truly believe in me!)"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm strong... I'm capable and strong!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm a strong Umamusumeee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "First place... Bell, that was a marvelous race. I'm so happy for you,\nand now—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer. Thank you very much for coming today."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Hehe, I'm the one who should be thanking <i>you!</i> I'm so happy to have\nbeen able to see you win. Now nothing lingers on my mind before I\nretire."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Ah, wait, that's a lie. There is one thing. Bell, what do you plan to do\nnow?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I...",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I plan to keep training with our assistant trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You won't say \"no\" after all this, right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Is that okay... with you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the retiring woman's good graces, I complete the contract to\nbecome Mejiro Dober's new trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "With the retiring woman's good graces, I complete the contract to\nbecome Mejiro Dober's new trainer."
+        }
+    ]
+}

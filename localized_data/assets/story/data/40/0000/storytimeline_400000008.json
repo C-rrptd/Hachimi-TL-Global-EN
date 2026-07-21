@@ -1,0 +1,18 @@
+{
+    "title": "コンティニュー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<i>Rrrrring!</i>",
+            "choice_data_list": [
+                "Huh?! Oh, it was just a dream...",
+                "Huh?! Oh, it was just a dream..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's an important race today. I need to forget\nabout that dream and go see\n<chrname> right away..."
+        }
+    ]
+}

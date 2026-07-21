@@ -1,0 +1,170 @@
+{
+    "title": "わがままの理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't wanna! I don't wanna! No way! I said I'm\nnot going, so I'm <i>not</i> going!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-what's going on all of a sudden?! You were so\ngiddy yesterday when you suggested we have\nlunch together...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph. What do you care?! I just said I'm not\ngoing to the cafeteria! That's all!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But, but! You might pass out if you go to class on\nan empty stomach!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ughhh!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait, that's it! I thought up a great idea!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I can just use some Fill-Up Fast magic! C'mon,\nlet's combine our power and cast a grand spell!",
+            "choice_data_list": [
+                "You want <i>me</i> to help cast the spell?!",
+                "You want <i>me</i> to help cast the spell?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh... Umm! O miracle grain, fill me up!",
+            "choice_data_list": [
+                "G-give meee energyyy!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Invisible Wheat! ☆ ...Okay! Now I don't even need\nto eat anything!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rumble...</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...Nghhh!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You know, I really think it'd be best if you ate\nsomething... Let's go together, okay?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But... today is..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Today's the one day I <i>can't</i> go to the cafeteria!",
+            "choice_data_list": [
+                "Ah!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-what's going on with Sweep?!",
+            "choice_data_list": [
+                "She did say she can't go to the cafeteria..."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Right... There has to be a reason! Come on,\nTrainer, let's go after her!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sweep! There you are! Um... is there something\nyou're not saying? 'Cause you know you can tell\nus!",
+            "choice_data_list": [
+                "We want to help.",
+                "We want to help."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I can't! I can't, I can't! You said it yourself earlier,\nKitasan..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The cafeteria's holding its Yakiniku Fair today!",
+            "choice_data_list": [
+                "Y-yakiniku?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's why I don't wanna go! If I'm in a place\nwhere they're grilling, my hat will end up smelling\nlike grease and smoke!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't want that to happen! Granny gave me this\nhat, and there's only one like it in the whole\nworld."
+        },
+        {
+            "name": "Sweep's Granny",
+            "text": "Now listen carefully, Sweepy. A very special spell\nhas been cast on this hat. It's a magic spell just for\nyou."
+        },
+        {
+            "name": "Young Sweep",
+            "text": "Magic?! Wow, that's amazing! Thank you,\nGrandma!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This hat is Magical Girl Sweepy's trusty\ncompanion! I can't let anything bad happen to it."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'd never leave it in the classroom or anywhere\nunsafe! Any location not protected by a magical\nbarrier is out of the question!",
+            "choice_data_list": [
+                "You sure take good care of that hat.",
+                "You sure take good care of that hat."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "So <i>that's</i> what this is about. I actually know how\nyou feel! The souvenir my dad gave me means the\nworld to me!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But... Ahaha! You don't have to worry about your\nhat smelling funny!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You see, yesterday I heard the cafeteria was\nshort-staffed, so I went to help prepare for the\nfair... Turns out they grill everything in the\nkitchen, not at your table!",
+            "choice_data_list": [
+                "Then there's nothing to worry about.",
+                "Then there's nothing to worry about."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That's right! And it all looked really delicious!\nRibs, offal, skirt steak... All marinated in a special\nsauce! And the grilled carrots smelled amaaazing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmmm. That does sound pretty nice... And I guess\nI don't have to worry about the smell either..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You know, I'm suddenly feeling really hungry! ♪\nC'mon, let's get over there before the yakiniku\nsells out!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-whoa, wait for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Sweep Tosho's foul mood was born from\nthe desire to protect her precious hat. In the end,\nthough, the two Umamusume run along to the\ncafeteria."
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "title": "It's A New Day",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur has become a sensational success after\nwinning the autumn Tenno Sho, Japan Cup, and\nArima Kinen. However, this also means..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, that's it for my Twinkle Series goals. Time to\nrecalculate my numbers to figure out what I\nshould do now."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "In other words, I'll be disappearin' for a while.",
+            "choice_data_list": [
+                "Wait, what do you mean?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Parcae could use an update. This project\ndemands complete focus, and the academy isn't\nthe place for that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not asking you to cover for me while I'm gone.\nIt's just... I promised to keep you in the loop at\nthe very minimum, and I don't like breakin' my\nword.",
+            "choice_data_list": [
+                "Have you told everyone else?",
+                "Have you told everyone else?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Who's \"everyone\"?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway, I've said my piece. Later."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are things only she can do,\nincomprehensible to anyone else. She goes\ncompletely off the radar after that, but I trust her\nto come back."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I demand you take me to Shakur, villain!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I know you've hidden her away somewhere, but I\nneed to hear her manner of speech once more to\ncomplete my newest opera! Now, hurry me to her\nside this instant!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sniffle...</i> Oh, Shakur! Please come hooome!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "She must've gotten tired of me! I know I have a\nlot... or rather, I know I'm nothing <i>but</i> flaws, but I\npromise to fix them all!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I can't seem to organize my thoughts properly\nwithout Air Shakur. Cafe refuses to engage with\nme earnestly."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I can't make sense of your high-level talk.\nBesides... it's perfect for splitting conversation\ntime with Shakur."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Is Air Shakur all right? I haven't seen her around\nlately, so I've been worried! I do hope she's\nokay..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "UUUWAAAAAASGH! SHAAAAKUUUUUR!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems everyone's first instinct upon realizing\nthey can't get in touch with Air Shakur is to come\nrunning to me.",
+            "choice_data_list": [
+                "(I wonder how she'd react if she saw all of them\nlike this.)"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh nooo, what should we do? What if she never\ncomes back?"
+        },
+        {
+            "name": "???",
+            "text": "Don't worry. She'll be back soon."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Isn't that right, Trainer?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um, what do you mean by soon?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There's one place I know she can't keep away\nfrom for long, which means she will certainly turn\nup soon!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But she certainly is inconsiderate to make\neveryone worry so... She really doesn't\nunderstand anything, does she?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I think we ought to teach her a lesson.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Gather round, everyone. I have an idea..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\n...\n..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I can feel my thinking getting sharper, clearer.\nIt's so comforting to submerge myself in the world\nof binary numbers, where everythin' becomes\ninstantly clear and consistent.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(But... what is this itching, needling feeling inside\nme? My mind is beyond sated, but my body is\nstarved for somethin'. I wanna keep workin',\nbut...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I wanna run so damn bad."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We've been waiting for you, Shakur!",
+            "choice_data_list": [
+                "Shakur..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What are you doing here? And why'd you bring\nFine?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The hell? Why am I back at the academy? I don't\nremember comin' back..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You must have lost yourself entirely in your\nthoughts. I knew you couldn't resist running for\nlong."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "After all, the thing that drives you is your fixation\non winning."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Everyone is ready and waiting to race you again.\nDoto, Opera O, Top Road, Digital..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And me, of course! But I'll only run with you again\non one condition."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And what's that?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You must think about what you've done."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...What?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You made us all terribly worried about you. You\nneed to think about that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What I choose to do has nothin' to do with any of\nyou."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, but it <i>does.</i> And you're responsible for\nmaking us feel this way. We're all friends now,\nafter all."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What? Listen, I never <i>asked</i> you to b—"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It doesn't matter whether you asked for it or not.\nYou bear responsibility for your very existence,\nand you must understand that you live on in the\nhearts of others."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Someone who runs as incredibly as you cannot\nsimply disappear into the ether."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You must understand the weight and importance\nof your own being. That is my condition for you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I didn't know you thought so highly of me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're the one who made me hold you in such\nhigh regard."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Now, what do you have to say for yourself?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Sorry for going AWOL."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That'll do."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm going to head over to the track first. Come\njoin us once you're ready!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh! And let's go for some ramen like we\npromised, okay? The limited-time flavors will be\ngone soon!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ugh... dammit. There goes my plans... Guess I'm\ndoing the rest of my calculations at the academy.",
+            "choice_data_list": [
+                "I'm sure you'll be fine."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I still don't get what Fine means by understandin'\nthe weight of my own being, though...",
+            "choice_data_list": [
+                "Seems like she's got you on a short leash.",
+                "Seems like she's got you on a short leash."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "'Scuse you. I'm not a pet, you know.",
+            "choice_data_list": [
+                "No... But what happens next time?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Next time, you can tell anyone who looks like\nthey wanna give me a headache that I do\nwhatever I want."
+        }
+    ]
+}

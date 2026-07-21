@@ -1,0 +1,246 @@
+{
+    "title": "いまだ、ディスタンス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm, something's off... Maybe her nose needs to be positioned\nhigher..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Mejiro Dober sitting in a corner in the academy library. She\nwears a concentrated look on her face, and she seems to be drawing\nsomething."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No good. I should probably go back to the outline."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's erase this... Oh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her arm slips as she applies vigorous force toward erasing the\ncontents of the page, and she knocks some stationery supplies onto\nthe ground."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh sheesh, now I've done it..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I lean down and pick up the notebook that had slipped onto the\nfloor. It's open to a page with an illustration of an anime character."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the main heroine of the long-running kids' anime <i>Veggie Caroline.</i>\nThe notebook seems to be filled with similar such practice\nillustrations.",
+            "choice_data_list": [
+                "I'll put this over here.",
+                "I'll put this over here."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Trainer. Thanks...",
+            "choice_data_list": [
+                "That Caroline illustration is really good.",
+                "That Caroline illustration is really cute."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Trainer. Thank you for the help.",
+            "choice_data_list": [
+                "That Caroline illustration is really good.",
+                "That Caroline illustration is really cute."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "H-hey! Don't you dare look!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Uh... D-did you see that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I make the excuse that it was simply due to the page being open to\nthat spot."
+        },
+        {
+            "name": "Monologue",
+            "text": "I make the excuse that it was simply due to the page being open to\nthat spot."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You must think it looks pretty awful, don't you?",
+            "choice_data_list": [
+                "Not at all.",
+                "I don't think so."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I know, I know... It doesn't look anything like her.",
+            "choice_data_list": [
+                "Not at all.",
+                "I don't think so."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The character's eyes overflow with a sparkly confidence—hope for the\nfuture."
+        },
+        {
+            "name": "Monologue",
+            "text": "The character's eyes overflow with a sparkly confidence—hope for the\nfuture."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression looks kind, and I tell her that Caroline has the kind of\nstylish eyelashes you don't normally see on an anime character."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You aren't... making fun of me, right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Geez, you don't have to go that far. I'm glad that you like my\ndrawing, though."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I tend to draw in more of a shojo manga style... I'm well aware that it\ndoesn't really resemble her.",
+            "choice_data_list": [
+                "It's really cute!",
+                "It's really cute!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I tend to draw in more of a shojo manga style. It's kind of a habit at\nthis point.",
+            "choice_data_list": [
+                "It's really cute!",
+                "It's really cute!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh come on, knock it off already!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh come on, you're embarrassing me!"
+        },
+        {
+            "name": "Student A",
+            "text": "Ahem... Please lower your voice in the library."
+        },
+        {
+            "name": "Student A",
+            "text": "Ahem... Please lower your voice in the library."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "See? We got yelled at. Come on, Trainer. It's almost time for today's\nsession."
+        },
+        {
+            "name": "Monologue",
+            "text": "As we walk over toward the training staff room, I decide to ask her a\nquestion out of curiosity.",
+            "choice_data_list": [
+                "Are you a fan of \"Veggie Caroline\"?",
+                "Are you a fan of \"Veggie Caroline\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I mean... I watched it when I was a kid.",
+            "choice_data_list": [
+                "But you draw the characters quite a lot, right?",
+                "But you draw the characters quite a lot, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I wouldn't go that far... I just watched it a lot as a kid. You recognized\nthe character, so I'm guessing it's the same for you.",
+            "choice_data_list": [
+                "But you draw the characters quite a lot, right?",
+                "But you draw the characters quite a lot, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's just a coincidence. I simply like to draw."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's just a way to pass the time. I do love drawing quite a lot, but the\ncharacters are just coincidental."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I could draw characters from many other anime if I wanted to!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I happened to catch it on TV recently, so the urge to draw them kind\nof just struck."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she says this, I can't help but recall the face that she was\nmaking while she was drawing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she says this, I can't help but recall the face that she was\nmaking while she was drawing."
+        },
+        {
+            "name": "Monologue",
+            "text": "At first I thought that it was something that she had to do, but if it's\nsimply one of her hobbies..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just know that I would face a repeat of that scrimmage race if I just\nlet things be, however."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just know that I would face a repeat of that scrimmage race if I just\nlet things be, however."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I was thinking that talking to you could be some good mental\ntraining for me! You can do that much as my assistant trainer, right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I was hoping... maybe I could talk with you to help me build some\nmental fortitude. Would that be okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she may still feel rather uneasy about opening up about her\npersonal interests, to say the least about any worries she may have.",
+            "choice_data_list": [
+                "If anything is ever troubling you, I'm always here\nto help.",
+                "If anything is ever troubling you, I'm always here\nto help."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she may still feel rather uneasy about opening up about her\npersonal interests, to say the least about any worries she may have.",
+            "choice_data_list": [
+                "If anything is ever troubling you, I'm always here\nto help.",
+                "If anything is ever troubling you, I'm always here\nto help."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Ah... okay. I'll remember that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Oh, thank you. Right, it's probably best to talk it over if\nsomething's bothering me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though we have yet to share more than just a few words, I do feel like\nwe've gotten a little better at understanding each other."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though we have yet to share more than just a few words, I do feel like\nwe've gotten a little better at understanding each other."
+        }
+    ]
+}

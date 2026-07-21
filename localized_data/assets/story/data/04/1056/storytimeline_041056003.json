@@ -1,0 +1,222 @@
+{
+    "title": "選抜レースは大殺界？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Only a few days remain until tryouts."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Th-th-th-this is a disaster! I'm ruined!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Classes are done for the day. A flustered Matikanefukukitaru bursts\ninto the trainers' room."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Waaah! What do I dooooo?!",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sniff...</i> So I was doing a divination earlier to see how tryouts would\nturn out..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And it said that I would experience a great misfortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The harbinger of death is upon me! I must rid myself of this evil!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Extra! Extra! Breaking news—hot off the press!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wh-what are you talking about, Taiki? I've got a bad feeling about\nthis..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "They announced the groups for the tryouts! Fukukitaru, you won't\n<i>believe</i> who you're going against! It's gonna blow your mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle begins to recite the list of runners, and\nMatikanefukukitaru's face grows more pale with every additional\nname."
+        },
+        {
+            "name": "Monologue",
+            "text": "All the runners in her group are extremely skilled—certainly good\nenough to make their debuts."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Arghhh! I'm done for! The race hasn't even begun, and it's already\nover!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This is what the divination meant by misfortune—I'm sure of it! Why\ndid I even bother?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a look of defeat, Matikanefukukitaru's shoulders slump, and she\nvery gloomily goes about her training."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nnnnrgh! Fiiinally done!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Pant... pant...</i> You don't need to tell me my time. I already know I\ndidn't do well today.",
+            "choice_data_list": [
+                "Let's call it a day."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yeah, sounds good to me."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sigh...</i> It's impossible to break free from the shackles of destiny, huh?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But I already knew that. I just didn't want to accept it—that I'm not\ngood enough to run in the Twinkle Series.",
+            "choice_data_list": [
+                "What are you talking about?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I actually have an older sister. She's good at everything—the perfect\nmodel child. So people would often compare the two of us."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't get me wrong, it's not like I hate my sister! If anything, I really\nrespect her!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It's just really hard not to compare myself with her at times..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I mean, I wasn't even sure of whether or not I should—or well,\n<i>could</i>—attend Tracen Academy."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But in the midst of my angst, the great Shiraoki appeared by my side\nand told me..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "\"Run! Run, and the path before you shall open!\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I took her words to heart and ran as fast and as hard as I could. Her\nguidance is why I'm even here at all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Listening to Matikanefukukitaru pour her heart out, I'm reminded of\nour conversation the other day."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If I'm ever feeling lost, down, or anxious, she cheers me up—makes\nme feel better! She even helped me during my scrimmage with Taiki!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The reason why I'm even here right now is all thanks to the great\nShiraoki! I chose to believe in her, and that brought me to where I am\ntoday..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm unsure what Matikanefukukitaru means when she talks about this\nShiraoki being, but whatever her reasons, the divinations seem to be\nmotivating her."
+        },
+        {
+            "name": "Monologue",
+            "text": "The divinations and fortune-telling are dear to her, and they have\nindeed helped her get this far. That much I can tell. Perhaps I can put\nthis information to use...",
+            "choice_data_list": [
+                "Actually, why don't we keep training?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Huh? But my luck has already hit rock bottom! You wouldn't find a gal\nas jinxed as me even if you tried! Running in this state would be\ncompletely pointless!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru is reluctant to resume her training, but I\neventually sway her, and we commence round two of our training."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Huff... Huff...</i> I can't do this... anymore... My body... won't move..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The divination was right... Today's training is nothing but misfortune\nafter misfortune...",
+            "choice_data_list": [
+                "Just how much do you believe in these\ndivinations of yours?",
+                "Just how much do you believe in these\ndivinations of yours?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Huh? What are you talking about? I completely and utterly believe in\nthem, of course!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All the fortune-telling I've ever done has led me to where I am today!\nIt's basically my entire life!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So it's not a question of whether or not I believe in them. They're\ntrue—they have to be.",
+            "choice_data_list": [
+                "If that's the case, then you and I were also\ndestined to meet, right?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Of course! You're the trainer who will change my fate!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's why I need to prove myself at the next tryouts—to show you\nthe results of all my hard training!",
+            "choice_data_list": [
+                "Enough about the results, then! Just run!",
+                "Enough about the results, then! Just run!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Just... run?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh, I think I get it! You're right! I was being such a fool!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I have to quit dwelling on the outcomes and focus on running! Fortune\nor misfortune, I need to run my best during tryouts!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'll do whatever it takes to get scouted by you! That's my goal!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Screw you, misfortune! I'm going to charge ahead and show you what\nI'm <i>really</i> capable of!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right, I think I'm ready for another round of running! Come at me,\nworld! I'll rise to whatever challenge you have in store with everything\nI've got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a renewed look of pure resolve, the now energized\nMatikanefukukitaru once again dashes off into the distance."
+        }
+    ]
+}

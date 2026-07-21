@@ -1,0 +1,372 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the Spring Fan Fest—a large-scale event\nheld by Tracen Academy open to all fans. As for\nBamboo Memory..."
+        },
+        {
+            "name": "Disciplinary Committee Member",
+            "text": "Reporting! There are still zero incidents at the\nfood stalls! None of them have anything to\nreport!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right, we're off to a good start! Thank you for\nyour report. Keep up the good work!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "This is Bamboo Memory! Everything is green at\nthe food stalls! Resuming patrol!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a member of the disciplinary committee,\nBamboo Memory works under the student\ncouncil, helping out with things like patrolling the\ncampus to keep the peace."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Well, this appears to be a huge success! I couldn't\nbe happier!"
+        },
+        {
+            "name": "Oguri Fan A",
+            "text": "We might still be able to catch Oguri Cap's event!\nLet's hurry!"
+        },
+        {
+            "name": "Oguri Fan B",
+            "text": "Mommy! I want one of those Oguri dolls over\nthere!"
+        },
+        {
+            "name": "Oguri Fan C",
+            "text": "First things first, let's go see Oguri! There's no\npoint in coming if we don't see her in person!\nWooooo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Haha, that's amazing! It looks like a lot of people\ncame to see Oguri. That must be why it's so much\nbusier than normal!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And since all these people came all the way here\nfor our event, we have to make sure this year is\njust as safe!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hang on... Isn't that..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer! Could you watch over this area for me?!",
+            "choice_data_list": [
+                "Sure, but is something wrong?",
+                "Sure, but is something wrong?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I just have something to take care of! I'll be back\nas soon as I'm done! If you get tired, just go\nahead and take a break!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>...Sigh.</i> What am I even doing?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Heeey! Chiyono Ooooo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It <i>is</i> you! What are you doing over here?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "B-Bamboo?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Aren't you supposed to be in the carrot-eating\ncontest? It's almost time for everyone to gather\nup!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Now that everyone knows you're coming back,\nyou've gotta show your fans that you're doing\nwell!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah...\nWell, about that..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Is something wrong? I saw you looking a bit down\nearlier too..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm just wondering if there's even any point in me\nmaking an appearance."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm all healed up and can technically run again,\nbut... at best, I'm back to how I was before.\nMeanwhile, everyone else has spent their senior\nyear improving..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Plus... it seems like everyone has already\nforgotten about last year's Japanese Derby..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Everyone has their eyes on Oguri. It's like I'm\ntrapped in the past... and her light is just so much\nbrighter..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's not all, though. I think I realized something\ndeep down."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I missed my peak. My prime time to develop as a\nracer passed me by while I was out for recovery."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Which means... this is as good as I'll ever get.\nFrom now on, it's all downhill..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'll never get stronger... I'll never catch up to the\nperson I admire... and on top of all that, it looks\nlike I'll be forgotten..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm all washed up..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So is there really any point in making an\nappearance?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course there is!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I've been looking forward to your comeback\nforever! I want to see you run again!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Your races were always so exciting because your\ndream always shined bright! That's why I've been\nwaiting so long!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And if I want to see you run this badly, just think\nabout how all of your adoring fans feel!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "They've been waiting all this time, more than\nyou'll ever know! Waiting for you to get back in\nthe racing ring!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You say no one wants you to come back and that\nyou've reached your limit! But it's way too early to\nbe saying things like that!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I totally believe you're gonna chase after the\nperson you admire—and your dream—again!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And I also bet that all your fans are still just as\npumped to see you race as they were last year!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Looks like it's just about time to get moving."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Do you really think there's no point in running\nanymore? You really think everything I said was\nwrong?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Why not go out there today and see?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "The highly anticipated carrot-eating contest is\nabout to begin! What kind of competition can we\nexpect this year?!"
+        },
+        {
+            "name": "Chiyono O Fan A",
+            "text": "We finally get to see Sakura Chiyono O! I've been\nlooking forward to this for so long!"
+        },
+        {
+            "name": "Chiyono O Fan B",
+            "text": "I can't wait to see Chiyono O looking healthy\nagain!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(I knew it!)"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Competitors, take to the stage!"
+        },
+        {
+            "name": "Chiyono O Fan A",
+            "text": "Oh, it's Chiyono O! But... she looks kinda down..."
+        },
+        {
+            "name": "Chiyono O Fan B",
+            "text": "Maybe she's nervous. I sure hope she's okay..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Chiyono O..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "T-R-A! C-E-N!\nWho do you want to win?"
+        },
+        {
+            "name": "Spectator",
+            "text": "Huh?! Wh-what's going on?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey there! I'm a wandering solo cheerleader!\nEveryone, put your hands together, and let's\ncheer them on!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You can do it! Let's go!\nSakura! Chiyono O!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Just like that! Now, everyone shout the name of\nthe Umamusume you're cheering for! Follow my\nlead!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You can do it! Let's go!"
+        },
+        {
+            "name": "Chiyono O Fan A",
+            "text": "S-sure! Why not?!"
+        },
+        {
+            "name": "Chiyono O Fans",
+            "text": "You can do it! Let's go!\nSakura! Chiyono O!\nGood luck, Chiyono Ooo!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Everyone...\nBamboo..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I see... I might've been too rash..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm... I'm going to try again. I'll work hard to\nblossom for everyone again..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm going after my dreams again!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All righty! I'll cheer her on a bit and then get back\nto Trainer!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's go! Chiyono O!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, Trainer! I'm back! Sorry for keeping you\nwaiting for so long!",
+            "choice_data_list": [
+                "No problem. Wait, why's your voice so raspy?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, well..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but feel a bit proud after Bamboo\nMemory explains why her throat is sore."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All righty! I'll cheer her on a bit and then get back\nto Trainer!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's go! Chiyono O!"
+        },
+        {
+            "name": "Bamboo Fan A",
+            "text": "Huh?! Bamboo Memory's here too! And I think\nshe's cheering for someone! We've <i>got</i> to join in!\nThis is our chance!"
+        },
+        {
+            "name": "Bamboo Fan B",
+            "text": "You mean I get to shout and cheer with my idol?!\nThis is a dream come true! I'm so excited!"
+        },
+        {
+            "name": "Bamboo Fans",
+            "text": "Let's go! Let's go!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh?! The cheering is getting even louder! I've\ngot to pick it up!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "T-R-A! C-E-N!\nWHO DO YOU WANT TO WIN?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, Trainer! I'm back! Sorry for keeping you\nwaiting for so long!",
+            "choice_data_list": [
+                "No problem. Wait, why's your voice so raspy?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, well..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but feel a bit proud after Bamboo\nMemory explains why her throat is sore."
+        }
+    ]
+}

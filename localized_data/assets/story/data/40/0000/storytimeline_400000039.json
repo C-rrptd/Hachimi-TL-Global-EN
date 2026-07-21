@@ -1,0 +1,14 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname> doesn't show up for\ntraining."
+        },
+        {
+            "name": "Monologue",
+            "text": "When I ask her not to let it happen again, she\napologizes profusely."
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "にんじん……買ってくださいっ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After doing some shopping downtown, I start\nmaking my way back home."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sniff...</i> Carrots... G-get your carrots here...\nDelicious... carrots...",
+            "choice_data_list": [
+                "What are you doing here?",
+                "What are you doing here?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wha?! O-oh, it's you..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well... The grocer is a friend of mine..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Apparently, the store is short-staffed, so I offered\nto help..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But I really messed up when I was ordering more\nstock and mistyped the number of units we\nneeded... by two whole digits. <i>Sob...</i>"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I don't know what I'm going to do with all these\ncarrots...",
+            "choice_data_list": [
+                "Let's see if Tracen is interested in taking them.",
+                "You'll have better luck hawking carrots where\nit's more crowded."
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Approved! Tazuna double-checked the numbers,\nand this is well within our budget!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Stocking up on our reserves is never a bad thing\nand would be a huge help! Please bring them to\nthe academy at once!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Th-thank you. I would have never thought to ask\nthe school..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'll take them all there now!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "H-hup! Wh-whoaaaa!",
+            "choice_data_list": [
+                "W-wait, I'll help too!",
+                "W-wait, I'll help too!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, Meisho Doto and I take the huge pile\nof carrots to school."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-oh, that makes sense... I'll try my best to get\nmore people to come..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Carrots... Get your carrots here... Fresh, yummy...\nEep!"
+        },
+        {
+            "name": "Lady A",
+            "text": "Are you all right, dearie?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yes. Um, would you like some fresh carrots?"
+        },
+        {
+            "name": "Lady A",
+            "text": "Why, aren't you just the hardest worker? I think I\nwill have some, yes."
+        },
+        {
+            "name": "Monologue",
+            "text": "Struck by how earnestly Meisho Doto is working\ndespite her blunder, people passing by begin to\nmake their way to the store by the dozen."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Phew... Seems like we managed to sell them all."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Running around while watching where most\npeople were headed kind of reminded me of\nbeing in a race..."
+        }
+    ]
+}

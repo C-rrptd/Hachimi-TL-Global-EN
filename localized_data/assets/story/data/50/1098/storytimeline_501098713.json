@@ -1,0 +1,100 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey gets injured during training, so I\nbring her to the infirmary."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Owww... Hehe, sorry, Trainer. I kinda messed up."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But, it doesn't hurt much. I'll be fine! Let's head\nback and finish our training!",
+            "choice_data_list": [
+                "No, you need to rest up.",
+                "You have to be careful, though.",
+                "You have to be careful, though."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But, it doesn't hurt much. I'll be fine! Let's head\nback and finish our training!",
+            "choice_data_list": [
+                "No, you need to rest up.",
+                "You have to be careful, though.",
+                "You have to be careful, though."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Huh?! B-but, an injury like this...",
+            "choice_data_list": [
+                "Does overexertion increase your luck?",
+                "Does overexertion increase your luck?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "No, ignoring my injury won't improve my luck. In\nfact, it may actually throw off my inner qi and\nmake my luck worse."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Patience is key. I need to rest up, just as you said,\nTrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I manage to convince Copano Rickey to focus on\nrest and recuperation, but she still looks\nsomewhat crestfallen."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Of course!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I have to prove to everyone that feng shui can\neven help you overcome injuries!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All right! The qi disrupted by my injury should be\nstabilized now."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'm off!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ouch?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Owww... It's started aching again..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Traineeer! Looks like I can't train today after all..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I gently reassure Copano Rickey that everyone\noccasionally has days like this and then escort her\nback to the infirmary."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe, this feels good! The qi is pushing at my\nback and driving me forward!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "If I just keep this up... HYAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Copano Rickey races around the track\nbeing careful not to strain her injury."
+        }
+    ]
+}

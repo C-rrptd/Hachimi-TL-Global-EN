@@ -1,0 +1,89 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder collapses during training. I rush her\nto the infirmary."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I apologize for that embarrassing display.",
+            "choice_data_list": [
+                "Were you not feeling well this morning?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...I wasn't. But I thought I could push through it\nfor a single training session."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I didn't expect this... Training will have to be put\non hold for the foreseeable future, won't it?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer... please see to your work.",
+            "choice_data_list": [
+                "I'll be here until you're back on your feet.",
+                "Once you're rested, we can get right back to it!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You're really not going to leave, are you?",
+            "choice_data_list": [
+                "I'm your trainer, aren't I?",
+                "I'm your trainer, aren't I?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes... Yes, I suppose you're right."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And, um. ...Sorry about this."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You shouldn't have to see me in such a miserable\nstate."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spend time in the infirmary with a depressed\nGrass Wonder until she feels better."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "All right. Thank you for your concern."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder seemed a little on edge, so I give\nher some time alone to recuperate."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I don't have time to be just sitting here... Why did\nthis have to happen?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear how upset she is, even from the other side\nof the infirmary's door."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Goodness me. Hehe. Oh, Trainer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Pardon me. We seem to be so in sync that I\ncouldn't help but laugh."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you so much. I'll commit myself to recovery\nand be back to full strength in no time. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder's recovery takes a while. But once\nshe's back on her feet, she remains true to her\nword and makes up for lost time."
+        }
+    ]
+}

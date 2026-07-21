@@ -1,0 +1,53 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Agnes\nTachyon..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I think it's time you give up and drink my new\nconcoction. I promise you, a whole new\nexperience awaits.",
+            "choice_data_list": [
+                "That claw machine over there also looks\npromising!",
+                "That claw machine over there also looks\npromising!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Don't try to change the subject—oh, wait, this\nmight be perfect."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon's eyes glow dimly as she looks at\nthe claw machine."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What is essential to winning a prize in a claw\nmachine? That's right—reaction time!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This drink is loaded with ingredients that\nstimulate the A10 cell group within the brain's\nreward system, which as a result, will enhance\nyour concentration."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Drink this and you can consider all the prizes\nyours! Now, hurry! Chug! Chug!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...There you go.",
+            "choice_data_list": [
+                "<i>Gulp...</i> Whoa?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You really make things difficult, my little guinea\npig! Oh, and if the results aren't good, I'll have\nyou try a different drink! All clear?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

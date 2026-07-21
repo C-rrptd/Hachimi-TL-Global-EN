@@ -1,0 +1,366 @@
+{
+    "title": "他者感情による心理的効果について",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon placed excellently in the Twinkle\nSeries."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hand in hand, we've been able to work our way\nthrough the first three pivotal years of her career."
+        },
+        {
+            "name": "Monologue",
+            "text": "On a day of respite, while basking in the glory of\nour accomplishments..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Heh-heh-heh. Hey, Trainer! You've been\nspacing out for quite some time!",
+            "choice_data_list": [
+                "Tachyon?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Little do you know, I've actually been here for the\npast five minutes. I fear your sense of danger is a\ncause for concern.",
+            "choice_data_list": [
+                "So, what are you doing here?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, nothing much. I just wanted to extend an\ninvitation to you."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is, to go on a \"date.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Agnes Tachyon and I set off on our\n\"date\" together.",
+            "choice_data_list": [
+                "I didn't expect you to choose an aquarium.",
+                "I didn't expect you to choose an aquarium."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A book I read recommended it for being \"replete\nwith curiosities to promote conversation.\""
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Look around at these tanks made of such\nbeautiful acrylic glass! We are beholden to it, the\nsavior of all aquariums."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Many issues would arise during the time when\nreinforced glass was the norm, especially in\nregard to its manufactu—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...I'm off the mark, aren't I? Fish, right? The\nfishes... Oh, how pretty. Like, colorful, aren't\nthey?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Okay, next we go shopping! In a shopping mall as\nbig as this, your desire to buy should be amply\nstimulated."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, Trainer? Don't you want to shop for\nanything?",
+            "choice_data_list": [
+                "Nothing in particular for now..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, that's problematic, as I too have no desire\nto shop. I typically make all my purchases online."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Very well! Onward! To the next destination!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Our \"date\" continues until I realize the sun is\nsetting."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Time sure flew right by, didn't it? Well now, after\nthe \"date,\" do you feel any different?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Does your heart ache? Do you find it hard to\nbreathe or difficult to think straight? Please, do\nreport anything that comes to mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "The word \"report\" rings a bell in my mind. Could it\nbe that...",
+            "choice_data_list": [
+                "...I'm being experimented on?",
+                "...I'm being experimented on?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Wasn't it obvious? Are you really just realizing\nnow?",
+            "choice_data_list": [
+                "How was I supposed to know?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We've known each other for three whole years!\nWhy would I go on a date with you without good\nreason?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I want to record the emotions you're feeling at\nthis exact moment. Whatever comes to mind is\nfine, just describe them in detail."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's difficult to turn her down when she gets like\nthis. I try to think of something that might satisfy\nher.",
+            "choice_data_list": [
+                "I-it was... fun?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Okay, and? What else?",
+            "choice_data_list": [
+                "It was... refreshing!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Argh! Not quite what I was looking for!",
+            "choice_data_list": [
+                "I-I'll remember it as a fond memory?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Wrong! Don't you feel anything like... butterflies\nin your stomach, or a spark between us?!",
+            "choice_data_list": [
+                "(B-butterflies or a spark?!)"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmmm... My apologies for losing my cool. I don't\ntake failure very well when it comes to my\nresearch.",
+            "choice_data_list": [
+                "What are you researching this time?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's the fundamental factor of the social animal,\nthose things we call \"emotions.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I faintly remember her saying something similar\nonce before."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Lately, I've become increasingly curious about the\npowers that stem from factors like \"enthusiasm\"\nand \"passion.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking back on it, she expressed her interest in\nemotions quite a while before."
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought it was a passing curiosity, but that no\nlonger seems to be the case.",
+            "choice_data_list": [
+                "What's gotten you so interested in it?",
+                "What's gotten you so interested in it?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I was made painfully aware... that my long-held\nhypothesis is filled with flaws."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I had always known that a multitude of factors\naffect our running."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But far from being fixed determiners, they were\nnothing more than effects resulting from minor\ninteractions."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is what I firmly believed."
+        },
+        {
+            "name": "Monologue",
+            "text": "She slowly closes her eyes, as if to better\nremember that event."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That day, during the Arima Kinen..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "After finishing the race, I was greeted by a\npassionate roar of cheers from the stands."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I could even hear their voices during the race, like\na strong tailwind lending me strength."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is what inspired the desire in me to thank\nthem sincerely. Casting my gaze toward the\nstands, it dawned upon me..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Winning the race that day... And not only that,\nbut managing to reach the Classics with my own\ntwo feet..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All of these accomplishments were, perhaps, only\npossible due to emotion."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It occurred to me that I might have severely\nunderestimated the true extent of its power."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon opens her eyes slowly."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In retrospect, I was only able to choose the road\ntoward success because of your sentiments.",
+            "choice_data_list": [
+                "(In a way, what she says is true...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking back, words I would casually impart\noften had a large effect on her decision-making."
+        },
+        {
+            "name": "Monologue",
+            "text": "After all, I always wanted her to discover the\n\"limits of Umamusume-kind\" through her own\nefforts."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh, I used to believe that things like\nemotions were the furthest from the realm of\nscience."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But color me surprised, science and human\nemotion are inseparable! Oh, how naive I have\nbeen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Throughout these past three years, the subject of\nemotions seems to have captivated Agnes\nTachyon more than I realized."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If we are to aim higher still, it is imperative to\ndecipher and examine these emotions to the\nfullest!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Wouldn't you agree, my dear guinea pig?"
+        },
+        {
+            "name": "Monologue",
+            "text": "So once again, I find myself surprised at her\nunderlying motive.",
+            "choice_data_list": [
+                "You're even more...",
+                "You're even more..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What? Finish your sentence. You've made me\ncurious."
+        },
+        {
+            "name": "Monologue",
+            "text": "She conquered the limits of her own Umamusume\nbody, and in her senior year, managed to realize\nher childhood dream."
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking at it another way, that same\nexperiment-loving troublemaker is just a diligent\nhard worker.",
+            "choice_data_list": [
+                "You're even more of a fanatic than I thought.",
+                "You're even more of a fanatic than I thought."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Heh-heh-heh!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hahaha! Hey, come on! Did you really have to put\nit that way? That was borderline slander!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And a first, too. Some might've called me\nself-centered, or a lone wolf, but never a fanatic!\nAhahaha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I must've hit a funny bone, as her laughter doesn't\nsubside for quite a while."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Sigh...</i> That was a good one."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Though, since your impression comes from a\nthree-year-long history together, it must have\nsome truth to it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Thinking back, you've done a lot for me. At the\nrisk of sounding cliché..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'm deeply thankful that you chose to be my\ntrainer."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'll say it again, although it's a bit embarrassing,\nbut thank you for everything. You've been a great\nhelp to me.",
+            "choice_data_list": [
+                "Tachyon!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I never could've imagined Agnes Tachyon\nexpressing her gratitude with such sincerity. It's\nenough to make me crack a smile.",
+            "choice_data_list": [
+                "And I'm happy to be your trainer!",
+                "And I'm happy to be your trainer!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yeah, thank you so much. You are undeniably a\nfantastic..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A fantastic guinea pig, heh-heh-heh!",
+            "choice_data_list": [
+                "...Huh?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "So, guinea pig, can you tell me once again how\nyou feel at this moment?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In Agnes Tachyon's hands are a heart rate\nmonitor and a voice recorder, raring to go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At any rate, our eyes are set on the potential of\nUmamusume and that which lies beyond."
+        },
+        {
+            "name": "Monologue",
+            "text": "And the next chapter of our journey has only just\nbegun."
+        }
+    ]
+}

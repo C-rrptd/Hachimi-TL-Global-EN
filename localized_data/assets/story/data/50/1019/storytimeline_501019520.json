@@ -1,0 +1,306 @@
+{
+    "title": "毎日がコラボカフェ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Agnes Digital",
+            "text": "Hmmmm... What to choose... What to choose...",
+            "choice_data_list": [
+                "Can't decide what to have for lunch?",
+                "Can't decide what to have for lunch?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Yeah, I can't decide between Falco or Vodka.",
+            "choice_data_list": [
+                "By which you mean... what exactly?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Why are you looking at me like that? They\nordered different things off the menu, so I can't\ndecide which of the two I should get."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Being able to eat the same exact meals as my\noshis every day is a luxury only afforded when\nattending this sacred institution, Tracen\nAcademy!",
+            "choice_data_list": [
+                "<i>Every</i> day?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Of course! Yesterday, I had Ryan's lunch, and\nTamamo's the day before that! Oh, but don't\nworry! I'm making sure to keep my diet balanced!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "If it's a day I choose Spe or Oguri, I'm always\ncareful to get a more manageable portion."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eating the same lunch as my oshis is an official\nmethod to infinitely expand one's imagination."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to intervene, but that'll just drag the\nconversation on longer, so I keep quiet and hand\nher a lunch tray."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oohoohoo... You wanna geek out together over\nlunch? ♪ I know, why don't you choose for me?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whose lunch do you think looks better? Falco's or\nVodka's?",
+            "choice_data_list": [
+                "Smart Falcon's lunch",
+                "Vodka's lunch"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah, Falco's lunch! She likes her plates to look\nphotogenic!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "All right, Falco always eats her salad first, so I'll\nbe following sui—"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hey, Digital! Is it okay if I sit next to you?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fwah! Falco?! Um? Uhhh, we can just move,\nactually!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Nooo, that's not what I want! I'm asking if we can\neat <i>together.</i>"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You're her trainer, right? You don't mind if I join,\ndo you?",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehehehe, thanks! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, just as I thought! You got the same thing I\ndid! I caught a glimpse of your tray, and it made\nme curious."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Agyaaaa! I'm sooo sorry for copying you!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Is that your way of showing respect? I'm really\nflattered! ☆ Ooh, I wanna take a selfie!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "A fan told me earlier that she wants to attend\nTracen Academy, so I thought it'd be nice if I\nposted some pics to show her what campus life is\nlike."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You're doing this for your fan? O-ohhh! You're\nsuch a model Umadol! Sublime... to the max!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So, can I post a pic of you and your lunch on\nUmatter too?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Pwah?! A picture with m-m-m-me?! I mean, if it's\nfor one of your fans, then I guess it'll be in service\nto a comrade, but..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hehehe, then let's take one together! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ooh, this one looks good!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I wonder if she'll see my post. You know, she told\nme she's good at running on dirt too."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's why I wanted to respond to her letter by\nshowing off some training methods. So, how do\nyou usually train, Digital?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I don't know if this will be of any use or not, but...\nI try to run on the dirt practice course when it's\nfirm <i>and</i> when it's heavy."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So you do special training on tracks with bad\nfooting! It's hard to keep good form in those\nconditions, yeah?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Not only that, I get a lot of people to run with\nme... It helps me practice dealing with dirt and\nsand flying at me from up ahead."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ahhh, I see what you mean! I'm a front runner so I\ndon't usually have to deal with that."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "You've really got your dirt training in order!\nHmmm, I'd better watch my back."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Nononono! You're still in a whole different league\nthan me!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Don't think you can trick me into letting my guard\ndown! ☆ I've marked you as my rival now."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ggk... Ghk... Nghhh! I-I'm... not... wooorthy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Agnes Digital and Smart Falcon spend\na fruitful lunchtime talking about how they\npractice for dirt races."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Okay! Let's dig in with Vodka's lunch!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "\"Hey! What's the big idea, sitting next to me?!\""
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "\"It's not like I'm sitting next to you because I want\nto. This is the only seat that's free. That's all.\"",
+            "choice_data_list": [
+                "Are you... fandubbing their conversation?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You totally got it! You really are a simp after my\nown heart!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I get so immersed imagining Vodka's\nconversations while enjoying the same food she\neats!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fwhoa! Vodka just stole one of Scarlet's shrimp...\n\"Excuse you! You think it's okay to just snatch\nother people's food?!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Agnes Digital spends the entire lunch\nperiod imagining a dialogue between Vodka and\nDaiwa Scarlet... like a true superfan."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wooo! I'm stuffed! That's what I call a fulfilling\nlunch!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hey, Digital, do you have a second? There's\nsomething I'd like to check with you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Were you mimicking us back in the cafeteria?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eeek! I'm s-s-s-soo sorry! I'll make it up to you!\nI'll... I'll harakiri!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Harakiri?! Why?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Cause you're scarin' the crap outta her. Look at\nhow she's shakin'..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Huff, huff...</i> A real-life quarrel between Scarlet\nand Vodka, right in front of me... Guehehe."
+        },
+        {
+            "name": "Vodka",
+            "text": "This ain't a fight! I'm just callin' her out for puttin'\nyou on the spot, right?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...It's not like I'm angry or anything. I just thought\nit was incredible you could hear us from that\ndistance. Your hearing must be amazing."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, I was just imagining what I thought you might\nbe saying... I couldn't hear your conversation at\nall."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You were just imagining it?! But you were dead on\nfor the whole conversation! Are you sure you\nweren't lipreading or something?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "N-no, it was really just my imagination. Um, by\nthe way... how come you guys noticed what I was\ndoing?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Like anyone couldn't notice, you were practically\nshoutin' at your trainer.",
+            "choice_data_list": [
+                "I guess you were so into it you didn't realize.",
+                "I guess you were so into it you didn't realize."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I'm so sorry! I don't deserve to live!"
+        },
+        {
+            "name": "Vodka",
+            "text": "You gotta say sorry each time? It isn't that deep!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Anyway, you really recreated our whole\nconversation just by imagining it? That's pretty\ndamn amazin'."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...I think it just goes to show how thoroughly she's\nresearched us."
+        },
+        {
+            "name": "Vodka",
+            "text": "In that case, lemme do some research of my own!\nCome run with me, Digital! Best way to grasp your\nopponent is to duke it out with 'em!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hey, that's no fair! You can't hog her! I want to\nrun with Digital too!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What? Quit tryna butt in!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A match against me would help Digital get\nserious. ...Oh, but I see. You're scared I'm going\nto beat you, aren't you?"
+        },
+        {
+            "name": "Vodka",
+            "text": "As if! That's totally my line! Fine, all three of us\ncan run!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "A-all three of us? I've got VIP seats to a battle\nbetween Scarlet and Vodka?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "WOOHOOOOOAGHKJ!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital is walking on sunshine... and the\ngroup running session after school turns out to be\na very fruitful practice."
+        }
+    ]
+}

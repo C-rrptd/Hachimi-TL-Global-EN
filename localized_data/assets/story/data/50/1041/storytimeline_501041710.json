@@ -1,0 +1,65 @@
+{
+    "title": "レース敗北",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Gaaah! How could I run so ungracefully?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was in no way an exemplary performance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was the footwork of a failing student! I'm\ngoing full-Bakushin down the road to becoming a\ndelinquent!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>...Urgh.</i>",
+            "choice_data_list": [
+                "Failure isn't necessarily a bad thing.",
+                "Hang in there, Class Representative!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain how getting back up again after being\nknocked down is the key to success."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...In other words, I'm actually going full-Bakushin\non the glorious road of a model student?!",
+            "choice_data_list": [
+                "That's right!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! I can't back down like this! I have to get\nback to training right away!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I have to set an example for everyone, so I can't\nstand still for even a moment!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "T-Trainer!",
+            "choice_data_list": [
+                "You're going to set an example for everyone,\nright?",
+                "You're going to set an example for everyone,\nright?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...That's right. It's not as if I've retired from being\nclass representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's my duty to throw my heart and soul into\nleading the others until the very end!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A model student from the cradle to the grave!\nThat is me, Sakura Bakushin O!"
+        }
+    ]
+}

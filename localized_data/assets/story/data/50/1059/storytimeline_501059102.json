@@ -1,0 +1,198 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the new year, and Mejiro Dober has invited\nme to participate in the Mejiro family's first shrine\nvisit of the year."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "This year's shrine visit feels so different and\nexciting with the addition of your trainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Wouldn't you agree, Dober?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wh-why're you asking me? There's nothing\nexciting about doing the same old shrine visit\nevery year..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah... I guess. Doing annual traditions like this\ntogether is nice."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Anyway, enough of that..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But more importantly..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Red bean soup!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Red bean soup!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe. I see plenty of treats for sale at this year's\nstalls!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Didn't you say your New Year's resolution is to\ncut back on desserts?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, the year has only just begun! I must simply\nensure that I consume less on average throughout\nthe rest of the year!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I-is that how it works?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "They have such interesting charms nowadays. And\nlook what protections they offer: \"Everything's\nGonna Be All Right.\" Hehe."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Apparently the shrine's been trying to appeal to\nyoung people. Pics of these charms are all over\nUmasta!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You sure know a lot, Palmer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, I wonder what the meaning of this one is?\n\"Party Luck F-R-F-R\"?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Pffthaha! Sorry, it sounds hilarious when you say\nit, Ardan. Hahahaha!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Talk about free-spirited..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "They seem to be enjoying themselves quite a bit.\nWe can't lose out to them!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What kind of competition even is this..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "So, Trainer, what do you think we should do?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Are you even listening to me?!",
+            "choice_data_list": [
+                "Let's have some amazake.",
+                "Let's buy a charm.",
+                "Let's go pray."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Amazake! What a wonderful idea! That certainly\nwill help warm our hearts and bodies!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Would you like some too, Dober? There's nothing\nbetter than a cozy shrine visit to start off the\nyear!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Haha, never heard a shrine visit described as\n\"cozy\" before."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It looks like they're selling it over there, so let's\ngo get some."
+        },
+        {
+            "name": "Monologue",
+            "text": "We all enjoy our amazake and end our shrine visit\nfeeling very warm and fuzzy."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "A charm! They've piqued my interest too."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why don't we all get matching ones to mark the\noccasion of our coming here together, Dober?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? I don't know about that... I don't mind\ngetting one with you, Bright, but all three of us?\nThat's too embarrassing..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Really? But isn't getting matching charms a\nhallmark of youth? The characters in the manga\nyou lent me did the same thing."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's different! Oh, fine. Whatever! Let's just go\nget some!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend the rest of our shrine visit deciding\nwhich charm to buy, and ultimately we choose the\none for certain victory."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That's a fabulous place to start. What will you be\nwishing for, then?",
+            "choice_data_list": [
+                "For Dober to become even stronger."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "D-don't just say it all casually like that! Geez!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You never change, do you?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Exactly the answer I expected from your\ntrainer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. Exactly the answer I expected from your\ntrainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait... Aren't you supposed to keep your wish a\nsecret?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If you want for something to come true fervently\nenough, I don't think it matters if you tell others\nabout it."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And knowing your trainer, there won't be a\nproblem at all."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I guess that's true."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's pray for each other's success in our senior\nyear."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe. A wonderful idea."
+        },
+        {
+            "name": "Monologue",
+            "text": "We all stand in a line and pray for smooth sailing\nin their upcoming senior year!"
+        }
+    ]
+}

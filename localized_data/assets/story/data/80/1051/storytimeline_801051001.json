@@ -1,0 +1,101 @@
+{
+    "title": "温もり愛情弁当",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm walking around the academy, I\nhear a familiar voice."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "T-Tachyon, you shouldn't rely solely on snacks.\nPlease, you need to eat a proper meal..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Actually, I do not. In most circumstances, snacks\nare, in fact, the most efficient and convenient\nmethod of receiving nutrients."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, perfect timing. You agree with me, right?",
+            "choice_data_list": [
+                "I-I don't know..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "W-wait! I made lunch for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower holds out a lunch box and takes\noff the lid to reveal a variety of colorful foods\npacked inside it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm. Well, then...",
+            "choice_data_list": [
+                "The side dishes are so cute.",
+                "The side dishes are so cute.",
+                "That looks very nutritious.",
+                "That looks very nutritious."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm. Well, then...",
+            "choice_data_list": [
+                "The side dishes are so cute.",
+                "The side dishes are so cute.",
+                "That looks very nutritious.",
+                "That looks very nutritious."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Haha! Are those carrots cut into hearts and stars?\nYou even made the hot dog sausages look like\noctopuses."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What wholly incomprehensible shapes! But they're\nutterly fascinating!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aw... I thought my hot dog octopuses looked\ntasty..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? I see... So you were trying to see how the\ntaste of food is altered according to its visual\npresentation!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Consider my curiosity piqued. I shall lend you my\nassistance in this noble research!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, if that means you'll eat it, then that's all that\nmatters... ♪"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This meal appears to have an excess of beta\ncarotene. This is surely more than the daily\nrequired amount."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's right! I boiled the carrots whole since I\nheard you lose fewer nutrients that way."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I also stewed them in a sweet sauce hoping it\nwould be to your liking, ehehe."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That is a sensible cooking method indeed. I have\nno qualms about your considerations for my\npalate."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm, it appears proper meals really do possess\nbenefits that differ from portable snacks. This\ncalls for further research!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um! It would be wonderful if you ate more of\nthis... For \"further research,\" that is!"
+        }
+    ]
+}

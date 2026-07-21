@@ -1,0 +1,229 @@
+{
+    "title": "A Hop and a Skip Into Trouble",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "It's not gonna work, Kawakami! That tree is more than two stories tall!\nLet's go get the custodian."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You don't need to get my report. I can just rewrite it. Imagine if you\nfell and hurt yourself!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now now, no need to worry! This is no problem for a princess. Getting\nup that high'll be a piece of cake!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Here I go!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I wanna be a princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "All pretty and sparkly... I'll be adored by all."
+        },
+        {
+            "name": "Young Kawakami",
+            "text": "Heeey! Stop picking on the smaller kids or I'll beat the snot outta ya!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Oh no, it's her—the berserk Umamusume! Run before she starts\npunchin'!"
+        },
+        {
+            "name": "Boy B",
+            "text": "You're no princess, berserk girl! You're just crazy!"
+        },
+        {
+            "name": "Kawakami's Mother",
+            "text": "I got a call again about her making another child cry. I don't\nunderstand why she's so aggressive."
+        },
+        {
+            "name": "Kawakami's Father",
+            "text": "Well, she wants to be a princess, right? I say we give her some\nexamples of how a sweet little princess behaves."
+        },
+        {
+            "name": "Kawakami's Mother",
+            "text": "Here, look at this. The princess in this book is well-behaved, isn't\nshe? If you want to become a princess, you'll have to be nice and\nquiet like her."
+        },
+        {
+            "name": "Young Kawakami",
+            "text": "(Hmph. You don't know anything, Mom. A real princess is someone\njust like...)"
+        },
+        {
+            "name": "TV Show",
+            "text": "\"A princess is always beautiful, graceful, and courageous! I'm the\nSpitfire Cutie☆Princess Fighter!\""
+        },
+        {
+            "name": "Young Kawakami",
+            "text": "See?! Even someone like me can be a princess! So I'm gonna be a\nprincess too—the strongest ever!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's right. I'm going to become a princess—one who's beautiful,\ngraceful, and courageous!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's still my first month as a new trainer at Tracen Academy, so I\ndecide to take a walk and get a better lay of the land."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hraaaaagh!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Agh, h-hey! G-get outta the waaay!",
+            "choice_data_list": [
+                "What the?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A student comes rushing at me like a runaway train. She's going to\ncrash right into me..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But, amazingly, she pivots at the last moment and kicks off a wall,\nleaping straight into the air!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Phew... That was a close one. ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hm? Gaaagh! Th-this is <i>not</i> good! What did I do?!",
+            "choice_data_list": [
+                "(What happened?!)",
+                "(What happened?!)"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "You okay, Kawakami—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Yikes! You made holes all over the wall!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Geez, I tried to stop you. But no, you had to charge right off,\nKawakami!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Uuugh... I didn't mean for this. It's all wrong!"
+        },
+        {
+            "name": "???",
+            "text": "KAWAKAMI!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You've really done it this time with your rampaging, Kawakami\nPrincess! Look at these giant holes in the school building—this is\nunprecedented!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eep! I'm sorry, it was an accident! But I had a big reason—bigger than\nthe ocean!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll hear all about your reasons in the student council office! Come\nwith me!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Why meee?!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Crud! We better follow 'em!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know what's going on, but I decide to find out at the student\ncouncil office where Kawakami Princess was taken.",
+            "choice_data_list": [
+                "So what were you doing back there anyway?",
+                "So what were you doing back there anyway?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "My report got stuck in a tree, and Kawakami was trying to get it for\nme."
+        },
+        {
+            "name": "Vodka",
+            "text": "We said it was dangerous, but she wouldn't listen..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm... So the damage inflicted to the wall was not intentional, and\nyou were merely attempting to help your friend?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's right... I just wanted to get this report down from the tree..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Scarlet stayed up all night writing it, so it's really important."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But a stupid breeze snatched it away! I'm a princess—I couldn't just\nstand there and do nothing!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Whatever your reason, why did you get so upset that you had to jump\nup there? You could've looked for a ladder, and then none of this\nwould've happened."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But, well... A real princess doesn't need stuff like that... You know,\nlike the old saying goes."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"When you're in a pinch, throw a punch!\""
+        },
+        {
+            "name": "Air Groove",
+            "text": "That is <i>not</i> a saying! And this isn't the first time. Just the other day,\nyou—"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hoo boy, she's really gettin' it. It's awesome that she can't leave a\nfriend hangin', but those holes were <i>majorly</i> bad."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "We should've tried harder to stop her. Though... Kawakami wouldn't\nhave listened anyway."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That was rough... Air Groove doesn't pull her punches."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Kawakami! What happened in there?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Don't worry, you two... I told them it wasn't on purpose. They said the\nstudent council will take care of repairs. But..."
+        },
+        {
+            "name": "Vodka",
+            "text": "But what?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "As punishment for giving the council all that extra work, I have to do\nchores for them the whole day..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Starting with... taking down all the old posters in the <i>entire</i> buildiiing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So this is Kawakami Princess... She's really energetic—almost\nalarmingly so."
+        }
+    ]
+}

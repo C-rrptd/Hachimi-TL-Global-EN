@@ -1,0 +1,183 @@
+{
+    "title": "灯火は未来へ輝く",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I notice Tokai Teio spying on Mejiro McQueen as\nshe trains..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, you're just the person I wanted to see! Could\nI ask you a favor?",
+            "choice_data_list": [
+                "What kind of favor?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I need to find out why McQueen was chosen to\nappear on the URA poster, but I haven't figured it\nout yet..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And it looks like she's already figured out why I\nwas chosen..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sooo could you find out what answer McQueen\ncame up with? Oh, but be subtle about it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so I find myself semi-coerced into quizzing\nMejiro McQueen for information..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, it's you... I regret that you had to witness that\nunsightly exhibition the other day...",
+            "choice_data_list": [
+                "There's something I want to ask you..."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Is that right? Actually, I'd appreciate your advice\nas well."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I've been posed a certain question and I'm having\ndifficulty deducing an answer..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Mejiro McQueen and Tokai Teio are\nboth struggling with the same task. In that case..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa, whoa, hey! What are you doing?! Don't\ncome over here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since they're having trouble with the same issue, I\nspeed up the process by getting them to talk to\neach other."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaaat?! So you're not onto anything either?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Why were you acting so carefree when you didn't\neven have the answer yet?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You were the one teasing me as if <i>you</i> had\nalready settled on an answer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "The heck? I can't believe you went crying to the\ntrainer for help after acting all tough!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Excuse me? I believe <i>you</i> sought out help before I\ndid!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well... That's 'cause, um... Uhhh!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I just didn't want to lose, that's all! I mean, look at\nyou..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You've got all these strengths that I don't have.\nYou're patient and you never give up, no matter\nwhat problem you're facing."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I got all panicked 'cause I figured that persistence\nof yours would lead you to an answer before me..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I... feel the same, actually. I assumed you'd\nalready found an answer using some unique\nmethod that never would have occurred to me.",
+            "choice_data_list": [
+                "Aren't <i>those</i> your answers?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Our answers... Oh. Each of us has strengths that\nthe other lacks..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Right... That's why we were chosen!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Each of you has strengths that the other lacks... I\nsee."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You mean to say that alone you would each be\nlacking, but as a pair you form a complete\npackage?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mm, not exactly. It's more like... when I watch\nMcQueen, I can see where I'm lacking."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I'm motivated to get stronger and fill in those\nblanks... 'cause I don't want to lose."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "We're not perfect. But as long as we continue to\ncompete against one other without becoming\ndisheartened, then we can keep getting stronger."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That's the reason you chose us, correct? This\ndynamic we share?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent! I was curious as to what you two would\ndiscover..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But your answer far exceeded my expectations.\nAs you two compete, you encourage each other\nand influence so many, all while carving out a new\npath..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As you better each other, the light that you shine\nwill illuminate a path toward the future!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ehehe, Prez praised us! ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You mustn't revel <i>too</i> much. Nothing good ever\ncomes of your overexcit—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hm? That's..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Have you seen that poster featuring Teio and\nMcQueen?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "They both looked so beautiful! Elegant, yet cool!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I hope we get to be on a poster like that\nsomeday!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uh-huh! It's gonna happen for sure! And that's a\npromise!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I see... So that's what she meant by \"a light that\nshines toward the future.\" ...Well, that's all the\nmore reason to get stronger."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Uh-huh! Let's get way, way stronger! Then we'll\nshine so bright that everyone's gonna have to\ncover their eyes!"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "title": "お節介な家族たち",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I go to the shopping district to buy some things\non my day off, when..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "So that's the Boutique Cherie's latest dress?"
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Yes, our pride and joy! Isn't it nice? It's a\ncombination of python and leopard prints! It even\nhas the faces of a snake and a leopard on it!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ummm... yeah, it's a bit flashy. I'll admit it's got a\ncertain mature charm to it, though."
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Do you like it, Natie? I'll give you a discount! I'll\neven throw in a tiger print pouch!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't think I'm ready for that combination yet... I\nmean, no one but you can rock it."
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Don't be like that, Natie! Anyone can make it\nwork—you just have to put it on! That's how\nclothes work!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa! Now that's the kind of pitch I expect from\nBoutique Cherie's level-sixty-six saleswoman,\nKimie!"
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Ahaha, is <i>that</i> how old you think I am? Keep\njoking like that, and I'll force you to buy it."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe, please, don't!",
+            "choice_data_list": [
+                "Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?! Trainer?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What are you doing here? Oh wait. It's the\nshopping district, so shopping, duh."
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "That's right. You're the only young person who\ncomes by here just to chat."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "What do you mean? This shopping district is the\nhottest spot right now."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Look at this amazing selection too, Trainer! This\nplace has the largest selection of animal prints in\nthe world!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, Kimie! Can you rustle up something special\nfor my trainer?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And make it super intimidating! I don't want\nanyone messing with my trainer!",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Come on, Natie. Don't tease your trainer too\nmuch."
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "Aren't you in the middle of shopping? Why don't\nyou go too, Natie?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nooo, I'm too tired. No way I could keep up with\na youngster."
+        },
+        {
+            "name": "Shopkeeper Lady",
+            "text": "You're too young for those kinds of complaints!\nNow stop loitering and go enjoy your date!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, oka—huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "W-wait, no! It's not a date, okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Nice Nature shows me around the\nshopping district, and I buy what I came for."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nnngh, we sure walked a lot! My back is killing\nme.",
+            "choice_data_list": [
+                "Thanks for showing me around."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, don't mention it. I didn't do anything\nspecial."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All I did was chat with the shopping district folks."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But dang, they're clearly not busy enough, seeing\nas they all had time to keep teasing me about\nbeing on a date."
+        },
+        {
+            "name": "Monologue",
+            "text": "While her words have an edge, Nice Nature's\nexpression is kind when she talks about the\npeople in the shopping district."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can tell that they all love her. And beyond that,\nI can tell they are people she can rely on.",
+            "choice_data_list": [
+                "You really love them, huh?",
+                "You really love them, huh?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I-I do, but... why did you have to actually say it?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's kind of embarrassing...",
+            "choice_data_list": [
+                "They seem like your family.",
+                "They seem like your family."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...I guess so."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I mean, sure. They're probably nosier than actual\nparents."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But all the same... they cheer for me no matter\nwhat."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like, who would do that? Cheer for <i>me?!</i> It's\nfunny, honestly."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "They care about me sooo much."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And I get reeeeally motivated when they cheer\nme on."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Gyah, what am I saying?! How embarrassing!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Three, two, one, and—gone! I just wiped your\nmemory."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, let's go home."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature is embarrassed and hurries me back\nto the academy."
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "title": "ノスタルジック・ウマ娘",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ever since I officially became Nice Nature's trainer, we've been\ntraining day in, day out."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whew, my arms and legs are all wobbly! Guess that's a personalized\ntraining menu for you—no punches held."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'm definitely feeling this in the morning... But what's next? Whatcha\ngot prepared?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In stark contrast to her usual aloof demeanor, Nice Nature is diligent\nand eager when it comes to training."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hm? Cat got your tongue, Trainer?",
+            "choice_data_list": [
+                "I was just thinking about what a nice and\nhard-working student you are."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?! N-nah, it's like... I gotta do what I gotta do, you know? For\nwhat it's worth, I <i>am</i> a Tracen student."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "C'mon, stop with the sappy stuff and tell me what I gotta do next."
+        },
+        {
+            "name": "Monologue",
+            "text": "After training like this for a while, our first challenge comes in the\nform of a scrimmage against other students."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pant, pant...</i> Phew."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Third again..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Even with my own personal trainer, even after that much\ntraining—third is all I got in me, huh.",
+            "choice_data_list": [
+                "You were really close though!",
+                "You were really close though!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, looks like third place is where I belong, isn't it?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Goals like staying undefeated or conquering the Twinkle\nSeries—they're not meant for me.",
+            "choice_data_list": [
+                "It's okay to dream big."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No way, what're you even saying? I told you when we first met,\nremember? I haven't got any talent worth writing home about."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I'll still do all the training, and I'll obviously try my best to win the\nraces you sign me up for."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I understand myself all too well. My talents as a racer, and my\nlimits too."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay, that's enough out of me! Look, I think it's time for me to head\no—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rumble...</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh? Was that you, Trainer?",
+            "choice_data_list": [
+                "M-my bad...",
+                "M-my bad..."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, don't sweat it! A growing youngster's gotta eat, after all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I've got it—come with me for a sec! There's a great place I know."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm pretty sure I'm older than Nature, but before I can blurt out a witty\nretort, she grabs my arm and drags me away..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mmm, smells good! Hey pops, you got any fresh meatball skewers?"
+        },
+        {
+            "name": "Friendly Man",
+            "text": "Oh, it's Natie! We got meatball skewers all right—gizzard, too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, sounds great! Then maybe I'll take one—wait, no. It's not just me\ntoday!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I want my trainer to try the food here. Could you whip up some of\nyour specialities for me?"
+        },
+        {
+            "name": "Friendly Man",
+            "text": "No problem, comin' right up—wait, whaaat?! You're Natie's trainer?!\nYer not pulling my leg, are ya?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, crud..."
+        },
+        {
+            "name": "Friendly Man",
+            "text": "How rude of me! Trainer, wait right there! I'm gon' get the best food\nthis here shopping district has to offer!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh, you don't gotta—aaand he's gone. Dang, he's fast. You think he'd\nrun my races for me?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeesh, I knew this would happen, so I was trying to avoid saying you\nwere my trainer. Man, that was a bust.",
+            "choice_data_list": [
+                "The people of the shopping district really love\nyou.",
+                "The people of the shopping district really love\nyou."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, you could say that... I mean, even at Tracen Academy, I try to\nbe the girl everyone feels comfortable talking to, y'know?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Back home, I lived in a shopping district just like this one. My mom\nran a little bar there, so I've been helping out since I was a kid."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Cause of that, I've talked to my fair share of grown-ups in my time,\nfrom regulars at the bar to other shopping district denizens."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's probably why people tell me I act old for my age."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But it's also why I was able to meet so many friendly old folk, so all in\nall, I'm pretty grateful."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Which reminds me, I wonder how the lady who ran the sweets shop\nback home is doing? Hope her back isn't bothering her too much."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "She's got a scary face, but she's actually really nice. When I was little,\nshe'd always give me leftover candy from the shop.",
+            "choice_data_list": [
+                "The folks back home must love you too.",
+                "The folks back home must love you too."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha... Despite that, I've got no real talents worth writing home\nabout."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "In reality... everyone was just being nice."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I was a little bit faster than the local competition, so they cheered me\non and hyped me up. And look, it got me all the way here."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You should've been there the day I left home. They put up flags and\nstreamers all over the shopping district. Said it was a festival."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But now... just look at me—look at what I did with all those lofty\nexpectations."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All I can get are <i>decent</i> results, like—"
+        },
+        {
+            "name": "Friendly Man",
+            "text": "Trainer, Trainer—sorry 'bout the wait! Eat this and fill yerself right up!\nWe're leavin' Natie in yer capable hands!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha... You heard him, Trainer. Better eat up before it gets cold,\n'kay?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, you're here! Heeey, Nature! Whew, I finally found you!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hm, Teio? What's the matter?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? Haven't you seen the race program? They put it up already, you\nknow—for the Meet!"
+        },
+        {
+            "name": "Friendly Man",
+            "text": "Oh, the legendary Tracen Meet! Tons of people come to watch every\nyear. I can't wait!"
+        },
+        {
+            "name": "Friendly Man",
+            "text": "And don't you worry, Natie, all of us are comin' to cheer you on!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, I 'preciate it. I really do. But wow, I didn't think they'd have the\nprogram up <i>this</i> fast."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "More importantly... Teio, you came all the way here just to tell me\nthat?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh-heh, you signed up for the 2000m turf race, right? Well, I did\ntoo!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "We got put in the same group! So I'm here to declare war! Nature—it's\nyou against me!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I-I'm racing... against <i>you?!</i>"
+        }
+    ]
+}

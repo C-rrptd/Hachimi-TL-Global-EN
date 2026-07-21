@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, this is incredible! I never thought you'd get\nthis many!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I guess still waters really do run deep—or however\nit's said. So basically, if I move the handle more\nlike...",
+            "choice_data_list": [
+                "More like what?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, don't worry about it. Just talking to myself.\nYou did great, really."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm definitely not thinking about stealing your\ntechnique or anything. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

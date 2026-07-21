@@ -1,0 +1,61 @@
+{
+    "title": "大食いの免許皆伝",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking through the shopping district one\nafternoon with Yaeno Muteki..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Oh, it's that restaurant...",
+            "choice_data_list": [
+                "Is it famous?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. The food is supposedly excellent, but it's the\nsize of the portions that gets the most attention.\nThat, and I hear they have an unusual system..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Incredible—the Grand Portion Placement Test! It\nlooks like you're given a rank based on how much\nyou manage to eat!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I see. So if I consume this amount, I'll be rank\nten... There's even a certification to become a\ngrand master."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's a truly incredible amount of food, but the\nthought of being recognized has my body tingling\nwith excitement. Would you mind if I try my hand\nat it?",
+            "choice_data_list": [
+                "Food should be consumed in moderation.",
+                "Aim for the top!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Of course, you're right. Meals are not meant to\nbe a measure of strength."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm intrigued by the ranking system, but... right,\nI'll show restraint!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I successfully prevent Yaeno Muteki from\novereating."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Osu! No matter the endeavor, there are certain\nthings that will only avail themselves to you upon\nmastery."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "In an effort to open new doors, I shall take on this\nchallenge!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon afterwards, Yaeno Muteki breaks through\nthe limits of her stomach and is successfully\ncertified as a \"master gourmet.\""
+        }
+    ]
+}

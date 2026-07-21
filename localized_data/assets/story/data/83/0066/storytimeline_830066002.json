@@ -1,0 +1,161 @@
+{
+    "title": "ステータス『そのまま』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon comes up to me while I'm\nwalking down the hallway. It seems she's still\nfretting over the upcoming party..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I was hoping to make a cyborg costume, but there\nis insufficient time."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I worry it won't be ready for the party at my\ncurrent pace.",
+            "choice_data_list": [
+                "Why don't you think of a different costume?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Something different? ...Indeed, that would be a\nwise course of action, given the time remaining."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A costume that can be made quickly, doesn't\nrequire changing one's expression, and is within\nmy performance capabilities..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I will search using these criteria. Commencing\nmission."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "An animal that has the same expression at all\ntimes? Hm... How about a shoebill?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I read in an encyclopedia that, while shoebills do\nhave different expressions, they don't move very\nmuch, so it's hard to make them out."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, that's right! There's a fantasy novel that has a\ntalking shoebill in it, and—"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, I'm sorry. I almost started rambling there...\nIt's a bad habit of mine."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Not at all. I appreciate your help. Preparing to\ninput data on shoebills. Could you tell me where\nthis encyclopedia is located?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Retrieving information on shoebills from memory.\n<i>The World's Most Peculiar Animals,</i> page 36,\nfigure 1."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...",
+            "choice_data_list": [
+                "Um..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Reproduction complete. What do you think? I\nwould like your honest opinion.",
+            "choice_data_list": [
+                "Something's off..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I point out that even if Mihono Bourbon's\nexpression doesn't change, it doesn't mean she\nhas to keep her entire body still."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Your response is logical. I predict that remaining\nperfectly still at the party will dampen the mood\neven more."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Removing shoebill costume from potential\ncandidates. Resuming search for an appropriate\ncostume."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whaddya talkin' about? This isn't some kinda\npuzzle ya gotta solve. You just gotta enjoy\nyourself."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Besides, it's not like you're gonna find anything\nlookin' round here. Actually... what about that\nover there?",
+            "choice_data_list": [
+                "...A carrot?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But a carrot is very similar to a shoebill... Strictly\nspeaking, a carrot moves even less than a\nshoebill."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Then why don't ya go as a leaf or somethin'?\nY'know, just sway in the breeze."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see. In that case..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Uhhh, you waitin' for me to say somethin'?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon continues her search for\ncostume inspiration."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Costume candidates in school have been\nexhausted. Locating potential costumes is\nproving difficult.",
+            "choice_data_list": [
+                "Hmm..."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Earlier, Creek said I would be perfectly fine as I\nam. That even if I wore a costume, I should be\nmyself."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But any attempt to imitate something will mean I\nam not being \"as I am.\"",
+            "choice_data_list": [
+                "Isn't there anything you'd like to be? You don't\nhave to overthink it.",
+                "Isn't there anything you'd like to be? You don't\nhave to overthink it."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Something I'd like to be... A star fighter zooming\nthrough the cosmos, perhaps."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No, that would be more difficult to implement\nthan a cyborg. As far as alternatives..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A fast and strong Umamusume. That is all that\ncomes to mind at present."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Perhaps I really am a boring person."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'll think it over a little more... I must complete\nthe mission I have been assigned."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon sets off walking with her head\nheld high as if to psych herself up. It looks like\nshe's not ready to give up yet."
+        }
+    ]
+}

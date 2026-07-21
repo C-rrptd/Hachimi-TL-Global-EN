@@ -1,0 +1,195 @@
+{
+    "title": "Mystery Fortune Ritual!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "Fu... ku... come... cellar... There... you will..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I will?! Wait! Come back! Is this a prophecy?!\nWhat will I do in the cellar?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Flyin' fragalo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm walking around the academy when I see\nMatikanefukukitaru frenziedly picking every\nflower in sight!",
+            "choice_data_list": [
+                "What are you doing?!",
+                "What are you doing?!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Huff, huff...</i> P-please don't stop me! I must fulfill\nthe prophecy I saw in my dream, to achieve\nhappiness!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look down at her feet to find a single sheet of\npaper. Scribbled on it are what appear to be\ndrawings of flowers, a dancer, some numbers, and\nother various things.",
+            "choice_data_list": [
+                "Is that your doodle?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It isn't a doodle! It is a ritual diagram!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "While back home visiting my family, I received a\ndivine message in a dream telling me to search for\nsomething in the cellar... When I went, I\ndiscovered this paper!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Can you believe the prophecy came true?! The\nritual depicted in this diagram must reveal\nsomething truly miraculous!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Except I'm having trouble understanding it. Still, I\n<i>will</i> eventually decipher its contents to\nsuccessfully perform the ritual, and soon be\nblessed beyond imagination!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She suddenly dashes away, brimming with\nexcitement. Worried about what she might be\ngetting up to, I quickly follow."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "La la la... ♪ Chrysanthemum flowers, pluckity\nplucked... ♪ Boiled with a dash of—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oho, chrysanthemum flowers! And actually, they\nlook quite like the flowers in my ritual diagram."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "In that case... Time to dig in!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aaaaah?! F-Fuku?! Those are mine!",
+            "choice_data_list": [
+                "Stop that, Fukukitaru!"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Burp...</i> Finally, with this... Blegh! No... I have to\nhold it in!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right! Next is... to run on the track while\ndancing! The ritual diagram's word is absolute!",
+            "choice_data_list": [
+                "You're making a scene!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Uh oh, Fukukitaru's up to funny business again!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...When will we get our chance to run?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I try to stop Matikanefukukitaru to no avail. She\ncontinues her rampage throughout the academy..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I understand your side of the story. However, I\ncannot overlook the fact that you ignored a\ntrainer's warnings and caused trouble for the\nother students."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I-I'm really, really sorry..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh... I was feeling lucky, but ended up with\ngreat misfortune... What do I do?",
+            "choice_data_list": [
+                "Are you sure that's really a diagram for a ritual?",
+                "Are you sure that's really a diagram for a ritual?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Of course it... Well, it probably is? I mean, I think\nso, at least. G-give me just a second!"
+        },
+        {
+            "name": "Fukukitaru's Mother",
+            "text": "Looks like your dad and grandma don't know\nanything about a ritual diagram in the cellar\neither. We don't keep any of our Shinto materials\ndown there."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...It looks like neither Mom, Dad, nor Granny\nknows about it."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What could it possibly beee?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "How could no one have any clue?! <i>Someone</i> must\nhave hidden it away there! Who could it have\nbeen?! Who?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "There's no waaay nobody knows! Aaargh!\nSomeone tell me what this iiiis!",
+            "choice_data_list": [
+                "Maybe it's a secret spell for extreme\nhappiness?!",
+                "Something that must be sealed away, perhaps?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Gasp!</i> A secret spell for extreme happiness?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That makes sense, I think?! If it's a secret spell of\nthe highest order, no wonder nobody knows\nabout it!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aww, of course! I made all this fuss for nothing! I'll\nbe back tomorrow to solve this riddle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but feel a kind of respect for how\nquickly Matikanefukukitaru gets right back on her\nfeet."
+        },
+        {
+            "name": "Cat",
+            "text": "Meooow!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Gasp!</i> Was that a black cat that just passed by?!\nIs it a sign of bad things to come?! Are the gods\ntelling me I shouldn't stick my nose into this any\nfurther?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eek! Great Shiraoki, please save meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She runs off before I can even say a word, leaving\nme stupefied."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I knew it! I knew it had to be something like that!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "All right, I must return the paper to the cellar! But\nfirst, I shall seal away any evils! Foonjarga, be\nforever gone! Come back, no no!"
+        },
+        {
+            "name": "???",
+            "text": "<i>Sigh...</i> Really? But... one day you'll find... I know...\nyou will..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ooh? I just felt a wave of warmth wash over!\nCould it have been the spirit of someone passed?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The best I can muster is a puzzled nod. I could\nhave sworn I heard a voice... I part ways with her,\nleaving the mystery unanswered."
+        }
+    ]
+}

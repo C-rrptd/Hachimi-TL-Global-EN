@@ -1,0 +1,174 @@
+{
+    "title": "マーベラス☆ダイブ！！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While strolling through the park, I run into\nMarvelous Sunday and Mayano Top Gun taking a\nquick break during their jog."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Marvelous timing, Trainer! Could you take a\npicture of us by the pond together? The water's\nso sparkly!",
+            "choice_data_list": [
+                "Sure."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yippee! Thanks, Trainer! Here, use my phone!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Eek!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Mayano slips, her phone launches from her\nhand and sails straight into the pond's depths."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mayday, mayday...\nI think my phone is done for..."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Chin up, Mayano! In times like these, you've\ngotta stay positive! ☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Believe in the marvelous, and it'll believe in\nyou! ☆"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "B-believe in the marvelous? How do I do that?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Like this!\nTo me, my woof-derful friends! We need your\nmarvelous help! ☆★"
+        },
+        {
+            "name": "Dogs",
+            "text": "Woof! Woof, woof! Bark, woof!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From out of nowhere, dogs come streaming in,\nforming ranks before Marvelous Sunday!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Marvelous! ☆\nThanks for coming, everyone! Let's get to work! ★"
+        },
+        {
+            "name": "Monologue",
+            "text": "Marvelous Sunday dives into the water, quickly\nfollowed by the canine crew."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "M-Marvey?!\nWhat do we do, Trainer?! She's not coming back\nup!",
+            "choice_data_list": [
+                "Let's call for help!"
+            ]
+        },
+        {
+            "name": "Gray Dog",
+            "text": "Woof! Woof, woof!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "<i>Whew!</i>\nMayanooo! We found it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At the dog's barking, Marvelous Sunday pops her\nhead out of the water. She looks no worse for\nwear."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Don't scare us like that, Marvey! You could've\nsaid something first!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Sorry, Mayano! You looked so sad, I couldn't help\nmyself! But now you have your phone back, don't\nyou?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah! Thanks, Marvey! That was suuuper\nmarvelous!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Now you're getting it! Say it again with me:\nsuuuper marvelous! ☆★"
+        },
+        {
+            "name": "Dogs",
+            "text": "Woof!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, I recognize these doggies! They're the ones\nyou're always hanging out with!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeah! Wherever you look, the world's full of\nmarvelous friends! ☆ All you've gotta do is ask,\nand they'll come running to help!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I guess I owe them too, don't I?\nThanks a ton, everyone!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "With so many paws pitching in, we found your\nphone in no time! Didn't even get waterlogged! ☆",
+            "choice_data_list": [
+                "It's good to help your friends, but don't hurt\nyourself in the process.",
+                "It's good to help your friends, but don't hurt\nyourself in the process.",
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "With so many paws pitching in, we found your\nphone in no time! Didn't even get waterlogged! ☆",
+            "choice_data_list": [
+                "It's good to help your friends, but don't hurt\nyourself in the process.",
+                "It's good to help your friends, but don't hurt\nyourself in the process.",
+                "Are you feeling okay?"
+            ]
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "You betcha! And I appreciate the advice! But\nsometimes, you've gotta go above and beyond to\nbe marvelous!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Hey, Mayano, can you check if your phone's\nworking okay?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, good idea!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh? Wow! Look at all these underwater photos!\nDid you take these, Marvey?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "I did! While I was down there, I was struck by\nmarvelous inspiration!☆ Ahaha! ★\nAhahahahaha! ☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Don't worry, I'm fi—achoo!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeep! You're shivering, Marvey! We've gotta\nhurry back and get you changed into something\ndry!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Aw, don't fret so much, Mayano. If you frown too\nmuch, your face'll get stuck!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "I guess we'd better hurry back so that doesn't\nhappen—and before I catch a cold! Ahaha! ★\nAhahahahaha! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Marvelous Sunday and Mayano Top Gun are all\nsmiles as they leave, their spirits undampened by\nthe minor crisis."
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Aw yeah! We've finally made it!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Look at that! It's a bit old, but this inn is\nspectacular!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yep, it might be rustic but it's clean as a whistle!\nThat's how you know they're taking good care of\nit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory and I are in the middle of our\nhot spring vacation. It all happened pretty\nsuddenly when she accosted me and declared..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer! It's time to bust out our secret treasure\nstash!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's right, I'm talking about the hot spring\ncoupon! Now's the time to use it!",
+            "choice_data_list": [
+                "You're right. It's about to expire.",
+                "You're right. It's about to expire."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Exactly! Plus, it's time we take a break and reward\nourselves with some rest and relaxation..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Not!\nThat's what you <i>thought</i> I was gonna say, huh?",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's right! Everyone else might be dropping\ntheir guards since things have quieted down, but\nmy fight continues!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "This trip is where we kiss the laziness lurking\ninside us goodbye! Goodbye laziness, hello\nproductivity! Now let's go, go, gooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So that's how we ended up here. It's still pretty\nearly, so I suggest we start out with some\nsightseeing."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, nice idea! Let's go say hi to the staff too!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Thank you for welcoming us so warmly! This place\nis so clean, I feel like I could eat off the floors!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's even more hyper than usual. No matter what\nI say, I get the feeling she'll just drag me to\nwherever she wants to go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After some sightseeing, we return to the hot\nspring for a nice soak. Following that..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Aaah, that felt so good! There's nothing like a hot\nbath to get your fighting spirit blazing again!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You know what I'm talking about, right? I bet you\ndo!",
+            "choice_data_list": [
+                "Yeah, I sure do.",
+                "Yeah, I sure do."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes the passion from the bath and..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "When I surged forward at the end, it was like the\nengine of my soul was going full throttle! That\nrace was the best! And then, do you remember\nwhen..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her voice booms through the inn as she recounts\nrace after race. They're told with such fervor that\nI can't help but be sucked in. However..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And we've got plenty more memories like that to\ncome! Yeaaah! The springtime of our youth will\nlast foreveeer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm starting to get a little worried. If she stays\nwound up for much longer, there's no way she'll\nbe able to fall asleep tonight...",
+            "choice_data_list": [
+                "How about we watch some TV?",
+                "How about we watch some TV?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's a good idea! Even regular TV seems way\nmore special when you're watching at an inn!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, it's a high school drama! I wonder what the\nstory's about!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ooh, I see! So it's about a red-hot cheer squad\nleader who clashes with the other students and\nhow that brings them all closer as friends!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Dang, that's so cool! The main character is just\nlike me! I didn't know they made this kind of show\nthese days!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If the main character is me... that makes the\nstrong, quiet one Oguri!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And the super serious member of the karate club\nis Yaeno! And the younger student who puts their\nall into everything is Chiyono O!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And the no-nonsense, strong-willed library\nassistant's gotta be Ardan. So that leaves...\nHmmm...",
+            "choice_data_list": [
+                "Yes?",
+                "Yes?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I just realized... there's no you."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If there were a teacher filled with red-hot passion,\nmaybe that would work for you... Nah, that's not\nquite right."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I guess you could be the tough coach... Nope,\nthat won't work either 'cause you're way more\nnice than you are strict."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Maybe you're the reliable best friend? That's not\nit either. You're not just reliable, you're really\nunderstanding and open-minded too!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hmmm... It's really hard to pin down what you are\nto me... Give me a second!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Trainer is always guiding me and thinking about\nwhat's best for me. And I can't think of anyone\nmore reliable...)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(And <i>sometimes</i> they can be a little sloppy, but\nnever for long. And it's only once in a while.)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Not only that, they're also the only reason I was\nable to meet my hot-blooded rivals and race\nagainst them!)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(As long as we're together, I feel like I can run full\nspeed ahead toward any dream I come up with!)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Someone like that's gotta be...)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That's it!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "Y-yes?!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I gave it a bunch of thought, and I decided that\nyou're so many things to me. It's pretty much\nimpossible to assign you to a single character!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "So I thought I should tell you the one thing I know\nfor certain!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If not for you, I never would have become the\nperson I am! And without you, I'll never will\nbecome the person I'm going to be! So..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I HOPE YOU'LL STAY BY MY SIDE FOREVER\nAND EVER!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Carried by her booming voice, her words pierce\nmy heart... and the eardrums of the inn's other\noccupants."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Bamboo Memory and I have formed\nan irreplaceable bond during this time together."
+        }
+    ]
+}

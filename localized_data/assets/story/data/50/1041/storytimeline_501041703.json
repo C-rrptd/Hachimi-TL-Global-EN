@@ -1,0 +1,253 @@
+{
+    "title": "最高のバクシン！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from a day out with Sakura\nBakushin O, she tells me all about one of her\nclassmates."
+        },
+        {
+            "name": "Monologue",
+            "text": "It was the girl who was leaving the academy. The\none who said how she wanted to give her best for\nher final race.",
+            "choice_data_list": [
+                "Her final race is tomorrow, isn't it?",
+                "Her final race is tomorrow, isn't it?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yeah! We've done everything we could! She'll\ndefinitely come in first place!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the day of the race, all of Sakura Bakushin O's\nclassmates rush to watch the scrimmage.",
+            "choice_data_list": [
+                "This is it!",
+                "This is it!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You got this! Show us your best Bakushin!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Yes! Bakushin, BAKUSHIIIN! Right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, as the race begins, Sakura Bakushin O\nand the other spectators let out an immense\ncheer."
+        },
+        {
+            "name": "Classmate A",
+            "text": "That's it, that's it! You're in the zone!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's it! There! Show them the fruits of your\ntraining!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "(Baku, everyone... Thank you so much)"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "(Watch! This is my...)"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "FULL POWER BAKUSHIIIN!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The race is finally over and the results are in..."
+        },
+        {
+            "name": "Classmate B",
+            "text": "Fifth! Fifth! She managed to place!"
+        },
+        {
+            "name": "Classmate C",
+            "text": "Ahaha, she's waving! She looks so happy!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Sniffle!</i>"
+        },
+        {
+            "name": "Classmate D",
+            "text": "Baku?",
+            "choice_data_list": [
+                "Sorry, let me talk to her alone.",
+                "Sorry, let me talk to her alone."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is noticeably shaken after\nseeing the results, so I grab her hand and take her\nsomewhere we can talk without any onlookers."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Sniff...</i> My power wasn't enough!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Despite being the class representative... Despite\nsaying I would help her! She still couldn't take\nfirst place!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was her last race and yet I...",
+            "choice_data_list": [
+                "But she looked so happy!",
+                "But she looked so happy!",
+                "Pull yourself together, Class Representative!",
+                "Pull yourself together, Class Representative!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was her last race and yet I...",
+            "choice_data_list": [
+                "But she looked so happy!",
+                "But she looked so happy!",
+                "Pull yourself together, Class Representative!",
+                "Pull yourself together, Class Representative!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That... I can't deny."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "She had such a bright and cheerful expression on\nher face both when running and when crossing the\nfinish line.",
+            "choice_data_list": [
+                "She achieved a result she could be proud of.",
+                "She achieved a result she could be proud of."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...Yeah. I was the one focusing on her coming in\nfirst place."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Heh, I misunderstood her wishes. I'm a pathetic\nexcuse for a class representative.",
+            "choice_data_list": [
+                "You know what you need to do now, right?",
+                "You know what you need to do now, right?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Congratulate her on her success! By all means, I\nshould take the initiative!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Ah, here you are, Baku!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "That was the best I've ever placed!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "It's all thanks to you and your trainer... That was\nthe best race ever!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "B-Baku?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A hug for giving it your all! You gave it your best\nBakushin out there!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "...Yes... Yes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O and her classmate shed tears\nof joy as they embrace each other for a long time."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Y-yes?!",
+            "choice_data_list": [
+                "Remember what she was aiming for.",
+                "Remember what she was aiming for."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ummm, she said she wanted to go out with a\nbang and be satisfied with her final performance.",
+            "choice_data_list": [
+                "Do you think she didn't try her best today?",
+                "Do you think she didn't try her best today?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No way! I would stake my name as class\nrepresentative and refute such claims with all my\nheart!",
+            "choice_data_list": [
+                "Then it doesn't matter if she came first or not."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...You're right. She achieved praiseworthy results!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I feel a little disappointed... but I guess feeling\nlike that is disrespectful to her."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's go back to where she is! I'm going to shower\nher with the utmost praise!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "Ah, here you are, Baku!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "That was the best I've ever placed!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "It's all thanks to you and your trainer... That was\nthe best race ever!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "...!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "B-Baku?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A hug for giving it your all! You gave it your best\nBakushin out there!"
+        },
+        {
+            "name": "Freckled Umamusume",
+            "text": "...Yes... Yes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O and her classmate shed tears\nof joy as they embrace each other for a long time."
+        }
+    ]
+}

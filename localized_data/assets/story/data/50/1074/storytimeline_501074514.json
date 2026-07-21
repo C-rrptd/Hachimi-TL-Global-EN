@@ -1,0 +1,242 @@
+{
+    "title": "ブライトお嬢様は怖いものなし？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I find myself visiting an amusement park\nowned and operated by Mejiro Bright's parents."
+        },
+        {
+            "name": "Manager",
+            "text": "Ah, welcome, Miss Bright! This year's haunted\nhouse event is truly something! I guarantee that\nyou'll jump right out of your skin!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee! I'm very much looking forward to it. ♪ In\nfact, I'd like to experience it right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's been invited specifically to observe this\nyear's haunted house before it opens to the\npublic."
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "Miss Bright has entered the venue! She's currently\nheading east at a walking speed of twenty-five\nmeters per minute!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With Mejiro Bright inside the attraction, I'm taken\nto the haunted house's control room. Stepping\ninside, who do I see watching the camera feeds\nbut..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I wonder if Bright'll get spooked...",
+            "choice_data_list": [
+                "What are you two doing here?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "We called you in as an advisor because we\nwanted to test our tactics on someone like Bright!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's true, though. I don't think I've ever seen Bright\nsurprised by anything."
+        },
+        {
+            "name": "Manager",
+            "text": "Precisely! We've tried countless times to give Miss\nBright a good scare inside our haunted house, but\nwith no success whatsoever."
+        },
+        {
+            "name": "Manager",
+            "text": "<i>Howwwever!</i> We've truly outdone ourselves this\nyear! Why, I'd say it's the finest work I've ever\nproduced!"
+        },
+        {
+            "name": "Manager",
+            "text": "This attraction's fright factor is so extreme that I\nanticipate even Miss Bright will have the time of\nher life!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like this manager's whole career is riding\non today's results. We turn to the monitors to\nwatch Mejiro Bright's progress..."
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "Miss Bright has emerged from the abandoned\nhospital area, and she's smiling! Our first line of\ndefense has been breached!"
+        },
+        {
+            "name": "Manager",
+            "text": "Remain calm! We anticipated a challenge!\nPrepare to deploy Madam Bloody-Muscles!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ah, so the time's come. I wonder whether this will\nfinally scare Bright...",
+            "choice_data_list": [
+                "Who's Madam Bloody-Muscles?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "She's a blood-splattered doll! Dober designed her\nface, and I oversaw the construction of her body!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "She's horrendous even at first glance, and she's\n<i>super</i> realistic, so even Bright should be in for a\nshock!"
+        },
+        {
+            "name": "Manager",
+            "text": "Not yet! Wait until she's right at the drop point! In\nthree, two, one—deploy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thunk!</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my... You're a doll, aren't you? I must say, you\nhave quite the lovely face. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And your build is utterly robust. Why, your\nmuscles are on par with those of my sister Ryan's,\nin fact. Teehee! ♪"
+        },
+        {
+            "name": "Amusement Park Staff",
+            "text": "Miss Bright is now petting the doll! I, I've never\nknown a guest to behave like this..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I may have made the doll's face prettier than\nnecessary."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I think maybe I was too particular about the\nmuscles, too..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright proceeds through the haunted\nhouse, casually taking its various surprises in her\nstride..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Um, Ryan? We're not the only ones here who\nknow Bright fairly well..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, that's right! We've got another Bright expert\nright here!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! Her trainer might have the inside scoop on\nwhat gives Bright the heebie-jeebies!"
+        },
+        {
+            "name": "Manager",
+            "text": "Please, Trainer! Assume the role of chief\nfrightener and scare Miss Bright, I beg of you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The manager goes briefly airborne before landing\non all fours at my feet. Unable to refuse such an\nimpassioned request, I find myself being taken to\na small room..."
+        },
+        {
+            "name": "Manager",
+            "text": "Wow, Trainer. You look horrifying... That's truly\nsome Hollywood-level zombie makeup! It's as if\nyou've been underground for years!",
+            "choice_data_list": [
+                "I'm <i>not</i> happy to hear that..."
+            ]
+        },
+        {
+            "name": "Manager",
+            "text": "Now, it's time to put you before Miss Bright!\nCommence \"Operation: Final T\"!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Go all-out! If you can dream it, you can do it!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let me see... The exit door should be just around\nthis corner."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kr-chak</i>",
+            "choice_data_list": [
+                "BRAAAIIINSSS!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As instructed, I jump out in front of Mejiro Bright\nat the perfect moment and do my best zombie\nimpression!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, hello there, Trainer!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You're dressed as a zombie, aren't you? You look\n<i>very</i> authentic!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Care to accompany me to the exit? ♪ I'd love to\nsee your makeup under proper lighting."
+        },
+        {
+            "name": "Monologue",
+            "text": "Operation: Final T has failed..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After Mejiro Bright leaves the haunted house, we\ncome clean to her about our plan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So, yeah, sorry we kept all that a secret and tried\nto scare you, Bright!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Me too. I felt a little guilty about what we were\ndoing, but the manager insisted I keep quiet...",
+            "choice_data_list": [
+                "Sorry for going along with it!",
+                "Sorry for going along with it!",
+                "But you didn't get scared at all...",
+                "But you didn't get scared at all..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Me too. I felt a little guilty about what we were\ndoing, but the manager insisted I keep quiet...",
+            "choice_data_list": [
+                "Sorry for going along with it!",
+                "Sorry for going along with it!",
+                "But you didn't get scared at all...",
+                "But you didn't get scared at all..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "In other words, the three of you were working\ntogether purely to give me a big surprise, yes?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thanks to all of your efforts, I enjoyed my\nhaunted house experience to the fullest. Thank\nyou ever so much. ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "If I may, Trainer, regarding your costume and\nmakeup..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Where might I undergo such a transformation\nmyself? I'd love to experience being a zombie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Mejiro Bright remains entirely oblivious\nto the end."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Before I get around to feeling surprised, it takes\nme a few moments to realize something's actually\noccurring at all, you see..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I might be more surprised if you explain in\nadvance what's coming. Perhaps you could have\nmade an announcement, such as, \"Five seconds\nuntil the bloody doll.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Our exploits aside, the haunted house ends up\nbecoming a huge hit with the general public."
+        }
+    ]
+}

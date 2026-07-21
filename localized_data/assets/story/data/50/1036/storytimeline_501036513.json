@@ -1,0 +1,236 @@
+{
+    "title": "“コレ”で証明",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Reporter A",
+            "text": "Air Shakur! Look over here!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Look over here next, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is speaking to the press today. She\ndoesn't exactly go out of her way to give\ninterviews ordinarily, so a lot of journalists have\ngathered for the opportunity—just as she said\nthey would."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given that the particular purpose of today's\ngathering is a photo shoot featuring her signature\nracewear, most questions revolve around that."
+        },
+        {
+            "name": "Reporter C",
+            "text": "If I were to describe my impression of your\nracewear in a word, I'd call it \"sharp.\" Would you\nsay this reflects your personal tastes?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It depends on your definition of <i>sharp.</i>\nBut as for whether or not it suits my tastes, I'd say\nit does, yeah."
+        },
+        {
+            "name": "Reporter D",
+            "text": "Does your signature racewear represent your\ntypical fashion sense?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I believe I just said it matches my personal tastes.\nNext question."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur continues to answer calmly, and the\ninterview proceeds without a hitch, until out of\nnowhere..."
+        },
+        {
+            "name": "Reporter E",
+            "text": "I'd like to ask your trainer a question, if I may.",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Reporter E",
+            "text": "Yes. I'd like to hear your thoughts on Air Shakur's\nsignature racewear.",
+            "choice_data_list": [
+                "It's the coolest thing I've ever seen.",
+                "It's very her."
+            ]
+        },
+        {
+            "name": "Reporter E",
+            "text": "Would it be fair to take your use of the\nsuperlative as a direct comparison to the other\nrunners?",
+            "choice_data_list": [
+                "That's correct. I think Shakur is the coolest."
+            ]
+        },
+        {
+            "name": "Reporter E",
+            "text": "Air Shakur. What do you make of your trainer's\nstatement?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This is hardly the first time my trainer has gotten\ncarried away with clear bias. I honestly could not\ncare less."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But even a broken clock is correct twice a day. I\n<i>am</i> the coolest."
+        },
+        {
+            "name": "Monologue",
+            "text": "The interview continues smoothly after that,\nuntil..."
+        },
+        {
+            "name": "Reporter E",
+            "text": "Could you give an example of how?",
+            "choice_data_list": [
+                "It's in perfect sync with her individuality."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur has always had a very striking\nappearance. But that doesn't mean the racewear\ndetracts from it in any way.",
+            "choice_data_list": [
+                "I think it draws out a common charm between\nthem!"
+            ]
+        },
+        {
+            "name": "Reporter E",
+            "text": "I see what you mean! It certainly does enhance Air\nShakur's natural glamour."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Glamour?</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The interview continues smoothly after that,\nuntil..."
+        },
+        {
+            "name": "Reporter F",
+            "text": "What would you say you were most particular\nabout in the design?",
+            "choice_data_list": [
+                "(That's a good question.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The level of care Air Shakur put into designing\nher signature racewear was something to behold."
+        },
+        {
+            "name": "Monologue",
+            "text": "She started by seeking a trustworthy designer,\nthen fussing over the materials and ironing out\nthe cleat design in meticulous detail. She was fully\nengaged throughout the entire process."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A truly beautiful program is one that functions\nwithout drawing attention to itself."
+        },
+        {
+            "name": "Monologue",
+            "text": "From the calculated trim of the fabric to the\nasymmetrical scarf at her waist... There are\ncountless things she might mention."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What was I particular about?\nWell..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Isn't that obvious?"
+        },
+        {
+            "name": "Reporter F",
+            "text": "Erm? Miss Shakur?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur slips away from the reporters and steps\nup to the starting position on the track."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She explodes forward as if a starting gun has\nsounded, the waist scarf billowing behind her as\nshe speeds around the track."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whew...",
+            "choice_data_list": [
+                "(As gallant and remarkable as ever!)"
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "...Holy cow!\nShe's captivating! Tell me you're getting this!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Hmph."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I believe that answers the last question. That'll do\nfor today."
+        },
+        {
+            "name": "Reporter F",
+            "text": "Huh?! Sorry, but you haven't actually answered\nyet!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I <i>showed</i> you my answer."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm going ahead. Wrap this up however you like.",
+            "choice_data_list": [
+                "R-right!",
+                "R-right!"
+            ]
+        },
+        {
+            "name": "Reporter F",
+            "text": "Um, Trainer. What just happened?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't tell lies, so she must have already laid\nout the intermediate steps required to find the\nsolution. As long as I realize that much, I should\nbe able to solve the problem..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A truly beautiful program is one that functions\nwithout drawing attention to itself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur has demonstrated her program in\naction, directing everyone's eyes to herself as she\nran, and nothing else.",
+            "choice_data_list": [
+                "I'm just guessing, but her answer might be..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey.\nThe hell's up with this article?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Each and every fiber in the body has a numerical\nvalue, and the intricate equation woven out of\nthem produces one simple result: <i>running.</i>\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Whether it's highlighting her eccentricity in the\npaddock or her razor-sharp grace on the\ntrack—her signature racewear is just the suit for\nthe job.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What's with this exaggerated hype job? I didn't\nsay <i>any</i> of this crap.",
+            "choice_data_list": [
+                "But your run was the proof.",
+                "But your run was the proof."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're so dumb.\nQuit actin' like you get anything."
+        }
+    ]
+}

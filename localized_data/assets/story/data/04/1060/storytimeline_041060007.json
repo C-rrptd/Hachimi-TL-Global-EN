@@ -1,0 +1,259 @@
+{
+    "title": "誇れるものひとつ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're halfway through the academy's summer camp, and Nature has\nalready gotten a lot better at running on the beach."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Phew... Well? Has my time improved or what?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her results speak volumes to how much work she's been putting in\nthese past few days."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I can run pretty well on sand now, but I wonder if that'll transfer to the\ntrack.",
+            "choice_data_list": [
+                "You've got first place in the bag!",
+                "You've got first place in the bag!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, no way it's gonna be that easy. For one thing, everyone's\ntraining just as hard as we are."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, but I probably shouldn't be saying that in front of the trainer\nwho's been helping me train from dawn to dusk every day."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, let's just chalk it up to a defect in my personality. Old habits\ndie hard."
+        },
+        {
+            "name": "Monologue",
+            "text": "We keep going back and forth like this for a while..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I didn't know there was gonna be a festival—I should've brought my\nyukata."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Hey now, you can have fun at a festival no matter what you're\nwearing."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh, so there's a festival going on today.",
+            "choice_data_list": [
+                "Want to check it out?",
+                "Want to check it out?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, good idea."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I've got a soft spot for festivals. Especially the smaller ones—like at\nthe local park."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I used to go with my friends, and we'd get up to all kinds of hijinks.\nMan, good times, good times."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I may not look it, but they used to call me the dancing queen!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, not like anyone cares though. But hey, having festival dancing\nas one of my only talents is pretty on-brand, don'tcha think?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Anyways, that's enough about the past. Let's go see that festival!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man, nothing beats a summer festival."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Now, where to first? There's noodles, grilled corn... Oh, grilled squid\nsounds good too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe, I've been training my butt off, so I think I deserve a little treat!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Trainer, you gotta let loose a bit more. I can't be the only one getting\nall excited."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nature and I spend some time walking around the festival..."
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "You can register for the Festival Dance Grand Prix here!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "The Festival Dance Grand Prix?",
+            "choice_data_list": [
+                "It'd be nice to see you in action.",
+                "It'd be nice to see you in action."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?! No no no no, wait just a second now."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I said my friends thought I was good at dancing, not that I was\ncompetition material."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If I'm gonna dance, I'd rather it be in a small park with people I know.",
+            "choice_data_list": [
+                "Are you calling your friends liars?",
+                "Are you calling your friends liars?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Th-that's not the issue here..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man, you really do lay it on thick when it comes to coaxing me into\ndoing something."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Rather than dancing, let's go check out some more stalls! I haven't\ntried the butter potatoes yet! C'mon, chop chop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I go after Nature, who's already dashed off to the food stalls, leaving\nthe dancing crowd behind."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whew... I'm stuffed. Might've gotten ahead of myself on those\nskewers."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, I've done what I came here for, so wanna head back? We've\nstill got training tomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as we're about to leave the festival and go back to the dorm..."
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "Last call to sign up for the Festival Dance Grand Prix!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...H-hey."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You really want to see? My... um, dancing..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "My friends said I was good, but it's really just your everyday festival\ndancing...",
+            "choice_data_list": [
+                "I want to see you dance!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha... I see. Then I'll enter."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But don't get your hopes up too high, okay? It's been a minute since\nI've done any sort of dancing.",
+            "choice_data_list": [
+                "If you're entering, you might as well aim for the\ngold!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Were you even listening to what I just said?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Nature signs herself up for the Festival Dance Grand Prix."
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "This year's Festival Dance Grand Prix winner is..."
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "Number 12! Hailing from Tracen Academy, it's the Umamusume—Nice\nNatty!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's Nice <i>Nature.</i> Wait, no way? M-me?!"
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "Your enthusiastic performance went straight after our hearts. All the\njudges picked you unanimously. Congratulations!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Th-thank you very much..."
+        },
+        {
+            "name": "Festival Organizer",
+            "text": "Let's have a round of applause for our winner—Nice Natty!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clap clap clap!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like I said, it's not Natty—Ah, thank you, thank you."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wow... didn't think I'd win the whole thing.",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, thanks. I'm still not sure what got into me, signing up for a\ncontest like that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Who knows... maybe your bottomless optimism has started rubbing off\non me.",
+            "choice_data_list": [
+                "Maybe you're just starting to believe in yourself\na bit more?",
+                "Maybe you're just starting to believe in yourself\na bit more?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah yeah, don't worry—I'm still the same wet blanket."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "All right, tomorrow it's back to training! Maybe I'll be the winner in my\nnext race, too. One can always dream, right?"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "title": "Victory conditions.",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur and I are on our way back from an\nouting when she gets a message on her phone."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's nothing serious."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I have a match scheduled in an online game later,\nbut we're short a player."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's supposed to be three-on-three, so if we're\ndown a player, the whole thing's out the window.",
+            "choice_data_list": [
+                "I could join.",
+                "I could join."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What use would a noob like you be? Or do you\nthink it's no big deal because it's a game?",
+            "choice_data_list": [
+                "Can't you handle a little dead weight on your\nteam?",
+                "Can't you handle a little dead weight on your\nteam?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her I'll just fill the roster and try my best not\nto get in the way."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I guess I'm not totally opposed to playing with a\nhandicap..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You can play, but you've gotta do what I say.\nDon't do anything stupid, okay?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Right-click to aim, and left-click to shoot. Move\nusing the W, A, S, and D keys. You can learn the\nmore complex controls as we go."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just don't walk into our line of fire. Right, let's\nmove out."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bratatatatata!</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's one kill. So far, so good."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Ah, crap! I completely forgot about Trainer...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I guess that was really no joke about staying out\nof my way. And yet...)"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...So that's the kind of person you are, huh? You\ncan't recognize talent unless it's got an official\nseal of approval on it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The hell'd you just say?"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Okay, let's all calm down!\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Whenever I'm about to clash with someone,\nTrainer steps in without hesitation.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, Trainer. There's one by you. Left-click to\nshoot!",
+            "choice_data_list": [
+                "Erm, like this?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, we won."
+        },
+        {
+            "name": "Monologue",
+            "text": "I struggled to even move at first, but by the end\nof the match, I manage to help our team secure\nthe win!",
+            "choice_data_list": [
+                "I think I might be a natural...",
+                "I think I might be a natural..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Teammate",
+            "text": "Hey, couldn't you have taken that last one\nyourself? You let your trainer have it on purpose,\nhuh?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No idea what you're talkin' about. Probably just a\ncoincidence."
+        },
+        {
+            "name": "Teammate",
+            "text": "Yeah, right. That was really out of character for\nyou."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's why I said I didn't do it.",
+            "choice_data_list": [
+                "Either way, I had fun!",
+                "I'll be sure to pull my weight next time.",
+                "How much practice do I need before I get that\ngood?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I thought you weren't even interested in this\ngame..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i> Weirdo."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if it is just playing a game, doing something\nwith Air Shakur proves to be time well spent."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ha, fat chance."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The only thing you're allowed to do is sit there\nand keep your mouth shut."
+        },
+        {
+            "name": "Monologue",
+            "text": "Compared to when she used to say I was \"freaking\nannoying\" or \"couldn't take a hint,\" I feel like\nwe've gotten a little closer today."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's not like I went outta my way to practice or\nanything."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I just analyzed the program for a bit to get a feel\nfor the designer's style."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What's with the look? It's not like that's illegal or\nanything... technically."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm scared to dig any deeper, but I'm once again\nreminded of how relentlessly Air Shakur pursues\nher hobbies."
+        }
+    ]
+}

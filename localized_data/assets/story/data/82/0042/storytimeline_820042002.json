@@ -1,0 +1,165 @@
+{
+    "title": "あいさつは、スゴい！！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's another day, and Sakura Bakushin O is still\ndutifully carrying out her Bakushin Greetings."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good morning!\nGood morning!",
+            "choice_data_list": [
+                "Good morning. Hard at work as usual, aren't\nyou?",
+                "Good morning. Hard at work as usual, aren't\nyou?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hehe. Me? Hard at work? Why, yes! It's exactly as\nyou say!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushin is a virtue! And I'm getting quite the\nhang of this greeting business!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're at it again today, I see."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhh! Air Groove! Gooood morning!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I came to have another look at things. I'll just be\noff to the side, so pay me no mind."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm curious to see what kind of effect my advice\nhas had on the campaign, so I decide to stick\naround too."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good morning, Bourbon! You've arrived at the\nexact same time as yesterday!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Good morning. Yes, I follow an optimally\ncoordinated daily routine."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good morning, Bamboo! Did you manage to go\npartner running with Inari yesterday?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Morning, Bakushin O! You know I did! I'm super\npumped today and ready to take on the world!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, I see you over there! Good morning!"
+        },
+        {
+            "name": "Shy Student",
+            "text": "G-good morning! You seem cheerful as usual."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The class representative is always cheerful! More\nimportantly, you're running in your first\nscrimmage today, aren't you?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah—don't worry, I know exactly what you're\nlooking for! A few exuberant cheers of\nencouragement from this class rep, am I right?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Go and get 'em! You can do it! You can win! All\nyou need is Bakushin! Bakushin to victory!"
+        },
+        {
+            "name": "Shy Student",
+            "text": "Ahaha. I feel more confident now! Thank you! I'll\ndo my best!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You have quite the memory. I can't believe you\nremember everyone's arrival times and even knew\nshe'd be running her first scrimmage..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! Once I started greeting everyone each\nmorning, I naturally began to remember more and\nmore about them!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Being here makes it a lot easier for me to praise\neveryone for doing so well in their daily lives!",
+            "choice_data_list": [
+                "Everyone did look pretty pleased."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's fun for me too! Everyone's so happy and full\nof energy, which makes greeting them all the\nmore rewarding!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "This was a great chance for me to reacquaint\nmyself with everyone! I forgot Tracen Academy\nhad so many students!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm... It seems your Bakushin Greeting initiative is\ngoing well then."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You're absolutely correct! And it's all because I'm\nable to inject everyone with a healthy dose of\nBakushin energy with my greetings!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's all well and fine too, but what I was\nactually commending was <i>your</i> growth, Bakushin\nO."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Me?! But I'm the class rep. I thought my only duty\nwas to work selflessly for others?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Nonsense. You've shown that you can look at\neach student and see them as individuals..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That is a difficult—but important—lesson for\nanyone who leads, especially a class\nrepresentative."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But you managed to do just that, Bakushin O."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Are you saying even though I'm already perfect as\nclass representative, I've managed to grow even\nmore?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wow! Greeting lots of people sure is amazing!",
+            "choice_data_list": [
+                "S-sure.",
+                "S-sure."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So amazing, in fact—oops! I completely forgot\nsomething, despite how amazing I am!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer <username>!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good morning! Welcome back to school!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Heh."
+        },
+        {
+            "name": "Monologue",
+            "text": "After receiving such an invigorating morning\ngreeting, I get the feeling today's going to be a\npretty good day!"
+        }
+    ]
+}

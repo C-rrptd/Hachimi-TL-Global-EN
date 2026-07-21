@@ -1,0 +1,154 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe injures herself towards the end\nof training, so I bring her to the infirmary."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm sorry. This is all my fault... I was being\ncareless..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Wait... Why are...",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, it's just... The infirmary has a lot of visitors\ntoday..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She says that, but it looks completely empty to\nme..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Um, I'll be fine... Let's get back to training..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Besides, my injury's nothing serious...",
+            "choice_data_list": [
+                "You need rest.",
+                "All right, then..."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I... appreciate you looking out for me, but..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It looks like the beds are all taken by the other\npatients..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The beds look empty to me, so the patients must\nbe invisible to everyone but her...",
+            "choice_data_list": [
+                "Let's sit and wait until a bed's free."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Okay... That should be all right..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, that's right. I brought some coffee to drink\nafter training..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll go get it...",
+            "choice_data_list": [
+                "I'll get it for you.",
+                "I'll get it for you."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Okay, thank you... I'm sorry for the trouble..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After drinking some coffee together, I have her\nrest in an available bed."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Thank you for understanding. Well then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, a gust of cold air rushes past."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah, wait... They're still... Stop!",
+            "choice_data_list": [
+                "C-Cafe?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Sorry about that. My injury hurts, so I think I'll\njust rest..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "If you don't mind... could you bring me something\nto drink?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "In the meantime, I'll... try to take care of things\nhere.",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll be fine... Hurry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She practically forces me out of the room. By the\ntime I return with a drink, she looks completely\nexhausted..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Click!</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehe... They turned the lights off...",
+            "choice_data_list": [
+                "Is this their way of telling us to go train?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Yes. And they're cheering us on while they're at\nit..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, everyone's decided to come along..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It seems like they're curious about our training...",
+            "choice_data_list": [
+                "We'd better show them what we can do.",
+                "We'd better show them what we can do."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Yes. Let's put in double the effort."
+        },
+        {
+            "name": "Monologue",
+            "text": "After our training session, I realize that I don't see\nany traces of her injury. It's as if it mysteriously\ndisappeared."
+        }
+    ]
+}

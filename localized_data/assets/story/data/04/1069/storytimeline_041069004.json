@@ -1,0 +1,244 @@
+{
+    "title": "Sakura Weather, Never Wither",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Mm, sounds good. Lookin' forward to it! Hehe. Whew! Just 'cause it's\npractice doesn't mean I'm gonna go easy on you! ♪"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Of course! Thank you so much!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since that day, Sakura Chiyono O has been back on the track\nfrom morning until evening, hard at work."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay, starting tomorrow I'll try a faster pace during rest intervals\nand... Oh, hello!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's poring over the notebook she once dropped in front of me, her\n\"Chiyonotes.\"",
+            "choice_data_list": [
+                "Putting those Chiyonotes to good use, I see.",
+                "Putting those Chiyonotes to good use, I see."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "These pages contain everything I've learned up until now. I want to\nfight with all I've got... or that's the idea, at least."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Because if I'm not in it to win it, well... what's the point?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon enough, the day of her practice race with Maruzensky arrives."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Um... T-today, I... I'm going to run like it's the Japanese Derby! And I\nhope you will too!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, I'm honored. Well, I guess I'll just have to pull out all the stops\nthen."
+        },
+        {
+            "name": "Classmate A",
+            "text": "Hm? Hey, look over there! Maruzen's walking up to the gate... with\nChiyo?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As spectators trickle in, the left-handed race over 2,400 meters of\nlife-changing turf begins!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hup!"
+        },
+        {
+            "name": "Classmate B",
+            "text": "Whoa, Maruzen just keeps widening her lead. But Chiyo is playing it\ntotally cool. I know I'd panic and shift gears right away if it was me..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? Strategy? Well... I do sort of have something in mind.\nBasically..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "If I try to keep up with the fast pace Maruzen likes to set, it'll become\na battle of endurance, which I can't win."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So no matter how big a lead she gets, I have to run at my own pace\nand conserve strength."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And then... a-as I head into the final corner, I'll pick up the pace,\nsomehow close the gap to Maruzen..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And once I close the gap, if I can just hold on and come out slightly\nahead at the very end... No, not \"if\"! I <i>will,</i> and then I... I'll win!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "To be honest, I'm lacking in almost every department... But if I'm\ngoing to win, I think that's the best shot I have!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(Calm down. Just calm down, and keep your own pace... We're almost\nat the final corner!)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Now! Hahhhh!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "(...That acceleration! I didn't think she had so much left in the tank.)"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "(...I see you, Chiyo. You really want this, don't you?)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(So close now. Finish the job. Now's the time to pull ahead!)"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe. Bring it on!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hryahhh!"
+        },
+        {
+            "name": "Classmate A",
+            "text": "Geez, Maruzensky's acceleration is really something else! ...Wait,\nChiyo's catching up!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Pant, pant...</i> No, I'm not done yet! Faster! Faster! FASTER!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hyrahhh!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(...Still out of reach. I planned, fought with everything I had, and it\nstill wasn't good enough.)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(Nothing's changed. She's still so far away...)"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Chiyo."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thanks for the killer race! It's been a minute since I felt a thrill like\nthat! Good luck in the real Japanese Derby. Do what I could only\ndream of doing."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You would entrust your dreams... to me?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mhm. I wouldn't entrust them to anyone else."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sniffle!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I... I thought I would break! You always felt larger than life, so far\nout of reach!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Every time I ran, I would get scared, and couldn't win a single race!\nBut... but still..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I... I want to stand by your side!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...Mm."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And I... I swear, I <i>will</i> win the Japanese Derby! I will become the\nnumber one runner!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So when... when that happens, when I'm stronger... Will you run with\nme again?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Haha! Of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the sun itself smiling down on her, Chiyono O's race of a lifetime\ncomes to a close."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, as I'm on my way back to my office..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh, um, e-excuse me! Will you be my trainer?",
+            "choice_data_list": [
+                "Wait... huh? Me?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You made this happen! You were the one who helped me remember\nmy feelings for Maruzen, who gave me the push on the back I\nneeded!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So when I make it big—when I have my next showdown with\nMaruzen—I want you to be by my side!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her unwavering drive to grow as a runner makes me want to see just\nhow far she'll go. I have no reason to decline.",
+            "choice_data_list": [
+                "I'd be honored."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow, um, yay! Thank you so much! Uhh, in that case... to\ncommemorate this moment, here's a proverb that just came to me!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"The carrot knows not when the rain will fall.\" I look forward to\nworking with you, Trainer!"
+        }
+    ]
+}

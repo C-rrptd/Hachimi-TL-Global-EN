@@ -1,0 +1,215 @@
+{
+    "title": "ゴルシちゃん主催！人狼は誰だ！？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Bonjour! Comment allez-vous! It's time to begin\nthe bloody feud that is the Werewolf game!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, sounds like a blast."
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship is hosting a social deduction game\ncalled Werewolf. Besides herself and Nakayama\nFesta, the participants include..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli, El Condor Pasa..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Manhattan Cafe, Satono Diamond, and\ninexplicably, I've also managed to get myself\nwrapped up in this."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The rules are simple! We must uncover the\nwerewolves hiding among us through rational\ndiscussion. No fist fights! Ya got that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The roles are divided as follows—two werewolves,\none maniac, one fortune teller, one medium, and\ntwo villagers. I'm one of the villagers."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So, without further ado, let the game begin!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "There aren't many players, so I'll go ahead and\nreveal that I'm the fortune teller."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ha, you already trying to con everyone, Sirius?\nI'm the <i>real</i> fortune teller."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Heh heh. Look at you, coming at me like it's\nnothing. I'll make sure you regret this."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey now, is one of you a werewolf? ...Wait,\nactually, I'm getting strong maniac vibes here.\nWell, you both act like maniacs in real life\nanyway, so who can say!"
+        },
+        {
+            "name": "Sirius & Nakayama",
+            "text": "You're one to talk!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hey, El's usually super boisterous. How come she's\nbeing so quiet?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...The werewolves tend to say very little. I believe\nwe should vote to execute El."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So begins the second day... Gracious! The heroine\nGolshi was tragically torn apart by a werewolf and\nis now watching over you from the heavens\nabove."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "My divination is telling me that Manhattan Cafe\nis a werewolf."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Well, <i>my</i> divination says that Satono Diamond's a\nwerewolf."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um... Given what I know, that makes Nakayama\nthe fake fortune teller, and Cafe is a werewolf."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I believe... the opposite. Satono is a werewolf."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, it seems this discussion has come to a\nstalemate. Although, that's the real thrill of this\ngame. Hehe... I'm getting quite excited."
+        },
+        {
+            "name": "Monologue",
+            "text": "Given the state of things, it's likely that Sirius\nSymboli and Satono Diamond will vote to execute\nManhattan Cafe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "While Nakayama Festa and Manhattan Cafe will\nvote to execute Satono Diamond."
+        },
+        {
+            "name": "Monologue",
+            "text": "That leaves the deciding vote in my hands! Do I\nvote for Manhattan Cafe or Satono Diamond?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please think back, Trainer. Who was it that first\ncast suspicion on El?",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I remember now. And it look likes those\nsuspicions were right on the money. Which\nmeans...",
+            "choice_data_list": [
+                "Manhattan Cafe is the werewolf!",
+                "...Satono Diamond is the werewolf."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Time to announce the result! Victory goes to...\nthe werewolf team!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli was the one who identified El\nCondor Pasa as a werewolf, so she's the real\nfortune teller?!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hahaha, sorry for betraying your trust in me,\nTrainer. I was the maniac, and I ratted El out—I\nsacrificed my ally."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "By uncovering one of the werewolves, I made it\nlook like I was the real fortune teller."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Haha! The maniac sacrificing a werewolf? I like it.\nYou really threw the standard tactic out the\nwindow."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "That gave my claims as the fortune teller more\ncredibility. And hey, we won in the end, so it's all\ngood."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Siriuuusss! Thank you so muuuuch!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Though... you <i>did</i> execute me on the first day."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha! You were the perfect bait!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, we won!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While reeling at how thoroughly I was duped, I\ncan't help but feel impressed at how clever\neveryone's strategies were. Their scheming\ncertainly made for a fun time."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Time to announce the result! Victory goes to...\nthe villager team!",
+            "choice_data_list": [
+                "We did it!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "<i>Sigh...</i> That didn't go as I'd hoped."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli was indeed the first one to cast\nsuspicion on El Condor Pasa. However, I surmised\nthat she was sacrificing her own ally with that\nploy."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she was the maniac or a werewolf herself, then\ndeliberately revealing one of the werewolves\nwould make her claims as the \"fortune teller\" far\nmore persuasive."
+        },
+        {
+            "name": "Monologue",
+            "text": "I concluded that was exactly the kind of crafty\nscheme Sirius Symboli would stake her chances\non."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Thank you, Trainer. Your judgment was... pretty\ngood."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Nice job seeing through Sirius's tricks. That wasn't\ntoo shabby at all."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yay! A glorious victory for Golshi!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Not like I got a chance to actually do anything,\nthough! You lousy bunch of... No, it was all <i>you,</i>\nSatono! Don't go devouring the medium on the\nfirst day, you cretin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Things looked a little dicey for a moment, but I\nmanaged to win it for us. Really immersing\nyourself in such an intense game certainly makes\nfor a fun time."
+        }
+    ]
+}

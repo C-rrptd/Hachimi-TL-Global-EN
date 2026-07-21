@@ -1,0 +1,232 @@
+{
+    "title": "A Great Witch's Wisdom",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I get a summons from Sweep Tosho. I go\nwhere she tells me, and..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "There you are, Familiar! Now \"Magical Girl ☆\nSweepy 5\" can begin!",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm Magical Black!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe! You see, recently we've been studying\nmagic and looking into some rumors around it!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Magical Dia here! ♪ What jinx are we unmasking\ntoday?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh, how very exciting. What kind of\nexperimental drin—I mean... What kind of magic\npotion can Professor Tachyon provide to assist\nyou today?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's why you're here, Familiar! It's part of our\nresearch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's quite an... eccentric group. Partially just to\nkeep an eye on things, I decide to accompany\nthem."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Apparently, a bird that can grant wishes has been\nspotted around here."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh! Hold on, Magical Dia! That snake is after the\nbird!",
+            "choice_data_list": [
+                "It's not safe to rush into thi—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Snake nex ornithogalum... Hear my words, snake!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Get away from there, now! We have business with\nthat bird!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...Heh, there it goes. I'm glad that snake was such\na good listener!",
+            "choice_data_list": [
+                "(I think she just startled it when she yelled...)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Look at that cool demeanor! As expected from\nthe genius Magical Girl Sweepy!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Next, it's time for potion research! We're making\na potion that'll make us run faster!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "We need to gather honey from the\nhardest-working bee in its hive and a fang from a\nwolf without a pack.",
+            "choice_data_list": [
+                "That sounds kinda dangerous..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That won't do. Don't go getting weak-kneed now!\nSacrifices must be made in pursuit of great\nresults! Now then, let's get to looking for that\nbeehi—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hooold it! You know you can't race if you get\nstung and come down with a fever, right?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Don't confuse recklessness with courage! Every\nwitch knows that! We need to come up with a\nplan before we do anything."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "How about this? We put the bees to sleep and\nmark their backs! We can use those marks to\nfigure out which one works the hardest!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm... That's a pretty sound idea. Why don't I\nbring something along to put the bees to sleep?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shortly after, the Sweepy 5 continue with their\nmagical endeavors..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, how about we stop here for today? Sweepy\n5, dismissed!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whew! That was so much fun! Thanks, Sweep!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph. You can thank me by working hard! You\ncould do with some study too, famil—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey! What are you staring at me for?!",
+            "choice_data_list": [
+                "I was thinking you're a good leader."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I was nervous at first about joining the magical\ninvestigation, but Sweep Tosho took the initiative\nand watched over her friends. I tell her so, and..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh? What's the big deal? That's what you're\nsupposed to do!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm the best witch at this school. It's only natural\nfor the strongest witch to take the lead!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I may still be inexperienced, but Grandma raised\nme well!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "She protected me when I was in trouble and gave\nme advice about being a witch."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And now it's my turn to bring up this new batch of\nwitches!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's a first-class witch's job. Get it?",
+            "choice_data_list": [
+                "What a great way to think of it!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, she's such a cool leader! Don't you just\nwant to follow her wherever she goes?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You can feel her determination as a leader...\nThere's a lot that I'd like to learn from her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh. Then, things should remain interesting.\nI'd like to keep obser—ahem! I mean, may I join\nyou?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! If you're all gonna beg me, then I guess I'll\nkeep looking after you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She may seem childish, but she makes cool,\nrational decisions and shows concern for her\nfriends. Seeing that side of her, I think...",
+            "choice_data_list": [
+                "You're like a queenpin!",
+                "You're like a queenpin!",
+                "You're a very thoughtful leader.",
+                "You're a very thoughtful leader."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She may seem childish, but she makes cool,\nrational decisions and shows concern for her\nfriends. Seeing that side of her, I think...",
+            "choice_data_list": [
+                "You're like a queenpin!",
+                "You're like a queenpin!",
+                "You're a very thoughtful leader.",
+                "You're a very thoughtful leader."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A what?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I get it! You're cool and dependable... kind of like\na queenpin!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No, no, no! Call me a great and powerful witch!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Criminals and witches are totally different!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah, no kidding! Who do you think you're\ntalking to?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You really do think about us so much, Sweep.\nDon't you think it's nice your trainer realizes it\ntoo? ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hm, well... I guess you could say it's a good\nopportunity to see how much of a genius I am!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Got that? As the familiar of a genius magical girl,\nyou need to keep your mind sharp too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As soon as she says that, she strides off. She may\nstill have some room to grow, but I'm glad to see\nthat she cares so deeply for her friends."
+        }
+    ]
+}

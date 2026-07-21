@@ -1,0 +1,393 @@
+{
+    "title": "『信じる』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Narita Taishin isn't here today either."
+        },
+        {
+            "text": "I hear that she hasn't been seen around the\nacademy for some time."
+        },
+        {
+            "text": "While I'm worried about her, she's still the only\none who can decide whether she'll continue to\nrace or not."
+        },
+        {
+            "text": "So...",
+            "choice_data_list": [
+                "(I'm going to wait here for you.)",
+                "(I'm going to wait here for you.)"
+            ]
+        },
+        {
+            "text": "I always have and always will believe in her."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(What should I do now?)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh... Taishiiiin! You have a visitor!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "TAISHIN!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ticket... What's gotten into—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Come with me! Now!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The heck? You want me to watch a basketball\ngame?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I suuure do!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "There's a player I've been following lately, and\nshe's in the starting five in today's game! It's been\nages since she started!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I mean, I know you like sports, but did you have\nto drag me into this?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I get really energized when I watch sports. Like\nall, \"Yaaah!\" Fired up, y'know what I mean?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "So, well... I figured if you watched too..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You could feel like me and get all... YAAAH!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, yeah. Okay, I get you."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'll watch the game, so stop yelling already."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yay, Taishin! Hehe! I'll turn on the TV!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hm?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(I'm pretty sure I've seen that player with the red\nhair before.)"
+        },
+        {
+            "name": "Caster",
+            "text": "Count that basket! With her eleventh\nthree-pointer, she nails the buzzer-beater and\nclinches the game for her team!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoooaaa! That was so, so, <i>so</i> amazing!\nWoooow!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Did you see that, Taishin?! The girl with the red\nhair was incredible, right?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "She didn't seem to be doing well last year, but\nthen she suddenly got super good this spring!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(This spring?)"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "I mean, come on! No one's rooting for you! No\none thinks you can win!"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "Doesn't that make you want to give up? Most\npeople would..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oh! It's the postgame interview—they're gonna\ntalk to her!"
+        },
+        {
+            "name": "Reporter",
+            "text": "You were amazing on the court!"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "Thank you! I'm glad my training paid off."
+        },
+        {
+            "name": "Reporter",
+            "text": "We heard that you'd been struggling for some\ntime—did something snap you out of it?"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "Well, I'm a basketball player, but I wasn't blessed\nwith height, as you can see."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "I was getting left behind because of my stature,\nand I was in a pretty bad place this spring."
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "I wanted to give it all up since I figured no one\nexpected anything of me, but..."
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "Someone gave me the courage not to give up.\nHer way of thinking's a bit odd, but she's not a\nquitter. She's stronger than anyone I know."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(It's her...)"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "We don't play the same sport, but she's the\nathlete I admire the most."
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "That's why I decided to show the world who I\nreally am—no matter how weak or pathetic they\nmight see me!"
+        },
+        {
+            "name": "Red-haired Girl",
+            "text": "I want to be proud to show everyone the real me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Waaah! That's sooo touching!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What is that? Some passive-aggressive jab at me?\n\"Ooh, look at her! She's so small, but she's trying!\nWhat an inspiration!\" Ugh."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You're wrong!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You refuse to lose even when the odds are\nagainst you, and you never give up no matter how\ntough things are!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Your determination is what makes you so cool!\nYou really inspire and encourage me!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "At least, that's what I've always thought about\nyou, Taishin!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You're not my rival because you're small!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You're my rival because you're <i>you!</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "text": "I can't even count the number of times I've\nflip-flopped between leaving or waiting a little\nlonger for Narita Taishin."
+        },
+        {
+            "text": "But just as the sun begins to set... she appears."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Have you been here this whole time?",
+            "choice_data_list": [
+                "...Yeah.",
+                "...Yeah."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You mean, like, every day?",
+            "choice_data_list": [
+                "Yeah.",
+                "Yeah."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why do you have so much faith in me?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You've been like that ever since you scouted me,\neven though I don't have the slightest bit of faith\nin myself."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I just don't know what to do anymore. I...",
+            "choice_data_list": [
+                "Do you want to quit?",
+                "Do you want to quit?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?",
+            "choice_data_list": [
+                "Choosing not to race is a noble choice too.",
+                "Choosing not to race is a noble choice too."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No! I don't want to give up! As if I'd do that right\nnow!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But I don't know what to do! I'm not proud of who\nI am! I just see someone revoltingly pathetic!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "How am I supposed to believe that I'm fine the\nway I am—that I can continue to race like this?\nThere's no way!",
+            "choice_data_list": [
+                "If you can't believe in yourself, then I'll just\ndouble my faith in you!",
+                "If you can't believe in yourself, then I'll just\ndouble my faith in you!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?",
+            "choice_data_list": [
+                "Lay all your insecurities on <i>me!</i>",
+                "Lay all your insecurities on <i>me!</i>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A-all of them?",
+            "choice_data_list": [
+                "I'll keep reassuring you until you believe in\nyourself!",
+                "I'll keep reassuring you until you believe in\nyourself!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Seriously, what the heck? What are you even\nsaying right now..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Look, I've come this far, but my mindset hasn't\nchanged at all."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why would you double your faith to cover for\nme? What if you're stuck with that crap forever?",
+            "choice_data_list": [
+                "I don't care how long it takes!",
+                "I don't care how long it takes!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What if it takes your entire lifetime, stupid?!",
+            "choice_data_list": [
+                "I'd still do it!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pfft."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Heh... Hahaha!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I can't believe you'd agree to believe in me for\nyour entire life."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You really are an idiot."
+        },
+        {
+            "text": "Narita Taishin says that she'll try running a little\nmore."
+        },
+        {
+            "text": "Her decision made, we begin to talk about our\nnext race."
+        },
+        {
+            "text": "There's one I want to suggest that might help her\ngain a more positive outlook on things."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The Nikkei Sho?",
+            "choice_data_list": [
+                "It's held at Nakayama Racecourse, just like the\nSatsuki Sho.",
+                "It's held at Nakayama Racecourse, just like the\nSatsuki Sho."
+            ]
+        },
+        {
+            "text": "The Satsuki Sho is where Narita Taishin left her\nmark on the world—where everyone finally\nrecognized her abilities."
+        },
+        {
+            "text": "I put forward the idea of racing again at the place\nshe had her major turning point."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, I'll give it a shot.",
+            "choice_data_list": [
+                "Really?",
+                "Really?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'll go with you again... and try."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Yawn...</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, sorry for interrupting you in the middle of a\nmeeting. About the damage to the inferior...",
+            "choice_data_list": [
+                "Damage... to the inferior? Did you mean\ninterior?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh yeah... Last night, I had a drink to kick-start\nmy thoughts... and drank too much coffee."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The label said something like \"Feel alert and say\ngoodbye to drowsiness.\" But I never imagined it'd\nbe so effective as to keep me awake so long..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Yaaawn</i>... You should be careful with coffee as\nwell."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just one cup had this effect... I'll... have only half\na cup today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps due to her guileless personality, Sakura\nBakushin O suffers from insomnia after drinking\njust a single cup of coffee..."
+        }
+    ]
+}

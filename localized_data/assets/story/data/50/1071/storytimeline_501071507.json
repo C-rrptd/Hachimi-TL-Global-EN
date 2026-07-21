@@ -1,0 +1,57 @@
+{
+    "title": "ファンレター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Good morning, Trainer. Let's seize the day, shall\nwe?",
+            "choice_data_list": [
+                "You sure are motivated this morning.",
+                "You sure are motivated this morning."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, well, you see... Something wonderful has\nhappened."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "\"How are you doing, Ardan? Back then...\""
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "\"I said that you'd never be able to run. I'm really\nsorry about that.\""
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "\"I saw you racing on TV, and you know? And you\nwere so, so cool!\""
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "\"So I'm going to work harder than ever so I can\nrecover and be just as cool as you!\"",
+            "choice_data_list": [
+                "That's..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes... A letter from a girl who was in the same\nhospital as I was, many years ago."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...She's found hope in my running."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My running has brought light to another's heart. I\ntake great pride in that."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now then, let's go. This heart, these legs...\nThey've been blessed with an irreplaceable honor!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With her head held high, Mejiro Ardan looks even\nprouder than usual today."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "One of the people debuting today, Air Shakur, is\napparently pretty scary. They say she's super\nsmart, but also <i>suuuper</i> anti-social."
+        },
+        {
+            "name": "Fan B",
+            "text": "Really? I had no idea there was someone like that\nat Tracen Academy. But she does sound\ninteresting. I'm gonna look out for her."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur finishes some final checks on her PC\nand then abruptly closes her eyes."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just shut them out."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Everywhere I go, I'm surrounded by extraneous\nnoise. If you let every little thing distract you,\nthere'll be no end to it."
+        },
+        {
+            "name": "Monologue",
+            "text": "I think she's blocking out the noise around her so\nshe can sharpen her focus. I should avoid talking\nto her right now."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Hm."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "(Good luck, Shakur!)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Parcae predicts that no matter how I do in my\ndebut race, I'll be on track for two crowns.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(It's the same whether I win or lose. Perfect.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(This is a chance to check Parcae's accuracy. Are\ntheir predictions wrong? Or undeniable?)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Initialize data verification."
+        }
+    ]
+}

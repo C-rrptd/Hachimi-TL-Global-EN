@@ -1,0 +1,197 @@
+{
+    "title": "ヲタクの責務",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm out observing things at the training track\nwhen I notice Agnes Digital doing the same."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, how I love watching my Umas do partner\nruns! Look at them wordlessly communicating with\ntheir gazes!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "\"It's because of you that I was able to surpass my\nown limits!\""
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "\"Come! Chase after me and catch me! I know you\ncan do it!\""
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And who comes running after her but her dearest\nfriend and rival! Oooh! What unrestrained\npassion!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Bravo! That was a splendid etude of yours!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Eeek! O-Opera O?! Wh-wh-what are you doing\nhere?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Curse myself for failing to blend into the wall!\nAnd worse, I've been overheard fangirling about\nmy oshis!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My word, your skill at improv theater is\nphenomenal! Digital, would you be interested in\ntaking the stage with me?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "There, we will project our voices together in\noperatic song, spreading word of my great deeds\nas Overlord throughout the world!"
+        },
+        {
+            "name": "Student A",
+            "text": "Uh-oh, Opera O's got another one cornered..."
+        },
+        {
+            "name": "Student B",
+            "text": "I heard she made a girl in the class next to ours\nperform her original opera for eight hours\nstraight..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A moment, if you please. I also have business with\nDigital... as she is an important subject of my\nongoing observations."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wh-what?! Tachyon too?! And... wow, did you\njust call me important?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I am currently studying the mechanism by which\nshe transforms her passion for Umamusume into\npower."
+        },
+        {
+            "name": "Student A",
+            "text": "Whoa! Tachyon's joined in too!"
+        },
+        {
+            "name": "Student B",
+            "text": "I heard she made a student in the class next to\nours participate in some really terrifying\nexperiment..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Digital, why do you hesitate? Come! Take my\nhand at once!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've already prepared the laboratory for my\nexperiment, and I'd like to start testing my\nhypotheses as soon as possible."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Wh-wh-what should I do? Ohhh, this is terrible..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Being forced to choose between the lesser of two\nevils, Agnes Digital appears understandably\nconflicted.",
+            "choice_data_list": [
+                "It's okay to say no if you don't want to do either\none."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh? Who said I don't want to do what they're\nasking me?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Sharing a stage with Opera O and being a test\nsubject for Tachyon are both dreams come true!",
+            "choice_data_list": [
+                "Then why are you so upset?",
+                "Then why are you so upset?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Because I don't know if I'm worthy of such\nimportant tasks!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Can I truly live up to my oshis' expectations? No\nmatter how much research I do, I'm scared to find\nout!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Both Opera O and Tachyon have such firm,\nunwavering grasps on their own worlds..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I would say the same for Agnes Digital, but she\ndoesn't seem very confident."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "No, no, I can't... I'm no more than a mere simp,\nunworthy of coexisting on the same plane as\nthem.",
+            "choice_data_list": [
+                "But your oshis are the ones asking for your help!",
+                "Have more confidence in yourself!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Y-you're right! What's my problem?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Straight to jail for me! Turning down a request\nfrom one's oshi is an offense beyond redemption!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Such considerations have no place crossing a fan's\nmind! The only course of action here is to accept\nall requests!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I knew I was right in choosing you! What an open\nmind you have!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmm... Well, it would be an intriguing study to\nobserve you both performing an opera together..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Teehuehue... If my fangirly delusions can help out\nmy oshis, then I must accept this honor without\nfear!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Agnes Digital spends a great many hours\nboth performing operas and being under\nobservation."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Gasp!</i> Could it be that the depth of my love for\nmy oshis is being tested here, in this very\nmoment?!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Causing my oshis trouble just because I can't\nmake up my mind is unacceptable! Inexcusable!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "It's a simp's <i>job</i> to have all her faves' schedules\nmemorized!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Opera O, please let me stand under the spotlight\nwith you! We should be able to borrow the stage\nthis weekend!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ooh, a fine idea! We'll certainly need one if we\nare to entertain an audience!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Excellent! Not only are you a skilled playwright,\nyou even possess fantastic managerial skills!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Tachyon, since we share the same room, do you\nthink you could conduct your observations in\nRitto Dorm?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Are you suggesting I observe you as you observe\nother Ritto residents? I see. A very reasonable\nsuggestion."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And perhaps it will be me whom you decide to\nobserve... Heh. This is sure to be intriguing."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I will devote every fiber of my being to creating a\nstupendous opera and incredible study results!"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "title": "懐かしの傍ら",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Having been invited to a Mejiro family\nget-together, I arrive with Mejiro Dober."
+        },
+        {
+            "name": "Monologue",
+            "text": "She looks busy exchanging pleasantries with all\nher relatives, so I decide to indulge in some\nrefreshments alone."
+        },
+        {
+            "name": "???",
+            "text": "Dober?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? ...You can't be serious?! Wait, wait, when\ndid you get here?! Wooow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I've never heard her let out such a joyous cry\nbefore. Just as I'm about to ask what's\nhappened..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Dober's over the moon! You don't see that every\nday!",
+            "choice_data_list": [
+                "You sure don't. Who's the lady with her?",
+                "You sure don't. Who's the lady with her?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You might have heard about her already, but\nshe's like a second mother to Dober.",
+            "choice_data_list": [
+                "A second mother?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Right after Dober was born, her mother entered a\nreally busy period in her modeling career..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That lady over there took care of Dober\nwhenever her mother was away. I hear that she\noften used to take Dober out on fun trips."
+        },
+        {
+            "name": "Young Dober",
+            "text": "Auntie! This food is really scrumptious!"
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "Didn't I tell you? The food here is the best! I used\nto come here with your mother fairly often."
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "We'd always eat way too much, and then go for a\nrun together! It was like a little custom we had!"
+        },
+        {
+            "name": "Young Dober",
+            "text": "...Mother did that? Then I want to run with you,\ntoo, Auntie!"
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "That sounds fun. But you have to finish all of your\nlunch first!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...That's pretty much how they were. Dober's\nreally attached to her, since they were always so\nclose.",
+            "choice_data_list": [
+                "I should probably leave them to it.",
+                "I should probably leave them to it."
+            ]
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "It's good to see you again, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Geez, you should have told me you were\nattending. I would have dressed more nicely!"
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "Hehe, I think you look plenty cute as you are.\nHow have you been lately? I want to hear all\nabout your academy life!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Of course! Well, you see..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I may have told you this before, but my\nroommate is from America!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She's cheerful and daring, but you can't leave her\nalone for too long, as she's always stirring up\nsome kind of trouble."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "On one occasion, she invited me to a barbecue\nbut was so fixated on the meat that she forgot to\nbring any coals to cook with."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We had to run to the store to buy some. She's\nalways got me dashing about on crazy errands\nlike that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Although I won't deny that it can be quite fun."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What else..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, there's a person who really cares a lot for me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "This person always works really late and never\nlistens when I tell them to rest."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And even when they're exhausted, they worry\nabout me instead. A bit of a weirdo, right? Still..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's thanks to this person that I have peace of\nmind about certain things...",
+            "choice_data_list": [
+                "(Dober...)"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "M-moving on! The academy is really great, and\nevery day is a blast!"
+        },
+        {
+            "name": "Dober's Aunt",
+            "text": "Hehe, it certainly sounds that way. I can see the\nsparkle in your eyes as you talk about it. You're\njust as cute as when you were a child."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ngh... Well, what do you expect? I'm always\ndelighted when we get the chance to talk."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Um, Trainer? I have a favor to ask.",
+            "choice_data_list": [
+                "I didn't see any of that. Right?",
+                "I didn't see any of that. Right?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Heh! Didn't expect any less from Dober's trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I make my promise, the festivities end, and we\nhead home..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hey, did something good happen? You've got a\ngoofy look on your face.",
+            "choice_data_list": [
+                "The, uh, food was just so delicious!",
+                "The, uh, food was just so delicious!",
+                "I-I didn't see anything!",
+                "I-I didn't see anything!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hey, how come you look so happy? Did\nsomething good happen?",
+            "choice_data_list": [
+                "The, uh, food was just so delicious!",
+                "The, uh, food was just so delicious!",
+                "I-I didn't see anything!",
+                "I-I didn't see anything!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh...</i> Of all the things to get excited about..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ahaha, I see. I hope you filled your belly."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But what else did you expect? The Mejiro family\ncooks are on par with those of high-class\nrestaurants."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The family cooks are on a whole different level\nfrom what you'd get elsewhere."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "More importantly... I'm rather impressed."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "More importantly... I'm rather impressed."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Despite being among all those famous Mejiro\nfolk, your appetite still managed to overpower\nyour nerves. Hehe.",
+            "choice_data_list": [
+                "Uh... Thanks?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober thinks I'm a glutton now, but at\nleast I managed to keep my promise to Mejiro\nRyan."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm? I didn't ask whether you saw anything..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm? I didn't ask whether you saw anything..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Wait. I-It couldn't be... You mean you saw...."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh, it's nothing! Forget it! If you saw nothing,\nthen it's fine. This conversation is over!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel a slight pang of guilt, but at least I\nmanaged to keep my promise to Mejiro Ryan."
+        }
+    ]
+}

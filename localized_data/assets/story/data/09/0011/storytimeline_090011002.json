@@ -1,0 +1,206 @@
+{
+    "title": "Investigation and Scouting",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Good morning! A delightful day starts with a warm greeting! Join me\nnow, everyone—good morning!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Also, I would like to announce that I, your class representative, will be\nparticipating in the team triathlon!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And I would like some teammates to join me! Please, please, please\nlet me know if you're interested!"
+        },
+        {
+            "name": "Both",
+            "text": "Good morning!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And a good morning to you, too! What great energy to start the day\nwith!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So Bakushin O is entering the triathlon. I bet her team will fill up in no\ntime after that announcement."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah! All right, we gotta start recruiting too!"
+        },
+        {
+            "name": "Polite Umamusume",
+            "text": "Ah, sorry... I don't think I can... I'm not that good at swimming or\ncycling anyway, so..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh... But you can run!"
+        },
+        {
+            "name": "Pessimistic Umamusume",
+            "text": "Yeah, but at this point, we don't stand a chance. Don't you know who\nwe're up against? The older students are entering too."
+        },
+        {
+            "name": "Pessimistic Umamusume",
+            "text": "They have more years of experience and training under their belt.\nWe'd only be turning the competition into a boring stomp."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Uh... I hadn't thought of that..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We won't know unless we try. It's not like the results are already\ndecided."
+        },
+        {
+            "name": "Polite Umamusume",
+            "text": "True, you two might actually stand a chance! We'll sit this one out,\nbut we'll be rooting for you! Good luck!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Look, it's N-Narita Top Road. Sh-sh-she's talking about the triathlon."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Well then, we must make haste! I'd like her to join my team."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Looks like Opera O is going to scout Top Road for her team."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "She's getting scouted? Wow!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "She's so good that people come to <i>her</i> with offers. I see, so this is\nhow the seniors team up..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...I completely forgot that we'd be competing against them. Hehe, I\nmust've gotten carried away..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita..."
+        },
+        {
+            "name": "Excited Umamusume",
+            "text": "Hey Top Road, you're entering the triathlon, right? Who's on your\nteam? I guess it doesn't matter as long as you're on it!"
+        },
+        {
+            "name": "Calm Umamusume",
+            "text": "I think you have a real shot at winning! I can't wait to see you\ncompete!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Um... I haven't actually decided if I'm entering or not yet. I mean, I'm\nnot that..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Coming through. Excuse me, Top Road. Are you still doubting if you\nshould participate?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yeah, I'm still thinking about it!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, what a tragedy! Do you not hear it? The applause of the\naudience! The cheers calling on you to seek glory!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The crowd is begging to see your dazzling performance on the\nanniversary stage. Do you intend to disappoint them?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I know you do not. You are not so cruel. I believe that you will take\nmy hand and join me at the banquet!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "...Are you... inviting me to your team?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Precisely! You are worthy of making an appearance in the legend of\nthe Overlord. I have long waited to make this fateful invitation!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "You have? ...I see."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hehe. Then I accept! Please allow me to join your team! I'll do my\nbest to live up to everyone's expectations!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Fantastic! Together, we, the fiercest of heroes, shall enliven the show!\nNow that we have myself, Top Road, and Doto, we only need one\nmore member."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wh-whaaa?! Y-you mean I was part of the team too?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'll pass. I already told you I'm not interested."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aren't you on Opera O's team? I thought I already turned down her\ninvite."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yes, I heard. But then I saw her registering you onto our team..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "So I stopped her and came to ask you myself! It wouldn't be right to\ngo behind your back."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thanks. I can't believe she did that..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "She dragged you into this too, I assume. You know... you ought to\nstand up for yourself."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Opera O gave me the final push I needed to enter, but I made the\ndecision myself!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "She made me realize something. She said that people are hoping to\nsee me compete, so I should step up and get onstage!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "And I thought—she has a point! It's an honor to have people rooting\nfor me, so I don't want to let them down!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I think she sees some skill in me too, and that's why she came to ask\nme in particular."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Or at least I think so. With the way she speaks, it's hard to understand\nher sometimes!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...You're seriously..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Fine. I'll join."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Really?! Thank you, Ayabe!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If I don't step in, you'll get wrapped around Opera O's little finger. You're too\nnaive for your own good."
+        }
+    ]
+}

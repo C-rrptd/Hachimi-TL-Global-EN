@@ -1,0 +1,196 @@
+{
+    "title": "Keep This Secret",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Seiun Sky doesn't show up for training. I\nwander around the campus, hoping to spot her."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Snooze...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I find her on the roof, sleeping in an outfit that\nlooks somewhat out of place there."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yeah, this is what I wore to the Droite."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't look at me like that. This outfit is pretty\nflexible, and it breathes well, believe it or not."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "It fits like my tracksuit, which means I can use it\nas pajamas.",
+            "choice_data_list": [
+                "But why are you even napping in the first place?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Now that's the real tragedy. I'd been putting off\nmy laundry for a while, and then, one right after\nthe other, all the laundry machines in the dorm\nwent kaput!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And then! El and Grass dragged me into a game\nof tag, and I got my uniform all dirty."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I don't have any other comfy clothes, so..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is my chance."
+        },
+        {
+            "name": "Monologue",
+            "text": "She brings me dashing down the stairs and bursts\ninto an empty classroom on the second floor\nwhere she pulls me to a window."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Keep quiet... Do you see her?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow Sky's gaze to see a kitten clutching\ndesperately to a tree branch in reach of the\nsecond floor."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I've tried to grab her a bunch of times, but my\narms aren't quite long enough."
+        },
+        {
+            "name": "Monologue",
+            "text": "We take turns reaching for the cat, but it's just\nout of reach. So we put our heads together to try\nand—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooooshhh!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A powerful wind blows, knocking the kitten off\nbalance. It hangs on, clutching the bark with its\nclaws. At any moment, it could fall..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...!",
+            "choice_data_list": [
+                "Here, you reach out, and I'll hold onto you!",
+                "Run down to the ground floor before she falls!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Got it! Don't drop me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She reaches out the window with hands\noutstretched. Her fingers are millimeters away\nwhen the kitten loses its grip and falls!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At that very instant, Sky kicks off from the\nwindowsill and soars into the air!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She catches the little kitty in midair and holds it\nclose to her chest as she lands on the ground with\nan impressive roll, lessening the impact."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "There, there. You feeling okay, kitty?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That was scary, huh? You must've been so\nsurprised, nya-ha-ha."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Oh, Trainer. You look pretty confused.",
+            "choice_data_list": [
+                "I had no idea you could move like that."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh please, anyone could do that when push\ncomes to shove. Doesn't hurt that these clothes\nare so easy to move around in, though!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Still, keep this to yourself. I don't want anyone\nelse to know."
+        },
+        {
+            "name": "Monologue",
+            "text": "She raises a finger to her lips, looking a bit\nembarrassed."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Got it—be there in a jiff."
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment those words leave her lips, Sky steps\nup onto the windowsill."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Here... goes... nothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She swiftly leaps into the air and, like a parkour\nartist, hops and skips down the windowsills and\nrain pipe. In just seconds she's on the ground."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay! Come here, kitty!",
+            "choice_data_list": [
+                "How'd you do that?!",
+                "How'd you do that?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Oh... Well, the stairs would've taken too\nlong."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And I've been practicing taking shortcuts\nwhenever I find the time."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But that's not what's important right now! We\nhave a cat to save! Here, kitty! You can jump—I\npromise I'll catch ya."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few seconds later, the kitten falls from the tree\nand into Sky's hands. Thankfully, it's unhurt."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What a relief... Sweetie, promise me you won't go\nclimbing up so high anymore, okay?"
+        },
+        {
+            "name": "Kitten",
+            "text": "Meow."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What's this, did you understand me? You're such\na cutie. Mew mew mew!"
+        }
+    ]
+}

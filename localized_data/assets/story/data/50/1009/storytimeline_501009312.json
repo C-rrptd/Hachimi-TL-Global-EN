@@ -1,0 +1,252 @@
+{
+    "title": "『日本ダービー』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet gazes pensively off into the\ndistance.",
+            "choice_data_list": [
+                "Scarlet?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Eek?! What the heck! Don't startle me like that!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "S-So it's time to train already, is it? Hmph, no\nproblem! I'm ready whenever!",
+            "choice_data_list": [
+                "In your school uniform?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "All right, maybe I misspoke!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What I meant was, I thought we were going to\nwatch a race today!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Where did that remote get to? Ugh, fine. I'll just\ndo it by hand..."
+        },
+        {
+            "name": "TV",
+            "text": "All eyes are on the talented athletes in this year's\nJapanese Derby..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Oh."
+        },
+        {
+            "name": "TV",
+            "text": "<i>Blip.</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...",
+            "choice_data_list": [
+                "Is it still bothering you?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I just don't get it."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What does she even mean by \"cool\"? If that's her\ngoal, she could at least be consistent."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She entered the Oka Sho, then totally reversed\ncourse and changed tours. She quit like a coward\nmidway! Is that supposed to be cool? It seems\npretty lame to me!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And yet...",
+            "choice_data_list": [
+                "Why did she enter the Derby?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's what I'd like to know! I don't have a clue!",
+            "choice_data_list": [
+                "Then how about we ask her ourselves?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Pardon?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "N-Now, just hold on there, Trainer. Where do you\nthink you're going?"
+        },
+        {
+            "name": "Crowd",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Spectator A",
+            "text": "It's been a long time since I've seen someone\nswitch tours. Years, at least..."
+        },
+        {
+            "name": "Spectator B",
+            "text": "I really wanted to see Vodka take the usual tour\nroute and run the Japanese Oaks, like Scarlet.\nShe really could have taken the Queen's throne..."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Nah, that would've been too cliche. This is way\nmore interesting."
+        },
+        {
+            "name": "Spectator B",
+            "text": "Not to me. It just feels like she ran away from the\nTiara."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It seems like not everybody's happy with what\nshe's done."
+        },
+        {
+            "name": "Caster",
+            "text": "The leading pack has passed the big tree and\nthey're onto the final stretch! Who'll push ahead\nfor the lead?!"
+        },
+        {
+            "name": "Caster",
+            "text": "And it's Vodka! Vodka's broken through the\npack... but she looks like she's struggling! She\ncan't quite overtake the front!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Spectator B",
+            "text": "See, what did I tell you? She should have gone for\nthe Japanese Oaks, not the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "Skeptical murmurs rise from the crowd, but Vodka\nkeeps on running."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her head held high and her eyes focused\nforward, she brushes off their concerns, never\nstraying from her path."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What the heck?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What are you <i>doing?!</i> Are you really going to lose\nnow?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Show them why you're here! Pull yourself together\nand run like I know you can!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Show them you weren't just running away from\nme!"
+        },
+        {
+            "name": "Caster",
+            "text": "Hold on... Vodka's making a break for it! She's\ndone it! She's used her sprinting skills to break\nthrough!"
+        },
+        {
+            "name": "Caster",
+            "text": "The winner of the Japanese Derby is Vodka! She\npowered past the others and made it to the finish\nline!"
+        },
+        {
+            "name": "Crowd",
+            "text": "<i>Wooooo!</i>"
+        },
+        {
+            "name": "Spectator A",
+            "text": "See! Wasn't she amazing?!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "You're right. My heart was racing! She was the\ncoolest!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "I'll never forget this race for the rest of my life!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A race... the crowds will never forget..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Nothing."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Vodka ran the Derby. That's all. Nothing more,\nnothing less."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But... why can't I get it out of my head?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Why can't I forget the moment she became\nnumber one?",
+            "choice_data_list": [
+                "Because she was cool.",
+                "Because she was cool."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Cool? What does that even mean?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's just some nonsense she keeps spouting. It\ndoesn't mean anything tangible... So, why..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Trainer, I can't stand this! I need to beat her!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She took away my \"number one\" title. I need to\ntake it back!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A brilliant flame burns in Daiwa Scarlet's eyes."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's still not really able to see where this quest\nfor \"number one\" will take her, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I think we've found a big clue. Next up is the\nShuka Sho, the last race of the Triple Tiara."
+        }
+    ]
+}

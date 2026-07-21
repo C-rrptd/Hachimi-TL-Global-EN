@@ -1,0 +1,200 @@
+{
+    "title": "竜ゴル城にお出迎え",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Phew... I knew the sun would feel hotter here, but\nit's even worse when I think about how I still have\nanother five laps to go."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Heeey, Mackie! We <i>gotta</i> do this crab walk stamp\nrally! That or play a game of card-flip!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wh-why are you dressed as if we're here to play\ngames?! The purpose of summer camp is to <i>train!</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But we're at the beach! There's a huge mess of\nthings more important to do!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Like writing a poem in the sand that reconciles\nquantum mechanics and relativity! Or fighting\nover real estate with hermit crabs!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Enough of that. Save your inane ideas until we've\nfinished training!",
+            "choice_data_list": [
+                "You heard her. Let's stop bothering McQueen."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Geeeez, what's up with you two? Just what do\nyou think the ocean's here for?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff... Huff...</i> All right, now for thirty dash\nruns—hm?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship?! Are you okay?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Agh, eeegh! S-somebody give me w-water... and\nworms..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I-I've only got water! Here, drink this, quickly!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aaah... I owe you my life, friend! Please, you must\nlet me repay you!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Allow me to take you to Gol-Chateau... If you do\nnot come, I will be cursed to split invisible\nwatermelons for eternity!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What kind of ridiculous curse is that?! Ugh... You\njust want me to go with you, correct? Fine!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I had no idea a place like this was right near\ncamp... And is that what it appears to be? A food\nstall with a mountain of corn?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It certainly is. Corn is Gol-Chateau's most famous\ncommodity. First things first—we'd better get to\ngrilling!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well, I would love to eat, but—I mean, that is\nvery generous of you, but we shouldn't eat in the\nmiddle of training."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah, unfortunately, you can't decline. You see,\nnow that you've entered Gol-Chateau, you're to\nbe part of the reception games, and hospitality is\n<i>mandatory!</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "There's only one way to leave. You have to play\neach and every reception event with me!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Goodness. I suppose I'm the fool for following\nyou here. I can't believe I'm about to do this."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yeeeah! Look at us, getting a full combo in\nGol-Chateau's traditional sea bream dance!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Heavy panting...</i> I have no clue what any of that\nhad to do with sea breams... Anyway, what's next?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're playing nothing-but-bunker golf! Only 564\nevents left! I hate to say it, but it looks like we're\nalmost done!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "564 left?! We're not the slightest bit done!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Haven't we played enough? If we do every event,\nwe won't make it back until next century!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What? But we're just getting to the good stuff!\nCome back, Big Maaack!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Yawn...</i> Ah, what a refreshing morning... Hm?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What is this? Why is there a strange package\noutside my door? ...It says \"Pandora's box.\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sniff, sniff...</i> Cake, donuts, custard? All I smell are\nordinary sweets..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Don't be fooled. All but one contain my specially\nmade sweet, savory, spicy, sour, bitter ball of\nall-encompassing flavors... The game begins now,\nMcQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I knew this was your doing! Stop right there!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, you're here! Did you see Gold Ship just now?\nThat scamp has been causing nothing but\nmayhem since yesterday!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So Gold Ship is still being a thorn in McQueen's\nside. Why is she bent on interrupting training this\ntime, though? Could it be...",
+            "choice_data_list": [
+                "I think... she just wants you to play with her."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What?! It couldn't possibly be as simple as that..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, that's entirely plausible for her, isn't it? She's\nreached a new level of pure disruption."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I suppose if she only wants a little attention...\nWait, maybe that would have the opposite effect.\nWhat to do..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm worried about letting Gold Ship have her way\nunchecked. Should we indulge her or try to calm\nher down?",
+            "choice_data_list": [
+                "Let's play whatever games she wants.",
+                "Let's distract her and calm her down."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But I don't want this to get in the way of Mejiro\nMcQueen's training. I suggest we come up with\nsome kind of pair work that Gold Ship would like\nto do as well."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship? I came upon a type of training that I\nthought you'd enjoy. Would you care to join me?\nIt's called... um...",
+            "choice_data_list": [
+                "High-knee conch-collecting relay racing!",
+                "High-knee conch-collecting relay racing!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whoooa! The training that took the west coast by\nstorm! I'm totally in, let's do it! So we doing\nTokyo or Osaka rules?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Gold Ship appears to have a great time playing\nagainst Mejiro McQueen."
+        },
+        {
+            "name": "Monologue",
+            "text": "But someone is going to have to take the brunt of\nGold Ship's pent up energy, and the only other\nperson around is... me!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A-are you certain about this? We're talking about\nGold Ship here—can you take her on by yourself?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Come on, come on! I still haven't squeezed out\nevery last drop of summer joy! Next up is the\nundersea hula hoop party!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as McQueen feared, I quickly become\nexhausted... but I somehow manage to keep Gold\nShip's full attention."
+        }
+    ]
+}

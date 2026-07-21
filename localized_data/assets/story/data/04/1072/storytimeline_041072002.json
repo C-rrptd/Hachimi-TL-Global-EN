@@ -1,0 +1,230 @@
+{
+    "title": "烈火に問う",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been a few days since the tryouts, but I'm still hung up on what\nhappened. Which, uh, potentially explains why I've wandered my way\nto the riverbank without realizing it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki was like a different person in the race, compared to\nhow she was when I saw her here.",
+            "choice_data_list": [
+                "(I wonder why she changed so drastically...)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HAH!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah! You're..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...The trainer who came to watch me at the tryouts. I apologize for not\ngreeting you then, but I did notice you in the stands, and I'm most\ngrateful that you attended."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I only wish... that I had not put on such a disappointing display after\ninviting you. I am deeply shamed by it...",
+            "choice_data_list": [
+                "You were like a different person out there.",
+                "You were like a different person out there."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...!",
+            "choice_data_list": [
+                "And it got me wondering—which is the real\nyou?",
+                "And it got me wondering—which is the real\nyou?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...You are quite perceptive."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I had to say which was more representative of my natural state, it\nwould be the side of me you saw at the tryouts."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Recklessly charging at things, unable to contain the blaze in my\nheart... I was not born experienced, after all."
+        },
+        {
+            "name": "Young Yaeno Muteki",
+            "text": "Argh, just shut up! I just... I'm so <i>mad!</i> I hate this! I hate how my vision\ngoes all hot and red!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "In my youth, I was no better than an animal, violently acting upon my\nevery emotion and whim. I thought dominance... power was the\nsolution to any inconvenience."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "For I knew not any other way to achieve my will. I let the heat in me\nboil over, hurting others—and they shunned me for it."
+        },
+        {
+            "name": "Young Yaeno Muteki",
+            "text": "Fine, then! I'll just take 'em down! I'll get rid of <i>all</i> those dumb\nweaklings, and... have fun by myself... alone..."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "\"Weaklings,\" hm? I see. In that case, you'll never be alone—not with\nsomeone as strong as Grampa around."
+        },
+        {
+            "name": "Young Yaeno Muteki",
+            "text": "Ah... G-Grampa."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Now then, it's already past time for your training, Yaeno. Let's get to\nthe dojo."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "He was the one person who stayed by my side, through all my\nnaivety—my grandfather, head of the Kongo Yaegaki school of\nunarmed martial arts."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And he told me something about the blaze inside me... If I whipped\nthat raw flame around like a weapon, it would burn me along with\neveryone else."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "He taught me that Kongo Yaegaki forms can temper my once aimless\nrampages... And that controlling my strength will show me how water\nbalances so perfectly even and still.",
+            "choice_data_list": [
+                "And that's how you learned to compose\nyourself.",
+                "And that's how you learned to compose\nyourself."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes. Through daily training under his mastery, I learned techniques to\nrestrain my aggressive instincts. And eventually, I learned to get\nalong with others."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "But though I tried to maintain water's tranquility, the fire was still\nsmouldering within..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I was so terrified that it would flare back up and hurt the people\naround me. Until one day, Grampa asked me something."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "There is a way to best others without harming them—to compete out\nof joy, not hate. It is a discipline where a raging blaze can become a\nbeacon of light. Now, what do you think it is?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I may, I'd like to pose you the same question. What do you think my\ngrandfather meant?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A way to enjoy competition without harming others... I'm fairly sure I\nknow the answer.",
+            "choice_data_list": [
+                "Racing!",
+                "Racing!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You have a sharp mind indeed."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When I learned of racing, I was overjoyed, for I finally knew the path I\nwas meant to take."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Martial arts would give me control over the violent blaze, and races\nwould give me a place to wield it, a place where it would shine."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And then... I had a thought. If I performed well in races—if I achieved\nglory... then I could finally pay him back."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Grampa... I've caused him so much grief and worry. I wanted to show\nhim something to be proud of."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And yet—"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Even here! Even in races, the aggression overtakes me, bringing\nnothing but bitter humiliation!",
+            "choice_data_list": [
+                "Yaeno Muteki..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I have to beat this naivety back! I have to beat the blaze that stokes\nmy temper!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Or else, I'll... I'll never be more than an amateur. I'll never repay the\ndebt I owe!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I need to train more. I must train harder..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The lack of control pains her so, and yet Yaeno Muteki works\ndiligently to overcome it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her resolve, I reflexively speak up.",
+            "choice_data_list": [
+                "Can I help you train?",
+                "Can I help you train?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Huh?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Why would you do that? From a trainer's perspective, I'm just an\naggressive, unruly Umamusume. There's no merit to training someone\nlike me.",
+            "choice_data_list": [
+                "This isn't about <i>merit.</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm completely sincere—looking her straight in the eyes as I continue.",
+            "choice_data_list": [
+                "Hearing everything made me want to see you\nsucceed.",
+                "Hearing everything made me want to see you\nsucceed."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...You truly mean it. Your words, your eyes... they speak to your\nunwavering resolve."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I'm honest, I recognize that I'm lacking guidance in this field. I\nhumbly ask your assistance."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I wish to control the blaze inside me... Would you help me find the\nway?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I am most grateful."
+        },
+        {
+            "name": "Monologue",
+            "text": "A massive wall looms in Yaeno Muteki's path... But we'll think of a\nway to conquer it—together!"
+        }
+    ]
+}

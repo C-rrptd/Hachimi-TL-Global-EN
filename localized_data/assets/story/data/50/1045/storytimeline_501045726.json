@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out with Super Creek..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Oh? Hehe, that could be fun. ♪",
+            "choice_data_list": [
+                "What could be?",
+                "What could be?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Look over there! It's filled with so many cute\nplushies"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look in the direction Super Creek is pointing and\nsee a claw machine filled with stuffed\nUmamusume toys."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, they're so cute. I just want to take care of\nall of them!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But I've never really tried these machines before..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A troubled look spreads across Super Creek's\nface.",
+            "choice_data_list": [
+                "Do you want me to win you one?",
+                "Do you want me to win you one?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Really? You'd do that for me? Well, if you're\noffering, then I gratefully accept!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good luck! Oh, but don't push yourself too hard,\nokay? That's a big no-no!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "title": "ラブ逃げエスケープ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I head over to the training track..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Huff...</i> Phew... How was my time?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Perfection! And talk about form! Hey, you! Wasn't\nshe amazing?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'm guessin' that hot spring trip really paid off.",
+            "choice_data_list": [
+                "Hot spring trip?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, we went to a hot spring the other day, just\nthe two of us..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Mmm... That water felt sooo good..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But how come you invited me to the hot spring all\nof a sudden?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You've been working yourself to the bone lately,\nso I figured washing your fatigue away would do\nyou some good."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It's nice to get away from the daily grind every\nonce in a while, y'know?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Palmer... Ehehe, thanks!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I booked us in for a beauty treatment after this\ntoo! ♪"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "B-beauty treatment?! Uh, that's not really my\nthing!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "C'mon, just give it a try! It's not every day that\nyou can get the full spa experience!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sure, it might be important to focus, but you\nneed to escape sometimes too, you know."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ahaha... I wasn't expecting a beauty treatment,\nbut I think my muscles are looking way shinier\nnow."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Come to think of it, that manga you were reading\nthe other day had a scene where that couple ran\naway to a hot spring too, right?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! It was so swoon-worthy! The way they held\nhands as they walked along the mountain path..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Wait. How do you know about my favorite\nmanga?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Well, 'cause I like that comic too! ♪ A romantic\ngetaway sounds so dreamy. Like lovers on the\nrun..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "L-l-lovers?! What are you talking about, Palmer?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "C'mon, don't be like that! Lemme explain."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Y'know how characters in manga always tell each\nother how they feel when they run off to\nsomewhere unfamiliar?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That means their runaway romance is what saves\nthe day!",
+            "choice_data_list": [
+                "Love sure is important!",
+                "Love sure is important!",
+                "Maybe it's true that unfamiliar experiences help\nyou grow."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That means their runaway romance is what saves\nthe day!",
+            "choice_data_list": [
+                "Love sure is important!",
+                "Love sure is important!",
+                "Maybe it's true that unfamiliar experiences help\nyou grow."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, you escaped your grueling training routine\nby running off to the hot spring, and that helped\nyou give your muscles some TLC, yeah?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Your muscles are always taking good care of you,\nright? And this trip helped you express your love\nfor 'em, didn't it?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah... You're right! I <i>haven't</i> been showing my\nmuscles enough love and care lately!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I've been in such a rush to workout that I've been\npushing them too hard... I guess I never thought\nabout how <i>they</i> felt."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thank you, Palmer! You've really opened my eyes\nto something super important!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uh-huh! Glad to help. And don't forget to give\nyour muscles more runaway romance! ♪"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I mean, training is kinda like escaping from\neveryday life anyway, so..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, I get it! So the hot spring and beauty\ntreatment were a form of training to help\nstrengthen my mind!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Thanks, Palmer! I'm gonna go hit the showers and\nice up my muscles like a monk standing under a\nwaterfall!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nice! I'd expect nothing less from a muscle\nmaniac like you. A waterfall escape... Now that\nsounds refreshing. ♪"
+        }
+    ]
+}

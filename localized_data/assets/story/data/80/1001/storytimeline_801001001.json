@@ -1,0 +1,83 @@
+{
+    "title": "曲がり角には、気をつけます！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm rounding a corner..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh no, oh no, oh no! L-look out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm so sorry! I was in such a huge rush that I—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, right! Sorry, but I made a promise, so I'll be—",
+            "choice_data_list": [
+                "A promise?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yes!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I completely forgot that I promised to race with\nmy friend, so I'm rushing over there now...",
+            "choice_data_list": [
+                "Then you should probably save that energy for\nthe race.",
+                "Then you should probably save that energy for\nthe race.",
+                "You'd better hurry, then."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I completely forgot that I promised to race with\nmy friend, so I'm rushing over there now...",
+            "choice_data_list": [
+                "Then you should probably save that energy for\nthe race.",
+                "Then you should probably save that energy for\nthe race.",
+                "You'd better hurry, then."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah... That's a good point!"
+        },
+        {
+            "name": "Special Week",
+            "text": "If I give it my all now, I'll be out of energy when\nit's time for the real race with my friend!"
+        },
+        {
+            "name": "Special Week",
+            "text": "All righty, I'll just jog slowly in the hallway to\nrecover my strength!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thanks for the advice!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Got it! Thanks, and I'm sorry for crashing into you!\nBye!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week runs off again in a panic, however..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Uh-oh! Out of my waaay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        }
+    ]
+}

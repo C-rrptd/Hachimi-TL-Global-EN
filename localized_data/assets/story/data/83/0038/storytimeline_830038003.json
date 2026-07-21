@@ -1,0 +1,320 @@
+{
+    "title": "花咲く、いつか！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I accompany Sakura Chiyono O to the\namusement park to see if she's really gotten over\nher motion sickness."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I rode the train without any trouble! But now\ncomes the real test.",
+            "choice_data_list": [
+                "You can do it!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yeah! I won't let all my efforts so far go to waste!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "First up is the Ferris wheel!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whirrrr... Whirrrr...</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Whoooaaa. W-we're so high up. Ah, the view is\n<i>amazing!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I was totally fine with that! This must mean I'm\nmaking progress, right?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Okay, next up is... the roller coaster!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CHA-CHUNK, CHA-CHUNK</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wh-whoaaa! If I f-fell from here, I'd... Oh gosh...\nAh... AAAAAH!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hrk. W-well, I wouldn't call this motion sickness...\nIt's more... pure terror.",
+            "choice_data_list": [
+                "Wanna take a break?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "N-no way. I'll never beat this by taking breaks...\nOnwards!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It's finally time, and I've saved the hardest for\nlast... The teacups!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The teacup begins to move, then spin, then slowly\nbut surely, it gets faster and faster, until..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>SPIN! SPIN! SPIN!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Pant, pant...</i> Please! Make it stop! Ughhh!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ngh... Thanks for letting me lean on you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It looks like... I've still got a long way to go. A\nlong, long way..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh hey, you two! What brings you he—"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh my goodness! Chiyo! Your face is so pale!\nWhat's the matter?!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah, Maruzen?! I'm just, uh, well..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After hesitating a little, Sakura Chiyono O opens\nup about all the things she's been trying to\novercome her motion sickness."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I've... done it again. I brought up the lamest thing\nabout me. You must think I'm such a loser."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Not in the least! In fact, it's admirable how hard\nyou're trying."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I just wanted to be cool like you, Maruzen. But\nI'm so...",
+            "choice_data_list": [
+                "Rome wasn't built in a day, you know.",
+                "You're giving up already?",
+                "You're giving up already?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I just wanted to be cool like you, Maruzen. But\nI'm so...",
+            "choice_data_list": [
+                "Rome wasn't built in a day, you know.",
+                "You're giving up already?",
+                "You're giving up already?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's true. It takes a lot of time and effort to see\nresults."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's okay to give something all you've got, but\ndon't rush yourself. Go at your own speed. ♪"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, what's with the sad face? Oh, your hair and\nclothes are all messed up."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Here, let me fix those for you."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, your hair's so soft. I'm really tempted to\nstroke it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're welcome to! As much as you'd like!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Come on now, stop squirming. Your bow is\ncrooked too. Let me redo it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Okay!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "There, all done."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Th-thank you very much! But I'm sorry... for\nmaking a scene again."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C'mon, chin up. If you wanna be cool, you've\ngotta act cool, every single day."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Even if you fail, you gotta keep at it until you're\nthe cool cat you wanna be."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...R-right! I won't let you down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing Maruzensky's advice, Sakura Chiyono O\nnods vigorously. She may not have overcome her\ncondition yet, but I know one day she'll turn\nthings around."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I... Well..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Don't push yourself too hard. Everyone struggles\nwith something."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Yeah, I guess. I'm sorry for dragging you into\nthis, though. I didn't mean to...",
+            "choice_data_list": [
+                "I'm helping because I want to."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Thank you. Sorry, I shouldn't be sulking, should\nI?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Say, I've got an idea! How about we go shopping\ntogether next time, for a change of pace?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Together?! Uh, but I, um..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Come on, picture it—the two of us, strolling\nabout and window shopping."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I could even pick out some radical clothes for\nyou!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Maruzen..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes! I'd love to go shopping with you!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I need to work hard on myself, so I can pull off\nthose trendy outfits!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she hasn't overcome her condition yet, it\nseems like nothing will stop Sakura Chiyono O\nfrom achieving her ambitions."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "No... No way! I'll never give up!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Even if I couldn't totally overcome my nausea, I\nstill improved a little."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So even if it's just a little better than before, I'm\ngonna keep doing what I can!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, that's it. Know your limits and just try your\nbest."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh...",
+            "choice_data_list": [
+                "It's okay to make a little bit of progress at a\ntime."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Yeah, you're right. Both of you are."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I see now. I was in too much of a hurry to get over\nmy motion sickness."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But I just really wanted to go for drives with you,\nMaruzen..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Really?! That's why you were in such a rush?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh? Agh! N-no, I-I mean..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, you're so cute! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, there's no need to panic. I have all the time\nin the world for you!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "We'll take a ride together one day, I just know it.\nI promise we will."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It might take some time, but I <i>will</i> overcome my\nmotion sickness someday!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay. Until then, let's hang out with our feet\nfirmly on the ground. I'm sure we can have plenty\nof fun that way too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O's pale cheeks flush red, and as\nthe two of them smile at one another, I can't help\nbut think they look alike."
+        }
+    ]
+}

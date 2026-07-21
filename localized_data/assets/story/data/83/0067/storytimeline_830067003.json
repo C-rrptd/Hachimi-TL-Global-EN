@@ -1,0 +1,59 @@
+{
+    "title": "鍛えよ共に",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "There's still time today to do some more training.\nI ask the students gathered on the racetrack what\nthey'd like to do."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh! I want to do some partner running! Prez is\nhere too, so there's no better chance to run with\nher!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Um, I'm feeling good today, so I want to use this\nopportunity to hone my running technique as\nmuch as possible!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm... Physical activity is good, but how about\nlooking to the wisdom of the racing greats? By\nreading of their deeds, we can heighten our\ncollective knowledge."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As a matter of fact, I heard that a new manual has\nbeen added to the library's collection."
+        },
+        {
+            "name": "Monologue",
+            "text": "All the proposals sound good to me. If I were to\nchoose something we could all do together,\nthough...",
+            "choice_data_list": [
+                "Let's read up on how to improve our running.",
+                "A good, solid run is the way to go!",
+                "We ought to polish our technique until it shines!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Then it's decided. Everyone, go get changed.\nWe'll meet outside after. Make sure to stay warm,\nall right?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Let us read our way to greater heights."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Now that's what I'm talking about! Running's more\nfun when you have company!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "C'mon! What are we waiting for? You'd better get\na move on if you want to beat me, Prez!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Yay! I don't know how long this healthy streak will\nlast, so I want to make it count!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I'm going to put everything I've got into—<i>cough,\ncough!</i> Sorry about that! I mean, I'll give it my all\nwhile making sure I don't overdo it!"
+        }
+    ]
+}

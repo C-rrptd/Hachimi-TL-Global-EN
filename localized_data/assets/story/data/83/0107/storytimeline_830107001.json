@@ -1,0 +1,163 @@
+{
+    "title": "渚のリゾート Romanticに恋して",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Ooh, I just love coming to the beach! My heart\nraces with every trip!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ahaha... I have to say, your driving makes my\nheart race just as much."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh? But the real excitement is yet to come.\nThere's a place I've been dying to go to!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Wow, how beautiful! The interior is quite\nclassical. It's like a time capsule in here!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, I knew you'd feel that way. This place just\nscreamed \"hip\" when I passed it by!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Check out these lights! This is an antique French\nchandelier from the nineteenth century. And the\nother ornaments are just as impressive..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right, we've got one day for this trip, so let's\nenjoy it to the fullest!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, and this gorgeous spa is to die for! I have to\nget a good soak in. ♪"
+        },
+        {
+            "name": "Hotel Concierge",
+            "text": "Pardon me, I would like to offer you two a drink\non the house."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, how nice of you! Could I have a glass of\nsparkling water with a slice of lemon? ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Tazuna, you order something too! Don't let the\njacuzzi turn you to jelly!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Phew, I had myself a wonderful time! I rarely eat\nFrench cuisine, so I'd long forgotten how\ndelicious it can be!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Both the amuse-bouche and the dessert were\nperfect! I love a good Italian dish, but French\nfeels right for this hotel!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mister garçon, could you give my compliments to\nthe chef? The food was impeccable!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm so impressed! This resort is the bee's knees!"
+        },
+        {
+            "name": "Manager",
+            "text": "Thank you for your gracious comments. I am the\nmanager in charge of this hotel."
+        },
+        {
+            "name": "Manager",
+            "text": "If I could trouble you with a question... Was there\nanything not to your liking thus far?"
+        },
+        {
+            "name": "Manager",
+            "text": "...It doesn't have to be anything significant, but I\nimplore you to give me your honest opinion,\nwithout any frills."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh my... but nothing exactly comes to mind. Is\nthis a simple feedback session, or is there more to\nyour question?"
+        },
+        {
+            "name": "Manager",
+            "text": "I am most embarrassed to say this, but the truth\nis..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "What? You're at risk of closing?"
+        },
+        {
+            "name": "Manager",
+            "text": "Yes. We've been in the red for some time, with\nthe new resort in the area garnering most of the\nattention. Time is not on our side, unfortunately..."
+        },
+        {
+            "name": "Manager",
+            "text": "However, we're hoping to try something with this\nrenovation project we're planning..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, if I've got this right, you want our feedback to\nhelp with ideas to improve the facility."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Is there any room for improvement? Hm... I do\nwant to help, but I have nothing but compliments\nfor this place."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Me too... But I can't turn a blind eye. This hotel is\nyour pride—losing it would be absolutely awful."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...Oh! How does this sound? I could help out with\nthe renovation!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "For instance... I could be an ambassador of sorts!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Believe it or not, I have quite a lot of\nconnections! I'd be able to convince loads of\npeople of this place's charm. ♪"
+        },
+        {
+            "name": "Manager",
+            "text": "W-would you really do that for us?! Thank you so\nmuch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm walking around the academy..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "\"A seaside resort, I'm in the mood for romance.\"\nHm... it's not as trendy-sounding as I hoped.",
+            "choice_data_list": [
+                "What's on your mind?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Maruzen has become the ambassador for a hotel\nresort! She's currently working on the lyrics for\ntheir theme song..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "\"A seaside resort, Love is in the air.\" Hmm...\nYeah, this is it! I've got my first line! Coming up\nwith the rest should be a piece of cake!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The catchy song becomes a hit on campus, and\nthe resort enjoys a boost in popularity."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Now to take it easy with a nice and relaxing\ndrive! ♪ Tazuna is busy with work, so... care to fill\nher spot?",
+            "choice_data_list": [
+                "What, right now?!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Now to take it easy with a nice and relaxing\ndrive! ♪ Tazuna is busy with work, so... care to fill\nher spot?",
+            "choice_data_list": [
+                "What, right now?!"
+            ]
+        }
+    ]
+}

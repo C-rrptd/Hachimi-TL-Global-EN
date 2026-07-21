@@ -1,0 +1,236 @@
+{
+    "title": "霧を晴らすダイアローグ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the tryouts is here, but I can't stop thinking about what\nT.M. Opera O said. If only I could understand her reasoning."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe I'll be able to find out at the race."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Aha... Your desire to see me won out at last.",
+            "choice_data_list": [
+                "I was thinking I'd like to get to know you better.",
+                "I was thinking I'd like to get to know you better."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh, then I'd be overjoyed to show you! Watch my race and be\namazed!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, but look now. My rivals have ventured forth in the midst of our\nconversation."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, Oppy! I'm super excited to race today! ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I, uh... I w-won't do well, but... I'll try really hard!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hahaha! What fine spirits you're both in! I look forward to a\nmagnificently fierce bout between us!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the fateful tryouts begin!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "This glory... shall be mine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's such a close race that anyone could seize it. As the finish draws\nnear, T.M. Opera O pulls ahead, and..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Huff... Puff... Sigh...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Barely, just barely, she takes first."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Phew... So close, but... I couldn't make it..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Huff... Wheeze...</i> You two were so fast!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And yet, despite the win, Opera O looks so... sullen.",
+            "choice_data_list": [
+                "Hey, good race. That was an impressive finish.",
+                "Hey, good race. That was an impressive finish."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Impressive... To you, perhaps. But not I..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Uh..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Hey, what's the matter with Oppy?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, uh, maybe she didn't win the way she wanted to?",
+            "choice_data_list": [
+                "The way she wanted?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um... This is just my own thought, and the truth might be a little\ndifferent... No, I'm sure I'm totally off..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But Opera O... She sets really high bars all the time. I learn a lot from\nher."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "She's always saying, \"My dignity as Overlord is at stake!\" Her heart's\nreally in it, you know? So winning by a tiny lead isn't quite, um..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her \"dignity as Overlord...\" I think I get why she looked so\nuncharacteristically sad."
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't just want to win races. She wants to stand tall, true to her\nname."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to shake my concern, I chase after Opera O, and when I catch\nup, the sky's overcast with dark clouds."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, you found me..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Tell me, do you prefer a sunny sky or a cloudy one?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I favor one filled with sunlight. The shine of the radiant sun fills\npeople with bravery, you see.",
+            "choice_data_list": [
+                "Uh, what are we talking about?",
+                "Uh, what are we talking about?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I'm telling you about my dreams. Ah, but to tell the whole story, we\nmust travel into the past..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "When I was a young child, I once became lost in a gigantic forest."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "In the middle of those dark woods, I had not an inkling of my\nwhereabouts... I'll always remember feeling as if I was the last person\nin the world."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "But then... Oh, I was bestowed with a great blessing! For that was the\nplace where I met <i>her...</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The Umamusume who would change my destiny!",
+            "choice_data_list": [
+                "Someone changed your destiny?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Indeed... In the deepest depths of that surreal forest, I found her in a\nspring of sweet water."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "She smiled up at me from the water's crystal clear surface and told me\nthat all would work out in the end."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "She had the mightiest presence in the world... The most beautiful... I\nwas moved to my very soul!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "To think that such a resplendent being had existed in this wide world!",
+            "choice_data_list": [
+                "Wait, when you say you found her <i>in</i> the\nspring...",
+                "Wait, when you say you found her <i>in</i> the\nspring..."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, you understand now! The Umamusume gazing up at me from the\nwater was my very own reflection!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I was stunned as if struck by the lightning of epiphany! Before that, I\nwas ignorant of my own hope-inspiring brilliance!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "If I were to truly become a lord absolute... how astoundingly bright\nthe light of the Centurial Overlord would be!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I would become nothing less than the sun, which bathes the whole\nworld in its warmth!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I <i>must</i> become that! I must be the sun of Umamusume that brings\nprosperity to all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm more confused than ever..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I see at least that she's serious about taking on the title of\nOverlord."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What's this?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, behold! The heavens have opened!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The light that shines forth... That is the supreme radiance I will\nachieve!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh, now is not the time to mope about. The Overlord must train for\nher next victory!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "O sun! Praise be to you for showing me the light! Hahaha! Haaah ha\nha ha ha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While T.M. Opera O is preoccupied with the sun on high, all I see is\nthe twinkling light of hope in her eyes."
+        }
+    ]
+}

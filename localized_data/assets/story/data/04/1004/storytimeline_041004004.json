@@ -1,0 +1,296 @@
+{
+    "title": "トゥインクル・ドリーム",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day after training with Maruzensky, another racer timidly\napproaches us."
+        },
+        {
+            "name": "Special Week",
+            "text": "Uh... Um, excuse me! H-h-hi, Maruzensky!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hello! Heheh, don't be so nervous. You're Special Week, right? The\nnew transfer student?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Y-yes! Um, um, your running is really great! You run like you've got\nplenty of energy to spare, but you're so fast... I really want to run just\nlike you do!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Made me think that if I want to be the top racer in all of Japan, I\nneed to be that fast too!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "The top of Japan? My dear, is that your dream?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, yes! It is!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I really want Mom and Mama to see me become the greatest racer in\nall of Japan. That's why I left Hokkaido to come here!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I see..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, that's great. I think it's a wonderful dream. I hope you make it\nsomeday! I'll be cheering for you, Spe! ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you so much! Um, i-if it's all right... Could we run together\nsometime?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'd love to run with you! Please, it'd mean so much!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "With me? Uh, let's see..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let me go check my schedule! I'll let you know ASAP. Sound good?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh wow, of course! Okay, see you later!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Catch you on the flip side. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...Like me, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, Maruzensky seems to be lost in the occasional thought during\nour training talk."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh? Oh..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm sorry. I lost focus. I've been thinking circles about what Spe said.",
+            "choice_data_list": [
+                "She asked to run with you, right?",
+                "She asked to run with you, right?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah... I mean, I wouldn't mind at all, you know? How could I not help\nout a cute little trainee?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But, you know... Spe has this crystal clear dream of hers."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can't imagine I'd be any help to a bright-eyed kid like that..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha, sorry! It's so strange—I always seem to get like this when I'm\nwith you."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha, sorry! It's so strange—I always seem to get like this when I'm\nwith you."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "She has faith in me, and as a role model, I can't let her down! Would\nit be okay to go for that run with Spe?",
+            "choice_data_list": [
+                "Sure, we can tell her together."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "She has faith in me, and as a role model, I can't let her down! Would\nit be okay to go for that run with Spe?",
+            "choice_data_list": [
+                "Sure, we can tell her together."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thanks. ♪ Then let's go find her."
+        },
+        {
+            "name": "Monologue",
+            "text": "She sounds happy about it, but I see some hesitancy in her step. She\nmust still be unsure if she can live up to younger racers' aspirations."
+        },
+        {
+            "name": "Monologue",
+            "text": "But she needn't worry, because the part of her Special Week and the\nothers draw aspiration from is..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer? What's the hold up? Let's get a move on!",
+            "choice_data_list": [
+                "Sorry, coming!",
+                "Sorry, coming!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer? What's the hold up? Let's get a move on!",
+            "choice_data_list": [
+                "Sorry, coming!",
+                "Sorry, coming!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Getting to the point, we're on for a pair run! How's this evening\nsound?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yes, that's great! Thank you! I can't believe I get to run with the\namazing Maruzen... I won't let you down!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Now, now... You don't have to be so serious, home skillet. It's just me\nafter all.",
+            "choice_data_list": [
+                "What about Maruzen do you like the most?",
+                "What about Maruzen do you like the most?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Uh, Trainer? What are you asking..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Uh, Trainer? What are you asking..."
+        },
+        {
+            "name": "Special Week",
+            "text": "You mean what do I admire most about her? Well, obviously she's a\nreally strong racer and all that..."
+        },
+        {
+            "name": "Special Week",
+            "text": "But the biggest thing is... no matter the race, she always looks like\nshe's having fun!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Huh?"
+        },
+        {
+            "name": "Special Week",
+            "text": "You know how racers in the Twinkle Series inspire runners\neverywhere?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I too came here to make my mom proud and give people hope... And\nI think Maruzen does that better than anyone."
+        },
+        {
+            "name": "Special Week",
+            "text": "She's strong, fast, and loves racing. It's amazing to watch, and so\nexciting!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Spe..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, oh no! It's my turn to clean the classroom today! Sorry, gotta go! I\nwon't be late for our run though!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, s-sure. See you later."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer... you're really something.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Trainer... you're really something.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, playing dumb, huh? Hmph, fine... Geez, I can't believe you\nthough."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, playing dumb, huh? Hmph, fine... Geez, I can't believe you\nthough."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "She said I give her hope and that my joy for running inspires her..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll look totally uncool if I back out after that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky seems to be in a great mood as she and Special Week run\ntogether."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant, pant, pant...</i> Wow, you really are amazing... I can't catch up at\nall!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Watch carefully, Spe. I'm about to put the pedal to the metal."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "We're just getting started!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wooow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maruzensky shows the younger racer an impressive run before\nreturning."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew... I'm back, Trainer.",
+            "choice_data_list": [
+                "Nice work, Maruzensky."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew... I'm back, Trainer.",
+            "choice_data_list": [
+                "Nice work, Maruzensky."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, I didn't even break a sweat. I'm still ready for more. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can't stand around dawdling if I'm going to inspire the younger\ngeneration!"
+        }
+    ]
+}

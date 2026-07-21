@@ -1,0 +1,167 @@
+{
+    "title": "Another Lighthearted, Leisurely Day",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Twas a good day, good day! Today's a great day! Ehehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser strolls into my office just before the day's\ntraining session, a satisfied smile on her face.",
+            "choice_data_list": [
+                "Did some shopping, I see!",
+                "Did some shopping, I see!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Right you are! I've got rainbow octopi, scallop strips, and even\ntokoroten—the honorable seaweed jelly and eighth of the Seven\nGods of Fortune!",
+            "choice_data_list": [
+                "Excuse me, what?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe! ♪ I mean that I enjoyed them all! The octopi, scallops, and the\neighth of the Seven Gods of Fortune, you know!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Still unsure of exactly what she is saying, I press her for more\ninformation."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's start at the beginning. Twin Turbo was telling me all about these\nrainbow-colored octopus gummies she likes, so I went to the store\nwith her!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "We procured the multicolored mollusks, and whaddya know!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "On the package it says that only the luckiest will find an ultra-rare\ncrab gummy hiding in the bag."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "We ommed and nommed on those opulent octos until we turned up\ntwo crabs! One for each of us!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "After that, I went to buy some scallop strips with Nature at the nearby\nshopping street. They really hit the spot during our tea time!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "One of the nice ladies who works there was kind enough to brew us\nsome tea that went perfectly with our fishy snacks."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I need to start calling her <i>Super-Nice</i> Nature or something, because\nshe let me have the last one!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Chewing on just one of those scallop strips gives you enough time to\nreally ponder life's most pressing questions..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And finally just before, I went to do some fortune hunting with\nFukukitaru! We crossed vast fields and crested great mountains, and\nfinally..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "An immense discovery! Who knew that tokoroten was right up there\nafter Daikoku-ten and Ebisu-ten as the eighth of the Seven Gods of\nFortune!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Fukukitaru <i>did</i> say that only we were privy to this info so far, so do try\nto keep this a secret for now."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But what a blessing! We had little choice but to devour the most holy\nof jellies—prayerfully, of course."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You know, I'm really lucky to have such nice friends."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but wonder how she's still ready to get right into training\nafter such a busy day."
+        },
+        {
+            "name": "Monologue",
+            "text": "Any normal person would be absolutely exhausted after all of that.",
+            "choice_data_list": [
+                "Are you okay for training? Aren't you tired?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh? Not at all! I didn't even leave the neighborhood! Still full of\nenergy over here. See? Could a tired person do this?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her little jig is much more convincing than I care to admit. In fact, she\nsomehow looks even <i>more</i> energetic than usual."
+        },
+        {
+            "name": "Monologue",
+            "text": "I may need to stop letting things like this surprise me so much.",
+            "choice_data_list": [
+                "You might be the liveliest person I know.",
+                "You might be the liveliest person I know."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Really? I think I'm pretty normal, but hearing that does make me feel\na little special, ehehe!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh hey, want some octopi? I've still got plenty!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wait a sec, where'd they get off to? Hey, come on out, octo buds!\nOooctopi!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Crash!</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Gwah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Tumble tumble</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Bwa haaaaa?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tannhauser has an unfortunate run-in with a table, and the octopi\ngummies that were resting upon it are now scattered on the floor."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she stands up, it is plain to see by her nosebleed that the table\nhad the upper hand in this bout."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ouchie ouchie, ob gourse dis would happen. <i>Sniff.</i>",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeb, neber been better! Dis happens all da time. <i>Sniffle.</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah, but look at all ma poor octo buds! Sorry, I'll come sabe you now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And this was supposed to be her lucky day, too. Still, I'm glad that I\ncan be there for her, in more ways than one."
+        }
+    ]
+}

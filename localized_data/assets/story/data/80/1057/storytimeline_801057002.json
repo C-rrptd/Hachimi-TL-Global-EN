@@ -1,0 +1,88 @@
+{
+    "title": "たとえタブーに触れても",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've had a truly awful day. After trying to stick to\nmy guns a little too stubbornly, I ended up really\nupsetting one of my colleagues."
+        },
+        {
+            "name": "Monologue",
+            "text": "Feeling guilty and exhausted, I decide to visit an\nizakaya bar but end up going overboard and\ncompletely incapacitate myself with drink."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's nothing I can do but dimly watch as\npassersby give me a wide berth and hurry along.\nJust when I begin to feel completely at a loss..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Uh-oh, someone's had a few too many. Are you\nokay? Can you stand?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Wait... Aren't you a trainer from the academy?\nWhat happened?",
+            "choice_data_list": [
+                "It's nothing serious..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha. You don't actually think you can fool me\nwith that, do you?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Let's get you somewhere safe. But first, I'll go buy\nyou some water! Hang tight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her kindness and the alcohol loosen my tongue,\nand I wind up telling her everything that\nhappened while she takes care of me."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "So you figured you'd drink your problems away,\nhuh? You've had a rough day!",
+            "choice_data_list": [
+                "Some role model I am..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "You regret not handling your feelings in a more\nproductive way? Hm... I mean, I get it."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But I really do understand where you're coming\nfrom. I'm one to go with my feelings, too."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I always want to be true to myself, but I always\nend up losing myself instead..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Uh-oh! I have to get going!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "What are you going to do? Are you going to rest\nhere, or do you want me to call you a taxi?",
+            "choice_data_list": [
+                "I'm gonna wait till my head clears up.",
+                "Yeah, I should get a taxi and head home soon."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "All right. Well, I do have to leave, but... Make\nsure you don't pass out here, okay?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hehe. See you around!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha, okay. I'll stick around until the taxi comes."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hello? I'd like to request a taxi..."
+        }
+    ]
+}

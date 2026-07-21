@@ -1,0 +1,32 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "During our training meeting, Biwa Hayahide gives\nout a sudden exclamation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What?! Objection! The defendant's explanation\nis—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...Ahem. Excuse me. Please continue as you were.",
+            "choice_data_list": [
+                "What kind of dream were you having?",
+                "What kind of dream were you having?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Um... You know that courtroom TV drama\neveryone's been talking about? It was about\nthat..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Please, don't ask me any more. I'm already\nembarrassed about that little outburst..."
+        },
+        {
+            "text": "However, another \"Objection!\" rings out ten\nminutes later. It seems like Biwa Hayahide's not\ngetting enough sleep."
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "title": "みんなでハッピー☆バーベキュー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On Copano Rickey's recommendation, today she\nand I are visiting a national park located in a\nlucky direction."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, dearie me! If it isn't Rickey and her trainer!\nFancy seeing you here."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, Acute! I never imagined we'd bump into you\nhere!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "I came here for a neighborhood association\ngathering. Everyone's out and about playing\ngames and having a barbecue."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hey, how about you two join us? The\nneighborhood association head said we were\nallowed to invite people we know.",
+            "choice_data_list": [
+                "Sounds fun! Do you want to join, Rickey?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I do! Thank you for inviting us, Acute!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All right, all you good girls and boys! How about\na game of tag before lunch?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'll be <i>it,</i> and you have to run away without being\ncaught. Got it? Reeeady, GO!"
+        },
+        {
+            "name": "Neighborhood Association Kids",
+            "text": "Aaaah!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Here ya go! One grilled carrot! They're piping\nhot, so be careful not to burn your mouths!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You're next! You said you don't like vegetables,\nbut I'm sure you won't have problems if you\ngobble them down with some meat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey is busily grilling and handing out\nskewers for all the neighborhood association\nattendees. She looks to be enjoying herself, but...",
+            "choice_data_list": [
+                "Hey, don't you forget to eat too!",
+                "Hey, don't you forget to eat too!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe, that's right. I'll put some food aside for\nyou, Rickey."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ahh! I had loads of fun, grilled some meat, and\nhad a great time with everyone. I really soaked up\ntons of good energy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grumble...</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, haha! And I might be a teensy bit hungry too.",
+            "choice_data_list": [
+                "You were running around on an empty stomach,\nafter all.",
+                "You were running around on an empty stomach,\nafter all."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "I've grilled you some meat, Rickey. There's tons\nmore, if you want seconds."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Here, have some tea, too. Fill your stomach and\ntake it easy!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yaaay! Don't mind if I do! The meat looks\namazi—ngh?!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Come now, drink your tea. Let me give you a\nlittle back massage too."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "There's no need to rush. The food isn't going\nanywhere. Make sure you chew properly so that\nyou absorb the nutrients better and you don't\nchoke."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe, okaaay."
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey is usually the one looking after\nothers, but when she's with Wonder Acute, it\nseems the roles are reversed."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Zzz... <i>Snore...</i>"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh dear, she fell asleep before she even finished\neating. I'll throw a blanket over her legs so that\nshe won't catch a cold.",
+            "choice_data_list": [
+                "You're very helpful."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Not at all. Why, it's the least I can do considering\nhow much she helps me."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Just like you saw today, Rickey always puts others\nbefore herself. She used to have me worried\nsometimes."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "But now, she has a trainer by her side to look out\nfor her."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe. Please keep watching over her, okay?",
+            "choice_data_list": [
+                "I'll make sure she's happy!",
+                "I'll make sure she's happy!",
+                "Leave Rickey to me!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe. Please keep watching over her, okay?",
+            "choice_data_list": [
+                "I'll make sure she's happy!",
+                "I'll make sure she's happy!",
+                "Leave Rickey to me!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hmm... You know how Rickey is often going on\nabout \"generative cycles\"? All that about people\nbeing each other's support?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, I have no doubt that Rickey has been filled\nwith happiness since the moment she met you,\nTrainer.",
+            "choice_data_list": [
+                "I really hope so."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "<i>Zzz...</i> Let's go, Trainer..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if she's dreaming about racing? Seeing\nher peaceful sleeping face fills me with warmth."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "How dependable! I'll be able to rest easy now."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "What is it Rickey always says? Rickey, lucky, um...",
+            "choice_data_list": [
+                "Super happy, I think?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "That's it! I'm super happy too! Isn't that right,\nRickey?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Gehehe... Everyone's so happy... <i>Snore...</i>"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "title": "さつまいもケーキ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As we walk along the river on our way back, I\nthink of the puppy that Air Groove ended up\ntaking home."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to ask her about how the dog is doing."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, yes. I received special permission to allow the\npup to stay in my dorm room. The dorm mistress\nhelps out when I'm not around."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I have to say, she's very smart. She learns quickly,\nand I don't need to correct any bad behavior\nmore than once."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Honestly, you could learn a thing or two from her,\nhehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove emanates an aura of positivity and\nkindness as she brags about her puppy."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm heading out to buy some dog food and treats\nnow. Care to join me?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Air Groove! Trainer!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, here already, Taiki? Strange to see you\nactually show up on time for once."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! Leave the puppy biz to me! If you're\nthe mama, then I'll be the papa!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Where in the world did this mama and papa stuff\ncome from?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ugh, I have to deal with this ridiculous rigmarole\nfrom my roommate every day as well... I'm sick of\nit!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, hold on just a minute! Are you sayin' Fine is\ntryin' to cut in on my job as papa?! Grrr, I'm not\ngonna take that sittin' down!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Enough, enough... I'm starting to feel a headache\ncoming on. Let's go—pet supplies are this way."
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us head to the pet supply section,\nand Air Groove stops in front of a shelf of dog\ntoys."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now then, Taiki. A crumb of your wisdom, if you\nwouldn't mind."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! I knew every sheepdog back on the\nranch like they were my very own family! Fire\naway, pardner!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Trainer, I'd like you to speak up if you think of\nanything, as well. Now, let's commence the toy\nselection process!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw, let's get to it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, Air Grooooove? Check out this\nsuper-duper-jumbo-size bone!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's larger than the dog! No—absolutely not!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The toy selection is off to what I think is\nsupposed to be a good start."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Air Groove buys a small rubber ball\nthat can hold a treat inside."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Y-you're really gonna pass on that big ball? Ngh,\nwhat a cryin' shame..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Taiki... What is with this unfathomable trust you\nplace in large things? I swear..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All the same, it's been... educational... having you\nhere. You have my thanks."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hold up, Air Groove! You're callin' it quits\nalready?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Look at all the yummy doggy treats! They've got\njerky, biscuits, cake—the whole enchilada! Let's\nget 'em all!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I suppose treats can be a useful tool to get a\npuppy's attention..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But I'm only taking care of her for a short while. I\ncan't foster too close a relationship...",
+            "choice_data_list": [
+                "Everyone needs a reward now and then.",
+                "Woof woof! Won'tcha feed a poor pup?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeah, nice assist! I knew you were a good'un!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Loosen up, Air Groove. Do ya care about the\npupper, or don'tcha?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "With a treat or three, we'll have a happy puppy\nbefore long! And a happy pup makes you a happy\nduck!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What an awful tag team you two make..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fine. Every now and then won't hurt. I'll buy some."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove acquiesces with a shrewd smile and\nbuys some doggy treats."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Excuse me? For your own sake, I hope that wasn't\nan impression of our little friend.",
+            "choice_data_list": [
+                "W... woof?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh, you've done it now! Hold it right there, and\nI'll show you at length just how far your feeble\nimitation falls from the mark!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wh-whoa there, Air Groove! Calm your jets!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "C'mon, a cute pupster deserves a treat now and\nthen! It's the recipe for even greater cuteness!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hrm..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Let me paint a picture for you, Air Groove.\nYou've got the dog biscuit in hand, and the pup\ndashes towards ya, all barks and wags! Woof,\nwoof, wahoo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmmm..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fine. But just so we're clear, I'm not doing this\nbecause of your silly charade, Trainer!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm just... bowing to Taiki's greater experience in\nraising dogs."
+        },
+        {
+            "name": "Monologue",
+            "text": "At any rate, Air Groove goes home with some\ndog treats in her bag."
+        }
+    ]
+}

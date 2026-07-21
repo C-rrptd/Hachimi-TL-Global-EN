@@ -1,0 +1,38 @@
+{
+    "title": "お肌の調子が……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Huh? No way! My skin looks terrible!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I've been getting enough sleep and applying\nmoisturizer! So why?!",
+            "choice_data_list": [
+                "Are there any feng shui remedies you could\nuse?",
+                "Are there any feng shui remedies you could\nuse?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's it!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "In feng shui, it's said that places where water is\nunbalanced in your home can cause skin\nproblems. You know, places like water pipes,\nsinks, and washbasins."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I've been so busy lately that I haven't checked\nthose areas in a few days. That all ends now,\nthough!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'll start by checking the north where the water qi\nis strongest, followed by water's counter, earth, in\nthe southwest! It's time to make things\nRickey-right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Watching her leave with a dejected look on her\nface, I hope that her skin problems clear up as\nfast as possible."
+        }
+    ]
+}

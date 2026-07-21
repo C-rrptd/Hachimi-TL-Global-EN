@@ -1,0 +1,91 @@
+{
+    "title": "勝者へ至るエチュード",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm passing by the outdoor stage..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Like a swan, I am beauty and might defined!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Whew. Perhaps those steps were <i>too</i> magnificent."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Not a single soul has arrived to watch me, but the\nmere thought of the crowd crying out my name\nsends chills down my spine..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh! Could it be?! Have you come to see my\nperformance?!",
+            "choice_data_list": [
+                "Uh, actually, I'm just passing throu—"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! There is no need to explain! You\nundoubtedly caught a glimpse of me and found\nyourself utterly entranced!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I was practicing my post-race victory pose! Your\nreaction is nothing short of natural!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What did you think? Do you believe it to be a\nperformance befitting the effervescence that\nsuffuses a venue after a race?",
+            "choice_data_list": [
+                "I think just running a victory lap would be\nbetter...",
+                "It was pretty good, yeah.",
+                "It was pretty good, yeah."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What did you think? Do you believe it to be a\nperformance befitting the effervescence that\nsuffuses a venue after a race?",
+            "choice_data_list": [
+                "I think just running a victory lap would be\nbetter...",
+                "It was pretty good, yeah.",
+                "It was pretty good, yeah."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A victory lap? Me, the winner, running alone on\nthe track like the wind..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I see! Yes, that sounds perfectly splendid!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "With that victory lap, I shall carve the strength\nand beauty of the Overlord into the minds of all!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now that that's settled, I shall start practicing at\nonce! So commences my victory lap etude!"
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O takes her leave while waving\ngoodbye to an imaginary audience."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Exactly! I knew it was brilliant!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "The glorious poses I display on the turf are what\nset me apart as the Overlord!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Now then, time to bring things to a true fever\npitch! Come, don't just stand there! Cheer me on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I end up watching T.M. Opera O practice her\nposing for quite some time."
+        }
+    ]
+}

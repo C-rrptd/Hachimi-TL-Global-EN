@@ -1,0 +1,267 @@
+{
+    "title": "憧れる気持ちと、震える心と",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "You see, I plan to have a race with Teio soon..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I may, I would ask you to attend and witness the outcome. And,\nprovided you are willing, to continue to look out for her afterwards."
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, Rudolf organizes a race with Teio just a few days\nlater."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the talk of the town, with spectators crowding the racecourse\nhours before—no surprise, given the popularity of both contenders."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa, now <i>that's</i> a crowd. Feels like we're in the Twinkle Series!\nAhaha! Now I'm all fired up!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh! Hey, look who's here!",
+            "choice_data_list": [
+                "How are you feeling?",
+                "How are you feeling?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tsk tsk. I <i>am</i> the invincible Teio, remember? So obviously, I'm in peak\ncondition! I'll crush this race, and the crowd will go wild!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh but... Ah... Never mind, forgot I'm up against Prez today..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Up against Prez, huh...",
+            "choice_data_list": [
+                "Something the matter?",
+                "Something the matter?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? Oh, um... Nope!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I just, uh... I gotta go get ready! See ya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At last, the gates fling open as the crowd roars on."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i> All right, time to show her what I'm made of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the race nears the halfway mark, Teio dashes ahead in an attempt\nto pass Rudolf, but..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You are not overtaking me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? Oh c'mon, now I'm even farther behind!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i> Nnngh, the last straightaway! No, I'm not done yet!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I said, you are <i>not</i> overtaking me!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Rudolf maintained her dominant lead from start to finish, leaving Teio\nto pass the winning post in a distant second."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i>\nGuess I lose..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But, well, Prez is just <i>that</i> incredi—"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"<i>Yeahhhh!</i> \""
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wh-whoa!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "President Rudolf, that was incredible! You never disappoint!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Teio's super fast too, but you beat her with such a huge lead! No\nwonder they call you the strongest ever!"
+        },
+        {
+            "name": "Umamusume",
+            "text": "Prez! Prez! Prez!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "My friends, I thank you for your support."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Th-that's a lot of cheers... All eyes are on her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And only her...",
+            "choice_data_list": [
+                "...Everything all right?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? Oh, um..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I-it's nothing. It's nothing..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio turns her back on the frenzied crowd and darts off."
+        },
+        {
+            "name": "Monologue",
+            "text": "I next see her late that night, at the same park by the school."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Pant, pant...</i>",
+            "choice_data_list": [
+                "Little late for a jog, don't you think?",
+                "Little late for a jog, don't you think?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, it's you... Mm, I'm not really in the mood to chat."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Laters.\n...Ugh!",
+            "choice_data_list": [
+                "You okay?!",
+                "You okay?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I run over in a hurry. Close up, I can see her legs trembling—she's\nbeen pushing herself too hard."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmph! This is nothing, trust me. I gotta get back to running, so leave\nme alone!",
+            "choice_data_list": [
+                "You can't keep pushing yourself like this!",
+                "You can't keep pushing yourself like this!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What's it to you, anyway?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Get out of my way! You're not even my trainer!",
+            "choice_data_list": [
+                "I'm not moving!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Wh-what's with you?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Sniffle...</i> What? ...Why do you even care?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I stay by her side as she cries for a while, offering what little comfort I\ncan."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Sniffle...</i>",
+            "choice_data_list": [
+                "Feeling better?",
+                "Feeling better?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah... But... I still don't understand.",
+            "choice_data_list": [
+                "Don't understand what?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "There's been this... stinging in my chest, ever since the race."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It started when I saw Prez getting all those cheers from the crowd."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It makes no sense, I know. I mean, she's my role model."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "The strongest, the fastest, the most incredible person. The most\ndeserving of praise from the entire world."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She's everything I could ever dream to be."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Every one of her races that I've gone to, she's won. And seeing her\nbask in the crowd's cheers with that smile she does is the coolest\nthing ever!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But still, for some reason..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Like, today was no different. I saw her be that perfect person I've\nalways seen her be."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So... why do I feel like I have to run to get away from this feeling?\nWhy does it hurt so much?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Teio seems to be on the verge of an important realization."
+        },
+        {
+            "name": "Monologue",
+            "text": "But all I can do for now is see her back to her dorm, and wait."
+        }
+    ]
+}

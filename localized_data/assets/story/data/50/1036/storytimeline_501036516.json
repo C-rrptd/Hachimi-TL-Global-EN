@@ -1,0 +1,86 @@
+{
+    "title": "夜中のラーメン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As curfew approaches, I spy Air Shakur outside\nher dorm chatting with some friends."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fancy bumping into you at this hour, Shakur.\nHave you been off somewhere staring at your\ncomputer again?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Somethin' like that. And what has her majesty\nbeen up to?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. I'm feeling a little peckish, so I ordered\nsome cup ramen for delivery."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ramen is great during the day, but wouldn't you\nagree it's also fantastic at night?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "By the time night rolls around, I've been moving\naround and using my head all day. I've burned\nthrough all of my energy, so I'd say it probably\ntastes better than during the day."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Is that right? In that case, would you care to join\nme for some ramen right now?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Focusing on your computer all day counts as\nusing your head, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Nah. I can get all the nutrients I need from\nsupplements. Eating at this hour will only lead to\ngaining unnecessary weight."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Awww... but eating is so important. I don't think\nyou ought to force yourself to suffer hunger\npangs. What do you think, Trainer?",
+            "choice_data_list": [
+                "Calorie control is also important, so\nsupplements are fine.",
+                "It's not good to ignore your hunger, so go\nahead and dig in!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You get it. That's clearly the most efficient path."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Come now... It's important to savor and enjoy\nyour meals too."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But I guess I shouldn't be surprised. You two are\ntotally in sync."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "We're <i>what</i> now? I've got no clue what you mean."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur takes the usual route of getting her\nnutrients efficiently."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! You can go ahead and keep your opinions\nto yourself."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "See?! Even your trainer says it's fine. Let's have\nsome ramen! ♪"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And you just <i>happened</i> to have ordered two,\nhuh? Seems like you were planning to rope me in\nfrom the start."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Air Shakur gives in and joins Fine\nMotion for some late-night cup ramen."
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, right in the middle of our time at\nsummer camp, I bump into Mejiro Ardan standing\naround having a chat."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh hello, Trainer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh! You're Ardan's trainer! Like, how's it going?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's Mejiro Palmer. She's a cheerful\nUmamusume with explosive breakaway speed.\nShe's also a member of the Mejiro family, and I\nhear she talks with Mejiro Ardan all the time."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh yeah! You know that thing we were talking\nabout just now? You should <i>totally</i> ask your\ntrainer about it."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I should!",
+            "choice_data_list": [
+                "Ask me about what?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Since we're all going to be off tomorrow, we were\ntalking about getting the Mejiros together for a\nday by the sea."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ardan was saying she hasn't really gotten to play\nat the beach much before, so we were all gonna\nhit the public beach together."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "However, the camp supervisors said that a\nchaperone would be necessary if were planning a\ngroup excursion."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "If you happen to be free as well, Trainer, would\nyou mind accompanying us? As a guardian of\nsorts.",
+            "choice_data_list": [
+                "Sure, sounds good to me."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you very much. Well then, I shall see you\ntomorrow."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so here I am at the beachfront with Ardan\nand the Mejiros."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my! Simply seeing the shack stirs so many\nemotions. My heart's pounding already."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha! That's, like, such an Ardan thing to say.\nOkay, first, how about we sit down and eat?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, let's do that. Where's everyone going to—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh! What a stunning lineup of shaved ice. You\ncan really sense the passion of the staff who\narranged it..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "For sure. Strawberry milk, matcha, mango,\nramune... They've got the basics covered <i>and</i>\nthey've got some out-there options to boot."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "What flavor are you getting, McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "With this many options, I can't make my mind\nup... Which will you be going with, Ryan?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm going with this one! Chocolate protein shaved\nice!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe. I might have known you'd choose that\nflavor, Ryan."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oooh! Have a look at this \"Sweet Memory\" juice,\nDober. Isn't it adorable how the straw's shaped\nlike a heart?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I do find it strange that this straw has two heads,\nthough. How do you suppose one's supposed to\ndrink from it?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's just say that it's, um... it's not really for us,\nokay?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Whyever not? If you know, I'd love if you'd\nenlighten me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What?! Um, well... it's designed that way so two\npeople who are... uh, close... can drink from it\ntogether..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That sounds perfect for us, then! We are close,\nafter all!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's not what I meant! Ughhh."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! Some things never change."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's wonderful to see everyone enjoying\nthemselves.\nShall we follow suit?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I must say, though... the sheer variety of food\navailable at the snack shack is truly remarkable."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Meh, there are fancier tiki bars out there with,\nlike, a more <i>mature</i> vibe, but this one's definitely\ngiving the classic beach feel, y'know?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now that we're looking at the menu, my eyes\ncan't help but dart from one dish to another. It\nfeels as though I'm exploring uncharted territory..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, how about this? \"Flaming Spice vs. Extreme\nTongue Tingles\"! OMG, that sounds <i>so</i> fun! ♪"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And it's only available this summer? ...It sounds\nlike a once-in-a-lifetime opportunity. Wonderful.\nI think I shall go with this."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan and Mejiro Palmer are looking over\nthe special menu... but every dish displayed is a\nvibrant red!",
+            "choice_data_list": [
+                "It all looks incredibly spicy. Are you sure?",
+                "It all looks incredibly spicy. Are you sure?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, it's all part of the experience. You needn't be\nconcerned. I'm quite confident I'll be able to\nfinish whatever I'm served."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hmm, my mind's pretty much made up. How\nabout you, Ardan?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well... I've narrowed it down to two possibilities,\nbut..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Given this is something of a special occasion,\nTrainer, I think I'd like you to make the decision\nfor me. Would you mind?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Mejiro Ardan gestures toward the\nmenu.",
+            "choice_data_list": [
+                "\"Punch of Power: Flamin' Hot Mapo Tofu &\nBeef.\"",
+                "\"No Guts, No Glory: Tan Tan Noodle Inferno.\""
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Very well... One \"Punch of Power: Flamin' Hot\nMapo Tofu & Beef\" please."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>PFFF!</i> Haha! You can't just read the whole name\noff the menu like that, Ardan!"
+        },
+        {
+            "name": "Staff",
+            "text": "Order up! Here's your Punch of Power special!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A bowl of what looks to be freshly ladled lava is\nplaced in front of Mejiro Ardan. Just looking at\nthe dish has me sweating up a storm! Mejiro\nArdan, however..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Wow! Such vivid coloration, and so intense an\naroma. Well, without further ado."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan downs the bowl without batting an\neye—though I do spot a bead of sweat on her\nbrow."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wheeew! Now <i>that</i> had some kick! But it was a\ngood kick, amirite?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Indeed. The first bite caught me off guard, but\nthere was real depth to the spice and an\nabundance of flavor to it. Delicious.",
+            "choice_data_list": [
+                "So you're good with spicy food, huh?",
+                "So you're good with spicy food, huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "While I'm not sure whether I'm \"good\" with spice...\nI am quite confident in my ability to withstand\nshocks to the body."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Perhaps it's due to the number of opportunities I\nhad to ingest bitter things during my childhood?",
+            "choice_data_list": [
+                "Is that... how it works?",
+                "Is that... how it works?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Geez, Ardan, if this was a tolerance contest,\nyou'd be unstoppable. None of us other Mejiros\nwould stand a chance!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A tolerance contest! ...I'd love the opportunity to\nenter such a competition!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "If the occasion were to arise, perhaps you'd care\nto join me, Trainer?",
+            "choice_data_list": [
+                "Yeah, so I could make sure you don't overdo it.",
+                "Yeah, so I could make sure you don't overdo it."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha! I can <i>totally</i> see that, lol!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe. With my track record, I'm afraid I can't\ndeny the possibility. I'll have to ask for your\nguidance, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "We go on shooting the breeze and enjoying\nourselves, and I come away sure that today will\nbecome another summer memory shared with\nMejiro Ardan."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Very well... One \"No Guts, No Glory: Tan Tan\nNoodle Inferno\" please."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>PFFF!</i> Haha! You can't just read the whole name\noff the menu like that, Ardan!"
+        },
+        {
+            "name": "Staff",
+            "text": "Order up! Here's your No Guts, No Glory special!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A bowl of what looks to be a scorching hot mass\nof flavor is placed in front of Mejiro Ardan. The\nsmell alone has me sweating up a storm! Mejiro\nArdan, however..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Wow! Such an appetite-inducing aroma. Well,\nwithout further ado."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan downs the bowl without batting an\neye—though I do spot a bead of sweat on her\nbrow."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wheeew! Now <i>that</i> had some kick! But it was a\ngood kick, amirite?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Indeed. The first bite caught me off guard, but\nthere was real depth to the spice and an\nabundance of flavor to it. Delicious.",
+            "choice_data_list": [
+                "So you're good with spicy food, huh?",
+                "So you're good with spicy food, huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "While I'm not sure whether I'm \"good\" with spice...\nI am quite confident in my ability to withstand\nshocks to the body."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Perhaps it's due to the number of opportunities I\nhad to ingest bitter things during my childhood?",
+            "choice_data_list": [
+                "Is that... how it works?",
+                "Is that... how it works?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You know something, Ardan? You've got, like,\nnerves of steel! Trying out new stuff doesn't faze\nyou one bit. It's like you're always game to just\njump right in, y'know?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Does it seem that way? I can't say I'm making a\nconscious effort to think that way..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...I suppose I may have a \"now or never\"\nmentality, though. I always feel like I would regret\nletting opportunities slip by."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "In that case, we've totally gotta have the best\nbeach day <i>ever!</i> Then you'll literally have, like, no\nregrets!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! Quite right."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yo, Ardan! Palmer! You guys want some ice\ncream? They let you put whatever fruits you want\non top!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "For real? That sounds <i>so</i> good! Let's go, Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, let's."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Come along, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "We eat to our hearts' content, and I come away\nsure that today will become another summer\nmemory shared with Mejiro Ardan."
+        }
+    ]
+}

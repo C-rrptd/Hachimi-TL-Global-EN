@@ -1,0 +1,174 @@
+{
+    "title": "届けボーノ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "No matter how hard training gets, Hishi\nAkebono's smile never falters."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to do everything I can to support her, so I\ncut back on sleep to maximize my work hours.\nThen, on one of my days off..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hello, Trainer! I had a feeling you'd be here, even\nthough it's our day off."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Why don't you take a break so we can have\nteatime? ☆",
+            "choice_data_list": [
+                "Thanks, but I still have work to—"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All aboard the Teatime Train!",
+            "choice_data_list": [
+                "Wh-whoa!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Aaand hup!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Stay still or you might get hurt! Okay, here we\ngooo! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Without warning, Hishi Akebono throws me over\nher shoulder and carries me off to the...",
+            "choice_data_list": [
+                "What are we doing at the cafeteria?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I asked if we could borrow the school kitchen a\nlittle, to make some food!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Some of the desserts are already done, so I'll go\nget them!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Thanks so much for waiting! ☆ Your first course is\ndoughnuts and ice cream!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She places a plate on the table and I see the\ncutesy little doughnuts half-dipped in chocolate\nnext to some scoops of gorgeous emerald ice\ncream."
+        },
+        {
+            "name": "Monologue",
+            "text": "The food looks incredible, but my attention is\nelsewhere.",
+            "choice_data_list": [
+                "Is that your signature racewear you're wearing?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It is! Isn't it great? They made it just the way I\nasked!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, you'd better hurry and eat up before the ice\ncream melts. There are still plenty more dishes to\ncome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She brings out dessert after dessert. I eat every\none, letting their sweetness spread throughout my\nbody, but it's not until I'm almost full that I realize\nsomething."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? What's wrong, Trainer?",
+            "choice_data_list": [
+                "The desserts you've been serving me..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You finally noticed? Ehehe! That's right!\nEverything I served you is somewhere on my\nsignature racewear!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true. Doughnuts, ice cream, and strawberry\nshortcake have all been worked into the design of\nher outfit."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Um... Trainer? Did you think the doughnuts and\ncake were buono?",
+            "choice_data_list": [
+                "Of course! They were very buono!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! What a relief! Buono things bring so much\nhappiness!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Whenever I'm full and happy... I just can't help\nsmiling."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's why I thought it'd be nice if I could cheer\neveryone up a little just by showing them my\nsignature racewear! Y'know, before and after I\nrace!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It'd mean a lot to me if I got to see the crowds\nsmiling with their whole heart, just like you are\nnow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that she mentions it, my expression's\nprobably been stern lately, what with how busy\nI've been.",
+            "choice_data_list": [
+                "Thank you so much for the wonderful meal!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You're very welcome! But there are still some\ncookies left, so I'll go bake them now! ☆",
+            "choice_data_list": [
+                "Do they look like the ones on your shoes and\nback?",
+                "Let me help!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "They do! I made some in different shapes too,\nthough."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I wonder which shape you'll like the most..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wait right here! I'll bring you aaall the buono so\nyou can smile from ear to ear! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cookies are warm and subtly sweet, and they\nalmost taste like Hishi Akebono's hopes made\ninto dessert form."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, you don't have to! I know you're exhausted,\nso you can sit back and rela—",
+            "choice_data_list": [
+                "I want to make more buono things with you."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Make more buono? ...With me?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay... Yeah, sure! It won't be the same if we\ndon't make them together! ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's create lots of lots of buono things, Trainer!\nThe more buono, the more smiles there'll be! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cookies we bake are a mix of different shapes\nand tastes, and they turn out to be the funnest,\nmost buono cookies I've ever made!"
+        }
+    ]
+}

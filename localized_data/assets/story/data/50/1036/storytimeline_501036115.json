@@ -1,0 +1,192 @@
+{
+    "title": "The Monster Under My Bed",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "<i>Huff, huff...</i> Just a bit more!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Yeah... I've got this! I'm gonna win! Just keep\ngoing! Just... keep...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah! ...Damn it! Damn it all straight to hell!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Dammit... I just can't do it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I know what's causin' this. I just can't close that\nthree-centimeter gap.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Nothing's changed. I'm still fated to lose. My\nfuture hasn't budged at all...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, that's not true. The number changed from\nseven to three, and even that should've been\nimpossible."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I have to do this. 'Cause if I don't..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep!",
+            "choice_data_list": [
+                "Wha?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I spin around, startled by a loud crashing noise\nbehind me, and spot none other than Meisho\nDoto sprawled on the floor.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I'm fine... I've landed on my bottom so many\ntimes today, it's flat as a board.",
+            "choice_data_list": [
+                "(That doesn't sound okay to me...)"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, but more importantly..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um, I wanted to talk with you about Shakur...",
+            "choice_data_list": [
+                "Sure, what's up?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Well, I think, um... she's been having a lot of\nnightmares.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I've noticed her bolting awake in the middle of\nthe night. It's gotten a lot worse lately..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I was hoping that... that you could help her out!\nPlease!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "She'll probably get mad at me for telling you this,\nbut..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Even though she's done so much for me, I haven't\ndone anything for her, so..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "So I thought you might be able to help since\nyou're her trainer."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Like I said, I'm not actually expecting anything\nfrom you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That goes for your ideas too. I expect practically\nnothing from you, but I'd still rather have <i>almost</i>\nnothing than nothing at all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Honestly, I don't feel like I can do anything to\nhelp Air Shakur, but I also don't want to dash\nMeisho Doto's hopes.",
+            "choice_data_list": [
+                "Okay, I'll do what I can!",
+                "Okay, I'll do what I can!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Thank goodness..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'll also make sure to stop falling out of bed too\nloudly so she can sleep in peace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shakur's anxieties must be getting <i>really</i> bad if\nshe's having nightmares..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "According to Parcae's predictions, I'm not gonna\nwin a single race after the Kikuka Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't even imagine how terrifying it must be to\nhead down a path of certain failure, and yet...",
+            "choice_data_list": [
+                "(Shakur presses on.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Even now, at this very moment..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. The results haven't changed at all. Ugh, I'm\ngetting real fed up with this stupid\n991031021222 thing!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Maybe I should swap out the whole table... No,\nthat won't work. I'd already tried that before."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'd even settle for askin' the spirits or whatever\nfor help if that'd actually do anything..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, no, no! It's wrong! It's all <i>wrong!</i> Ugh..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Dammit!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've brought it down to three measly centimeters.\nI'm so close... There's gotta be somethin' I can do\nto make this work. If not..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If not..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Screw it. I'm redoing it from scratch.",
+            "choice_data_list": [
+                "(There must be something I can do to help...)",
+                "(There must be something I can do to help...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Is watching uselessly as she heads toward the\nflames really the only thing I'm capable of?"
+        }
+    ]
+}

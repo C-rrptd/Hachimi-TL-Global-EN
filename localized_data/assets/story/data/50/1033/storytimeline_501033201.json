@@ -1,0 +1,237 @@
+{
+    "title": "ホープフルSにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few weeks before Admire Vega runs in the\nHopeful Stakes..."
+        },
+        {
+            "name": "Caster",
+            "text": "And that was our debut race at Hanshin\nRacecourse under today's wintry rain! The\nfavorite, Narita Top Road, missed out on first\nplace by a neck, finishing a close second!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Top Road Fan A",
+            "text": "Aaaah... Top Road, you were sooo close!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Could it have been her form? She looked a cut\nabove the rest while in the paddock. I guess\nmaybe she needs more time..."
+        },
+        {
+            "name": "Top Road Fan B",
+            "text": "Hey, you'll be fine, Top Road! I know you're\ntraining so hard every day! You'll definitely win\nthe next race!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ngh..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Thank you for your support, everyone!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'm terribly sorry for such a disappointing\nperformance! But..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Next time, I promise I'll do everything I can to\ndeliver a good result!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Please continue to cheer me on!"
+        },
+        {
+            "name": "Top Road Fan A",
+            "text": "Awww, Top Road!"
+        },
+        {
+            "name": "Top Road Fan B",
+            "text": "I'll <i>definitely</i> be there to support you! So just\nkeep doing your best!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yeah... I'll get it next time."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Next time for sure!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Time moves forward, and the day of the Hopeful\nStakes arrives."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to both the fame of her mother and her\nown innate talent, Admire Vega's popularity has\nskyrocketed recently."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even from the prep room, the thunderous\ncheering of the crowd can be heard. It wouldn't\nbe an exaggeration to say the majority of it is\ndirected at her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though she doesn't seem to take notice..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Trainer, can you show me the race schedule?\nThere's something I want to check.",
+            "choice_data_list": [
+                "Sure. Hang on a second.",
+                "Sure. Hang on a second."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems quite unmoved, just like after her\ndebut race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Single-mindedly determined to amass victories in\ndedication to her late sister, she is largely\nunaffected by her surroundings.",
+            "choice_data_list": [
+                "(I guess we could consider it her strength.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "But as I'm lost in thought..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hello! Sorry, it's me, Narita Top Road!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Um! Are you in the middle of a meeting or\nanything?",
+            "choice_data_list": [
+                "It's fine. Did you come to give her your support?",
+                "It's fine. Did you come to give her your support?"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yes! Today is an important race for Ayabe, after\nall."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You have a race tomorrow as well, right?\nShouldn't you spend your time preparing for that?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ahaha... Well, actually, I had a slightly\ndisappointing result at my debut race the other\nday."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "But seeing my classmates race reenergizes me, so\nI came here for my own benefit!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Well, I guess there's no problem then."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hehe... You know, you're really amazing, Ayabe."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Did you read Twinkle Monthly's popularity poll?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The survey Narita Top Road mentions is one of\nmany conducted by the popular publication\nTwinkle Monthly."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the lead up to big events, the magazine\nconducts polls online and collects the opinions of\nits journalists, then releases the information in the\nform of pre-race popularity rankings."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although actual popularity on the day of the race\nis a different story, the survey is respected as one\nway of measuring the potential of the racers."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Among all the talented junior-year runners taking\non the Hopeful Stakes, you're listed as the\nfavorite, just like you were before your debut."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "It's incredible. You can hear everyone talking\nabout you just by taking a short walk through the\nstands."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "They're all... expecting you to succeed."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "So, um... well..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "It must be difficult... even scary. What if you can't live\nup to those expectations?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah, um! Sorry! What am I saying? Ahaha..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "My purpose hasn't changed."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "...!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't care who or what is around me. Even if I\nexperience difficulty or pain, if I'm at a\ndisadvantage, or if I'm being reckless or naive..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "None of it matters as long as I bear the burden\nI've taken on and see it to its end..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's what I call \"resolve.\""
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Resolve..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Resolve is crucial, especially when you're alone."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "When the only things that can give you\nmomentum are your own two feet, they become\nan unwavering force against the turf below."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's what I believe."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega then exits the prep room."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a stride that bears an unwavering resolve...\nshe advances toward her solitary battle, the\nHopeful Stakes."
+        }
+    ]
+}

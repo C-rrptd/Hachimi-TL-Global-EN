@@ -1,0 +1,228 @@
+{
+    "title": "そこは、オーロラの輝き",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Since that day at the fast food restaurant, Jordan and I have been\nhard at work preparing for the Tracen Meet."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Huff, huff...</i> Ugh!",
+            "choice_data_list": [
+                "Need a break?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No... I'm good! I can't let training this basic tire me out."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Huff, huff...</i> Graaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We've made it to the last day before the Tracen Meet. As I turn to go\nhome after another day of training, Jordan grabs my arm."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, um... This is gonna sound low-key lame, but like... I don't think\nI've ever wanted to win more than I do now."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "B-but... what if I lose? Ahaha... What if, after all that, I still can't—",
+            "choice_data_list": [
+                "Don't worry. You're not the same runner you\nwere before."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!",
+            "choice_data_list": [
+                "You can win this. I promise.",
+                "You can win this. I promise."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Pfft..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You trust me waaay too much, you know that? I mean, I totes\nappreciate it, but still!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, the Tracen Meet arrives."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Huh? Tosen Jordan's back? Now that I think about it, I remember\nseeing her training more lately."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Same here. She seemed to have given up for a while there, though. I\nwonder if she'll be able to finish today's race..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With emotions running high, the 2,000-meter turf race begins!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(Come on, girl, just stay calm. Remember your training and... Hey, I'm\ndoing it! I've got this!)"
+        },
+        {
+            "name": "Caster",
+            "text": "The race is swiftly moving towards the fourth and final corner! Tosen\nJordan's in a good position! Can she maintain her lead?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uraurararaugh!"
+        },
+        {
+            "name": "Caster",
+            "text": "What's this?! Gold Ship races forward with amazing speed! She's\nsteadily pulling away from Tosen Jordan!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "And everyone in my class is already <i>sooo</i> much better than me. I'm\nsick of being a cringey loser all the time, but that's what's\nhappening..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(If I lose here... If I lose again...)"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(I'll lose my motivation for real this time!)"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...",
+            "choice_data_list": [
+                "You can do it, Jordan!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"That desire to win is going to be your greatest weapon.\"\n\"You can win this. I promise.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"That desire to win is going to be your greatest weapon.\"\n\"You can win this. I promise.\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "(Seriously... Always going on and on about how I can win... Why do\nyou believe in me so much anyway?!)"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, fine! Time to show this crowd a <i>real</i> glow-up!"
+        },
+        {
+            "name": "Caster",
+            "text": "Huh?! Tosen Jordan?! Tosen Jordan is chasing after Gold Ship, and\ngaining on her!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Caster",
+            "text": "They're neck and neck! Will it be Gold Ship?! Tosen Jordan?! Who\nwill reach the goal first?!"
+        },
+        {
+            "name": "Caster",
+            "text": "It's Tosen Jordan!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Huff, huff... Huff...</i>"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Sigh...</i> Ehehe, this feeling really is <i>the</i> vibe."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm beat... and ready to pop off! I'm talking a facial mask, oil massage,\nand a little aromatherapy."
+        },
+        {
+            "name": "Monologue",
+            "text": "That last spurt to first place really got the crowd going. The\n2,000-meter turf race ends in a roar of applause.",
+            "choice_data_list": [
+                "That was an amazing race, you know."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, I know, I know! Seriously, you stuck on repeat or something? I\ncould hear you simping during the race too."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...",
+            "choice_data_list": [
+                "Jordan?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So, real talk... With today's race over, doesn't that mean our little\ndeal together is done too? Just wondering, but... are you training\nanybody right now?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "If not, I was thinking... You kinda need a racer to train to keep your\njob, right? In that case, I <i>suppose</i> I'd be okay being scouted by you."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, if that's what you want."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her invitation may be flippant, but I can tell she's serious about the\noffer. And, well, I don't have any reason to refuse!",
+            "choice_data_list": [
+                "Of course—I'd love to be your trainer!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ehehe... All right, guess that means we're, like... a team for real now.\nLooking forward to it, Trainer. ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Theeere you areee!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I've been looking aaaall over for you, bluey! How'd you get so\nflishy-flashy?! On that track, you were like fwoosh, zoom! Pow! I like\nyou, gutsy girl!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Say, how about we dig a tunnel all the way to Brazil?! We'll feel the\nheat of the Earth's mantle together!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wait, huh? What are you talking about? You're acting super sus right\nnow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From that day forward, Gold Ship could frequently be found hovering\naround Tosen Jordan... But that's a story for another time."
+        }
+    ]
+}

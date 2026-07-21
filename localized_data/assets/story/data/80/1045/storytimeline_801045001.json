@@ -1,0 +1,76 @@
+{
+    "title": "お手伝いもお任せ♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just as I finish telling <chrname> to\ntake a break during training..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hello there!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You two are doing such a great job.",
+            "choice_data_list": [
+                "Th-thanks?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. Oops. I didn't mean to startle you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I always get this urge to encourage others when I\nsee them working hard."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah, right! Let me know if I can help with anything,\nokay?",
+            "choice_data_list": [
+                "We wouldn't want to bother you."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Don't be shy! ♪ Come on now, you can ask me for\nanything! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The overwhelming eagerness in Super Creek's\neyes leaves me with no choice but to oblige."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll have to think of what I want to ask her for first\nthough...",
+            "choice_data_list": [
+                "Could you give me some pointers on training?",
+                "Would you like to train with us?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Pointers? Hmm..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I suppose I would suggest you go easy on your\nracer every once in a while."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's important to work hard, but she won't be able\nto keep it up if you're too strict on her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'd love to! ♪ If you don't mind, let's follow\nmy training program."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'll go get the dumbbells!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We end up doing some super heavy weight\ntraining with Super Creek."
+        }
+    ]
+}

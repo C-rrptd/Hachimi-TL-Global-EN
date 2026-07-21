@@ -1,0 +1,100 @@
+{
+    "title": "ごはんも全力！！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After training, Winning Ticket grabs Biwa\nHayahide, insisting we go to a restaurant near the\nacademy."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yum! That's GOOD!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The portion's so big! The hamburger steak's so\njuicy! This is what I really wanted to sink my teeth\ninto!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "After full-power practicing, some full-power\neating is the best!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Um, Ticket? You should eat more slowly. It won't\nbe \"the best\" at all if you choke on your food."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Also, you must take care not to overeat. If you\ngain weight, it will impact your race results."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoa, really?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm... but I still wanna eat lots and lots...",
+            "choice_data_list": [
+                "Moderation is important.",
+                "Let's eat at full power until we feel full!",
+                "Let's eat at full power until we feel full!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hmm... but I still wanna eat lots and lots...",
+            "choice_data_list": [
+                "Moderation is important.",
+                "Let's eat at full power until we feel full!",
+                "Let's eat at full power until we feel full!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Moderation? Moderate... So, like, how much is\nmoderate?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, it might differ a little by person, but\ngenerally for food, you could say it's good to\nstop before you find yourself feeling full."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahh, I getcha! So..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It's kinda like the middle between being starved\nand about to explode! Makes sense!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Okay! I'm gonna go moderate—at full power!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Dear me... You certainly have a unique way of\nlooking at things."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah! You're totally right! My trainer knows best!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm gonna eat with all my might until I'm about to\nexplode. That'll definitely make me happy!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm, interesting... If freedom is the direction you\nchoose, then I'll refrain from interfering."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ticket, I see now that your trainer has a greater\ncapacity than most."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Huh? I think my trainer eats the same amount of\nfood as any regular person."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I was referring to the capacity to put up with your\nantics..."
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It's time for the latest Fan Fest, an event\nfeaturing various attractions for the fans who\nsupport Tracen's students."
+        },
+        {
+            "text": "On opening day, I see Tokai Teio looking very\nenthusiastic."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Welcome to the Fan Fest! We hope you enjoy\nyourselves to your heart and soul's content!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, hello, Trainer! I hope you're having a most\npleasant experience!",
+            "choice_data_list": [
+                "You sound different today..."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Can't you tell? I'm talking like Prez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "'Cause today the student council are all up to\ntheir heads in stuff to do! They said they're\ndesperate for help!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez even told me straight up that she needed me\nto help out!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So I'm her stand-in! Do you even understand how\nbig this is?",
+            "choice_data_list": [
+                "That's incredible! Good luck!",
+                "That's incredible! Good luck!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whoa! Wait, wait!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "To be honest, once I started helping out, I\nrealized this was way more than I bargained for."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So by the powers vested in me, the current Prez, I\ncommand you to help too!"
+        },
+        {
+            "text": "Per her wishes, I end up tagging alongside Tokai\nTeio while she walks around the Fan Fest."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Dang! That line is <i>huge!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, our beef stew and skewer set is a way\nbigger hit than we expected."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, that sounds delicious!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...I mean. Ahem. Understood. Us members of the\nstudent council shall come to your aid."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh... Who are you?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ugh... I give up..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What's wrong, Hayahide?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm in the middle of the scavenger hunt and I need\nto find someone who can do a hundred sit-ups."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Very well. Us members of the student council shall\ncome to your aid. You're up, Trainer!",
+            "choice_data_list": [
+                "Me?!",
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Undertake this task and do the school proud!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...Is this some kind of skit?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Good, good. It's a pleasure to see everyone\nenjoying themselves. You've been a great help\ntoo, Trainer!",
+            "choice_data_list": [
+                "You took this pretty seriously, Teio."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Excuse me! \"Pretty seriously\"? How rude!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Not only is Prez amazing at running, she's a\ntop-notch student council president too!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And I'm her stand-in! Of course I would approach\nsuch an important duty with the utmost\nseriousness!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Huh? Everyone's headed toward the stage for\nsome reason. Let's check it out."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, it says \"Shining Umadol Contest\"! I bet\nthere'll be lots of singing and dancing!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "<i>Sniff...</i> What am I going to do?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, well. What seems to be the problem, young\nFalco?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Teio... I was gonna join the contest, but..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "My friend who was supposed to be my entry\npartner told me she couldn't do it all of a sudden!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I tried to tell her we'd be fine 'cause I'm cute\nenough for the both of us, but she wouldn't even\nlisten..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmmm... I see, I see..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This sounds like a job for the student council! All\nright, I'll join you!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "R-really?! Thanks, Teio!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe. I am not Teio... I am (the stand-in for)\nSymboli Rudolf!"
+        },
+        {
+            "text": "In this way, the stand-in Symboli Rudolf formerly\nknown as Tokai Teio goes around solving various\nissues as they crop up."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you for your hard work today, Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehehe. I took my job as your stand-in very, <i>very</i>\nseriously!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed... I've heard many words of gratitude from\neveryone. You've been quite busy, it seems."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Which brings me to my next point..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I've been hearing a lot of cries for the winners of\na certain Umadol contest to put on an encore\nperformance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And to my surprise, my name seems to be listed\nas one of the unit's members..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah... Well, that's because..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And just a little while ago, someone handed me a\nvery frilly idol costume..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, haha... Well, I mean... you could pull off any\nkind of look so..."
+        },
+        {
+            "text": "Tokai Teio gets a scolding and is told to never\nsteal someone else's name again."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "By the way, do you have any idea why my name\nwas listed among the winners of a certain\ncontest?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, crap... Err, you must mean that Umadol\nthingy I entered..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I can't believe you'd falsely assume my name like\nthat."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "In any case, all the fans I've talked to seemed\ndeeply impressed by the performance."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...The performance of Smart Falcon and Tokai\nTeio, that is."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They're clamoring for an encore. Make sure you\ngive them your <i>real</i> name this time."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Wow! Okay, I will! I'll make sure they see Tokai\nTeio in all of her glory!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "My fans are waiting out there! This must be the\nstart of my Umadol career!"
+        },
+        {
+            "text": "Thanks to Tokai Teio's support, the Fan Fest ends\nin a roaring success."
+        }
+    ]
+}

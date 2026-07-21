@@ -1,0 +1,116 @@
+{
+    "title": "硝子の少女は遊びたい",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I spot Mejiro Ardan browsing the\ngeneral goods corner of the school store."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hmm... Playing cards, Othello... Marbles? Oh,\nwhich one would be the most fun?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, I'm sorry, I didn't mean to speak out loud..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Um... I hate to ask this out of the blue, but... do\nyou know of any games that are fun to play\nindoors?",
+            "choice_data_list": [
+                "Are you only looking for indoor activities?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes. To be honest, my body is quite frail, so my\nfriends are hesitant to invite me out for things."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Because of that, I'd like to find something I can\neasily play so I can invite them myself."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "However, I really don't know what's popular\nnowadays... What do you think would be good?",
+            "choice_data_list": [
+                "How about karuta?",
+                "Why not film videos for Umatok?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Karuta? Ooh, I haven't played that in years. I\nused to do One Hundred Poets, One Poem Each\nall the time."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Do people still enjoy playing karuta, though? It's\nnot a very contemporary game, after all..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I glance over the shelves and happen to see a\nkaruta set with a unique theme. I take a pack of\nthe cards down and offer it to her."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Huh, what's this? Legendary Umamusume Karuta?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "\"Includes all the Umamusume of the past and\npresent!\" Wow! I never knew they sold versions\nlike this!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hmm... What do they have for \"O\"? Oh, here it is.\n\"Oguri Cap, Kasamatsu's Gray Cinderella.\""
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Pfft! Hehehe! I wonder if they have a card about\nme in here?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm sure my friends will love this! Thank you for\ntelling me about it!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm sure this will help us create plenty of\nmemories. Hopefully this will make up for all the\ndays I couldn't spend time with them."
+        },
+        {
+            "name": "Monologue",
+            "text": "A beautiful smile spreads across Mejiro Ardan's\nface as she murmurs her heartfelt wish."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Umatok? I've only heard about it in passing from\nmy classmates..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Would you mind showing me how to make a\nvideo?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Lovey-dovey love! ♪ Bang! ♪ Straight into your\nheart! ♪"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Straight, um... Straight into your heart! ♪"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Am I doing it right? This is quite embarrassing, I\nhave to say...",
+            "choice_data_list": [
+                "Hang on. I need to edit it real quick."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe! How fun. I can't believe this is what's\npopular nowadays."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But this way, I can have fun with everyone even\nfrom my room!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan smiles widely as if she can barely\ncontain her excitement."
+        }
+    ]
+}

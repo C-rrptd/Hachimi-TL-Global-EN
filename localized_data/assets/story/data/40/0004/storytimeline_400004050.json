@@ -1,0 +1,37 @@
+{
+    "title": "クライマックス1戦目にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We've finally made it to the battlefield that will\ndetermine the greatest Umamusume."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Palpable! Hearing these cheers makes it\nexceptionally clear that cooperating in this race\nseries was absolutely necessary!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Your partner has already made her way to the\ntrack, I see! I hoped to wish her luck, but it\nappears I was a step too slow!",
+            "choice_data_list": [
+                "I appreciate your support."
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Of course! I'm here to cheer on all the\nUmamusume participating today!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Come victory or defeat—this will be the ultimate\nclimax! Now, it's time to race!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This is the first race in the series, and the first\nstep towards the title of \"greatest\"!"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "title": "ダイエット成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder has invited me to help with a\nharvest."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Phew... That should do it, I think. Just look at this\nbounty of vegetables.",
+            "choice_data_list": [
+                "What made you want to help out with farming?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The vegetarian diets of Buddhist monks caught\nmy attention recently. My own diet lacks\nconsistency, and I seem to have put on a little\nweight because of it."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I figured I should increase my intake of fresh fruits\nand vegetables, and so I got permission to help\nwith the harvests."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A change in diet clears the mind... It's wonderful\nwhat opportunities Japan has to offer. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. I can't wait to cook with these tonight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder comes up to me a few days later\nand happily tells me how her new diet has been\nworking wonders."
+        }
+    ]
+}

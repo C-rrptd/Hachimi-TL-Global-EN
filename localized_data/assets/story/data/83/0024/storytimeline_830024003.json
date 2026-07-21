@@ -1,0 +1,258 @@
+{
+    "title": "私が語りたいことは……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've come to the mall looking for a few things, but\nit's quite busy today. Looks like there might be\nsome kind of event going on..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I can't believe they're holding a talk show to\ncelebrate my plushies becoming a huge hit..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, everyone is so excited about it... Including\nme, of course! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. Anyway, I better grab something to eat\nbefore it star—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh, it's you! You're the one who saved me back\nthen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap smiles and waves at me. That's true—I\ndid save her from a persistent reporter in the\npast.",
+            "choice_data_list": [
+                "You look well.",
+                "You look well."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thank you, I am. I'm happy to see you here. My—"
+        },
+        {
+            "name": "Reporter",
+            "text": "Goodness me! What do we have here? Are you\ntwo close?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? Sorry, but who are you?"
+        },
+        {
+            "name": "Reporter",
+            "text": "Just your everyday reporter! But forget about\nme—is this person important to you?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "..."
+        },
+        {
+            "name": "Reporter",
+            "text": "Hm? Are you tongue-tied, by any chance? Don't\ntell me your relationship with this person would\ndisappoint your fans—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sorry, I don't have time for questions right now."
+        },
+        {
+            "name": "Reporter",
+            "text": "Huh?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The talk show starts in an hour anyway, so\nhonestly, I don't see the point in talking to you.\nLet's go, everyone."
+        },
+        {
+            "name": "Super Creek",
+            "text": "The way you handled the situation just now was\ntruly admirable! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And to think that this is the person who taught\nyou how to do it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, he told me I should refuse any sketchy\ninterviews."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, she told me I should refuse any sketchy\ninterviews."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "My fans care about me... So I need to care about\nmyself too."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now, that's just lovely! So that's how your plushie\nended up with such a great design! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm? What's that got to do with my plushie?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I think it's got everything to do with it! I\nheard the story from the designer."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Your feedback was very honest and to the point,\nso they're very confident in the finished product."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...They asked me for input, so I gave them my\nhonest opinion."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Like I said, it's not fair to my fans if I don't care\nabout myself... or my image.",
+            "choice_data_list": [
+                "And look where all that caring has taken you!",
+                "And look where all that caring has taken you!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Y-you're right!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's finally time for the event. Since you're here..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Do you happen to have any advice to give me\nbefore the talk show?",
+            "choice_data_list": [
+                "I've taught you everything I can. You've got\nthis.",
+                "I've taught you everything I can. You've got\nthis.",
+                "Is there anything <i>you</i> want to do?",
+                "Is there anything <i>you</i> want to do?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Do you happen to have any advice to give me\nbefore the talk show?",
+            "choice_data_list": [
+                "I've taught you everything I can. You've got\nthis.",
+                "I've taught you everything I can. You've got\nthis.",
+                "Is there anything <i>you</i> want to do?",
+                "Is there anything <i>you</i> want to do?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I see. Hehe, got it. Catch you later."
+        },
+        {
+            "name": "MC",
+            "text": "All right, then. Before we start, is there anything\nyou'd like to say to your fans, Oguri?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "First of all, I want to thank everyone who bought\nmy plushie."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Everyone worked hard to make this project a\nreality. Please treat these plushies as kindly as\nyou would treat me."
+        },
+        {
+            "name": "Fans",
+            "text": "We'll treasure them! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Haha..."
+        },
+        {
+            "name": "Fans",
+            "text": "Squeee! ☆ You're such a cutie, Ogurin! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "O-Ogurin... I'm not sure what to say to that..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But thanks. Your words will give me the extra\npush I need to work hard!"
+        },
+        {
+            "name": "Fans",
+            "text": "Squeeee! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap's authenticity resonates deeply with\nher fans."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I knew it. Hearing your words fills me with\nstrength."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, everyone. I'm grateful to you all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap's talk show turns out to be a great\nsuccess."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Haha. Good question. But I think I get what\nyou're trying to say—don't worry, I'll follow my\nheart."
+        },
+        {
+            "name": "MC",
+            "text": "So, Oguri Cap, do you have any words to mark\nthe release of your plushie? Take it away!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well, about that. Today, I want the <i>audience</i> to\nask me questions."
+        },
+        {
+            "name": "MC",
+            "text": "...What?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'd like to have the opportunity to talk with the\npeople who always cheer me on. Do you have any\nquestions?"
+        },
+        {
+            "name": "Audience",
+            "text": "Q-questions from us? Isn't this a talk show? Um...\nWhat should we ask her?"
+        },
+        {
+            "name": "Girl",
+            "text": "I have one! Do you like plushies?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. Everyone in my family does too. They\nasked me to send some back home."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Apparently, my mom calls the plushie \"Oguri Cap\nthe Second.\" I wonder who the first is?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her response sends warm laughter throughout the\nvenue. She continues to respond to questions\nfrom her fans..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Any other ques—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrooowl...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Could I answer you after lunch?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Laughter fills the venue once again. The talk show\nperfectly encapsulates Oguri Cap's laid-back\npersonality, leading to its success."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "title": "Sure and Steady",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking through the hallway, I encounter\nMejiro Bright holding a cleaning cloth and\nlooking full of enthusiasm."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Okay. Time to scrub-a-dub the floor till it's\nsqueaky clean."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Scrub-a-dub-dub..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swiiiish... Swiiiish...</i>",
+            "choice_data_list": [
+                "(Why is she wiping so slowly?!)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Phew. It's hard to make much progress using a wet\ncloth. Perhaps I should quicken my pace a little."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swiiiish... Swiii—CRASH!</i>",
+            "choice_data_list": [
+                "Are you all right?!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh my... Sorry for worrying you. My foot just\nslipped, is all."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's barely wiped anything down. At this rate,\nshe'll be here all day before she finishes.",
+            "choice_data_list": [
+                "Would you like me to help?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! Hehe... Thank you so much for your kind\noffer..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "But I can finish this work on my own."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I may be clumsy, but I can't simply give up\nwhenever I hit the slightest bit of resistance."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Time to brush myself off and continue. I'd like to\nfigure out what the trick to doing this right is.",
+            "choice_data_list": [
+                "Practice makes perfect!",
+                "Just be careful not to hurt yourself.",
+                "Just be careful not to hurt yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Time to brush myself off and continue. I'd like to\nfigure out what the trick to doing this right is.",
+            "choice_data_list": [
+                "Practice makes perfect!",
+                "Just be careful not to hurt yourself.",
+                "Just be careful not to hurt yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehehe. I feel even more motivated thanks to\nyour words of encouragement."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Time to get back to work. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swiiiish... Swiiiish...</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thank you for worrying about me. You're right.\nGetting injured would keep me from being able\nto run in my races, and that wouldn't do at all!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'll be extra careful as I work. Here we go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swiiiish... Swiiiish...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I walk by the same hallway and\nfind it sparkling clean!",
+            "choice_data_list": [
+                "The floor looks brand-new!",
+                "The floor looks brand-new!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, hello. You're the same trainer from before.\nWatch your feet, please."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Scrubbity dubbity..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Unlike before, where she was cleaning the floor\ninch by painful inch, Mejiro Bright now flies down\nthe hall with her cleaning cloth!",
+            "choice_data_list": [
+                "Have you been practicing cleaning the floor this\nwhole time?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes. I asked to be put in charge of wiping the\nfloor every day. I've been honing my skills little\nby little by polishing the floors in the dorm, too."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've finally gotten the hang of it, but I still need\nto devote more of myself to this."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Since I've come this far, I figured I might as well\naim to become a floor-wiping specialist. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The polished hallway floor gleams in the twilight\nglow from the windows as Mejiro Bright declares\nher goal."
+        }
+    ]
+}

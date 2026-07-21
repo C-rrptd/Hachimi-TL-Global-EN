@@ -1,0 +1,201 @@
+{
+    "title": "秋華賞の後に・Beautiful Sky",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectators",
+            "text": "..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Pant... Pant...</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That was so fun! ♪"
+        },
+        {
+            "name": "Spectators",
+            "text": "Yeeeaaah!\nGo, Fine Motion!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Oh?"
+        },
+        {
+            "name": "Fan A",
+            "text": "Oh man, I've got goosebumps! I feel like getting\nout there and running too!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Racing must be so much fun. Ahhh, I wish I was an\nUmamusume!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! Hehe. ♪ Everyone has such wonderful\nsmiles on their faces."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And what a beautiful autumn sky. Races truly are\nsplendid... ♪"
+        },
+        {
+            "name": "TV Audio",
+            "text": "And that brings our coverage of the exhilarating\nShuka Sho to an end! See you all at the next race!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Just like I thought. You really are different from\nthe others."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Guess I've got no choice if I'm gonna learn more."
+        },
+        {
+            "name": "Monologue",
+            "text": "In response to Fine Motion's growing popularity\nin the wake of the Shuka Sho, we decide to hold a\npress conference."
+        },
+        {
+            "name": "Interviewer",
+            "text": "First, congratulations on your performance in the\nShuka Sho. You ran brilliantly!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you very much."
+        },
+        {
+            "name": "Interviewer",
+            "text": "How was it? And how are you feeling right now?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I feel quite refreshed. Having everyone looking\nforward to seeing me run made it so much fun."
+        },
+        {
+            "name": "Interviewer",
+            "text": "That was apparent just from watching you. You\nwere truly fantastic! Now, I have to ask..."
+        },
+        {
+            "name": "Interviewer",
+            "text": "Which race is next for you? I'm sure everyone\nwatching would love to know."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My next race..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion glances towards me, and I nod back\nto her. There's only one answer—her major\nobjective!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm aiming for the Queen Elizabeth II Cup."
+        },
+        {
+            "name": "Reporters",
+            "text": "Oooh!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "That stands to reason based on your\naccomplishments so far! You've taken on the tiara\nraces, so now it's time to vie for racing\nqueendom!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Hey, did you see that broadcast? Fine Motion's\ngoing to run in the next Queen Elizabeth II Cup!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Yeah, I saw it! Boy, it'd be wild if she actually won\nit! I definitely gotta see that in person!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. The press conference was a smashing\nsuccess. Everyone has such high hopes for me!",
+            "choice_data_list": [
+                "You'll need to steel yourself and stay focused.",
+                "You'll need to steel yourself and stay focused."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Unlike the Classics, racers in their senior year can\nalso enter the Queen Elizabeth II Cup. I tell Fine\nMotion that we'll have to be at the top of our\ngame when..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now hold on just a second!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess, the fierce Umamusume with\n\"Princess\" in her name, appears before us."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I saw your press conference! You're running in the\nQueen Elizabeth II Cup, right?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's right. Is there some kind of problem?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "In that case, it's settled! The two of us must do\nbattle!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm running in the Queen Elizabeth II Cup too!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I mean, c'mon..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Princess\" is right there in my name! I'm not letting\nanyone take the throne from me!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Fine Motion! Consider this a challenge! A duel!"
+        },
+        {
+            "name": "Passersby",
+            "text": "Oooh!\nSounds like Fine Motion has a new rival!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "In soccer terms, is this similar to the Kaiser and\nthe Superstar?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I don't know who they are, but probably! What a\nthrilling development!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...!\nHow splendid! What do I say?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It doesn't look like anyone needs to tell you. I can\nsee by the look in your eyes that you've accepted\nmy challenge!"
+        },
+        {
+            "name": "Passersby",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The headline of the following day's racing\nnewspaper is \"Princess Showdown at the Queen\nElizabeth II Cup!\" It's sure to be an electrifying\nevent!"
+        }
+    ]
+}

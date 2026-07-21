@@ -1,0 +1,361 @@
+{
+    "title": "Das Erlebnis",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "I shall confer with you again in two days."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the day after I made that promise with Eishin\nFlash. Now, in order to help her get the\n\"experience\" she's after..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm having a meeting with Tracen Academy's\nstudent council president and Triple Crown\nChampion, Symboli Rudolf."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I beg your pardon, but could you please repeat\nthat?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Are you truly asking me, the Emperor Symboli\nRudolf, for a favor?",
+            "choice_data_list": [
+                "I'd like you to run against Eishin Flash."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So my ears did not deceive me. This is rather\nunusual, I might add."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "A fair share of Umamusume have expressed a\ndesire to run with me, but never before has a\ntrainer demanded I run against their trainee.",
+            "choice_data_list": [
+                "Very few can handle the pressure of racing\nagainst someone of your prestige."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And you believe your racer to be one of those\nfew?",
+            "choice_data_list": [
+                "She needs your experience.",
+                "She needs your experience."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh? Do tell."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash's proposition of doing scrimmages to\nbuild up experience isn't bad per se. But in the\nend, it just amounts to regular practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "But if she runs against a previous Derby\nchampion, then she can see what it takes to win\nfirsthand. That, over anything, is true experience."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha, I see. That's a rather audacious request you\nask of me."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Planning to siphon my own experience of winning\nthe Derby and pass it along to her, are you? You\nare quite the bold trainer, indeed.",
+            "choice_data_list": [
+                "I must do this for her to win the Derby."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Intriguing. I can see you care quite sincerely for\nyour racer."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Something else has become clear to me as well—it\nappears Eishin Flash is getting restless.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This may be due to her straitlaced nature, or\nperhaps..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Here is a proposition for you. I don't mind being\nEishin Flash's opponent. However..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The experience she requires may be of a more\nvibrant hue."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Like that of a luscious green turf, for instance."
+        },
+        {
+            "name": "Monologue",
+            "text": "As instructed by Symboli Rudolf, I head to the\ntrack after the graded races have finished."
+        },
+        {
+            "name": "???",
+            "text": "Whew, the races today were awesome! So\nfreeing... I'm itching for more."
+        },
+        {
+            "name": "???",
+            "text": "Thundering footsteps, sharp breaths, the\ncheering... Everything I want's all here."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Don't you agree?",
+            "choice_data_list": [
+                "You're...",
+                "You're..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Just someone who loves racing... But I've got too\nmuch exposure for you to buy that, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "This runner charmed untold numbers of fans with\nan unforgettable running style and claimed the\ntitle of Triple Crown champion, but no one has\nseen her in ages."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I'm Mr. C.B. Is that enough of an introduction?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mr. C.B. is a legendary Umamusume on par with\nSymboli Rudolf. So <i>this</i> is the experience she was\ntalking about."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "You're up, Mr. Trainer. I hope it's something fun."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "You're up, Ms. Trainer. I hope it's something fun."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Partner running? Sure.",
+            "choice_data_list": [
+                "(She accepted? Just like that?!)"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Running with someone gearing up for the Derby\nsounds like fun."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "And I'm up for fun anytime."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today's the day I finally keep my promise with\nEishin Flash."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "All right, I'll go get ready."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I shall be waiting."
+        },
+        {
+            "name": "Monologue",
+            "text": "This opportunity to learn from one of the best has\nEishin Flash buzzing with energy. I'm impressed\nwith how level-headed she is despite that."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I still do not understand the logic behind running\na race \"to grasp the meaning of the Derby\"... nor\nhow it results in gaining experience."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, running with a Triple Crown champion\nbefore the Derby will surely prove invaluable.",
+            "choice_data_list": [
+                "Don't hold back and do your best!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Will do."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their private scrimmage ends almost as quickly as\nit starts."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(...300 meters remain. C.B. is still rounding the\ncorner... I can win this!)"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hmm... I think now's the time."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice Mr. C.B. muttering something under her\nbreath, and in the next moment..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...?!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Aaand that's my win."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite Eishin Flash's huge lead, Mr. C.B.\nmanages to completely overtake her with\nunbelievable speed."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Pant... Pant...</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...",
+            "choice_data_list": [
+                "(She's shaking...)"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hey, Flash. Do you like running?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I apologize, but I don't understand the meaning\nof your question."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "There's no hidden meaning in it. I just want to\nknow if you like running."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Running requires no emotion. I run because I\nmust."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Then what about the Derby?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I heard you wanna be the Derby champion. Don't\nyou feel anything special toward it?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "You thought you'd win today, didn't you?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Of course I knew your intentions. How could I\nnot? I'm dialed in to everything."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "The trick to winning the Derby is telling yourself\nthat you'll win."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Channel your hunger to win into energy! Devour\nthe roar of the crowd, your opponents, your\nlimits, and your luck too!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Leave it all out here—that's exactly how hard\nyou'll need to run to win."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "After all, you only get one shot at the Derby."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Do you get it yet?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I apologize, but I don't understand. You speak of\nvague sensations not grounded in reality."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ahaha! Blunt, aren't you? Well, just ponder it a\nwhile, 'kay?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Where your running leads you is up to you. You\ncan only attempt this race once in your life. And\nyou know what?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I can't wait to see what you'll feel and take away\nfrom it."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for today, Trainer.",
+            "choice_data_list": [
+                "Were you able to learn anything?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To be truthful, I'm not sure. In a practical sense, I\ngained much."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Outside of that... I feel slightly strange. The\nsensation has persisted ever since C.B. overtook\nme in our race..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though she can't put it into words, I think\nEishin Flash may have learned something\nimportant.",
+            "choice_data_list": [
+                "Remember that feeling when you race in the\nDerby."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I must admit, the thought of running with a Triple\nCrown champion never occurred to me.",
+            "choice_data_list": [
+                "That's why I'm here.",
+                "That's why I'm here."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, that's true. I have people who are here to\nhelp further my growth and provide me with\ndifferent perspectives."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I am greatly indebted to both you and C.B."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I must repay everyone for their support with\nperfect results at the Japanese Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "I cannot hear even the slightest waver of anxiety\nin her voice. She seems to have taken an\nimportant step toward competing in the Japanese\nDerby."
+        }
+    ]
+}

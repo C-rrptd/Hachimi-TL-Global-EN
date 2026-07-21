@@ -1,0 +1,84 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki is injured during training, so I\nhastily escort her to the infirmary."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh... It seems the state of my injury is more\nunfavorable than I first thought."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That said, even if I have to suffer pain, I must\ncontinue making progress."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "They do say that a clear head remains cool amidst\nany blaze. I ask that you allow me to continue my\ntraining.",
+            "choice_data_list": [
+                "Let's wait until you've fully recovered before we\nresume training.",
+                "Okay, but we'll avoid anything strenuous."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll endeavor not to strain myself while running, so\nplease...",
+            "choice_data_list": [
+                "You might end up hurting your form while trying\nto adjust."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I see. If I push on with my training, it could have\nthe opposite effect and set me back..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Very well. I shall focus on recuperating until I'm\nback to full health."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki sounds disappointed as she heads\nback to her dorm."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thank you for understanding. Let's hurry back to\nthe track!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ngh... Agh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Although I only tasked her with a light run to\ncheck her condition, Yaeno Muteki's face\ncontorts with pain.",
+            "choice_data_list": [
+                "I was afraid this would happen. That's enough\nfor today."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm truly sorry for the trouble. I'll take your advice\nto heart and rest for the remainder of the day."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm ashamed indeed to have made such a\ndisgraceful display..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki appears to be in a lot of pain as\nshe slowly makes her way back to the dorm."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Whew... It seems I'll manage as long as the\nexercise isn't especially demanding."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'll stick to light training of this nature until my\nbody is fully recovered!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki completes a light training session\nwhile taking care not to aggravate her injury."
+        }
+    ]
+}

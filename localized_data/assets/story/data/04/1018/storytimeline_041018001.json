@@ -1,0 +1,216 @@
+{
+    "title": "理想たる“女帝”",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Umamusume destined to rise above their peers are said to have a\ncertain aura—a commanding quality that attracts all who stand in their\npresence."
+        },
+        {
+            "name": "Monologue",
+            "text": "If anyone has that aura, it must be <i>her.</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Huff... huff... huff... huff...</i>",
+            "choice_data_list": [
+                "(So that's Air Groove, the \"Empress.\")"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A slender form that slices the air like butter and long legs that cover\nground with remarkable efficiency. Her gaze possesses a determined,\npiercing beauty."
+        },
+        {
+            "name": "Monologue",
+            "text": "Above all, she exudes an incomparable air of fortitude and elegance.\nIt's no wonder how she got her nickname."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Phew..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time has passed since I began watching her, and before I know\nit the sky is already dyed a regal purple."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove seems to be wrapping up her training for the day when\nanother student approaches her."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Air Groove, sorry I kept you waiting! I can get pretty distracted when\nI'm running off of the grounds."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh, I've come to expect that of you, Suzuka. I figured it was\nsomething like that, so I didn't pay it much mind."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Do you still have the stamina for our partner run?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yes, no problems there. I'm ready when you are."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, is that Air Groove and Silence Suzuka I spot? Lookin' like they're\ngearin' up for some partner running. This could be interesting!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now that's a pair we may be able to learn a thing or two from."
+        },
+        {
+            "name": "Monologue",
+            "text": "A crowd quickly forms around the track to watch the duo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wow! Suzuka's front running is as magnificent as always."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I don't think Air Groove plans to let her keep that lead, though.\nLook—when Suzuka pulls ahead, the fire in Air Groove's eyes just\ngrows stronger!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And sure enough, just as Silence Suzuka rounds the final turn..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Haahh!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoa! Hold up—how the hell did she close that distance so easily?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That acceleration! She did well to conserve that energy and use it at\nthe most opportune moment. Suzuka can't catch up now."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Gasp...</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "This one's mine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "An insatiable desire to win, tempered by acute, level-headed\njudgment—not to mention her incredible running ability. She is\ndazzling in every way."
+        },
+        {
+            "name": "Monologue",
+            "text": "The gap between the runners remains open, and Air Groove crosses\nthe finish ahead of her competition."
+        },
+        {
+            "name": "Monologue",
+            "text": "Dumbfounded, I find myself watching well after the race, surrounded\nby comments from the multiple spectators."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well heck, that was pretty exciting! Now I feel like challenging her\nmyself."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I understand the feeling—her racing is top notch. You could even call\nit textbook."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And she's vice president of the student council to boot. I'm glad that\nwe have someone like her going out of her way to support us."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Her methods of \"support\" can be a bit harsh, but I guess it's helpful to\nus all the same."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Small wonder all of our darling ponies adore her. She's one of the\nideals I strive for."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "By the way... You, over there. I noticed that you've been starin' at Air\nGroove practically this whole time.",
+            "choice_data_list": [
+                "Who, me?",
+                "Who, me?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, you. I don't see anyone else behind you. Can't say I've seen you\naround before. You a new trainer?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wait, are you out to scout Air Groove or somethin'?",
+            "choice_data_list": [
+                "Well, if I can..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aw, well now... I hate to break it to you, but you're a bit late."
+        },
+        {
+            "name": "Air Groove's Trainer",
+            "text": "Air Groove! There you are! I guess this means you were doing some\npersonal training today too?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes, that's right. Is there a problem?"
+        },
+        {
+            "name": "Air Groove's Trainer",
+            "text": "No, but I did want to talk to you about tomorrow. Something's come\nup for me, so would you be okay with delaying our session by a half\nhour?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm. But our course reservation has already been processed, no? In\nthat case, I'll come out and get started ahead of you."
+        },
+        {
+            "name": "Air Groove's Trainer",
+            "text": "Huh? I thought you might enjoy the little break—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "My debut race is just around the corner. I can't afford to waste even a\nsingle minute."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Besides, I take breaks as necessary without needing to be told. Have I\never not been well enough to train, even once?"
+        },
+        {
+            "name": "Air Groove's Trainer",
+            "text": "W-well, no... I don't think so. All right, then please begin your training\nas planned."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Haha, never afraid to lay into her trainer, that one. But yeah, now\nyou've seen them."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "She already has a trainer working with her. I'm sorry you had to find\nout like this."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I guess she never did run a tryout race, but there's no rule sayin' that\nyou <i>have to</i> do that before getting scouted."
+        },
+        {
+            "name": "Monologue",
+            "text": "This must just mean that I wasn't the only trainer who saw something\ntruly special in Air Groove..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I leave the grounds that evening with an acute sense of regret."
+        }
+    ]
+}

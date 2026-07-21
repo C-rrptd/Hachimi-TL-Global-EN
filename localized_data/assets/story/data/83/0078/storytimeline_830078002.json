@@ -1,0 +1,182 @@
+{
+    "title": "Fortune Favors the Friends!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "Search... The time... is now..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm telling you it's another premonition! Today is\nthe lucky day I uncover the truth behind the\nsecret spell!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru is still trying to learn about\nthe mysterious piece of paper she found back at\nhome.",
+            "choice_data_list": [
+                "Are you sure this'll work?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't worry, the student council won't stop us this\ntime! I already performed a flower divination as\nper the teachings of the great Shiraoki!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It says I should borrow a friend's helping hand for\ngood luck! ...But, uh, after all the trouble I caused\nthe other day, that might be difficult..."
+        },
+        {
+            "name": "???",
+            "text": "Lo and behold, in your eleventh hour... the sun\nitself, in other words, yours truly, has come to\nyour aid!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Of course, that is if you wish to have companions\nalong this journey of new discoveries over yonder!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-me too! Fukukitaru, you listened to my\ntroubles during the karuta tournament... S-so I\nwant to return the favor!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe! You can sit back and relax now that we're\nhere! I'm great at solving riddles!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E-everyone..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Is this the ritual diagram? It has some drawings, a\nfew numbers, and..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Chimes, \"20,\" dancer, \"3,\" flowers, \"0,\" and\ncarp... What does this all mean?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehehe... Haaah ha ha! Sounds to me like a\nmythos of romance betwixt man and beast!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hark, let this <i>flower bed</i> host my sweet nothings\nto you, a sound to rival Cupid's <i>chimes!</i> My heart\n<i>dances</i> for you, even if you are a <i>carp!</i>",
+            "choice_data_list": [
+                "That's definitely not it!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmm, what about the numbers? Like the twenty\nand three?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Argh... I don't know... Is there no hope?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Chimes, dancers, flowers, carp... Oh!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I got it! These are all back at home! The Shinto\nbell, the shrine's kagura hall, flower ornaments,\nand the carp pond!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "There is hope after all! So, what do the numbers\nmean?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The number of paces to the clue.",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I remember now... This... is a treasure map my big\nsister made."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yeah... It was when I was learning how to write...\nShe made the map for fun saying it'll help me\nlearn my numbers."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Wait, if I remember correctly, your sister is..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes, she passed away a long time ago. So long\nago... that my memory's become like this. That's\nwhy—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm so glad! The secret spell helped me remember\nmy dear sister!",
+            "choice_data_list": [
+                "Fukukitaru..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I would've never realized if you all hadn't helped\nme! I'd still be running around on a wild goose\nchase..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So, thank you all! I feel so warm and fuzzy inside!\nThis is what they call a happy ending, right?!",
+            "choice_data_list": [
+                "But the treasure still remains a mystery!",
+                "But the treasure still remains a mystery!",
+                "Make sure you keep the map safe from now on.",
+                "Make sure you keep the map safe from now on."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So, thank you all! I feel so warm and fuzzy inside!\nThis is what they call a happy ending, right?!",
+            "choice_data_list": [
+                "But the treasure still remains a mystery!",
+                "But the treasure still remains a mystery!",
+                "Make sure you keep the map safe from now on.",
+                "Make sure you keep the map safe from now on."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Indeed, the finale is yet to come! Let us go forth\nand see this to the end!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ehehe... Yeah! Since we've come this far together,\nlet's keep pushing forward!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You're right... Me and my sister never finished our\ntreasure hunt."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay! I'm gonna look for it by myself, just like old\ntimes!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Good luck! I hope you'll discover something\namazing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, Matikanefukukitaru tells me\nthat while she still hasn't managed to find the\ntreasure, she did find a bunch of letters and maps\nshe exchanged with her sister in those bygone\ndays."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yep! I'm never ever gonna forget about it again!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe, your sister must be really happy to hear\nthat! I bet she's smiling like you right now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru holds her precious map\ntenderly to her chest, her smile as bright as the\nsun."
+        }
+    ]
+}

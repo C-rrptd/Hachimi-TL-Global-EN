@@ -1,0 +1,53 @@
+{
+    "title": "金鯱賞の後に・『運の尽き』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait... I lost? How could that be?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What could have happened? Wasn't luck working\nin my favor? Just... what?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This can't be right. It has to be a trick. I mean,\nthis can't really be happening. I have a destiny..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What's going on, Trainer? I must still be asleep.\nThis is all just a terrible nightmare, <i>right?!</i>",
+            "choice_data_list": [
+                "It's real."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It can't be real! I thought I'd been reborn... This\nmeans I haven't changed one bit..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Where has my luck gone?! Is it in hibernation or\nsomething?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wake up! Please, I'm begging you!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If the gods have deserted me, then what should\nI... I... Waaaah!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... Fukukitaru?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A worried Silence Suzuka tries comforting her,\nbut I gently turn her down, sensing this isn't the\nright time. Matikanefukukitaru continues to cry."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that our next goal is the Takarazuka\nKinen. She doesn't respond."
+        }
+    ]
+}

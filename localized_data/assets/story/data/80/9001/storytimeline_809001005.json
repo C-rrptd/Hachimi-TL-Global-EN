@@ -1,0 +1,111 @@
+{
+    "title": "牛乳ときどきリンゴ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Huh?! You want to go out somewhere... with <i>me?</i>"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It would be an honor! By all means—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, pardon me. I have to take this."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Yes, this is Hayakawa. Right... Mmhm... Well,\nabout that..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm sorry... There's an urgent matter that I need to\nattend to."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Um... Would it be okay if I take a rain check?",
+            "choice_data_list": [
+                "I can wait until you're done!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Trainer..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe! Thank you! You're so kind!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Don't worry! I'll get everything wrapped up in a\njiffy!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "<i>Huff, huff...</i> I'm back!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But it'll be dark soon, huh? I'm sorry..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If we head out now, we can't go anywhere too far\naway. Hm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tazuna and I rack our brains thinking of where we\ncan go, when..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grumble...</i>"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...Was that you?",
+            "choice_data_list": [
+                "I don't think it was <i>only</i> me..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ehehe! Yes, you're right! I'm pretty hungry myself!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I just thought of a good place for us to go! Follow\nme!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, good! There are seats open!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tazuna's recommendation is this rough-looking\nramen shop."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This is my go-to place!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The ramen is great, of course, but the pan-fried\ndumplings are to die for!",
+            "choice_data_list": [
+                "Well, consider me excited!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Yeah! Let's eat a ton today! Since there are two\nof us, let's order the jumbo set!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "After that, let's stop by the supermarket so I can\ngrab some milk!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so we spend the rest of the evening eating\ndelicious food together."
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "title": "Summer Camp (Year 3) Begins!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's once again time for summer training camp. I'm\nmaking preparations for Sweep Tosho's training,\nwhen..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll help too! If there's anything you need, you\nhave but to ask!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whether it be a tire, a barbell, or even a giant\ntuna! You name it and I'll get it for you!",
+            "choice_data_list": [
+                "Thank you, but it's all right."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I imagine Kawakami Princess joined summer camp\nfor her own sake. I let her know she should focus\non her own training, but..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's quite all right. Please allow me to assist you!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "After all, Sweep promised to cast a spell on\nsomeone for me."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'd like to do my part to help make that magic\ntake effect! ...Please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears nothing I say will make her budge—it\nreminds me of a certain someone else I know.\nSince she insists, I ask her to do some pair running\nwith Sweep Tosho."
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wheeew! You're so fast, Sweep!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After they start running, the gap between Sweep\nTosho and Kawakami Princess quickly widens."
+        },
+        {
+            "name": "Monologue",
+            "text": "The main purpose of pair running is to feel the\nadrenaline of running in an actual race."
+        },
+        {
+            "name": "Monologue",
+            "text": "But with Kawakami Princess five lengths behind\nSweep Tosho the whole time, they may as well\nnot be running together at all at this point.",
+            "choice_data_list": [
+                "I think the difference in your abilities might be\ntoo big..."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna do another lap, Familiar.",
+            "choice_data_list": [
+                "Really? With Kawakami Princess?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yes! Now, hurry up and get ready!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...I knew it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their second lap goes much the same. Kawakami\nPrincess can't close the gap after they begin\nrunning.",
+            "choice_data_list": [
+                "It's not even a competition..."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh? Are you sleeping on the job?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's not that she <i>can't</i> compete. She's actively\ntrying <i>not</i> to compete."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...!",
+            "choice_data_list": [
+                "In other words..."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're scared, right? You're afraid of running\nbeside me."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Otherwise, you wouldn't be holding back and\nrunning in such a lame way."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...",
+            "choice_data_list": [
+                "Did something traumatic happen?",
+                "Did something traumatic happen?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "N-no! It was nothing that serious!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "This is my warning and my vow."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "There was a time when I wanted to win at all\ncosts. Unable to suppress my thirst for battle, I\nforced it... and I ended up crashing into someone\nfrom your year."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "After that, I made a vow! I vowed never to lose\ncontrol of myself and run in a way that would\ncause anyone trouble ever again."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What the heck?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What are you, stupid?! Do you honestly think you\ncan compete like that?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "The world of racing isn't only about playing it\nsafe! You're fighting with your body, and there's\nalways the risk of running into someone!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But we're all willing to take that risk! Didn't she\ntell you there was nothing to worry about?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "E-even still, it was my fault for forcing the fight."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "So what?! What's wrong with that?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's not like you hit her on purpose, so how long\nare you gonna keep letting this weigh on you?!\nYou didn't learn anything from what\nhappened—you're just moping around!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You're just making excuses! You're saying\nwhatever is convenient to help you avoid looking\nat your actual weakness!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "If you keep holding back and let someone else\ntake the lead, are your dreams ever gonna come\ntrue?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No, right?! How can you help anyone if you can't\neven value your own feelings?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Kawakami. You have to come watch the autumn\nTenno Sho. That's an order!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll make you remember what it feels like to wanna\nwin!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...Sweep."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Besides, you're never gonna be any use to me in\nthis shape!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Uuugggh! It's like everyone and their mother\nneeds magical help! It never ends!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Once you're better, I'm gonna put you to work for\na thousand years!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sweep Tosho is fired up and ready for the autumn\nTenno Sho. And so, we begin our summer training\ncamp."
+        }
+    ]
+}

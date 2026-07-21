@@ -1,0 +1,264 @@
+{
+    "title": "EVIL AFOOT—Bamboo's On the Case!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As per yearly tradition, it's time for Tracen's summer camp. The\nchange of scenery has Bamboo fired up more than ever."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Get that blood boiling for an <i>extra</i> red-hot step ten! Feel that summer\nheat and ruuun!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Haaah... So, what do you think of those sand sprints?!",
+            "choice_data_list": [
+                "They were great!",
+                "They were great!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yesss! Sand takes more leg strength to run than normal tracks, but it's\nnice not having to worry so much about my nails."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...Hm? Those two—aren't they the ones from the arcade that one\ntime?"
+        },
+        {
+            "name": "Arcade Duo",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Student B",
+            "text": "Hehe! ♪ At this pace, we'll smash through the assignment early."
+        },
+        {
+            "name": "Student A",
+            "text": "Yeah! We did plenty of training, so I say we wrap up and have some\nfun!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Heh. Breaktime is important too."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I've still got plenty of energy for another lap, though!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh? They still haven't come back?"
+        },
+        {
+            "name": "Student C",
+            "text": "No... I've been messaging them, but they haven't replied."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hrmmm, I've got a bad feeling about this! Did they say anything\nabout where they were going?"
+        },
+        {
+            "name": "Student C",
+            "text": "Not really... But this afternoon, I saw a man start a conversation with\nthem. He was saying he could show them around some fun places in\nthe area..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "THAT'S OUR PERP!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Rest assured, the disciplinary committee is here to keep students safe!\nI'll go save them!"
+        },
+        {
+            "name": "Student C",
+            "text": "Wait! We should tell an adult first!"
+        },
+        {
+            "name": "Student C",
+            "text": "We're supposed to get a trainer, right? Um, I think Bamboo's trainer\nwas..."
+        },
+        {
+            "name": "Student A",
+            "text": "Umm... Are you sure this is okay?"
+        },
+        {
+            "name": "Shallow Man",
+            "text": "It's fiiine. No one'll notice if you're back a bit late."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Stop right there! I know what you're up to!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And you two—you're not getting off with a warning this time! C'mon,\nI'm taking you back!"
+        },
+        {
+            "name": "Student B",
+            "text": "Not the fun police... Just leave us alone!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm not here to take away your free time. It's just as important as\nrunning, right? I know I wouldn't want to give up my kendo time..."
+        },
+        {
+            "name": "Student A",
+            "text": "Huh?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I reconsidered a lot of stuff since last time. And now, I get why having\ntime to play is so essential."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But what you're doing right now is dangerous. That man could take\nboth racing and leisure away from you! And I can't let that happen!"
+        },
+        {
+            "name": "Student B",
+            "text": "W-what we do is none of your business! We're not taking orders from\nsome jerk who doesn't even know us!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...I'll admit, I may not know much about you or your hobbies."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But even so, deep down... I know you're just like me. You wanna run,\nand you wanna <i>win!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If all you cared about was having fun, you could've quit racing. But\nyou didn't. You stuck it out through all the rigorous training!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Because you've both got dreams! You've got races you wanna win!\nAnd if you invite trouble here, all the work you've done'll go down\nthe drain..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I won't <i>ever</i> let that happen!"
+        },
+        {
+            "name": "Student B",
+            "text": "Chairman..."
+        },
+        {
+            "name": "Shallow Man",
+            "text": "Blegh, am I watching a kid's show or something? That motivational\nsports crap was dumb, even for a toddler."
+        },
+        {
+            "name": "Shallow Man",
+            "text": "These little ladies here already said they'd rather be out having fun.\nC'mon, let's go."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey, wait! Stop!"
+        },
+        {
+            "name": "Shallow Man",
+            "text": "Let go! ...Damn it, you made me drop everything!"
+        },
+        {
+            "name": "Student B",
+            "text": "What are all these notes? \"Tracen Elites Ditch Camp for Local\nNightlife\"?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It looks like his phone's been recording everything you said... I see\nhow it is. You're some tabloid jerk trying to stir up trouble!"
+        },
+        {
+            "name": "Shallow Man",
+            "text": "You brat... Give that back!",
+            "choice_data_list": [
+                "BAMBOO!"
+            ]
+        },
+        {
+            "name": "Policeman",
+            "text": "Put your hands up! This is the police!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as the man starts to lunge at Bamboo for the phone, our shouts\nstartle him just long enough for the officer to grab him. I'm so glad we\nmade it in time..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer?! And a police officer?",
+            "choice_data_list": [
+                "A student told me you three were in danger.",
+                "A student told me you three were in danger."
+            ]
+        },
+        {
+            "name": "Policeman",
+            "text": "I'm going to take this man in for questioning.\n...And <i>you</i> are gonna have a lot to answer for at the station!"
+        },
+        {
+            "name": "Student A",
+            "text": "I-I was so scared!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It's okay now! Discipline and order have been restored!",
+            "choice_data_list": [
+                "Oh, this most certainly is <i>not</i> okay!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh?",
+            "choice_data_list": [
+                "I was worried sick! I thought something\nhappened to you!",
+                "I was worried sick! I thought something\nhappened to you!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh, I-I'm sorry..."
+        },
+        {
+            "name": "Student B",
+            "text": "Heh, who's the rule-breaker now?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sh-shut up! I wouldn't be out here if <i>you</i> hadn't—"
+        },
+        {
+            "name": "Student A",
+            "text": "It's fine, we get it. We messed up bad, and you really <i>were</i> just trying\nto help us."
+        },
+        {
+            "name": "Student B",
+            "text": "Yeah, I think we learned our lesson with this one. And, uh... you're not\nexactly wrong... We do have dreams."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm glad to hear it! Let's all keep running strong and steady towards\nthose goals!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following the close call, the rule-breaking pair amend their ways.\nEveryone puts their heart and soul into training—and into enjoying\nthe festival and fireworks afterwards!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Mm-hm! Y'know what? \"Work hard, play hard\" really is the way to go!",
+            "choice_data_list": [
+                "You've gotta enjoy your downtime to the max!",
+                "You've gotta enjoy your downtime to the max!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yep! I'll uphold all the rules perfectly, get plenty of rest and\nrelaxation, and then I'll win all my races when we get home from\ncamp!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But, uh... If I do anything dumb like the other night, don't hesitate to\nput me back on track."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Got it?! I'm looking forward to LOTS more red-hot training with you!"
+        }
+    ]
+}

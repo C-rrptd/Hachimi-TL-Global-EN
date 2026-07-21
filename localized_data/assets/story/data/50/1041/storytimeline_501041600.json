@@ -1,0 +1,30 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I hear you, my adoring fans, I hear you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All these voices ringing out in eager anticipation\nof the appearance of the model student!",
+            "choice_data_list": [
+                "Go and show them what you got!",
+                "Go and show them what you got!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Leave it to me! The perfect class representative,\nheading out!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You have my word as class representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Under the rules of Umamusume sportsmanship, I\nvow to set a great example with a great Bakushin,\nfair and square!"
+        }
+    ]
+}

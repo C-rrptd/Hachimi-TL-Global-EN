@@ -1,0 +1,303 @@
+{
+    "title": "カワイイの宇宙",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "And so, the day of the Pretty Grand Prix finals is finally here! First up\nis the performance section, and our rivals look pretty tough."
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, since I've gotten this far, I might as well show them how a pro\ndoes it."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Cityyyyy! You're positively stunn'n!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Everyone, do you all have your instant cameras with you? Booyah! <i>V</i>\nfor victory!"
+        },
+        {
+            "name": "Cafe Lady",
+            "text": "Maruzensky! You're totally tubular!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Good grief, who even put my name in? Regardless, if I'm competing,\nthen I'm winning—that's all there is to it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "(It's Groove! I'm in the presence of the <i>Empress!</i> )"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the performance section, Gold City's modeling experience makes\nher the favorite. But today, Curren's in tip-top form—she's got a\nfighting chance!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I've returned from my training arc! Everyone, check out the new me,\nokay? ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Da-da-da-daaah! ☆"
+        },
+        {
+            "name": "Fangirl Umamusume",
+            "text": "Cute Curren Chan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Next up is the race section. Like the preliminaries, it'll be a time trial.\nThis is Curren's chance to make amends.",
+            "choice_data_list": [
+                "Are your cleats hammered on tight?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yup, snug as a bug! ♪ Thanks for putting them on for me, Big\nBro—you're the best!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Yup, snug as a bug! ♪ Thanks for putting them on for me, Big\nSis—you're the best!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...Still, my opponents are all older and stronger than me. And thanks\nto what happened at the prelims, it feels like everyone's waiting for\nme to slip up."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "In times like these, I just gotta believe in the path I've chosen. Well,\nthat and...",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's just, if you told me I was cute, Big Bro... It might give me that\nextra boost I need, you know?",
+            "choice_data_list": [
+                "...You're cute."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "It's just, if you told me I was cute, Big Sis... It might give me that extra\nboost I need, you know?",
+            "choice_data_list": [
+                "...You're cute."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You can do better than that! But... thanks."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, you really said it!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...Yup, so far, so good! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "If I want to cut my time down... then I just have to sprint as fast as I\ncan!"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "...So she made it out of the gate well enough, huh? Let's see what she\ncan do out on the turf."
+        },
+        {
+            "name": "Race-loving Umamusume",
+            "text": "Yeah, I hope she doesn't lose another cleat today!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, I can hear you! Right back at you—don't come crying to me if\nmy running makes you swoon!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "After all..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...You're cute."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "For the first time... my trainer used the magic words!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "That's why... I don't care if I'm up against the academy, Japan, or\neven the whole wide world..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Today, I'll be the cutest of them all!"
+        },
+        {
+            "name": "Race Staff",
+            "text": "She's done it! Curren Chan has achieved a new record in today's\nfinals!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "<I>Pant, pant...</I> Hey, you saw that... right?",
+            "choice_data_list": [
+                "Yeah, you were crazy cool!",
+                "Yeah, you were crazy cool!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Huh? Not cute, but cool?! That's weird... Haha!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Oh well! We've still got the speech left, don't we? Everyone's hearts\nare as good as mine! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The final speech section is right after this. I try to think of some\nadvice I can give Curren as her trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's definitely heartwarming that she works so hard to make people\nhappy with her cuteness, but...",
+            "choice_data_list": [
+                "I think people would be happy to see more of\nthe real you.",
+                "I think people would be happy to see more of\nthe real you."
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Huh? I was trying to make that our little secret, Big Bro. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Huh? I was trying to make that our little secret, Big Sis. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "But if that's what you want... then okay—just a pinch! Keep those eyes\nand ears glued on me, and only me! ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "But if that's what you want... then okay—just a pinch! Keep those eyes\nand ears glued on me, and only me! ♪"
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "Curren's speech is up next! Oh wooow, I wonder what she's going to\ntalk about?"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Her running just now was great. But... it also might've been a fluke.\nCan she prove to the world that her talent is the real deal?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Once the venue simmers down, Curren begins to speak."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Today, I have something important to tell everyone. Um, my dream..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "...is to perfect the ultimate cuteness!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<I>Chatter...</I>"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cuteness—it lies in everyone's hearts!\nCuteness—it's the power to bring joy to others!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cuteness—it's an never-ending pursuit!\nCuteness—it's the love I give to you all!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I want all of your lives to be filled with cuteness... That's my\ndream—why I'm standing here today!"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Wh-what is this thumping feeling in my chest?! It's... It's C... C..."
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Cute Curren Chan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren's speech, though barely three minutes long, quickly becomes\nthe stuff of legend, and Curren secures first place in the Pretty Grand\nPrix."
+        },
+        {
+            "name": "Monologue",
+            "text": "After the event, I find Curren waiting for me on the school rooftop.\nPerhaps this is the time to ask something that's been on my mind for a\nwhile...",
+            "choice_data_list": [
+                "How come you picked me as your trainer?",
+                "How come you picked me as your trainer?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "You really want to know? Well... I picked you because I thought it'd\nbe easy to have you under my thumb! ♪",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, but that's not all—you really don't remember? Way back when,\nwe met each other once before."
+        },
+        {
+            "name": "Young Curren",
+            "text": "My dream... is to be the cutest person in the universe!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Back then, you didn't laugh at my dream. You told me, \"That's a\nwonderful dream,\" and flashed me a warm smile."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Back then, you didn't laugh at my dream. You told me, \"That's a\nwonderful dream,\" and flashed me a warm smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "I see... So she was that girl from the theme park... While I'm still lost\nin my memories, Curren suddenly comes right up to me."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hey, Big Bro. Tell me, how cute am I?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hey, Big Sis. Tell me, how cute am I?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I already know the answer she's looking for!",
+            "choice_data_list": [
+                "You're the cutest in the universe!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hm? What was that flash just now?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, this shot's a keeper! ♪ Open up Umasta... aaand uploaded! ♪",
+            "choice_data_list": [
+                "Wait, when did you—?!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "\"#CurrenAndTrainer #OnlyTheBeginning #CuteCurrenChan\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Curren's cuteness revolution has only just begun. I'll stay by her side,\nand support her along every step of this endless journey!"
+        }
+    ]
+}

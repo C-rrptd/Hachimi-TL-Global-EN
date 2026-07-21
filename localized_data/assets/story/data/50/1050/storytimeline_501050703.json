@@ -1,0 +1,234 @@
+{
+    "title": "『easy game』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After a day out...",
+            "choice_data_list": [
+                "This time I'll make sure you have fun!",
+                "This time I'll make sure you have fun!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>...Sigh.</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Look, I didn't have <i>any</i> fun the last time you tried\nto play a game with me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Stop with the kiddy games. It's not gonna happen."
+        },
+        {
+            "text": "Sure—last time ended in failure—but today, I\nhave an ace up my sleeve. I know all about the\ngame she's been obsessed with recently.",
+            "choice_data_list": [
+                "Let's play RDLI!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "text": "RDLI is a PvP FPS developed overseas. What\nmakes it fun is the wide arsenal of weapons\nplayers can use to outwit their opponents."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I thought I was the only one around here who\nplays it..."
+        },
+        {
+            "text": "I heard from Super Creek that Narita Taishin's\nbeen grumbling about not having anyone to play\nwith."
+        },
+        {
+            "text": "I stand little chance of beating an experienced\nplayer like her, but she'll probably enjoy it if I put\nup a good enough fight.",
+            "choice_data_list": [
+                "Let's battle!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Fine. I accept your challenge."
+        },
+        {
+            "text": "I'm a little unsettled by how readily she accepts\nmy offer, but I charge into battle nevertheless,\nready to give the fight of my life."
+        },
+        {
+            "text": "YOU LOSE."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That's another win for me. I'm five for five now.",
+            "choice_data_list": [
+                "Y-you're so good at this!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah? I mean, I do play a lot."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, you had a lot of nerve challenging me\ndespite being trash at the game."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You choose terrible weapons and stages, and you\nsuck at using the NPCs. Did you even change the\nsettings to match your play style?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "This is my first time playing PvP mode, so I was\nlooking forward to it, but playing against you is\ndisappointing as hell."
+        },
+        {
+            "text": "Narita Taishin is rarely this chatty. She seems to\nbe in a good mood now that she's found someone\nto wipe the floor with."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's no fun like this... Want me to make things\neasier for you?",
+            "choice_data_list": [
+                "Please!",
+                "Not yet!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wow, no hesitation. Don't you have any pride?",
+            "choice_data_list": [
+                "I just want to keep hanging out with you."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?"
+        },
+        {
+            "text": "If I keep losing so easily, she's going to get bored.\nI'll gladly throw away my pride to give her a\nbetter match."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Do you hear yourself? You are seriously have no\nshame at all."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'll only use the default weapons, and you can\nborrow one of my SSRs. If you still can't win, then\nyou're a lost cause.",
+            "choice_data_list": [
+                "Thanks!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmph, whatever."
+        },
+        {
+            "text": "YOU LOSE."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I knew you couldn't do it.",
+            "choice_data_list": [
+                "...I give up."
+            ]
+        },
+        {
+            "text": "Even after countless rematches, I just can't win\nagainst her. I try to apologize for being a terrible\npartner, but she cuts me off."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's fine. We can play again some other time.",
+            "choice_data_list": [
+                "Wait... Really?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The rewards they give out for winning PvP\nmatches are pretty good. Plus, crushing you is\nkinda fun."
+        },
+        {
+            "text": "Her words are harsh, but at least she's giving me a\nchance."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmm? You really think you can beat me without\nany boosts?",
+            "choice_data_list": [
+                "Not really..."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Then you should just ask for a handicap. It'll even\nthe playing field.",
+            "choice_data_list": [
+                "This game is super fun, so I want to try winning\nby myself."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I thought you were gonna complain about being\nbad at strategizing, not getting the controls, or\nthat the game's too violent and scary.",
+            "choice_data_list": [
+                "That's what makes it fun!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "If you say so. Give me your best."
+        },
+        {
+            "text": "She seems to be in an even better mood, but..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...",
+            "choice_data_list": [
+                "Huh? I missed the landing."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...",
+            "choice_data_list": [
+                "Uh... What does this item do again?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugggh! Stop!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm getting ticked off just watching you play! You\nshould use that item you got earlier and..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "See? Now you get more health back. Restoration\nitems are vital to winning.",
+            "choice_data_list": [
+                "I see now! You're incredible, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...This is, like, the most basic of basic knowledge."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whatever. Agh, look at the time! I've wasted the\nwhole day with you!",
+            "choice_data_list": [
+                "Thanks for teaching me so much, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't need your thanks! I'm leaving!"
+        },
+        {
+            "text": "She leaves in a huff, but I'm glad I got to play so\nmany rounds against her."
+        }
+    ]
+}

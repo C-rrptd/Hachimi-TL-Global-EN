@@ -1,0 +1,220 @@
+{
+    "title": "麗しきストレス発散法？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've been awfully busy lately. I know that's to be\nexpected, since I'm training an Umamusume\nparticipating in the Twinkle Series, but even so...",
+            "choice_data_list": [
+                "(I haven't even managed to tidy up...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's dust piling up in all four corners of my\nroom. I don't have the energy to clean it up right\nnow, though, so I head out to the academy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You there! I apologize for the abrupt question,\nbut may I have a moment of your time?",
+            "choice_data_list": [
+                "Are you talking to me?",
+                "Are you talking to me?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You are Air Groove's trainer, are you not? I have\nsomething rather important to discuss, and I need\nsomeone I can trust."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll get straight to the point. Would cleaning your\nresidence be a worthwhile task?",
+            "choice_data_list": [
+                "Uhhh..."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I understand your confusion, but this is a matter\nof extreme urgency. Please, answer me."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll ask you once more... Would cleaning your\nresidence be a worthwhile task?",
+            "choice_data_list": [
+                "I guess so..."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Splendid! A good size—not too large, yet not too\nsmall. Enough space to be satisfactory, but not so\nmuch that it takes an unreasonable amount of\ntime."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And most importantly, it belongs to someone\ntrustworthy! I couldn't possibly hope for a better\nsolution!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Will you give me five minutes? Just five minutes,\nand I'll have Air Groove ready at your place."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm sure you've already gathered, but she'll be\ncleaning your room! Wait for us there, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unsure of what's going on, I head back home and\nwait as per Symboli Rudolf's request."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hello."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The president gave me permission to clean your\nroom. I'd like to get started right away, if you\ndon't mind.",
+            "choice_data_list": [
+                "S-sure. Um, thank you?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You can relax. This isn't charity. It's merely a\npersonal matter, first and foremost."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll get started then."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove pulls out a cloth and quietly begins\nwiping down the surfaces in my room."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm... The place is far dustier than it looks. But\nnot a speck shall escape me...",
+            "choice_data_list": [
+                "(What's she muttering about?)",
+                "(What's she muttering about?)"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "This should go without saying, but I am counting\non you to keep today's events to yourself.",
+            "choice_data_list": [
+                "Can you at least tell me what this is all about?",
+                "Can you at least tell me what this is all about?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah, yes, my apologies. Allow me to explain."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The student council has had to address a number\nof difficult affairs recently—affairs that have been\ncausing us considerable mental strain."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "In other words, Air Groove has been <i>extremely</i>\nstressed as of late."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I approached you because I thought you could\nprovide a useful outlet for that stress.",
+            "choice_data_list": [
+                "Cleaning... relieves stress?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh? Is that black mold I see on the window\nframe? A simple cloth won't be enough to defeat\nyou... Hehehe... Ahahaha!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh no, there's no place for compassion on the\nbattlefield! Meet my secret weapon... baking\nsoda!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove seems to be enjoying herself. ...Maybe\neven a little <i>too</i> much."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I was also surprised when I first saw her like this. It\ntakes a lot for it to get this bad."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I stumbled upon her cleaning the floors of the\nstudent council office one day. Every last speck\nof dust—eradicated. It was quite the sight."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Cleaning is an act that has palpable results, so I\nsuppose it's easy to feel a sense of\naccomplishment from it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I questioned her about it afterward, but it\nappears that she retains little memory of the\nactual process."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Once again, I implore you not to tell anyone of\nthis. My esteemed right hand's good name is at\nstake."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's all very well, but it feels weird to just stand\naround and watch. Maybe I should...",
+            "choice_data_list": [
+                "Prepare some snacks.",
+                "Help Air Groove clean."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh! A fine idea. Cleaning is a tiring business, after\nall. Allow me to join you."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us head out to buy some snacks."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I feel much better now. Thank you, President."
+        },
+        {
+            "name": "Air Groove",
+            "text": "And thank you as well for allowing me this\nopportunity, Trainer. By the way..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I didn't say anything... strange... while cleaning,\ndid I?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf shoots me a meaningful glance, so\nI shake my head fervently."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Y-you wish to talk to her while she's in this state?!\nWh-what a novel idea! H-however, I..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh? You wish to enlist?",
+            "choice_data_list": [
+                "(Enlist?!)"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I like the cut of your jib! Very well, soldier. Take\nthe sodium bicarbonate solution!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "And you, President! Take that toothbrush!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "H-huh? I'm helping too?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Under the intense leadership of Air Groove, we\nall have an enjoyable clean-up session... or so I'd\nlike to believe."
+        }
+    ]
+}

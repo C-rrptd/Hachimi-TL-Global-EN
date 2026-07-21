@@ -1,0 +1,297 @@
+{
+    "title": "かけがえのないすべて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon and I are heading back home\nwhen she pipes up with a question."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, do you have any time available on our\nnext day off?",
+            "choice_data_list": [
+                "Sure, do you wanna train?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No. I will explain in detail on the day."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Have a good evening."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Mihono Bourbon returns to her\ndorm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe I'm just imagining things, but it looked like\nshe was smiling as she left."
+        },
+        {
+            "name": "Monologue",
+            "text": "Our day off arrives."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "We're two minutes ahead of schedule. The train\nshould be arriving soon.",
+            "choice_data_list": [
+                "Where are we going?",
+                "Where are we going?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That's something for you to look forward to."
+        },
+        {
+            "name": "Monologue",
+            "text": "She somehow seems different than usual, both in\nher words and behavior."
+        },
+        {
+            "name": "Monologue",
+            "text": "Does this have something to do with that whole\n\"precious memories\" thing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I might not know what we're doing yet, but it's\nsurely nothing bad. I decide to just be quiet and\nfollow her."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "We're here.",
+            "choice_data_list": [
+                "A farm?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. When I was young, I once went with my\nparents to train near a farm."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "On our way home, we shared a meal at the farm."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I thought I would like to do the same with you, so\nI invited you here.",
+            "choice_data_list": [
+                "Oh, so that's it!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. First, let's take a look around. Later, we can\nget some ice cream."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have a map of the farm's interior recorded to\nmemory. I know where all the facilities are\nlocated, so please leave navigation to me."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Now, I will set our destination, and we will hurry\nto..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...No, we should take our time. I have determined\nthere is no reason to rush.",
+            "choice_data_list": [
+                "Let's take it easy, then."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "We take a long look around the farm, surrounded\nby the nostalgic smell of fresh grass."
+        },
+        {
+            "name": "Monologue",
+            "text": "After we finish lunch and eat some ice cream,\nMihono Bourbon calmly opens up a conversation."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Trainer."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I believe that I have created a \"precious\" memory\nwith you today."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Up until now, I didn't understand what \"precious\"\nmeant, nor did I comprehend the criteria for\ndetermining such importance."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It was challenging...",
+            "choice_data_list": [
+                "Just relax and take it slow."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Understood."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...To put it simply, what I lacked was not\nunderstanding, but realization."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "After seeing you work so hard for my sake, I\nfinally realized it."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "To me, the regular days that we take for granted\nare the ones I treasure the most."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "When I decided on my dream as a child, my\nparents did everything they could to support me."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I would train with Father every day without fail,\nand Mother would watch over us."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I don't have many memories of playing around\nlike other children, but..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see now that I spent much more time with my\nparents than most of my peers."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "And to me, that is irreplaceable."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "They were joyous times."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Whether it was my daily training, or simply a meal\nwith my family..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Those were all \"precious\" memories to me.",
+            "choice_data_list": [
+                "It sounds like that was a wonderful time for you.",
+                "It sounds like that was a wonderful time for you."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Y-yes... That's correct."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "So... back then, when I couldn't respond\nimmediately when asked about \"precious\"\nmemories with you..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It confused me, but now I realize the reason is\nactually quite simple."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is because <i>all</i> of my time with you is precious to\nme.",
+            "choice_data_list": [
+                "Even this very moment?",
+                "I feel the same way.",
+                "I feel the same way.",
+                "It makes me happy to hear that."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is because <i>all</i> of my time with you is precious to\nme.",
+            "choice_data_list": [
+                "Even this very moment?",
+                "I feel the same way.",
+                "I feel the same way.",
+                "It makes me happy to hear that."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. I have determined that this very moment is\nthe same."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, continuing in this manner may be\nproblematic in the future.",
+            "choice_data_list": [
+                "Why is that?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "At this rate, my memory log will likely become\ninundated with memories of you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "This must be addressed immediately. Please tell\nme how I can rectify this issue."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon snaps back to her usual self, but\nI can see a faint smile on her face."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Do you... mean that?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Training with you makes me feel the same warmth\nin my heart that I did as a child."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "So I believe that this too will become a \"precious\"\nmemory."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But... Maybe it's a little..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "There's something different about this \"precious\"\nfeeling compared to what I felt as a child."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It makes you happy?",
+            "choice_data_list": [
+                "Of course. I'm happy that you appreciate our\ntime together."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I... um, I... The time I spend training with you...\nEven this very moment..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is all... very precious to me.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...I do not understand the meaning of your\ngratitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon mutters this faint reply while\naverting her gaze."
+        }
+    ]
+}

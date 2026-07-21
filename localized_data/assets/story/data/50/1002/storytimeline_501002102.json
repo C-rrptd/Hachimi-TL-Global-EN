@@ -1,0 +1,202 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's New Year's. Silence Suzuka and I are making\nour first shrine visit of the year."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "All right!",
+            "choice_data_list": [
+                "What are you going to pray for?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hmm... That I get to run lots and lots this year."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I also want to repay Spe for looking up to me."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That's why I'd like to run with confidence this\nyear."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like her resolutions haven't changed\nmuch from last year, but still, I can tell she's\ngrown a lot since then."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hello! Happy New Year, you two!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, Fukukitaru. Happy New Year."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "You've got quite the display there. What's it for?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru has set up a street shop,\ncomplete with traditional hagoita paddles and\neverything necessary for kids to play fukuwarai."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ha ha ha. In my first dream of the year, I beheld\nthe miraculous secrets of New Year's divination!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "So feast your eyes! Here before you, I have\nprepared three means of divination—red bean\nsoup tasting, fortune slips, and, last but not least,\nfukuwarai!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Red bean soup tasting?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yes! Drink only the broth and the leftover beans\nwill shape your fortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "As for fukuwarai, simply create a face by setting\nthese facial features on the blank head... while\nblindfolded. The results will impart your fortune!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "And finally, the fortune slip! Pull a slip from the\nbox and I will divine your fortune from the results."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Aren't the fortunes written on the slips? What's\nthere to left to divine?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Don't you want to start the new year off with\nsome extra good luck? Now's your chance,\nSuzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, which one do you think I should do, Trainer?",
+            "choice_data_list": [
+                "The red bean soup sounds tasty!",
+                "Leave everything to fate! Draw a fortune slip.",
+                "Make your own destiny! Try fukuwarai."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The red bean soup? Okay!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Coincidentally, I'm actually a little hungry\nat the moment. Nice choice, Trainer."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That was tasty."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Now let's see what the beans have to say about\nyour future!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Woiya, haiya! Beans in the bowl! Show us your\nshape, and may the future be known!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Behold! The shape of a cleat has <i>bean</i> revealed! If\nyou run, good luck will come to you!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, that sounds like good news. Thank you,\nFukukitaru."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be particularly happy about this\nfortune, as the next day she's even more\nmotivated at training."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The fortune slip? Okay."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I suppose I am a little curious to know how she'll\nuse it to read my fortune."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Very well. See the box over there? Reach inside\nand pull one out, if you would!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. It says, \"great fortune.\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Great fortune?! How wonderful! You're going to\nhave the best year ever!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah, so it's exactly what I was expecting. Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Matikanefukukitaru's fortune has left\nSilence Suzuka in a good mood. We enjoy the rest\nof New Year's relaxing and taking it easy."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Fukuwarai? Okay."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Very well. First... the blindfold!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... Is this piece the mouth? No... The eyes?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehe. Oh, Suzuka. Kekekekeke!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Don't laugh like that! You sound so devious!\nHehe."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "No way! I only got the nose right!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ahahaha! Good heavens! How did you think the\neyebrows were the mouth and eyes? Oh, Suzuka,\nyou're too much!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hehe. Well, time to get serious. I have\nfortune-telling to do!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Woiya, haiya! Poor misshapen face! Tell us what\nSuzuka's future holds!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I have your fortune! And clear as crystal, the\nkeyword—Connection!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Connections will lead you through a difficult\ndecision. Be prepared, for it will happen soon!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "My connections..."
+        },
+        {
+            "name": "Monologue",
+            "text": "While she seems skeptical, perhaps because the\nfortune is surprisingly straightforward, Silence\nSuzuka seems to take it a bit more seriously than I\nexpected."
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "旅路は弾む",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I wake up early one morning while it's still dark\nout. I'm finding it hard to get back to sleep, so I\ndecide to take a walk instead."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "...Oh. You're one of the academy's trainers. What\nare you doing up this early?",
+            "choice_data_list": [
+                "I should be asking you that.",
+                "I should be asking you that."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Why, I'm on a walk! It was such a pleasant night.",
+            "choice_data_list": [
+                "You do know it's against academy rules to be\nout at this time?",
+                "You do know it's against academy rules to be\nout at this time?"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Of course I know."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I only meant to take in the fresh night air for a\nsecond before heading back."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But... look down this road. You see how far down\nthe streetlamps go? They're like a series of\nguideposts."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I started to wonder where they led and what\nwould happen if I followed them to the very end."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "So, there I was, counting the lights as I went. The\nsky was vast and silent. It was beautiful."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "There might have been a meteor shower,\nactually... I saw so many shooting stars flying past\nabove the dark town. Then suddenly..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "My stomach growled something fierce! My feet\nhurt, and it was already morning. So I made my\nway back, and you spotted me! Hahaha!",
+            "choice_data_list": [
+                "So you've been out all night?!"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Let's keep that a secret between us. Getting\nscolded is <i>so</i> boring."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Anyway, enough talk. I could really go for some\nbreakfast right now."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Oh, would you like to come with? Since fate has\nalready brought us together, I'd love to hear what\nprompted you to wake up so early."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "That diner over there does a really mean egg over\nrice dish for breakfast.",
+            "choice_data_list": [
+                "Persuade her to head back and sleep.",
+                "Join her for some breakfast."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Head back and sleep? You sound like Rudolf!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "The last time I spent all night out, I got lectured\nfor almost a whole hour in the student council\noffice."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ugh... That was the most boring thing ever. I just\ncan't. Even thinking about it is making\nme—<i>yawn...</i>"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ngh... I think I'll... go over there for just a little...\nGood night..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "All right. Come on, then!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha. You were out for a walk because you\ncouldn't fall back asleep? Guess we both have a\nlong and drowsy day ahead of us."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But you know, now that my belly's warm and full, I\nfeel kind of..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "<i>Zzz...</i>"
+        }
+    ]
+}

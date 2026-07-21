@@ -1,0 +1,74 @@
+{
+    "title": "After the Japanese Derby: Standing Tall",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's time for the spring Classics. Intense training is\noff the table for now, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Woooo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Derby. Unable to resist this\nonce-in-a-lifetime opportunity, we shoot for the\nstars. And the result?"
+        },
+        {
+            "name": "Caster",
+            "text": "Manhattan Cafe dominates at the Japanese\nDerby! She stands tall atop the indestructible\nskyscraper!"
+        },
+        {
+            "name": "Caster",
+            "text": "But will her body hold out? She looks exhausted\nand her footing is unstable, but... despite it all,\nshe lives up to everyone's expectations!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "You did great, Cafe...",
+                "You did great, Cafe..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's so worn out that I feel myself aching just\nlooking at her. And yet, Manhattan Cafe has\nmade it happen."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Huff... Pant...</i>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My, oh my. And after I told you there was no\npoint pushing ourselves. I've never been ignored\nso thoroughly. You'd think I was completely\ninvisible."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Trainer, I'll need you to go as hard with your\ntreatment as she went on herself. We'll be\nadministering supplements 3a, 8b, and 6d_2 in\nthat order.",
+            "choice_data_list": [
+                "Roger that!",
+                "Roger that!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You'll be needing three days' rest. But given that\nwe've eased up on your training, I'm sure you'll be\nfine."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'm sorry, Tachyon..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Haha, it's a little late for apologies, don't you\nthink?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But since you ran anyway, hold your head up\nhigh. I assume you've gotten what you wanted out\nof all this, after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "We provide Manhattan Cafe with the best\npossible aftercare we can, and it looks like we'll\nbe able to head into the autumn season with high\nhopes."
+        }
+    ]
+}

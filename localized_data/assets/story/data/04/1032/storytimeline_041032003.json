@@ -1,0 +1,241 @@
+{
+    "title": "事象の地平面",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days have gone by since Agnes Tachyon ditched the tryouts."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot her in the hallway, and to avoid being wrapped up in another\nfreak experiment, I silently try to escape—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Then... you've made up your mind? You're really going to leave?"
+        },
+        {
+            "name": "Monologue",
+            "text": "By \"leave\"... Does she mean dropping out? I suddenly stop, absorbed\nin their conversation."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yes, I suppose. It appears that the academy forcing me to enter the\nlast tryouts was them giving me one last chance."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "You could've just... entered the tryouts. Or maybe... attended a few\nmore classes..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'll always pass on wasting time that could go into my research. That\nsaid, I've always attended the useful classes."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But... if you drop out, you won't be able to race in the Twinkle Series.\nWhat will happen... to your research?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'll continue it, of course. I still have my brain and body here with me,\nafter all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And it's not as if the Twinkle Series is the only place to race against\nthe best Umamusume."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Perhaps I should move my lab overseas! The UK, France, America,\nDubai—the possibilities are limitless!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Overseas... That's... pretty bold of you..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha-ha-ha! Anything for the sake of my research!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In any case, I plan to use this Umamusume body of mine, of Agnes\nTachyon, to discover what lies beyond our top speed. That hasn't\nchanged one bit."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Is that so?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm? What's this? Might you be worried about me?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Could it be that after being experimented on so many times, you've\ncome around?! Never fear—I'm willing to send my future medicines to\nyou!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No thanks... I'm just hoping... I won't be wrapped up in weird\nexperiments... ever again."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What?!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But... I'm glad you're continuing your research. Goodbye."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah! Cafe, wait! I have one final experiment... But I guess she's gone\nalready.",
+            "choice_data_list": [
+                "Are you dropping out of Tracen Academy?",
+                "Are you dropping out of Tracen Academy?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Greetings, rookie trainer. We've been seeing each other a lot lately,\nhaven't we?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You nailed it. I got in because of everyone's hopes for me, and they\neven overlooked my eccentricities—but it looks like the higher-ups\nfinally had enough."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This academy is renowned for prioritizing its students' freedom and\ndoes so by providing them with cutting-edge training facilities."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But it has no need for students who neither get scouted nor make\ntheir official debut."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It doesn't need someone who skips class and refuses scouting offers in\nfavor of research."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In the end, the academy recommended that I drop out.",
+            "choice_data_list": [
+                "Do you plan to go along with it?",
+                "Do you plan to go along with it?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's a shame I won't be able to enter the Twinkle Series. And my\nresearch will surely slow down as well."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "However... it's still better than letting my research stagnate in favor of\nschool."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I knew this day would come. Perhaps I was waiting for it. Actually, this\nis—"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I won't have you saying something as sad as \"This is a blessing.\""
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? Now here's a surprise. If it isn't one of the academy's top brass."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Sorry to interrupt, but I have some business with her. Agnes Tachyon,\ndo you really intend to leave this academy?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "My intentions are to continue my research, President. Is that all you\ncame here to ask?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, that is all. As such, I have a request for you."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A request? Hmph, what could it be?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Agnes Tachyon—come for a run with me."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, and there you are in the stands. Rookie trainer, you're rather\npersistent, now aren't you?",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The rumored Agnes Tachyon running with the Emperor, Symboli\nRudolf? Nothing in the world could dissuade me from watching."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmph. I don't hate a person who's starving for knowledge. Watch to\nyour heart's content..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Because this is the last time I'll run on this track."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Sorry for the wait, Agnes Tachyon. It's just us two... and this rookie\ntrainer. Looks like we can enjoy our duel in peace."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Isn't that precisely why you picked this time slot? I don't know what\nyou're planning, though."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm... Now then, does 2,000 meters on turf sound good to you?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Anything is fine with me. I'm sure I'm greatly indebted to you, so I'd\nbe happy to return the favor."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "There is no reason to thank me—in the end, I failed to protect you."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha-ha-ha! You're always way too serious! Anyways, 2,000 meters on\nturf, right? I'll go get ready."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...",
+            "choice_data_list": [
+                "What's the matter?",
+                "What's the matter?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "She enrolled at Tracen to enter the Twinkle Series for her research.\nBut if her duties as a student here hinder her research, then her\nleaving is inevitable."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "There's no need for her to stick with the Twinkle Series. She can move\nher base of operations anywhere else and enter other races with\nskilled competitors."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Everything she does is so logical, which makes it all the more strange,\ndoes it not?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why has she chosen to stay at this academy until breaking point?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why this academy, where she can't avoid the trainers she herself calls\nnuisances?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...What do <i>you</i> think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the race between Agnes Tachyon and Symboli Rudolf begins,\nwith me as its sole spectator!"
+        }
+    ]
+}

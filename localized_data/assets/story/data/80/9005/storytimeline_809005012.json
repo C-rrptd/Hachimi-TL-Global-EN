@@ -1,0 +1,99 @@
+{
+    "title": "ブスッとおまかせ☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I head to the infirmary to pay\n<chrname> a visit to since she\nrecently got injured... only to see a familiar figure\nalready standing by her bedside."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Here I go! A little poke, and your injury will be as\ngood as healed!",
+            "choice_data_list": [
+                "What do you think you're doing?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Treating a patient, duh! This poor Umamusume\nneeds medical attention!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And if not an acupuncturist to give her a good\npoke, then who?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I've even looked up chakra points that help treat\ninjuries! You have to give me a chance! Please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though I want to do everything I can for\n<chrname>'s benefit, it doesn't feel\nsafe leaving her in the hands of Sasami\nAnshinzawa."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I think you might be misunderstanding my\nintentions. I'm not treating Umamusume just for\nacupuncture's sake."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "It's the other way around! I'm doing acupuncture\nfor all Umamusume kind's sake!",
+            "choice_data_list": [
+                "...Can it be? You truly care that much about\nUmamusume?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And I'd be elated if their futures involved more\nneedles...",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Leave the rest to me. Sorry, I can't have people\nmilling about while I'm providing treatment, so\noff you go!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And while I'm at it, I'll take this opportunity to try\na few things! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Th-thump! Kablam! Zrrrt! Whirrr!</i>"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I-it's a miracle! She's in even better shape than\nbefore she got injured... How can this be?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "It sure was nerve-wracking when I poked the\nwrong chakra, but wow! I'm a genius! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Sasami proclaimed,\n<chrname> has made a complete\nrecovery and is now stronger than ever!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "It was a great success! I guess info on Umatter can\nbe pretty trustworthy after all..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Oh, by the way, I took the liberty of activating a\nfew extra chakra that'll boost her strength! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Sasami proclaimed,\n<chrname> has recovered from her\ninjury and grown stronger!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hmm... Something doesn't feel quite right... It's\nalmost like the treatment's not working or\nsomething..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, everyone has off days! Anyways, I'll be\ngoing! The rest is up to you! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "She might not have healed from her injuries, but\nI'm just glad that <chrname> is safe\nand sound."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "ミスディレクション",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, at the training track..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Right, then! Next up is some paced running, my\ndarling ponies!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'll think up some individual training exercises for\neach of you in the meantime."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So please... don't take too long. I'd prefer it if\nyou'd return to my side in a timely matter. Have I\nmade myself clear?"
+        },
+        {
+            "name": "Younger Umamusume A",
+            "text": "Squeeeee! I'll do my best!"
+        },
+        {
+            "name": "Younger Umamusume B",
+            "text": "U-um! By \"individual training exercises,\" do you\nmean you'll train us one-on-one?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, but of course! You have that to look\nforward to when you get back. Now off you all go!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm, what should I do?",
+            "choice_data_list": [
+                "You did a great job getting them motivated."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Haha. Receiving such high praise from an actual\ntrainer is a tad embarrassing, I must say."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Still, as their senior and dorm leader, it's my duty\nto instruct them properly."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "In your professional opinion as a trainer, what do\nyou think I should teach them next?",
+            "choice_data_list": [
+                "The trick to rounding the last corner.",
+                "Running techniques."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The final corner can certainly be the\nmake-or-break point in a race. What can I do to\nhelp them gain more experience for that? Hm..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I know! I can play tag with them! I'll run as fast as I\ncan, and they'll have to try to catch me."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That way, they'll be able to learn how to sprint\nall-out when it counts, while also having fun!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's a good idea. Each Umamusume has her\nown running style, and it's about time I started\nteaching them methods that best suit them."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Which means the time has come to conduct my\nspecial heart-racing, all-knowing personality test\nfor Umamusume!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Once I've got a handle on who they are, I can\nteach them the running method that match them\nperfectly!"
+        }
+    ]
+}

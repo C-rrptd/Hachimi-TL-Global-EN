@@ -1,0 +1,136 @@
+{
+    "title": "席巻フリーダム",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The only thing Mr. C.B. follows in life is the rule of\nher heart, and today, I'm here to ascertain just\nhow strong that way of living makes her."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Wow, that was some rain! Think it might start\ncoming down again later?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Sure seems like it. And look, the track has gotten\nall wet and soft! It's going to be impossible for\nanyone to overtake the lead on that track."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Phew..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You didn't even come with an umbrella? In any\ncase, how are you feeling, C.B.?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I feel perfect. Were you waiting for me?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes. Knowing you, I figured it would be smart to\nprepare a towel for you. Take it and dry yourself\noff in the waiting room."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha. It's like you're psychic. Thanks, Rudolf."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Think little of it. Everyone has different ways of\nconditioning themselves."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope you'll show me your flawless running today."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Dang, Mr. C.B. was soaking wet. I wonder if she\nran here."
+        },
+        {
+            "name": "Spectator B",
+            "text": "Maybe she's feeling desperate. It won't be easy\nfor her to close the gap on her competition in bad\nweather.",
+            "choice_data_list": [
+                "(Sure, the weather puts her at a disadvantage,\nbut...)",
+                "(Sure, the weather puts her at a disadvantage,\nbut...)"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "(Man, the rain is great! It's nice how the raindrops\nhit my face and how mud goes flying everywhere.)"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "(It's probably reckless to chase after everyone on\nsuch a churned-up track, especially after\nexhausting myself.)"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "(I might not be able to run like normal. I guess\nthat's a given, though.)"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But I don't care if that's the case. I refuse to bow\nto those assumptions."
+        },
+        {
+            "name": "Monologue",
+            "text": "The race begins. The turf gets torn up, and the\ntrack is barely visible. Just as expected, it's a\nmess out there."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Yikes. They're all visibly exhausted! I guess it's a\ndone deal for the one in the lead...",
+            "choice_data_list": [
+                "(It may seem that way for now, but—)",
+                "(It may seem that way for now, but—)"
+            ]
+        },
+        {
+            "name": "Spectator B",
+            "text": "Hang on! Look! In the back!",
+            "choice_data_list": [
+                "Mr. C.B.!"
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "Here comes Mr. C.B. closing in from behind! She's\ntaken the lead!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "There it is... The path ahead is mine!"
+        },
+        {
+            "name": "Spectators",
+            "text": "You're kidding me! She turned this whole thing\naround despite the weather?! That's incredible!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Yeah... That's a nice sight."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I knew it. It doesn't matter what anyone does or\nsays. I just have to follow the compass of my\nheart."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Just like I did today."
+        },
+        {
+            "name": "Spectators",
+            "text": "Wow! That power's unbelievable! How does she\nrun so freely?!",
+            "choice_data_list": [
+                "That's Mr. C.B. for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The untethered Umamusume who walks down her\npath—and her path alone."
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing Mr. C.B. prove her unwavering\nstrength, I'm filled with motivation to do even\nbetter myself."
+        }
+    ]
+}

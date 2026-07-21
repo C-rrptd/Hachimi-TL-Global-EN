@@ -1,0 +1,78 @@
+{
+    "title": "シークレット・ノート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm off today, and while I'm looking for a place to\nsit and eat in the early afternoon..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice a curious-looking notebook under one of\nthe seats."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Aha! Found it! El's Strongest Notebook in the\nWorld—Número Cuatro!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Thank goodness! I've been looking everywhere for\nit!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So it was here all along, huh? I musta dropped it\nwhile I was eating my super ultra spicy sandwich\nearlier..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Bueno! Muchas gracias for picking it up! I can't\nthank you enough, no matter how many\nlanguages I use!",
+            "choice_data_list": [
+                "That notebook must be really important to you.",
+                "That notebook must be really important to you."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí! When my papa was a wrestler, he used to write\ndown new moves in a notebook just like this!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "In other words, that notebook is filled with all the\ntricks I've discovered for running and other\nspecial info—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, I know! I'll tell ya one of the secrets in this\nnotebook as my way of thanking you!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I recommend the \"El-Style Power Training\nProgram\" or \"Tips for Race Running on a Clear\nDay\"! What'll it be?!",
+            "choice_data_list": [
+                "The El-Style Power Training Program.",
+                "Tips for Race Running on a Clear Day."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yooooou got it! Consider yourself guaranteed to\nexplode with power!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Now lend me your ears! This is confidential stuff,\ny'know!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So this is what you gotta do! <i>Whisper, whisper,\nwhisper...</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ooh! Going for the fair-weather offense tricks,\nhuh? An excellent choice, if I do say so myself!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Now lend me your ears! This is confidential stuff,\ny'know!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So this is what you gotta do! <i>Whisper, whisper,\nwhisper...</i>"
+        }
+    ]
+}

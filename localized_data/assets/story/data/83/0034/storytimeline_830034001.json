@@ -1,0 +1,178 @@
+{
+    "title": "雨の日、ぷかぷか、お花畑",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On a day when it's been raining cats and dogs\nsince morning..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Awww... It's raining <i>again?!</i> I'm so sorry! This is all\nmy fault!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Well... Rice is getting all worked up because she\nthinks she's to blame for the cherry blossom\npicnic getting rained out..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It rained last week and the week before too... It's\nmy fault... I brought the bad luck again."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That's not true! This event is over, but there'll be\nother ones!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "She's right! Let's go next week!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "No, I can't... You two should go without me. It'll\njust rain again if I'm there."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, Rice..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um, do you know of any places where we can\nhave a cherry blossom picnic even if it's raining?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A botanical garden inside a greenhouse springs to\nmind, but I'm not sure it'd be wise to send them\noff in such heavy rain."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmmm, if only there was some kind of flower\ngarden that we could go to in any weather!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, I know! Guys! Come with me!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Urara, wait! It's pouring rain outside!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara and the others run off into the\ntorrential rain. Worried about how they'll fare, I\ndecide to follow them."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "We're... at an aquarium? Why?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Lookie there! Ta-daaah! A flower garden!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Those are... jellyfish."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, but look at the poster! \"The Fantastical\nJellyfish Exhibition: An Underwater Flower\nGarden.\""
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I see, the selection of jellyfish here look like\nflowers floating in the water. How dreamy!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You're right, they do look like flowers in bloom."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "They're so beautiful..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Right?! The rain can't stop us in here!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah... I was wallowing so hard in my sorrow that I\ncouldn't come up with any other ideas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You're so great at finding ways to be happy,\nUrara. You always amaze me...",
+            "choice_data_list": [
+                "Let's keep looking on the bright side!",
+                "Happiness could be waiting right around the\ncorner."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The bright side... Yeah, you're right! I-I'll try to do\nthat!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I know! If you <i>say</i> you're happy, then more\nhappiness is sure to come your way!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Like this... It's raining! I'm so happy!\nYou should give it a shot too, Rice! Go on!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I-I'm so happy?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uh-huh! Here I am at the aquarium with Rice and\nRob Roy! I'm so happy!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yes, I'm so happy! Hehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Is it the power of words or Haru Urara's\npositivity? Either way, Rice Shower is positively\nbeaming."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-you think so? Right around the corner, huh..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You mean that poster there? For the dolphin\nmeet-and-greet?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I bet we'll all make some great memories if we go\nand play with the dolphins!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The dolphins perform huge leaps in time with the\njolly music. But then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Squee, squee! Squeee... <i>SPLASH!</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oooh... I'm so sorry. I got all of you splashed with\nwater!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Don't be sorry! That's what dolphin shows are all\nabout!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ahaha! That was so much fun! We should go and\nsee the dolphins again sometime!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "For sure, Urara! I'd love to go again with you\nboth."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thanks so much, you two!"
+        }
+    ]
+}

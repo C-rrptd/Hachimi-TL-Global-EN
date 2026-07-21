@@ -1,0 +1,123 @@
+{
+    "title": "やってみてもいい",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I come to the school for an interview with the\nschool's newspaper. After we finish up..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice Mejiro Dober staring straight in my\ndirection."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "How can they stay so calm with all those\ncameras? I wish I could be like that...",
+            "choice_data_list": [
+                "Sorry, what was that?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "N-nothing. I didn't say anything."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! U-um, well..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's my problem, so it's none of your concern."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober remains tight-lipped, but I\ndistinctly recall hearing her mumble \"I wish I could\nbe like that.\"",
+            "choice_data_list": [
+                "Are you uncomfortable with having your photo\ntaken?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? How did you..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seems I hit the nail on the head. Wanting to help\nher out, I give her some advice on how to be\nmore at ease with having her photo taken.",
+            "choice_data_list": [
+                "Train your body to gain confidence!",
+                "Practice smiling in front of a mirror!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Do... do you think you could teach me some tips\non how to look good in pictures?",
+            "choice_data_list": [
+                "Are you bad with having your photo taken?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't like being the center of attention... I have\na lot of trouble smiling naturally for interviews\nand such."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I really do want to be able to smile boldly in\nfront of the camera.",
+            "choice_data_list": [
+                "Train your body to gain confidence!",
+                "Practice smiling in front of a mirror!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I didn't ask for your advice."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Confidence..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hmmm... Is that really all it takes? I wonder if\nthat'll help me smile more naturally."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I'll give it a shot. I'll use what you've said when I\ntrain too. Thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Mejiro Dober walks away."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I wonder if I'll really be able to smile naturally if\nI'm more confident in myself..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I suppose I could try it out if I feel like it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "A mirror? You can't be serious..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Smile in front of a mirror? But that sounds so\nembarrassing..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll... keep that in mind."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But it sounds easy enough to do, and it'll be good\nto see what I look like."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you for your advice. I'll try it and see how\nit goes."
+        }
+    ]
+}

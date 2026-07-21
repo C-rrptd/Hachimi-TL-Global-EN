@@ -1,0 +1,228 @@
+{
+    "title": "It's show time",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One afternoon following a long day of work, I return to my room, only\nto realize something was amiss.",
+            "choice_data_list": [
+                "(My trainer badge is gone!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It was right on my collar, as per regulations... Did I drop it\nsomewhere? I'd better find it, quickly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I search frantically for my badge up and down the entire campus, but\nno luck...",
+            "choice_data_list": [
+                "(I just can't find it.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe it fell through a crack or something, I wonder, as my eyes\nstrain to scan the ground."
+        },
+        {
+            "name": "???",
+            "text": "Oof!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Forgive me! Are you all right? I hope you've suffered no injury.",
+            "choice_data_list": [
+                "I should be the one to apologize. I wasn't\nlooking...",
+                "I should be the one to apologize. I wasn't\nlooking..."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Please, we are both unharmed, and that is all that matters! But say...\nyou've the look of someone in a terrible predicament."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I watched as you stared so bleakly at your feet. Might you be in\nsearch of some precious family heirloom?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell the kind student how I lost my trainer badge and can't find it\nanywhere."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Your trainer badge! This is more dire than I feared."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "No outsider is permitted to set foot on the grounds of Tracen\nAcademy. Without your insignia, the guards may mistake you for a\ntrespasser..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Have you not heard the tales? There once was a scoundrel prowling\nthe school under the cover of night."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "With not a soul to trouble them in the dark, quiet halls, the villain\nchuckled in victory."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But just then, they heard it. The clip-clop of approaching footsteps...\nThey turned around to suddenly see the <i>wicked</i> grin of... Tazuna!",
+            "choice_data_list": [
+                "<i>Gulp!</i>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe... I only kid!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wise trainer, why not try checking your pockets?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The strange suggestion takes me by surprise, but I reach into my\npockets all the same...",
+            "choice_data_list": [
+                "My badge!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'd only just picked it up off the floor, but to think I would meet its\nowner so soon. What luck!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Judging by your frightened panic and lack of badge, I surmised it to\nbe yours... How right I was!",
+            "choice_data_list": [
+                "But when did you put it in my pocket?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "When I bumped into you. Sleight of hand is a useful skill of mine! Heh\nheh, were you shocked?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Perhaps I should have simply handed it over, rather than scare you. I\ncouldn't help but take the chance for a fun surprise... Forgive me."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, that's it! To make up for my devilish trick, let me treat you to a\nmeal. You're sure to be delighted!",
+            "choice_data_list": [
+                "I really should be thanking you though...",
+                "I really should be thanking you though..."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All the thanks I need is for you to accompany me for a meal! Now, to\nthe cafeteria, my dear trainer!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Pray tell. Have you heard the news? There are special items on the\nmenu today—bread of all sorts!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You won't be wanting for buns with the plethora here. And greatest of\nall, a delight to surpass even carrot bread... Double carrot bread!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wonder which one you'd prefer... I shall bring whatever you like, so\nfeel free to tell me!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You must be famished after roving the grounds in your long search.\nI'm certain a hearty meal will put you back in good spirits!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki helps take my mind off everything until the exhaustion\nfrom searching for my badge melts away."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Tell me, Trainer, is it to your liking?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I took all your interests and likes into account when I chose that\ndessert, you know?",
+            "choice_data_list": [
+                "It's fantastic!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Really?! YES! I did it!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahem... Pardon me, I was overly excited. Your satisfied face,\nthough—it fills my heart with joy!",
+            "choice_data_list": [
+                "You're really kind.",
+                "You're really kind."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha, I'd say <i>you're</i> the kind one for thinking so."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I didn't merely want to spend time together—rather, I wanted to\nprovide you with a splendidly pleasurable experience."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "For I am Fuji Kiseki—the entertainer who brings joy to all! At least,\nthat is the ideal I wish to become."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "FUJIII! We've got an emergency! It's horrible!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, Biko! What distresses you so?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "It's the dorm TV. It's not working! We all wanna watch the evening\nrace... What do we do?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well, that certainly sounds horrible! Fear not, I'm on my way. You\nwere right to come find me, Biko!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ah! Fuji, there you are!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Come on, the day's so boooring when you're not around! Show us\nsome cool magic tricks again!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! Darling pony, it must be unbearable. Go wait at the dorm. I\nshall hurry there in all haste!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer, I must be off, back to our dormitory. Thank you for a splendid\ntime!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now then, until we meet again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki flashes a charming smile at me as she heads off."
+        },
+        {
+            "name": "Monologue",
+            "text": "If I remember right, she's the leader of Ritto dorm. They must all\ndepend on her, judging from what I just saw."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki, loved by all, wishes to bring joy to everyone... But I\nwonder how she races."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before my imagination begins to go wild, I double-check my badge\nand head home."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "クライマックス2戦目にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It's finally time for the second race, Trainer!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I've seen up close how hard you two have worked\nfor this moment..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So I know you'll put on an amazing performance\nin this race!",
+            "choice_data_list": [
+                "I have faith too!",
+                "I have faith too!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Excellent! Seeing all these Umamusume in their\n<i>biggest</i> moment—why, it's enough to make my\nheart twinge."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Let's cheer hard for all of them!",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Cheers for <chrname> roar\nthroughout the stands. We're going to win this\nrace, too!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Let's cheer hard for all of them!",
+            "choice_data_list": [
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If we're going to claim the title of \"greatest,\" then\nwe can't afford to lose this next race!"
+        }
+    ]
+}

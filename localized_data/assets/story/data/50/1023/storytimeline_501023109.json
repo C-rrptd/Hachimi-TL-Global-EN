@@ -1,0 +1,156 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "Good. That's a nice time. My accuracy has\nimproved a great deal too."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I think it's about time for a break. Whether it's\ntalking or running, we have to make sure we have\nenough energy for it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...Hm? This <i>is</i> the cafeteria, isn't it? Why does it\nlook so different?",
+            "choice_data_list": [
+                "Maybe they've decorated for the holidays."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha! That's right. I didn't even realize it was that\ntime of year already!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It looks like they're serving roast chicken and\nseasonal cake. Ooh! Look, they have pizza over\nthere too!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I don't see any curry, but I suppose that makes\nsense, hehe.",
+            "choice_data_list": [
+                "Curry?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Um, I know it's not exactly a traditional dish for\nthis time of year..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But at my house, we always used to make what\neveryone liked for our holiday dinner."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'd ask my mom to make a fruitcake for me, and\nBrian would ask me to make curry for her."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course, she'd always ask at the last minute, but\nthe thing is, it takes hours to stew the vegetables\nfor her favorite kind of curry.",
+            "choice_data_list": [
+                "(Speaking of which...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If I remember correctly, the Arima Kinen falls on a\nrather special holiday this year.",
+            "choice_data_list": [
+                "What kind of present are you going to give\nBrian?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha. Well, let's see... I suppose I'll give her the\nbest race ever."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I want to face her in the Twinkle Series and run\nagainst her in perfect form."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And I'll prevail with my winning equation.",
+            "choice_data_list": [
+                "You can't let her win, huh?",
+                "You can't let her win, huh?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course not. I have my pride to preserve as her\nolder sister."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "By the way... what are your favorite foods?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's make the most of today and eat our\nfavorites!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide and I have a wonderfully cheerful\nmeal together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There's so much snow all around. It really makes\nfor the perfect festive atmosphere.",
+            "choice_data_list": [
+                "You're even dressed kind of like Santa.",
+                "You're even dressed kind of like Santa."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha, you're right. I fit right in, don't I?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now then, Trainer, tell Santa what you wish for\nthis year. I might just bring it to you!",
+            "choice_data_list": [
+                "I wish for you to win!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Very well. You'll get your wish soon enough."
+        },
+        {
+            "name": "Monologue",
+            "text": "She smiles confidently at me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide and I have a wonderfully cheerful\nmeal together."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So... Why did you bring me here again?",
+            "choice_data_list": [
+                "I thought maybe you'd like a fruitcake."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You should think about yourself once in a while\ntoo. You're far too indulgent with me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's get two cakes and take them home. One for\nme, and one for you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide and I each get a cake and enjoy\nthem together."
+        }
+    ]
+}

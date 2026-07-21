@@ -1,0 +1,190 @@
+{
+    "title": "アイツの存在",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Vodka",
+            "text": "..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well, good morning, you two! You're both up\nearly. That's the rising stars of Ritto Dorm for you!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Good morning."
+        },
+        {
+            "name": "Vodka",
+            "text": "...Mornin'."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm. Well, I suppose I can hardly blame either of\nyou for being on edge."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "The spring Classics season is just about to wrap\nup. Do make sure to give it your all, won't you?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Of course."
+        },
+        {
+            "name": "Vodka",
+            "text": "...Uh-huh."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm glad to hear it! Now then, everyone around\nthe table. We have a wonderful breakfast waiting\nfor―"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Sorry, but I need to go train."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Dear me..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet starts training for the day."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The sky is clear, and I feel great! Wow, what a\nwonderful day to train!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm going to go for another lap!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help but think she's hiding something..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm... She's still not back to normal, it seems."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, excuse me. I hope I didn't startle you."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I simply wanted to hear your thoughts on the two\nof them.",
+            "choice_data_list": [
+                "The two of them?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Scarlet and Vodka. Surely you're not blind to the\ntension between them. This morning, it seemed\nworse than ever."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "As their dorm leader and someone with a bit more\nexperience, I want to lend what help I can.",
+            "choice_data_list": [
+                "Thanks for looking out for them."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Not at all. If there's anything I can do to help, just\nsay the word."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "They have the potential to become legendary\nrivals. To occupy irreplaceable positions in each\nother's lives."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "To push one another to strive for better. To refine\ntheir running that little bit further. But it will take\nboth of them."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "An Umamusume's running reflects the innermost\nworkings of her heart. And it's far too soon to let\ntheir light fade."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki watches Daiwa Scarlet train for a little\nwhile longer before she leaves."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Was that Fuji with you just now? Did she\nneed something?",
+            "choice_data_list": [
+                "I hear you're fighting with Vodka again."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What does that matter?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "We've been fighting on and off since we started\nsharing a room."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's not like today was special or anything. Just\nbusiness as usual."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah, that's right. It's not important. She can do\nor say whatever she likes, but it's got nothing to\ndo with me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm nothing like her. I'm going to win the Tiara\ntour and become number one...",
+            "choice_data_list": [
+                "Number one, huh?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! That's got nothing to do with you either!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Now hurry up and get ready to record my time!\nI'm planning to break my record today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her grandiosity, Scarlet's form is more\nrigid than ever."
+        },
+        {
+            "name": "Monologue",
+            "text": "An Umamusume's running reflects the innermost\nworkings of her heart. No truer words have ever\nbeen spoken."
+        },
+        {
+            "name": "Monologue",
+            "text": "Should we continue the Tiara tour with the\nJapanese Oaks... or should we choose another\npath?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As her trainer, it's my responsibility to choose\nwhat's best for her. And that is...",
+            "choice_data_list": [
+                "The Japanese Oaks.",
+                "The Japanese Derby."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's best to focus on the path she has chosen for\nherself."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to prepare for the Japanese Oaks."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she wants to grow, she needs a chance to come\nto terms with her own feelings."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to prepare for the Japanese Derby."
+        }
+    ]
+}

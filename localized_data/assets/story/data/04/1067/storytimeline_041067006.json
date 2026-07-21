@@ -1,0 +1,263 @@
+{
+    "title": "逡巡のイノセンス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm taking a stroll through town on my day off when I spot Satono\nDiamond. She looks somewhat troubled.",
+            "choice_data_list": [
+                "Hey. Is something wrong?",
+                "Hey. Is something wrong?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, Trainer! You came at just the right time!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Would you like to go to an amusement park?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! It's so busy when you haven't booked the whole place out!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe, thanks for coming on such short notice. I had a VIP pass set to\nexpire today, so it would've gone to waste. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita had something urgent come up, so I was thinking I'd have to\ncome alone!",
+            "choice_data_list": [
+                "You were really looking forward to this, huh?",
+                "You were really looking forward to this, huh?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yeah, I could hardly sleep a wink last night, and—Oh! Look, it's\nUma-kun! We have to get a photo!",
+            "choice_data_list": [
+                "Ah—slow down!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hurry, hurry! Come join the picture! Okay, say \"cheese!\""
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Next, let's... oh, over there! That line's so long! Come on, let's go join\nit!",
+            "choice_data_list": [
+                "You <i>want</i> to line up?",
+                "You <i>want</i> to line up?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! I'm always being let in right away, so I want to try savoring the\nanticipation!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We spend an hour or so chatting in line. When our turn finally comes,\nwe enter the attraction."
+        },
+        {
+            "name": "Zombie",
+            "text": "Groooaaar!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hyaah!",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehehe! What a fright! This is so fun! ♪ Where did it even come\nfrom?!",
+            "choice_data_list": [
+                "(I-I guess she is.)",
+                "(I-I guess she is.)"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, is that a hidden door? That's it! I bet the zombie was waiting\nbehind there. Let's go see!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "This haunted house is so cutting-edge! I have to get a look behind\nthe scenes!",
+            "choice_data_list": [
+                "What—hey, wait!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hnnng! That was so fun! Every attraction was a blast!",
+            "choice_data_list": [
+                "We must've covered the entire park!",
+                "We must've covered the entire park!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, we're not done yet! Next up is the park's game plaza! Come on,\nlet's go!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "They have a number of claw machines here from my family's\nconglomerate."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, look! That one has the park's merchandise! They're all so cute!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Still, given their position, we should wait until they reset them. Let's\nwarm up on the other machines first!",
+            "choice_data_list": [
+                "You really know your stuff.",
+                "You really know your stuff."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, claw machines are my specialty! I've been playing them since I\nwas little!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I often accompanied my parents when they made visits to our affiliate\ngame company."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The claw machines were a fun way of passing the time while I waited\nfor them to finish work."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, more like I tagged along because I wanted to play on the\nmachines! Hehe! ♪",
+            "choice_data_list": [
+                "Then let's see what you can do!",
+                "Then let's see what you can do!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, just sit back and watch! ♪ I'll win you whatever you want!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In no time at all, Satono Diamond wins me a whole armful of prizes!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe! ♪ See? Told you it was my specialty! And I'm just getting\nstarted!",
+            "choice_data_list": [
+                "W-wait, let me put these away first!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pack the prizes into a large shopping bag, but with so many, we'll\nprobably have to carry some home in our arms..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe, I might've gone a little overboard. Shall we call a taxi later to\ntake us back?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I didn't mean to get so carried away again... Ah..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Come to think of it, this happened with the Floral Makeover Project\ntoo. Trainer is always going along with what I want.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Is this what my upperclassman at the meeting meant? Am I taking\nadvantage of Trainer's kindness?)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...",
+            "choice_data_list": [
+                "Dia?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, um, don't worry about getting those home—I'll manage somehow!\nI do have Umamusume strength, after all.",
+            "choice_data_list": [
+                "That's true. Thanks!",
+                "That's true. Thanks!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's nothing. I'm sorry for getting carried away."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she's smiling, she looks bothered by something. Maybe\nbrightening up the mood would help her open up.",
+            "choice_data_list": [
+                "I think I'll give these claw machines a shot.",
+                "I think I'll give these claw machines a shot."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! Do your best!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'll aim for... the prize she called cute earlier!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, that's the park's merch..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! You got it! Congratulations!",
+            "choice_data_list": [
+                "Here, it's for you.",
+                "Here, it's for you."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...!\nWow, are you sure?!",
+            "choice_data_list": [
+                "Fair's fair, since you got me so many."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But I only did that because I wanted to..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I know! I'll get the same one so that we're match—"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...!",
+            "choice_data_list": [
+                "Dia?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "U-um... never mind!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's nothing!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you. I'll take good care of it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond's smile looks a little unsure. I've seen many new sides\nto her today, but I'm not sure what to make of this one."
+        }
+    ]
+}

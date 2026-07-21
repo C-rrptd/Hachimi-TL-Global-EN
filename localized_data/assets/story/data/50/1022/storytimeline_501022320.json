@@ -1,0 +1,281 @@
+{
+    "title": "Fork in the Road",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "What tremendous cheers. So this is the Arima\nKinen."
+        },
+        {
+            "name": "Fan A",
+            "text": "Can you believe Daiwa Scarlet's racing today?\nThis is gonna be so awesome!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Who else is here... Oh, Air Shakur? Huh, I didn't\nknow she was still racing."
+        },
+        {
+            "name": "Fan B",
+            "text": "She was great in her classic year, but I haven't\nheard her name come up at all this year. All\nanyone remembers is that she was the Double\nCrown champion."
+        },
+        {
+            "name": "Fan A",
+            "text": "Every racer reaches their peak eventually. But\nclaiming the Double Crown is still pretty amazing.\nShe should have just finished her career then."
+        },
+        {
+            "name": "Fan B",
+            "text": "Right? She could have gone out as a legend.\nAnyway, who else is racing?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's okay. Shakur's not going to lose.",
+            "choice_data_list": [
+                "Honestly, today's race is going to be tough for\nher.",
+                "Honestly, today's race is going to be tough for\nher."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not as extreme as the spectators make it out\nto be, but Air Shakur has been in a slump\nrecently. A comeback is certainly possible, but..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I know. But she won't lose."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You won't... Right, Shakur?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's says it quietly, almost like a\nprayer..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen begins in a cacophony of cheers!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As for the result..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...",
+            "choice_data_list": [
+                "That was a great race.",
+                "That was a great race."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Indeed. I couldn't agree more."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Scarlet was as incredible as I expected. And as for\nShakur..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, Shakur..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "She was the picture of pride, defying her fate\nuntil the very last second."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And now... she'll move forward."
+        },
+        {
+            "name": "Monologue",
+            "text": "I snap to attention at those words, and my brow\nfurrows in confusion. From what I've heard, Air\nShakur is finished racing.",
+            "choice_data_list": [
+                "What do you mean by that?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I don't know what Shakur plans to do, but I think\nshe'll keep fighting."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "After all, her expression at the end... It was the\nface she makes when she's calculating her way to\nvictory. I love that face."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've been watching her race for a long time now,\nso I know that face better than anyone."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And... I'm sure that's the face Shakur wanted me\nto see."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...I have to go."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Wait!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "C'mon, I know you felt <i>something.</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You saw me struggle out there, and you're still\ngonna quit?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Let's go, Trainer. It's almost time for the press\nconference."
+        },
+        {
+            "name": "Monologue",
+            "text": "Right after this race, we have a scheduled press\nconference... where Fine Motion will announce\nher return to Ireland."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! Wait up!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm sorry, Shakur. I've made up my mind."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But please believe me when I say that your race\nwas truly wonderful!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i> I guess it's no good. I knew nothing would\nchange!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All right, Fine. I get it. This is the end—game\nover."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I knew from the start how this would play out. I\nknew I'd lose here and that would be the end of\nthe road for me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But where's the fun in that? So I kept searching\nfor something—anything that could change that\nresult."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shakur..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And that's when I found you, Fine. You were\ndifferent. At first, all I cared about was getting\nsome unique data and analyzing it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But then, one day... you defied my predictions. In\nthat moment, a thought crossed my mind."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"If anyone can change their fate, it's her.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I thought if I could get you to keep running—to\ndefy your destiny—then that would prove that my\nfate could change as well."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So I put my faith in a dumb <i>hypothesis</i> and clung\nto it... like an idiot."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And in the end... everything went exactly as I\npredicted."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Gotta be honest with you, though... I'm not too\nmad about it. Why? Nothing's changed, so I\nshould be <i>pissed,</i> but I'm not."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It sounds to me like you're satisfied with your\njourney. You made it your own."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I wonder."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And you? Are you truly satisfied with your\njourney?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Of course!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hey, Trainer?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm very fortunate, aren't I? I'm a truly, truly\nblessed individual."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I ran so much, made so many lovely friends, and\nheard the glorious sound of countless cheers.",
+            "choice_data_list": [
+                "No one's going to forget the impact you've\nmade.",
+                "No one's going to forget the impact you've\nmade."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Right. I'm sure they'll all remember me."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And I believe it'll be a dazzling memory."
+        },
+        {
+            "name": "Fans",
+            "text": "Fine!\nDon't quit! Keep racing!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you all so much. However, I must bring\nthese wonderful three years to a close."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This exquisite ending has been decided from the\nvery start."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Every race has a beginning and an end. But in our\nmemories, it becomes more than a simple\ncontest..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And as long as none of you forget me, I'll live on\nin your memories."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So please, allow me to stay... within your hearts."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion's eyes glisten with a rare sadness as\nshe smiles."
+        }
+    ]
+}

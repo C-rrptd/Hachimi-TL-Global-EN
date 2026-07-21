@@ -1,0 +1,135 @@
+{
+    "title": "デビュー戦の後に・Shadow",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Oh... So that's Air Shakur..."
+        },
+        {
+            "name": "Fan B",
+            "text": "Uh, she looks pretty scary. You should probably\ntone it down..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like at the academy, other people seem to\nfind Air Shakur a bit of an outsider. Even so...",
+            "choice_data_list": [
+                "(What a run!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's exactly why I can't help but wonder\nsomething. There's no doubt that Air Shakur is\none of the top talents in her generation."
+        },
+        {
+            "name": "Monologue",
+            "text": "So why is Parcae predicting that she won't be able\nto win? It's almost as if they're putting her\nthrough a trial."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur has been occupied with her laptop\never since we returned to the academy, feeding\nParcae the data from the race."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's within the margin of error. As I thought,\nParcae's accuracy is impeccable."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Although...",
+            "choice_data_list": [
+                "Although?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's nothing..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's just my heart rate was higher than expected.",
+            "choice_data_list": [
+                "Maybe because you were having fun."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't make it weird. Excitement levels can be\ncalculated."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Emotion is an unstable variable, however, so it's\ninefficient to convert into data.",
+            "choice_data_list": [
+                "Inefficient?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, isn't it? I'd have to figure out how to\nreliably quantify emotions, compile the data, and\nthen verify it. It'd take way too long."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "On top of that, the conditions are way too\nlimited, so the resulting data would be practically\nuseless. Inefficient as hell."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's why I classify the emotional data into\ncategories and compress whatever can't be\ncategorized. That keeps the data integrity as high\nas possible.",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I probably ought to grab some fresh data of me\nrunning with an increased heart rate."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "In any case, I've figured it out now. Problem\nsolved."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now, about our next goal... Parcae is predicting\nthat I'll get on the scoreboard in the Hopeful\nStakes."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Hopeful Stakes is a high-stakes junior G1\nrace. Those who perform well attract a lot of\ninterest and attention from the fans for their\nclassic year."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "From here on out, it's just a matter of increasing\nmy stats to the values I need to become a Double\nCrown champion."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This could be the key to narrowing that\nseven-centimeter gap."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly realize something. If Shakur will be\nseven centimeters behind, that means someone\nelse will be seven ahead. But who?",
+            "choice_data_list": [
+                "Who's on the other side of your\nseven-centimeter gap?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Beats me.",
+            "choice_data_list": [
+                "You don't know?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No matter how much data I input, I can only ever\ncatch a glimpse of them."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If I knew who it was, my calculations would be so\nmuch easier."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The only thing I can confirm is that I lose to\nsomeone by a margin of seven centimeters. That's\nit."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway, I need to gather more data before the\nHopeful Stakes."
+        }
+    ]
+}

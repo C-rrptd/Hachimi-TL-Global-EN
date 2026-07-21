@@ -1,0 +1,149 @@
+{
+    "title": "支えらえて,見守られて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from an outing, I decide to\naccompany Mejiro Bright on a shopping trip."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Thank you for your patience! Your company is\nvery much appreciated."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Bright says this after picking out and\npurchasing a bottle of perfume almost\nimmediately after entering the shop."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "This perfume is a French classic that's been\nadored by many for a long time."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The bottle's lid is modeled after a bird in flight,\nand it's just so elegant and adorable that—"
+        },
+        {
+            "name": "???",
+            "text": "Heya, Bright! ♪"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My! Good day to you, Maruzen. What a\ncoincidence."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Are you two out shopping too? ...Wait a sec. That\nbag..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "What a coincidence! I was just shopping at the\nsame boutique! Look!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Goodness gracious... Did we happen to purchase\nthe same item, Maruzen?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Will you look at that! We did! I'd recognize that\nbox anywhere!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I had no idea you were such a trendy lady, Bright!",
+            "choice_data_list": [
+                "\"Trendy\"?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! This perfume's all the rage with the groovy\nyouths right now! I only found out about it myself\nrecently."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, I see... Well, I have heard quite effusive\npraise for it since it came into vogue."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You've <i>\"heard\"?</i> Hold the phone there, Bright.\nWhat do you mean?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "This is a gift for my mother. I thought it might be\nnice to send her a little something along with my\nusual letter."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, gotcha! That's such a thoughtful gift for your\nmother, Bright!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...She gave me the time and space to develop at\nmy own pace during my youth, all while patiently\nwatching over me."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That held true when I set my sights on the\nracetrack as an Umamusume of the Mejiro family."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ryan and Dober guided me, and my mother was\nthere to give me a gentle push forward."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Why, if it weren't for my mother's efforts, I\nwouldn't be racing here at Tracen Academy."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow... Your mother sounds like a wonderful\nperson."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee. Still, what a wonderful coincidence it is\nthat you wear the same perfume as my mother,\nMaruzen. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wha?! Y-yeah, it is! Sounds like me and your\nmother might really hit it off... Ahaha...",
+            "choice_data_list": [
+                "If you met, you could be fast friends.",
+                "Maybe you've got similar style?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I believe so too. Should the opportunity arise, I'd\nlove to introduce you to one another."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "W-well, um... I hope we'd have stuff to talk\nabout, what with, you know, with the generation\ngap. ...Do you think she'd like Italian chow?!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Italian... \"Ciao\"? I'm not sure. Shall I inquire?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The conversation continues, and the more\nsimilarities we find between Maruzensky and\nMejiro Bright's mother, the livelier everyone gets."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Speaking of which, this has just occurred to me,\nbut..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "You always order tiramisu, Maruzen, and my\nmother often partakes of it as well."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "No way! Really?! Cool beans! You know what? I\nthink I got it figured out!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Bright, your mother really lives in the now! She's\ntotally clued in on all the hip trends!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "\"Clued in...\" Why, yes! She is quite perceptive.\nThank you. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't have the heart to step in and address the\nbreakdown in communication, so I just keep quiet\nand listen."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "title": "Party Saver",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Oguri Cap",
+            "text": "I'll go... and get the star."
+        },
+        {
+            "name": "Head Fan",
+            "text": "Uh... I'm sorry, but how?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I can handle snow. Tell me where the star is, and I'll go down the\nmountain and get it."
+        },
+        {
+            "name": "Head Fan",
+            "text": "Wh-what?! N-no, you don't need to go through all that trouble! We\ncan still have the party without it!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But the kids—that star's really important to them. So we <i>do</i> need it for\nthe party."
+        },
+        {
+            "name": "Head Fan",
+            "text": "Excuse me for saying it, but you aren't known for your sense of\ndirection... And I must admit it's far too dangerous for me to go out\nthere with you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm better at directions in the mountains than I am in the big city. I'll\nbe fine. Be right back."
+        },
+        {
+            "name": "Head Fan",
+            "text": "W-w-w-wait a second, please! I haven't even told you where to go!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Is everything all right? We could hear you all the way from our cabin..."
+        },
+        {
+            "name": "Head Fan",
+            "text": "Biwa Hayahide?! What are you—no, never mind! I need your help.\nPlease stop Oguri!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, I see. So that's what happened."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's not so dangerous right now. And you know we have the strength\nto run on a snowy mountain."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But I'm clumsy with words, so I can't make them feel at ease... Would\nyou explain it to them?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sorry, but I cannot. I agree with your fans about this."
+        },
+        {
+            "name": "Oguri & Taishin",
+            "text": "Wha?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's true that you can get through this snow if you take on a small\namount of risk. However small though, a risk is still a risk... It's\ndangerous."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Think about it. On the off chance that you're hurt, how will your fans\nfeel? What would they do?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I... well..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oguri, you asked me before what I thought you should give to them."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What could make everyone happy and is also something you're\ncapable of giving? I believe the answer already lies within you, Oguri."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "We've no choice now but for me to tell you. The answer... is yourself.\nThat's what I wanted to convey to you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Myself?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes. You want to be Santa today, but that's exactly what your\nparty-givers are trying to do for you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Their desire is to give you all the support you need. It's as simple as\nthat. And you, the object of their adoration, are trying to repay them\nin turn."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Doesn't your intention alone make the most heartwarming present?\nThe star of the party needn't do anything reckless."
+        },
+        {
+            "name": "Head Fan",
+            "text": "Hayahide's exactly right. We're all <i>so</i> thankful for the care you've\nshown us."
+        },
+        {
+            "name": "Head Fan",
+            "text": "If you'll just be here with us and enjoy the party, even the children\nwill understand. So, please..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right. It'd be bad to make everyone worry. I... I guess... I\nshouldn't..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What about you, Oguri?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I mean, what about what she wants to do? Oguri wants to make them\nhappy by doing something herself. Isn't that important?"
+        },
+        {
+            "name": "Oguri & Hayahide",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So what if her intentions are good enough? Oguri doesn't just want to\ndo <i>enough</i> for her fans. Sometimes you wanna give or do something...\nmore special."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So I think we should let Oguri do what she wants. And stop telling her\nto just... be here."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A present... shouldn't be something that's so simple to give."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Put more explicitly, simply having you two here is enough for me. So I\n<i>may</i> have been overenthusiastic about doing everything myself."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Taishin..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks, Taishin... That's right. I want to return everyone's well-wishes\nin... my own way."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Even if it's just one kid who's sad, I want to make them smile. I can't...\nback down from a challenge. I... want to do what I can."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I understand how you feel. But in our current predicament, I must\ninsist that going out to get the star is too dangerous."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "From my grasp of it, the star is quite large. Even if you were to make\nit down the mountain, it would be incredibly difficult to carry it back\nup by yourself."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Taishin and I would help... but we're inexperienced with the snowy\nterrain. I'm afraid we'd be more of a hindrance to you. If we had some\nother means..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hm... well..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "No need to worry about that. ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You two! ...Did you come for the party?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "No, silly! We said we're looking for holiday miracles! And Marvey's\nradar was pinging like crazy in this direction!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeah! My marvelous sixth sense has brought us together again! ☆ But\nthat's not all. ♪"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "We can help you with something marvelous. ☆ 'Cause it's smooth\nsailing to move big stuff around in <i>that!</i> ★"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You know what that means... It's time for takeoff, Oguri! ♪"
+        }
+    ]
+}

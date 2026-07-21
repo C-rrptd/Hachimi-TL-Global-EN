@@ -1,0 +1,68 @@
+{
+    "title": "大阪杯の後に・タマモクロスの予告",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "Phew! That takes care of our first goal of the year."
+        },
+        {
+            "name": "Super Creek",
+            "text": "How did you find it, Trainer?",
+            "choice_data_list": [
+                "I wasn't worried in the slightest."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, thank you. I guess this is what they call\n\"smooth sailing.\""
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now I can take on the Takarazuka Kinen with my\nhead held high."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya already forgot the Spring-Ten?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Tamtam! Thank you for coming to cheer me\non!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, I <i>am</i> your bestie. But friendship and races\nare two different things, ya hear?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Heh, I saw your—no, both you and your trainer's\nweakness real clear today.",
+            "choice_data_list": [
+                "Huh? Our weakness?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yup! And you're not gonna get any better if ya\ndon't realize it!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness! Will you tell me, Tamtam?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Say what?! Who just asks outta the blue like\nthat?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Eh, whatevs. I'll show ya next time, right in front\nof all your fans."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A storm's brewin', so you better bring your\numbrella! ...Not, like, a <i>real</i> storm, but...\nWhatever."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross leaves in an intimidating huff.\nWhat could our weakness be?"
+        }
+    ]
+}

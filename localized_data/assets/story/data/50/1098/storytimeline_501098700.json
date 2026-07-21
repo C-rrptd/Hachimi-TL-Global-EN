@@ -1,0 +1,29 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "<i>Yawn...</i> Good morning, Trainer...",
+            "choice_data_list": [
+                "I'm guessing you didn't get much rest\nyesterday?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Actually... I had a really productive day..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I offered to help people with their troubles using\nfeng shui, and a lot more people sent requests\nthan I expected..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "By the time I'd finished replying to everyone, it\nwas already morning... Heh heh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey does look happy, but she also\nseems fairly sleep-deprived."
+        }
+    ]
+}

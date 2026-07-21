@@ -1,0 +1,253 @@
+{
+    "title": "みんなでビッグチャレンジ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono and I are on the way back from an\nouting when Taiki Shuttle suddenly calls out to us\nfrom the riverbank."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well howdy, Akebono! Nice timin', pardner!\nWould you mind givin' me a hand real quick here?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "What's wrong, Taiki?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The shoppin' district's holdin' an event right now,\nand we're makin' an ultra-big pizza so the whole\ngang can go ahead and have 'emselves a pizza\nparty!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wow, that sounds fun! Is that giant ball of dough\nfor the crust, then?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! In fact, we're just about to roll 'er out\nright now!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Cept I only know how to do American-style pizzas\nwith those big ol' <i>thick</i> crusts, and a pie like\nthat'll end up half-raw even after we fire it in the\npizza oven..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, you're using a pizza oven? I know how to\nmake Italian-style pizzas with really thin crusts!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, tickle my spurs! So how's about lending\nyours truly a little help?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Can I, Trainer?",
+            "choice_data_list": [
+                "Sure! I'll pitch in too!",
+                "Sure! I'll pitch in too!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay! Okay, let's do this!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! This sounds like a great opportunity to\nmake a Neapolitan pizza! Step back, everyone!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Here we gooo!"
+        },
+        {
+            "name": "Boy A",
+            "text": "Whoooa! She sent the pizza flying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono tosses the flat dough into the air,\nletting the centrifugal force stretch it out. A few\nadjustments later, the crust is ready!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Now that the crust's covered with sauce, it's time\nto add the toppings!"
+        },
+        {
+            "name": "Girl A",
+            "text": "The pizza's so big I can't reach the middle..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We managed to spread the sauce across all the\ndough using a long, extended brush, but we can't\ndo the same for the toppings."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, looks like it's my time to shine! I'm\ngonna show y'all a secret cowgirl technique!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey! Yeehaw!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle expertly loops a rope around the\nbucket of toppings, then works the rope to\nevenly scatter the ingredients all over the base."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wow, check out those lasso skills! You're\nincredible, Taiki!",
+            "choice_data_list": [
+                "Nobody else could've pulled that off...",
+                "Nobody else could've pulled that off..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We should let the children add some toppings\ntoo!",
+            "choice_data_list": [
+                "Maybe they could throw them from somewhere\nhigh up.",
+                "They could do it like ninjas to add some\nJapanese flair."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, they should be able to reach if I let them ride\non my shoulders!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Yay, it's working! If I throw the ingredients, they\nland in the middle!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You're doing great! I wonder if you can fill in that\ngap over there, too?"
+        },
+        {
+            "name": "Boy A",
+            "text": "Hey miss, go over there, please! There's another\nempty space!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All righty! Next up's the cheese! Saddle up, y'all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before long, the enormous pizza is done!\nEveryone takes a slice and we all dig in."
+        },
+        {
+            "name": "Boy A",
+            "text": "Oh, this is <i>good!</i> This is the best pizza I've ever\nhad in my whole life!"
+        },
+        {
+            "name": "Girl's Father",
+            "text": "It's better than the stuff they serve in restaurants!\nIt looks great, too, and it was cooked to\nperfection."
+        },
+        {
+            "name": "Girl A",
+            "text": "Hehe! Have some more, Daddy! Seconds, please!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Eat on up now! Hey, why don'tcha get some more\nof the posse to mosey on over?"
+        },
+        {
+            "name": "Boy A",
+            "text": "That's a great idea! I'm gonna get my friends to\ntry the pizza I made!",
+            "choice_data_list": [
+                "What a great success!",
+                "What a great success!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn tootin'! And this here round-up woulda only\nbeen half the shindig without you, Akebono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No way! We all made this happen together. I\nreally don't think I could've made such a delicious\npizza on my own.",
+            "choice_data_list": [
+                "I guess the secret ingredient was the love\neveryone put into it, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh, that makes sense! No wonder it tastes so\nyummy! How absolutely buono!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yippee ki-yay! We even got Akebono's stamp of\napproval!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's so fun to cook with everyone! Thanks for\ninviting me along, Taiki! We should definitely do\nthis again sometime!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh! Yeah, they can pretend they're flinging\nthrowing stars!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "C'mon folks, let's all be ninjas and toss our\ntoppin' stars right on there!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Th-this is too hard! I can't throw them far enough!"
+        },
+        {
+            "name": "Boy A",
+            "text": "The salami slices fly really smoothly, but the\nveggies don't get any air at all!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh dear. Okay, how about we pretend to be\nsumo wrestlers throwing salt instead?"
+        },
+        {
+            "name": "Girl A",
+            "text": "I don't even watch sumo! What are you talking\nabout?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After some trial and error, the huge pizza finally\nends up topped and finished! Everyone takes a\nslice and we all dig in."
+        },
+        {
+            "name": "Boy A",
+            "text": "Hehehe. The spot I did has a whole heap of salami\non it!"
+        },
+        {
+            "name": "Girl A",
+            "text": "Look at my bit! I stacked the salami to look like\nflowers! Cooking is so fun!",
+            "choice_data_list": [
+                "All's well that ends well, huh?",
+                "All's well that ends well, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! It might not be the prettiest pizza ever, but\nI like how you can tell who decorated which part."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe! I'm so glad the children learned to like\ncooking too!",
+            "choice_data_list": [
+                "Hm? That slice on your plate...",
+                "Hm? That slice on your plate..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oop, you noticed? Yeah, this slice is from your\npart of the pizza."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But I'm not giving it to you, however nicely you\nask! I asked Taiki for this slice, and I got it fair\nand square!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Time to see how it tastes! Down the hatch!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmm! It's buono!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch Hishi Akebono happily eat her pizza, I\nfeel like I gained a better understanding of why\nshe likes cooking for others so much."
+        }
+    ]
+}

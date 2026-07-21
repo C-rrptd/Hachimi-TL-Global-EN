@@ -1,0 +1,225 @@
+{
+    "title": "エル争奪！最強タッグ決定戦！！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After El Condor Pasa's amazing performance at the tryouts..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's been training with new trainers every day, going through their\nproposed training programs."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Now, who wants to present me with their training program today?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'll do any exercise, no matter how tough! Be strict! Show no mercy!\nI'm lookin' forward to it!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "Finally! Today's my turn, El Condor Pasa!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "Sprint one lap, then jog the next! Then repeat this one hundred times!\nIt's the same program the world champion does!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoa, the world champion?! Then it's good, great, perfect for me!\nLet's get to it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That day, El Condor Pasa, who hasn't even debuted yet, does the\nsame training that the world champion does..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "At last, today is my turn! You see, I've been working with a certain\nuniversity lab that works on developing cutting-edge training\nequipment."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "And from that lab came this training cast! It's a brilliant device that\nputs twenty times your normal weight on your body!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoa! Cutting-edge? Twenty times? Brilliant?! I don't really get it,\nbut it sounds cool! Let's get to it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Another day, El Condor Pasa covers her entire body in a mysterious\ntraining cast..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "What does one need to take on the world?! It's passion! Zeal! An\nunbreakable will! Come, let us yell unto the horizon, El!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoaaa! I like your passion! Understood! I'll give it a go!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I am the one! The only! The indomitable fighter! The lightspeed\nstorm! The strongest in the world—El Condor Pasaaaaa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This time, she's yelling at the setting sun until her throat goes dry. No\nmatter the training, she seems to takes it all in stride..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Until one day, I spot El Condor Pasa walking with a slight wobble in\nher gait."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whew... Sleepy... Spinning... I'm... dizzy..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Are you okay? El, aren't you overworking yourself recently?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Mmngh? Not... at all. I'm fine, fit as a fid—",
+            "choice_data_list": [
+                "Watch out!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh man, I'm so sorry! My legs wobbled for a second there."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait a sec! You're... the line cutter! What a coincidence!",
+            "choice_data_list": [
+                "You okay?",
+                "You okay?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ahaha, nothing to worry about at all! As you can see, I'm an\nenergetic, motivated, and unparalleled condor—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "El?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "O-ow! G-Grass?! That was way too pinpoint to be an accident!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Gosh... My apologies. Are you hurt anywhere?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "As of late, El has been undergoing rough training with a new trainer\nevery day, so it appears she is quite spent."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "W-w-whoa, Grass-Grass-Grass?! I can't pretend like I didn't hear that!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm always telling you, aren't I? That I'm the world's strongest racer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The condor soars the skies so that one day it may carve its name in\nthe annals of history! That's its future—<i>my</i> future!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So I can't! Stop! Now! No way am I gonna complain when I'm just\ngetting started!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Oh, there you are, El! I've come up with a program for you! Please\ntrain with me today!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Look! Another potential partner is here for me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And with that, I bid you adios! Grass, see you tomorrow!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "El, wait a—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Before that, I almost forgot! Trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You must be reeeally taking your time with my program... Isn't that\nright? I totally get it! ♪"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm eagerly waiting for your training program! Anyways, this time for\nreal. Chao!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah... She said her fill and then immediately left. Same as usual, I\nsuppose."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And today, just like always, she'll spend the day with a new trainer\naiming to be the world's strongest.",
+            "choice_data_list": [
+                "She's a determined one, isn't she?",
+                "She's a determined one, isn't she?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hm... It might be more accurate to say she is stubborn... But I suppose\nso."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "She sets huge goals for herself without any fear, and she'll do\nanything to make those goals reality. I respect that part about her."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "However... I believe even that side of her can become detrimental at\ntimes.",
+            "choice_data_list": [
+                "You mean she's overworking herself?",
+                "You mean she's overworking herself?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes... At the very least, by working with a new trainer every day, her\nfatigue from the previous day is not being taken into consideration."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Therefore, her fatigue has only continued to build up."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...If things get dangerous, I won't hesitate to stop her by force. After\nall, she is not the type of person to stop after a mild scolding."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Which reminds me, are you not also trying to scout El yourself?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "It may be impertinent of me, but I implore you to give what I have\ntold you some thought."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even without Grass Wonder's advice, it's clear that El Condor Pasa\nhas a strong will and an even stronger desire to train."
+        },
+        {
+            "name": "Monologue",
+            "text": "As a trainer, what can I do to help make her dreams come true?"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "チカラを合わせて！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narita Brian",
+            "text": "Forget about it. It was my mistake, so I'll deal\nwith it myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way to the training grounds, I hear hints of\nan argument. As I get closer, I see a huge pile of\ncardboard boxes.",
+            "choice_data_list": [
+                "Is something the matter?",
+                "Is something the matter?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Nothing much. I accidentally ordered a\nthousand pairs of cleats.",
+            "choice_data_list": [
+                "A-a thousand?!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "But Brian, we're all on the same team! Of course\nwe'd be happy to help in any way we can!",
+            "choice_data_list": [
+                "I'll pitch in too.",
+                "I'll pitch in too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we scramble to reduce the surplus of\ncleats."
+        },
+        {
+            "name": "Special Week",
+            "text": "Run, don't walk, to register for the Silence Suzuka\nCommemorative Race! Sign up today and get a\npair of cleats!"
+        },
+        {
+            "name": "Student A",
+            "text": "Huh?! We get to race with <i>the</i> Suzuka?! Uh,\nexcuse me! I'd like to sign up!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "\"W-wooow! I can't believe these cleats are free!\"\nUm... \"And they're so easy to run in!\""
+        },
+        {
+            "name": "Student B",
+            "text": "Huh... Sounds a little shady, but I guess there's no\nharm in trying them if they're free..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Get your cleats here! They're very reasonably\npriced—by which I mean free! <i>And</i> they're also a\nfavorite of the one and only Narita Brian!"
+        },
+        {
+            "name": "Student C",
+            "text": "You mean we can wear the very same cleats as\nBrian?! Whoa... I dunno if I can do them justice,\nbut I'd like a pair!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Little by little, the mountain of surplus cleats\nshrinks. However..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "We still have... 503 pairs left. That's quite a lot..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Hey... That's enough. You shouldn't take up any\nmore of your time fixing my mistake—"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But when you think about it, we're doing good!\nWe already gave away 500, right?! How amazing\nis that?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Precisely! At this rate, we'll reduce our stock to\nzero in no time! The question is what kind of\nstrategy we should deploy to distribute the rest."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Geez."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Why's everyone getting so fired up on my behalf?",
+            "choice_data_list": [
+                "Their energy is infectious, though.",
+                "Their energy is infectious, though.",
+                "Let's brainstorm our next strategy!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Why's everyone getting so fired up on my behalf?",
+            "choice_data_list": [
+                "Their energy is infectious, though.",
+                "Their energy is infectious, though.",
+                "Let's brainstorm our next strategy!"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...There's such a thing as too much energy."
+        },
+        {
+            "name": "???",
+            "text": "If it's all right with you, I'd like a pair of those\ncleats."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Yeah. All right."
+        },
+        {
+            "name": "???",
+            "text": "If it's all right with you, I'd like a pair of those\ncleats."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "We have 500 pairs left. Take as many as you\nwant."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sure. Then... I'll take them all.",
+            "choice_data_list": [
+                "All 500?!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...? Yeah. I go through cleats pretty fast. Thanks\nfor letting me have them."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the remaining cleats become the\nproperty of Oguri Cap!"
+        }
+    ]
+}

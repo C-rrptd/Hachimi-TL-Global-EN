@@ -1,0 +1,187 @@
+{
+    "title": "剛なるダイヤは真綿の中に",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is a media day for Satono Diamond, which\nincludes a photo shoot where she'll model her\nsignature racewear."
+        },
+        {
+            "name": "Monologue",
+            "text": "We arrive at the studio a little ahead of time. And\nright now, she's..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm-hm-hm-hmmm! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Dressed in her signature racewear, Satono\nDiamond moves around and strikes different\nposes while checking how she looks on the\nmonitor.",
+            "choice_data_list": [
+                "Making sure everything looks perfect?",
+                "Making sure everything looks perfect?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, I need to be confident that what I'm trying\nto convey comes across clearly.",
+            "choice_data_list": [
+                "What <i>are</i> you trying to convey?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "When designing this racewear's motif, I\nincorporated the feelings that I hold most dear\neach and every day."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm hoping those feelings will come across to\neveryone who reads my article."
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, various aspects of her\nsignature racewear are rather striking.",
+            "choice_data_list": [
+                "The diamond decorations make quite an impact.",
+                "The diamond decorations make quite an impact.",
+                "The ruffles are stunning.",
+                "The ruffles are stunning."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, various aspects of her\nsignature racewear are rather striking.",
+            "choice_data_list": [
+                "The diamond decorations make quite an impact.",
+                "The diamond decorations make quite an impact.",
+                "The ruffles are stunning.",
+                "The ruffles are stunning."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, I agree!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "They represent my name, of course, but they also\nsymbolize my unyielding resolve."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Take stalactites, for example."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "They're formed when rain water seeps through the\nground and combines with limestone before\ndripping down."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "This water continues to drop in the same place for\ntens, if not hundreds, of thousands of years,\ncausing the stalactites to grow larger and\nstronger."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I believe the strength of an Umamusume develops\nin a similar manner."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "In other words, we hold firmly to our beliefs."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We set our minds on a goal and continue striving\ntoward it. I believe that is the path that leads to\nvictory."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she speaks, her eyes are filled with a strong\nconviction, much like that which she incorporated\ninto the diamond decorations."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm so glad you noticed them!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I love how cute the ruffles are, of course, but they\nalso symbolize flexibility."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The higher and further away your goal is, the\nmore hardships you will face along the way."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "No matter how resilient a gemstone may be, if it\nwere to clash head on with each and every one of\nthose obstacles, it would surely crack."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So that's why... sometimes it's better to be pliable\nand parry those hardships aside."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I believe doing so helps reduce needless worry\nand allows one to focus on the road ahead."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she speaks, her eyes are filled with a soft light,\nmuch like the gentle conviction she incorporated\ninto the design of her ruffles."
+        },
+        {
+            "name": "Monologue",
+            "text": "We talk for a while, but there's still some time\nbefore the photo shoot.",
+            "choice_data_list": [
+                "Would you like a drink while we wait?",
+                "Would you like a drink while we wait?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's a splendid idea. Let's have some tea!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um... Is there somewhere we can buy tea around\nhere?",
+            "choice_data_list": [
+                "I think there's a vending machine in the hall—"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The vending machine! I thought it looked a little\ndifferent to the usual ones, so I wanted to check\nit out!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Leave this to me. I'll go buy us some tea."
+        },
+        {
+            "name": "Monologue",
+            "text": "I watch as she eagerly heads off to get the tea.\n...However, I start to worry when I recall her\nsaying the machine looked different."
+        },
+        {
+            "name": "Monologue",
+            "text": "Realizing I should have gone too, I follow after\nher..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Hm? I don't see any cans or bottles. Am I\nsupposed to touch this panel? Or this button?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clunk, clunk.</i>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! A cup came out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Clatter, clatter!</i>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Whoa! Ice?! Not tea? Should I stop it?",
+            "choice_data_list": [
+                "I'll be there right away, so just wait and don't\ntouch anything!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "While she continues to build on her strengths,\nthere are still areas that she needs to work on. I\ndecide to keep a closer eye on her in the future."
+        }
+    ]
+}

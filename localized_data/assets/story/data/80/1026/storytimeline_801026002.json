@@ -1,0 +1,70 @@
+{
+    "title": "命令は守らなければならない",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm at the school store when my attention is\ncaught by an Umamusume standing in front of a\nshelf."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Error: unable to complete current operation.\nReanalyzing current situation.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The other day, Rice recommended I try the\nspecial carrot buns from the school store."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "She requested my review of the product, so I\ncame to purchase the product in order to\ncomplete this task. However..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The commodity in question is completely sold\nout. It seems I failed to conduct enough prior\nresearch on this bread."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "When I inquired with a store employee about the\nitem, I was informed that it is a very popular\nproduct that regularly sells out quickly."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "In addition, I was able to verify the date of the\nnext shipment. The problem now is formulating a\nstrategy for when the time comes...",
+            "choice_data_list": [
+                "Get in line right before the store opens.",
+                "Make a break for it during lunch!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Procuring the item at the time of the store's\nopening is indeed most simple and logical.\nAnalyzing potential."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Comparing my schedule and time of shipment...\nComparison complete. I will be available to wait\nin line at that time."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Your wise words of advice are much appreciated.\nI believe this operation shall prove successful."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. Analyzing probability of success with\nmy current capabilities."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Calculating predicted traffic based on current\ninformation. Creating route. Predicting running\nspeed from latest records."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Updated calculations complete. Potential success\nof operation confirmed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The effects of my most recent speed\nenhancements have proved beneficial. Your wise\nwords of advice are much appreciated."
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "虹色クッキング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I spot Zenno Rob Roy and\nMatikanetannhauser in the cafeteria kitchen."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "In the story, they made it with a sparkling,\nprismatic carrot they found at the end of a\nrainbow."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow! A rainbow, huh? I hope we'll be able to find\none in time."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Finding a rainbow is one thing, but I don't think\ncarrots that sparkle in multiple colors actually\nexist..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It may be prudent to brainstorm some substitutes."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Like a bunch of carrots that are different colors?\nWe could find some yellow and purple carrots,\nbut... Hmm... That sounds really hard too.",
+            "choice_data_list": [
+                "What are you trying to make, exactly?",
+                "What are you trying to make, exactly?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O-oh, um... We're trying to recreate the\nrainbow-colored carrot cake from one of the\nbooks I read recently."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "The story is about three chefs who go on journeys\nin a food truck and cook in all kinds of different\nplaces."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "At the end of their adventure, they create a cake\nwith all the ingredients they've obtained, and it\njust sounded so gorgeous and delicious!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm sure recreating a fantasy cuisine will be quite\ndifficult, but I'd still like to give it a try and feel\nwhat it's like to be in that world!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Adventure, exploration, and discovery! El is back\nand at your service!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Rob Roy! Look, look! I got all the ingredients we\nneed to make the twilight-infused void cream!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I got us 99% cocoa powder, charcoal powder,\nand squid ink paste to top it all off!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Thank you so much, El! Let's try making the void\ncream right away!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They start improvising their way through the\nwhole cake recipe, until..."
+        },
+        {
+            "name": "All Three",
+            "text": "Finished!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Perfecto! We totally nailed the pure-black\ndecorations!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Yes, I think so too! Now to cut the cake! If we did\nit right, the cross section should be separated\ninto pretty rainbow-colored layers!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! What happened?! Why is the inside a\nmarbly mess?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ewww! And what's that green stuff oozing out\nfrom between each layer?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh no... That's right! I remember reading in a\ncookbook that the anthocyanin in purple food\ncoloring has a tendency to change colors!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I should've looked up how to make sure the colors\ndon't mix together..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm sorry, you two... I wasn't prepared enough."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It's okay! It's normal to mess up the first time you\ntry something. Let's just try again!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Así es! My papa taught me that the strong learn\nfrom their failures!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh, thanks, guys!",
+            "choice_data_list": [
+                "You have some really good friends.",
+                "You have some really good friends."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I truly do... I would've been crushed by my failure\nif I were alone."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "But we <i>were</i> successful, in a way, weren't we? We\nrecreated the three chefs sharing a special\nexperience together."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whoa! This cake might not be a looker, but it\nsure is delicious!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué?! Hey, no fair! I want some too!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "W-wait, I want to try it as well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of them happily share the cake. It\nseems the time they spent working on it together\nmade it even more tasty."
+        }
+    ]
+}

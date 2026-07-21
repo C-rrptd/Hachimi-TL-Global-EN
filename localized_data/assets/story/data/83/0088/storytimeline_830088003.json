@@ -1,0 +1,215 @@
+{
+    "title": "みんなとみる夢",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the day of Satono Diamond's planned\nstaff appreciation event!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "It's finally here! The event you've all been waiting\nfor—the staff appreciation race!"
+        },
+        {
+            "name": "Umamusume Commentator",
+            "text": "Our first group of racers is already bursting with\nenergy as they wait by the gate for the race to\nstart!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you for all your help, everyone! Let's have\nlots of fun today!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you too for creating such a precious\nopportunity to show everyone our gratitude."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I won't be losing this race. ♪"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>I</i> won't be losin' this either! I'm gonna give my\nthanks to the staff with my overwhelmin' victory!",
+            "choice_data_list": [
+                "(It's finally happening!)",
+                "(It's finally happening!)"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please! The academy's staff members do so much\nfor us on a daily basis..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We want to hold a staff appreciation race for\nthem!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ever since that day, Satono Diamond and the\nothers have been working hard to organize\ntoday's event."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And lastly, the twelfth event will be a\n1,200-meter turf race. There, now the race\nschedule is all done!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll go distribute the invitations to everyone now.",
+            "choice_data_list": [
+                "Do you want some help?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you, but I'll be fine! I actually want to hand\nout these invitations in person."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you for always keeping everything clean\nand in order. I hope you'll attend so that we might\nshow you the fruits of our labor."
+        },
+        {
+            "name": "Maintenance Management Staff",
+            "text": "You did all this for us?! We'll definitely come\ncheer you on with all we've got!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We wouldn't be able to build ourselves up for our\nraces properly without the meals you lovingly\nmake for us!"
+        },
+        {
+            "name": "Cafeteria Staff",
+            "text": "It's more than enough thanks just hearing that\nfrom you. We're greatly looking forward to the\nevent."
+        },
+        {
+            "name": "Monologue",
+            "text": "After all of Satono Diamond's worrying over how\nto thank the academy's staff, the answer turned\nout to be plain and simple.",
+            "choice_data_list": [
+                "(If everyone is rooting for you to run well, then\nyou just have to show off your appreciation by\nrunning well for them, huh?)"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you all once again for coming to today's\nevent!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All of us here passed through the gates of this\nacademy holding a dream close to our hearts..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's due to the support we receive from every\nsingle person working here at the academy that\nwe are able to chase our dreams every day, free\nof worry."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We're bolstered by all the work you do. And to\nshow just how important that work is..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please watch us in this event we've prepared for\nyou!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Trainer! You came to watch too!",
+            "choice_data_list": [
+                "It seems you were able to convey your feelings\nto everyone!",
+                "It seems you were able to convey your feelings\nto everyone!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, I was!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Listening to everyone's cheers has made me\nrealize yet again just how much everyone\nsupports us!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you so much for all your help!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe. Allow me to congratulate you on a\nsuccessful event as well. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It warms my heart to see all the staff enjoying\nthemselves so much!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "By the way... Would you two happen to have any\nplans after today's races?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "After learning of today's event, the director\nmentioned wanting to show her own appreciation\nto the academy's students and staff."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It's nothing major, but she offered to hold a\ncelebratory after-party. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow! That would be incredible! We'd be able to\nspend even more time talking with all the staff!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But before that, I have to give it my all in the\nnext race!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Heeey! Dia! It's almost our turn to run!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Right! Coming!",
+            "choice_data_list": [
+                "Good luck! I'm rooting for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Satono Diamond's staff\nappreciation event ends in a roaring success!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah! Dia, there you are! Hurry up, it's almost our\nturn to run!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You gotta make sure you're nice and ready so\nyou'll be at your best during the race!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Right! I'll be there in just a second!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please watch me, Trainer."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm going to run my best and show everyone the\nextent of my gratitude!",
+            "choice_data_list": [
+                "Good luck out there!",
+                "Good luck out there!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The excitement in the venue reaches a fever pitch\nas the heated races continue. Naturally, the\nrunners hold a winning concert to close off the\nevent."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And finally for today, we'd like to pour all our\nfeelings into this song for you!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I hope our feelings reach you all! Please enjoy our\nperformance of <i>We Are Dreamers!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond and the other Umamusume sing\nwith such power and emotion that their voices\nresound far and wide for all to hear."
+        }
+    ]
+}

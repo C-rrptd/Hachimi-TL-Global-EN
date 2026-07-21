@@ -1,0 +1,109 @@
+{
+    "title": "ガブッと、突撃！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm walking down a tree-lined\nstreet..."
+        },
+        {
+            "name": "???",
+            "text": "GRAWR!",
+            "choice_data_list": [
+                "What the?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wha?! You dodged my bite attack?!",
+            "choice_data_list": [
+                "That's dangerous, Windy!",
+                "That's dangerous, Windy!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Bleh! You're not the boss of me! I'm not gonna\nlisten to anything anyone says, and I won't lose to\nanyone either!",
+            "choice_data_list": [
+                "But if you do that to the wrong person,\nsomething bad might ha―"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Aha! I hear the approaching footsteps of my next\nprey! Hehe! This one will be my best catch yet!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Now! GRAWR!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "EEEEEEK?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe! I WIN! YOU LOSE! Fear me, weakling!\nI'mma bite'cha real good!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oooh! You're gonna give me even more of the\ngood stuff?! You don't skimp on the fan service at\nall! Bite me more! Bite me moooore!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...What? Why is she happy? Is she immune to my\nbites or something?",
+            "choice_data_list": [
+                "What did I tell you?",
+                "What did I tell you?",
+                "Guess this means you lost, huh?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...What? Why is she happy? Is she immune to my\nbites or something?",
+            "choice_data_list": [
+                "What did I tell you?",
+                "What did I tell you?",
+                "Guess this means you lost, huh?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grrr... So this is what you mean by something bad\nmight happen."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Then I'll just choose who I bite next!",
+            "choice_data_list": [
+                "That's not my point at all!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ooooh... The bad girl Umas are on another level..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy learns absolutely nothing from\ntoday's events."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'll never admit defeat! NEVER! I feel <i>zero</i> regret\nabout this, you hear? I'm not gonna lose to\nanyone! Never! Never!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grawr! Graaawr! GRAAAAAAWR!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh. My. Gosh. She's! SO! CUUUUUTE!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "She fainted! Yes! I did it! I won!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear later that Shinko Windy went on a biting\nspree after that... and got an earful from her dorm\nleader, Hishi Amazon."
+        }
+    ]
+}

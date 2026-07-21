@@ -1,0 +1,33 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "I just love the feelin' I get before a race! It's\nelectrifyin', like I just got struck by lightnin'!",
+            "choice_data_list": [
+                "Feeling nervous?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, yeah. But these nerves are just enough to\nspice things up!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You can't brute force your way to victory. Ya\ngotta race with a level head!",
+            "choice_data_list": [
+                "I know you've got this!",
+                "I know you've got this!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hehe, you bet I do! Keep your expectations high\ntoday!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sit tight 'n see ya later! You're about to see what\nWhite Lightnin' can <i>really</i> do!"
+        }
+    ]
+}

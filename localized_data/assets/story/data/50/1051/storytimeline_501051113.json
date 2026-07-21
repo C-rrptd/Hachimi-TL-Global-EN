@@ -1,0 +1,321 @@
+{
+    "title": "The Two Hard Workers",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Hanshin Juvenile Fillies is the G1 race that\ndecides the top junior-year runners."
+        },
+        {
+            "name": "Monologue",
+            "text": "But harder a race, the more demanding it is, and\nthe more strain it places on a racer's body."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since Nishino Flower started her racing career\nearly and her body isn't as developed, the race\nwill likely exhaust her even more than her debut."
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to know how to properly care for her so\nshe can keep competing. But as a new trainer, I\nhave neither the knowledge nor experience. So to\nremedy that...",
+            "choice_data_list": [
+                "Thank you for meeting with me today!"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "There you are! I'm ready to go. You wanted to\ntalk about maintaining a racer's physical\ncondition, right? I've got all the info you need\nhere!"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "I've also invited some alumni racers to join us. I'm\nsure hearing about their training regimens will be\na good reference for you.",
+            "choice_data_list": [
+                "Thank you so much!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? Wait, isn't that..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What's the matter, Flower?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Oh, it's Agnes Tachyon. She does a lot of\ndifficult research, but talking to her is fun.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Well, um..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Hmm."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You know, I've been meaning to talk to you\nabout my lab coat. It's been through so much, it's\nbasically a rag now."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's both pitiful to look at and pitiful to wear.\nCould you take a look at it for me?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "S-Sure! I'll do my best to help!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff... wheeze!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "To prepare for the G1 race, I've increased the\nintensity of Nishino Flower's training. Now, even\nthe regular routine completely exhausts her.",
+            "choice_data_list": [
+                "Let's get you iced down, Flower!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, thank you...",
+            "choice_data_list": [
+                "And I made you a drink packed with vitamins!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-Um, thanks..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I use what I learn from the senior trainer to take\ncare of Nishino Flower, but I still feel like my\ngrasp on the fundamentals isn't quite there yet."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I go looking for reference\nmaterials about Umamusume physicalities and\nanatomy."
+        },
+        {
+            "name": "???",
+            "text": "Reading those books won't help you."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What I mean to say is, books can only teach you\nso much. You should be focusing more on\npractical trial and error rather than pure theory.",
+            "choice_data_list": [
+                "You're...",
+                "You're..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Agnes Tachyon. Just a humble researcher.\nApologies for the abrupt intrusion, but I happen\nto specialize in research on the Umamusume\nbody.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm. I knew it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You're Flower's trainer, aren't you? You've been\ndoing a lot for her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As an upperclassman, I'd love to do anything I\ncan to assist my junior. My intentions are heartfelt\nand good, I assure you!",
+            "choice_data_list": [
+                "Please tell me everything you can!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Don't you worry. I'll tell you all I know to help\nease the burden on Flower."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I do have one condition, but it's a minor little\nthing. No big deal. You simply have to imbibe a\ncertain drink, then do some... <i>light</i> exercise for\nme.",
+            "choice_data_list": [
+                "Okay!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer's really late..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I'm sure the person I saw Trainer talking to the\nother day was a senior trainer.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm still pretty new at this, you see."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm still pretty new at this, you see."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Maybe Trainer's doing more research for my\nsake.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(It's all my fault Trainer is having such a hard\ntime, since I'm so small...)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sorry to keep you waiting, Flower. Your trainer\noverdid things a bit.",
+            "choice_data_list": [
+                "<i>Wheeze... wheeze...</i>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sorry to keep you waiting, Flower. Your trainer\noverdid things a bit.",
+            "choice_data_list": [
+                "<i>Wheeze... wheeze...</i>"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What's wrong, Trainer?! And what are you doing\nhere, Tachyon?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, there was a bit of a mishap. All I wanted to\ndo was increase the amount of a certain\ningredient to see how it would affect\ncardio-pulmonary function."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It was merely a light exercise test. However, it\nseems he had the splendid and welcome\nmisapprehension that I would give him more\nadvice the harder he tried."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It was merely a light exercise test. However, it\nseems she had the splendid and welcome\nmisapprehension that I would give her more\nadvice the harder she tried."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hehehe! Thanks to that, I obtained some\nexcellent results indeed! And in exchange, I\nprovided a bevy of advice to help you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "To help me?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now it's up to you two to do some trial and error\nand see what works. I must get back to my\nresearch."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Consider this my thanks for your help with my lab\ncoat."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...I'm sorry.",
+            "choice_data_list": [
+                "Why are you apologizing?",
+                "Why are you apologizing?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Because it's my fault you have to go through so\nmuch..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to think that because of her smaller\nsize, my job is harder. Sure, it makes training her\nmore of a unique case, but in the end...",
+            "choice_data_list": [
+                "I'm happy I get to do my best for your sake.",
+                "I'm happy I get to do my best for your sake."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I... know exactly how you feel."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...All right."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Take a break, Trainer. I'll go get you some water."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to run after I get back, so be sure to\nkeep your eyes on me!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haaaaah!",
+            "choice_data_list": [
+                "(She's so fast!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's sprint down the final stretch is\nastounding to behold. She's improved a lot since\nour training session yesterday!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant... pant!</i>",
+            "choice_data_list": [
+                "Here, have a drink!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew. Thank you...",
+            "choice_data_list": [
+                "Have you been training in secret?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No. But..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Just thinking about how hard you've been\nworking for me filled me with strength!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Well, it felt that way, anyway."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I've grown and improved so much because of you,\nTrainer."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So thank you, for working so hard for my sake. I\nappreciate everything you're doing!",
+            "choice_data_list": [
+                "Flower..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But you're not the only one who wants to work\nhard. I do too, so, um..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Could you tell me what you learned today?",
+            "choice_data_list": [
+                "Sure!",
+                "Sure!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm beyond nervous for our first G1 race, but so\nlong as I'm with Nishino Flower, I know we can get\nthrough this together!"
+        }
+    ]
+}

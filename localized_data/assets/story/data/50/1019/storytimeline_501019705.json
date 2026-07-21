@@ -1,0 +1,177 @@
+{
+    "title": "ヲタク最高すぎるんだが？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On our way back from a day out, Agnes Digital\nand I take a stroll around a park."
+        },
+        {
+            "name": "Fangirl",
+            "text": "Um... Excuse me... Digital..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ohhh! I know you! I see you all the time at\nUmamusume fan events! Did you come to make\nplans for the next one?"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Um... Actually, the truth is... I've been thinking\nof... giving up on this life.",
+            "choice_data_list": [
+                "Don't be rash! You've got so much ahead of\nyou!",
+                "Don't be rash! You've got so much ahead of\nyou!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "That's not what she means. She's talking about\nthe <i>simp</i> life! Still... why would you ever want to?"
+        },
+        {
+            "name": "Fangirl",
+            "text": "There's this school I want to get into, but it's\nreally competitive. So... I think I have to quit\nsimping in order to focus on my studies."
+        },
+        {
+            "name": "Fangirl",
+            "text": "So... I'd like to entrust all the merch I've acquired\nto you!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Gasp.</i> To me?"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Well... I just know that you'll take good care of it\nall!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...I see. Understood. I'll take the merch."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>However!</i> And I mean this! I'll take the merch off\nyour hands, but it'll only be for a while.",
+            "choice_data_list": [
+                "For a while?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "That's right! You're not quitting the life! You're\ntaking time off, is all. Once your studies calm\ndown, I'll be awaiting your proud return!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "B-but... I'm not confident I'll ever be able to come\nback."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You will. I believe in you."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Do you remember the time during that cold snap\nwe both froze our butts off in the standby line for\nthat merch store?"
+        },
+        {
+            "name": "Staff",
+            "text": "The line for merch is over here. Estimated waiting\ntime is about one hour."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooosh, whooooosh!</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oooh... I should've dressed warmer before\ncoming... Brrr!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Oh... Um... I have a heat pad with me, so... we can\ntake turns, if you'd like!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Are you sure?! It's my own fault I didn't come here\nprepared..."
+        },
+        {
+            "name": "Fangirl",
+            "text": "But, we're in this together, aren't we?! We both\ncame here to support our oshis. We'll make it\ninside together, come hell or high water!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whooagh! I'm so grateful and happy! Let's show\nMother Nature she won't get the best of us!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "...That's right. Supporting my oshi gave me\npurpose... which is why..."
+        },
+        {
+            "name": "Fangirl",
+            "text": "I'm sorry. It might take me a long, long time,\nbut... I'll definitely be back! In all my simp glory!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Take your time. Remember, us simps are built\nstrong! We can wait on our knees for hours even\nfor mere scraps of new deets about our oshis!",
+            "choice_data_list": [
+                "Friendship sure is wonderful!",
+                "Is this another side to loving Umamusume?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "No kidding! Sometimes we're competing with\neach other for event tickets, and other times\nwe're helping each other support our oshis!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "And sometimes we trade merch when we end up\nwith duplicates... Interacting with other fans is\none of the many joys to being part of a fandom!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Oh man... I miss it already! Waiting this out is\ngoing to be like living life on super hard mode!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "In that case, whenever you need a break from\nstudying, why not dip your toes back in?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Just hold yourself back a bit and you'll be fine.\nWhat matters most is showing your fave your\nlove."
+        },
+        {
+            "name": "Fangirl",
+            "text": "W-well, I... I'm going to dedicate myself to my\nstudies now, but I'll spare some time to keep\nsupporting my oshis!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And I'll keep an eye on you when you do to make\nsure it doesn't interfere with your studies.\n...Welcome back."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two exchange a firm handshake, marking this\nastonishingly quick end to the girl's break from\nfandom!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh... it wasn't that big a deal. I was just lending a\nhand to a comrade. For our precious Umas, there\nis still love to offer."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "What we give doesn't compare to all the delight\nthey provide for us!"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Digital! I knew you were the perfect person to\nhold onto my collection."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...By the way, you wouldn't happen to have a\ncopy of that ultra rare, raffle-only concert DVD\nin here, would you?"
+        },
+        {
+            "name": "Fangirl",
+            "text": "Aha, you have a refined taste! Of course it's in\nthere. Nyehehe, enjoy it to your heart's content!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You've just made my day! I promise I'll watch it\ntwice every day—once for both of us!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital displays her firm resolve by vowing\nto revere the Umamusume merch for herself and\nher fellow fan."
+        }
+    ]
+}

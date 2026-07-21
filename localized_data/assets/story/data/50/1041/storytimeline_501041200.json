@@ -1,0 +1,49 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The time has finally come for Sakura Bakushin O\nto run in her debut race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "At last..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "At long last! My debut race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "My greatest challenge yet! The time is now!",
+            "choice_data_list": [
+                "You seem pumped up.",
+                "You seem pumped up."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I am!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "First, I'll make a huge splash with the perfect\ndebut, and then everyone will be like..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>GASP!</i>",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm ready to give them the surprise of their lives!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's time for my glorious debut!"
+        }
+    ]
+}

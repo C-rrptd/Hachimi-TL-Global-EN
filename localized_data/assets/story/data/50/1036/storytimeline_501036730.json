@@ -1,0 +1,33 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Heh, not bad at all! Even if it was a fluke, you\nexecuted the optimal strategy nearly flawlessly."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So what are you planning on doing with all these\nplushies?",
+            "choice_data_list": [
+                "I haven't really thought about it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch. Well, I guess that tracks."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Doto likes this kinda stuff, so want me to take\n'em off your hands?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway, go find a bag to put 'em all in for now.\nHurry up."
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

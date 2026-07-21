@@ -1,0 +1,54 @@
+{
+    "title": "レース敗北",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Aww, phooey..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sorry, Trainer. I wanted to look cool for\neveryone, but I majorly failed...",
+            "choice_data_list": [
+                "I'm sure you'll do great next time!",
+                "There's no point in being bummed out!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sorry, Trainer. I wanted to look cool for\neveryone, but I majorly failed...",
+            "choice_data_list": [
+                "I'm sure you'll do great next time!",
+                "There's no point in being bummed out!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You're so kind, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You're so kind, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, I'm going to run home at Mach five and get\nto training!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Next time, I'll show everyone how great I can\nreally be! Hehe! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...You're right. Moping about it won't make me\nany faster."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I have to learn from Tata. Sometimes she\nbreaks down, but she starts right back up after\nsome maintenance!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, I'm done with my repairs! Now I've just got\nto put some gas in my tank and put the pedal to\nthe metal!"
+        }
+    ]
+}

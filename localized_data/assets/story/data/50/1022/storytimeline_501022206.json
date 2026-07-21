@@ -1,0 +1,114 @@
+{
+    "title": "宝塚記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Hm... Yeah, I can't shake this feeling. Is Fine\nMotion really okay?"
+        },
+        {
+            "name": "Fan B",
+            "text": "I've got no idea what the use of worrying is. Let's\njust cheer her on. I'm sure our feelings will reach\nher."
+        },
+        {
+            "name": "Fan A",
+            "text": "Right..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whether they reach her or not, she's got her work\ncut out for her.\nWhat will you do, Fine?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, I can't sit still!",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If I don't wow everyone today, how am I going to\nstay in their hearts?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It won't be good enough to just run as usual,\nright? Maybe I should try being more reckless...\nlike running all over the place!",
+            "choice_data_list": [
+                "Definitely <i>don't</i> do that.",
+                "Definitely <i>don't</i> do that."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, I know. I would never actually do anything to\nbesmirch the race!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But I just can't think of anything. What should I\ndo...",
+            "choice_data_list": [
+                "Just do what you've been doing."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You're telling me to just enjoy the race like\nalways?",
+            "choice_data_list": [
+                "Just have as much fun as you can."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just by enjoying herself, Fine Motion has\ncaptured the hearts of countless fans and inspired\nother Umamusume to dream big."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's already made a huge impact, so the only\nthing she really needs to change is her\nmindset—to something totally opposite of simply\nwishing for things to never end.",
+            "choice_data_list": [
+                "Hope and wish that everyone always remembers\nyou."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, that's an interesting way to look at it!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Then perhaps I'll give it a try—with a prayer, that\nis."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Please... carve the image of me running into\neveryone's hearts!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "With the same intensity that a ramen chef carves\nchashu pork!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Like, HI-YAH!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Gyah! Uh, F-Fine?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, did I startle you? I've just gotten so\nreenergized."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I've got a different flavor today. I hope you enjoy\nit, Rob Roy!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...!\nI see!"
+        }
+    ]
+}

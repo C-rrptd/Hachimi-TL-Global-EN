@@ -1,0 +1,209 @@
+{
+    "title": "第3話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp, a time for Tracen Academy students to train at the\nbeach and push their abilities to new heights."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well... That's what it's supposed to be."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Woooow! Feel this energy? The adventure's about to start!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We should be at the campground on the beach, but somehow we've\nended up in this forest."
+        },
+        {
+            "name": "Monologue",
+            "text": "In a desperate attempt to clear my confusion, I try to recall how we\ngot here..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The waves! The wind! The thunderous squalls! I can hear the sea\ncalling!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But it must wait! Another place calls!",
+            "choice_data_list": [
+                "Huh? Where?!",
+                "Huh? Where?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The forest! In the deepest woods is where beetles wage war for sap.\nOnly there can I draw out my latent power!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Raise anchors, Trainer! We're outta here!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Boarding pass—check. Cards, chess, checkers, and go board for the\nplane ride—check"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "There, that's everything! Let's go!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Woohooo! Green as far as the eye can see! Now begins our true camp\nof summer!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "To the forest we go! It's time to catch bugs!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We should be at the summer camp by now, but for some reason, the\ntwo of us are wandering around a forest..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, a rainbow-colored mushroom! Hey, those things are edible, right?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aw heck, what's a little poison, huh? Shouldn't be anything more than\na minor emergency!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Right, nothing major...",
+            "choice_data_list": [
+                "(Wait a sec!)",
+                "(Wait a sec!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm Gold Ship's trainer. It's about time I check that wild spirit of hers!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What's up with you? You're all quiet. Come on, we're about to go bug\ncollecting.",
+            "choice_data_list": [
+                "I've got a better idea. Let's explore some\nancient ruins!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huuuuuh?! You feeling okay? 'Cause that sounds <I>amazing!</I>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm? <I>Beep-beep! Beep, beep! Golshi Radar signal detected!</I> The ruins\nare thataway!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "To me, my trainer! There are vast riches waiting to be discovered!",
+            "choice_data_list": [
+                "Yeah! Let's gooo!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We're off and running through the trees on Gold Ship's big summer\nadventure!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hmm, a fork in the road. Do we go right? Or left..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wait... I'm the mighty Gold Ship—I reject these options and substitute\nmy own!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We go <I>through,</I> Trainer! We don't follow in someone's footsteps, we\ncarve new paths for our own!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wait, whoooa! Why's there a cliff?! I can't stooop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly we're running down a steep slope through the thick brush!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahahaha! Heck yeah, this is the best!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<I>Huff... puff...</I> I know I'm amazing, but that was so much running. Even\nI'm tired."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "But you kept up the whole way. Not bad, Trainer.",
+            "choice_data_list": [
+                "You deserve the best, after all.",
+                "You deserve the best, after all."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh? Nicely said, my fine fellow! You'll be top-class yet!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Then I've got a little gift for ya... Check it out. The sun's setting over\nthe sea."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All this scenery, the adventure, and everything! This is what I've\nalways wanted to show you!",
+            "choice_data_list": [
+                "Wow, Gold Ship!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aw, I just made that up. Doesn't change how good this view is\nthough."
+        },
+        {
+            "name": "Monologue",
+            "text": "The whole ocean is sparkling in the sunset. It looks just like a crowd\nof fans waving light sticks at a winning concert."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "I'm really pumped to see all sorts of other stuff with you too."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "So let's aim for the big one together—being the world's greatest\ntreasure hunters!",
+            "choice_data_list": [
+                "I'm with you to the end!",
+                "I'm with you to the end!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "All right! Towards the sun we go! Only a true Umamusume gets the\nurge to run into the sunset!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "URAAAAGH! With me, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As usual, I have no idea what she's actually talking about, but I feel\nthat the adventure has really narrowed the distance between us.",
+            "choice_data_list": [
+                "So, which way's the airport?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "How the heck should I know?!",
+            "choice_data_list": [
+                "I knew you wouldn't!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Although we're unsure of where to go, we make it out of the\nwilderness and back to Tracen Academy... together."
+        }
+    ]
+}

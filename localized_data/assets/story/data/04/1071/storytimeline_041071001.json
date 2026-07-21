@@ -1,0 +1,204 @@
+{
+    "title": "硝子の彼女",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been some time since I started my job at Tracen Academy as a\ntrainer. While I should be at work right now..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Gurgle...</i>",
+            "choice_data_list": [
+                "M-my stomach!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My body's crying out in pain, so after a quick call, I'm on my way to\nthe hospital."
+        },
+        {
+            "name": "Monologue",
+            "text": "According to the doctor, it's nothing more than food poisoning.\nRelieved to hear it's nothing serious, I grab the medicine prescribed\nto me and head home."
+        },
+        {
+            "name": "Doctor",
+            "text": "Well... Congratulations on being discharged, Mejiro Ardan. Just make\nsure you don't overdo it, okay?"
+        },
+        {
+            "name": "Nurse",
+            "text": "I'm sure you're sick of hearing this by now, but moderation is key!\nAlways do your stretches before exercising, and be sure to ice your\nlegs after."
+        },
+        {
+            "name": "Doctor",
+            "text": "The more fractures or sprains you accumulate, the worse off your legs\nwill be in the long run. Above all else, be mindful of your condition."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Understood, doctor. As always, thank you for your thorough\ntreatment."
+        },
+        {
+            "name": "Nanny",
+            "text": "Miss Ardan, your chauffeur awaits."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, my. So soon? Thank you for informing me. Now then... I shall be\noff. Goodbye."
+        },
+        {
+            "name": "Nurse",
+            "text": "Goodbye! Be careful out there! I mean it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I watch this strangely somber scene between the hospital staff and\ntheir patient, I notice the Tracen uniform and recognize Mejiro Ardan."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next time I see her is when I get off the bus and arrive at Tracen\nAcademy. That's when I notice a very worried Umamusume."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm... Ah! Ardaaan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, if it isn't Chiyono O. I see you waited for me to get back this time\nas well."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Of course I did! Why wouldn't I? You're finally out of the hospital and\ncan come to school again! Congratulations, Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, thank you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Still, I feel terrible for making you wait out in the cold... I'd hate to\nsee you get sick just as I'm getting better."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "When we return to the dorms, allow me to brew us both a cup of tea. I\nreceived quite the selection as get-well presents."
+        },
+        {
+            "name": "Student A",
+            "text": "Huh? Wait, did she get hospitalized <i>again?</i>"
+        },
+        {
+            "name": "Student B",
+            "text": "Ah, now that you mention it, I do remember hearing that she couldn't\nrun in the tryouts due to an injury or illness."
+        },
+        {
+            "name": "Student C",
+            "text": "But she's race-ready, right? I'd be more worried about debuting if I\nwere her... I mean, how many times does this make?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you there! How dare you—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Chiyono O. I appreciate your concern, but I assure you, I do not mind\nthe gossip about me."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "After all, they're not wrong."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Urgh..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now then, let us make our way back to the dorms before we both\ncatch a cold."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, you want to know more about Mejiro Ardan? Well..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With my curiosity piqued, I've come to Tazuna to learn more about\nMejiro Ardan."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "As I'm sure you've heard, she's very prone to illness and injury. She's\nbeen in and out of the hospital since she started here."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And because of that, she's had to pull out of tryouts and practice very\nfrequently."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Naturally, that means she hasn't been scouted, so she hasn't made her\ndebut. As for the trainers' opinion of her... They aren't exactly\nfavorable.",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I... think she has potential. She is a Mejiro, after all."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But unfortunately, her body is so fragile. And then there's the matter\nof her older sister.",
+            "choice_data_list": [
+                "Her sister?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You're a new trainer, but I'm sure you've heard of her. She's the pride\nof the Mejiro family—Mejiro Ramonu.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "She won her debut by a whole twenty lengths. During her Junior\ndivision years, she was already reaching speeds that rivaled the \"Hot\nRod\" Maruzensky."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And to top it all off, she's the very first Triple Tiara winner."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I could be here all day telling you what makes Ramonu shine so\nbright, but... I think the strength of that light also obscures Ardan's,\nrelegating her to the shadows.",
+            "choice_data_list": [
+                "Yeah..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I know Ardan is doing her absolute best..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "However, she's running out of chances to debut. Her next race may be her last\nopportunity.",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, my apologies. I have my own speculations as to Ardan's future,\nbut, well..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you're that interested, perhaps it'd be best to talk to Ardan herself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My talk with Tazuna only deepens my curiosity. It must be hard to live\nin your sister's shadow as the feeble sibling, yet all I can picture is\nArdan's gentle smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps... I'll go check up on her myself tomorrow."
+        }
+    ]
+}

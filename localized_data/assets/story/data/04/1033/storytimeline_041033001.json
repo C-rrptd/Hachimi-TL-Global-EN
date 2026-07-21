@@ -1,0 +1,216 @@
+{
+    "title": "輝けるノヴァ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "(Running... is my way of praying.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant... Cough, cough...</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(I gasp for air, and that's when it hits me. That's when it's shoved in\nmy face—the fact that <i>I</i> am breathing.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(A vertex of the Winter Hexagon, and one of twenty-one\nfirst-magnitude stars. Twinkling with a gentle red light... is Pollux.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(And there... just like any other night, I know you're watching over\nme.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Need to get going."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(I pray. Not by clasping my hands, but by kicking the dirt. Hoping\nthat the splendor waiting further along this path, the warmth, all of\nit...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(...will find its way to you.)"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's almost tryouts, a crucial event where trainers scout out promising\nnew talent."
+        },
+        {
+            "name": "Monologue",
+            "text": "Visiting the racecourse, I find myself among many of my colleagues\nalso here to watch the fledgling runners practice for their big day.",
+            "choice_data_list": [
+                "(I think I have the list of runners somewhere...)"
+            ]
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Oh, wow! How about that turn of foot just now!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "She knows exactly when to make her move too... Admire Vega is\nquickly becoming my top pick for tryouts.",
+            "choice_data_list": [
+                "(Admire Vega!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing a name I also had marked on my list, I quickly turn my\nattention to the track."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Huff, puff, wheeze...</i> Th-thank you for running with me!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Likewise. Are you done?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-yeah... I have plans to grab dinner with Urara and a few others. Oh,\num... If you want, you're welcome to—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'll pass. I'm... going to run a little longer."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah! R-right... Uh... Don't overdo it!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the others head off to meet with friends, she alone continues to\ntrain, not looking the least bit bothered at missing out."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hahh!",
+            "choice_data_list": [
+                "(That acceleration! I guess the rumors weren't\nfor nothing.)",
+                "(That acceleration! I guess the rumors weren't\nfor nothing.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The sheer amount of talent I sense from her sends a chill down my\nspine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega. She has a bright future ahead of her, no doubt about it.\nBut I wonder...",
+            "choice_data_list": [
+                "(Just what kind of person is she?)",
+                "(Just what kind of person is she?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Back in my office, I begin poring over every scrap of paper I can find\non her. By the time I resurface from my sea of documents, it's dark\nout."
+        },
+        {
+            "name": "Monologue",
+            "text": "I step outside, figuring I should get back to the trainers' dorm, only to\nfind...",
+            "choice_data_list": [
+                "Wait, is someone on the track?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant...</i>",
+            "choice_data_list": [
+                "(She's <i>still</i> going?!)",
+                "(She's <i>still</i> going?!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The place is deserted except for the lone runner. She looks utterly\nexhausted, but despite that..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Come on! Keep going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't let up. Her pace refuses to slack. It's almost as if...",
+            "choice_data_list": [
+                "As if she's being hounded by something..."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant...</i> Ngh..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, she seems to yield to the fatigue. As her footsteps give way\nto silence, she turns her eyes toward the sky."
+        },
+        {
+            "name": "Monologue",
+            "text": "Flooded with so many stars, her eyes seem to waver, as if anxious that\nthey might be swallowed up by that vast sea.",
+            "choice_data_list": [
+                "Are you all right?",
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Oh, er..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm caught off guard by my own question. It just slipped out."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I'm fine. I always do this.",
+            "choice_data_list": [
+                "You always train this late?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Pretty much.",
+            "choice_data_list": [
+                "And it's not too hard on you?",
+                "And it's not too hard on you?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No. It's what I need to do to win."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "And I... will win. Run, and win. That's all there is to it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If you have trainer business to discuss, wait until after tryouts. Good\nnight."
+        },
+        {
+            "name": "Monologue",
+            "text": "The lights shut off abruptly, leaving only the starlight to illuminate\nher as she walks off, melting into the night."
+        },
+        {
+            "name": "Monologue",
+            "text": "A tremendous burden seems to weigh upon her, so heavy it drives her\nto the point of self-sacrifice. In the following days, it weighs on my\nmind as well."
+        }
+    ]
+}

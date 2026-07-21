@@ -1,0 +1,14 @@
+{
+    "title": "ソウルの継承",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day when I go to see <chrname>,\nher expression is so different that I almost don't\nrecognize her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> has awakened!"
+        }
+    ]
+}

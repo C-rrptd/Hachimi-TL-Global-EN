@@ -1,0 +1,520 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I come across Air Shakur out in town,\nand we decide to head back to the academy\ntogether. On the way..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!",
+            "choice_data_list": [
+                "That looks like fun.",
+                "That looks like fun."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur doesn't look all that interested, but I\nremember receiving a raffle ticket earlier when I\nwas shopping. I hold it out to her.",
+            "choice_data_list": [
+                "Want to give it a try?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why? Do it yourself.",
+            "choice_data_list": [
+                "I bet you'd be able to get the prize you want."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Are you serious?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Listen, raffles aren't about gettin' what you want.\nThe anticipation of what you might end up with is\nwhat makes them fun."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Where's your sense of adventure?",
+            "choice_data_list": [
+                "Do you really think that?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "'Course I don't."
+        },
+        {
+            "name": "Monologue",
+            "text": "It sounds like she could not be less invested in the\nraffle, but if we manage to win the grand prize...",
+            "choice_data_list": [
+                "(Air Shakur could finally get a breather.)"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Um... So are you two interested in giving this a\nwhirl, or are you just standing there for fun?",
+            "choice_data_list": [
+                "We'd like to give it a try, please!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oho, very nice. And what do you have your eyes\non?",
+            "choice_data_list": [
+                "The hot spring getaway!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What, you plannin' on enterin' this thing a million\ntimes? There's no way you'll actually win that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, whatever. Go on and spin it already."
+        },
+        {
+            "name": "Monologue",
+            "text": "A glint of poorly concealed interest shines in Air\nShakur's eyes as she watches me turn the handle\non the raffle machine."
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ooh."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, well, well. Who would've thunk?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. How many people have entered this raffle so\nfar? And what are the odds of winning the grand\nprize?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tell me the demographics of everyone who tried\nand how they turned the handle... Have you been\ntracking all the statistics?."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Um... I don't have a clue about any of that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hmph. Figures."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "But I mean, you won the grand prize... Aren't you\nhappy? It's not every day you get to go on a hot\nspring vacation."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not the one who wanted it in the first place."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Well then, Trainer! You go ahead and enjoy your\ntrip!",
+            "choice_data_list": [
+                "Oh, uh... Thanks! I... guess I will."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I thought you wanted that coupon. Wouldn't hurt\nto be more cheerful about it.",
+            "choice_data_list": [
+                "Are you not a fan of hot springs?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't have anythin' against 'em. I just don't like\nthe idea of a makin' a whole trip out of it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I hate constantly bein' around people as is, so\nwhy would I wanna sit around in a bath with a\nbunch of strangers?",
+            "choice_data_list": [
+                "Huh? I thought the dorm had a shared bath,\nthough. Aren't you used to it?",
+                "Huh? I thought the dorm had a shared bath,\nthough. Aren't you used to it?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I just use the showers when no one's around."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You have to shower before getting in the bath\nanyways, so why bother? I only get in if I have to."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not a fan of long, relaxing soaks—noted. I guess\nshe wouldn't enjoy visiting a hot spring very\nmuch, then."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What's with the questions, anyway? You're\nusually always so careful about boundaries.",
+            "choice_data_list": [
+                "I was just curious."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, you're startin' to creep me out."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, despite miraculously winning the grand\nprize, the fate of the vacation coupon remains\nunclear..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "First prize, huh? Wasn't exactly what you were\naiming for, though. Too bad.",
+            "choice_data_list": [
+                "But still, what are the odds?",
+                "But still, what are the odds?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, technically it's a good prize. But do you\neven want that?",
+            "choice_data_list": [
+                "You can have it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, don't offload your trash on me."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Wait, you don't want it? But a lot of Umamusume\ncome here specifically to try for the carrot\nhamburger steak."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Cool story. Too bad I'm not one of them."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "But it's really, <i>really</i> delicious! The local butchers,\nbakeries, greengrocers, and restaurants all came\ntogether to create this! It's the shopping district's\npride and joy!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Looks like it. Good for you."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Huh. You're not even the slightest bit tempted to\ntry it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll eat it if I need the fuel."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "No, no! My pride is at stake here. This prize was\ndesigned to make our Umamusume customers\nhappy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "I won't let you leave until you're satisfied!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hey, Ma! You there?! Warm up this hamburger\nsteak for me!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The hell? I said I don't want it."
+        },
+        {
+            "name": "Monologue",
+            "text": "One thing leads to another, and Air Shakur ends\nup trying the deluxe carrot hamburger steak on\nthe spot. After her first bite..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Pretty good."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Woo-hoo! I told you it's delicious!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah. I'm no culinary connoisseur or whatever,\nbut this isn't half bad."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right, now let's see those pearly whites!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not a chance."
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, Air Shakur finishes her meal."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...They sure are orange.",
+            "choice_data_list": [
+                "They sure are.",
+                "They sure are."
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "And packed with plenty of nutrients. Bon appetit!",
+            "choice_data_list": [
+                "(Maybe we can give some to the other\nstudents...)"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We can have these delivered if you'd like... but\nI'm sure your friend here can carry them no\nproblem."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Actually, I can do it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "They're quite heavy, you know. Are you sure?",
+            "choice_data_list": [
+                "I work out, so I should be fine!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I've developed a habit of doing the same\nexercises I think up for Air Shakur to gain a better\nunderstanding of their benefits. I think I'm quite\nfit for my age."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...We could at least rent a cart or something."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to take Air Shakur's advice and borrow a\ncart from the shopping district to wheel the\ncarrots back to the academy. However...",
+            "choice_data_list": [
+                "(It's so... heavy!)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess pushing it slows me down too much,\nbecause Air Shakur leaves me behind.",
+            "choice_data_list": [
+                "(I'm not going back on my word! Let's do this!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I take a few more steps forward until..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! Are you the trainer who's distributing carrots\nto everyone?",
+            "choice_data_list": [
+                "The... what?!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I saw a post on Umatter about a trainer heading\ntoward Tracen handing out a ton of carrots to\npeople!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I was hoping I could nab a bunch for myself if I\ncaught you early!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'd like to have some too. As many as possible,\nplease!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oh! We'd like some carrots too, please!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In no time, a mob of Umamusume descends upon\nme, and the carrots disappear faster than I can\nfigure out what's happening."
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time I arrive on campus, there are none\nleft. That's not the way I planned to hand out\ncarrots, but all things considered, I'm glad it\nworked out.",
+            "choice_data_list": [
+                "(I bet I can guess who made that Umatter\npost...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Just when I finish making a mental note to thank\nmy mystery benefactor, another Umamusume\napproaches me."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "You're the one passing out carrots, right? Hi\nthere!",
+            "choice_data_list": [
+                "Uh... Hello..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "My new reputation continues to plague me for\nsome time."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "One carrot, huh? Too bad.",
+            "choice_data_list": [
+                "But the hot spring..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tough luck. Hurry up and take your prize already."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Heh, look at you standing there holding your lone\ncarrot."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're like the perfect illustration of dumbstruck."
+        },
+        {
+            "name": "Monologue",
+            "text": "This could be my chance to entertain Air Shakur! I\nhoist up the carrot like a sword.",
+            "choice_data_list": [
+                "How do you like me now?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...And you killed it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Forcing a joke's the best way to sour it. It was\nonly funny before because it was spontaneous."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And stop trying to suck up to me. It's gross."
+        },
+        {
+            "name": "Monologue",
+            "text": "After I get home, the sweetness of the carrot\noffers me some small comfort."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Sucks to be you.",
+            "choice_data_list": [
+                "Aw, man..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, I had a feeling this's what you'd end up\nwith, statistically speaking.",
+            "choice_data_list": [
+                "I wanted to take you to the hot spring though..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hmph. So that's what this was all about."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's not like I wanted to go in the first place, so\nwhat are you all disappointed for? Cut it out,\nloser."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, she does look the slightest\nbit disappointed.\n...Or maybe that's just what I'm telling myself."
+        }
+    ]
+}

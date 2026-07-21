@@ -1,0 +1,249 @@
+{
+    "title": "さあ、狙うは大物だ☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some time has passed since we began training in earnest, and the\ndate of Sky's debut race has finally been decided."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Woo hoo! At last—the Twinkle Series! Even <i>I'm</i> getting a bit excited.\nLet's keep up the hard work!",
+            "choice_data_list": [
+                "Jokes aside, let's come up with a plan."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Haha. I see you've gotten used to handling me."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I get your point. After all, the key to a good fishing trip is\npreparing quality bait. On that note... let's go for a walk!",
+            "choice_data_list": [
+                "A walk?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yup. A good idea isn't just gonna pop into your head by racking it for\nanswers, is it? Instead, why don't we go bask beneath the warm sun?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Who knows? Maybe we'll hear some useful info, or get some\nunexpected inspiration along the way."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Sky and I begin aimlessly strolling around campus."
+        },
+        {
+            "name": "Special Week",
+            "text": "K-King, check out the program for my next race! It has the running\nstyles of all my competitors listed on it!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whoa! Is this the latest in precognitive technology?! The city sure is\namaz'n!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Um, that's not quite right. That document only shows predictions\nbased on information from previous races they've entered."
+        },
+        {
+            "name": "Special Week",
+            "text": "Really?! I-I had no idea!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "The race program, huh? Forgot about that. Based on my previous\nraces, I'll bet \"front-runner\" is listed next to my name.",
+            "choice_data_list": [
+                "Yeah. That gives me an idea..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh? Trainer, that's your scheming face, isn't it? Did you come up with\nsomething just now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "We're doing scrimmages every day?! Against the opponents in my\ndebut race?! And you want me to run in them as a late surger instead\nof a front-runner?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Now, hold up a second! The odds of that working are about as good\nas me showing up to practice on time!",
+            "choice_data_list": [
+                "So pretty good, then.",
+                "So pretty good, then."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What. Did. You. Say?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "This is horrible! This is tyranny! I can't race under these conditions! I'll\nlose my motivation long before I even finish!",
+            "choice_data_list": [
+                "Sounds good to me.",
+                "Sounds good to me."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Huh. Hm, you're up to something, aren't you?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Fiiine, not like I have a choice! You win, okay? I'll do it!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "In exchange... you'll make sure I reel it in, won't you?"
+        },
+        {
+            "text": "Sky spends the next few days scrimmaging against the opponents of\nher upcoming debut race."
+        },
+        {
+            "name": "Rival Umamusume",
+            "text": "<i>Pant, pant...</i> I'm surprised, Sky. Are you really going to race as a late\nsurger?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, I guess I'm starting to think it's not so bad? I mean, it feels\nkinda cool bursting into the lead during the final stretch!"
+        },
+        {
+            "name": "Rival Umamusume",
+            "text": "You're not wrong... But you haven't been able to steal the lead even\nonce, you know? You keep running out of stamina."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And therein lies the rub. That's my homework. As you can see, my\nstamina isn't anything worth writing home about... Hehe."
+        },
+        {
+            "text": "Slowly but surely, a certain rumor begins spreading around the\nacademy."
+        },
+        {
+            "text": "\"Seiun Sky is going to race as a late surger, but her stamina is her\nbiggest weakness.\""
+        },
+        {
+            "text": "With even the race program now listing her as a late surger, the day\nof her debut race finally arrives!"
+        },
+        {
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "And the runners are out of the gate, each of them up-and-coming\nrunners vying for glory in their debut race! Leading in first is..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yaaaaah!"
+        },
+        {
+            "name": "Caster",
+            "text": "S-Seiun Sky! It's Seiun Sky with the lead! She's running at full throttle,\nleaving second far behind in the dust!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Seiun Sky is front-running?! Wasn't she supposed to be a late surger?!\nDid the debut race nerves get to her?"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "A desperate dash... Par for the course for a rookie. Guess that's one\nless competitor to watch for. It seems the other racers have come to\nthe same conclusion."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Besides, Sky's biggest weakness is her lack of stamina. There's no way\nshe can keep this pace through to the end."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's what you'd think, isn't it?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All my stamina training was actually so I could keep up this\n\"desperate dash.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And then... before I knew it, this became my normal front-running\npace."
+        },
+        {
+            "name": "Caster",
+            "text": "The racers have rounded the third corner! Seiun Sky is showing no\nsigns of slowing down!"
+        },
+        {
+            "name": "Spectating Trainers",
+            "text": "Whaaaaat?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "(Haha, <i>that's</i> what I like to hear!)"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "(The body you're born with decides everything? Your talents? Your\npedigree? Nah, that's all so boring.)"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "(Races are fun because none of that matters!)"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>Huff, puff...</i> You all took the bait! Haaaaah!"
+        },
+        {
+            "name": "Caster",
+            "text": "Seiun Sky is flying down the final stretch! This is textbook\nfront-running! What an upset! With a five-length lead, this race is\nfinished!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Man, did you hear that, Trainer? Instead of commotion, there's\nconfusion! Instead of cheers, there are shrieks! I can't get enough of\nthis! ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Now <i>this</i> is how a race ought to be. You get it, and I respect that."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sooo, what's our next big catch? With you by my side, winning 'em all\nmight not be a pipe dream anym—"
+        },
+        {
+            "name": "King Halo",
+            "text": "Stooooop right there! I won't let that happen!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa?! King and Spe... You both came to watch?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yup, we saw everything! Congrats on first!"
+        },
+        {
+            "name": "Special Week",
+            "text": "You're really amazing. But I'm not gonna lose to you!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Exactly! Next time, you will have a first-rate opponent—me! l shall\ngive you the right to suffer utter defeat at my hands."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm... That sounds like a real chore."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But, well... the larger the catch, the more reason to reel it in."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Isn't that right, Trainer?"
+        },
+        {
+            "text": "And so, I embark with Seiun Sky on a voyage across the vast sea of\nracing, searching for our next big catch."
+        }
+    ]
+}

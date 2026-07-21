@@ -1,0 +1,199 @@
+{
+    "title": "A Long-Awaited Matikane Victory",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Up and at 'em, once again! I'm off for the first run!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm beginning to recognize more and more just how composed\nTannhauser remains during our training sessions."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff...</i> I know that I need to build up some more stamina,\nbut my body can't seem to keep up..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh well, nothing to it but to keep trying! Can we do this again\ntomorrow?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She acknowledges her shortcomings easily and tends not to let them\nfrustrate her. She even takes it a step further sometimes..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Considering your options... I think you should focus on accelerating\nfaster as you complete the last turn."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Nod, nod.</i> I see, I see! Thanks muchly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She proactively seeks advice from her rivals without her pride being\nhurt one bit."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's often said that one requires exceptional drive, persistence,\nmotivation, and even luck to make it in the racing world."
+        },
+        {
+            "name": "Monologue",
+            "text": "Many might think that for someone as seemingly normal as\nTannhauser, this would be a treacherous path in life.",
+            "choice_data_list": [
+                "(However...)"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aaand I'm back! All righty, what's next for today?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The Tracen Meet's tomorrow, so I wanna make sure I'm in tippy-top\nshape for my rematch with Bourbon."
+        },
+        {
+            "name": "Monologue",
+            "text": "If you can make it this far and still be \"normal\"... Well, that has to be\nspecial in its own right.",
+            "choice_data_list": [
+                "Really looking forward to what you've got for\nus!",
+                "Really looking forward to what you've got for\nus!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wh-what's with that all of a sudden? Come on... You're making me\nblush!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Never letting her emotions hold her back... Pushing forward with a\nsmile on her face... Her potential is practically limitless."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day at the Tracen Meet, Matikanetannhauser is warming up\nfor her 1,600-meter rematch with the lauded Mihono Bourbon."
+        },
+        {
+            "name": "Reporter A",
+            "text": "I think we can all remember the incredible lead Mihono Bourbon won\nwith at her last scrimmage. The excitement is palpable!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "Oh, looks like Matikanetannhauser's running today too. She couldn't\nquite make it last time, but I wonder how she'll do today."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Mun. Couldn't quite make it last time, but this is this time! I'll be\ntaking first. Ei, ei, mun!"
+        },
+        {
+            "name": "Caster",
+            "text": "All of our runners have entered the gates... The 1,600-meter turf race\nstarts now!"
+        },
+        {
+            "name": "Caster",
+            "text": "Mihono Bourbon is in second place. Matikanetannhauser is in fifth\nplace and has already passed the 600-meter mark!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "The runners are entering the fourth corner. Mihono Bourbon runs in\nsecond on the outside. Is anyone prepared for a final push?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Okay, here's where I speed up to catch her!)"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Haaaaa!"
+        },
+        {
+            "name": "Caster",
+            "text": "Mihono Bourbon is in the lead. Mihono Bourbon is in the lead with\n200 meters to go!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Wh-what the heck is up with her crazy acceleration?! No... Even so...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Really looking forward to what you've got for us!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Really looking forward to what you've got for us!\""
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(It doesn't matter! I'm only here to take home first!)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Haaa!"
+        },
+        {
+            "name": "Caster",
+            "text": "The leader is still Mihono Bourbon! 100 meters remain!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Haaaaa!"
+        },
+        {
+            "name": "Caster",
+            "text": "Everyone's hot on her tail! Can they overtake her? No, Mihono\nBourbon prevails as she crosses the finish!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "No doubt about it—Mihono Bourbon is here to stay!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "And did you see that performance by Matikanetannhauser? She might\nhave finished fourth, but she kept up right until the end! Might have\nto keep an eye on her!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff...</i> Ehehe!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whew, thanks so much! I only came in fourth, but you still want to\ntreat me?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Speaking of... Too bad about that last race. Looks like the big\nleagues evade me still.",
+            "choice_data_list": [
+                "You ran well, Machitan."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah, thanks a lot. Ehe, you know, I still feel like I got something out\nof that race to help me grow even more!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I can't really explain it, but it's gotten me pretty fired up to keep on\ngoing, too."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And when I think about how you're looking forward to what I've got in\nstore, I get <i>even more</i> pumped!",
+            "choice_data_list": [
+                "Is that right?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess it's pretty normal to turn words of encouragement into power\nto succeed, but I can't help but be surprised."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm starting to think that meeting you was one of the luckiest things to\never happen to me, heehee."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's get right back to the grind tomorrow. But for now... halfsies!"
+        }
+    ]
+}

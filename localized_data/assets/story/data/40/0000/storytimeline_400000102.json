@@ -1,0 +1,25 @@
+{
+    "title": "URAファイナルズ準決勝にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The semifinals are upon us! The competition is so\nfierce, I can feel the pressure all the way from\nhere."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer... How are you feeling?",
+            "choice_data_list": [
+                "I believe she's going to win."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Great! Go get them!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The URA Finale... At long last, the semifinals are\nabout to begin!"
+        }
+    ]
+}

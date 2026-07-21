@@ -1,0 +1,262 @@
+{
+    "title": "ジャパンCの後に・Noise",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Opera O & Doto",
+            "text": "Hyaaah!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Phew..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What a shame. It's hard to believe that the time\nhas come for my star to set."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yet, I shall accept this fate. However, this play is\nfar from over... Isn't that right, Doto?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "...Right. Me too..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I'm going to get even stronger too! I'll redeem\nmyself at the spring Tenno Sho!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Haha... So much for the data. So much for\neverything I \"knew\"..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Sure, I won, but... what about next time? They\nwere improving <i>during</i> the race. I could\npractically taste their bloodlust as they hunted\nme down.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Their strength can't be measured in numbers.\nThose two shattered the thresholds I\npainstakingly calculated as if they were nothin'.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Dammit... I still won, damn you..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I got ahead of myself. I changed the\nseven-centimeter gap... and started thinking I'd\nchanged fate itself.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But this race... This had to be destiny."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter...</i>"
+        },
+        {
+            "name": "Fan A",
+            "text": "I dunno how to put it, but like..."
+        },
+        {
+            "name": "Fan A",
+            "text": "The classic-year racers are so underwhelming.\nLike Shakur at least is okay-ish, but I dunno... It\nfeels like she just got lucky."
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah... The Triple Crown races this year felt like\nthere was zero competition. Pretty lame,\ncompared to how hard Opera O and Doto push\neach other."
+        },
+        {
+            "name": "???",
+            "text": "Shakur got a lucky break this year, but I can't\nimagine her standing a chance against the runners\ncoming next year. Guess this is the end of her,\nhuh?"
+        },
+        {
+            "name": "???",
+            "text": "The representative of the \"weakest generation\"\nmay stand above the rest in her year, but she's\nstill weak."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Air Shakur returns from the race, something\nis clearly wrong.",
+            "choice_data_list": [
+                "Let's head back as soon as you're done\nchanging."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Oh, there was something else I wanted to say\nabout today's race..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Doto really tried her best, didn't she? It made me\nwant to cheer her on even more!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>",
+            "choice_data_list": [
+                "The taxi should be here any moment."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm okay. You take it.",
+            "choice_data_list": [
+                "Not happening."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!",
+            "choice_data_list": [
+                "It'll be quieter back on campus."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur stays silent for the entire taxi ride.",
+            "choice_data_list": [
+                "I'll check up on you tomorrow, okay?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Wait."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My next goal race hasn't changed. I still want to\nrun the spring Tenno Sho, just like we planned.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The spring Tenno Sho is the longest G1, clocking\nin at 3,200 meters. With her aptitude for long\ndistances, Air Shakur should be able to do well."
+        },
+        {
+            "name": "Monologue",
+            "text": "The only problem is..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Opera O and Doto are definitely gonna be\nthere... Narita Top Road too."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "We'll need to come up with a strategy to beat\nthem. I'll start on a new dataset..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then... we just gotta train till my numbers are\nbetter than theirs...",
+            "choice_data_list": [
+                "We can discuss all that tomorrow."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Sure.",
+            "choice_data_list": [
+                "Shakur!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Let's make next year your era.",
+                "Let's make next year your era."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I keep watch over Air Shakur as she leaves. That's\nnot the only thing I can do for her, though. In\nfact, I know exactly what to do.",
+            "choice_data_list": [
+                "(I just have to tell her everything I've seen till\nnow.)",
+                "(I just have to tell her everything I've seen till\nnow.)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Haaah..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Calm down. I've collected the data. All that's left\nis to calculate the thresholds I need to reach in\norder to win.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I've got no choice but to meet those numbers, no\nmatter how ridiculous they are.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...The hell?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(What the... I'm going to lose? And not just\nthat...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "These are the same values I got before I changed\nthe seven-centimeter gap. This is my worst\npossible fate..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So essentially... nothing's really changed."
+        },
+        {
+            "name": "???",
+            "text": "The representative of the \"weakest generation\"\nmay stand above the rest in her year, but she's\nstill weak."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I see how it is."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So even <i>you</i> want to see my downfall, Parcae."
+        }
+    ]
+}

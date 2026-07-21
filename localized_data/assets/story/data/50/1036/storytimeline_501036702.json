@@ -1,0 +1,212 @@
+{
+    "title": "Logic and technique.",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We stop off at a mall on our way home after a\nday out, where we find people getting excited\nabout an event."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I need a volunteer. Just choose whichever card\nyou'd like. How about that darling pony over\nthere? Care to lend a hand?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Who, me?! Oooh!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh, guess there's a magic show.",
+            "choice_data_list": [
+                "Want to watch?",
+                "Want to watch?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not particularly. But..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A lot of card tricks like that rely on mathematical\nlogic."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Well, since we're here, why don't we watch for a\nbit?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "While she doesn't reply, she does stop walking,\nand we end up observing Fuji Kiseki's magic show\nfrom a distance."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm so happy you came to watch my little\nperformance! Did you enjoy yourselves?",
+            "choice_data_list": [
+                "It was a lot of fun!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm glad to hear it! ♪ It was extra exciting when I\nsaw familiar faces in the audience!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And judging by the look on your face, Shakur, it\nlooks like I did all right."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It wasn't bad. Your packet switches were natural,\nand you diverted the audience's attention like a\npro."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...What?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, nothing. I was just thinking that you sound\npretty knowledgeable.\nSay..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I don't suppose you'd want to put on a show\ntogether?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?! Why would I want to do that?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Actually, I've been puzzling over ways to spice up\nmy performance recently."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I think having an intelligent, logical person beside\nme would be just the ticket!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No. There's nothing in that for me.",
+            "choice_data_list": [
+                "Yeah, you should probably find someone else..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur considers anything besides racing to\nbe nothing more than noise. I start considering\nwho might be more appropriate for the role,\nwhen..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "In that case, would you at least help me think up\nsome fresh tricks?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why? It's not like I know all that much about\nmagic or anything."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Just having a new perspective would be helpful. It\ncould breathe some new life into the show, you\nknow? What do you say?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh, come on. Don't just lower your demands to\ntry and talk me into it. It's sad."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But fine. If you're gonna beg, I'll help you think of\nsomething now."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wait, now?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As promised, Air Shakur comes up with an\nimpromptu magic trick on the spot."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So if you do this, you can move the card to any\nposition within the three rows of cards."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Three rows means it's base 3, and four rows\nmeans it's base 4. You can just use a simple\nmethod to turn the positional data into values.\n...Well, there's no need to understand the\nmathematical component."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "As long as you follow the steps, there's no chance\nit can fail. Math is like a flawless magic—one that\ndoesn't rely on any fancy sleights of hand."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The correct input will yield the desired results. It's\nthe same as the code for any well-written\nprogram."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Amazing! Who would've thought such a simple\nprocess could produce such spectacular results?\nMy heart is dancing just thinking of ways I can put\nthis to use in my performance!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Did you really just come up with this off the top\nof your head?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's nothing special. Anyone who understands the\nlogic behind it could do the same.",
+            "choice_data_list": [
+                "You mean even I could do it?",
+                "You mean even I could do it?",
+                "Thinking it up on the spot is still amazing!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's nothing special. Anyone who understands the\nlogic behind it could do the same.",
+            "choice_data_list": [
+                "You mean even I could do it?",
+                "You mean even I could do it?",
+                "Thinking it up on the spot is still amazing!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I see! Indeed, if I were able to create tricks like\nthis myself, I could take the show in any direction\nI like! ♪"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Shakur, would you do us the honor of becoming\nour magic teacher?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Me, a teacher? You're kiddin', right?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I agree. And even though the logic behind it is so\ncomplex, the trick itself is simple and easy to\nunderstand."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You've definitely got a flair for showmanship. If\nyou ever feel like joining the act, just speak up!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, like I'd be caught dead doing that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm outta here. And just so we're clear, that was\nall the help I'm giving you.",
+            "choice_data_list": [
+                "Hey, wait for m—"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just leave me alone, will ya?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur makes a rather cold departure, leaving\nme to consider what I can do to assist this\ncomplicated, yet incredibly talented\nUmamusume."
+        }
+    ]
+}

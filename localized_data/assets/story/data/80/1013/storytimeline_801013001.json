@@ -1,0 +1,57 @@
+{
+    "title": "体重を保つ為",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm about to eat in the cafeteria..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "\"Special Mont Blanc! Only Ten Available a Day!\"\nThat sounds enticing, but they look so calorie\ndense...",
+            "choice_data_list": [
+                "That's some look on your face. Are you okay?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eeek! G-goodness, it's just you. I would\nappreciate it if you didn't scare me so!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "More importantly, I wish to seek your advice!\nI—ahem. I mean, a <i>friend</i> of mine has a bit of an\nissue..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Despite understanding the importance of\nmaintaining her weight in order to prepare for her\nrace properly, well..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Let's just say she has trouble adhering to her strict\ndiet at the best of times. Have you any advice for\nher regarding this issue?",
+            "choice_data_list": [
+                "She should do her best to stick to her diet until\nthe race is over.",
+                "She should be fine if she runs more to burn off\nwhat she eats."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Y-yes, of course! It's certainly important to stick\nto one's word, and one must practice self-control."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Many thanks for your advice! I appreciate—I\nmean, I'm sure my <i>friend</i> will appreciate it!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, indeed! I was thinking that as well!\nRepressing your urges for too long is detrimental\nto your health, after all."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe! I'll have just a smidgen of this as a treat! I\nshall savor this later. ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Many thanks for your advice! I appreciate—I\nmean, I'm sure my <i>friend</i> will appreciate it!"
+        }
+    ]
+}

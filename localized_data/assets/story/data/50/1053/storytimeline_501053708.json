@@ -1,0 +1,38 @@
+{
+    "title": "レース勝利！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh yeah! First place!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That race was incredible! I ran as fast as I could,\nand my body was red-hot!",
+            "choice_data_list": [
+                "You were brilliant out there.",
+                "Let's not get carried away and start preparing\nfor the next race."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Thank you so much! It's all thanks to your\nguidance!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe! I feel totally unstoppable right now!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm counting on you to keep pushing me to be the\nvery best!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Right! After all, my next opponent might be even\nstronger!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Phew... Okay, that's enough celebrating! Starting\ntomorrow, we aim for even greater heights!"
+        }
+    ]
+}

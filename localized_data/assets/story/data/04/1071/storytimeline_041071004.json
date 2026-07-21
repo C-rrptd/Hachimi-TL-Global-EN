@@ -1,0 +1,253 @@
+{
+    "title": "プリズム、出会い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Allow me to make this formal by reintroducing myself. I am Mejiro\nArdan, and I look forward to training with you from now on.",
+            "choice_data_list": [
+                "Same. Let's do our best, Ardan.",
+                "Same. Let's do our best, Ardan."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Indeed. Now, before we begin..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Could I ask you to accompany me somewhere this weekend?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, the weekend rolls around..."
+        },
+        {
+            "name": "Nanny",
+            "text": "We've arrived, Miss Ardan. Enjoy your day, but do be careful... And\nplease, Trainer, do look after her for us.",
+            "choice_data_list": [
+                "O-of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After riding in a car owned by the Mejiro family, we find ourselves at\nan art museum."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, no need to be nervous, Trainer. Thank you for accompanying\nus, Nanny. I promise we'll be fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite Ardan's reassurance, I can't seem to calm down. I anxiously\nscan my surroundings..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Only for my eyes to land on the poster for the exhibition we'll be\ngoing to. The title of this exhibition is...",
+            "choice_data_list": [
+                "\"In the Blink of an Eye\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes... I've been meaning to see this exhibition for a while now, but I\nthought it would be nice to have you accompany me.",
+            "choice_data_list": [
+                "What kind of exhibition is it?",
+                "What kind of exhibition is it?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "This show features a wide variety of media—paintings, sculptures,\nphotography, film, and even traditional arts."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "However, they all have one thing in common.",
+            "choice_data_list": [
+                "And what's that?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "They are all works that were released after their respective creators\ndied."
+        },
+        {
+            "name": "Monologue",
+            "text": "I head into the exhibition, fully expecting to be blown away by each\nartist's final work—their swan songs. However..."
+        },
+        {
+            "name": "Monologue",
+            "text": "While there certainly are some awe-inspiring pieces, there are also\nworks that leave me confused—I mention that it's just like any other\nart exhibition."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I suppose that is one way to look at it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, Ardan and I make our way through the exhibition, until we\nreach a door leading out of the museum."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "There's one more artwork left. Trainer, could we head to the forest\nbehind the museum?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It seems that's where the final piece is being displayed, and, well...\nthat's the piece I wish to see the most."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I hope you don't mind this little detour."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we head into the forest. Judging from the lack of other\nattendees on the path, it seems like very few people know this\nartwork is part of the exhibition."
+        },
+        {
+            "name": "Monologue",
+            "text": "But as we finally reach the spot..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah... Here it is. This is what I wanted to see."
+        },
+        {
+            "name": "Monologue",
+            "text": "What we find is a single painting."
+        },
+        {
+            "name": "Monologue",
+            "text": "A faded, weathered painting that had clearly been through its fair\nshare of rainy days and blistering heat."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It seems the artist's request was for this piece to be placed outside,\nand only outside."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We stand there, taking in the painting for what feels like an eternity."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As I'm sure you know, I was born with a fragile, weak body.",
+            "choice_data_list": [
+                "Yeah...",
+                "Yeah..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After leaving the museum, we decided to stop by a cafe. As we sit\nthere, Mejiro Ardan continues on."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But that was also the case for my sister, and she ended up making a\nmiraculous recovery. I suppose that gave me hope..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But unfortunately, fate didn't see it fit to have two miracles in one\nplace. I suppose that would make miracles less special."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Our family doctor told me that my body wouldn't be able to handle\nracing. In fact, he said it would only lead to disaster."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Even now, my parents are vehemently against my decision to race.\nJust the other day, they were on the phone with me, crying about\ntheir fear of losing me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I think their fears partially stem from the fact that I was originally\nsupposed to have a twin... They worry that I will meet the same fate\nas my stillborn sibling."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yet despite all that... I still want to race, Trainer.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan looks up, and those eyes—eyes I've seen burn with\nconviction countless times—are suddenly focused on me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I do not know when my body will give out on me. Among the\ncountless Umamusume who shine so bright, my star may very well burn\nout the fastest."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Just like that painting in the woods, I may fade away and be\nforgotten. And yet, here and now..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I still wish to shine, and I'm willing to do whatever it takes to do so."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Even if my sparkle disappears in the blink of an eye..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I want to leave my mark. I wish to prove that I was here, in this\nmoment.",
+            "choice_data_list": [
+                "Ardan..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Will you help me do that, Trainer?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ardan looks at me expectantly. In the past, her resolve left me at a\nloss for words, but I can't let that happen here. When the words come\nto me, I speak...",
+            "choice_data_list": [
+                "I bet that painting was very beautiful.",
+                "I bet that painting was very beautiful."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!",
+            "choice_data_list": [
+                "I'll make sure you shine just as beautifully.",
+                "I'll make sure you shine just as beautifully."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My apologies for testing you with such a grim prediction. I was\nworried you may not be prepared for what may lie ahead."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But I was wrong... You are far more determined than I had ever\nimagined."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ardan reaches out her hand, and I give it a firm shake."
+        },
+        {
+            "name": "Monologue",
+            "text": "I silently make a pact to help Mejiro Ardan shine, here and now."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Apologies, Trainer, but I know something about that painting that\nyou don't.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(That artist had a devout partner supporting them through their life.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(They say the artist put the last of their energy into that painting...\nand dedicated it to their lover.)"
+        }
+    ]
+}

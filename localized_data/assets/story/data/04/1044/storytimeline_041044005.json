@@ -1,0 +1,202 @@
+{
+    "title": "とげとげベイビーローズ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Passing by the library, I catch a glimpse of Sweep Tosho combing the\nshelves for something."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I found it! This is definitely it. I knew I saw it the last time I was here!",
+            "choice_data_list": [
+                "You studying? I'm impressed!",
+                "You studying? I'm impressed!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph, Grandma tells me that all the time!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "More importantly, I gotta hurry before she catches up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Thorns, o thorns, entwine! ☆"
+        },
+        {
+            "name": "Teacher A",
+            "text": "I've finally found you, Sweep Tosho!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh?! What gives?! Why isn't my ensnaring spell working?!",
+            "choice_data_list": [
+                "Ensnaring spell?"
+            ]
+        },
+        {
+            "name": "Teacher A",
+            "text": "Ah, I see your trainer is with you as well. Let me explain."
+        },
+        {
+            "name": "Teacher A",
+            "text": "Sweep Tosho didn't do her homework, and when I tried to get her to\nattend makeup lessons, she ran away."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Of course I did! Who would want to stay at school for <i>that?!</i> If I don't\nwanna, I don't wanna!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Anyways, why isn't my spell working?! I'm sure I followed all the steps\nin this book!",
+            "choice_data_list": [
+                "(Wait, so you weren't studying?!)",
+                "(Wait, so you weren't studying?!)"
+            ]
+        },
+        {
+            "name": "Teacher A",
+            "text": "Sweep Tosho, hear me out. I'm not giving you homework so you have\nmore busywork to do."
+        },
+        {
+            "name": "Teacher A",
+            "text": "In your future as a competitor, balancing training with your studies\nwill be very important. That's why I'm giving you homework now, so\nyou can get used to it."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Blah blah blah—who are you to give me orders?! If I don't wanna, I'm\nnot gonna!"
+        },
+        {
+            "name": "Teacher A",
+            "text": "Sweep Tosho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Clearly, these two have forgotten to use their inside voices. Sensing\nthe judging stares of those around us, I realize it's my time to\nintervene.",
+            "choice_data_list": [
+                "Sorry for the trouble. Perhaps I could talk to\nSweep if you don't mind?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Back in my office, I suggest to Sweep Tosho that maybe doing her\nhomework wouldn't be so bad. Heck, it might even be fun!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Homework, schomework—even my familiar's getting on my case now! I\nthought you were helping me by getting that teacher outta my hair!",
+            "choice_data_list": [
+                "You can't just <i>not</i> do your homework.",
+                "You can't just <i>not</i> do your homework."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Then why don't <i>you</i> do it for me, familiar?!",
+            "choice_data_list": [
+                "You know I can't do that!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And why not?! A familiar <i>HAS</i> to listen to their master, y'know?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no stopping her once she's throwing a tantrum. She's\ncompletely honest with her feelings, and has no patience for things\nshe isn't interested in."
+        },
+        {
+            "name": "Monologue",
+            "text": "In a sudden flash of genius, I recall a recent moment when she showed\na liking to something."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I found it! This is definitely it. I knew I saw it the last time I was here!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, what're you all quiet for?",
+            "choice_data_list": [
+                "Why don't you just do your homework with\nmagic?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh? You mean like writing the answers with magic? Hmm, you might\nbe onto something.",
+            "choice_data_list": [
+                "I guess that could work, but what about casting\na spell on yourself?",
+                "I guess that could work, but what about casting\na spell on yourself?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Casting a spell on myself? Explain, familiar.",
+            "choice_data_list": [
+                "You know, like a spell to help you solve\nproblems faster!",
+                "You know, like a spell to help you solve\nproblems faster!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Isn't that just extra steps though? So basically... you want me to cast a\nspeed spell, right?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Well... whatever. Sounds kinda fun! Here I go!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Spell well—excel! Alstroemeria! ☆"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, now for the first problem... Wow, it really is a piece of cake\nnow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if truly enchanted, Sweep begins to plow through her homework at\nan impressive pace."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "For this problem... Urgh, I can feel my speed dropping! \"Solve like the\nwind! Alstroemeria! ☆\""
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wow, I can't believe I'm already done! Do you see now, familiar? This\nis the power of Magical Girl Sweepy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When she makes up her mind to do something, she really does do it\nbetter than anyone else.",
+            "choice_data_list": [
+                "Your magic is out of this world!",
+                "Your magic is out of this world!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, praise me more! I can't wait to shut that teacher up! C'mon, let's\ngo find her—I bet she'll be shocked!"
+        },
+        {
+            "name": "Teacher A",
+            "text": "A perfect score. Good grief, I knew you could do it if you applied\nyourself, so please stop running away all the time. Also..."
+        },
+        {
+            "name": "Teacher A",
+            "text": "Your trainer helped you, right? Make sure to say thank you later,\nokay?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Geeeeez! She should've been stunned by my magic—not fawning over\nmy familiar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "In any case, with magic on my side, homework is a problem of the\npast. Goodbye extra lessons, hello freedom!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she says that, her eyes light up with newfound motivation. When it\ncomes to doing what she loves, you won't find a harder worker than\nSweep Tosho."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "たづなさんの育成アドバイス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "When I arrive at work in the morning ready to\nstart the day, Tazuna Hayakawa, the director's\nsecretary, approaches me."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Good morning, Trainer. It's finally time to start\nworking with your trainee, isn't it!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Together, you'll strengthen your bodies and\nminds as you forge an inseparable bond. I'm\ncertain you'll have the most fruitful time together!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you're able to achieve consistent results, you\nmay even earn a G1 title, the very pinnacle of\nracing!",
+            "choice_data_list": [
+                "I'll do my best!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm sure you will! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Keep in mind that a runner's first three years in\nthe Twinkle Series are the most crucial."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If your trainee hasn't achieved a satisfactory\nrecord three years after her debut..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm afraid her contract with you may be canceled."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That makes these three years a critical period for\nher! Please work together and find a way to make\nit through.",
+            "choice_data_list": [
+                "Yes, ma'am!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "First things first, you should probably start\ntraining for the upcoming Make Debut."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well then, off you go!"
+        }
+    ]
+}

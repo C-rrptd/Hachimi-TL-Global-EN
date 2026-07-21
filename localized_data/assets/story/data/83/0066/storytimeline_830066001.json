@@ -1,0 +1,203 @@
+{
+    "title": "ステータス『つまらない？』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Umamusume in a Dress",
+            "text": "Yayyy! I got one! I really got one! Thanks for\ncoming with me, Bourbon! The store was so\ncrowded because of the sale. You must be\nexhausted."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My physical stamina and energy levels are fine,\nand I've detected no issues as a result of the sale.\nWe have accomplished our objective."
+        },
+        {
+            "name": "Umamusume in a Dress",
+            "text": "Ahaha... Um... But still, I'm sorry. That wasn't\nmuch fun, was it? I mean, I haven't seen you smile\nat all today..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "That is—"
+        },
+        {
+            "name": "Umamusume in a Dress",
+            "text": "No, it's okay! You don't have to say anything.\nThanks for coming with me! I'll see ya next time!\nSorry again!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...",
+            "choice_data_list": [
+                "Did she get the wrong idea?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Ah..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative. It appears she determined that I was\n\"bored\" due to my expression. However, that\nconclusion is inaccurate.",
+            "choice_data_list": [
+                "So you had a good time?",
+                "So you had a good time?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I completed a difficulty C objective, securing an\nitem on sale, which also let me see my friend\nsmile. Therefore, the answer to your question is\n\"yes.\"",
+            "choice_data_list": [
+                "I'm sure the misunderstanding will work itself\nout soon."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I wonder. Past experience suggests an eighty\npercent probability that the same situation will\noccur again."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The next time is likely to be... at the costume\nparty."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That video was just so adorable! We should throw\na costume party, just like the one in the video!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I see. I'm pleased you appear to be enjoying\nyourself."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe. Well, just thinking up costume ideas is\nsuper fun!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And, um... the party prep and the party itself are\ngonna be super fun too, so..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-would you like to come?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...I agreed at the time, but I have determined that\nthere is a high probability of my presence\ndampening the mood."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Perhaps I had better decline after all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon bows slightly and walks off\ntowards the school building."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear, what's with that gloomy face? Is\nsomething on your mind?",
+            "choice_data_list": [
+                "No, it's nothing..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. I'd be more than happy to lend you an\near. ♪ If something's troubling you, a problem\nshared is a problem halved."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah... So that's how Bourbon is feeling? I'm\nplanning to attend the costume party myself,\nbut..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Right. You can leave this all to me. I'll speak with\nBourbon. After all, the more people that come to\nthe party, the more fun it'll be!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Huff, puff... Pant...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Bourrrbon."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well done with your training. By the way, I heard\nyou're worried about the costume party."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...You're also attending, correct?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I am. The party's called \"The More the Scarier.\" ♪\nSo won't you join us, Bourbon?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But, I..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Rice invited you to the party because you're a\nvery special friend to her. And to me too, of\ncourse."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You're not the slightest bit boring. In fact, if you\ndon't come, I'll miss you so much I might even\ncry..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Understood. I will optimize my conduct for the\nevent: ensure that my expression remains jovial,\nand—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness, no. You'll be perfectly fine just as you\nare. Forcing yourself to smile is very much a\nno-no."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But if I don't...",
+            "choice_data_list": [
+                "I think you're fine just as you are!",
+                "How about a costume that'll match your usual\nexpression?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I'm fine as I am? Without any... special changes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In order for everyone to enjoy the party, it's\nprobably best for Mihono Bourbon to just be\nherself. That way she can relax and have a good\ntime."
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's right. There's no need to overthink it. We\nall want to party with the usual Bourbon we all\nknow and love. ♪"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The usual me..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Acknowledged. I'll research an appropriate\ncostume and make it as soon as possible."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before anyone can offer to help, Mihono Bourbon\ndashes off at astonishing speed."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ooh, that's a nice idea too. A costume doesn't\nneed to transform yourself entirely, after all. It's\njust as much fun to think of a costume that's just\nright for you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You mean... a cyborg costume?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. That would be wonderful as well. I'm sure\nyou'd make a very strong and cool cyborg. ♪"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...Understood. Commencing search for a suitable\ncostume. I will accomplish this mission no matter\nwhat."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although the goal is simply to have a good time,\nMihono Bourbon faces her mission with steadfast\ndetermination."
+        }
+    ]
+}

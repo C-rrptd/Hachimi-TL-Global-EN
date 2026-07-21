@@ -1,0 +1,328 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The holiday season is nearly here..."
+        },
+        {
+            "name": "TV",
+            "text": "The lineup for this year's Arima Kinen grand prix\nlooks to be a step up above usual."
+        },
+        {
+            "name": "TV",
+            "text": "Oguri Cap, Super Creek, and Inari One are just a\nfew of the Umamusume who've been bringing the\nheat this year."
+        },
+        {
+            "name": "TV",
+            "text": "There's also Yaeno Muteki and Mejiro Ardan. And\nwho could forget Sakura Chiyono O's miraculous\ncomeback!"
+        },
+        {
+            "name": "TV",
+            "text": "Everyone who's defined this generation is going\nto be there! Fans are calling it a dream race\nworthy of the grand prix title!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone is looking forward to the imminent\nArima Kinen and the holiday season. Meanwhile,\nBamboo Memory..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeeaaah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's get right to it, Trainer! It's the holidays,\nwhich means enforcing discipline is more\nimportant than ever!",
+            "choice_data_list": [
+                "Roger that!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "According to Bamboo Memory, the disciplinary\ncommittee is fairly—make that <i>extremely</i> busy\naround this time of year."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hearing that, I decide to help out with her\ndisciplinary committee work between our training\nsessions."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You can't take the holiday season lightly! This\ntime of year is nuts!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "The disciplinary committee has crunched the\nnumbers and found that rule violations go up\nsignificantly around the holidays! We call it chaos\nseason!",
+            "choice_data_list": [
+                "Chaos season?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I think it's easier to understand if you see for\nyourself. So..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's patrol the academy! We need to tighten the\nscrews, and that means being three times as loud,\nthree times as strict, and three times as energetic!",
+            "choice_data_list": [
+                "...Does \"three\" have some kind of significance?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course—it sounds cool!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins our super strict holiday season."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hey! You over there! It's against the rules to bring\na tree into the dorms without permission!"
+        },
+        {
+            "name": "Tree-Toting Student",
+            "text": "Oh! Bamboo! S-sorry about that!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You there! Just because a classroom is empty\ndoesn't mean you can use it to throw a party! You\nneed to get permission first!"
+        },
+        {
+            "name": "Student with Fairy Lights",
+            "text": "Gyah! Where'd you come from?! A-anyway...\nsorry!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Stop right there! Who said you could have a\nbarbecue on the roof?! Clean everything up right\nthis instant!"
+        },
+        {
+            "name": "Student Holding Meat",
+            "text": "But why?! Taiki Shuttle does it all the time!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And Air Groove yells at her every time! Do you\nwant me to call her over here?!"
+        },
+        {
+            "name": "Student Holding Meat",
+            "text": "...I'll clean it up."
+        },
+        {
+            "name": "Student in Casual Clothes",
+            "text": "Hey, Bamboo! Thanks for all your hard work on\nthe disciplinary committee!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Did you get permission to leave campus?"
+        },
+        {
+            "name": "Student in Casual Clothes",
+            "text": "Oh you! Of course I did! Hehehe... Now, I'm just\ngonna go ahead and—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Not so fast! Your dorm leader's told me all about\nyour habit of sneaking out! And I know for a fact\nyou haven't given notice! I checked!"
+        },
+        {
+            "name": "Student in Casual Clothes",
+            "text": "Ugh... I should have known you would've talked\nto her. There's no getting anything by you..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Phew! That should do it for today! Appreciate the\nhelp, Trainer!",
+            "choice_data_list": [
+                "Sure thing! Good work today!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I spent the whole day patrolling with Bamboo\nMemory. Both the scale and amount of rule\nviolations were larger than I expected, and we've\nmanaged to run ourselves ragged."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "See? We don't call this chaos season for nothing.\nEveryone's so excited, they just do whatever they\nfeel like!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But that's all the more reason why I've got to do\nwhat I can for the disciplinary committee!",
+            "choice_data_list": [
+                "And why is that exactly?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I think everyone's just so excited about the\nholidays that they can't help themselves!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And so it's our job to make sure everyone enjoys\nthe holidays safely!",
+            "choice_data_list": [
+                "Spoken like a true disciplinary chair."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory is working hard on the\ndisciplinary committee for everyone's sake, and\nI'd like to show her some appreciation.",
+            "choice_data_list": [
+                "Why don't we celebrate a job well done back in\nmy office?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oh! Can we?! I'd love to!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "We can celebrate a job well done <i>and</i> the\nholidays at the same time! Besides, who knows\nwhen we'll get another chance to celebrate?!",
+            "choice_data_list": [
+                "All right, let's go buy some cake!",
+                "All right, let's go buy some cake!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yesss! This is gonna be great!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Bamboo Memory and I reward\nourselves for our hard work by enjoying the\nholidays with some cake."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us have a lovely time talking about all\nthe times we've shared!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I nearly forgot! It's not a holiday party without—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Whoops! I left it in my room! And it's not even\nwrapped ye—",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sorry, Trainer! Would you mind picking up the\ncake by yourself?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'll meet you back in your office! Just gotta grab\nsomething real quick, nothing to worry about!",
+            "choice_data_list": [
+                "I don't really know what's going on, but okay!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm really sorry! I'll be there right away, I swear!\nJust wait a bit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As requested, I go pick up a cake and then wait\nfor her in my office."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Sorry for the wait!",
+            "choice_data_list": [
+                "No worries, but is everything okay?",
+                "No worries, but is everything okay?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm the one who suggested we make this a holiday\nparty, but I totally forgot I wasn't prepared..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "Y-yes?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Happy holidays!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I figured today is the best time to give you your\npresent since we're celebrating and all!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Heh, I kinda had to rush a little bit with the\nwrapping 'cause I wasn't ready. Anyway, it's\nnothing special, but I hope you like it!",
+            "choice_data_list": [
+                "Thank you! Can I open it?",
+                "Thank you! Can I open it?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I unwrap my present from Bamboo Memory and\nfind a super soft hand towel inside!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's beautifully decorated with an intricate\nbamboo pattern, and the kanji character for\n\"dreams\" is embroidered across one of the edges."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I've told you my dad does kendo, right? Well, he\nand I both really love this brand! Their towels are\ndurable, soft, and super handy!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You can use it to mop up sweat, or whatever you\nwant, honestly. Here's hoping you get a lot of use\nout of it!",
+            "choice_data_list": [
+                "Thank you! I really like the embroidery."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Actually, I did that part myself!",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It wasn't easy, but I had some help from Ardan!\nStill, I'm glad it turned out okay!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I thought it might be a bit boring if I just gave you\na towel, so I wanted to give it my own special\ntouch!",
+            "choice_data_list": [
+                "Thanks, Bamboo!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "An attack of emotion sweeps over me, and I\nworry I might have to put the hand towel to use\nright away!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe! I'm so glad you like it! The look on your\nface right now is the best present I could ask for!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! Now that we've exchanged presents,\nlet's get this party started! Thanks for all your\nhard work and happy holidays!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, Bamboo Memory and I reward\nourselves for our hard work by enjoying the\nholidays with some cake, all the while chatting\nabout the times we've shared."
+        },
+        {
+            "name": "Monologue",
+            "text": "At the same time, I promise myself that I'll\ntreasure my new dream-embroidered hand towel."
+        }
+    ]
+}

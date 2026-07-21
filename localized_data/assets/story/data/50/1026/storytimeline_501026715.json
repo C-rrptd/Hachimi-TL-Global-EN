@@ -1,0 +1,97 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you for the training session. I will now\nreturn to the dormitory, as schedu—"
+        },
+        {
+            "text": "<i>Wham!</i>"
+        },
+        {
+            "name": "???",
+            "text": "Gyaaah!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rear collision confirmed. Rice's head has made\ncontact with my back.",
+            "choice_data_list": [
+                "No one's hurt... right?",
+                "No one's hurt... right?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh no! I'm so sorry for bumping into you!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ohhh no... I thought I wouldn't cause trouble for\nanyone if I ran at night..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No, there's no trouble—"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, uh... I'm really, really, sorry!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have failed to convey my intent. It seems that\nmy own mistake has created a bug."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, I propose a change to my scheduled\nreturn home. Requesting permission to follow\nafter Rice Shower and correct this\nmisunderstanding.",
+            "choice_data_list": [
+                "Okay.",
+                "I'll go tell her. You should rest.",
+                "I'll go tell her. You should rest."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer, I propose a change to my scheduled\nreturn home. Requesting permission to follow\nafter Rice and correct this misunderstanding.",
+            "choice_data_list": [
+                "Okay.",
+                "I'll go tell her. You should rest.",
+                "I'll go tell her. You should rest."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thank you very much. Commencing bug fix."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant... Pant...</i> Rice... please wait."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Bourbon! No, I don't want to cause you any more\ntrouble! You need to hurry and get away from me\nbefore..."
+        },
+        {
+            "text": "The chase carries on until both of them are\ncompletely out of energy."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I understand. Thank you for taking my physical\ncondition into account."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Please give this sports drink to Rice."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Earlier, I detected perspiration on her forehead\nand dry lips. She requires urgent rehydration."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Rice is someone I care about. I don't want to see\nher push herself to the point of collapse."
+        },
+        {
+            "text": "Afterward, I catch up to Rice Shower on my\nbicycle and clear up the misunderstanding while\ngiving her Boubon's drink."
+        }
+    ]
+}

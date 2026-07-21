@@ -1,0 +1,45 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital and I are hashing out our plans for\nthe future, when..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ooogh... Ouch...",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Y-yeah, I'm fine! My head just hurts a little."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Sigh...</i> I've got the <i>worst</i> writer's block right now.\nLike, I can't decide what to do for my next fic at\nall."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "You see, I happened across two Umamusume at\nthe infirmary earlier..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "The older student carried the younger one in her\narms! And they were alone in the infirmary, just\nthe two of them—the younger one whimpering\nweakly while the other one comforted her..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But as soon as I begin thinking of the many ways\nthat scene could develop I—"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Gyah... owwwww! There it goes again, the second\nI start daydreaming..."
+        },
+        {
+            "name": "Monologue",
+            "text": "So she's got headaches from... an overworked\nimagination? I have no idea how that works, but\nit ends up bothering her for the rest of the day."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "13:12／昼休み、気合い入れなきゃ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, in the central plaza..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, looks like I've got a message from my agent.\nLet's see... they need me for some detail shots\nafter this, huh?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Urk, but I have training then! Why do these\nscheduling conflicts keep happening...",
+            "choice_data_list": [
+                "You seem pretty busy. Everything okay?",
+                "You seem pretty busy. Everything okay?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, it's just you. Thanks for the concern, but I was\nthe one who decided to take all this on, so it's\nfine."
+        },
+        {
+            "name": "Gold City",
+            "text": "My race is coming up soon, though, so I'm gonna\nhave a lot on my plate...",
+            "choice_data_list": [
+                "Focus on what's at hand for now!",
+                "Would you like an energy drink?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...Yeah, you're right. I don't have time to be\nindecisive."
+        },
+        {
+            "name": "Gold City",
+            "text": "I've just gotta get things done one at a time...\nOkay, I've got this. Thanks for the tip."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? For real? You're a lifesaver. Showing up to a\nshoot like a zombie doesn't exactly scream\nprofessional."
+        },
+        {
+            "name": "Gold City",
+            "text": "Nice, I'm ready to take on the world now. Thanks\nagain for the drink. I'll do my best at the shoot\nand my race."
+        }
+    ]
+}

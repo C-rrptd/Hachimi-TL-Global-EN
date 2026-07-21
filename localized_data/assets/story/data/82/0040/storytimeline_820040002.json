@@ -1,0 +1,209 @@
+{
+    "title": "Success Starts with Reps!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day has finally come for me to give my\npresentation in front of the other trainers."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Time for our regular trainers' meeting. I'm looking\nforward to your presentation,\n<username>!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I may not be as good as the veteran trainers, but\nI've learned how to put in hard work through all\nmy strength training, and I'm determined to do\nmy best!",
+            "choice_data_list": [
+                "(I've got this!)"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So... how did it go?",
+            "choice_data_list": [
+                "It went over great!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Really?! That's fantastic! What a relief to hear\nthat.",
+            "choice_data_list": [
+                "I invited you out today in order to give you my\nthanks.",
+                "I invited you out today in order to give you my\nthanks."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's not necessary! I didn't do anything special."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I basically just gave you unsolicited advice out of\nnowhere... And all because I saw myself in you.",
+            "choice_data_list": [
+                "You saw yourself in me? How?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Well, it's just... I went through the same thing\nonce..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I've always enjoyed being active, ever since I was\nlittle. That's what got me into working out at first."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Then one day, my aunt told me I was really\nwell-built for running."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm pretty plain and unremarkable for a Mejiro,\nbut then I realized there was still something that\nset me apart too."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "My musculature was my strength, and I was\ndetermined to make it my weapon!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "So, I started working out even harder. However..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "\"I have to lift this much, or else! I... I have to train\nmore!\""
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "One day, I hit a wall and went into a full-blown\npanic. I threw myself headlong into training."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I even started forgoing sleep for the sake of\ntraining. Eventually, everyone stopped me. And\nthen..."
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "I heard from Ardan that you've been exercising\nyourself sick."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's not true! I'm just trying to get stronger so—"
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "You cannot cross a thousand miles in a single\nbound."
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "That goes for anyone, even McQueen and Ardan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...!"
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "Ryan... Recognize the value in every step you\ntake."
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "No matter how small the step you take is, it is still\na step forward."
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "The barbells you've been lifting are heavier than\nthe ones you used last year, no?"
+        },
+        {
+            "name": "Grandma Mejiro",
+            "text": "You have come to personify those very barbells.\nIt's why we expect so much of you. Do not forget\nthat."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "We all tend to focus on making big\ntransformations and gaining huge success."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But what's really important...",
+            "choice_data_list": [
+                "Is the daily progress you make, right?",
+                "Is the daily progress you make, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Right! So long as you do a little every day, there's\nnothing you can't achieve!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's why I really wanted you to realize..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Just how amazing strength training is!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm pretty sure it was strength training that taught\nme the importance of working hard every day,\nnot the other way around, but oh well.",
+            "choice_data_list": [
+                "You're a good presenter.",
+                "You're a good presenter.",
+                "There's nothing like strength training!",
+                "There's nothing like strength training!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm pretty sure it was strength training that taught\nme the importance of working hard every day,\nnot the other way around, but oh well.",
+            "choice_data_list": [
+                "You're a good presenter.",
+                "You're a good presenter.",
+                "There's nothing like strength training!",
+                "There's nothing like strength training!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "What?! Me? A good presenter?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're kidding! That's, like, the last thing I'm\ngood at! I hate standing in front of people and\ntrying to explain ideas.",
+            "choice_data_list": [
+                "I bet you'd be good at strength training\nlectures."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Strength training lectures!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That actually sounds kinda fun... Want to help me\npractice doing presentations, then?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time later, I accompany her for her\npresentation practice and further increase my\nknowledge on working out."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah! I knew you'd understand me, Trainer!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "By the way, I've been thinking up a workout\nroutine just for you.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I put together this routine for you catered to your\nhabits and commonly used muscles, which I\ngleaned from observing your training!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You focused on training your upper body last\ntime, so this routine targets your lower half,\nespecially your thighs and..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She continues waxing poetic over the regimen\nshe's put together for a long, long time."
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "title": "一流の資格",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the tryouts has arrived. Excitement fills the stadium as\ngaggles of trainers swarm in to get a glimpse of the students."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! Everyone, bear witness to how a first-rate racer runs!"
+        },
+        {
+            "name": "Special Week",
+            "text": "It looks like you're in a good mood today, King!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Indeeeed I am! I'm feeling fully recharged and confident in my\npreparations!"
+        },
+        {
+            "name": "King Halo",
+            "text": "By the end of today, every trainer will be fighting over me, for I plan\nto make a bold statement in all 12 races!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whaaat? You're going to run in all 12 races?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Why, of course. The more races I participate in, the higher my\nchances of getting scouted become!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hmm, wait a second... I thought you get disqualified if you sign up for\nmore than one race."
+        },
+        {
+            "name": "King Halo",
+            "text": "...What?"
+        },
+        {
+            "name": "King Halo",
+            "text": "N-no one told me that!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Well, she certainly has made an impression already."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Given her mother's background as a legendary first-rate racer, she\ncertainly has a lot to live up to. Let's see if she inherited those skills!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the tryouts begin."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "The 1600-meter turf race has officially kicked off! What kind of\nperformance will we see today from our contestants?"
+        },
+        {
+            "name": "Caster",
+            "text": "The race is off to a bit of a slower start. The front is starting to bunch\nup!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant, pant, pant...</i>"
+        },
+        {
+            "name": "Caster",
+            "text": "King Halo has made her way to the middle of the pack! But she's in a\ntough spot—the path forward is blocked!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Tch... You all have some real guts getting in my way!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Hmm. Looks like King Halo keeps trying to advance, but she can't\nfind a good position."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "She's always going on about first-rate this, first-rate that, but it\ndoesn't look like she has the substance to back up her words."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "If anything, it seems like her pride and desperation are bringing her\ndown."
+        },
+        {
+            "name": "Caster",
+            "text": "Is there something wrong with King Halo? She still hasn't made her\nmove yet! The leaders have already broken off into a sprint!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wait, what?! They're going already?!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Aghhh! What a waste of time going at this pace!"
+        },
+        {
+            "name": "Caster",
+            "text": "King Halo has finally kicked into high gear! What a spectacular\ndisplay of power! The gap is rapidly closing!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course... It's because I'm the kiiing!"
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Dang, she's so fast! She caught up to the front in no time! Maybe she\nreally does have the skills!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The last spurt of the race is a demonstration of true power."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the leading runner being a whole furlong ahead, King Halo's\nintimidating determination sends a strong message across the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her technique, albeit a bit rough around the edges, shows the\npotential to stand face-to-face with top-notch racers."
+        },
+        {
+            "name": "Caster",
+            "text": "But it's too little, too late! The leading runner is across the line! King\nHalo finishes in second place!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant, pant...</i> Ugh.",
+            "choice_data_list": [
+                "That was an amazing last spurt!",
+                "That was an amazing last spurt!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course. Who do you think I am? But such results aren't befitting of\nme. How could I possibly finish second..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hang on. You're the trainer from earlier, aren't you? Did you come to\nscout me?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Hehe, it looks like the first wave of recruiters has already arrived!\nVery well, I'll give you the honor of marketing yourself to me!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm all ears—tell me about yourself. What kind of trainer are you?",
+            "choice_data_list": [
+                "I want to help you win the big races!",
+                "I want to help you win the big races!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "...No."
+        },
+        {
+            "name": "King Halo",
+            "text": "I don't care to know what you'd do for me, I want to know who <i>you</i>\nare as a person."
+        },
+        {
+            "name": "King Halo",
+            "text": "But given how little substance your answer contains, I'm going to have\nto pass."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm only looking for first-rate trainers. I won't settle for anyone less.\nRight now, you just don't have the qualities I require.",
+            "choice_data_list": [
+                "I might be a new trainer now, but I'm going to\nbecome first-rate one day!",
+                "I might be a new trainer now, but I'm going to\nbecome first-rate one day!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "One day? And when is that exactly?"
+        },
+        {
+            "name": "King Halo",
+            "text": "For you trainers, you can keep cycling through different racers until\none of them gives you the results to call yourself \"first-rate\"."
+        },
+        {
+            "name": "King Halo",
+            "text": "But it's different for us. The actual racers. We only have one chance\nto prove ourselves on the track."
+        },
+        {
+            "name": "Cat-eyed Umamusume",
+            "text": "Hey, King! Sorry to interrupt, but your phone is ringing..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, is that so? Thanks for letting me know. I'll be right there."
+        },
+        {
+            "name": "King Halo",
+            "text": "Anyway, I'm going to take my leave now. Goodbye."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Looks like you just got dumped. Don't let it get you down though!\nThat princess is only going to make it to G3 or G2 races at best."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Yup, she's just a small fish in the pond who's in for a rude awakening.\nThe only thing she's got going for her is her pride. It's better to not\nwaste time on her."
+        },
+        {
+            "name": "Monologue",
+            "text": "The trainers around me try to cheer me up."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't get King Halo's words about the qualities of a first-rate\ntrainer out of my mind."
+        }
+    ]
+}

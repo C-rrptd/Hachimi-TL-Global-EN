@@ -1,0 +1,85 @@
+{
+    "title": "“皇帝”の激励",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s race is drawing near. I'm\nsure we've done enough running in preparation,\nbut I can't quite shake off my anxieties..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I fret about whether our training has been\nenough to win, a certain racer happens by..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's quite a stern look on your face. Is\nsomething the matter?",
+            "choice_data_list": [
+                "I'm just feeling nervous, that's all..."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Haha. I can deeply relate to that state of mind."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "However, it would be best not to display your\nunease so freely, lest it make your trainee anxious\nas well."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If you ask me, you two should have confidence in\nyourselves. The number and quality of your runs\nare second to none."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Good results will surely follow, so be calm in your\nheart and rest assured. Of course, I suppose this is\nmuch easier said than done."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "There must be more I can do to reassure you...\nAh, I have just the idea. Tell me how you are\npreparing for your race.",
+            "choice_data_list": [
+                "We're focusing on moderate speed training.",
+                "We're training hard to prepare for the worst\ncase scenario."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Focusing on speed while preserving energy... I\nsee. Yes, I expected as much. That's an orthodox\nand logical approach."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "The path you have chosen is well-traveled, which,\nI suppose, is precisely why you feel so uneasy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But worry not. Staying on that path will\nundoubtedly lead to glory."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I believe you two have the strength to follow the\nroad you've chosen. There is no need to doubt\nyourselves."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf's words ease my anxieties a little,\nand I feel confidence welling up within me once\nmore."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm, I see. So you're allaying those fears of yours\nby training intensely and preparing for any and all\npossibilities."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Though it may not be the most orthodox\napproach, I can see how it might be the best one\nfor your current situation."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Once you lose yourself to the thrill of the run, all\nyour fears, doubts, and apprehensions will be left\nbehind in the dust like forgotten sighs."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, I believe you have made the right choice. Go\nforth and guide your racer with confidence."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf's words ease my anxieties a little,\nand I feel confidence welling up within me once\nmore."
+        }
+    ]
+}

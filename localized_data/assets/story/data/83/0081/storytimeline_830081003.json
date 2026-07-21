@@ -1,0 +1,129 @@
+{
+    "title": "おかわりトレーニング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Whoa, whoa! Use your common sense! When it\ncomes down to it, racing's all about stamina."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "\"C-common sense\"?! Never did I imagine I'd hear\nthose words passing through <i>your</i> lips!",
+            "choice_data_list": [
+                "I-is everything all right?",
+                "I-is everything all right?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, you see, we wanted to do some extra\ntraining. But..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "How 'bout this? We get this trainer to decide\nwhich of our three training plans we should go\nwith!"
+        },
+        {
+            "name": "Monologue",
+            "text": "So they want me to decide... It's true that I have\nsome time, and this <i>could</i> be helpful to\n<chrname> in the long run.",
+            "choice_data_list": [
+                "What are the three candidates?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What better way to conquer the seven seas than\nby running laps? Who needs a treasure map when\nyour stamina will see you to the goal?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "No, it's gotta be a speed run! When you floor it\nand your engines are running at full speed, you\nget this maaaajor energy boost, like\nVROOOOOM!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I propose an all-you-can-eat marathon!\nPost-training meals are just as important as the\ntraining itself! Heck, I think eating <i>ought</i> to count\nas training!",
+            "choice_data_list": [
+                "Running laps <i>does</i> help boost stamina.",
+                "Running laps <i>does</i> help boost stamina.",
+                "A speed run sounds like a great idea!",
+                "...An all-you-can-eat <i>would</i>make a nice break."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I propose an all-you-can-eat marathon!\nPost-training meals are just as important as the\ntraining itself! Heck, I think eating <i>ought</i> to count\nas training!",
+            "choice_data_list": [
+                "Running laps <i>does</i> help boost stamina.",
+                "Running laps <i>does</i> help boost stamina.",
+                "A speed run sounds like a great idea!",
+                "...An all-you-can-eat <i>would</i>make a nice break."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, you have a point. However... Do keep in\nmind that the suggestion is coming from someone\nwho regularly ignores the bounds of common\nsense."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I-I'm sure it'll be fine! She doesn't look like she's\njoking or playing around with us. Maybe this is\nthe secret behind Gold Ship's strength!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Um. Where are we?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Reliable sources say there are UMA sightings on\nthis mountain. You know, unidentified mysterious\nanimals! Let's catch us one and make some\nka-ching ka-ching!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh for goodness' sake!"
+        },
+        {
+            "name": "Monologue",
+            "text": "What was supposed to be some laps around a\nracecourse becomes a trek up a mountain.\nHowever, it <i>did</i> serve as a kind of training."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Woo! You made the right choice! Now, let's\ndecide the distance with rock-paper-scissors!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...With so many people here, wouldn't it make\nmore sense to cast a vote?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins the impromptu speed race, which\nquickly turns into an impressive dead heat\nbetween the contenders."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ehehe, this really gets your blood pumping. I feel\nso warm and toasty!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Right?! Nothing like lighting a fire under yourself\nto get you working up a sweat! How 'bout we run\nthe Derby length next?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The team spends the rest of the afternoon racing\nto their hearts' content."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yay! It's a good thing I saved these\nall-you-can-eat dessert vouchers!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, you have quite the pile of them there."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I... I suppose if that is what the majority has\ndecided, it would be impolite of me <i>not</i> to\nparticipate."
+        },
+        {
+            "name": "Spe & McQueen",
+            "text": "Mmm! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The team takes a breather and deepens their\nbond over a smorgasbord of delightful sweets!"
+        }
+    ]
+}

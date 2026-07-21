@@ -1,0 +1,187 @@
+{
+    "title": "はっけよい、お弁当！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on my way home with Hishi Akebono after a\nday out when the topic of the ceramics workshop\nwe attended comes up."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I booked a second session for us! I only got to\nfinish the design last time, but this time, I'm going\nto actually make the pot!",
+            "choice_data_list": [
+                "You've got this for sure!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! Ehehe! I wonder what kind of chanko I\nshould make in it when it's done? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's our second lesson and, after learning the\nbasics, Hishi Akebono gets started on the pottery\nwheel. She messes up before long though, and\nrepeats the same mistakes over and over."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "<i>Sigh...</i> Break time!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Turning the clay is a lot harder than I thought. It\nlooked easy, but getting the pressure and\nmotions right is super tricky!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Still, it's shaping up better than when I first\nstarted. I bet the more I practice, the closer I'll\nget to creating my perfect pot!",
+            "choice_data_list": [
+                "You don't let anything get you down, huh,\nAkebono?",
+                "You don't let anything get you down, huh,\nAkebono?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hm? What's there to be down about? Practice\nmakes perfect, and I'm getting better and better\nthe more I try! I don't have time to get upset!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, break time's over! Time to get back to\nwork!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We don't get as far as firing Hishi Akebono's pot,\nso that'll have to wait until next time. The\nfollowing day..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Please, lend me your aid!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh dear, what's wrong? I'll do whatever I can to\nhelp!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Really?! Thank you! I've got a crisis situation on\nmy hands!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I... I have to prepare a lunch in time for\ntomorrow's field trip!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Field trip? I didn't know there was a field trip\ntomorrow."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "There is! Not for us, but you see, I have a friend\nwhose kid..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I see... So the parents are too busy... We've got to\nget that packed lunch prepped!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "As an ally of justice, I cannot simply stand by and\ndo nothing! But I'm terrible at cooking, so there's\nno way I can put a decent lunch together!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You just leave this to me, Biko! I'll teach you\neverything you need to know!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oho! I owe you my very life, Bono!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Aaah! I burned the eggs again! And the salmon's\ncompletely disintegrated!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's okay! Just cut off the burnt bits and mix the\nrest in with the rice!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Gah! My hand slipped and I dumped a heap of\nsugar onto the meat!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Prepping the meat with sugar helps tenderize it,\nso you're doing great! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono helps and reassures Biko Pegasus\nevery step along the way."
+        },
+        {
+            "name": "Monologue",
+            "text": "The food she makes is perfectly fine, but after\nmaking so many mistakes in a row, Biko Pegasus\nis starting to look a little glum."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Guh! This is no easy foe! My apologies, I'm very\nbad at this!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I think you're doing fine! ☆ We had to make\nchanges to a few of our dishes, but they still came\nout yummy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "But if I keep making so many mistakes, I doubt I'll\nbe able to pull this off tomorrow... At this rate,\nmy lunch will be terrible!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'll be okay, don't worry! We still have time,\nand besides, everyone makes mistakes when they\ntry something new.",
+            "choice_data_list": [
+                "Did you used to make mistakes too?",
+                "You had to practice a lot too, huh?",
+                "You had to practice a lot too, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "You'll be okay, don't worry! We still have time,\nand besides, everyone makes mistakes when they\ntry something new.",
+            "choice_data_list": [
+                "Did you used to make mistakes too?",
+                "You had to practice a lot too, huh?",
+                "You had to practice a lot too, huh?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! I messed up a lot before I was finally\nable to do things right."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I only managed to get this far because I never\ngave up! You've got to keep it up too, Biko! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I get it now! It's the same as being an ally of\njustice... You mustn't give up! YES! I'm gonna\nkeep practicing hard!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah! You've got this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Apparently, the next morning, Biko Pegasus puts\nthe packed lunch together without issue. And so,\nthe crisis is solved and I come away knowing\nwhere Hishi Akebono's resilience and\ndetermination come from."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I did! I practiced more times than I could even\ncount! And when I was a kid, I messed up way\nmore times than I got it right."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "But I kept trying because I wanted to eat tasty\nfood, and I knew that would be the prize waiting\nfor me at the end of my grueling journey! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Indeed... Some foes cannot easily be bested. But\nit is a hero's duty to stand against them in bitter\nbattle again and again until they are beaten!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That's exactly right! Let's keep it up! I'll give you\nall the help you need! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear that with Hishi Akebono's help, Biko\nPegasus manages to pack the lunch without issue.\nThe crisis is resolved, and I come away having\nlearned the power of resilience and\ndetermination."
+        }
+    ]
+}

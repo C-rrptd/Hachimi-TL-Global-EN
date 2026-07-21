@@ -1,0 +1,45 @@
+{
+    "title": "CBC賞にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Huff... Huff...</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Hah... hah!</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "One two, one two... That's more like it!",
+            "choice_data_list": [
+                "Why don't you take a breather?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No need! I have steeled myself for this!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm still in the running!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm at the midpoint of the 3,600-meter finish line!",
+            "choice_data_list": [
+                "Th-that's right!",
+                "Th-that's right!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll win the CBC Sho the same way I won the\nHakodate Sprint Stakes!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "One two, one two!"
+        }
+    ]
+}

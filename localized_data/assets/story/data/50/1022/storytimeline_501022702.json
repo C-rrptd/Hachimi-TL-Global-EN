@@ -1,0 +1,229 @@
+{
+    "title": "こういうの,ロマンでしょう？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "\"Resolve a Real-Life Riddle: The Mysterious Tiara\nand the Manor of the Phantom Thief...\" What\ncould this billboard be advertising? It looks\namazing!",
+            "choice_data_list": [
+                "Want to go?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Absolutely! Having a whole manor to play the\ngame... Hehe, my heart's thumping already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before the game starts, we're given a full\nexplanation by the master of the manor.\nApparently, a phantom pilferer has infiltrated the\nbuilding."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So essentially, this thief has adopted the guise of\na servant and, in order to win, we have to identify\nthem!",
+            "choice_data_list": [
+                "And if they steal the treasure, we lose.",
+                "And if they steal the treasure, we lose."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "In that case... you there, the maid in the back!\nMay I ask you a few questions?",
+            "choice_data_list": [
+                "You're sure not wasting any time!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, the situation is changing every minute. And\nI'd like to get the investigation portion done\nwhile everybody's here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion has always been one to leap into\naction. It's probably best that I lend her my full\nsupport so we can pinpoint the culprit!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "This detached building is pretty shabby, isn't it?\nBut there might be a hint of some sort hidden in a\nplace like this where nobody would think to\nlook..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, my. This cloak... Its design seems way more\ncontemporary than the armor it adorns! Maybe it\nbelongs to our thief?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah! Just now, something's glistening above us!\nTrainer, would you mind hoisting me up? I'd like\nto investigate further.",
+            "choice_data_list": [
+                "Sure, but one of us might get hurt if I lose my\ngrip."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I see... Very well. Captain, would you mind lifting\nTrainer?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Security Captain",
+            "text": "But of course! Ahem, pardon me. Hup!",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I wonder what kind of evidence awaits us in this\ncourtyard..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Goodness! Good day, fellow detectives! ♪ Have\nyou found anything?"
+        },
+        {
+            "name": "Participant A",
+            "text": "Actually, we were just gathering up all the clues\nwe've got. And that's when we found..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "An abandoned shoe and some broken lipstick... I\nsee!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm. Have we already been everywhere there is to\ngo?",
+            "choice_data_list": [
+                "We've been to every room on the manor map.",
+                "We've been to every room on the manor map."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow! You've been making a note of all the places\nwe found clues! Cheers, Trainer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Which means... that should be the last of the\nmaterial evidence. I can feel the truth\napproaching..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her having such a good time puts me at\nease. I go to ask if there's anything else I can help\nher with, but the moment I open my mouth..."
+        },
+        {
+            "name": "Master of the Manor",
+            "text": "Nwhaaa?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my, that voice just now..."
+        },
+        {
+            "name": "Master of the Manor",
+            "text": "The t-tiara... It's vanished from the safe!"
+        },
+        {
+            "name": "Participant A",
+            "text": "What?! Wait... Nobody's said \"game over\" yet, so\nthat must mean..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The thief is still inside the manor! Perhaps the\ntiara is too large for them to simply sneak away\nwith."
+        },
+        {
+            "name": "Participant B",
+            "text": "Eep! So it's not just the thief we have to find, but\nthe hidden tiara too?"
+        },
+        {
+            "name": "Participant A",
+            "text": "Okay. If it's come to this, let's split up and search!\nThe thief and the tiara are both inside the manor!",
+            "choice_data_list": [
+                "We'll search too!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Okay, now's our chance!",
+            "choice_data_list": [
+                "Oh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Trainer, can you quietly come with me? I think\nthis is our chance to catch the thief. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If we take this bookcase, and... There we go."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thunk! Rumble, rumble, rumble...</i>"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I knew it—a hidden room. ♪",
+            "choice_data_list": [
+                "N-no way!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Actually, secret passages hidden behind\nbookcases are pretty common. You know, as\nescape routes for VIPs!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And also, in circumstances such as these where\neverybody's running about in a panic..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "They provide an ideal means of quietly escaping\nwith stolen tiaras... You catch my drift? ♪"
+        },
+        {
+            "name": "Maid",
+            "text": "Huh?! What are you doing here?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ha! I had my suspicions you were the thief. For\none thing, your toes always seemed to be pointed\ntoward the safe.",
+            "choice_data_list": [
+                "What does that tell you?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Well, people have a tendency to point their toes\ntowards the object of their attention. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "But I'm sure you're still confused! After all, the\npuzzle has yet to be solved, yet we're still here!\nWell, it's all thanks to Operation Ambush!",
+            "choice_data_list": [
+                "I never should have doubted you!",
+                "I wonder if this is allowed..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. It's an honor to receive such praise."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Aaand it was also pretty thrilling to uncover\nsomeone's secret scheme again. It's been a while,\nyou know. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't help being impressed listening to her talk\nas if this were an ordinary matter. I come away\nfrom the event with new respect for Fine Motion's\nsharp mind."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahaha, it might not be. The maid was certainly\nquite shocked."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Still... I believe they say that in times of\nemergency, one should be flexible and\nunhindered by common sense or custom."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Besides, we didn't do anything that would trouble\nthe other participants... right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fine Motion flashes a knowing smile. Unsure how\nto interpret her expression, I have no choice but\nto nod along."
+        }
+    ]
+}

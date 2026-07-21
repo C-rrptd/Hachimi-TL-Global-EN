@@ -1,0 +1,163 @@
+{
+    "title": "ふたり、だからこそ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Students from the school Air Groove's mother\nruns are attending Tracen's open house event\ntoday, and I've been tasked with helping out."
+        },
+        {
+            "name": "Children",
+            "text": "Wow, this place is amazing! It's so big! The turf is\nso green!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Please settle down, everyone! And watch your\nsteps! We don't want any of you taking a tumble!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Excuse me, Trainer! Please keep an eye on the\nchildren so nothing goes awry during the trial\nlesson.",
+            "choice_data_list": [
+                "I'm on it!",
+                "I'm on it!"
+            ]
+        },
+        {
+            "name": "Tracen Academy Instructor",
+            "text": "...And it's important to replenish your body's\nenergy after a race by eating carbohydrates.\nBanana and rice balls are good options for—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Brrriiing!</i>"
+        },
+        {
+            "name": "Children",
+            "text": "Aaaah!\nWhat's happening?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "A-an alarm?!",
+            "choice_data_list": [
+                "It's the fire alarm!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hello, security? I need you to confirm the\nsituation as soon as—"
+        },
+        {
+            "name": "Children",
+            "text": "Hey, what was that big sound?!\nI know! It was a huge fire blowing up and going\n<i>bwoom!</i>"
+        },
+        {
+            "name": "Children",
+            "text": "Huh?! You mean there's a fire?! This is bad!\nWe need to get away! Run, everyone!\nUgh, I'm scared... <i>Sob, sob...</i>",
+            "choice_data_list": [
+                "Everyone, please remain quie—"
+            ]
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "One, two, three, eyes on me! ☆ It's moments like\nthese when you need to keep calm! Remain united\nin spirit, and don't stray from the group."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "First, breathe deeply and release the tension from\nyour shoulders! Copy me now. Let's sway baaack\nand fooorth. Baaack and fooorth."
+        },
+        {
+            "name": "Children",
+            "text": "B-baaack... and fooorth..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Yes, I can hear you. I see... So it was the alarm\nfrom the kitchen? We'll start evacuating from this\narea just to be safe, then."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Okay, everyone! We're going outside now!",
+            "choice_data_list": [
+                "Let's file out starting from those closest to the\nhallway."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "This way! We're following a route that takes us as\nfar from the kitchen as possible!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Walk briskly, but no running! Mind the distance\nbetween yourself and those around you! One,\ntwo! One, two!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove takes the lead as soon as we start to\nevacuate. Conversely, her mother watches over\nthe children from the rear."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... It's no good. This door is locked."
+        },
+        {
+            "name": "Children",
+            "text": "What?! Does that mean we can't get out?\nNooo! Let me out!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Oh, really? But isn't this actually kind of fun? ♪\nIt's like we're explorers in a maze, searching for\nthe exit!"
+        },
+        {
+            "name": "Children",
+            "text": "We're explorers? Ooh, okay! Let's look for the\nexit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Air Groove and her mother working in\nperfect harmony, we successfully evacuate the\nbuilding without incident."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It appears that all the children are safely on their\nway home. ...I'm truly glad that it was only an\nalarm malfunction in the end, though."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Who could have imagined that their trial lesson\nwould become an evacuation drill?"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "All's well that ends well! We were able to restart\nthe lesson once things calmed down, so I'm sure\nthe kids had a good time in the end!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "It was all thanks to your assistance, Mother.\nAnd... you did well too, Trainer.",
+            "choice_data_list": [
+                "No, I think it was your perfect teamwork that\nsaved the day.",
+                "No, I think it was your perfect teamwork that\nsaved the day."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The fact of the matter is, if those two weren't\nthere, panic and chaos would've ensued, and the\nevacuation wouldn't have been as smooth."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Hehe. We <i>were</i> in perfect sync, weren't we? We\nsure make a dynamic duo! ♪"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "When we support one another, we help\naccentuate the other's strong points! The two of\nus can achieve anything as long as we work\ntogether."
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "I mean, we're the mother-daughter dream team!\nRight, Air Groove?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...M-Mother! I'm honored to hear you say so!"
+        },
+        {
+            "name": "Air Groove's Mother",
+            "text": "Come now, you're still talking like that?! Well,\nwhatever. That's just who you are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, I got to witness the unconventional yet\nwonderful relationship between Air Groove and\nher mother."
+        }
+    ]
+}

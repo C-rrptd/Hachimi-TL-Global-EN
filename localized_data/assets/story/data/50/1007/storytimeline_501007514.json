@@ -1,0 +1,247 @@
+{
+    "title": "ゴルシ流デート",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I happen to bump into Gold Ship while walking\naround the academy."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Grr! Man, I'm sooo mad!",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "\"What's wrong,\" you ask? What isn't?! It all\nstarted with Jordan..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Dating Hot Spots for You and Your Boo ☆</i>? Why\nwould you of all people need to read something\nlike that?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Um, excuse you. You are <i>the</i> last person I wanna\nhear that from."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nuh-uh, excuse <i>you!</i> I can totally get a date!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No chance. Like, I'd even bet my new polish on it."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Them's fightin' words, sister! I could go on the\nperfect date if I put my mind to it!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You've got nothing better to do, right, Trainer?\nCome on, we're going out, right now!",
+            "choice_data_list": [
+                "Wait, <i>right now</i> right now?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yes! And I'm gonna rub how easy going on a date\nis right in Jordan's stupid face!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I manage to get another word in, she\ndrags me out by the collar..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "First, set the mood by shopping in a fancy part of\ntown! ♪"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...is what the magazine says. So, here we are."
+        },
+        {
+            "name": "Monologue",
+            "text": "For the fancy part of town, this place looks a\nbit... dilapidated."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well, there's gotta be something fun around\nhere... Oh!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Look over there, Trainer! Isn't that awesome?!",
+            "choice_data_list": [
+                "What are we looking at?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "At that super energetic shrimp at the fishmonger's\nover there! It looks like it's about to leap out of\nthe tank any second!",
+            "choice_data_list": [
+                "O-oh, right...",
+                "O-oh, right..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that's one way to set <i>a</i> mood, all right. Just\nwhat in the world will be in store for me next?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Take it easy at a nice cafe once you're all\nshopped out. ♪ Now that's advice I like!",
+            "choice_data_list": [
+                "You realize this is a ramen shop, right?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Yep! What's the problem? Ramen is pretty much a\ndrink, anyway. Ipso facto, a ramen shop <i>is</i> a cafe!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "One order of pork ramen with firm noodles,\nbarista man!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My rather unique \"date\" with the peppy Gold\nShip continues full steam ahead."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "\"Go on a moonlit walk in the park to end the\nnight on the perfect note. ♪\""
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Forget the walk! Let's up the ante with some\nmoonlit soccer! Let's gooo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Transcendent Pandemonium Kick! Followed by a\nMental Break Shot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Awww yeah!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "See how the ball went down the slide perfectly?!\nThis match is mine!",
+            "choice_data_list": [
+                "(No way a rule like that exists...)",
+                "(No way a rule like that exists...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been several hours since we started our\n\"date,\" but I'm still not sure that's the right label\nfor whatever is going on..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whew... I'm spent. So, what now?",
+            "choice_data_list": [
+                "I'll go buy us some drinks.",
+                "Overtime! I won't quit until I win!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You read my mind! Get me a cola, hold the\ncarbonation."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aaah... Today was fun, not gonna lie.",
+            "choice_data_list": [
+                "I agree.",
+                "I agree."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Setting the \"date\" part aside, I really did enjoy\nour time together."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Full disclosure, I've been taking pics all day as\nmementos. See? Here's the shrimp... and our\nramen... and our soccer match."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehe! I wonder what Jordan'll say tomorrow when\nI show her these beauties?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I have a feeling she won't consider our day an\nactual date."
+        },
+        {
+            "name": "Monologue",
+            "text": "Put another way, Gold Ship and I might be the\nonly ones who can understand how much fun we\nhad today."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, by the way, I'll be sure to send you the 120\ncontinuous burst shots I took of the shrimp later."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "They're preeetty awesome shots, if I say so\nmyself. I can't hog 'em all to myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sure enough, my phone buzzes well into the night\nas the 120 \"awesome\" shots of the shrimp flood\nmy phone."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, now you're talking! All right, I'm game! You\nkick off this time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I zero in on the ball. Then, I focus all my energy\ninto my leg and... kick!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The ball's stuck in the slide like a glove! I don't\nthink it'll ever come unstuck now!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That was awesome! No way I can beat that! I hate\nto admit it, but you take home the win today,\nTrainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't have a clue what rules Gold Ship's game\nruns on, but I still feel quite pleased to be the\nwinner."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Phew! I had a real blast today. That soccer match\nof ours was the funnest thing of all, though.",
+            "choice_data_list": [
+                "I had fun too.",
+                "I had fun too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I think back on the shrimp at the fishmonger's and\nhow we ended up having a soccer match at a\nplayground, despite being decidedly outside the\nintended age range."
+        },
+        {
+            "name": "Monologue",
+            "text": "Anyone else would surely call us weird, but letting\nloose and just enjoying ourselves is the definition\nof my relationship with Gold Ship."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dates sure are fun. We should do this again. Next\ntime, we can play crimson hellflame soccer."
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod at Gold Ship, and the two of us gaze up at\nthe stars."
+        }
+    ]
+}

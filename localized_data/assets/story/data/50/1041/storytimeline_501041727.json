@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム大成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You were amazing! I cannot put my gratitude into\nwords!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I will now accept this plushie and accompany it\nwith all the sincerity I can muster!",
+            "choice_data_list": [
+                "You don't need to go that far..."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That just won't do! I will have it by my side at\nbedtime, when I eat, and in my training sessions! I\nvow to cherish it, for the two of us will never be\napart!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I will treasure this plushie because you're the one\nwho gave it to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

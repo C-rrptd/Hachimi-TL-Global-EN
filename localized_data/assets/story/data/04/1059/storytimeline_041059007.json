@@ -1,0 +1,324 @@
+{
+    "title": "それは、プレシャス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff...</i> Last one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober is having a productive summer training camp, hitting all\nof her targets with ease."
+        },
+        {
+            "name": "Student A",
+            "text": "Hey hey! Where do you want to start at the festival tonight? I'm kinda\nfeelin' some candied apples!"
+        },
+        {
+            "name": "Student B",
+            "text": "Don't forget about the grilled carrots! Oh man, nighttime can't come\nsoon enough!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone training around us appears to be in high spirits. I suspect\nthat has something to do with the festival that will be taking place\nnearby tonight."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why are you staring at me so much? Is there sand on my face?",
+            "choice_data_list": [
+                "No... It's just that I can't help but feel that\nyou're the same as ever."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What do you mean? Can you just make sure to time my next lap\nproperly?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Why would I be any different? I'm going to go for another lap, so\nplease keep my time."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours after our training ends, I wander into the camp lodge.\nThe halls are eerily quiet, as most have likely made their way over to\nthe festival."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few hours after our training ends, I wander into the camp lodge.\nThe halls are eerily quiet, as most have likely made their way over to\nthe festival."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Trainer? What are you doing here?",
+            "choice_data_list": [
+                "Are you not going to the festival?",
+                "Are you not going to the festival?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I have something to do, and the quiet environment will help me\nconcentrate on it."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hey... By any chance, can you draw landscapes?",
+            "choice_data_list": [
+                "Landscapes? Like for manga?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Not exactly... I'm working on making a paper play based on the\nVeggie Caroline movie."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, no, sorry for not being clear. The thing is... I'm working on making\na paper play based on the Veggie Caroline movie."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The kids aren't able to go see it themselves. They're not at an age\nwhere they can sit still and quiet in a movie theater, you know?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The kids aren't able to go see it themselves. They're not at an age\nwhere they can sit still and quiet in a movie theater, you know?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I thought I could turn it into a paper play that they can enjoy as\nwell."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I've drawn all of the characters, but I'm nowhere near finished with\nthe background landscapes. Even one takes a considerable time to\ndraw."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking back on it, the movie did take place on an abandoned\nisland. The landscapes around here would probably make for some\ngreat references.",
+            "choice_data_list": [
+                "What if you took some pictures for your\nbackgrounds?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Wait, pictures? What do you mean?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We've got access to a coastal area, a forest, and even this inn\nresembles the abandoned lodge from the movie. This should work out\nwell."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suggest cutting out her character illustrations and taking photos of\nthe required landscapes with them, thus creating a paper play with\nreal-life scenery."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Are you really just a trainer? That's a great idea."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer, you might be a genius."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All I'll have to do after this is print the photos out in a larger size and\nhang them up as my backgrounds!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All I'll have to do after this is print the photos out in a larger size and\nhang them up as my backgrounds!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay, I'll have to cut out all the characters, bring them over to the\nbeach, and then take the pictures. Can I actually do it all before\neveryone gets back?",
+            "choice_data_list": [
+                "I'll help out!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I figured you would offer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes, I expected the offer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And you're not the type to give up after I refuse any help. I'm starting\nto understand that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I remember before when you said you would be willing to help me out\nwith anything that was troubling me. I was likely going to ask for your\nhelp directly."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay, let's meet in the common room in five minutes."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's meet in the common area in five minutes, then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We quickly cut out all of the characters, and we have now begun our\nphotography."
+        },
+        {
+            "name": "Monologue",
+            "text": "We quickly cut out all of the characters, and we have now begun our\nphotography."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer, scooch farther right! Stretch your arms out as far as you can,\notherwise you'll be in the picture!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer? Something up with that window? Oh, that's another great\nidea! If we lean them up against it we can take the picture as if they\nare standing in the room!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I feel like we need more realism for this running scene. Trainer, can\nyou do some sprints for me?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, you think we should put them there? Nice idea! It's like the\ncharacters are hiding in the environment. It should be fun to have\nthem try and find them!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll have to wait until tomorrow to take the daytime photos... So that\nmeans this will be our last photo of the night."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll have to wait until tomorrow to take the daytime photos... So that\nmeans this will be our last photo of the night."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Try not to move, Trainer. Three, two, one..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Got it. Okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang, boom!</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Fireworks!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I guess that festival's almost over, then.",
+            "choice_data_list": [
+                "Do you want to go check it out now?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If we went now, all the stalls would surely be closing up shop for the\nnight. I asked Ryan and the others to get me some souvenirs."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I used to go to festivals with Ryan and the other girls quite often back\nin the day."
+        },
+        {
+            "name": "Young Dober",
+            "text": "Wow, there are a lot of people here... Ryan, you better not let go of\nmy hand, okay?"
+        },
+        {
+            "name": "Young Dober",
+            "text": "Oh, they have cotton candy! Ryan, over there. See the cotton candy?\nHey, let's get some!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I would hold their hands and drag them all over the place...",
+            "choice_data_list": [
+                "You all are close, I take it.",
+                "You all are close, I take it."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "My mother was often busy with work, so I would spend a lot of my\ntime playing with the other Mejiro girls."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ryan was the responsible one, and I always felt at ease around her. I\nhave a lot of fond memories of the fun times we had."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So when my sister and brother were born, I decided that I would try to\nbe the same for them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If I can somehow make them feel just as happy and content as I felt\nback then..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "My chances are few and far between now, however, as I spend most\nof my days at the academy and dorms."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "When I do get a chance to see them, I often don't know how to best\ntreat them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I ended up drawing a Veggie Caroline picture last time I was there,\nand they started to beg me to draw more.",
+            "choice_data_list": [
+                "So that's why you were practicing so much.",
+                "So that's why you were practicing so much."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Right. It's something I can do fairly well and share with them. So now\nthis is...",
+            "choice_data_list": [
+                "The paper play is the next big step.",
+                "The paper play is the next big step."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Palmer always brought out the paper play theater when we were\nyounger. Luckily, she still had it around. I had to rely on one of my\nbig sisters one more time.",
+            "choice_data_list": [
+                "You kind of have that big sister look to you as\nwell."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Now just what does that mean? You're just playing around,\nright?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "A big sister look? I've never thought of myself like that... How do I\ngive it off?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't think so at all! But maybe if they like the paper play, then\nthey'll start viewing me as such, even if it's just a little bit..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't feel like a big sister at all, to be honest. But maybe if they like\nthe paper play, then they'll start viewing me as such, even if it's just a\nlittle bit..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Anyway, I do owe you my gratitude. I'll be sure to report back on how\nit goes after I return from my upcoming trip."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You've helped me so much with this, so I feel like I owe you a report\non how it goes after I return from my upcoming trip."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's get back. The fireworks seem like they're wrapping up."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Let's get back. The fireworks seem like they're wrapping up."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "When those two get a little bigger, I would love to be able to bring\nthem along to some festivals as well..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As Mejiro Dober gazes up at the fireworks, she gives a gentle smile. I\ncan tell that she loves and cares for her younger siblings very deeply."
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "title": "All Roads Lead to Gains!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, new trainers and veterans alike have\ngathered to listen to each other's performance\nreports. I've learned quite a lot from the event,\nbut..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Looks like you'll be sharing your progress in the\nnext meeting! I'm excited to see how you've been\ndoing!",
+            "choice_data_list": [
+                "(I have to do a good job!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I do my best to put together an insightful\npresentation..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spend the next few days preparing, but the\ninformation I've gathered seems nowhere near as\nuseful as what the veteran trainers presented.",
+            "choice_data_list": [
+                "(What should I do?)"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hey! Are you doing all right? You look super\nworried about something..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I see. So you're worried about not doing well in\nyour presentation..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "In that case, I've got just the thing that'll chase all\nyour worries away!",
+            "choice_data_list": [
+                "(Don't tell me...)"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "All you gotta do is get started on some\nstrength training!",
+            "choice_data_list": [
+                "(I knew it!)"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Let's start you off with some dumbbell lifts! Here,\ntry this twenty-kilogram one!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see how strength training will help my\npresentation, but since she seems pretty\nconcerned about me, I decide to give it a try."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get ready to lift the dumbbell, but...",
+            "choice_data_list": [
+                "It's so heavy!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Really?! Sorry, I should've picked a lighter weight\nto start with.",
+            "choice_data_list": [
+                "I don't think this is going to work...",
+                "I don't think this is going to work..."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's okay! From what I can tell, your deltoids still\nhave massive room for growth!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Let's try again, but with five kilograms this time!\nTrust in your delts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the remainder of the day, I focus on training\nmy deltoids by pumping the five-kilo dumbbells."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "All right! Today, let's move up to ten-kilogram\nweights! Listen, can you hear your biceps saying,\n\"We can do this\"?",
+            "choice_data_list": [
+                "I... think so?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And just like that, the weight of my dumbbells\nincreases day by day."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Those pecs are looking good! I think you can\nfinally move up to twenty kilos! You can lift\nfifteen kilos no problem now—you've got this!",
+            "choice_data_list": [
+                "Yeah, I think I can do this!",
+                "Yeah, I think I can do this!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's the spirit! All right, go ahead and lift them\nup!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Amazingly, the twenty-kilo dumbbells that didn't\neven budge when I tried lifting them before rise\never so slightly in the air!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You did it!",
+            "choice_data_list": [
+                "I did!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That's right! You really did it!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "There's nothing you can't do as long as you keep\nbuilding yourself up diligently!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The moment she says that, I suddenly realize that\nif I just work on my performance report slowly and\nsteadily, then maybe, just maybe...",
+            "choice_data_list": [
+                "I'll work on my performance report the same\nway—steadily and without rushing."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "There it is! You said it!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Anything is possible as long as you stick to it!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You know, that's why I suggested working out in\nthe first place. I was hoping it'd help you realize\nthat for yourself."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Anyway, best of luck on your presentation! I'll be\ncheering you on!"
+        }
+    ]
+}

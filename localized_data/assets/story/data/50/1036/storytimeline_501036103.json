@@ -1,0 +1,84 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp has arrived. Air Shakur is\ndetermined to get in tip-top form for the Kikuka\nSho—and for the new future it will bring."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Summer camp is an essential period. The growth I\ncan achieve here will have a direct impact on my\nfuture."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've reorganized our training schedule. I'll make\nchanges as necessary, but this will be the main\nplan.",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...?\nYou seem awfully gung-ho."
+        },
+        {
+            "name": "Monologue",
+            "text": "I really am terrifically excited. I've gone over all\nthe relevant training so much that I know it by\nheart.",
+            "choice_data_list": [
+                "(I'm gonna be useful this time!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way Air Shakur can use her computer\nthe whole time in this blazing heat."
+        },
+        {
+            "name": "Monologue",
+            "text": "I pulled an all-nighter and memorized as much\nimportant data as possible so that I'll be ready\nwhen she has to put the computer away."
+        },
+        {
+            "name": "Monologue",
+            "text": "It took me until the day of the Derby itself to do\nsomething truly helpful, so I want to use this\nsummer camp to improve my own skills as a\ntrainer.",
+            "choice_data_list": [
+                "You can ask me anything.",
+                "You can ask me anything."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's already all decided. I don't need you for\nanything."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah, wait... I guess you can carry my water bottle.",
+            "choice_data_list": [
+                "Sure!",
+                "Sure!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't go burstin' a blood vessel from all the\nexcitement."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Seriously. There's no point in getting excited. At\nall.",
+            "choice_data_list": [
+                "Got it!",
+                "Got it!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, you don't get it."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "It's kinda difficult to tell which one of them is supposed\nto be the trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins our summer camp of blazing\ngrowth."
+        }
+    ]
+}

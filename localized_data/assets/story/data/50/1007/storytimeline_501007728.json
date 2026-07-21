@@ -1,0 +1,34 @@
+{
+    "title": "クレーンゲーム成功！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Mission accomplished! Good job assisting the\nUmamusume prisoners on their grand escape!",
+            "choice_data_list": [
+                "I could've saved more...",
+                "I could've saved more..."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eh, the rest'll be fine. It looks like they're pretty\nhappy living in the clear box."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It's up to us to find a safe home for the freed\nUmamusume... We need to find their Eden too."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "For now, we can turn McQueen or Jordan's room\ninto a temporary Eden for them."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now that that's settled, let's go! Onward, valiant\nsoldiers, to the noble land of Temporary Eden!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That went pretty well!"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "...Tch.",
+            "choice_data_list": [
+                "Headache?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah. I took some painkillers, but they're not\ncuttin' it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, whining about it's not gonna make it heal\nfaster. The rational thing to do is get some\ngaming in and try not to think about it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You really think you're safe right there? I'll\nteach you to underestimate my aim..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Damn, this headache is killing me. I can't\nconcentrate at all."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur's headache keeps bothering her for\nsome time."
+        }
+    ]
+}

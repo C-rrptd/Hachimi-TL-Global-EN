@@ -1,0 +1,239 @@
+{
+    "title": "推し事探訪　～極編～",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After a day out, I accompany Agnes Digital to a\nshopping mall."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Remember how I talked about the release event\ntied to the photo books I bought before? Turns\nout I won! So, we need to prepare.",
+            "choice_data_list": [
+                "What do we need to buy?",
+                "What do we need to buy?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Deodorant.",
+            "choice_data_list": [
+                "For the event?",
+                "For the event?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...Um, don't you get sweaty at these kinds of\nthings?! I know I can't help it, but I get all hot and\nflustered every time!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "And I don't want the people around me getting a\nwhiff of that! Or, heavens forbid, have one of my\noshis smell it!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Then, people will start spreading rumors that Uma\nsimps are stinky!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I wouldn't be able to live with myself!",
+            "choice_data_list": [
+                "I-I see..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "On another point, recently in all these races, I've\nhad lots of opportunities to be near other\nUmamusume."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So I need to be very careful about what\ndeodorant I choose. I'm using unscented right\nnow, but I've been thinking it'd be nice to find\nsomething that kills all smells..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Like something that would get rid of the scent of\nmy shampoo and conditioner as well. I wanna be\ntotally odorless so I can better sense the\nfragrance of my Umas."
+        },
+        {
+            "name": "???",
+            "text": "Totally odorless, huh? Hm. <i>Interesting.</i>"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hyagh! Tachyon?!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heheh, here I am walking around, minding my\nown business, when the most intriguing idea grace\nmy ears—a deodorant that makes you completely\nodorless... Shall I try my hand at it?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In a previous study, I had managed to create a\nliquid with very strong deodorizing properties.\nImproving said solution might produce something\nakin to what you're in search of."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whoaaa... Look at your eyes gleaming with excitement...\nSo wuvely..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "On that note, I'd like to collect some data on you\nwhile you're producing sweat... You don't mind,\ndo you?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Not at all! Have at it!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh... That's a good answer. Well, if\nyou'll excuse me for now..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Sniff, sniff...</i> Hmmm, I see..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hyaaargyahg!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Okay, next I'd like to observe your physical\nreactions and the quantity of sweat produced\nwhile under the conditions in which you would use\ndeodorant."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Huh. It doesn't appear Digital is capable of\nresponding at the moment. Well then, Trainer,\nwhat situation do <i>you</i> think would be most\nappropriate?",
+            "choice_data_list": [
+                "Before and after a race.",
+                "Maybe a place she wants to go to?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Before and after a race, you say? In other words,\na situation that produces both feelings of passion\nand anxiety."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In that case, I know of an environment that can\nreplicate a similar state and assist us in obtaining\ndata a great deal faster than running."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Agnes Tachyon leads us to... an\namusement park roller coaster."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I'm sitting next to Tachyon?! O-oh, be still, my\nbeating heart!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Sh-she's so close... <i>Pant, pant...</i> Oh... m-m-my\nheart! <i>Wheeze...</i>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Your breathing is quite irregular... So tell me,\nhave you begun sweating?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Too... close! Your hair is nearly brushing my\ncheek! Nononono! Touching Umamusume is off\nlimits! But there's nowhere to ruuuuunnngyahhh!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Did you hear it, Trainer? When the coaster\ndropped, Tachyon let out a little gasp!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Her intellectual demeanor slipped for just a split\nsecond! Do you know how rare of a moment that\nwas?! My heart won't stop pounding!",
+            "choice_data_list": [
+                "S-settle down..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! Wonderful job, Digital! That\nheightened state of yours didn't waver for a\nsecond—before, during, or after the ride!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's fascinating how far beyond the norm you are!\nDo you have a limitless supply of endorphins?!\nAHAHAHAHA!",
+            "choice_data_list": [
+                "Are you one to talk?!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Squeal!</i> Oh, Tachyon... You sound like you're\nhaving so much fun!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Indeed... I'm itching to get back and analyze your\nreactions! So, if you don't mind, I'll be off!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I'm... so... happy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I catch Agnes Digital as she falls under a fainting\nspell. It seems the two of them had a really good\ntime. What more could I ask for?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, Agnes Digital comes to me with\na deodorant cream in hand, happily reporting the\nexceptional quality of Agnes Tachyon's work."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A place she wants to go to, hmm? Then let us\nwake her up if you think such a location will\nreplicate the state of excitement that sometimes\novercomes her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hmph... I wasn't expecting this from you, Digital."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I chose it because the cakes are really good. You\ndon't like places like this?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I wouldn't say that. If it is demanded of me, I'll\nsay it all depends on what's on the menu."
+        },
+        {
+            "name": "Monologue",
+            "text": "As soon as the cake and tea we order arrives,\nAgnes Tachyon digs in."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm... Oh my! My entire brain is inundated in\nsweetness!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Mmmm, very nice. An eccentric degree of sugar\ncontent... Very much to my liking."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The cake's bizarre color dampens one's appetite,\nsuppressing the amount of dopamine released.\nPerhaps it's to prevent the overconsumption of\nsugar?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Sigh...</i> Tachyon... you're so precious how you're\nenjoying the cake..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Whoops, I shouldn't get carried away. Digital,\nlet's check your condition."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Face flushed, breathing irregular... Despite the\nrelaxed environment you seem to be in quite the\nstate of excitement. Heh-heh."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Very good. I think have enough data to begin\ncrafting your custom deodorant. Yes... first off,\nI'll need some antibacterial—"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whoooa! Look at Tachyon lost in thought!\nRecord! I must preserve her expression on video!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Digital looks overjoyed as she watches the\nengrossed Agnes Tachyon."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, Agnes Digital comes to me with\na deodorant cream in hand, happily reporting the\nexceptional quality of Agnes Tachyon's work."
+        }
+    ]
+}

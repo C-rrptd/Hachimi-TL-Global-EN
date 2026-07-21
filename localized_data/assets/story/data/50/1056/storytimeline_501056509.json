@@ -1,0 +1,38 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I happen to hear a gloomy voice coming from the\nback of the school building as I'm walking by."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've... reached my limit.",
+            "choice_data_list": [
+                "Wh-what do you mean?",
+                "Wh-what do you mean?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hoho? Hehe... are you in need of\nMati-kan't-get-any-luck-itaru?!"
+        },
+        {
+            "name": "Mati-kan't-get-any-luck-itaru(?)",
+            "text": "You heard that right... I've got a new name. My\nmotivation, my energy, my luck... it's all gone..."
+        },
+        {
+            "name": "Mati-kan't-get-any-luck-itaru(?)",
+            "text": "The great Shiraoki did say, \"The more you run,\nthe more possibilities will come upon you.\" But...\nall this running has only made me all weak and\nfloppy."
+        },
+        {
+            "name": "Mati-kan't-get-any-luck-itaru(?)",
+            "text": "None of my spells or prayers are working. I don't\nknow what to do anymore..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Running back-to-back races recently is taking its\ntoll on her. I'd better adjust her race schedule..."
+        }
+    ]
+}

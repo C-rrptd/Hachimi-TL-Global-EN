@@ -1,0 +1,298 @@
+{
+    "title": "でっけえ花火に、わあっしょい！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been several days since the summer training camp started, and\nwe're making good progress... almost <i>too</i> good."
+        },
+        {
+            "name": "Inari One",
+            "text": "Surprised, Boss? Well, I'm just gettin' warmed up! C'mon, gimme the\nnext exercise already!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Surprised, Boss? Well, I'm just gettin' warmed up! C'mon, gimme the\nnext exercise already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her hard-working attitude is as impressive as ever... But I can't let her\ngo too far. She needs a break.",
+            "choice_data_list": [
+                "I think we should call it a day."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...Oh, right. There's a festival and fireworks tonight! Hehe, I gotta\nshow the locals how we party in Edo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I let out a sigh of relief when Inari One accepts my suggestion without\nprotest. A night of fun with her friends should serve as a good\nrefresher for her.",
+            "choice_data_list": [
+                "Okay, have fun."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hm? Wait, what about you? If I'm free, you should be too, right?",
+            "choice_data_list": [
+                "I just have a few things I want to work on...",
+                "I just have a few things I want to work on..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hm? Wait, what about you? If I'm free, you should be too, right?",
+            "choice_data_list": [
+                "I just have a few things I want to work on...",
+                "I just have a few things I want to work on..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hmmm... Well, that's a problem. I thought I'd be goin' with you, so I\ndidn't invite any of my friends!",
+            "choice_data_list": [
+                "Huh? Really?",
+                "Huh? Really?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hmmm... Well, that's a problem. I thought I'd be goin' with you, so I\ndidn't invite any of my friends!",
+            "choice_data_list": [
+                "Huh? Really?",
+                "Huh? Really?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, but if you're busy with work, I <i>guess</i> I can go by myself...",
+            "choice_data_list": [
+                "I-I'll go too!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, really? Hehe, thanks a lot! Anyway, let's meet up later tonight!"
+        },
+        {
+            "name": "Inari One",
+            "text": "See ya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surely she could have found someone to go with her, even at the last\nminute... But since I already agreed to go, I make my way to the camp\nlodge."
+        },
+        {
+            "name": "Inari One",
+            "text": "(Geez, Boss... you weren't gonna skip <i>another</i> break, were ya?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Geez, Boss... you weren't gonna skip <i>another</i> break, were ya?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, I'm gonna make sure you feel <i>extra</i> relaxed today!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa-ho, get a load of this place! Hnngh! Do ya feel that?! The\npassion?! Now <i>this</i> is a festival!",
+            "choice_data_list": [
+                "Look at all these stalls... You thinking what I'm\nthinking?",
+                "Look at all these stalls... You thinking what I'm\nthinking?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, oooh yeah! Ready for another crime spree, Boss? Let's show\nthese festival games what we're made of!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha, you bet! Ready for another crime spree, Boss? Let's show these\nfestival games what we're made of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the excitement on her face, I can't help but smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "The bright-eyed Inari One takes my hand, and our festival stall\nconquest begins."
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoooa! Don'tcha just love the way fireworks rattle through your\nwhole body?! Just makes ya wanna SCREEEAM, don't it?! I know I do!"
+        },
+        {
+            "name": "Inari One",
+            "text": "HEY, BOSS! CAN YA HEAR ME?!",
+            "choice_data_list": [
+                "I can hear you!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "HEY, BOSS! CAN YA HEAR ME?!",
+            "choice_data_list": [
+                "I can hear you!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Haha! C'mon, it feels good to let it all out! Now, one more time!\nOOOH YEEEAAAHHH!",
+            "choice_data_list": [
+                "OOOH YEEEAAAH!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, there ya go!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Man... Even I'm gettin' worked up! Well, at least I can rest assured\nknowin' Boss got a brea—)",
+            "choice_data_list": [
+                "Was this a good break for you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "(Man... Even I'm gettin' worked up! Well, at least I can rest assured\nknowin' Boss got a brea—)",
+            "choice_data_list": [
+                "Was this a good break for you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems surprised, so I quickly explain that, while I don't think she's\noverdoing it, I was concerned that she might be working a little too\nhard lately."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her magnetic personality naturally attracts the hopes and dreams of\nothers. That can certainly be seen as the source of her incredible\ndrive..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But it could easily turn into a heavy burden. That's why I hope that\ntoday helped lighten that emotional load, even just a little bit."
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-what are ya sayin'? Answerin' people's hopes and dreams is what\nI'm all about! Sure it can be heavy, but—",
+            "choice_data_list": [
+                "It's okay to ask for help, right? Then let me take\nsome of that burden."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Wh-what the heck? It's almost like..."
+        },
+        {
+            "name": "Inari One",
+            "text": "(The one workin' overtime... was me.)"
+        },
+        {
+            "name": "Inari One",
+            "text": "I swear, Boss... You're just full of surprises."
+        },
+        {
+            "name": "Inari One",
+            "text": "(Not gonna lie, I was <i>not</i> expectin' Boss to say that. But weirdly...)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I feel... lighter somehow. Like I just got into a bath at the perfect\ntemperature.)"
+        },
+        {
+            "name": "Chief",
+            "text": "For cryin' out loud, girl, didja think I wouldn't notice?! I can see that\nyou don't wanna be here in your heart of hearts. I'm old, not <i>blind.</i>"
+        },
+        {
+            "name": "Chief",
+            "text": "If you're a true Edo girl, you'll take on the Twinkle Series, show 'em\nwhat the downtown's made of, and become a racing sensation <i>there!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Guess I have taken on a lot. I don't exactly wanna disappoint Chief,\nafter all.)"
+        },
+        {
+            "name": "Soba Shop Owner",
+            "text": "He's right, you know! No matter where you're runnin', we'll be cheerin'\nyou on!"
+        },
+        {
+            "name": "Local Shopkeeper",
+            "text": "Show 'em how we do things downtown! Turn that Twinkle stage\nupside down!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Same goes for the folks back home supporting me. Gotta show 'em a\nrunner filled with hometown pride, don't I?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I guess it's true...)"
+        },
+        {
+            "name": "People from Downtown",
+            "text": "YEEEAH!\nINARI! INARI! INARI! INARI!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I really have been... carryin' this burden all on my own.)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Heh... Being this dense doesn't suit me. Not one bit.",
+            "choice_data_list": [
+                "Inari?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Guess my eyes were a bit <i>too</i> focused on the prize. Can't believe I\nmade ya worry about me like that."
+        },
+        {
+            "name": "Inari One",
+            "text": "Guess my eyes were a bit <i>too</i> focused on the prize. Can't believe I\nmade ya worry about me like that."
+        },
+        {
+            "name": "Inari One",
+            "text": "We're a team, so I needa act like it, right?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, you're somethin' else, Boss! Ya could make a girl fall in love\nwith that kinda consideration.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, you're somethin' else, Boss! Ya could make a girl fall in love\nwith that kinda consideration.",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, look, look! They're firin' off the big boys now!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(If the boss and I carry this weight together, the fireworks we make\nwill be even bigger!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Then the cheers we get won't just be your basic yippees or yays.\nThey'll be more like...)"
+        },
+        {
+            "name": "Inari One",
+            "text": "WOOOHOOO! HELL YEAH!"
+        }
+    ]
+}

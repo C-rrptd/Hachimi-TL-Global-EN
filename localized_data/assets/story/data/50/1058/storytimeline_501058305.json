@@ -1,0 +1,76 @@
+{
+    "title": "皐月賞の後に・負けてもほのぼの",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Sigh...</i> Blegh... Trainer..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Completely spent, Meisho Doto collapses on the\nturf."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh, Doto. Is that your impression of a soldier\ndefeated by exhaustion? You appeared a little\nwilted during the race."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yeeeeah... I couldn't focus on anything but\nrunning, not even the results..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her loss to T.M. Opera O, Meisho Doto is\nable to clear her first hurdle in the Classic Triple\nCrown."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Trainer, I'd like to give you my thanks. I'm\nextremely flawed and clumsy... I thought the\nClassics might ruin me."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But, at least I can say I got through it without\nbothering anyone. This was really a race to\nremember.",
+            "choice_data_list": [
+                "That's great to hear, Doto.",
+                "That's great to hear, Doto."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yes, thank you. Um... but it would be nice to do\nsomething else for the occasion.",
+            "choice_data_list": [
+                "Do you want to take a commemorative picture?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "No, that's not it... I'm thinking of having some\nsnacks on a nice patch of grass. The breeze is nice\ntoday.",
+            "choice_data_list": [
+                "You want to go on a trip?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Gyah! No, that's not what I meant!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I guess that's a no.",
+            "choice_data_list": [
+                "It's fine, but we can't stay out too long.",
+                "It's fine, but we can't stay out too long."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, Trainer! Thank you so much. I'll invite\neveryone."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Opera O, Ayabe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As one can imagine, not <i>everyone</i> agrees to come\nalong. Still, we enjoy a little picnic sitting at the\ncenter of the track."
+        }
+    ]
+}

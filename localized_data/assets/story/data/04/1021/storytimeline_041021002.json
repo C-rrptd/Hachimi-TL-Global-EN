@@ -1,0 +1,232 @@
+{
+    "title": "A Brewin' Storm",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been several days since the tryouts took place, but I can't get\nTamamo Cross's words out of my head."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're a rookie trainer, aren't ya? What makes ya think a no-name\ntrainer like you has what it takes?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya really think ya can take me on, train me up, and turn me into a\nchamp?! I'm not just talkin' G1 here—I mean all of Japan!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's clear she wants to win, and she's ready to make it happen. At the\ntime, I wasn't ready to face her determination head-on.",
+            "choice_data_list": [
+                "(But this time, I am!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Full of conviction, I search high and low for Tamamo Cross. After\nruling out the academy buildings, I head to the training course."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff, puff! Huff, puff!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "There, I find Tamamo Cross, running as if her life depends on it."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff...</i> Haaaa!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff... Huff...</i> Crud... Not gettin' any better, am I?",
+            "choice_data_list": [
+                "Tamamo Cross!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You again!",
+            "choice_data_list": [
+                "About the other da—"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm really sorry!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You went to the trouble of checkin' up on me, and I just threw it back\nin your face... Seriously, I'm sorry.",
+            "choice_data_list": [
+                "It's okay. I know you were upset.",
+                "It's okay. I know you were upset."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah... I was just frustrated, ya know? I ran like crap out there, and\nnow all the trainers think I'm some third-rate chump racer."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "People tend to take one look at me and assume I'm a weaklin' 'cause\nof my size."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sayin' stuff like, \"You'll get hurt.\" \"Best in Japan? Not happenin',\npipsqueak.\" \"That dream's a bit too big for you.\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I wanted to show 'em all what I'm made of. Show 'em I'm a winner too."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But, well... you saw what happened. I screwed it all up with that lousy\nrunnin' of mine."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The whole reason I'm at this school's 'cause I've got a dream. And I\nneeda be in the Twinkle Series to make it happen."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Just runnin' isn't gonna get me nowhere. I gotta win, and win a lot at\nthat! I needa run faster than wind—faster than light!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway, sorry 'bout the other day. I should get back to practice. I\nwanna win the next tryouts, ya see. So I gotta—",
+            "choice_data_list": [
+                "You'll win for sure.",
+                "You'll win for sure."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? Where'd that come from? If you're tryin' to make me feel better,\ndon't. I'm fine.",
+            "choice_data_list": [
+                "I'm not."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C-c'mon, you saw my last race, didn't ya?! My form's pathetic... I\ncouldn't even hit the board!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sure, I may talk a big game, but... I can't back it up. And I don't know\nhow to get better.",
+            "choice_data_list": [
+                "But you want to win. More than anyone.",
+                "But you want to win. More than anyone."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No one feels the bitterness of defeat stronger than Tamamo Cross.\nHer desire to leave it behind and race forward to win... matters far\nmore than her size."
+        },
+        {
+            "name": "Monologue",
+            "text": "That attitude is what will make her the top racer in all of Japan."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I don't get your confidence. You've only seen me race once, and then\nwe chatted for what, ten minutes tops?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You've got a screw loose, ya know that?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Anyway... Mind if we talk somewhere else? I'm all cooled down, and\nthere are a few too many eyes on us here, yeah? C'mon."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she invites me to talk, her demeanor seems warmer somehow. I\nnod, and the two of us head out in search of a place to chat."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So... you really think I can win the tryouts?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "If you think I can do it, then let's make it happen.",
+            "choice_data_list": [
+                "Wait. Are you suggesting..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah. If I'm bein' honest with ya, I'm kinda stuck on how to practice\non my own. But I still wanna win, no matter what..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And to do that, I'm bettin' on you."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Besides, I wanna test you—see if there's any grit behind your words.\nAnd at the same time, you can see if I truly got the makings of a\nchamp!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "We'll just call it... a trial period of sorts! You can train me till the next\ntryouts, and then—",
+            "choice_data_list": [
+                "SAY NO MORE! I'M IN!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "—we could—hey, lemme finish! Do ya make all your decisions dis\nfast?! Whatever happened to hearin' a person out?!",
+            "choice_data_list": [
+                "SORRY! I'M VERY EXCITED!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Simmer down! Ya want the whole school to hear?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But well, the spirit's appreciated. On that note, see ya tomorrow!\nCan't wait to see whatcha do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, I enthusiastically enter my trial period as Tamamo Cross's\ntrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, we have our first training session together."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, let's see whatcha got for me, rookie. Whaddaya want me to do\nfirst?",
+            "choice_data_list": [
+                "This is the regimen we'll be doing."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I pull out the training plan I wrote out last night. It took me a while to\ncome up with the perfect plan to win the tryouts."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa... Now this is a lotta exercises. And the detail... You really\nmade this last night?",
+            "choice_data_list": [
+                "Yup! I was up all night making it!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dat explains da eye bags! I get that you're excited, but get some\nshut-eye..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Well, at least one thing's clear—you're takin' this as seriously as I am!\nOkay, let's get this practice started! Don't you dare go easy on me!"
+        }
+    ]
+}

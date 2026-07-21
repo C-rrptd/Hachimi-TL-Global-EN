@@ -1,0 +1,54 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out and about with Air\nGroove..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What's that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove stops suddenly. She's looking at a\nclaw machine filled with little Umamusume\nplushies.",
+            "choice_data_list": [
+                "Do you want one?",
+                "Do you want one?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "How foolish. As if I would want such a ridiculous\nthing."
+        },
+        {
+            "name": "Air Groove",
+            "text": "One of the younger students gave me a gift the\nother day. I merely thought it might make a good\nthank-you present."
+        },
+        {
+            "name": "Air Groove",
+            "text": "She's a hard worker who is always aspiring to\nfulfill her dreams. She deserves a little something\nto brighten her days."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Unfortunately, there's no guarantee I can even\nwin anything here... I'll have to consider other\noptions.",
+            "choice_data_list": [
+                "I'll win one for you.",
+                "I'll win one for you."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oho, big words. Very well, I'll hold you to that."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Show me a performance worthy of the Empress's\ntrainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

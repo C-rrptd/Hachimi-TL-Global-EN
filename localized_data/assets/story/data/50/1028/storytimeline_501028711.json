@@ -1,0 +1,49 @@
+{
+    "title": "今度こそ負けない！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer... I lost again..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "When I saw the winner's face, I was really struck\nby how radiant she looked in her moment of\nvictory..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I love seeing everyone's smiles, but... it's\ndisappointing only being able to see them\nwithout getting to smile myself...",
+            "choice_data_list": [
+                "Next time, people are going to be seeing <i>you</i>\nsmile!",
+                "Let's work hard, so we'll be the ones grinning!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer...",
+            "choice_data_list": [
+                "We can put a battle plan together after eating."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay! Thank you!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I'm going to work real hard after my stomach's\nnice and full!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "...!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe, okay. You're right. I'm going to do\neverything I can so we can smile too next time!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, no more moping! Here's to getting even\nstronger!"
+        }
+    ]
+}

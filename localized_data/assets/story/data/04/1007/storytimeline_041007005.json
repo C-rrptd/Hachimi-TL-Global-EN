@@ -1,0 +1,168 @@
+{
+    "title": "振り回され二人三脚！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "An Umamusume and her trainer are two parts of a whole. They\nencourage and support each other to achieve victory."
+        },
+        {
+            "name": "Monologue",
+            "text": "The trainer's role is to draw out the full potential of an Umamusume\nthrough rigorous daily practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "So I need to pull out all the stops for Gold Ship's training in order for\nher to seize the win!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Heya, Trainer! Hope you're ready to plunder an underwater temple!",
+            "choice_data_list": [
+                "Whoa, hold on! We're training today.",
+                "Whoa, hold on! We're training today."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh? You implying that exploring some sunken ruins isn't training?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "There's ancient splendor in the deep! And you're saying the noble\npursuit of the unknown is <I>not</I> training?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well, you'd be absolutely right."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Anywho, it seems like you really wanna practice today. Fret not, good\ntrainer, I totally get where you're coming from.",
+            "choice_data_list": [
+                "You do?!",
+                "You do?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "When I say hey, you say ho. I'm the Sherlock to your Holmes."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're so close, we don't need silly ol' words to get in the way! So let's\nhit the road! Follow meee!",
+            "choice_data_list": [
+                "Gold Ship!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I never thought we'd be on the same page! I'd better hurry after her\nto the track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that we're finally at the training course... Wait, this isn't the\ntrack."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uwaaagh! Fish! Fish! Fishin' for fish! What's our catch gonna be?\nWe're going after the largest—the hugest! It's big catch or nothing!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Geez, don't just stand there! We're in this together!",
+            "choice_data_list": [
+                "Um... In what together?",
+                "Um... In what together?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Seriously? We came all the way to the waterfront. Obviously, the only\nthing we can do is go fishing!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "My poor old pops, the best fisher in the village, retired from duty\nbefore he could ever catch the big granddaddy of this river..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "That's why! As his proud daughter, I'm gonna catch that legend!\nArrrgh! Get ready, you jerk fish! I'll get you if it's the last thing I do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My head's still reeling from all this, but we cast our lines into the river.\nSeveral minutes later..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It's no good. The only thing we've caught are stupid water weeds."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Urrrgh! Aaaagh! I can't take it—I'm about to collapse from boredom!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Follow me, Trainer! I'm setting our sails for Mars!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This could be good! Maybe she got so bored she finally wants to start\ntraining!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hey, waitress! One grilled fish platter, and pile that rice high!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Pheeew, that was a close call. We got zilch from fishing, but eating a\nbig one here should make up for it!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Enough talk—time to dig in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mere seconds after her fish platter arrives, she downs the whole meal\nin a few gulps..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ahh, just what I needed. I'm eternally grateful for the existence of\nsustenance.",
+            "choice_data_list": [
+                "So... can we finally start training?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What? You mean to tell me fishing for fish and then eating fish isn't\ntraining?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We're living off the land here. It's a struggle for survival, fraught with\ndanger..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Living in harmony with nature and honing our senses in the wild—open\nyour eyes. It's all connected to racing!",
+            "choice_data_list": [
+                "Ah, so this is all to train your racing instincts!",
+                "Ah, so this is all to train your racing instincts!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nah, it's probably no help at all!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "In that case, now that I've had a meal, might as well head over to\nGolshi Farms and tend the carrots."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Catch you on the other side of the solar system! Farewell!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's out the door by the time I realize we went the entire day\nwithout doing a minute of training..."
+        },
+        {
+            "name": "Monologue",
+            "text": "An Umamusume and trainer are two parts of a whole... We're\nsupposed to work <I>together</I> to achieve victory!"
+        }
+    ]
+}

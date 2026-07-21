@@ -1,0 +1,234 @@
+{
+    "title": "Hot Spring Getaway",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, a while after the Twinkle Series has\ncalmed down..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm on my way to a hot spring with\nMatikanetannhauser, just like we promised."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hot spring! Hot spring! ♪ See how it steams! See\nhow it steams! ♪"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, want a snack, Trainer?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I have hard candy, chocolate, gum... I bought\neverything I could for under 300 yen!",
+            "choice_data_list": [
+                "Why just 300 yen?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Because you're not supposed to spend more than\n300 yen on snacks for a trip!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I spent the last ten yen on these little pieces of\ngum! These are the fruits of my labor!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Anyway, go ahead and take whichever you like\nbest! Hehe.",
+            "choice_data_list": [
+                "Thanks!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, and not only that! I brought some cards too!\nWe've <i>got</i> to play a game later!",
+            "choice_data_list": [
+                "Sounds like a plan."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As the train rolls on toward the hot spring, I think\nback on all the other train rides we've been on."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh my gosh! This is, like, five times nicer than the\nplace we went for my class trip!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We arrive at the inn safe and sound."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's see... I'm pretty sure they said dinner is\nserved at six, so it looks like we have some free\ntime."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Should we buy some souvenirs or do some\nsightseeing? Or maybe... Muuun.",
+            "choice_data_list": [
+                "Since we're already here, why don't we check\nout the hot spring?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh yeah! And there's no set times for this hot\nspring, either!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay, let's go! Hello hot spring, my old friend!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whew! That was just what the doctor ordered."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Haaah...",
+            "choice_data_list": [
+                "Sleepy?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mmm... Yeah, actually. I guess the hot spring\nreally hit the spot."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But I'm totally fine! We came all the way out here\nand there's so many places we have to check out!",
+            "choice_data_list": [
+                "It's okay to take a nap."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Are you sure? Really? A nap, you say...",
+            "choice_data_list": [
+                "The real reason we came here was to relax."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I guess that's true. When I think of vacations, I\nalways imagine people wandering around the\nwhole time."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But I guess it's fine since it's just the two of us. We\ncan do anything we want this trip..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Zzz...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I guess Matikanetannhauser really was tired\nbecause she doesn't wake up until sunset."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aghhh! I slept way too long!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "All of the sightseeing spots are closed already! I\nreally messed up this time.",
+            "choice_data_list": [
+                "On the contrary, I think it's great you got to\nrelax."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks, Trainer..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But I really wanted to make some memories with\nyou during this trip."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, hold on! Isn't there a beach nearby?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Why don't we go check it out since we're here?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wow... It's so beautiful! You can see everything so\nclearly even though it's night."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And the breeze feels good too. It's a good thing\nwe decided to come here."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Ehehe. This hot spring getaway is so much fun!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Honestly, when I was packing last night, I felt just\nlike I did before I went on a class trip at my old\nschool."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I bought snacks, packed cards, and thought of all\nthe sightseeing spots we'd go to."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I was so excited that I barely slept. Haha..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But going on a trip with just the two of us is a bit\ndifferent than going with classmates."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Sure, we still relax and have fun all the same,\nbut..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "It feels a bit special, too."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Things like napping at the hotel or going to the\nbeach at night are like a special secret, just\nbetween us."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Hehe, forget I said that. I don't even know <i>what</i>\nI'm saying."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser smiles quietly to herself and\nwatches the waves come and go."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Let's go on another trip together sometime.",
+            "choice_data_list": [
+                "Yeah. I'd like that.",
+                "Yeah. I'd like that."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe. Yay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Matikanetannhauser and I have\nformed an irreplaceable bond dur—"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh no! It's past dinner time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite everything, we've formed an\nirreplaceable bond during our time together."
+        }
+    ]
+}

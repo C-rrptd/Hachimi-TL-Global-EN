@@ -1,0 +1,247 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I'm out shopping with Agnes Tachyon."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We got everything I wanted. Should we head\nback with the bags?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Oh? What's that over there?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand-prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I see, a raffle."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That reminds we, we did in fact receive a raffle\nticket while shopping earlier."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What are the chances? Trainer, why don't you\ntest your luck?",
+            "choice_data_list": [
+                "You don't want to give it a go?",
+                "You don't want to give it a go?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Not entirely. I'd rather observe, myself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "When the ball rolls out from the tumbler, I\nwonder how its color will affect your emotional\nresponse."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now that you know what I want, it's time to get to\nit. Show me the relationship between emotional\nresponses and the mimetic muscles."
+        },
+        {
+            "name": "Monologue",
+            "text": "I give in to her pressure and head toward the\nraffle booth."
+        },
+        {
+            "name": "Monologue",
+            "text": "I crank the tumbler, and what pops out is..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And just like that... the grand-prize!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh, aren't you lucky!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Your facial muscles were at first taut with\nanticipation but then quickly eased into the\ntelltale signs of a gleeful grin!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What a fascinating sight to behold!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But to win a hot spring trip, of all things... hmm."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yes. You should keep it.",
+            "choice_data_list": [
+                "Wait, why?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Why? you ask. Nowadays, with technology such\nas virtual tours, one no longer needs to leave the\nhouse if their intent is to travel."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It's nothing but trouble having to trek all the way\nto some distant location. Wouldn't you agree?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You keep the ticket. Invite a friend to go with\nyou or something."
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, she certainly won't be taking it back. I\nagree to hold onto it for now."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh! This is great!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Fresh carrot served on top of a scrumptiously\nsucculent hamburger steak..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If I incorporate <i>it</i> into this, no Umamusume would\nbe able to resist! Heh-heh-heh!",
+            "choice_data_list": [
+                "What's this about?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, nothing in particular, just talking to myself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Let's hurry back, Trainer! Make sure you carry the\nfood with utmost caution!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I have an unsettling feeling she's up to no good.\nNevertheless, I bring the deluxe carrot hamburger\nsteak back to the academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Wow, that's not bad at all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This will go along well with the other items we\npurchased today."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As long as it looks like a carrot, I'll be able to lure\na few Umamusume in... Heh-heh.",
+            "choice_data_list": [
+                "What's this about?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, nothing in particular, just talking to myself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Let's hurry on back, Trainer. I suddenly have a\npressing matter to attend to."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have an unsettling feeling she's up to no good.\nNevertheless, I bring the bushel of carrots back to\nthe academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the\nthird-prize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh... Nice, Trainer!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The sight of you, surrounded by a throng of\nonlookers, with a single carrot in hand..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahaha! Like a guinea pig that's just gotten its\npaws on its feed!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Goodness me, how spectacular! Keep at it, my\ndear subservient guinea pig!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Harboring confused feelings, I quickly stuff the\ncarrot into the shopping bag."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh... That was interesting to observe."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Your face was at first brimming with expectation,\nthen quickly faded into disappointment!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A terribly pure and honest reaction. It's amazing\nhow much the face can convey."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "With that being said, it's kind of a shame you\nbasically lost."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, I guess I'll accept the pack of tissues. It\nmight come in handy when someone next spills\nsomething."
+        },
+        {
+            "name": "Monologue",
+            "text": "In a sullen mood, I head back to the academy\nwith Agnes Tachyon."
+        }
+    ]
+}

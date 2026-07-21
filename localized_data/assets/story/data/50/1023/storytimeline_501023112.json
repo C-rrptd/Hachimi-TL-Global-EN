@@ -1,0 +1,215 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm gathering some data with Biwa Hayahide in\npreparation for our next race when a muscle in my\narm twinges painfully."
+        },
+        {
+            "text": "<i>Crick.</i>",
+            "choice_data_list": [
+                "Ouch!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer?!"
+        },
+        {
+            "text": "Biwa Hayahide looks worried as she watches me\nhold my injured arm."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "How much pain are you in? Where does it hurt? Is\nthere any swelling?",
+            "choice_data_list": [
+                "I-I'm fine..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No, you're not! What if it's something serious? We\nneed to get that looked at right away!"
+        },
+        {
+            "text": "She drags me to the infirmary..."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "It's tendinitis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What?"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "You're going to have to give your arm and hand\nsome rest. If it worsens, you might even require\nsurgery.",
+            "choice_data_list": [
+                "I feel so bad about this..."
+            ]
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Icing the area won't be enough. You'll have to\nstop using your arm for a bit. The good news is\nthere's no swelling, so it's not too serious."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "If the pain is still unbearable after you've rested it\nfor a while, come back so I can look at it again,\nokay?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Hehe, bit of a worrywart? I get the feeling you\nalready knew the injury wasn't that bad from the\nstart."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "But the fact that you insisted on coming here\nproves just how much you care about your trainer."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-I, uh..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...",
+            "choice_data_list": [
+                "I really appreciate your concern."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If you're feeling better in two or three days, let's\ngo to a hot spring.",
+            "choice_data_list": [
+                "That's sudden... Why?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Because the least I can do is take care of you,\nand you need plenty of rest. You'd better not\nworry about my training for at least a week."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You should apply for some time off and take a\nbreak. If something needs to be handled right\naway, we can ask Tazuna to help."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I want you to contact me right away if your\nsymptoms worsen or if you develop a fever. And\non the day we go to the hot spring—",
+            "choice_data_list": [
+                "Wait, I never said—"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me? Do you really think you're in any\nposition to object?"
+        },
+        {
+            "text": "That look in her eyes... She's not messing around!"
+        },
+        {
+            "text": "The day of our hot spring getaway arrives."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "According to my research, the water here is highly\nrecommended for soothing medical ailments. It\nshould be well-suited to heal your injury.",
+            "choice_data_list": [
+                "Sounds expensive..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Don't worry. This just so happens to be the same\nplace I won a free trip to a while back. Therefore,\nwe can enjoy this vacation free of charge."
+        },
+        {
+            "text": "Come to think of it, I do remember her getting a\nvoucher for a hot spring vacation some time\nago..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's not waste any time and go in."
+        },
+        {
+            "text": "Soaking in the hot spring..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Phew... That was great. Did you enjoy your bath\ntoo?",
+            "choice_data_list": [
+                "Absolutely. All my muscle tension's gone."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Good. That soak must've improved your blood\ncirculation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Next is dinner. I went ahead and ordered a hot\npot for us. It's loaded with vitamins B1 and B2,\nbeta-carotene, allicin—",
+            "choice_data_list": [
+                "Wait, wait, wait."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hm? Oh, I should've asked if there were any\nfoods you don't like. I did make sure to avoid the\nallergies you told me about, but...",
+            "choice_data_list": [
+                "No, it's not that. I just want you to slow down a\nlittle."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...Slow down?",
+            "choice_data_list": [
+                "I want you to enjoy yourself, since we're here.",
+                "I want you to enjoy yourself, since we're here."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're constantly worrying about me and putting\nmy needs ahead of yours."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "So why don't you just let me worry about <i>you</i> for\nonce?",
+            "choice_data_list": [
+                "I know you're concerned, but you need to take\nit easy too."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmph...",
+            "choice_data_list": [
+                "Come on, let's get some drinks to hydrate\nourselves."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...Okay. Good idea."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ahh...",
+            "choice_data_list": [
+                "Do you feel a little more relaxed now?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've been feeling relaxed from the beginning,\nsince you're by my side."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Let's have them bring us our dinner now. It'll be\nnice to sit back and enjoy a meal."
+        },
+        {
+            "text": "After our meal is brought to us, we enjoy a\ndelicious and nutritious dinner together."
+        },
+        {
+            "text": "I sense that Biwa Hayahide and I have formed an\nirreplaceable bond during this time together."
+        }
+    ]
+}

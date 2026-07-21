@@ -1,0 +1,232 @@
+{
+    "title": "止水を追いて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki is struggling to quell the fiery aggression in her. That's\nour first hurdle, so I've been brainstorming solutions."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, I think I've got a lead."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You want to learn more about Kongo Yaegaki martial arts?",
+            "choice_data_list": [
+                "Yes."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The day I first met her, Yaeno Muteki was repeating forms to calm her\nmind before the tryouts—just like she said she did as a child."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have no doubt that the source of her usual composure lies in Kongo\nYaegaki teachings, so I'm sure it'll help find a way to control her\nblaze."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Well, I gather this interest in it has something to do with suppressing\nmy blaze."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I see your train of thought. Follow me."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Master. Adept. We are ready for the lecture. We humbly ask your\nguidance.",
+            "choice_data_list": [
+                "Thank you for accommodating this!"
+            ]
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "It's a pleasure to have you, Trainer. We're flattered to hear that\nyou've taken an interest in the Kongo Yaegaki school."
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "I believe seeing it in action will explain more than words. I hope you'll\nenjoy today's lesson.",
+            "choice_data_list": [
+                "Yes, Ma'am!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon after..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Sei! HAH!",
+            "choice_data_list": [
+                "Y-yah!"
+            ]
+        },
+        {
+            "name": "Yaeno's Grandmother",
+            "text": "Good, that's the idea. Next, try to punch without tipping your whole\nbody's balance forward. Instead of raising your head up, let your\nbody relax and dangle, like a puppet on a string.",
+            "choice_data_list": [
+                "Yes, I'll try!"
+            ]
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Yaeno, let your waist sit lower! The motion should be sharp. Again!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Understood! Thank you, Master!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While the forms I'm practicing are admittedly much simpler than\nYaeno Muteki's, I complete a basic training session, getting an\noverview of the school's style."
+        },
+        {
+            "name": "Monologue",
+            "text": "...That said, trying all those new moves has me exhausted. I rest for a\nbit, watching Yaeno Muteki practice."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Trainer, may I have a word?",
+            "choice_data_list": [
+                "Oh! Y-yes, of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki continues the lesson with her grandmother, while her\ngrandfather—master of the Kongo Yaegaki school—softly approaches\nme."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Allow me to thank you for looking after my granddaughter."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "I can guess what brought you here. The aggressive blaze in her is\naffecting her racing, and she seeks to extinguish it with the tranquility\nof water. Am I correct?",
+            "choice_data_list": [
+                "Completely, yes."
+            ]
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "I thought as much. Her posture is stiff—her motions, shallow. I sense\nfear in her."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "She's been scared of the blaze for so long, she has a tendency to\novercompensate, trying too hard to be still as water. However,\nTrainer, it's not so simple..."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "<i>Master both blaze fierce and water still—a guardian you will be.</i>"
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Kongo Yaegaki is a school that emphasizes defense, you see. The\nsaying about fire and water speaks to the importance of balancing\naggressive and passive stances."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Hot-headed fighting spirit alone leads to hasty, sloppy actions,\nburning energy that could have been used to protect."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "Likewise, having only the composure of tranquil water is no better, for\noverthinking causes hesitation. By the time one moves, it may be too\nlate."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "That is why the concepts of \"blaze fierce\" and \"water still\" are taught\nin tandem. A guardian must act immediately, but intelligently."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "In Kongo Yaegaki, we use set forms, called katas, in order to channel\nwild, fire-like power into calculated, fluid motions."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "I hope that makes sense. Extinguishing Yaeno's fire with tranquility is\nnot the answer."
+        },
+        {
+            "name": "Yaeno's Grandfather",
+            "text": "I believe that is true for both martial arts and racing. What she lacks is\n<i>balance.</i> That is what she must endeavor to master.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "So you'd like to brainstorm ways to balance blaze fierce and water\nstill in racing? Hmm..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Well, as you've already heard from my grandfather, Kongo Yaegaki\nuses katas to channel wild power."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That begs the question—what is the racing equivalent of a kata?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In martial arts, katas are motions designed to combat specific\nsituations. By repeatedly simulating the optimal response to\nhypothetical attacks, the user is prepared to face them for real."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that in mind, the closest equivalent I can think of is...",
+            "choice_data_list": [
+                "Your racing strategy, maybe?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I see! The \"blaze fierce\" is the determination to beat opponents.\n\"Water still\" is the composure to assess the situation!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And the \"katas\" that balance them in the world of racing... They're the\nvarious strategies we practice to adapt to unique race conditions!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That means... If I study the strategies, I'll be able to wield the blaze\nwith water's poise!",
+            "choice_data_list": [
+                "You bet!",
+                "You bet!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "This is a great revelation. For now, my path is clear."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...I must learn from the wisdom of one experienced in the field.",
+            "choice_data_list": [
+                "Wait, do you mean..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As I understand, the title of \"Trainer\" is granted to those with deep\nknowledge of racing."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I ask that you continue to lend me your guidance."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Please teach me the katas—the many strategies of Umamusume\nracing. I wish to study them all!",
+            "choice_data_list": [
+                "I'd be glad to!",
+                "I'd be glad to!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thank you. I hear sincerity in your voice... and it rings true in my\nheart."
+        },
+        {
+            "name": "Monologue",
+            "text": "It remains to be seen whether strategies alone will give Yaeno Muteki\nthe balance she seeks, but for now, they're definitely worth\npracticing!"
+        }
+    ]
+}

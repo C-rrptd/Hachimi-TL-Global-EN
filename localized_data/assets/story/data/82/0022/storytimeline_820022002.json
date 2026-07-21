@@ -1,0 +1,167 @@
+{
+    "title": "商いの道は人の道",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Arriving at a Kansai food fair, I spot Tamamo\nCross and Super Creek touring the stalls."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Tamtam. This stall's selling the grilled squid\nyou were looking for."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You're right! Good eye, Creek!\nHello, ma'am! Hit me with the goods!"
+        },
+        {
+            "name": "Food Stall Lady",
+            "text": "Oh, welcome... The Osaka-style grilled squid,\nright? Ya both havin' one?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yup! Um, you seem kinda down, ma'am.\nSomethin' wrong?"
+        },
+        {
+            "name": "Food Stall Lady",
+            "text": "Sucks to say, but business hasn't been great. The\nfolk here can't tell the difference between\nOsaka-style grilled squid 'n their local stuff."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And I bet you've been pourin' your heart into\nmakin' these... Now I'm feelin' down too."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I know! I'll go 'n attract some customers for ya!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "If that's the plan, I'll help. We can accomplish\nmore as a pair."
+        },
+        {
+            "name": "Food Stall Lady",
+            "text": "You'd really do that? Well, if you two aren't the\nkindest souls I ever met!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ahahaha! Just wait—you'll be up to your ears in\ncustomers before long!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, you two! Can I interest you in some delish\ngrilled squid?!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Grilled squid? But you can get that anywhere..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Think again! This isn't your ordinary grilled squid!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's an Osakan specialty, grilled in a batter like a\ncrepe! Buy now to get a bargain—one pack for a\nmeasly five million yen!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tamtam, is that true? Is it really a luxury cuisine?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Like hell it is! I'm doin' a bit, duh!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But as a grilled squid connoisseur, <i>I'd</i> pay five\nmillion for this—and that's a guarantee!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tamtam... I didn't know grilled squid got you so...\nfired up."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, I—wait, was that a joke? That's s'posed to\nbe my turf!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ahaha! I love the comedy act! Maybe I'll give that\nsquid a try!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Y'mean it?! Then that stall over there's where you\nwanna go!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, let's keep this rolling! You there, hot\nstuff!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "All right, let's keep this rolling! You there, hot\nstuff!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, aren't you a trainer from Tracen? Were you\nwatchin' us?",
+            "choice_data_list": [
+                "Yeah. You sure know how to advertise."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That's 'cause business is more than just\nnumbers—you gotta really <i>connect</i> to people!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But we're just chatting to them, aren't we?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, but they can tell we're doin' it with heart!\nWe wouldn't have that if we didn't wanna help the\nsquid lady!",
+            "choice_data_list": [
+                "You're making me want some.",
+                "You're making me want some.",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, but they can tell we're doin' it with heart!\nWe wouldn't have that if we didn't wanna help the\nsquid lady!",
+            "choice_data_list": [
+                "You're making me want some.",
+                "You're making me want some.",
+                "Keep up the good work!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thanks for yer patronage! Don't hold back—eat\ntill you're bursting!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehehe! ♪ Having fun, Tamtam?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Course I am! Business done right makes everyone\nhappy!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm sellin' squid 'n smiles—nothin' beats that!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Course! I bet the squid lady's grinnin' ear to ear\nright now!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. You're such a lovely girl, Tamtam. Come\nhere, let me pat your head! ♪"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Da hell?! Quit it with the baby treatment!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Save the praise for later—we've still got squid to\nsell, yeah?!"
+        }
+    ]
+}

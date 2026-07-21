@@ -1,0 +1,28 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide has lost something and has\nenlisted my aid to help find it."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's not here either! I can't find the notebook I\nwrote my winning equation in <i>anywhere!</i>",
+            "choice_data_list": [
+                "Where do you usually keep it?",
+                "Where do you usually keep it?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I usually keep it right in my pocke—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hahaha... Here it is. Well... I must be more tired\nthan I thought."
+        },
+        {
+            "text": "It's not like her to be this forgetful. The fatigue\nmust be getting to her. It might be time to adjust\nher schedule so she can take a break."
+        }
+    ]
+}

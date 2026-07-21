@@ -1,0 +1,250 @@
+{
+    "title": "らしくないけど、さ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today marks the first day of summer camp. To make the most of our\ntime, I've gone ahead and started Daiwa Scarlet on beach runs."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Pant, pant, pant...</i> Haaah, aaagh... I'm sweating buckets..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Let me take a quick breather! <i>Sigh...</i> Running on sand really tires you\nout.",
+            "choice_data_list": [
+                "But it'll also build up your muscles that much\nmore.",
+                "But it'll also build up your muscles that much\nmore."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If it didn't, I'd have some choice words for you. I'm not trying to waste\nall my energy for no reason, you know."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If anything, I welcome a hurdle or two. Each obstacle I overcome is\nanother step closer to being number one."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Okay, I'm done resting! Let's get back to it."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's caught her breath, but I can tell her balance is a little wobbly.\nLooks like her legs are shaky, and I doubt this heat is doing her any\nfavors either.",
+            "choice_data_list": [
+                "Let's call it here for today."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Were you even listening to me just now?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I said I welcome challenges! We're at summer camp, so isn't a tougher\nschedule par for the course?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If I complained about every little thing, there's no way I could\nbecome number one!",
+            "choice_data_list": [
+                "Even so, you shouldn't overwork yourself.",
+                "Even so, you shouldn't overwork yourself."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I don't need you to tell me tha—aah?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Scarlet tries to take a step forward, but her legs give way beneath\nher."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Tch... I can't become number one if I get exhausted this easily. I have\nto do m—",
+            "choice_data_list": [
+                "Resting is also an essential part of training.",
+                "Resting is also an essential part of training."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh.</i> Fine, you win. I'll rest a bit more, and then—",
+            "choice_data_list": [
+                "We still got camp tomorrow too, you know?",
+                "We still got camp tomorrow too, you know?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Fine, fine. I'll listen to you this time."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I mean, you are my trainer and all. And I can't stand you worrying\nabout me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Geez. As soon as I'm back up to snuff, we're making up for lost\nground.",
+            "choice_data_list": [
+                "I better not find you sneaking out to run, okay?",
+                "I better not find you sneaking out to run, okay?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Excuse</i> me. I'm not a child, so could you not treat me like one?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "If we're done training, then I'm free for the rest of the day, right? See\nyou."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a slight wobble in her gait, she starts heading back to the dorm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later in the evening, I decide to go check up on Scarlet. In the dorm\nhallway, an unfamiliar student comes up to me."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Oh hey, you're Scarlet's trainer. Are you looking for her?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I don't think she's in her room. I just saw her heading towards the\nentrance."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was pretty beat after today's training... Is she going to be okay\nwalking around by herself?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, if it isn't my trainer? What's that look on your face for?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I was about to go for a walk an—",
+            "choice_data_list": [
+                "I'm coming too!",
+                "I'm coming too!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I-I don't mind... But, what're you getting so worked up for?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Don't tell me—you're worried I'll sneak in some training again...",
+            "choice_data_list": [
+                "You were a little unsteady this afternoon, so I\njust want to be sure."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah, so that's why. Don't worry, I took a relaxing bath followed by a\nnice nap."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Like you said, we have training tomorrow too. I wouldn't want to\noverdo it today and feel dead tomorrow."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But I've got to say... You really are a worrywart. You know, at first I\nthought you just didn't trust me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How about this? I'll prove to you that I'm full of energy and feeling\nperfectly fine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Daiwa Scarlet insists on leading the way, so I follow along beside\nher—when suddenly—lively festival music starts playing nearby..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I heard there was a festival going on nearby, so I was just about to go\nand check it out. Hey, don't all these delicious smells make you\nhungry?",
+            "choice_data_list": [
+                "Looks like your appetite's just fine, too.",
+                "Looks like your appetite's just fine, too."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Of course it is! A happy stomach is key to a happy me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Come on, let's go buy out the food stalls! Oh, but before that—let's\nhave some fun!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After taking in the festival, we load up on food and head to the\nbeach. Yakisoba, takoyaki, shaved ice, cotton candy—we devour\nthem one after the other."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Mmm, that hit the spot! Yum, yum! ♪",
+            "choice_data_list": [
+                "I'm glad you're having a good time."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hey, didn't I tell you earlier? Stop being such a worrywart already."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Okay, I did overwork myself that one time, but now I'm not alone,\nso..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A-anyways that's how it is, so I'm fine now! Got it?!",
+            "choice_data_list": [
+                "Thanks for counting on me."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I didn't say it was <i>you</i> I was talking about, did I?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's just, you are a pro trainer... So I thought it'd be okay to leave the\ntraining stuff to you, nothing else."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "B-basically, you better take responsibility for what you promised!\nYou're the one who said, \"Let's become number one together.\"",
+            "choice_data_list": [
+                "Just leave it to me!",
+                "Just leave it to me!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And there you go, getting all carried away."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'll be way more prepared for tomorrow's training, so you better not\nfall behind either!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I will become number one—but I can't do it alone."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's why... you need to keep up with me and become the number\none trainer too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, Daiwa Scarlet runs with a newfound resolve beneath\nthe shining sun, more dazzling than even the distant horizon."
+        }
+    ]
+}

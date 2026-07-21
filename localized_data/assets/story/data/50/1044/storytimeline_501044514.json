@@ -1,0 +1,233 @@
+{
+    "title": "I Love It!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh?! Oh. My. GOSH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprised to hear a familiar voice, I go to\ninvestigate what seems to be another problem..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "These are all <i>amazing!</i> You both took such great\npictures! Really, wow!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Heh-heh, you're gonna make me blush,\nexaggeratin' like that! But anyway, glad ya like\n'em!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! Part of the reason they came out cute is\nbecause you're so cute!",
+            "choice_data_list": [
+                "What are you three talking about?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, Familiar! These two were just taking some\npics for me!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Grandma asked to see me in my signature\nracewear, so I thought I'd send her a few\npictures! ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Here, come take a look! Didn't they come out\nincredible?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She shows me her camera roll, where there are a\nton of pictures of her in her signature racewear.",
+            "choice_data_list": [
+                "These are all great!",
+                "These are all great!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Right?! They've captured my outfit right down to\nthe texture of the material and the smallest\ndecorations! They really caught my witchiness\ntoo!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "They both have a great eye! It's like these\npictures were taken with a time-stopping spell!"
+        },
+        {
+            "name": "Vodka and Scarlet",
+            "text": "Hehe... It was nothing! ♪\nHeh-heh... It was nothin'!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I know! Let's get some even better ones since\nwe're already at it!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "More magical and more sparkly! I want them as\ngood as a movie poster!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah... So, um... What would that look like, I\nwonder..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Can amateurs even take those kinds of pictures? I\nmean, we only have our phone cameras."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What the heck?! I just got done saying how good\nyou two are, and now you're saying you can't do\nit?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I just <i>know</i> you can take even better pictures than\nthese! So hop to it! Let's go!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right, already! Fine! If you're gonna be like\nthat, then I'll try!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Good grief... Well, I am number one, so I'll just\nhave to show you that I'm the number-one\nphotographer too!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yay! Now we're talking! So, what kind of picture\nshould we take next?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Familiar! Help me brainstorm! What's a good\nidea?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly put on the spot, I start to think...\nMaybe a change of location would help.",
+            "choice_data_list": [
+                "How about an artistic shot somewhere desolate?",
+                "Let's take photos somewhere trendy!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh! I know a good place! It's a little far, but\nfollow me!"
+        },
+        {
+            "name": "Vodka",
+            "text": "My dad took me here on his motorcycle the other\nday! What do you think? Isn't it cool?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It's great! It's like a wasteland where the cool\nwitches hang out!",
+            "choice_data_list": [
+                "Let's get those pictures!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh, now that's a nice breeze! You look so cool\nwith your racewear blowing in the wind! Quick,\nstrike a pose!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ah! Get one more to the side! Hurry! Before the\nwind stops!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How about this angle? Okay, I'm taking it...\nOh yes! You look very cool!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah! That's great! You're getting it! Now get this\npose next!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wait, look at the reflector! The angle of light is\ntotally wrong! Do it right!",
+            "choice_data_list": [
+                "R-right! Sorry!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Phew! Being a genius magical girl is great and all,\nbut maybe I should call myself a lone-wolf genius\nwitch instead."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Sigh...</i> Look at the time. That took forever.",
+            "choice_data_list": [
+                "(This has been rough!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But we got some awesome pics out of it! Hehehe.\nI think Grandma's gonna love them!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "In that case, I know a great spot. It's been super\npopular lately for Umastagram pictures."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "This place is fantastic! It's so witchy! You really\nknow your stuff, Scarlet! ♪"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, I thought you'd like it. Shall we order some\nof their best-looking desserts?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Mm-mm-mmm! That smells so good..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah! That's a great smile! Perfect time for a\npicture!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ouch! Geez, this is way too hot!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, stop! Don't move! Just point your face this\nway!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You can still take pictures when I move, can't\nyou? Actually, can't you even take moving\npictures?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But more importantly... Your cake looks pretty\nyummy, Familiar! Can I have a bite?",
+            "choice_data_list": [
+                "Sure, just stay still for a second!",
+                "Sure, just stay still for a second!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Sigh...</i> Look at the time. That took forever.",
+            "choice_data_list": [
+                "(This has been rough!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But we got some awesome pics out of it! Hehehe.\nI think Grandma's gonna love them!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "All three of you did just as I expected. Not bad,\neveryone."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! And as the ultimate compliment, I'll be sure\nto ask you all to help me again sometime. ♪\nThat's pretty special!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Phew! That was pretty rough."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, that's for sure. But... she looked so happy,\ndidn't she?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at the sinking sun, thinking to myself that I\nknow just how they feel."
+        }
+    ]
+}

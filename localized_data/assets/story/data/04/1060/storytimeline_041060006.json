@@ -1,0 +1,196 @@
+{
+    "title": "蹄鉄、キラリ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, during training..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Man, I knew something was up.",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, it's about my cleats. They felt weird when I was running earlier."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And look, they're completely worn out. I'll probably have to buy a\nwhole new pair.",
+            "choice_data_list": [
+                "Goes to show how hard you've been working.",
+                "Goes to show how hard you've been working."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, yeah, reel it in a little, will you?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, speaking of! You free on our next day off? I want your help\npicking out a new pair of cleats for me."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like, there's a ton of different types, right? I always end up buying\nthe same ones."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But if you're there with me, we might be able to find an even better\nfit for me.",
+            "choice_data_list": [
+                "I don't mind."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, that was easy. Well then, guess we're hitting the streets."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I usually get everything I need from the school store, so coming to a\npro shop like this makes me feel like a real athlete."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Though yeesh, there really are all sorts of cleats out there. Oh man,\nhow am I supposed to pick just one?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "If only we were looking to buy a watermelon. Then we could just ask\nthe old ladies running the stalls."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whiiich is where you come in, Trainer. Help me find my perfect pair,\nm'kay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We check out all kinds of different cleats, and I explain the pros and\ncons of each to Nature."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe, thanks for picking them for me. Can't wait to see how they feel\nafter I break 'em in."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But I gotta say, you've really got your eye on me, don'tcha? You were\ntalking about everything, from my best running form to my habits\nwhile running.",
+            "choice_data_list": [
+                "I <i>am</i> your trainer, after all.",
+                "I <i>am</i> your trainer, after all."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's a pro for you. I guess I was just surprised, is all. In a good way."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, guess we should head back to the academy—ah."
+        },
+        {
+            "name": "Monologue",
+            "text": "Having noticed something, Nature walks up to a store in front of us."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I've seen this outfit in a magazine before. Wow, seeing it in person is\nway different."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Maybe a little too girly for me, though. Hm, but the color is right up\nmy alley... Hmmm."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, my bad! Left you hanging there, Trainer. Saw an outfit I liked, is\nall.",
+            "choice_data_list": [
+                "Take your time."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nah, I'm all good now. Wasn't planning on buying it, anyway."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But man, even though it looked real cute in a magazine, actually\nbuying it is a whole different story."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like, the clothes only looked cute because the model wearing them\nwas cute, y'know?",
+            "choice_data_list": [
+                "I'm sure you'd be just as cute in it."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, nice joke. Forget cute, I'd look like a brute."
+        },
+        {
+            "name": "Store Employee",
+            "text": "Welcome! Are you interested in trying on this outfit?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh? N-nah, it wouldn't look good on me."
+        },
+        {
+            "name": "Store Employee",
+            "text": "That's not true at all, miss. For this outfit, if you tie up your hair a\nlittle higher, it'll look perfect on you!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oooh, I see—wait a second! I see what you're doin', employee of the\nmonth!",
+            "choice_data_list": [
+                "You will definitely be the cutest girl around in\nit."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Whoa! You're on her side, Trainer?! Like I said, I'm... um..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, that's right! We already bought new cleats today, so I gotta save\nmy money!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's how it is, sorry! Trainer, let's <i>go</i> already!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Sigh.</i> I <i>almost</i> got roped into trying it on."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sure wasn't expecting <i>you</i> to team up the store against me, Trainer.",
+            "choice_data_list": [
+                "I still insist, you're gonna be the cutest in it."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Y-you're still going on about that?! Flattering me isn't gonna get you\nanywhere!",
+            "choice_data_list": [
+                "I know because I'm always watching over you!",
+                "I know because I'm always watching over you!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You mean during training, right?! Fashion's a whole different beast!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ughhh... Who would've thought shopping for cleats could be this\ntiring?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Nature is open to me picking out her cleats, it looks like\npicking out cute clothes for her is out of the question."
+        }
+    ]
+}

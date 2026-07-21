@@ -1,0 +1,209 @@
+{
+    "title": "下地あってのネイルっしょ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While I'm waiting for <chrname> to\nshow up..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, that looks really painful! What happened\nto your nail, Flash?!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It got slightly chipped during gym class. It's\nnothing to fuss about."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I dunno, like, you should probably take that more\nseriously. Want me to fix it up? I've got my kit\nwith me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is no time for that. We have less than three\nminutes until our run."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And afterwards, we have a joint dance lesson, so I\nwon't be able to tend to my nails until that is\nover."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whaaat? Why would you put it off like that? It's\nreally gonna suck if that nail gets worse."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, I know! Will you let me fix your nails if I win\nour race?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well... But then if I win, we shall follow our\nschedule to a tee."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Geez... Nails have power, you know! Better not\ntake that power lightly!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The race between Tosen Jordan and Eishin Flash\nlooks as if it'll go down to the wire."
+        },
+        {
+            "name": "Monologue",
+            "text": "But when Eishin Flash squeezes her fists in\npreparation for the final straight..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Ow!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "<i>Huff, huff...</i> I-I win."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wait, Flash! Didn't you say \"ow\" right at the end\nof the race?!",
+            "choice_data_list": [
+                "Is your hand okay?",
+                "Is your hand okay?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It appears that I squeezed my fist a little too\nhard."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Seeeee? I told you that you gotta take care of\nyour nails."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I should've listened. I will prioritize maintaining\nthem."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Well, I'm glad you got the message! All right, I'll\nhave you fixed up in juuust a sec!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "There. All done! Do you love it or what?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm surprised. Not only do my nails look better..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But it doesn't hurt at all when I squeeze my fist.\nNow I won't have to hold back during my final\nspurt."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Riiiiight? I'm, like, literally a pro."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe, thank you very much. By the way, what\nkind of tools do you—"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, hey! No peeking! Gotta keep my industry\nsecrets under wraps!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The nail supplies that Tosen Jordan is trying to\nhide come tumbling out.",
+            "choice_data_list": [
+                "\"Protection for athletes' nails\"?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A manicure set for sports, I see."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Oh. Uh, well... Yeah."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I see. So your nails are not simply for show."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They're part of a secret strategy to maximize\npower, since victory is determined by the smallest\nof margins."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It's not like I planned this or anything... You're,\nlike, giving me too much credit here..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No. I appreciate you revealing the truth to me\nthrough this experience.",
+            "choice_data_list": [
+                "I guess they're both stylish and handy.",
+                "I think it's cool how serious you are about races."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Yeah, something like that. I don't mind if you've\ngot some respect for me now, y'know."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I will keep this in mind and repay you one day."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh, yes! I'm planning to bake some Schneeballen\ntomorrow. Please do have some."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, for real? Those sound <i>so</i> chic. I'm totes\ndown!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...It's all about being chic, okay? Don't forget\nthat."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh. I'm, like, so tired! Time to go buy some new\nnail polish colors!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Both practical and gorgeous... I see. A lesson well\nlearned."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, chill! It's not like I'm all passion or whatevs,\nyou know? I just like to do nails..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "It smells... It stinks... It reeks... of someone in the\nTHROES of youth!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, what the... Where'd you come from, Golshi?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Oh, mon ami! <i>Someone's</i> embarrassed! But who's\nthe perp? Is it you?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ew, why are you acting like that? That's low-key\nannoying."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "The suspect's on the run! Zut alors! But the shrewd\ndetective Golshi the Great is on the case!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Jordan appears to be troubled by Golshi chasing\nher..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now is my chance to repay that debt!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash rescues Tosen Jordan, who comments\nthat \"what goes around <i>totes</i> comes around.\""
+        }
+    ]
+}

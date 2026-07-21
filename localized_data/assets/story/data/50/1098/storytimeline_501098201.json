@@ -1,0 +1,78 @@
+{
+    "title": "伏竜Sにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today's the day of the Fukuryu Stakes—the open\ndirt race we chose to enter in place of the Satsuki\nSho."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Say, Trainer. I know we decided I wouldn't enter\nthe Satsuki Sho, but..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "What do you think of the Japanese Derby for our\nnext race? You'd like me to enter it, right?",
+            "choice_data_list": [
+                "Sure. It's a special race after all.",
+                "Sure. It's a special race after all."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Derby isn't a race that just anyone can freely\nenter. And, aptitude aside, Copano Rickey is\ncapable of meeting the requirements."
+        },
+        {
+            "name": "Monologue",
+            "text": "If the timing works out right, I would like to\nconsider it, at the very least."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Got it! I'll race with that in mind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Chatter, chatter...</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(The qi is really... faint. Both that of the racers\nand the spectators...)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(Ah, that figures. Obviously, the intensity is much\nlower than the Satsuki Sho.)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(The calm makes the situation difficult to read.\nEven so, there's got to be something here to help\nme decide whether dirt or turf is the way to go.)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(Silence. Yes, this silence is also the dragon's\nvoice. The dragon within the earth is trying to\nrelay something to me!)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Even if I don't stand out now, if I keep doing my\nbest, someday people will notice and I can be\nfamous!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Turf really is the shining star of the racing world,\nand I was stuck on that for ages."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Huh?! I see. Could <i>that</i> be what it's all about?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "If my guess is right, the path I should take is..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "No... I'm still not sure. But, if I can prove myself in\nthis race..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The dragon will surely reveal its face and point\nme in the direction of good fortune. All righty!"
+        }
+    ]
+}

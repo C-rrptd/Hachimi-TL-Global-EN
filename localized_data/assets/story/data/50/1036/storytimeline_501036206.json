@@ -1,0 +1,252 @@
+{
+    "title": "天皇賞（春）にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Both the track and weather conditions are in line\nwith the simulations I ran."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(All that's left is to make final adjustments on the\nvalues once I get to the venue and have Parcae\nput together a strategy for me...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "> Start initialization process?\n>[y]:"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Even after resetting Parcae with a fresh install,\nthey've continued to output accurate estimates.\nNothing's changed, but...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They don't <i>feel</i> the same—like we lost some sorta\nsupernatural connection or something, I don't\nknow."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(...I sound like an idiot. Parcae's just a program.\nReally...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Still, I'm half convinced Parcae showed me the\nold fate again just to rile me up...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's enough. I need a quick restart to clear my\ncache too."
+        },
+        {
+            "name": "Newspaper",
+            "text": "Battle for the Spring Tenno Sho!\nWhich of these titans is coming out on top? Will\nthe Overlord seize yet more glory, or will one of\nher rivals steal the show?"
+        },
+        {
+            "name": "Web Article",
+            "text": "Spring Tenno Sho Exclusive Interview!\nTop Runners Claim Their Rivals!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Wow, people sure seem excited about the spring\nTenno Sho! I didn't realize it was happening\ntoday."
+        },
+        {
+            "name": "Passerby B",
+            "text": "Oh, right. I saw some predictions on tv the other\nday. They were ragging on one of the racers big\ntime, though. What was her name again? Air\nShakur?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "She's gotta be a <i>massive</i> jerk for them to talk\nabout her like that. I get that she's up against\nsome absolute gems, but still... yikes."
+        },
+        {
+            "name": "Passerby A",
+            "text": "H-hey, shut up! It's her!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?! You got somethin' to say to me?!"
+        },
+        {
+            "name": "Passerby A & B",
+            "text": "Eep!\nNo, it was nothing!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If it was really \"nothing,\" they wouldn't have to\nrun off in shame, would they?",
+            "choice_data_list": [
+                "People like that aren't getting to you anymore,\nhuh?",
+                "People like that aren't getting to you anymore,\nhuh?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Well yeah. They never <i>did</i> get to me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And the hell's with your reaction? Your trainee\njust scared random people off.",
+            "choice_data_list": [
+                "Well... It'd be nice to hear some praise, huh?\nImagine the stands all cheering for you.",
+                "Well... It'd be nice to hear some praise, huh?\nImagine the stands all cheering for you."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hah. Keep dreaming."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I honestly... I don't get <i>why</i> they cheer for who\nthey do.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Races call the predicted winner the \"favorite,\"\nright? Even if it's someone everyone hates like\nme."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I mean sure, there's times where the \"favorite\" is\nsomeone popular, but... It just seems like a dumb\nword choice.",
+            "choice_data_list": [
+                "...Do you want to be people's real favorite?",
+                "...Do you want to be people's real favorite?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?! Gross... Don't go askin' me such stupid\nquestions, idiot!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I was just thinkin' about the mental gymnastics of\nit all.",
+            "choice_data_list": [
+                "Well, people find different things exciting.",
+                "Well, people find different things exciting."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh yeah?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah, you mean like rivals dukin' it out in a contest\nof dreams and determination?",
+            "choice_data_list": [
+                "Where'd that come from?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just somethin' some troll said a while back."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Apparently I can never be the \"real deal\" without\na rival."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They said I was lucky to skate by unchallenged...\nIt was really annoying."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, they'll be eating those words soon\nenough—when I shove them down their throat.\n...Right?",
+            "choice_data_list": [
+                "Sounds like you're gonna win.",
+                "Sounds like you're gonna win."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hah. You're gettin' good at rilin' me up."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not gonna get your hopes up with no proof,\nbut... I'm not gonna jinx myself anymore either."
+        },
+        {
+            "name": "Spectators",
+            "text": "Oh, they're here, they're here!\nKyaaah!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, the beautiful final notes of spring, the\nloveliest prelude to verdant summer! That is to\nsay, I have arrived! Feast your eyes upon my\nglorious visage!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What's that? You wish for me to blow you a kiss?\nAsk and you shall receive! There's more than\nenough to spare! Mwah, mwah! ♪"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Go ahead, Doto! 'Tis your turn to set the\nspectators' hearts alight!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eep! W-well, um..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-mwah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "WOOOOO!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-omigosh!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hehe. Don't count me out!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Thanks for the support, everyone!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "All your cheers and well wishes are my strength. I\npromise to pay you back with a wonderful race\nbetween myself and my equally wonderful rivals!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'm excited to have a no-holds-barred battle with\nyou too, Shakur!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Cool story. Not interested."
+        },
+        {
+            "name": "Fan A",
+            "text": "Man... The way Air Shakur acts... It's not even\n\"cool\" or edgy anymore, it's just rude."
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, its hard to get excited about her. If she's\ngonna behave like a total monster, I'd rather she\n<i>ran</i> like a monster too. I thought that's the kinda\nperson she was, anyway."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I dare you all to look at me now and say I just\ngot lucky.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Generations, rivals... Don't push that crap on me.\nI want nothing to do with it.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I'm not runnin' because I want people's attention.\nI run to improve myself.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You want tenacity? I got it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I don't need anyone expecting anythin' from me.\nThey'll learn soon enough what it really means to\nbe the real deal.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My rise starts today!"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Bright",
+            "text": "Phew... Progress is... rather hard... to come by...\nIsn't it?",
+            "choice_data_list": [
+                "A-are you okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yes... My legs feel... slightly heavier... than\nnormal... That's all..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I may... move a touch... slower... than usual..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "However... it is but... a trifle... in the face... of\nvictory... I shall... persevere..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The non-stop racing has taken its toll on her... I\nshould probably adjust her schedule."
+        }
+    ]
+}

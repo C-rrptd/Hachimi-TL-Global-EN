@@ -1,0 +1,127 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ouch... Letting my mind drift during practice\nwasn't my smartest move. I need to focus on\nwhat's happening in front of me."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I won't be doing that again. All right, back to\ntraining."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ow!",
+            "choice_data_list": [
+                "Does it still hurt?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I can't say it doesn't... But this is nothing\ncompared to the injury I suffered when I was little."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sure it'll be fine once we wrap it up. Now, let's\nnot waste any more time.",
+            "choice_data_list": [
+                "You need to take a break.",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sure it'll be fine once we wrap it up. Now, let's\nnot waste any more time.",
+            "choice_data_list": [
+                "You need to take a break.",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?",
+                "I'll stop you if it looks like you're pushing\nyourself, okay?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But my rivals will get even farther ahead if I don't\nkeep practicing.",
+            "choice_data_list": [
+                "And you think keeping up with them is worth\nrisking a major injury?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, I... I..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I guess I can't argue with that."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If I continue practicing while injured, it's far more\nlikely that I'll seriously hurt myself and be forced\nto lose even more progress..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yet despite understanding that logically, I just\ncan't... <i>Sigh...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sorry... I'll do as you say and take a break."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's fine by me!"
+        },
+        {
+            "text": "I treat her injury with some basic first aid and\nkeep a close eye on her condition."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Phew... It feels a lot better. Thank you. Shall we\nhead to the track?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ow..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The area around the injury is getting a little\nswollen, but it's all right. I just need some\npainkillers, and I'll be—",
+            "choice_data_list": [
+                "No. No more running. You promised, remember?",
+                "No. No more running. You promised, remember?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "B-but!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Urgh... That disapproving glare of yours hurts me\nfar more than my actual injury."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Fine... I'll go get it looked at."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It feels fine when I run on it. I should be able to\nkeep training.",
+            "choice_data_list": [
+                "Don't push yourself too hard."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I won't. I know it's still not fully healed, and I\ndon't want it to get worse, so I'll be careful."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You've always believed in me... and met my\ndemands accordingly. Now it's my turn to heed\nyour advice."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Okay! I'll start with about ten percent of my\nstrength and see how I fare."
+        },
+        {
+            "text": "Training goes just fine, and her injury heals with\nno problems!"
+        }
+    ]
+}

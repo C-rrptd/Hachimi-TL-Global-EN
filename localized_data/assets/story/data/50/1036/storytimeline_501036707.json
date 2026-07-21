@@ -1,0 +1,61 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur's been in something of a slump lately,\nso we've come to a shrine."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There's no logic behind asking for divine\nblessings, so I've never put any stock in it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But Doto keeps hasslin' me about it, sayin' I\nshould at least try it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This should shut her up, at the very least. Freakin'\nbusybody."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All right, then. If you think you can help me out,\ngo ahead and try."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...It'd be ridiculous if it were this easy to fix\nthings. I'm the only one who can change myself."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh, Doto just messaged m—what the?!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It seems the headphones I lost last month just\nturned up...",
+            "choice_data_list": [
+                "Sounds like you've been blessed."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Pft. Yeah, right..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although she doesn't believe in blessings, the\nstream of lucky coincidences that follow help her\nregain her momentum."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh perfect, rain. And right after I prayed too.\nChalk that down as a bad omen."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "As expected, the only person I can rely on is\nmyself. I should've just stayed home coding."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur ends up getting soaked in the rain and\nfails to climb out of her slump."
+        }
+    ]
+}

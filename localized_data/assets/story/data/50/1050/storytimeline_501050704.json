@@ -1,0 +1,415 @@
+{
+    "title": "『gg』",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "Hey, you wanna play RDLI again?",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After that one day we hung out, Narita Taishin\nand I have been battling each other on RDLI\nregularly."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm getting bored beating you every time. It's\ngotten to the point where I think I'm kind of done\nwith this game entirely...",
+            "choice_data_list": [
+                "Fine, this'll be our last match, but I'm not losing!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You seem pretty sure of yourself."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whatever. Let's finish this for good, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "There's a reason I'm so confident, and that's\nbecause I met up with one of her close friends for\nadvice on how to win. That person was...",
+            "choice_data_list": [
+                "Winning Ticket.",
+                "Biwa Hayahide.",
+                "Super Creek."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "The way to beat Taishin is..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Just trying really, <i>really</i> hard!",
+            "choice_data_list": [
+                "That's it?!"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yep! The key to anything is having the right\nmindset!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin's not the most open person in the world,\nwhich can be tough..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But she's not a bad person either! So all you gotta\ndo is be persistent!",
+            "choice_data_list": [
+                "Oookay..."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "But wow, I'm so glad Taishin has you as her\ntrainer! You really care about her so much!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ooooh! I'm sooo <i>happy!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I know this might be a tall ask, but please take\ngood care of her!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Please, oh please, <i>oh pleeeaaase!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, we really didn't talk\nmuch about the game itself. What's important is...",
+            "choice_data_list": [
+                "(I have to try!)"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Uh, you ready? Let's start."
+        },
+        {
+            "name": "Monologue",
+            "text": "And the final result of our fierce match is..."
+        },
+        {
+            "name": "Monologue",
+            "text": "YOU LOSE."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wow, you still suck."
+        },
+        {
+            "name": "Monologue",
+            "text": "My final game against Narita Taishin is a\none-sided stomp."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It looked like you had some kind of strategy, but\nyou still lost... What were you doing anyway?",
+            "choice_data_list": [
+                "I was trying really hard!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What?",
+            "choice_data_list": [
+                "The secret to victory is willpower, so I just tried\nreally hard to win!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pfft. The heck are you on about? You sound just\nlike Ticket—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "—I mean...",
+            "choice_data_list": [
+                "Was that a chuckle I heard from you?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "N-no! You heard wrong!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! I'm leaving."
+        },
+        {
+            "name": "Monologue",
+            "text": "I expect her to storm off after her mood worsens,\nbut instead, she stands there and stares at me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What are you just standing there for?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It hits me that she's waiting for me so we can\nleave together. I've never felt closer to Narita\nTaishin than I do in that moment."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, you play games with Taishin—it all makes\nsense now. I've been wondering why she's been in\nsuch a good..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oops, don't mind me. Sorry, I'd love to give you\nadvice on how to beat her, but gaming is\nunfortunately outside my area of expertise.",
+            "choice_data_list": [
+                "Oh...",
+                "Oh..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "However, I can give you information on Taishin\nherself.",
+            "choice_data_list": [
+                "You can?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe. There's nothing stopping you from\nemploying some tricks outside the game in order\nto win."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Still, it won't be as easy as I make it out to be.\nThis is between you and me, but Taishin..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After stubbornly refusing to lose multiple battles,\nwe're thrown into sudden death. I can finally put\nBiwa Hayahide's tip to use."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Grr, you just won't die, will you? Give up already."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tch!",
+            "choice_data_list": [
+                "(Now!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide told me that Narita Taishin clicks\nher tongue when she's impatient, and that's when\nI should strike if I want to win!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What? Hey! What are you—"
+        },
+        {
+            "name": "Monologue",
+            "text": "YOU WIN!",
+            "choice_data_list": [
+                "I beat you!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...No way."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You won? Against <i>me?!</i> Did I seriously just lose to\na low-rank noob like you?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She mumbles to herself in disbelief, apparently\nvery shocked by her loss.",
+            "choice_data_list": [
+                "Thanks for playing with me one last time."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What do you mean? Oh, right. I did say that...",
+            "choice_data_list": [
+                "Well, see you."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Wait."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That was a fluke. You only won because I messed\nup, and I'm not gonna let things end like this."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I challenge you to a rematch!",
+            "choice_data_list": [
+                "But you said that was the last time..."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You want to entertain me, right? Then keep\ngaming with me.",
+            "choice_data_list": [
+                "So you <i>are</i> having fun!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ngh! That's not what I said! Come on, let's play\nalready!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This isn't exactly how I thought things would go,\nbut I feel a little closer to Narita Taishin."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'm not gonna let the score end this way! No more\nholding back—you're dead!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At least, I think we're closer?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, wow! So you're trying to entertain her with\nsome fun playtime?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "What a nice trainer you are! Oh, yes-you-are!",
+            "choice_data_list": [
+                "Um, I...",
+                "Um, I..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, that Taishin can be just a little—and I do\nmean just a <i>tiny bit</i>—difficult to handle, but that's\nwhat makes her so charming!",
+            "choice_data_list": [
+                "You're right, but that's not what I wanted to\ntalk abo—"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah! Where are my manners? You wait right here,\nand I'll go make us some tea."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I hardly ever get the chance to talk to someone\nelse about little Taishin after all.",
+            "choice_data_list": [
+                "You really don't have to—",
+                "You really don't have to—"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "No need to be polite! You just sit back and relax."
+        },
+        {
+            "name": "Super Creek",
+            "text": "There, there! You're such a nice trainer! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, I didn't learn anything\nat all from Super Creek!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why are you sweating bullets out of nowhere?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whatever. Let's just start."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swish! Slash, slash! Pow!</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Heh."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin is on fire, and I can't think of any\ncountermeasures to stave her off. I'm fighting for\nmy life!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just when I think I'm doomed to lose, the screen\ndisplays a message."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Dang it. Time's up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time runs out, and we end in a draw.",
+            "choice_data_list": [
+                "Why didn't you finish me?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Usually, she's all about going on the offensive,\nbut this time, she mostly observed and hardly\nattacked."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I just wanted to see what you were up to.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You seemed so sure of yourself, so I wanted to\nsee what kind of strategy you had up your\nsleeves."
+        },
+        {
+            "name": "Monologue",
+            "text": "The fact that she purposefully held back to give\nme a chance to win really touches me. Without\nrealizing, I suddenly blurt out...",
+            "choice_data_list": [
+                "You're such a nice kid.",
+                "You're such a nice kid."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Excuse you?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nice? <i>Kid?</i> Are you joking?",
+            "choice_data_list": [
+                "(Oh no, Super Creek's way of talking rubbed off\non me!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I brace myself for the barrage of angry insults\nheaded my way... but they never come."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Don't treat me like a child. Sheesh.",
+            "choice_data_list": [
+                "(Huh?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words are harsh, but she doesn't seem angry.\nNormally, she hates being treated like a kid..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Look, if you didn't get to do your strategy, we\ncan play again."
+        },
+        {
+            "name": "Monologue",
+            "text": "For some reason, she's a lot nicer than normal."
+        }
+    ]
+}

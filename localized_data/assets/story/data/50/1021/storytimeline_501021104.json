@@ -1,0 +1,361 @@
+{
+    "title": "夏合宿（2年目）にて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tamamo Cross",
+            "text": "I know I've gotta practice, but still... I don't want\nanyone seein' me all weak like this."
+        },
+        {
+            "name": "Monologue",
+            "text": "She needs to get reacclimated with racing in a\npack, but she's struggling to bring herself to run\nwith a partner."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I know I gotta run with somebody. But if I look\nweak in front of 'em, I'm done for..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'd never live it down. I'd be the laughing stock of\nthe academy—of the whole racin' scene. The\nmedia and fans'd tear me apart..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She won't budge. Her thorny upbringing has left\nsome real scars."
+        },
+        {
+            "name": "Monologue",
+            "text": "But we're not out of options. We just have to find\nsome runners who won't take advantage of her\nweakness..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hello there, Tamtam, I'm here for the partner run."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Creek... Sorry to drag ya all the way here. But\nyeah, I know I can trust ya..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But Trainer, you want to help Tamtam learn to\nhold her own in a pack, don't you?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I don't think I'll be of very much help on my own...\nWe'll need at least one more person if we're going\nto practice fencing Tamtam in."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's right. But I don't know a single other\nstudent at Tracen who's as kind and gentle as\nSuper Creek."
+        },
+        {
+            "name": "Monologue",
+            "text": "If only we had one more person... Just one more..."
+        },
+        {
+            "name": "???",
+            "text": "Can I join you?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're about to do a partner run, right? I was just\nlooking for someone to race..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O-Oguri!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Why, Oguri..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap—a student who transferred to the\ncentral racing scene from the regional races. She's\nalso known for her voracious appetite."
+        },
+        {
+            "name": "Monologue",
+            "text": "She and Tamamo Cross share a dorm room, and\nI've heard they get along. But the question is, will\nTamamo Cross let her join?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I haven't been doing great in my scrimmages\nlately. The competition keeps forcing me to the\nfar outside."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "If I don't step up my performance, I won't make a\ndent in the Twinkle Series..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I could just go back to my hometown\nempty-handed... but I don't want that. This\nsummer, if I can just..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri... So you've been havin' troubles too..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross looks straight into Oguri Cap's\neyes..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri... Let's do this. We're doin' this."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Let's go on a partner run—the three of us! You,\nme 'n Creek!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're letting me join?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "'Course I'm lettin' ya join. We both got somethin'\nwe gotta do. This is no time to be standin' still."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "No doubt about it! We're gonna find a way to\nsmash through all the walls in front of us!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so the three-person partner running session\nbegins."
+        },
+        {
+            "name": "Oguri and Creek",
+            "text": "Raaaaaah!\nYaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap and Super Creek sprint ahead first as\nTamamo Cross waits, eyes on Oguri Cap."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huh? What's with that form? Trainer, don't ya\nthink her body looks a little low?",
+            "choice_data_list": [
+                "Now that you mention it..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A low center of gravity is a trait shared by many\nsuccessful runners. If that's how Oguri Cap runs,\nthen she has a lot of promise."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I've seen that type of runnin' before someplace..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wait, I know. It's like that big ol' pooch at the\npark...",
+            "choice_data_list": [
+                "...Pooch?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, I used to take my siblings to the park, and\nsometimes I'd see this massive dog."
+        },
+        {
+            "name": "Big Dog",
+            "text": "<i>Woof! Woof, woof!</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa geez, your owner must be a real\nmoneybags. Hey, quit dat!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "That pooch used to come jumpin' all over me.\nHe'd get down low—then he'd pounce like \"bam!\""
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And it'd knock me over like a bowling pin each\ntime. Seein' Oguri like that brings me back."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri doesn't get as low, but if she went all the\nway..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Huuuup!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh?! Tamtam, what are you doing?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Steadying her breathing, Tamamo Cross stoops\ndown, lowering her short frame even farther.",
+            "choice_data_list": [
+                "Now try dashing, just like that."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya think this'll work, Trainer?",
+            "choice_data_list": [
+                "I don't know. But it's worth a shot.",
+                "I don't know. But it's worth a shot."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It checks out. The lower she is, the shorter the\nfall."
+        },
+        {
+            "name": "Monologue",
+            "text": "If we take the pack head-on with this running\nform..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oguri! Creek! Let's get this trio run started!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Raaaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three runners vie ferociously for the lead.\nWill Tamamo Cross's new running form make a\ndifference?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Grrr! Hraaaagh! <i>Whoa,</i> this is new..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm holdin' out—I got this! Nothin's topplin' <i>me</i>\nover. I might be sandwiched in... but my legs\naren't tremblin'!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, Tamtam..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The results are clear as day. Tamamo Cross is\nrunning in a partner race without any fear.\nHowever..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're not getting away from me, Tama!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Agh! It's not easy stayin' low for this long... Gotta\nfind my second wind!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross has no choice but to drop back.\nThe combination of her lingering fear and the\nexhaustion of maintaining a low running position\nare keeping her from overcoming her physical\ndisadvantage."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "A new running form isn't gonna cut it... I need\nsomething else too... Just one more thing should\ndo it! One more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Tamamo Cross struggle, I carefully\nconsider our situation. I feel like we're forgetting\nsomething important."
+        },
+        {
+            "name": "Monologue",
+            "text": "We do need to hold our ground in the running\ncrowd, that's for sure, but that's not the reason\nwe're running. Our end goal is to win."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her small stature, there's no need for her to\nbe jostling up against the competition for long\nperiods of time. Which means...",
+            "choice_data_list": [
+                "You're White Lightning, Tamamo!",
+                "You're White Lightning, Tamamo!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "White Lightnin'..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah... That's right... My secret weapon... is\ncomin' in like a flash of light!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I don't gotta fight all the other racers. If I can\nzoom right by 'em... then problem solved!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Maintaining her low posture, Tamamo Cross\nopens up a considerable gap before launching\ninto her pursuit—like an arrow being drawn back\nbefore it fires."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hunch down. Gather energy 'n then... Blow pass\nall of 'em! I'll seize da win in a flash!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Check out da new 'n improved White Lightnin'!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Kashaaaaa!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following the race, everyone is left at a loss for\nwords. It's as if nobody can believe what they just\nsaw."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Trainer, Tama's running just now...",
+            "choice_data_list": [
+                "That was a testament to the strength in her legs.",
+                "She won through sheer tenacity...",
+                "She won through sheer tenacity..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Trainer, Tama's running just now...",
+            "choice_data_list": [
+                "That was a testament to the strength in her legs.",
+                "She won through sheer tenacity...",
+                "She won through sheer tenacity..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's no easy feat to maintain that posture while\nrunning."
+        },
+        {
+            "name": "Monologue",
+            "text": "The fortitude of Tamamo Cross's legs has taken\nus from the depths of despair to dizzying new\nheights."
+        },
+        {
+            "name": "Monologue",
+            "text": "She persevered despite the pain, and searched\nfor her own path."
+        },
+        {
+            "name": "Monologue",
+            "text": "And now, through her sheer tenacity, she's\nstumbled upon a new running style that'll let her\nrace without paying the crowd any mind."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thanks, you two. And thanks, Trainer. I know\nwhat to do now."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "This isn't me runnin' away from danger, this is me\nfindin' a new path to gettin' stronger. I'll outstrip\neveryone 'n blast ahead!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm gonna train like crazy this summer. By the end\nof the season, my new form's gonna be second\nnature."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'm never gonna stay put again! Trainer, gimme all\nya got.",
+            "choice_data_list": [
+                "No sweat!",
+                "No sweat!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The murky clouds that formed after the accident\nfinally clear up, and White Lightning crackles\nanew."
+        },
+        {
+            "name": "Monologue",
+            "text": "And it's thanks to Tamamo Cross's latent\npotential and creativity... as well as a certain\ndream-chaser from the countryside."
+        }
+    ]
+}

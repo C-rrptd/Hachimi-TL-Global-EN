@@ -1,0 +1,210 @@
+{
+    "title": "銀幕の2人",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "What? My hobbies?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As Mejiro McQueen and I are returning to the\nacademy after a day out, I happen to bring up the\nsubject of hobbies."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Isn't that a bit rude? Asking a lady to reveal her\nsecrets?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Since you've chosen to cross this line, I suppose it\nonly proves your genuine interest in the matter.",
+            "choice_data_list": [
+                "Of course!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Very well, then. I will share with you, if just a\nlittle. Now, come with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "She brings me along to..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Here we are. This isn't publicly known, but..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I... enjoy cinema."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen likes movies? Seems a little\nordinary considering the family she comes from."
+        },
+        {
+            "name": "Monologue",
+            "text": "But seeing as we've come all this way to the\nmovie theater, it would be a shame to simply\nreturn to the academy now.",
+            "choice_data_list": [
+                "Do you want to see a movie now?",
+                "Do you want to see a movie now?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You mean together?! Uh, well, I wouldn't mind,\nbut..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "How does one appreciate a film with someone\nelse?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I... just don't know what to do. For some reason, I\nfeel nervous..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "S-since I can't seem to remain calm, I'll let you\ntake the lead. I trust you'll do well."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now... which film should we watch?"
+        },
+        {
+            "name": "Monologue",
+            "text": "What should I choose? I think the movie that will\nmake Mejiro McQueen happy is...",
+            "choice_data_list": [
+                "<i>Five-Hour Inferno</i>",
+                "<i>The Great Prison Escape</i>"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Five-Hour Inferno!</i> Now that is a film of epic\nproportions. Originally, it was only three and a\nhalf hours long, but..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "The director's cut is said to have lengthened the\nruntime to a total of five hours. Truly a\nnightmarish film..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Very well then. With two of us watching it\ntogether, the nightmare won't be so scary. Let's\ngo!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Phew. I felt like we were in there all day! But, I\nfeel more resilient now for having watched it.",
+            "choice_data_list": [
+                "Was it hard to get through?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No. After all, you were there with me to exchange\nglances and laughter!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe, I suppose it <i>is</i> reassuring to have someone\nwith me to share the experience."
+        },
+        {
+            "name": "Monologue",
+            "text": "After overcoming the five hours of hell, Mejiro\nMcQueen seems to have boosted her willpower!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>The Great Prison Escape!</i> It's a suspense film\nabout a man who uses ingenuity to break out of\nan inescapable prison."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Very well. We shall watch in anticipation how the\nprisoner manages to pull off this great feat."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My goodness! I never imagined the main\ncharacter would escape by becoming a\nfifth-dimensional being!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To be frank, the film's logic was utterly\nincoherent to me, but I found it insightful all the\nsame."
+        },
+        {
+            "name": "Monologue",
+            "text": "It was a surprisingly intellectual movie. Mejiro\nMcQueen seems to have learned a lot as a result."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder how she came to like movies? Feeling\ncurious, I decide to ask her..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It was a... reactionary development. From an early\nage, I had been dedicated to hobbies befitting a\nMejiro, such as flower arrangement and tea\nceremony."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But later, I found myself wanting to enjoy\nsomething that would let me relax and destress."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Um... This is a secret between you and me, all\nright?",
+            "choice_data_list": [
+                "I understand. I won't tell a soul.",
+                "I understand. I won't tell a soul."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you. Remember, a promise is a promise."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Heh. Somehow, I feel as though I've conveyed too\nmuch."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Um... I wanted to tell you. The time we spent\ntogether today was, um... enjoyable."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You are a little different from those in the Mejiro\nhousehold.",
+            "choice_data_list": [
+                "...How so?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "With the exception of my relatives, everyone in\nthe Mejiro household tends to have a line drawn\nbetween themselves and me."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "From my chauffeur to my private tutor, they're all\npolite, yet somewhat reserved."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But you aren't like them. You cross over that line\nwithout hesitation, and... I like that."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Normally, I don't watch movies with the helpers or\nanyone I only have a work relationship with. But,\nI...",
+            "choice_data_list": [
+                "Wait, are you trying to say..."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "N-never mind! What I said just now was a bit\nodd... It must be an aftereffect from the theater."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Just... It was not a terrible experience. Maybe,\nnext time..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, I will leave this conversation to continue at\nanother opportunity. Have a good night, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro McQueen leaves with a light swish of her\ntail. It feels like she has opened up a little."
+        }
+    ]
+}

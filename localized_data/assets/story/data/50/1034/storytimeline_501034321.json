@@ -1,0 +1,342 @@
+{
+    "title": "天皇賞（秋）の後に・届かねえ頂",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Who will take the lead?! Looks like there's a\nfierce fight for the front as the racers sprint up\nthe hill!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ngh!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Damn it! I can't catch up!)"
+        },
+        {
+            "name": "Caster",
+            "text": "Super Creek grabs the lead! She's pulling ahead!\nAaand she crosses the finish line!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Townsman",
+            "text": "She mighta lost, but Inari was still great out there!\nDefinitely one of the better runners today!"
+        },
+        {
+            "name": "Townswoman",
+            "text": "<i>Sniffle... Sob...</i> That was incredible!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Oh no, Inariii! You were so close!"
+        },
+        {
+            "name": "Chief",
+            "text": "Yeah... You really were so close..."
+        },
+        {
+            "name": "Spectator",
+            "text": "You're amazing, Creek! There's no one better\nthan you! You were so cool out there!"
+        },
+        {
+            "name": "Spectator",
+            "text": "You'll win next time, Oguri! I know you will!"
+        },
+        {
+            "name": "Reporter in Flat Cap",
+            "text": "Looks like the leaders of this generation were a\nwall too high to overcome... This won't help Inari\nOne's reputation of being inconsistent."
+        },
+        {
+            "name": "Reporter in Flat Cap",
+            "text": "But we shouldn't count her out yet! She can still\nturn things around! All she has to do is pull off a\ndecisive victory at her next race. You can do it,\nInari One! I believe in you!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Aaagh!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Dammit, dammit, <i>damn it all!</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "(This race was like a slap in the face from reality!\nThat's how far I needa get if I wanna be\nUmamusume of the Year!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Everyone, thank you so much for rooting for me!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Creek."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oguri?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I'm running in the Arima Kinen. What about you?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. ♪ Of course I'll be there."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then that's where I'll beat you. At the Arima\nKinen."
+        },
+        {
+            "name": "Super Creek",
+            "text": "..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I won't let you win so easily. I'm going to win\nthere just like I won today."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Sounds like it's going to be a good race."
+        },
+        {
+            "name": "Inari One",
+            "text": "..."
+        },
+        {
+            "name": "Inari One",
+            "text": "(They're so confident! Neither of 'em have any\ndoubts that <i>they'll</i> be the one to win and rise to\nthe top!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Rrgh! Damn it! <i>I'm</i> the one who's gotta win\nthough! I've gotta! So why... Just why?!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Why do I still believe they're better than me?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Why don't I feel like the real deal?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Lemme run in the Arima Kinen. Please."
+        },
+        {
+            "name": "Inari One",
+            "text": "Oguri and Creek're gonna be there. I gotta beat\n'em there. I <i>have</i> to."
+        },
+        {
+            "name": "Inari One",
+            "text": "Just defeatin' one of 'em isn't enough. I gotta\nprove I'm better than both of 'em!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I gotta do this. I needa win if I'm ever gonna reach\nthe top!",
+            "choice_data_list": [
+                "Inari..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we set the Arima Kinen as our next\ngoal, so Inari One can have a rematch against\nOguri Cap and Super Creek."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day, while training..."
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Pant... Pant...</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ugh... Ack!",
+            "choice_data_list": [
+                "Inari! Are you okay?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I-I'm fine, Boss! Lemme keep goin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I-I'm fine, Boss! Lemme keep goin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I can't afford to waste a single second! I gotta\nkeep trainin'—I'm not good enough!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ngh...",
+            "choice_data_list": [
+                "Watch out!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I dive forward to catch Inari One just before she\ncollapses and lands face-first on the ground."
+        },
+        {
+            "name": "Inari One",
+            "text": "Sorry... I musta slipped on someth—",
+            "choice_data_list": [
+                "That's enough practice for today!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "You gotta be kiddin' me! I don't have time to rest!\nThe Arima Kinen's right around the corner!",
+            "choice_data_list": [
+                "If you keep this up, you won't be able to run in\nit at all!",
+                "If you keep this up, you won't be able to run in\nit at all!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "But whazza point of runnin' if I can't be the best?!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Y'know what Oguri and Creek are doin' right\nnow? Trainin'! And gettin' miles 'n' miles ahead of\nme!"
+        },
+        {
+            "name": "Inari One",
+            "text": "They're gonna be even stronger than they were at\nthe autumn Tenno Sho."
+        },
+        {
+            "name": "Inari One",
+            "text": "If I wanna claim a huge victory over 'em and take\nthe seat at the very top, then I gotta put my life\non the line and train like I mean it!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Everyone's countin' on me... I..."
+        },
+        {
+            "name": "Inari One",
+            "text": "I don't wanna... let 'em..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One loses all strength halfway through her\nsentence. She falls again, and this time, she's so\nexhausted she can't even speak."
+        },
+        {
+            "name": "Monologue",
+            "text": "I end up taking her to the infirmary, where she's\ninstructed to rest in her dorm."
+        },
+        {
+            "name": "Monologue",
+            "text": "According to the doctor, physical exhaustion\nplayed a part in her collapse, but the main cause\nwas her severe mental distress."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm such a joke..."
+        },
+        {
+            "name": "Inari One",
+            "text": "I can't believe I'm so mentally weak I couldn't\neven finish up my trainin' without collapsing... I'm\npathetic..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Forget becomin' the best... I can't ever face\neveryone back home again...",
+            "choice_data_list": [
+                "You know none of that is true."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...",
+            "choice_data_list": [
+                "Look, just focus on resting now."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...Okay."
+        },
+        {
+            "name": "Inari One",
+            "text": "Damn it..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've never seen her so worn out before. Just\nthinking about her defeated expression makes my\nheart ache.",
+            "choice_data_list": [
+                "I don't know what I'm supposed to do...",
+                "I don't know what I'm supposed to do..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It feels wrong to reassure her that she'll be able to\ntrain again soon. All I want is to ease the burden\non her heart and cheer her up."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want her to return to her normal fiery self... I'm\nher partner—I should be able to do something."
+        },
+        {
+            "name": "Inari One",
+            "text": "Wahoo! Wahoo!"
+        },
+        {
+            "name": "Inari One",
+            "text": "That's more like it! Keep those festival vibes\ngoin'!"
+        },
+        {
+            "name": "Inari One",
+            "text": "C'mon, that includes you too! Wahoo! Wahoo!"
+        },
+        {
+            "name": "Inari One",
+            "text": "This place is part of who I am. I'm only the stylin',\nfearless Edo girl I am..."
+        },
+        {
+            "name": "Inari One",
+            "text": "...'Cause of the people livin' here."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I sift through the memories I shared with Inari\nOne, I manage to think of something that might\nbe able to help her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Except, if I try it now, what if it has the opposite\neffect?",
+            "choice_data_list": [
+                "(No. I can't think like that.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's skills as a racer are the result of her\nbond between her and the people of her\nhometown."
+        },
+        {
+            "name": "Monologue",
+            "text": "The only thing I can do is place my faith in that\nbond!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, I muster up my determination and\nreach out to Chief."
+        },
+        {
+            "name": "Monologue",
+            "text": "And together, we discuss what we'd like to do for\nInari One."
+        }
+    ]
+}

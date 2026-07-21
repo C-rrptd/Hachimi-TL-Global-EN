@@ -1,0 +1,57 @@
+{
+    "title": "阪神JFにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Reporters",
+            "text": "There she is! Quick, get the cameras!"
+        },
+        {
+            "name": "Gold City",
+            "text": "It's like a riot in here. Way different vibes from\nother races I've been in.",
+            "choice_data_list": [
+                "That's because it's the Hanshin J.F.",
+                "That's because it's the Hanshin J.F."
+            ]
+        },
+        {
+            "text": "This is one of the few G1 races for junior-year\nrunners. Those who achieve good results here are\nexpected to do well in the years to come."
+        },
+        {
+            "name": "Gold City",
+            "text": "All eyes on today's field, huh. Then this is my\nchance."
+        },
+        {
+            "name": "Gold City",
+            "text": "I'll show them a performance that will make them\nsee me differently."
+        },
+        {
+            "name": "Gold City",
+            "text": "For myself... and for everyone hoping for my\nsuccess.",
+            "choice_data_list": [
+                "You don't seem nervous today.",
+                "You don't seem nervous today."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? I'm never nervous!"
+        },
+        {
+            "name": "Gold City",
+            "text": "And, like, if you're supposed to be my trainer,\ndon't you have anything better to say?",
+            "choice_data_list": [
+                "Go out there and show them what you're made\nof!",
+                "Go out there and show them what you're made\nof!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Hmph!"
+        },
+        {
+            "name": "Gold City",
+            "text": "You don't have to tell me that!"
+        }
+    ]
+}

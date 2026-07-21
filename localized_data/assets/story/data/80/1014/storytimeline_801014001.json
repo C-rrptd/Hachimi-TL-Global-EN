@@ -1,0 +1,61 @@
+{
+    "title": "メラメラ・ファイアー！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm walking by the academy\nentrance..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Raaah! Blazing! Burning—FIIIREEE!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh no... still not enough power! But that was the\nfinal finishing move in my arsenal...",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whoa! Hola, friend!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I was trying to muster up some power to take on\nmy next race!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "There's no way I could show my face to my\nwrestler papa if I lose in a battle of strength!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, I know! Fate must've brought you here at just\nthe right time!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You know of any ways to boost power? Give me\nsome pointers, por favor!",
+            "choice_data_list": [
+                "You could eat a stamina-boosting meal.",
+                "You could try sprinting with a tire tied to you."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ooh, interesante! So all I gotta do is generate the\npower from inside my body, eh?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Gotta strike while the iron is caliente! Off to the\ncafeteriaaa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ohhh! Problem passionately solved! Call me El\nCondor Happy! That's a great idea!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm muy motivada now! Time to hit the traaack!"
+        }
+    ]
+}

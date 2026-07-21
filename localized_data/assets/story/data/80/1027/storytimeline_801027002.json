@@ -1,0 +1,81 @@
+{
+    "title": "あくまで薦められただけ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking around the academy when I hear\nsomeone talking."
+        },
+        {
+            "name": "???",
+            "text": "<i>Siiigh...</i> My heart's pounding... I wonder if they'll\nconfess their love to each other after this part."
+        },
+        {
+            "name": "Monologue",
+            "text": "I follow the voice and find Mejiro Ryan hiding out\nof sight, secretly reading a manga."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Man, this artist's stuff is the best... All right! I'm\ngonna get the whole series and binge-read 'em\nall!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, what the?! H-how long have you been\nstanding there?!",
+            "choice_data_list": [
+                "What are you reading?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I-it's a romance manga but, uhhh... Oh, yeah! A\nfriend of mine suggested I check out this series,\nand I didn't wanna be rude and not read it."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It's not like I came across an old series by my\nfavorite artist and decided to buy it or anything!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Just so you know, I don't usually read romance\nmanga! I mean, a gym rat like me liking romance\nmanga? Pfft, no way, right? Ahaha!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "The only reason I was thinking of bingeing the\nwhole series is so I can tell my friend what I think\nabout it ASAP... Honest!",
+            "choice_data_list": [
+                "It'd be better to pace yourself.",
+                "You'll exhaust yourself trying to binge it."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "You're right. If I don't get enough sleep, then I\nwon't be able to train to my full potential..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I wanna read it, but I guess I'll hold off... Huh,\nthat's kinda like holding off on making a move\nduring a race to save energy."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Okay, I'll read at a reasonable pace! But don't\nforget—I'm only reading it because my friend\nrecommended it to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Whether it's reading or racing, pacing yourself is\nextremely important."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Aww, but I really wanna read it all—er, I mean... I\nreally wanna tell my friend what I think about it."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I know! I'll adjust my schedule so that I can rest up\nafter my binge-reading session!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "It sucks to have to do this, but things should work\nout if I move my morning weight training to\nanother time slot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I still think <i>not</i> binge-reading the series would be\nthe most sensible option, but at least she's\nfinding time for a proper rest."
+        }
+    ]
+}

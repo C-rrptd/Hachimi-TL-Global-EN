@@ -1,0 +1,140 @@
+{
+    "title": "教えてやろうか？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day off, I decide to have lunch off campus\nfor a change of pace, and find myself unable to\ndecipher a menu written in a foreign language.",
+            "choice_data_list": [
+                "(I can't make head nor tail of this...)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Hah, looks like you don't know a lick of French."
+        },
+        {
+            "name": "Monologue",
+            "text": "I turn to toward the voice coming from the next\ntable next over."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You can't read the menu, can you? Need some\nhelp?",
+            "choice_data_list": [
+                "Would you mind?",
+                "Would you mind?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Sure. I'll only tell you what it says, though. It's still\nup to you to figure out what's good."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words are strangely loaded. Should I swallow\nmy pride and ask for help?",
+            "choice_data_list": [
+                "I'll try to do it myself.",
+                "I need your help."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Suit yourself. Hope that works out for you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Then, after I manage to order..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "What's this? Nothin' but veggies? That's some\nluck you got there.",
+            "choice_data_list": [
+                "Well, this is just great...",
+                "Well, this is just great..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Come on, cheer up. Meals are supposed to be\nhappy occasions."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I suppose I better lend you a hand. Here, pass\nyour plate over."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "All finished. It wasn't bad, but..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "A meal of only veggies really leaves something to\nbe desired. It's not filling. You know what I'm\nsaying, right?",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Take me right now, for example. I'm still\nfamished, and here in front of me, there's a...\nsoft... juicy..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Pfft, haha, hahaha! Relax, I'm not gonna gobble\nyou up or anything."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...Not this time, at least."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Good on you for being honest. Now, let's start\nwith some appetizers..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli explains the menu items and places\nthe order for me. Shortly after..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "An appetizer, soup, and a main to top it off. Not\nbad, eh?",
+            "choice_data_list": [
+                "Thanks for explaining everything!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You're thanking me?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Come on, now. It's a bit early for that, don't you\nthink?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I ponder what she means until the food is\ndelivered... and she moves it all to her own table."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hate to break it to you, but I was just giving you\nan example. In other words, I was ordering for\nmyself.",
+            "choice_data_list": [
+                "Oh..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha, don't look at me like that! You'll only make\nme want to tease you more."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Now try and order on your own. Show me whether\nor not you've learned anything."
+        }
+    ]
+}

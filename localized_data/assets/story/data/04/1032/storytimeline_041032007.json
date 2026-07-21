@@ -1,0 +1,262 @@
+{
+    "title": "問・実験体か相棒か？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, our summer camp begins. We'll be spending the next few\nweeks getting in some good training by the beach."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Or at least, that was the plan."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I have a sudden urge to prove a theory that I've been losing sleep\nformulating. But before we start the experiment—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Trainer, how are you feeling?! Your body temperature? Hours slept?\nFood consumed?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Your condition could greatly affect the results, you see. As such, I\nmust record this data before the experiment!",
+            "choice_data_list": [
+                "Weren't we going to train tod—"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh... My theory concerns the increase of running speeds. You\ncould call it another form of training!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Though, you'll be the one putting in the work.",
+            "choice_data_list": [
+                "No way..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! Don't worry, this time you'll stay conscious."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All right, first we'll measure the energy consumption of your organs\nunder extreme stress. Then we'll crank things up step by step—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tachyon continues talking to herself. Looks like she has no intention\nof partaking in normal training."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "—Which is why it's about time you stopped subscribing to the tired\nnotion that summer camp means a montage of us running along the\nbeach. Try to think outside the box."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "There's no time for us to be twiddling our thumbs when we should be\npursuing the limits of speed. Now, let us begin the experiment!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "First, we'll utilize the incline of this road to stimulate your\ncardiopulmonary functions!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "To get good data, you'll need to run to the beach and back at least\nthree times."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Is your measuring instrument ready? It'll record your oxygen levels\nonce a lap, so don't forget it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Also, no matter how exhausted you get—don't stop running. I want\ndata from when you're near your limit.",
+            "choice_data_list": [
+                "That's crazy..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What? All you have to do is empty your mind and run like a hamster\non a wheel!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But you are only a guinea pig, so I'm not expecting you to run as well\nas a hamster."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Fear not—I'll be accompanying you. Someone has to make sure you\ndon't veer off course."
+        },
+        {
+            "name": "Monologue",
+            "text": "...And there goes my last hope of escape."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Come on, you can do it, Trainer! Lift those thighs higher! Right—keep\nup this pace!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Keep your breathing steady! Otherwise, you'll make things harder on\nyourself.",
+            "choice_data_list": [
+                "I... need... air..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahaha! Excellent, are you near your limit? We still have two laps to\ngo! Just a little bit more!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm... You suffered greater muscle fatigue than I had expected. Your\nlegs aren't shaking, but I can see that you're trying your best to keep\nstanding."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Okay then, let's move on to the next experiment. I want to collect\ndata on your respiratory organs as you run up a slope in this state."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh, this will be a gold mine of data! This could open the door\nto the potential we seek—the precursor to something great!",
+            "choice_data_list": [
+                "I'll do what I can...",
+                "I'll do what I can..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Or, it would've been. Looking at you, you're not almost at your\nlimit—you're past it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It appears my calculations were off. Since we can't get the data right\nnow, we'll have to reschedule the experiment.",
+            "choice_data_list": [
+                "Are you sure that's okay?",
+                "Are you sure that's okay?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I have no complaints if you wish to continue. But I'd rather use this\ntime to perform another experiment than record unnecessary data."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That said, I don't seem to be carrying anything useful. Hm...",
+            "choice_data_list": [
+                "Can we use seawater for anything?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Seawater, you say? Of course, swimming isn't the only thing you can\ndo in the ocean. But what are we to do without the right tools?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Don't tell me you were thinking of drinking it?",
+            "choice_data_list": [
+                "Maybe we could freeze it and use it to ice\ninjuries?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Icing... Considering today's weather, the temperature of the ocean\nmust be over twenty-five degrees Celsius. Not the ideal temperature\nfor ice."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm, your idea is banal yet has its merits. For instance, I never\nwould've come up with that idea myself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "By focusing the water on your muscle contractions, we could collect\nnew data—No, that would only retain heat. Hm..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've decided! The ocean possesses its own unique salinity, buoyancy,\nand tidal friction. We must verify how your body will react to these\nelements!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I see, this is very interesting data indeed. Not quite enough to prove\nmy theory..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But if I focus my research in this direction, then surely a breakthrough\nis inevitable!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh... This will work, I'm sure of it! Trainer, it's time to\ncompile the data! Lend me a hand!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We return to the dorm and begin sifting through today's data. Of\ncourse, we pull an all-nighter experimenting as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "The next day..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "<i>Yawn...</i> A good morning to you, Trainer!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I must express my gratitude for your cooperation. Thanks to you, I was\nable to develop a new medicine based on my theory."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Regrettably, it's still only on paper. I don't have my tools here at\ncamp, so production will have to wait until we return to the academy."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But before that, I'd like to get your opinion on something. Did you\nnotice anything from our research last night?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I especially want to hear about ways to increase the efficiency of\nsupplying oxygen to the muscles during contraction. Tell me all that\nyou know."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You see, there's a certain value in the opinion of an amateur. Your\nopinions are novel—even your simple questions spark my interest."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Most importantly, you're the only one who goes along with my\nexperiments. I'm expecting great things from you, my guinea pig\nassistant!",
+            "choice_data_list": [
+                "Assistant?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You're a capable test subject, and your perspective is invaluable.\nHolistically speaking, what are you if not my assistant?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Guinea pigs and assistants are equally invaluable to a researcher like\nmyself. So if you ever have an interesting thought, share it with me!\nI'm all ears!",
+            "choice_data_list": [
+                "I see you're finally listening to what I have to\nsay.",
+                "I see you're finally listening to what I have to\nsay."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh, have I not been? Hm, perhaps we could call this another step\ntowards the potential we seek."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Rejoice, Trainer! This single step will indubitably lead us down a\ngreater path."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And with that out of the way, let us resume our experiments! Our time\nhere is finite, after all."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I miscalculated yesterday, but this time I'll work you to the brink of\nyour limit! Let us begin, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tachyon makes me run despite my lack of sleep, and before I know it,\nI've reached my limit once again..."
+        }
+    ]
+}

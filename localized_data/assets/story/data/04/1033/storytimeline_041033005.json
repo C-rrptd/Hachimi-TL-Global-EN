@@ -1,0 +1,158 @@
+{
+    "title": "瞬く夜に揺れ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Not enough... More... I need to run more..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Some time has passed since I became Admire Vega's trainer.",
+            "choice_data_list": [
+                "(She's still not digging into the ground enough.\nAlso...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I add to my already copious notes on her running. These will help me\ndevelop a regimen to prepare her for her next race. But the real\nquestion is..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Whether or not she'll actually listen to my advice."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes minor feedback well, but when it comes to anything that\nwould involve us working as a team..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm fine being alone. Prefer it, even."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I mean, I'll need a trainer to compete in the Twinkle Series."
+        },
+        {
+            "name": "Monologue",
+            "text": "She might not be the most receptive to a program that requires close\ncooperation.",
+            "choice_data_list": [
+                "(But, well...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm her trainer, and I've already said that her attitude won't stop me\nfrom supporting her. It's at least worth a shot."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I'm going off campus for a run.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't bother waiting for me."
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes off before I get a chance to respond. I'd try to catch up,\nbut I know firsthand that's not happening."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(This is fine. I can still run. I can go far, somewhere I can be close to\nthe stars. Alone.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I am... alone..."
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time I finish organizing my notes, night has crept up on me.",
+            "choice_data_list": [
+                "Just a little longer..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to be sure I can make my case to her tomorrow. I need to prove\nthat I can be helpful."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Again? Of all the places..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Trainer, you'll catch a cold. If you're going to sleep, do it at home."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh.</i> Computer's still on, notes strewn about..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Likes stars.\" \"Change training time?\" \"Somewhere we can see the\nstars? Ask Tazuna.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"There has to be more...\""
+        },
+        {
+            "name": "Admire Vega",
+            "text": "\"What more can I do for her?\""
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why? I... I've said I'm fine alone... time and time again..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(I wanted to go see the stars. To run and run as far as my legs would\ntake me.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(But...)"
+        },
+        {
+            "name": "???",
+            "text": "(There was someone waiting back home.)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...No, that's not it. I came back because... because of curfew. That's it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "All your hard work... I'm not the one who should be benefiting from it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(No... There's someone else more deserving. Someone who would've\nshone brighter, like a brilliant star...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "My one... and only... sister."
+        },
+        {
+            "name": "Monologue",
+            "text": "Someone covers me with the blanket I'd left on the sofa. Too\ncomfortable to open my eyes, I hear footsteps fading away as I\ndream."
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "title": "ビワハヤヒデ登場！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Infirmary Doctor",
+            "text": "Stand up straight and pull your chin in. Good. I'll\nmeasure your height now."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm sorry to ask for a physical exam so suddenly. I\njust wanted to make sure my application is filled\nout accurately."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "There's no need to apologize. There, all done.\nYou're 171 centimeters. Oh, you've gotten taller."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "I guess you must still be growing. I'll forward the\ninformation on."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you. I'll take my leave no—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Is something wrong?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Oh, uh... No, nothing's wrong. This smell just\nbrings back some memories."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(I remember lying in a hospital bed then, trying to\ncome up with a single equation...)"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(A winning equation to beat her.)"
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "<i>Pant... pant...</i> Okay! I'm gonna pick up the pace,\nBrian!"
+        },
+        {
+            "name": "Young Brian",
+            "text": "Wow, really?! Me too, me too! I'm not gonna lose\nto you!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(I wonder, when was the last time I was ahead of\nher?)"
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "Doctor? May I borrow <i>Kinematics in Sports</i> next?\nI want to get faster."
+        },
+        {
+            "name": "Doctor",
+            "text": "Now's not the time to think about that. You need\nto rest. You do want to recover quickly, don't\nyou?"
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "Yes, but I think now's the best time to do a lot of\nthinking."
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "The truth is, I panicked because I was about to\nlose... and that's how I got injured."
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "That's why I need to come up with a winning\nequation."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "(So I don't lose again...)"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you for your help. I should go now."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Don't mention it! All of the staff at the academy\nare here to support you students."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Congrats on your debut. Keep it up!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you. I will."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sorry to keep you waiting, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "When I greet Biwa Hayahide after her health\nexam, I'm glad to see her looking refreshed and\nfree of worries."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us are going to tackle the Twinkle\nSeries starting today.",
+            "choice_data_list": [
+                "Let's both work our hardest!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Indeed. Now that the date of my debut race has\nbeen decided, we know what we need to do."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Train hard, formulate a path to victory, and go\ninto the race with a solid strategy. The results will\nfollow."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "First, let's start by checking my times to assess\nwhere I currently am."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Pant... Huff...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biwa Hayahide is at the other end of the track in\na flash."
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to measure her time after each\nfurlong, or 200-meter interval. I look at my\nstopwatch to check."
+        },
+        {
+            "name": "Fellow Trainer A",
+            "text": "That's a pretty fast lap. I wouldn't expect any less\nfrom Narita Brian's big sister.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Fellow Trainer A",
+            "text": "Haha, don't look so surprised. We're just here to\nscope out the so-called \"number one contender\"\naround here."
+        },
+        {
+            "name": "Fellow Trainer B",
+            "text": "She didn't get that title for nothing. Her run was a\nsight to see in the scrimmage I saw the other day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, a group of other trainers have\ngathered around to watch."
+        },
+        {
+            "name": "Fellow Trainer B",
+            "text": "We're all trainers here, right? We need to see how\nyou carry out your training sessions!"
+        },
+        {
+            "name": "Fellow Trainer C",
+            "text": "I must say, I was surprised when I heard Brian was\ngoing to debut before her older sister. But I\nguess—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me. I'm glad everyone's having such a\ngood time, but I need to have a word with my\ntrainer."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me. I'm glad everyone's having such a\ngood time, but I need to have a word with my\ntrainer."
+        },
+        {
+            "name": "Fellow Trainers",
+            "text": "...!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, well... Aren't you popular?",
+            "choice_data_list": [
+                "I'm not the one who's popular. It's you!",
+                "I'm not the one who's popular. It's you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Biwa Hayahide what the other trainers were\nsaying about her."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. So I'm considered the number one\ncontender, huh?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, that's very flattering, but I can't accept such\na mantle as things are at the moment."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The reason they took an interest in me to begin\nwith is because I'm Narita Brian's sister."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Besides, I'm no more than above average at the\nmoment, and I'm not satisfied with that."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I don't simply want to be above average. I want\nto become the strongest racer here."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her steely gaze seems fixed in her mind's eye on\nsomewhere—or someone—as she says this."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I wonder... What result will the final computation\nof my equation bring? I wonder if victory exists\non the list of potential answers.",
+            "choice_data_list": [
+                "Of course it does!",
+                "Of course it does!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Pfft... hahaha! I nearly forgot the type of person\nyou are. Of course you'd say that."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, I'll need all the help you can give me. Let's\ncomplete the winning equation... together."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how my journey with Biwa Hayahide\nbegins."
+        }
+    ]
+}

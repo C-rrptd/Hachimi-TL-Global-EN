@@ -1,0 +1,203 @@
+{
+    "title": "Hot Spring Getaway",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Manhattan Cafe and I have seized\na number of victories..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Look... The wind is blowing something around.\nWhat could it be?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I pick up the paper tumbling about on the\nground... and find that it looks familiar."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Isn't that... the hot spring ticket we won in the\nraffle the other day?"
+        },
+        {
+            "name": "Monologue",
+            "text": "None of this makes any sense. What's this ticket\ndoing here? I know I put it somewhere safe..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Wait... we have a problem. We have to use this\nhot spring ticket before it's too late..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Is something going to happen? Has she seen some\nkind of ill omen?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It is almost upon us... The expiration date."
+        },
+        {
+            "name": "Monologue",
+            "text": "...And back to the present. After quickly\narranging some time off, we head towards the hot\nsprings."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm soaking in the hot spring..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe sure is taking her time in the hot\nspring. Just as I start to worry..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer... My friend..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She drowned in the hot spring...",
+            "choice_data_list": [
+                "...She <i>what?</i>",
+                "...She <i>what?</i>"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She sank beneath the waters... I suppose she\nwasn't used to the springs..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Not being used to the hot springs is one thing,\nbut drowning is another entirely...",
+            "choice_data_list": [
+                "Is she okay?!",
+                "Is she okay?!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "She's fine... I don't think she needs air... She\nwaved to me as she went down."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But... I felt a little lonely. Since she's... always with\nme."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe looks apprehensive. While I'm\nthinking of ways to help..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer... You're quite similar to my friend, aren't\nyou?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Just for today... in this room, could you... stand in\nfor my friend?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod without saying a word, then try to imagine\nI'm her friend."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehehe... The food is delicious..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Would you like some?",
+            "choice_data_list": [
+                "Sure!",
+                "Sure!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Wait... Can you even eat?",
+            "choice_data_list": [
+                "I... I don't think I can..."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I didn't think so... You never usually eat..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Can I eat yours instead?",
+            "choice_data_list": [
+                "Oh? But...",
+                "Oh? But..."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Do you want it?",
+            "choice_data_list": [
+                "...No."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I struggle to ignore my hunger pangs and stay in\ncharacter as an inhuman entity."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It's okay... You don't have to pretend anymore.\nYou're not my friend..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But even though you're not, I've come to realize\nthat's for the best..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "When you're with me... I have a different kind of\nfun..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I hope we can talk about many more things\ntogether..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Freed from my acting duties, I feel a little more\nrelaxed. It looks like I'm safe to go on being\nmyself."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehe... Listen closely. Here, come to the\nwindow...",
+            "choice_data_list": [
+                "Are we listening for the insects?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No... I can hear something dragging itself out of a\nbody of water..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It sounds like... My friend... has gotten out. She's\ncoming this way..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Squelch, squelch, squelch...</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hehe, she's almost here... Look, through the\nwindow..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Now that the three of us are all together... What\nshall we do?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Don't worry... The night is young..."
+        },
+        {
+            "name": "Monologue",
+            "text": "In a panic, I grab the cushion I'm sitting on and\nput it over my head. After that... everything's a\nblur."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I sense that Manhattan Cafe and I have\nformed an irreplaceable bond during our time\ntogether."
+        }
+    ]
+}

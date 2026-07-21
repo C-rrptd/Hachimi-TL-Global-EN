@@ -1,0 +1,225 @@
+{
+    "title": "ハッピー☆ラッキー☆カムカム",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While visiting a zoo with Copano Rickey..."
+        },
+        {
+            "name": "Familiar Voice",
+            "text": "Huwhaa?! Stop right there, monkey! That stuffed\ntoy is MINE!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hm? That voice is... Fukukitaru?! Let's go check it\nout!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "M-my lucky penguin... Spirited away by a\nmonkey..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've hit rock-bottom unhappiness! No doubt, my\nfortune's going to read..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I-I knew it! The worst luck possible!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hey, Fukukitaru! Are you okay?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah! Master Rickey!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I've fallen into a pit of rotten luck! Pleeease, use\nyour feng shui expertise to pull me out!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I see. So, the stuffed toy you won from the\nsouvenir store raffle was taken by a monkey, huh?",
+            "choice_data_list": [
+                "What rotten luck.",
+                "What rotten luck."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Yeah... The lottery is all sold out, so I can't even\nbuy another one. Both my luck and mood are\ndown the drain!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Okay, I understand the situation! Allow me to\nsolve your problem, Copa-style! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Fukukitaru, your personal trigram is \"qian\" right?\nIt seems that your qi today isn't syncing well with\nthe earth... This means you should avoid things\nlike mountains, soil, rock, the colors yellow and\nbrown. And further, the northeast..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's right... this is the zoo's northeastern zone!\nAlso, the monkey area was built to emulate a\nmountain with its rocky formations and bare\nearth... Plus, the monkeys are brown... EEEK!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But don't panic! We'll be able to improve your\nnegative energy flow by weakening the earth's\nelemental qi with wood! And since we're at the\nzoo..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ta-daaa! Welcome to the bunny corner! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Lush green trees in the eastern corner and rabbits\nwhich symbolize wood! You'll be able to soak up\nplenty of positive energy here!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hahaha! This is total heaven! As Doto might say,\nthere was hope for salvation after all!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ahhh. ♪ Wasn't that area just fantastic with all its\ngreenery and fluffiness?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "U-um... So, now that I've absorbed a bounty of\nwood energy, my fortune should soon skyrocket,\nright?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well... Of course, I think you've been set on the\npath to happiness. But, don't forget that feng shui\nis only a method of drawing out positive energy\nand harmonizing with your environment."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The rest is up to you! Happiness is something you\nneed to seize with your own hands! It comes to\nthose who go forth with a positive mindset!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I-I see..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But I believe in you, Fukukitaru! You're always\nearnestly seeking happiness! Plus, I'll be here to\noffer my support if you need it. Let's become\nhappy together!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O-oh... W-well, hearing that from you makes me\nthink I actually can!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "But, I guess I'll have to accept that I won't be\ngetting my stuffed toy back."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Nuh-uh, we still have options! Hey, Trainer!",
+            "choice_data_list": [
+                "Let's explain the situation to the staff.",
+                "There might be other souvenir stores to look\nthrough."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You're right! Let's at least see if anyone knows\nanything. Things might turn out to our benefit!"
+        },
+        {
+            "name": "Staff",
+            "text": "I'm really sorry for the trouble! We actually had\nanother one of those stuffed toys in storage.\nHere, I've brought it out for you."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Th-thank you so much!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I totally didn't think of just asking the staff! You\nalways know exactly what to do, Master Rickey!",
+            "choice_data_list": [
+                "We're just glad we could help!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "So, then, what are you going to do now,\nFukukitaru?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well... I'm still worried about my luck turning bad\nagain, so I think I'm gonna head back to the\nacademy before anything else happens."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Aww, what a waste! We bumped into each other,\nso we should hang out longer! Come on, it'll be a\nlot of fun!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Rickey..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "You're right. I need to think positively and seize\nhappiness with my own hands."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Okay... Let's continue hanging out! And actually,\nI've barely seen any of the zoo at all. So, I want to\nhave as much fun as possible while I'm here!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's the spirit, Fukukitaru! Let's get going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The three of us end up having a pleasant time at\nthe zoo."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's right! The other souvenir stores should be\nlocated on the zoo map!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hmm. Ah, there's one more location! Let's check\nit out!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Found it! And they still have loads of raffle prizes\nleft!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Which means I'll have to draw another lot. Feng\nshui may have helped me out earlier, but my base\nluck is still through the floor..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It'll be fine! You've got both feng shui and us on\nyour side! If you just believe in yourself and act\npositively, you'll seize that happiness!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Oh, Master! Y-you're right. Think positively... I'm\nhere to win!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O-one more time!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm not finished yet!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This time for sure!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I-I did it! I got another lucky penguin!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I see now—having a positive mindset is super\nimportant for achieving happiness. It's all thanks\nto your words of support, Rickey!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I merely showed you the path of feng shui! It was\nyou who beckoned the happiness to yourself,\nFukukitaru!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanefukukitaru's face lights up with pride\nupon hearing Copano Rickey's response."
+        }
+    ]
+}

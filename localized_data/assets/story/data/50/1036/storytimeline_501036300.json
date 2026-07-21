@@ -1,0 +1,116 @@
+{
+    "title": "夏合宿（2年目）終了",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Hm. I've completed all my goals."
+        },
+        {
+            "name": "Monologue",
+            "text": "The summer camp leading up to the Kikuka Sho\nappears to have been a highly satisfying training\nexperience for Air Shakur."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All that's left is to find a good place to feed\nParcae the data on what we've achieved."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It looks like the Kikuka Sho might be a bigger\ndeal than I anticipated."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur can now speak about her future\nwithout trouble. It's a very touching sight, on the\none hand...",
+            "choice_data_list": [
+                "(But ultimately, I wasn't able to fill Parcae's\nplace.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I wiped myself out just prepping for camp, then\nworked myself ragged the whole trip... I've barely\neven slept.",
+            "choice_data_list": [
+                "<i>Yawn...</i>"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Sorry."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Why? Yawn all you want for all I care."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're sittin' with someone else on the bus back.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...? I feel like Tachyon was sitting next to me\nbefore..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You sayin' you wanna sit next to her?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No, not pa—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then, who cares?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You. You're next to Cafe now. She keeps quiet,\nso you can sleep if you want.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Wow... You would sit next to Tachyon yourself for\nthat?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I didn't realize you... You care about your Trainer\na lot."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You have no idea what you're talkin' about. It's\njust about efficiency."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I need my trainer to take every opportunity to\nsleep. I won't have any screwups in my training\ndue to exhaustion.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But... are you really okay leaving your trainer with us?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I thought you weren't comfortable with my friend's\npresence."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not my problem. I'm sittin' somewhere else."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to some maneuvering on Air Shakur's part,\nI sleep well on the journey back to the academy."
+        }
+    ]
+}

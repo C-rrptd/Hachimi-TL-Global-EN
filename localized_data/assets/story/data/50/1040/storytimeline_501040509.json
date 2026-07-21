@@ -1,0 +1,28 @@
+{
+    "title": "連続出走で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm working in my office when Gold City enters\nlooking exhausted.",
+            "choice_data_list": [
+                "Aren't you supposed to be in class?",
+                "Aren't you supposed to be in class?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "I promise I'll go to class after, so can you just let\nme chill here a little?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I don't want anyone to see me slipping. Can't\nhave them worrying about me or thinking I'm not\ngood enough."
+        },
+        {
+            "name": "Gold City",
+            "text": "I know I can't keep on like this, but... I just can't\nmuster up the motivation... <i>Sigh...</i>"
+        },
+        {
+            "text": "She must be burnt out from all the races I've had\nher in. It might be better to review her schedule\nlooking forward."
+        }
+    ]
+}

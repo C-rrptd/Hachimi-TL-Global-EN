@@ -1,0 +1,238 @@
+{
+    "title": "薄暮のひと幕",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "Just a little longer now... Hehe, waiting for the curtain to rise is so\nexciting, isn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Earlier that day..."
+        },
+        {
+            "name": "???",
+            "text": "Thank you for seeing me off. I'll be sure to call you when I'm on my\nway home."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, Trainer, good day to you. I didn't expect to see you here.",
+            "choice_data_list": [
+                "Are you headed somewhere?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Yes, I'm headed to the theater. One of our family's sponsors sent us a\ncouple of tickets for a play."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My sister was supposed to join me, but she unfortunately has a race\ntoday, so I'm going alon—ah!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I understand that this is very sudden, but would you like to join me?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm so glad we could see this play together, Trainer. It's a very\npopular piece—one that I've been meaning to see for some time now.",
+            "choice_data_list": [
+                "What's it about?",
+                "What's it about?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's the story of two knights who decide to seek fame and fortune by\nexpelling a ghost from a haunted castle. It's a comedy."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I've heard it's based on a classic, but according to reviews, it has its\nown merits as a piece of contemporary—oh, it's starting."
+        },
+        {
+            "name": "Knight A",
+            "text": "My friend, do my eyes deceive me? Is that not the accursed castle,\nsaid to only appear at dusk? What a foreboding atmosphere..."
+        },
+        {
+            "name": "Knight B",
+            "text": "Do not let the tales of ghosts and ghouls frighten you, comrade! O\nLady Luck, grant us your boon on this hunt, so that we may at last\nobtain glory!"
+        },
+        {
+            "name": "Knights",
+            "text": "A g-g-g-g-ghost?! Oh, it was just you... Hey, quit copying me! Arrrghh!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh dear! Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "True to the play's reputation, the theater periodically fills with\nlaughter. But the most memorable part of the play for me is watching\nArdan's reactions."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It seems the reviews were spot-on. It certainly was entertaining to\nwatch those two jump at every single sound, wasn't it?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "However... I am a little sad a ghost never actually appeared. If it were\nme, I would return to that castle every night until I finally saw one.",
+            "choice_data_list": [
+                "You want to meet the ghost that badly?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Doesn't teatime with a ghost sound delightful? I'm sure they'd have\nplenty of stories about the castle's history..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "And... Allowing someone forgotten to shine again for just a moment\nfeels like a resurrection of sorts, doesn't it?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Sigh...</i> What a pleasant breeze."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer, would you like to take a walk with me? The sunset is so\nbeautiful, after all. It almost feels like—",
+            "choice_data_list": [
+                "Like we'll stumble upon that castle?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe... wouldn't that be a splendid surprise."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As a child, I would often imagine myself as one of the characters in\nthe play I had just seen."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I could be anything—a young man or even an old woman. Sometimes\nI'd go on an adventure, while other times I'd do something bad and\nget scolded for it."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We only live once, but through the power of imagination, I felt like I\nwas able to step into the life of another for a brief moment. It was like\na secret game.",
+            "choice_data_list": [
+                "So are you imagining yourself as a knight right\nnow?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm not so sure about that. Perhaps I'm a curious ghost, simply\nobserving the two bumbling intruders who claim to be there to hunt\nme.",
+            "choice_data_list": [
+                "Just observing?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Good point... If the knights had actually found the ghost, would it\nhave wanted to talk to them?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "If it were me, I'd certainly want to know what sort of people the\nknights were."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "For example, what sort of games did <i>they</i> play as children?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh dear! Hehe, you must have been quite the adorable child, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'd love to hear more. Tell me, what else did you play as a child?",
+            "choice_data_list": [
+                "Well, at this time of year..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Huh? Ah..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "P-pardon me. Goodness... My stomach doesn't usually growl like that.",
+            "choice_data_list": [
+                "We've been walking for a while, so it makes\nsense.",
+                "We've been walking for a while, so it makes\nsense."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh really? I hadn't noticed. Your stories were just so interesting."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We certainly have walked a lot though... I usually avoid taking such\nlong walks. Otherwise people worry about my health.",
+            "choice_data_list": [
+                "Well, that's in the past. You can handle it now,\nright?",
+                "Well, that's in the past. You can handle it now,\nright?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In addition, I was wondering... Perhaps we could use today's\nincreased practice regimen going forward?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I was just about to ask."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my! Ehehe, I should be grateful. As I am now, I don't have to worry\nabout overheating anymore."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(That's right. Trainer always believes in my abilities...)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(How strange... My chest feels so warm... Trainer is so...)",
+            "choice_data_list": [
+                "Something wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah... No, I'm fine. I was just reflecting on how much fun I've had\ntoday.",
+            "choice_data_list": [
+                "All that fun must've worked up your appetite.",
+                "All that fun must've worked up your appetite."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ohhh, please stop teasing me."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But yes... Today certainly was filled with excitement. I believe I\nlearned something new about myself.",
+            "choice_data_list": [
+                "Oh? Like what?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, that... is a secret."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In any case, the sun will soon set. We should both head home before\nwe run into an actual ghost."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you again for accepting my sudden invitation."
+        },
+        {
+            "name": "Monologue",
+            "text": "While she doesn't give in to my teasing, I notice that I feel closer to\nMejiro Ardan now than at the beginning of the day."
+        }
+    ]
+}

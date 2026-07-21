@@ -1,0 +1,88 @@
+{
+    "title": "Don't Overdo It!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower suffers an injury during training, so\nI rush her to the infirmary."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It seems like I'm in worse shape than I thought..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I know I shouldn't, but I'm still going to ask..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to become an Umamusume who inspires\ncourage in people. I can't let some injury stop me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I understand I can't do much... but can we please\nkeep training?",
+            "choice_data_list": [
+                "You shouldn't push yourself.",
+                "Okay. Let's find out what you can do."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But while I'm resting, everyone else will still be\nmaking progress...",
+            "choice_data_list": [
+                "Overdoing things even when you know you\nshouldn't is foolish."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Urgh... I'm sorry... I just don't want to get left\nbehind..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But I shouldn't be impatient... I'll take it easy until\nI'm fully healed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower looks a little disappointed as she\nreturns to her dorm."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you so much, Trainer! I'll do my best!\nPromise!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff... huff...</i> I-I'm... okay..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...! O-ow... Argh...",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sorry, but it hurts more than I thought it would..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I guess I'll have to put my training on hold for a\nwhile..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seemingly in quite a bit of pain, Nishino Flower\nslowly limps back to her dorm."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer! Looks like I can handle light exercise just\nfine!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll do what I can without pushing too hard!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower looks very satisfied and\nsuccessfully completes her training session while\ntaking care not to aggravate her injury."
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "title": "Home Sweet Home",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We have a day off, so I'm chaperoning Fine Motion on a day trip out\nto the mountains."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Inhale... Exhale...</i> Ah, the air is so fresh out here in the forest! It\nreminds me of mornings in the garden back home."
+        },
+        {
+            "name": "Captain's Voice over Phone",
+            "text": "...That will be all, Trainer. Please remain vigilant, and ensure Her\nHighness's safety.",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe, thank you again for your time, Trainer. They certainly\nwouldn't have let me come this far out alone.",
+            "choice_data_list": [
+                "Just happy to—uh, what <i>are</i> we here to do,\nanyways?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, that's an excellent question. Hehehe, you see..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...I haven't planned anything! I just thought we'd have ourselves a\nnice, normal stroll in the great outdoors.",
+            "choice_data_list": [
+                "Nice and normal, huh?",
+                "Nice and normal, huh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, although, um... You never know what surprises could be waiting\nout there."
+        },
+        {
+            "name": "Monologue",
+            "text": "I smell mischief brewing, but I let it slide for now, and we set off on\nthe path."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Ah, that was delicious! Not to toot my own horn, but the cold\nnoodles I packed came out perfectly.",
+            "choice_data_list": [
+                "We sure walked a lot...",
+                "We sure walked a lot..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And made it so far, too. No more city—just the creek gurgling, birds\nsinging, bugs chirping... It feels like we wandered into a fairytale\nworld."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You know, it reminds me of a story I read when I was little. The hero\nsaves the princess, and they're running through the woods together..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And then, the dragon catches up to steal the princess back. It actually\nattacks them in a remote clearing just like this."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hehe. It feels like the dragon could pop out any second, doesn't it?",
+            "choice_data_list": [
+                "Not... really?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, it's just a \"what-if,\" silly. But if a dragon really did jump out... You\nwould fight to protect me... Right?",
+            "choice_data_list": [
+                "That's a big \"if,\" but sure. I would protect you.",
+                "That's a big \"if,\" but sure. I would protect you."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Really?! I'm flattered! Aw, now I almost wish a dragon <i>would</i> appear."
+        },
+        {
+            "name": "???",
+            "text": "GrooooOOOOOOAR!",
+            "choice_data_list": [
+                "Wh-what was that?!",
+                "Wh-what was that?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah! Trainer, look! There's something in the river!"
+        },
+        {
+            "name": "Dragon",
+            "text": "Graaaaawr!"
+        },
+        {
+            "name": "Monologue",
+            "text": "From the water emerges... a tyrannosaurus rex costume with big\nflabby wings for arms."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "A dragon! Oh no! Don't come any closer!",
+            "choice_data_list": [
+                "Uhhhhh..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "While my mind struggles for a comeback, the... dragon(?) crosses its\narms, striking a pose straight out of a monster movie."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Aaah! Whatever am I to do? The evil dragon is going to eat me!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, if only—if only a hero would slay the dragon and rescue me from\nmy plight...",
+            "choice_data_list": [
+                "...All right, all RIGHT! Leave it to me!"
+            ]
+        },
+        {
+            "name": "Dragon",
+            "text": "Rooooar!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "My hero! May courage guide your hand!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wrestle the dragon for minutes, getting pushed back and forth\naimlessly until finally..."
+        },
+        {
+            "name": "Dragon",
+            "text": "Groooar! I have fallen!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank goodness! You were so dashing, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "But we've got no time to celebrate. The dragon gets back on its feet\nand then... removes its head."
+        },
+        {
+            "name": "Security Captain",
+            "text": "Hehehe. Congratulations.",
+            "choice_data_list": [
+                "C-Captain? Why are you...",
+                "C-Captain? Why are you..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Three, two, one!"
+        },
+        {
+            "name": "Fine & Captain",
+            "text": "Surpriiiise!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I am shocked and flabbergasted by this entirely unexpected turn of\nevents.",
+            "choice_data_list": [
+                "...Why are you trying to surprise me?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe... Remember the other day, when we helped take that kitty\nhome?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I kept thinking to myself what a nice surprise it was, so I decided to\nplan another, just for you!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...How was it? Did you like it?",
+            "choice_data_list": [
+                "It definitely caught me off guard, but... yeah, I\ndid enjoy it."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm so glad! All that rehearsal was worth it, I see. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I'm also happy you kept your promise—that you'd protect me from the\ndragon.",
+            "choice_data_list": [
+                "Well... yeah.",
+                "Well... yeah."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hehe. Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "The un-dragon-ified Captain joins us for the rest of the hike. We\nenjoy the view from the mountain's peak, then leisurely make our way\nhome."
+        },
+        {
+            "name": "Owner of Ramen Rampage",
+            "text": "Oh, welcome back, lassie. Can I getcha the usual?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes, for three, please."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Whew... After all that, it feels nice to be back. Thank you both for\nsuch an exciting outing.",
+            "choice_data_list": [
+                "The wrestling match wore me out more than I\nthought.",
+                "The wrestling match wore me out more than I\nthought."
+            ]
+        },
+        {
+            "name": "Security Captain",
+            "text": "Heh. I've got quite a lot of practice being the dragon. Her Highness\neven made me a medal for it when she was little."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Haha, I remember that! The medal for draconic excellence, right? I\nmade it with flowers, twigs, and clovers."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Now that you mention it, I wonder what award I should give our\ndashing hero. How about... \"the dragon slayer's medallion\"?",
+            "choice_data_list": [
+                "I-it'd be an honor. I think?",
+                "I-it'd be an honor. I think?"
+            ]
+        },
+        {
+            "name": "Security Captain",
+            "text": "Congratulations, Dragon Slayer. Just so you know, though, I'm also a\ndecorated actor of witches and fortresses. You've not bested me yet."
+        },
+        {
+            "name": "Owner of Ramen Rampage",
+            "text": "Order up. Three bowls of savory shio ramen, with extra toppings."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Eh?! The savory shio ramen doesn't come with menma or corn, and I\ndidn't say anything. How did you know?"
+        },
+        {
+            "name": "Owner of Ramen Rampage",
+            "text": "I remember my regulars' usual orders—toppings and all. The extras are\non the house, so you three enjoy 'em."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "We absolutely will. Thank you so much!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The \"usual,\" though... I suppose there's a lot of charm in the ordinary\neveryday routine, too."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. It's odd to think that I'm a \"regular\" here now. Eating ramen and\nchatting with everyone has become such a normal part of my life.",
+            "choice_data_list": [
+                "That it has.",
+                "That it has."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "You know, I think maybe, just maybe...",
+            "choice_data_list": [
+                "...Maybe what?",
+                "...Maybe what?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "No, it's nothing. I was just struck by what a lovely day it's been."
+        }
+    ]
+}

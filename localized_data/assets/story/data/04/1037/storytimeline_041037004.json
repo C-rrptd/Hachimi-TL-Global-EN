@@ -1,0 +1,283 @@
+{
+    "title": "Sternstunde",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of tryouts is finally here..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash is getting warmed up to run 1,600 meters. Her condition\nseems fine, but something has her on edge..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Following her eyes, I spot a couple who don't quite blend in with the\ncrowd. The \"I mean business\" look on their faces reminds me of Eishin\nFlash."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Sigh...</i> Toi, toi, toi."
+        },
+        {
+            "name": "School Staff A",
+            "text": "It's time! All runners for the 1,600-meter race, please gather round!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Auf geht's!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her parents watching over her, Eishin Flash starts in the tryout race."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ah... Trainer. You came to watch.",
+            "choice_data_list": [
+                "Good job out there."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Can't blame her for feeling down. She ended up finishing in sixth. But\nstill...",
+            "choice_data_list": [
+                "You ran well.",
+                "You ran well."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, my performance was hardly satisfactory. The results say it all.",
+            "choice_data_list": [
+                "But you showed potential."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...We really do perceive things differently, don't we? Actually, I..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'd... like to ask a favor of you. I'm about to meet up with my parents.\nWould you come with me?",
+            "choice_data_list": [
+                "You sure?",
+                "You sure?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes. Given my results, I'm not confident I'll be able to keep calm in\nfront of them. But..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You told me before that my feelings would get across. So I, um...",
+            "choice_data_list": [
+                "Okay. Let's go."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Eishin Flash sees her parents waiting for her, she stops in her\ntracks."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems hesitant, so I nod as if to urge her forward. Having found\nher determination, she takes a step forward."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Father, Mother. It's good to see you. Thank you for upholding your\nend of our promise and coming to watch me race.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>But I couldn't uphold mine. I wanted to show you that your daughter\nhad grown up correctly, but I...</i>"
+        },
+        {
+            "name": "Flash's Mother",
+            "text": "<i>Flash, you did well.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh?"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>Yes, your results were not perfect, but your effort was evident. I\nremember how you used to get overly tense, but it's apparent you've\nlearned to control it.</i>"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>You've put in countless hours of hard work for our sake, didn't you?\nJust like we taught you. We are proud to call you our daughter.</i>"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>Thank you for this gift, our dear Schatzi.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(It's coming back to me now. That holiday eve, Father said to me...)"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>Flash, our dear Schatzi, you must never forget this—one reason we do\nnot tolerate error is, of course, to ensure quality.</i>"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>But there is another, more important reason. We do what we do\nproperly, and with care, for the sake of bringing happiness to\nanother.</i>"
+        },
+        {
+            "name": "Young Flash",
+            "text": "<i>To bring... happiness?</i>"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>If not for this, anyone with the recipe could do our job. The meaning\nof our work comes from the care and love we put into it.</i>"
+        },
+        {
+            "name": "Young Flash",
+            "text": "<i>But those things don't add any flavor. Your recipes don't say to\ninclude them either...</i>"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "<i>Heh... Fair enough. You don't need to understand the difference now.\nBut you will one day, when you are capable of work you are proud of.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(It was never just about winning according to plan. Everything I put\ninto improving for their sake has led to the happiness we share now.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(I was so terrified of throwing everything off course, but I never\nneeded to be. There was something more important all along.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Father, Mother—thank you. I... I tried my best.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The expression on her face is looking brighter as she introduces me to\nher parents afterwards.",
+            "choice_data_list": [
+                "Uh..."
+            ]
+        },
+        {
+            "name": "Flash's Father",
+            "text": "Japanese, okay. I learned with her, so I know a little. Flash, who is\nthis?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "This is my trainer.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Or rather, the person I'd like to be my trainer. Nothing's final yet."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her words catch me off guard, but I already know my answer. My mind\nwas made up the moment I first laid eyes on her.",
+            "choice_data_list": [
+                "Small correction."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...?",
+            "choice_data_list": [
+                "I <i>am</i> her trainer. Now it's final."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Flash's Father",
+            "text": "I see... Please, take good care of my daughter. Flash, work hard\ntogether."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes, Father!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The schedule I made was perfect, and I wasn't wrong to follow it.\nBut..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I didn't have what it took to carry it out. I was naive and pushed\nmyself too far."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It seems I really am clueless... I can draw a line for myself to follow,\nbut once I step off, I don't know how to get back on."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But I now understand how important it is to have someone with a\ndifferent perspective who can determine where that line is going.",
+            "choice_data_list": [
+                "And that's why you chose me to be your\ntrainer?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes... And why did you agree?",
+            "choice_data_list": [
+                "I've been interested since the first time I saw\nyou."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh?! Wait, you have been?"
+        },
+        {
+            "name": "Monologue",
+            "text": "When I saw the pure determination in her eyes, the beauty of her\nrunning... I thought to myself how I want to take her as far as she can\ngo, and then farther still.",
+            "choice_data_list": [
+                "I'm sure this was all part of your plan."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, this can't have been planned. At least, it was never part of any of\nmy plans.",
+            "choice_data_list": [
+                "Oh, o-okay..."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And so, a correction is needed. From this point forward, I must race to\nmy utmost and improve myself as a runner."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'll work you into my schedule, and together, we'll accomplish this\ngoal and do work we can be proud of."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so begins our steady—and well-planned—path to the Twinkle\nSeries."
+        }
+    ]
+}

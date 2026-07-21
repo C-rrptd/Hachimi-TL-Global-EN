@@ -1,0 +1,93 @@
+{
+    "title": "樫本流、片付け術",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After many busy days of attending workshops and\nmeetings, I finally have a moment to rest, when..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "What is the meaning of this? Your workspace is\ncovered in dust, trash, and loose documents—it's\nfilthy!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I meant to return to work after delivering these\nhandouts to you, but I can't leave this office\nlike... <i>this.</i>"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "A cluttered room is a reflection of a cluttered\nmind. Now, up on your feet. I'll help, but we're\ntaking care of this immediately."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm suddenly subjected to a one-on-one crash\ncourse on cleaning."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Open the windows and go get a trash bag ready!\nWe'll start by clearing your desk!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Throw away everything you don't need! Gather up\nall the trinkets you have lying about... Hey, don't\njust throw those loose paperclips in the drawer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The cleaning session proceeds quickly, thanks to\nher strict, yet precise instructions."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "<i>Sigh...</i> I think we've finished for the most part. All\nthat's left is to dispose of the trash and sort these\ndocuments."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Now that we've come this far, I might as well see\nthis through to the end. We'll split the final two\ntasks. Which do you prefer I handle?",
+            "choice_data_list": [
+                "Could you take care of the trash?",
+                "Could you sort the documents?"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Very well. Perhaps I should warm up before\ntackling this mountain of rubbish..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Urk! This is... nothing!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, my office is spick-and-span.",
+            "choice_data_list": [
+                "Thanks for the help!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Not at all. It's only natural for fellow employees\nto assist each other. Now, if you'll excuse me."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I foresee a great deal of muscle pain for me\ntomorrow..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "While file organization is my forte, this huge pile\nis rather daunting. But very well."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Save, toss, unclear, toss, save, unclear... I knew\nwhat to expect going into this, but the sheer\nvolume complicates things."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I didn't realize this task would take so long.\nPerhaps it's time we consider moving away from\nusing printouts to share information."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "I should report my findings to URA's upper\nmanagement."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I receive a survey about whether\nthe academy should begin using paperless\nmethods to distribute information."
+        }
+    ]
+}

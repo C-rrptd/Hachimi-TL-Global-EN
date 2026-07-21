@@ -1,0 +1,187 @@
+{
+    "title": "天皇賞（秋）にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Male Spectator",
+            "text": "It's finally time! I've been dying to see Oguri Cap\nand Super Creek compete against each other!"
+        },
+        {
+            "name": "Female Spectator",
+            "text": "But with a lineup like this, it's impossible to tell\nwhether Oguri, Creek, Inari One, or Mejiro Ardan\nwill come out on top! The race can't start soon\nenough!"
+        },
+        {
+            "name": "Male Spectator",
+            "text": "Oguriii! Show 'em what you've got! Show 'em\nyou're the best!"
+        },
+        {
+            "name": "Reporter in Flat Cap",
+            "text": "At long last, Inari One can test her mettle against\nboth Oguri Cap and Super Creek. Now's her\nchance to shake things up and make a name for\nherself."
+        },
+        {
+            "name": "Reporter in Flat Cap",
+            "text": "Come on, Inari One! I know you've got what it\ntakes to light the Twinkle Series and this\ngeneration ablaze!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Townswoman",
+            "text": "Wow, listen to that crowd! I hope Inari's not\nfeelin' nervous."
+        },
+        {
+            "name": "Townsman",
+            "text": "I'm sure she's fine! I'd bet my bottom dollar she'll\nrun this autumn Tenno Sho as well as she always\ndoes!"
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Good luck, Inari! We're all rootin' for ya!"
+        },
+        {
+            "name": "Chief",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The autumn Tenno Sho is a make-or-break race\nfor those seeking to become Umamusume of the\nYear, and on top of that, Inari One will be up\nagainst Oguri Cap and Super Creek."
+        },
+        {
+            "name": "Inari One",
+            "text": "I finally made it..."
+        },
+        {
+            "name": "Inari One",
+            "text": "If I don't blow Oguri 'n' Creek outta the water\nwith an overwhelmin' victory today, I'll miss out\non my dream of reachin' the top."
+        },
+        {
+            "name": "Inari One",
+            "text": "I can't forget that! I <i>have</i> to win here!",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hesitate, wondering if reassuring her and saying\nthat I know she'll win will be of any use."
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One knows Oguri Cap's true strength better\nthan I do since she's the one who raced against\nher in the Mainichi Okan."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can't just placate her with shallow platitudes.\nThere's only one thing I can say, if I'm going to\nsay anything at all.",
+            "choice_data_list": [
+                "Let's... pull out all the stops!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's embarrassing that's the only encouragement I\ncan offer, but I say those words with utmost\nsincerity in hopes they'll bolster her nerves."
+        },
+        {
+            "name": "Inari One",
+            "text": "..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, why do ya look like you're on the verge of\ntears?! You're the only reason we've gotten this\nfar, y'know?"
+        },
+        {
+            "name": "Inari One",
+            "text": "So c'mon. Hold your head up high and be proud,\nand I'll do the same too!",
+            "choice_data_list": [
+                "Inari..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll pull out all the stops jus' like you said 'n' show\n'em what I've got! And then..."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm gonna beat Oguri and start makin' my way to\nthe top!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I'll be back, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(The atmosphere feels so heavy in the paddock.\nWait... am I even breathin'?)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Gah, this is no good. I'm still stuck on what\nhappened at the Mainichi Okan!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. We haven't faced off in a race since the\nArima Kinen last year."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Creek... You look even stronger than you did\nthen."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I could say the same about you. I've been really\nexcited to race against you again..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Especially because I'll be the one winning today."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Not on my watch. I'll be today's victor."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm such a fool! Just look at how amazing the two\nof 'em look standin' next to each other!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(But I gotta beat 'em! And I needa win so\nspectacularly, no one'll have any doubt that I'm\nthe best!)"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Inari."
+        },
+        {
+            "name": "Inari One",
+            "text": "...Hey, Creek. Lookin' good."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ever since we entered our senior year, I've been\nlooking forward to the day I'd be able to race\nagainst you. And now it's finally here! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Let's both do our best."
+        },
+        {
+            "name": "Super Creek",
+            "text": "With both you and Oguri here, I couldn't have\nasked for a better autumn Tenno Sho."
+        },
+        {
+            "name": "Inari One",
+            "text": "Neither could I!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, I'll see you later."
+        },
+        {
+            "name": "Inari One",
+            "text": "(I can do it. I've gotta, 'cause Boss 'n' the others\nall believe in me!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I can do it. I've gotta, 'cause Boss 'n' the others\nall believe in me!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "It's time, Inari One! This is the ultimate showdown\nthat'll decide my fate!"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "title": "チームの応援歌！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day on the way to training, I hear Haru Urara\nsinging to herself."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Let's go, let's go! You can do it, Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Run fast, run fast! You can win this, Urara!",
+            "choice_data_list": [
+                "What are you singing?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, hello, Trainer! It's a cheer song I thought up\nfor our team!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Did you know baseball teams sing cheer songs to\nget pumped up?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I found that out yesterday from a comic I was\nreading!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara puffs out her chest with pride. I'm\ncurious to see what she's come up with so far.",
+            "choice_data_list": [
+                "May I hear the song?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sure! I'm only half done, though."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Let's go, let's go! You can do it, Urara! ♪ Run\nfast, run fast! You can win this, Urara! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "...",
+            "choice_data_list": [
+                "O-oh, is that it?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yep! Oh, but I can come up with more... Lessee..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Let's go, let's go! Sprint as quick as a cheetah!\nRun fast, run fast! Dash away like a bunny!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Stomp, stomp goes the elephant! Roar, roar goes\nthe bear!",
+            "choice_data_list": [
+                "(Where's this coming from?)"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ribbit, ribbit goes the frog! Flap, flap goes the\nbutterfly!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Now let's dance, all together! Let's have fun, all\ntogether!",
+            "choice_data_list": [
+                "(Why's dancing involved now?!)"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "La, la, la! La-dee-da! Bam-bam-crash! Twinkle,\ntwinkle, spark!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Thank you for listening!",
+            "choice_data_list": [
+                "(Whew, it's over!)"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hehe, that was super fun! Right, time to teach\neveryone the words!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hold on... How'd it go again?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ahahaha! Oopsie, I totally forgot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, it becomes a thing with the whole\nteam to improvise cheer songs on the spot, and\n<chrname> gets really into it too."
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "title": "初詣",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Happy New Year! Thanks for coming to our party!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond has invited me to a New Year's\nparty held by the Satono Group."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's apparently a gathering for members of the\nSatono family and affiliates of the Satono Group\nto exchange greetings for the new year."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sorry for dropping this on you so suddenly, but\nmy parents expressed that they would like to\nmake your acquaintance, Trainer."
+        },
+        {
+            "name": "Dia's Father",
+            "text": "Happy New Year! Thank you for taking such good\ncare of Dia."
+        },
+        {
+            "name": "Dia's Father",
+            "text": "She's performed far better than we could have\nimagined in her classic year, and I'm sure your\nguidance played no small role in that."
+        },
+        {
+            "name": "Dia's Father",
+            "text": "It looks like Dia's intuition was spot-on. We hope\nyou'll continue guiding her toward success in her\nsenior year as well.",
+            "choice_data_list": [
+                "Thank you. I'll do all I can to make her into an\nillustrious runner."
+            ]
+        },
+        {
+            "name": "Dia's Father",
+            "text": "I've got great expectations for the both of you."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I have to make the rounds and say hello to\neveryone, so please excuse me."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Please go ahead and enjoy yourself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her parents hold a central position within the\ngroup. As their daughter, it seems Satono\nDiamond also bears a significant amount of that\nresponsibility."
+        },
+        {
+            "name": "Dia's Former Coach",
+            "text": "Happy New Year, Dia! You're really making a\nname for yourself in the Twinkle Series, aren't\nyou?"
+        },
+        {
+            "name": "Dia's Former Doctor",
+            "text": "Hehe. You were such a small child, but now\nyou've grown into a remarkable individual. I'm\nfilled with pride every time I see you race."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Happy New Year. It's lovely to see you both\nagain."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I've been able to improve my running from the\nfoundation that you both helped me set. I'm\neternally grateful for everything you've done for\nme."
+        },
+        {
+            "name": "Dia's Former Coach",
+            "text": "To tell you the truth, I brag to my current\nstudents about how I used to coach you! They're\nalways so impressed with me when I do!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh my, I'm honored. ♪ But you were already\nwell-known for your skills long before you ever\ntook me under your wing!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And you're a distinguished professor in the field\nof nutrition, Doctor. If anything, people envy <i>me</i>\nfor having you and your team."
+        },
+        {
+            "name": "Dia's Former Doctor",
+            "text": "Goodness, what a charmer. You've become a\nfantastic representative for the Satono Group!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you, but I still have much to learn."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm still trying to figure out what an \"illustrious\nrunner\" ought to do."
+        },
+        {
+            "name": "Dia's Former Coach",
+            "text": "An illustrious runner, eh? Well, you'd probably\nneed to consider running internationally one day,\nwouldn't you?"
+        },
+        {
+            "name": "Sporting Goods Sales Rep",
+            "text": "If you're thinking of competing overseas, our\ncompany stocks training goods and shoes aimed\nat the international market."
+        },
+        {
+            "name": "Sporting Goods Sales Rep",
+            "text": "We could even develop custom items specifically\nfor you, Miss Diamond. Please feel free to\ncontact us anytime."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "The training equipment your company designed\nfor us still gets a lot of use in our house even now."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Should I find myself in need of new equipment,\nwould it be all right to ask you to develop\nsomething for me?"
+        },
+        {
+            "name": "Sporting Goods Sales Rep",
+            "text": "But of course. After all, you are the shining star of\nthe Satono Group. We would be honored to do\nour very utmost to assist you."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Thank you very much. I appreciate that. I'll be in\ncontact with you in the near future. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "A top-class coach, a first-rate doctor, and the\nbacking of a sporting brand..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond has been blessed with much\nsupport since childhood. This just proves how\nmuch people have always expected of her."
+        },
+        {
+            "name": "Monologue",
+            "text": "But such blessings come with a great deal of\nresponsibility. She must repay the support she has\nreceived with concrete achievements, regardless\nof her own dreams and desires."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to ensure she achieves success in her senior\nyear!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After the party, I head out with Satono Diamond\nto go on our first shrine visit of the year."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You prayed for quite a long time.",
+            "choice_data_list": [
+                "I was just reaffirming my commitments for the\nyear."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Are you talking about my races?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I would have liked to pray together with you in\nthat case..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But that's all right. I got to see you looking\nincredibly serious instead, so I'll count that as a\nwin. ♪ Hehe."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What are your plans after this?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "If you don't mind me asking, I'd like to hear how\nyou usually spend New Year's!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Both my family and Kita's customarily host huge\nparties."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm interested in learning about different ways to\ncelebrate New Year's outside of parties and\nbanquets. And if it's all right, I'd love to join you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought we were simply chatting, but Satono\nDiamond ends up deciding to spend the rest of\nNew Year's with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for how I usually spend the holiday...",
+            "choice_data_list": [
+                "I basically hibernate.",
+                "I usually go buy a lucky bag.",
+                "I do New Year's calligraphy."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What? You mean, you just sleep through it? Is\nthat some kind of training to make your first\ndream of the year a good one?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hastily explain that while I do occasionally hit\nthe sack early on New Year's, I meant I usually\nstay at home and laze around."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, so you start off your new year by loafing\nabout? That sounds so indulgent! ♪ Count me in!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to set up camp in my office and eat\nsnacks while watching New Year's specials on TV."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "These people are walking an awful lot for being\non a bus tour..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That eel lunch box looks scrumptious!",
+            "choice_data_list": [
+                "Makes your mouth water, doesn't it?",
+                "Makes your mouth water, doesn't it?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It looks like they're open today, so why don't we\nget some delivered?",
+            "choice_data_list": [
+                "We're way too far from them to get delivery!",
+                "We're way too far from them to get delivery!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's no problem. We've both been working\nreally hard, so I'm sure my father will be happy to\nhelp out with one little ask. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we fill our bellies with exquisitely\nprepared eel lunch boxes, delivered swiftly to us\nvia bullet train."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "A lucky bag! How exciting! I want to buy one too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Since she's so eager to get one, the two of us\nhead to the local shopping mall together to pick\nup a lucky bag."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I wonder which shop I should buy one from? Oh,\nlook! They have lucky bags with food and tea too!",
+            "choice_data_list": [
+                "Want to give one of them a try, then?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! Even if I'm not fond of all the food, I can\nsimply share it, after all! Let's go over there!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, just look at this line... It seems we'll be\nwaiting a while, so why don't we play a game\nwhile we wait?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Let's try to guess where everyone who passes by\nis going!",
+            "choice_data_list": [
+                "Sure thing!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Right, let's start with that man in the big jacket. I\nthink he's heading into the coffee shop.",
+            "choice_data_list": [
+                "I'm gonna say he's going to the bookstore on\nthe upper floor."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, he went in the coffee shop! Hehe, that's one\npoint to me! ♪ His tired face gave him away."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Playing a game really helped pass the time, didn't\nit? Let's head home and see what we got in our\nlucky bags!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After spending a fun time waiting in the line, we\neach manage to snag a lucky bag!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "New Year's calligraphy, huh? In that case, I want\nto try doing something on a big scale!",
+            "choice_data_list": [
+                "You mean like a calligraphy performance?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Exactly! I'll have someone from my household buy\nus a giant brush and some calligraphy paper!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Luckily, with it being the New Year's holidays,\nnobody else is using the gym, so we're able to use\nit for our giant calligraphy session!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm... I need to visualize the characters first, or\nelse the balance will be off."
+        },
+        {
+            "name": "Monologue",
+            "text": "After standing in front of the paper to envision\nthe characters, she lifts a brush that's as tall as\nshe is, and dashes across the sheet."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "TAAAAKE THIS! AND THAT! HAH!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wheeew! What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The words \"Wish Fulfillment\" are written in\nflowing and beautiful script across the paper!"
+        }
+    ]
+}

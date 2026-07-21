@@ -1,0 +1,226 @@
+{
+    "title": "きらり,パーティクル",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It seems as if it was only a short moment ago that I walked through\nthose Tracen Academy gates for the first time, yet today marks yet\nanother beginning!"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "How do you do, <username>? I am the chief\ntrainer of the team you will be joining from this moment on."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "I'm not sure how much pep I've got left to keep up with all these\nambitious runners at this age... I do hope that I'm able to impart all\nthe insight an up-and-coming assistant trainer could need.",
+            "choice_data_list": [
+                "I'm looking forward to it!"
+            ]
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Hehe, now that's the spirit! I'm expecting great things from you. I've\nactually been keeping an eye on all your efforts. You're here for a\nvery good reason!"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Enough chatter, though. I want you to meet a real go-getter. Let's go\noutside."
+        },
+        {
+            "name": "Monologue",
+            "text": "New trainers are placed under the guidance of a veteran. The idea is\nto help out and gain experience as a team assistant trainer for a\ncertain period of time."
+        },
+        {
+            "name": "Monologue",
+            "text": "This team's trainer has been at it for years and is quite renowned. The\ntime has come for me to meet her newest trainee."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff...</i> I've finished with the regimen you passed me this\nmorning, Trainer. What should I do next?"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Well done out there, Bell. I had some partner running planned for you\nnext, but before that, would you mind? This is our new assistant\ntrainer we spoke of the other day."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Well done out there, Bell. I had some partner running planned for you\nnext, but before that, would you mind? This is our new assistant\ntrainer we spoke of the other day."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Good day."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, yes... Um... A pleasure to meet you."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Allow me to formally introduce you, Assistant Trainer. This is\nBell—Mejiro Dober. She is our team's precious star."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Allow me to formally introduce you, Assistant Trainer. This is\nBell—Mejiro Dober. She is our team's precious star."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "I can only imagine that she will be the final runner under my own\nguidance. I've become quite the old lady, haven't I?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Oh, just listen to me prattle on. Don't worry about a thing, Bell. I\ndon't plan on going anywhere just yet, so let's bring a smile back,\nokay?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Pardon me. I'm here for some partner running. Are you all ready?"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Oh, yes! Thank you for taking the time, Air Groove. Are you prepared\nto start. Bell?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes! I'm ready whenever you are."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and Air Groove take off down the track as a pair."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove is quite the respectable training partner. Known as the\n\"Empress,\" she's followed in her mother's footsteps, having taken\nhome the second Oaks win for her family."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober has not made her debut yet, but is seemingly having\nlittle problem keeping up."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff... huff...</i> Haaaaah!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh, not bad!",
+            "choice_data_list": [
+                "(That's some impressive acceleration!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The runner displays an important sign of a champion in the\nmaking—an energetic form that begets great speeds. But that's not\nall..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Keep going, keep goooing! Aaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Without even considering giving up, she advances ever forward. I'm\nvery impressed with her show of willpower and competitive spirit.",
+            "choice_data_list": [
+                "Mejiro Dober... She's something else!",
+                "Mejiro Dober... She's something else!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... huff... huff...</i> Thank you... very much!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't mention it. I must say, Dober—that was quite the showing. Very\nimpressive speed."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But even so... I've still much room to improve my positioning and\ntiming. I wasn't able to overtake you even once..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Haha, well, I don't yield my lead quite so readily. Still, I could\ndefinitely feel your presence creeping ever closer. You're certainly\npaired with an excellent trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's right!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm still so very weak, but I have noticed at least a bit of\nimprovement. I owe all of that to my trainer."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Good, good! That was a wonderful run.",
+            "choice_data_list": [
+                "It really was!"
+            ]
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Oh, what's this? Is that a twinkle in your eyes that I see? I just knew\nthat you would be one to understand."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Isn't Bell just amazing? She's practically overflowing with talent."
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "I do hope I can stand by her and help her realize all of her wildest\ndreams, but I'm not sure I—"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, Trainer? I still have some energy, so would it be okay if I\naccompanied Air Groove for some extra training?"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "Well now, it looks like someone is feeling extra motivated recently! I\ndon't see why not, if it's just one more lap or so. Take it a bit slower,\nall right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I will. Thank you very much!"
+        },
+        {
+            "name": "Chief Trainer",
+            "text": "As for us, why don't we start cleaning up?",
+            "choice_data_list": [
+                "Sounds good."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I spend a bit more time helping out the chief trainer, thinking the\nwhole while about how lucky I was to be able to witness such fine\nrunning from Mejiro Dober."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? Wait, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What is— Ah."
+        },
+        {
+            "name": "Reporters",
+            "text": "Ryan! Ryan! Please look over here, Mejiro Ryan!"
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Mejiro Ryan, you had another terrific race the other day! What do you\nhave to say to all your fans who are looking forward to your next\nrace?"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Umm... I'm so thankful for all your support! I'll keep training hard to\nmake sure I live up to all your expectations!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "We'll go back this way. Let's go, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All right..."
+        }
+    ]
+}

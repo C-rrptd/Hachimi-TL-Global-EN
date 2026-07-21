@@ -1,0 +1,116 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur has just finished today's training."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Nope. This isn't gonna cut it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You head home. I'm gonna keep going."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur seems dissatisfied with something\nabout her performance, so it looks like she\nintends to do additional training.",
+            "choice_data_list": [
+                "I'll watch until you finish.",
+                "You're going to push yourself too hard if you\nkeep going."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Suit yourself. Just don't get in my way."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Good evening, Shakur. Trainer. Are you still\ntraining?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "If so, why don't we run together?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Why do I have to run with you?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Weeell... ♪ I've brought my lap times down\nrecently. Don't you want to get some data?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Run with me, and you might just see something\nyou like. ♪"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, aren't you confident? ...If it's just talk, I'm\noutta here."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And if I'm telling the truth, you'll run with me?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Actions speak louder than words. Let's go."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Air Shakur does extra training until the\nsun goes down."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? If I'm just doing what's necessary, I don't\nthink you can call it pushing myself too hard."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you want to talk general theory, let's stick to\nthe textbooks. Or did you have an original idea\nyou wanted to add?",
+            "choice_data_list": [
+                "There are things you can do besides running."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh yeah? Like what?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, if it isn't Shakur—just the person I need."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just what I need, another pain in my ass. What do\nyou need me specifically for?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Well, you see, I need to gain an objective\nunderstanding of my own running in order to\nmake progress with my research."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If you're finished with your own training, could I\nbother you to record mine?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Heh... So basically, you really wanna run right\nnow.",
+            "choice_data_list": [
+                "There are things to be learned through\nobservation."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You think I don't know that? Aren't I the one\nalways collecting data?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm going to stay put and watch her run. It seems\nbest to focus on data collection right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "Rather than push herself too hard at this point,\nAir Shakur takes up a less strenuous activity."
+        }
+    ]
+}

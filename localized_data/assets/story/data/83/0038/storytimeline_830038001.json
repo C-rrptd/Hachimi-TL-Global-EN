@@ -1,0 +1,160 @@
+{
+    "title": "花咲く、一歩！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While walking around campus on my break, I see\nSakura Chiyono O in the shade."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah! Who's that over there? It looks like Spe\naaand..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "M-Maruzen!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, don'tcha just think it's a great day for a\ndrive? It'll be a great way to <i>chillax!</i> ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "A drive?! Well, as long as we follow the traffic\nlaws, sure!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...A ride with Maruzen. Wouldn't that be nice...",
+            "choice_data_list": [
+                "Why not ask to go along?",
+                "Why not ask to go along?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eeek!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ah, um, hello. No, I'm... fine."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Just fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Curious about why she seems so downtrodden, I\nask her to explain."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The truth is, I..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I get motion sick!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hey, Chiyo! ♪ Wanna go for a drive to the\nbeach?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you're okay with me coming?! I'd love to!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(I'm sure I'll be fine. It's just a little ways away...)"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let's <i>floor it, babyyy!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>VROOOOOM!</i>"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...It was terrible. The motion sickness hit me like a\ntruck."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm sure you can guess what happened next..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "She hasn't invited me on a drive since. I'm sure\nshe's just being considerate, but it still sucks..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "So it only makes sense that she'd invite other\npeople instead of me. Besides, I don't want to be\na bother.",
+            "choice_data_list": [
+                "You sure you'll be okay?",
+                "You sure you'll be okay?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I... I... Well, I mean..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I... Well, the truth is that I..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I <i>really</i> want to go for a drive with Maruzen! I miss\nher so much!",
+            "choice_data_list": [
+                "Why don't you work on overcoming your motion\nsickness?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Sniff...</i> I did try to get used to riding different\nvehicles."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But when I think about what happened, I get cold\nfeet and can't go through with it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And every time I find myself acting like that, I\nfeel like I'm drifting further and further away from\nMaruzen..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm sorry. I shouldn't think like this.",
+            "choice_data_list": [
+                "Maybe you could do some research before you\ntry again?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Research? ...Do you mean, like, looking into what\ncauses my motion sickness?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yes, you're right... Depending on the cause, there\nmight be more suitable methods I can use to\novercome it."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And it feels much better to do that than to simply\nsulk and envy others."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You know what they say! \"Know the soil before\nyou plant the flowers!\""
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you! I'll try it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It won't be easy for Sakura Chiyono O to get over\nher nausea, but she's taking the first step towards\nprogress."
+        }
+    ]
+}

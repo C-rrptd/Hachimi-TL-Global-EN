@@ -1,0 +1,213 @@
+{
+    "title": "ひとり暮らしの生活",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Umamusume A",
+            "text": "Look, Mr. C.B. and Maruzensky are talking\ntogether!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I bet they're discussing incredibly high-level race\ntechniques!"
+        },
+        {
+            "name": "Monologue",
+            "text": "On my way to lunch, I spot two students at the\ncenter of a crowd. I'm looking on absentmindedly\nwhen suddenly..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Oh! Hey, you there! Would you mind coming over\nhere for a sec?",
+            "choice_data_list": [
+                "...Me?",
+                "...Me?"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Are you free to talk? I've got a question for you.",
+            "choice_data_list": [
+                "<i>Gulp!</i>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Mr. C.B. has a stern look on her face. I can tell\nshe's about to ask a complex question about\nracing."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hope I can provide a response sophisticated\nenough to show that I'm a reputable trainer..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "How can I get better at cooking?",
+            "choice_data_list": [
+                "...Huh? Cooking?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C.B. came to ask me for advice on living alone."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm a little worried about her. And I'd like her to\ntake good care of herself."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You live alone, right, Trainer? Don't you have any\nsweet tips to offer?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ahaha! I'm a bit of a scatterbrain, you know!\nSome of the stuff I do would probably give you a\ngood laugh!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But cooking's such a hassle, right? I always end up\nmaking simple dishes like fried rice."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You can't live like that! A racer's body is her\ngreatest asset."
+        },
+        {
+            "name": "Monologue",
+            "text": "I learn that there's more to Mr. C.B. than I\nthought. Although I do find myself wanting to\ngive her heaps of advice...",
+            "choice_data_list": [
+                "I'm probably not the right person to ask about\nthat.",
+                "I'm probably not the right person to ask about\nthat."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hm? Really?",
+            "choice_data_list": [
+                "I always let my laundry pile up..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ugh, tell me about it!",
+            "choice_data_list": [
+                "And I always put off cleaning."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I hear that!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I'm too lazy to cook every night, so I just make a\nmassive portion of curry in advance!",
+            "choice_data_list": [
+                "<i>Same!</i>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That great big washing machine in the dorm really\ncomes in handy if you've got a heap of laundry to\ndo. You can wash it all at once."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And never store curry at room temperature. It\nspoils really fast, so make sure you put it in the\nfridge, or freeze it right after cooking.",
+            "choice_data_list": [
+                "You really know all about this stuff!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh, I guess a little. ♪"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Boy, living on your own makes you appreciate\nwhat your parents did for you, huh!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Having someone cook three meals a day for you\nis pretty incredible when you think about it.",
+            "choice_data_list": [
+                "Actually, you asked about cooking in the first\nplace, right?",
+                "Actually, you asked about cooking in the first\nplace, right?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, yes, I'd almost forgotten what this was all\nabout."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ooh, did you get a flash of inspiration?"
+        },
+        {
+            "name": "Monologue",
+            "text": "My conversation with Mr. C.B. painted a clear\npicture of a laid-back, orderless lifestyle. The\nbest advice for someone like her would be...",
+            "choice_data_list": [
+                "I think rough-and-ready cooking suits you\nperfectly.",
+                "I think rough-and-ready cooking suits you\nperfectly.",
+                "Challenge yourself to whip up some creative\ncuisine!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My conversation with Mr. C.B. painted a clear\npicture of a laid-back, orderless lifestyle. The\nbest advice for someone like her would be...",
+            "choice_data_list": [
+                "I think rough-and-ready cooking suits you\nperfectly.",
+                "I think rough-and-ready cooking suits you\nperfectly.",
+                "Challenge yourself to whip up some creative\ncuisine!"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha! You sure know how to give a compliment."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "That's right. I am Mr. C.B., after all. If worrying\nabout the details keeps me from having any fun,\nthen there's no point!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, true. Fun is definitely the best ingredient."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Thanks, you two! I'd like to invite you both to\ndinner to show my appreciation. How about it?",
+            "choice_data_list": [
+                "I'd love to!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Mr. C.B.'s approach to cooking is\nundoubtedly crude, the results are delicious."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Something creative! I like the sound of that!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm... I've cooked Italian food before, for\nexample, but it's totes difficult. Are you really up\nfor this?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Well, I have no idea how this is going to turn out,\nbut I'm always up for a challenge!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Time to enjoy some creative freedom. This is\ngetting exciting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Mr. C.B. gets to work on some original\ndishes."
+        },
+        {
+            "name": "Monologue",
+            "text": "She makes super sweet mapo tofu,\nramen-flavored pizza, and deep-fried fruit..."
+        },
+        {
+            "name": "Monologue",
+            "text": "None of the dishes end up tasting very good, but\nafter seeing how much fun she had cooking\neverything, I can't help but feel happy myself,\ntoo."
+        }
+    ]
+}

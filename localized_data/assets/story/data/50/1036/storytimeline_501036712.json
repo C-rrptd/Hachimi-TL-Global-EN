@@ -1,0 +1,37 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's late afternoon, and Air Shakur hasn't turned\nup for training yet. I'm starting to wonder what\nhappened, when..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Heeey, are you serious? I came to check just in\ncase, but I didn't think you'd actually still be here.",
+            "choice_data_list": [
+                "I'm glad to see you're okay. I thought something\nmight have happened to you."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch... Most people would be angry right about\nnow."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I just got a bit carried away coding. Next thing I\nknew, it was late."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If I get some time, I'll try embedding a timer in my\ncode editor."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur appears remorseful in her own way, so\nI decide to overlook today's incident."
+        }
+    ]
+}

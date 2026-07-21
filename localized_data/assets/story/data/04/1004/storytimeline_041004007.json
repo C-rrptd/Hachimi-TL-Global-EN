@@ -1,0 +1,330 @@
+{
+    "title": "第3話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At summer camp, Maruzensky and I work hard to improve her running\neven further. Maruzensky is in high spirits as the sun rises on the final\nday."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Good morning, Trainer. Come on! We need our last day of training to\nbe a good one!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Good morning, Trainer. Come on! We need our last day of training to\nbe a good one!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "This is it, you know? So let's rev up and go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "An invigorated Maruzensky pushes through the final day of training\nwith me."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew... Thanks, Trainer! Hehe, looks like we both worked up a sweat.",
+            "choice_data_list": [
+                "But we pulled it off!",
+                "But we pulled it off!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Phew... Thanks, Trainer! Hehe, looks like we both worked up a sweat.",
+            "choice_data_list": [
+                "But we pulled it off!",
+                "But we pulled it off!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah! I'm exhausted, but like, exhilarated at the same time. I feel\nfantastic!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "After all this training, I can't wait for my next race. Hehe, I think you'll\nenjoy it."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But hey... Are you all right? Aren't you tired from being under the sun\nfor so long?",
+            "choice_data_list": [
+                "I'll be fine once I rest up."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But hey... Are you all right? Aren't you tired from being under the sun\nfor so long?",
+            "choice_data_list": [
+                "I'll be fine once I rest up."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You sure? Don't overdo it, okay?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, I'm gonna head back and wash up. It's important to get plenty\nof rest after a big workout!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I go back to my room and take a relaxing bath. Afterwards, I head\noutside to get some cool night air..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I know what Trainer said, but we had a really tiring day. I hope I'm not\nbeing selfish..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But...",
+            "choice_data_list": [
+                "What is it?",
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, Trainer..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, Trainer..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Um... I heard from another student that there's a festival going on at\nthe shrine near here."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "And..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All right, I'll just ask!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wanna grab dinner at the food stalls there?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "There's supposed to be game stalls too, and they're doing a festival\ndance! I bet we'd have a great time together!",
+            "choice_data_list": [
+                "Sounds great! Let's go!",
+                "Sounds great—let's go!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, wonderful!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay! With that decided, I'm going to dance my socks off at the\ndance!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Come on, Trainer! This way!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Come on, Trainer! This way!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wooow! It's <i>so</i> crowded, isn't it? I really wanna check out this one\nstall, but I can't see it anywhere.",
+            "choice_data_list": [
+                "Hm? What stall?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehehe. ♪ It isn't just any old stall. Ready for this?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's a dessert shop, and it's fresh to the max!",
+            "choice_data_list": [
+                "(Fresh to the max?!)"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "All of the students are saying the summer-only Deluxe Carrot Tower\nParfaits are totally off the hook."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm a little worried they'll sell out since they're so popular, but we\nshould save dessert for later."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You know what we have to do first."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Da, da, dum, ba, ba, bum. ♪</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "There! The dance! Aw, this takes me back... My family used to dance\nall the time when I was a kid.",
+            "choice_data_list": [
+                "Let's check it out!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Yeah, let's go! It's time to get our groove on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We join the dance, and Maruzensky performs beautifully. Everyone\nthere is feeling the excitement."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wooo! We're not done yet! Come on, Trainer! Feeling jiggy?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wooo! We're not done yet! Come on, Trainer! Feeling jiggy?"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the event heats up even more, the dance grows too big to contain."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahhh! What fun! You dance pretty well, Trainer!",
+            "choice_data_list": [
+                "That was one intense dance...",
+                "That was one intense dance..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahhh! What fun! You dance pretty well, Trainer!",
+            "choice_data_list": [
+                "That was one intense dance...",
+                "That was one intense dance..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It was! Everyone was really jamming out! I got so carried away I wound\nup on the main platform. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My whole body was rumbling from standing next to the taiko drums! It\nwas just the best!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My mother always used to say, \"When you stand on the big stage, it's\ntime to boogie down.\" Hehe, I guess the apple doesn't fall far from\nthe tree.",
+            "choice_data_list": [
+                "Ah, so you got it from your mother...",
+                "Ah, so you got it from your mother..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hm? Did you say something?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh, right! We need to go get our dessert!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let's go find a Deluxe Carrot Tower Parfait!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We get our carrot parfaits and enjoy the other stalls. After seeing all\nthere is to see, it's time to head back."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "That parfait was fabulous! It even had ice cream between the\nmacarons... My heart's as full as my stomach. ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I got to run along the ocean, join the festival dance, and eat a rad\nnew dessert..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I never thought I'd get to spend such a good time with someone."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, it was <i>so</i> much fun. Promise we can do it again sometime?",
+            "choice_data_list": [
+                "Of course! I'd love to."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Are you sure you don't need to think about it more?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Are you sure you don't need to think about it more?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "If you say yes to everything, who knows where my whims will take you\nnext?",
+            "choice_data_list": [
+                "Whatever it is, bring it on!",
+                "Whatever it is, bring it on!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, please, I know you're tired... But that's right! We should plan\nour next outing!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...It's really weird though. I feel like I can be myself with you, even\nmore than when I'm alone."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "...It's really weird though. I feel like I can be myself with you, even\nmore than when I'm alone."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Like I can go anywhere, run however far—anything. That's how you\nmake me feel, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Like I can go anywhere, run however far—anything. That's how you\nmake me feel, Trainer."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I don't know how you do it... You really are something special!",
+            "choice_data_list": [
+                "You're pretty special too."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I don't know how you do it... You really are something special!",
+            "choice_data_list": [
+                "You're pretty special too."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wow! I guess we're a good match, huh? ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's kind of embarrassing to say this, but... I hope we get to keep\nsharing a lot more fun."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "A racer and her trainer—the best of partners! Here's to us!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "A racer and her trainer—the best of partners! Here's to us!"
+        }
+    ]
+}

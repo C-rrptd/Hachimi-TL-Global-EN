@@ -1,0 +1,65 @@
+{
+    "title": "助言する権利をあげる！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, at the training track..."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hey! You there!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I've been observing you, and based on what I've\nseen, your advice is not only sound, but also\nhighly effective."
+        },
+        {
+            "name": "King Halo",
+            "text": "As such, I shall honor you with the special\nprivilege of giving me advice. You have one\nminute to tell me something useful.",
+            "choice_data_list": [
+                "But I'm in the middle of training too..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh? It's not often you get the opportunity to\nexchange words with someone as illustrious as\nme, you know!"
+        },
+        {
+            "name": "King Halo",
+            "text": "It would be rather foolish of you not to take\nadvantage of such a chance."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like she's not going to let me go unless I\ngive her some kind of advice, so I try to think of\nsomething to say.",
+            "choice_data_list": [
+                "What do you think of the saying \"Where there's\na will, there's a way\"?",
+                "Any thoughts on timing your strategy in a race?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh? What an intriguing question. I must say, it\nmakes for a fine discussion point."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, King Halo and I discuss the topic for a\nwhile."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, I appreciate your subject of choice. Timing is\ncritical when making a final spurt in the\nhomestretch!"
+        },
+        {
+            "name": "King Halo",
+            "text": "And it's that very skill that serves as my ultimate\nweapon! Allow me to tell you all about it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, King Halo and I discuss the topic for a\nwhile."
+        },
+        {
+            "name": "King Halo",
+            "text": "Goodness, look at the time! I must be going now."
+        }
+    ]
+}

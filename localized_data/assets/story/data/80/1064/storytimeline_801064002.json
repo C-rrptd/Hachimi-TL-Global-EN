@@ -1,0 +1,90 @@
+{
+    "title": "ポジティブな逃げ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm on the school roof trying hard to come up with\na good training schedule for\n<chrname>, when..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh! I came up here to read my makeup magazine,\nbut I didn't realize someone was already here."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uh, you don't seem so happy, though. Wanna talk\nabout it?",
+            "choice_data_list": [
+                "I'm just trying to come up with a training\nschedule."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, I see. But fussin' about it all by yourself is a\nsure way to send you into a tailspin."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sometimes, a brief escape can be exactly what\nyou need.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Just do something completely unrelated to get\nyour mind off it. Eat some delicious food or\nwhatever as a mood palate cleanser."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That's what I'm doing right now! I'm taking a\nbreak from studying for this test that's coming up."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It helps you get back into things with a clear\nhead. You know, like a mental escape. I think\nthat's super important, don't you?",
+            "choice_data_list": [
+                "Thanks for the tip, but I think I'll keep trying a\nbit longer.",
+                "All right! I'll give this mental escape thing a try!",
+                "All right! I'll give this mental escape thing a try!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It helps you get back into things with a clear\nhead. You know, like a mental escape. I think\nthat's super important, don't you?",
+            "choice_data_list": [
+                "Thanks for the tip, but I think I'll keep trying a\nbit longer.",
+                "All right! I'll give this mental escape thing a try!",
+                "All right! I'll give this mental escape thing a try!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ooh, so cool! You're quite the hard worker!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Just make sure you don't overdo it. Take a break\nwhen you need it."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And if you're really down and out, give me a\nshout. I always have an open ear."
+        },
+        {
+            "name": "Monologue",
+            "text": "As a result of my strong perseverance, I manage\nto draft up a satisfactory schedule."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, do it! I'll even join you! No matter how far\nwe go, I know you'll get back on track right away!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "How about we go to the cafeteria and eat\nsomething sweet? There must be some dessert\nyou've been dying to try there!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "And as a reward for all your hard work, I'll treat\nyou to it! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to playing a bit of hooky—or as Mejiro\nPalmer puts it, \"mentally escaping\"—I manage to\ndraft up a satisfactory schedule."
+        }
+    ]
+}

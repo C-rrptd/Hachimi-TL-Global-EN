@@ -1,0 +1,273 @@
+{
+    "title": "『W』inner",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Satsuki Sho is over, and the Japanese Derby\nis fast approaching when..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What is this? A \"BNW Special Feature\"? What\ndoes BNW mean?",
+            "choice_data_list": [
+                "Isn't it self-explanatory?",
+                "Isn't it self-explanatory?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, I get it. It must stand for \"Biwa Hayahide,\"\n\"Narita Taishin,\" and \"Winning Ticket.\""
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pfft. Talk about unimaginative."
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin acts unimpressed, but it's easy to\nsee the joy in her expression."
+        },
+        {
+            "name": "Monologue",
+            "text": "Public opinion has completely changed following\nNarita Taishin's impressive run in the Satsuki Sho.\nThe era of the \"top two\" has ended, and all focus\nis now on the BNW trio!",
+            "choice_data_list": [
+                "Let's throw everything we've got at the\nJapanese Derby!",
+                "Let's throw everything we've got at the\nJapanese Derby!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sure."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Can we end the meeting now? Cool, I'm gonna\nget going.",
+            "choice_data_list": [
+                "See you, Taishi—",
+                "See you, Taishi—"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "TAISHIIIIIN!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Gah?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You again! Learn to dial down that defeaning\nvoice of yours!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Sorry! But I really..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Reeeaaally</i> wanna have a scrimmage with you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket's unstoppable enthusiasm\npractically teleports us to the racecourse."
+        },
+        {
+            "name": "Monologue",
+            "text": "I had wanted Narita Taishin to take it easy since\nshe was done training for the day, but..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Stop worrying so much. It's just a scrimmage. I've\ngot enough energy left for one more."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway...",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ticket might be the biggest dum-dum in the\nworld..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But the way she puts her heart and soul into the\nDerby is the real deal."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Don't you think it'd be worthwhile to see what she\ncan do?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin! I'm ready—let's gooo!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, yeah."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I'll be back."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-chak!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The scrimmage between Narita Taishin and\nWinning Ticket begins!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a 2,400-meter run on turf, the same as the\nJapanese Derby. Winning Ticket is pushing hard\nfrom the get-go."
+        },
+        {
+            "name": "Monologue",
+            "text": "She seems to be on the offensive as she races\ndown the track."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Once they enter the final straight, Winning Ticket\nreleases a fearsome burst of speed."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You're not gonna get the better of me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Taishin's just as unrelenting. Her last sprint\nis as amazing as ever—or rather, it's gotten more\nfierce since the Satsuki Sho."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yaaahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the last 200 meters, Narita Taishin manages to\npush her nose ahead of Winning Ticket for a\nmoment, but..."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Derby! Derby, Derby, <i>Deeerrrbyyy!</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I won't let you take the Derby crown away from\nmeee!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Agh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The dust clears..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Winning Ticket manages to claw back the lead\nand win the scrimmage by a nose."
+        },
+        {
+            "name": "The Two",
+            "text": "<i>Huff... puff... huff...</i>"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Wheeze... Huff...</i> Phew! Thank you, Taishiiin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh.</i> Who thanks their opponent after royally\nthrashing them? Way to tick me off."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Yeah... I managed to win today, but you know\nwhat?!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I was only able to do it because I saw you race at\nthe Satsuki Sho."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "You really are amazing, Taishin! You're\nsuper-duper strong! But that's why I gotta get\nstrong too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I need to become strong enough to beat you if I\nwanna fulfill my dream and become a Derby\nchampion!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "When I train, all I think about is beating\nyou—about winning no matter what!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hmph. Then you must be happy with your win\ntoday."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Not at <i>all!</i> This wasn't the real Derby, and I only\nbarely won."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Besides! You're totally gonna get even faster by\nthe time the Derby comes around!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No duh."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Raaaaah! That's why I gotta, gotta, <i>gotta</i> train\nmore too!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Later, Taishiiiiin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "How can she still run like that? Where does she\nkeep all that energy?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hey, you were watching, right? You saw how fast\nTicket was?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Good. I'll see you at tomorrow's meeting."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "We've gotta come up with a training regimen to\ndefeat her!",
+            "choice_data_list": [
+                "Right!",
+                "Right!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "To challenge and be challenged—they push each\nother further ahead. Having a rival who so\nearnestly pursues her dream is a great influence\non Taishin."
+        },
+        {
+            "name": "Monologue",
+            "text": "At least, that's what I thought."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Raaaaah! Deeerbyyyyy!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Just a dream, huh..."
+        }
+    ]
+}

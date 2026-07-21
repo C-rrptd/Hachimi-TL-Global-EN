@@ -1,0 +1,308 @@
+{
+    "title": "Raffle Time!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as we're walking through the shopping\ndistrict..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Is it just me or are there more people around than\nnormal? I wonder what's going on."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ooh, a hot spring vacation! That sure sounds nice.",
+            "choice_data_list": [
+                "Want to give it a try?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I guess I have to!\nExcuse me! I'd like to try, please!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Of course! That'll be one raffle ticket!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, right. A raffle ticket..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Give me a minute. I'm gonna go do some\nshopping!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser hurries back a little later\nwith a raffle ticket in hand and gives the raffle\nmachine a good spin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No <i>way!</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I did it! I really did it, Trainer!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Gyaaah! I'm so excited!",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe. So when should we go?!",
+            "choice_data_list": [
+                "Go where?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "To the hot springs, silly! We're a little busy right\nnow, but how about we go once things calm down\na bit?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Come to think of it, the prize is a coupon for two.\nBut even still...",
+            "choice_data_list": [
+                "You're sure you want to go with <i>me?</i>",
+                "You're sure you want to go with <i>me?</i>"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Well, yeah..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Why? Is it weird for me to invite you or\nsomething?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I figured you were the obvious choice for this kind\nof thing."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I mean, you take care of me more than anyone.\nYou're like my partner or my, uh..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Anyway, you don't have to come if you don't want to.",
+            "choice_data_list": [
+                "Of course I want to!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Really?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yaaay! Then, let's plan the trip together!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe, I can't wait! \"Me, Trainer, and the Misty\nHot Spring Mystery!\"",
+            "choice_data_list": [
+                "Mystery?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Whoops! It started sounding like a movie title so\nthat just slipped out."
+        },
+        {
+            "name": "Monologue",
+            "text": "Movies aside, now we've got one more thing to\nlook forward to!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oooh! First prize!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "We didn't win the hot spring getaway, but this\nlooks super delicious!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And the prize is for both of us, so we should eat it\ntogether. Let's cook it up tonight!",
+            "choice_data_list": [
+                "If that's what you want to do...",
+                "If that's what you want to do..."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Of course it is! And if we're going to cook, I might\nas well make some sides too!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "On that note... mind if we drop by the grocery\nstore on the way back?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Matikanetannhauser prepares a\ndelicious-looking dinner for us!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Deluxe carrot hamburger steak with salad, corn\nsoup, and..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Somen noodles!",
+            "choice_data_list": [
+                "...Somen?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The hamburger steak is pretty hefty, so I thought\nit would go best with something that goes down\neasy!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I chopped up some leeks and perilla leaves too.\nHold on, let me get them."
+        },
+        {
+            "name": "Monologue",
+            "text": "Odd pairing aside, all the food comes out terrific,\nand we have a great dinner together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Second?! I was so close!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But second is still pretty good. The carrots all\nlook so sweet and shiny!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "And if we've got this many, then we gotta share\nwith everyone!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Folks from the neighborhood used to always\nbring the veggies they grew to our restaurant. I've\nalways wanted to return the favor!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Excuse me, ma'am. I'm sorry to bother you so\nlate, but we harvested more carrots than we can\nactually use, so I thought you might like some."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Did you come all the way over here just to give\nthose to me? How sweet! Actually, dearie, we've\ngot some extra potatoes if you'd like so—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait a minute! Why're we even roleplaying?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear later that their dorm was livelier than usual\nthat night."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Awww, only third?! Drats."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh well. That's how raffles go, I guess."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But since it's a special carrot and all, I'd like make\nsomething delicious with it."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "The stir-fried burdock roots at my parents'\nrestaurant is really good. Now, what was the\nrecipe again?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I'm just gonna call them real quick!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hi, Mom?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, she makes me her family's famous\nstir-fried burdock using the carrot and some\nburdock root."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Awww! Too bad!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I figured we wouldn't get the hot spring vacation,\nbut I would have at least liked to win a carrot..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I guess life really isn't fair sometimes..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser is a little down in the dumps\nfor a while after."
+        }
+    ]
+}

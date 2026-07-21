@@ -1,0 +1,40 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's training time, but there's no sign of Fine\nMotion. I'm searching the academy for her,\nwhen..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Grr... I can't just ignore this news! And it's not just\nIreland that'll be affected, but every other nation\nas well.",
+            "choice_data_list": [
+                "Is that... a magazine?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, Trainer. Do you want to take a look? These\npolitical articles really are fascinating, aren't\nthey?",
+            "choice_data_list": [
+                "You're missing training."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh my, is it that time already? I-I apologize. I\ntotally lost track of time...",
+            "choice_data_list": [
+                "You can read later.",
+                "You can read later."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yes... I was careless. I'll be more careful in future."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like Fine Motion has taken things to\nheart. I decide not to lecture her any further."
+        }
+    ]
+}

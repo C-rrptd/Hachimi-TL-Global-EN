@@ -1,0 +1,202 @@
+{
+    "title": "スカルプぶん、近づく",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In order to build Jordan's talents even more, she and I are taking part\nin the summer training camp."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Raaah! All right, one more lap! Come on, Trainer, let's go extra hard\ntoday! Uraugh!",
+            "choice_data_list": [
+                "Motivated?",
+                "Motivated?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Totally Tosen! I wanna go to the festival tonight in a good mood.",
+            "choice_data_list": [
+                "Festival?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, didn't you hear? There's a HUGE festival tonight at a nearby\nshrine!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "And I'm <i>hella</i> stoked for it. I'm 100% going, so don't you DARE\nextend practice today. I'll make sure we finish everything on time.",
+            "choice_data_list": [
+                "You've got it!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, wait a minute... If you didn't know, that means you weren't\nplanning on going to the festival, right? Got something else planned\nthen?",
+            "choice_data_list": [
+                "No, I'll just be organizing my training notes."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Huh... You're one serious trainer, all right. Well, whatever. I'm gonna\ngo warm up for the next exercise."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, true to her word, Tosen Jordan gives practice her all. Once\nwe finish, she swiftly makes her way to the festival."
+        },
+        {
+            "name": "Monologue",
+            "text": "Or at least, I thought she would..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, there you are. Come on, we're headed out.",
+            "choice_data_list": [
+                "Huh? Weren't you going to the festival?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I am, and you're coming with me. Now let's hurry up and go."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You know, I'm pretty goated when it comes to carnival games, but\n<i>someone's</i> gotta carry my prizes. Can't eat cotton candy with full\nhands, now, can I?",
+            "choice_data_list": [
+                "So you want me to do it?",
+                "So you want me to do it?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Sure do. And since I don't hear a \"no,\" I'm guessing you're okay with\nit? Good."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, I find myself half-dragged over to the summer festival."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh. My. GOSH. What are <i>you</i> doing here?! And wearing a yukata too!\nAnd—hold on, isn't that your crush?!"
+        },
+        {
+            "name": "Tosen Jordan's Friend",
+            "text": "Shhh! Don't be so loud! This is why I didn't tell anyone I was coming!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, right, I bet you wanted to show off! Anyway, I better get\nevidence for later. Trainer, take a picture of us! Say cheeeese!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You don't have anyone to take a photo of you two together, do you?\nI'll take one. I'll even make it super cute before I send it to you. Make\na peace sign!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa, what's with these chocolate bananas? They're practically <i>glow\nsticks.</i> I'm gonna go blind!"
+        },
+        {
+            "name": "Game Operator",
+            "text": "Gimme a break, kid. I'm trying to keep up with the times! You\nyoungsters like taking pictures, right? I thought these would be good,\nbut did I go too far?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "No way! This is PEAK festival cuisine! I 100% stan these banans. I'll\ntake one. How about you, Trainer?",
+            "choice_data_list": [
+                "Got any regular ones?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What, you scared? This is <i>literally</i> a banana glow-up. Get in here and\nget your hands covered in neon chocolate!",
+            "choice_data_list": [
+                "All right... I will!",
+                "All right... I will!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Pfft, haha! You looked so serious there! Well, glad you're getting into\nthe vibes. Let's take a selfie with these two bananas."
+        },
+        {
+            "name": "Monologue",
+            "text": "We continue to explore the festival, and I'm surprised by how much\nfun we're having. We may not be close friends, but we seem to enjoy\neach other's company."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Boom...</i>"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ah, yes! Fireworks! Now <i>this</i> is giving festival.",
+            "choice_data_list": [
+                "I like fireworks too.",
+                "I like fireworks too."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You do?! We finally found something we have in common, then! Huh,\nI had no idea..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Although, I guess there aren't many people who <i>hate</i> fireworks. Guess\nwe're not really vibing after all.",
+            "choice_data_list": [
+                "We're not?"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean... We're so different, you know? I was just thinking, wouldn't it\nbe nice if we had, like, one thing in common?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That way, even if we <i>are</i> from different planets, we can at least enjoy\nsomething together. Guess I've been kinda worried about it."
+        },
+        {
+            "name": "Monologue",
+            "text": "So that's why she brought me to the festival. She's been trying to\nconnect with me, in her own way."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Fireworks aren't the best common interest, huh... Yeah, no good.\nGuess we're gonna be stuck as complete strangers, huh?",
+            "choice_data_list": [
+                "That's fine."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "It is?"
+        },
+        {
+            "name": "Monologue",
+            "text": "While we may not understand each other, we've both shown that we\n<i>want</i> to. If Tosen Jordan has taught me anything, it's that the desire\nto understand is what's most important.",
+            "choice_data_list": [
+                "Thanks for trying to understand me."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Um... Whatever. I still think it'd be better if we vibed more."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whether it'd be food, comedy, clothes, or just... vibes. It'd be so\nmuch better and <i>easier</i> if we were the same."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I mean, it's annoying studying stuff we don't understand, right? Like,\nwatching UmaToks or comedy shows you don't find funny just feels so\ncringe."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "But... If that's how it's gotta be, I guess I'm okay with it. At least we\nagree that fireworks are pretty..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I can still feel some distance from Tosen Jordan as she mumbles away.\nHowever, I know that the more we talk, the more that distance will\nclose itself."
+        }
+    ]
+}

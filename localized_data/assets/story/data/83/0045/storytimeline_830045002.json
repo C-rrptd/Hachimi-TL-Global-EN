@@ -1,0 +1,229 @@
+{
+    "title": "あまあま☆ニガニガ☆黒魔法！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I hear that there's a cold going around. Then, just\nas I start to think my own throat's feeling a little\nirritated..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "ACHOO!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, you got sick too?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe... And I usually pride myself on my good\nhealth. I guess I caught this from someone."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No two ways about it, you're gonna need this. It's\nmy specially made magical cough drop! ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, it's completely black. But it does look\neffective. Bottoms up!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Blegh! What the heck is this?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It tastes like... medicine? A rubber band? A tire?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe, it's black licorice. Most people here in\nJapan hate how it tastes, but in Europe it's\nfamous for treating coughs! ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Gross or not, it really does work, you know! So\ngive it a try."
+        },
+        {
+            "text": "A black cough drop that tastes like a tire...\nDoesn't sound too appealing, but..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, you. You look like you're about to sneeze.\nTake a cough drop!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What are you getting so worked up about? I'm\ndoing you a favor! Eat it already!"
+        },
+        {
+            "text": "With Sweep Tosho being so considerate, I can't\nrefuse her. I make up my mind and pop the black\ndrop into my mouth."
+        },
+        {
+            "text": "Augh! It tastes like medicine but it has the texture\nof a tire!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aha! ♪ I can tell from your face that it's working\nits magic!",
+            "choice_data_list": [
+                "Yeah, you could say that!",
+                "Yeah, you could say that!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Are you okay?! Take some deep breaths! In! Out!\nIn! Out!"
+        },
+        {
+            "name": "Student Passerby A",
+            "text": "Oh, Sweep! You're still at it with your infamous\nmagic cough drops?!"
+        },
+        {
+            "name": "Student Passerby B",
+            "text": "Whoa, is that trainer all right? That's a face that\nsays \"suffering\" if I've ever seen one!",
+            "choice_data_list": [
+                "It's foul."
+            ]
+        },
+        {
+            "name": "Student Passerby B",
+            "text": "Ahaha, riiight? I'll go get you some water. Oh and\nwatch out, chewing makes it worse!"
+        },
+        {
+            "text": "Students begin to gather around us, perhaps\ndrawn by my look of profound discomfort."
+        },
+        {
+            "text": "As I drink some water and slowly regain my\ncomposure..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Compared to when they were complaining\nabout colds and stuff, everyone looks a little\nbetter now!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No wonder Granny always called it magic\ncandy. ♪",
+            "choice_data_list": [
+                "Magic candy?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That stuff I gave you! Granny's a great witch, and\nshe told me that candy always brings laughter."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "And that laughter made everyone feel a little\nbetter, right? That's what my magic's all about! ♪",
+            "choice_data_list": [
+                "(What a lovely sentiment.)",
+                "(What a lovely sentiment.)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, you look like you want some more. Okay,\nhere's another!",
+            "choice_data_list": [
+                "Well, I guess I could try one more...",
+                "No thanks! I'm good!"
+            ]
+        },
+        {
+            "text": "Magic that brings laughter to everyone around\nyou. Just as I start to think that's actually quite a\nnice idea..."
+        },
+        {
+            "text": "...The awful taste brings tears to my eyes!"
+        },
+        {
+            "name": "Student Passerby A",
+            "text": "Ahaha! You should have stopped when you had\nthe chance!"
+        },
+        {
+            "name": "Student Passerby B",
+            "text": "Hey, just spit it out and drink some water!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe! A licorice a day keeps the doctor away! ♪"
+        },
+        {
+            "text": "But I find myself completely unable to reach out\nfor it... Perhaps my whole body has been\ntraumatized by the taste!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Why's your hand shaking like that?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Whatever. Okay, as an extra special favor, I'll\nleave you alone for today."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "But that means the rest of you have to eat what's\nleft."
+        },
+        {
+            "name": "Student Passerby A",
+            "text": "What? We do?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Duh! Now open up! ♪"
+        },
+        {
+            "name": "Student Passerby A",
+            "text": "Ugh, fine. Okay, here it comes... BLEGH. It tastes\njust like a rubber band!"
+        },
+        {
+            "name": "Student Passerby B",
+            "text": "No way! It tastes like a tire! A really worn-out\none!"
+        },
+        {
+            "name": "Student Passerby A",
+            "text": "Ahaha! Come on, what does that even mean?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Aww, don't be like that."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Fine. Then, I'll just have to find someone else to—"
+        },
+        {
+            "name": "???",
+            "text": "Hehe, wait just a moment there, Sweep."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've been developing a new supplement, but the\ntaste has been scaring off test subjects."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Which has me thinking now... If one were to taste\nsomething even worse beforehand, that could\npotentially make the supplement taste good by\ncomparison."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Perhaps even this Universal Amino Capsule will\nfinally be rendered edible?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Tachyon, you really have a screw loose up there.\nBut then again..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That sounds super fun! ♪"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Then, let us begin, Sweep! Commence pincer\nattack!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "On it! Let's go!",
+            "choice_data_list": [
+                "S-stop it!",
+                "S-stop it!"
+            ]
+        },
+        {
+            "text": "In a merciless but splendidly coordinated\noperation, the two try to catch me. I call for help\nfrom Kitasan Black and manage to escape the\nordeal unscathed..."
+        }
+    ]
+}

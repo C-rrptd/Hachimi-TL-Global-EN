@@ -1,0 +1,293 @@
+{
+    "title": "描き写すプロトコル",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Skilled Trainer",
+            "text": "You want to know more about Air Shakur? But then why are you\nasking me?"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Surely you've heard about my session with her... She and I couldn't\nsee eye to eye. Heck, we barely spoke. I won't be much help.",
+            "choice_data_list": [
+                "Then do you have any insight into why you\ndidn't get along?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After our last encounter, it doesn't seem wise to ask Air Shakur about\nherself directly. So instead, I decide to ask others about their\nimpressions of her."
+        },
+        {
+            "name": "Monologue",
+            "text": "I need to know more about her—her achievements, her path up until\nnow... everything. The more I learn about her, the more I'll\nunderstand.",
+            "choice_data_list": [
+                "Please, anything you can tell me would help!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ah, you there. I emailed you just now, so be sure to check your inbox.\nBye now.",
+            "choice_data_list": [
+                "W-wait a minute!",
+                "W-wait a minute!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In my inbox, I find Agnes Tachyon's email... and the files attached to\nit. Every single one looks like a complex research paper..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All of those were received from Shakur as part of a trade between\nresearchers. Her graphs and formula layouts should reveal something\nabout her inner workings.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As should her blunt writing devoid of any flowery modifiers. While I\npersonally see commitment to aesthetics in her work..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "According to her, she's doing no such thing. I'm not sure I believe\nthat... Ah, I suppose those papers may be a tad difficult to\ncomprehend.",
+            "choice_data_list": [
+                "Sure, but I'll still read them. Thank you."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...I see. Well, I won't explain them either, so do your best. As long as\nyou do that, <i>something</i> is bound to happen. I'm sure of it.",
+            "choice_data_list": [
+                "Why are you helping me?",
+                "Why are you helping me?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "\"Helping\" you certainly was not my intention. But as a researcher... I\ndo not want anything to impede progress. Yours or hers."
+        },
+        {
+            "name": "Monologue",
+            "text": "So begins my days of collecting information on Air Shakur. I watch\ncountless recordings and inquire with other trainers and her\nclassmates alike. Until..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I better find a trainer soon. Why did a trainer have to be one of the\nconditions to debut... Guess it's a bit late to object.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "A trainer, huh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You still want to win though, right?\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"You still want to win though, right?\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(No matter who I pick, they're going to be a pain. In that case,\nanyone's fine... Not like they'll do much anyway.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(That said... The thought of seeing their confused face every day\nmakes my skin crawl. And what's the point of debuting... if I already\nknow what will happen?)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Maybe I should just give up.",
+            "choice_data_list": [
+                "Do you mean that?",
+                "Do you mean that?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i> Not like it would be that weird to say. Maybe now's just the\ntime to quit."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I mean, who the hell wants to play a game they already know the\nending to? Morons, that's who.",
+            "choice_data_list": [
+                "And you're no moron.",
+                "And you're no moron."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You're right. So—",
+            "choice_data_list": [
+                "But you won't give up. Because you want to win."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After retracing her steps through reports and recordings, I've come to\nknow a fraction of the effort she's put into winning the Derby. So I\nknow for a fact...",
+            "choice_data_list": [
+                "You won't give up. Ever.",
+                "You won't give up. Ever."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I hate when people talk to me like that. You don't know me, so quit\nacting like it.",
+            "choice_data_list": [
+                "You're right. I don't know you...",
+                "You're right. I don't know you..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter how much I try, I may never catch even a glimpse of her\nworld... but that won't stop me from trying."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she'll let me, I'm sure we can work together to achieve her goal.\nEven if we aren't alike, our eyes can still settle on the same horizon.",
+            "choice_data_list": [
+                "But I don't want to give up on trying to\nunderstand you either.",
+                "But I don't want to give up on trying to\nunderstand you either."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "How the... You can't even write code. And you base your actions on\nambiguous things like dreams. We're nothing alike."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You really think... you can understand me? How could you? And even\n<i>if</i> you could... What good would it do?",
+            "choice_data_list": [
+                "In order to figure that out, I'll need your help.",
+                "In order to figure that out, I'll need your help."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And what if... it all amounts to nothing? Are you really—",
+            "choice_data_list": [
+                "Yes! I want to be your trainer!",
+                "Yes! I want to be your trainer!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I seriously don't get you. Training me wouldn't benefit you in any\nway.",
+            "choice_data_list": [
+                "Of course it would."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh yeah? How?",
+            "choice_data_list": [
+                "I get to see you win!",
+                "I get to see you win!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to see the moment her hard work—her <i>obsession</i> pays off. As a\ntrainer, there could be no greater reward than that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I knew it, you don't understand a word I'm saying... Not really seeing\nthe benefit for me either at this point.",
+            "choice_data_list": [
+                "Well, you get to debut, don't you?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I won't need to debut if I quit, right?",
+            "choice_data_list": [
+                "Well, I'll be around if you decide to stick with\nit."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The hell was up with that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"But I don't want to give up on trying to understand you either.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "\"But I don't want to give up on trying to understand you either.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Shut up. Piss off. Even if you could get me... what good would your\nstubborn ass do anyways?)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Although... I suppose persistence is the one thing we have in\ncommon."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(I've yet to find a way to breach those seven centimeters. Nothing's\nchanged since I first calculated my chances. But...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Giving up... just doesn't feel right."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ah."
+        },
+        {
+            "name": "Monologue",
+            "text": "That night, I spot Air Shakur as I'm out and about. Worried, I decide\nto watch over her from a distance until she returns to the dorms."
+        },
+        {
+            "name": "Police Officer",
+            "text": "Excuse me, you've been following that girl for a while now. Care to\ntell me why?",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Police Officer",
+            "text": "We've received reports of someone stalking Umamusume at night.\nPerhaps you could tell me what you know about that at the station?",
+            "choice_data_list": [
+                "W-wait, I don't—",
+                "W-wait, I don't—"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Heh...</i> Guess I have no choice."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, leave 'em alone. Can't you see they're scared? Besides..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That \"stalker\" is my trainer... Isn't that right?"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "title": "問・夢か現か？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Huh? My body feels sluggish—like a fish out of water."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open my eyes and find myself in an empty classroom with Agnes\nTachyon beside me. It's already evening."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You're perspiring profusely. Your body temperature... Yes, you're\nburning up quite a bit.",
+            "choice_data_list": [
+                "H-huh?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You may be a guinea pig, but your body disperses heat just like a\nhuman. But I suppose we'd have a problem if you didn't."
+        },
+        {
+            "name": "Monologue",
+            "text": "I look down at my body... and find myself strapped down to a\nmysterious device!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "This reminds me of when we first met. But things are a <i>little</i> different.\nThis is my personal laboratory. Here, no one will get in my way!",
+            "choice_data_list": [
+                "Laboratory... Isn't this just a normal classroom?!",
+                "Laboratory... Isn't this just a normal classroom?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Not at all! I'm here because you wished for experimentation!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You were the one who prepared this environment. As such, is it not\nfitting to christen this as my laboratory?",
+            "choice_data_list": [
+                "I'm not sure I follow!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! Know this—a guinea pig's duty is to accept all phenomena\nas experiments waiting to happen."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You were the one who chose to be my guinea pig. Do you think\nyou're in a position to demand when, where, or how my experiments\nproceed?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If I am to surpass my limits and realize the latent potential of\nUmamusume-kind, then I must devote myself to research—in other\nwords, more experiments!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Now, I'll have you ingest my newest creation. Look, this one glows a\npleasant blue."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh... With this, your muscular strength will increase a\nthousandfold, giving birth to a body surpassing that of any monster!",
+            "choice_data_list": [
+                "Wait, what?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All right, open wide."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm helpless before her. After all, I did volunteer to be her guinea pig."
+        },
+        {
+            "name": "Monologue",
+            "text": "I brace myself and slowly open my mouth—"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Good morning, my guinea pig."
+        },
+        {
+            "name": "Monologue",
+            "text": "I squint my eyes as rays of light assault my pupils. Could the medicine\nfrom earlier have been...",
+            "choice_data_list": [
+                "H-huh?! Was it all a dream?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm? You look rather frightened, you know? Did you have a nightmare\nor something?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The lighting hasn't changed, yet your pupils are dilated.\nHeh-heh-heh... You've piqued my interest. Go on, tell me all about it."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Even now, modern science is unable to explain the precise\nmechanisms of how we dream. However, from the lens of depth\npsychology..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "We can infer that the image of me within your subconscious is of an\nUmamusume who experiments on people without considering their\nfeelings."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "At any rate... I see. I can’t believe I did all that in your dream.",
+            "choice_data_list": [
+                "Sorry, I didn't mean to offend you...",
+                "Sorry, I didn't mean to offend you..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh... I really said, \"Open wide\"? The Tachyon in your dream\nactually bothered asking?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As if a guinea pig had any choice in the matter!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ahahaha! What're you looking surprised for? Did you forget that\nyou're my personal test subject?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "A shame about earlier, though. Just a little bit more and I would've\n<i>quietly</i> poured some Medicine-β down your gullet.",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just to be clear, I was trying to show you mercy, okay? While β works\nwonders, it comes at the cost of its rancid taste."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "But instead of me trying to pour 120 milliliters of β down your throat\nwithout spilling, be a dear and flush it down yourself."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Much easier than having to force your mouth open after all!",
+            "choice_data_list": [
+                "Uh, wait a sec—"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What's wrong, my dear little guinea pig? Step one—take the medicine\nfrom my hand. Step two—drink it. Easy enough, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Murmur murmur...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to the side effects of β, I'm stuck with my thighs glowing\nblue—and the local population's judging stares—for quite some time."
+        }
+    ]
+}

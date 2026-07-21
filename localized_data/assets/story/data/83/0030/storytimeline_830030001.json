@@ -1,0 +1,248 @@
+{
+    "title": "求む、個性！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back from a walk, I run into\nMatikanetannhauser and some of her friends, and\nwe all head back to the academy."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Geez... I can't believe I ended up nodding off\nduring hide-and-seek...",
+            "choice_data_list": [
+                "You were playing hide-and-seek?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yeah. We were playing with some kids as part of\nour volunteer work."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But I ended up falling asleep in the middle of the\ngame..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "There's no need to get so down about it!\nEveryone looked like they were having a great\ntime."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But Tannhauser, I have to ask, where the heck did\nyou hide?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Even after the kids left, we still couldn't find you.\nWe were panicking, thinking something had\nhappened to you."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I heard we were gonna play hide-and-seek at the\npark, so I went ahead and scoped out the best\nspots beforehand."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wait, don't tell me..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Is that notebook filled with hiding places?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I don't get it, though. I thought I'd picked a spot\nwhere even a kid should be able to find me\neasily..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Wait!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Could it be that I'm so normal and boring that the\nkids just forgot about me?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um, no... I really think it's just that you hid too\nwell..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, this is no good at all! I've got to become an\nUmamusume brimming with character so nobody\nwill forget me again!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um! I think you're fine and memorable just the\nway you are!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks for the vote of confidence! But it's\nokay—I'm determined to be better!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So, this is where I ask you, the professional\ntrainer, to give me some advice.",
+            "choice_data_list": [
+                "Maybe you should discuss this with other\nUmamusume.",
+                "I think you're fine as you are."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You're so right! Tracen Academy is <i>full</i> of unique\nUmamusume!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Okay! I'll go talk to them!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Uniqueness, you say? Ah, I see... you long to be\neven a fraction as remarkable as myself, the great\nT.M. Opera O!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Excellent! Put those feelings into song! Come,\nplay it for me! The aria of your soul!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Um, okay—here goes! Oh, how I praaaay! ♪ That\nI will becooome a unique Umamusumeeee! ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, th-that was a beautiful song, but..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Maybe that's not the <i>best</i> way to define yourself,\nTannhauser..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You wish to be unique? Hehe, what a splendid\nproposition! Here, I'll give you my newest\nconcoction!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Just one sip and you will transform into a truly\nmagnificent being, one that has transcended the\nlimits of an Umamusume!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Can it really do all that?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "STOOOOP!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's too dangerous!"
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter how many times her friends try to stop\nher, Matikanetannhauser's desire to define herself\ncannot be quelled."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Stay as I am? You mean \"stay ordinary and\nboring\"?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I wouldn't call you ordinary per se... but you're\nwonderful just as you are!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes! You're always hardworking and\nstraightforward, Tannhauser! You're already the\nbest you!",
+            "choice_data_list": [
+                "There's nothing to worry about."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Wowww! Thank you so much, everyone!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Stay as I am, huh? Hehe. I'm feeling pretty\nconfident all of a sudden."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "So, instead of worrying about how to be me... I\njust need to keep trying my best in my own way."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I gotta keep it simple and not overthink it. Just\nkeep my eyes on the prize and..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Completely reinvent myself through fashion and a\nnew haircut!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Why would you do that?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, the three of us desperately try to stop\nMatikanetannhauser from choosing bizarre wigs\nand clothes."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I see what you're doing... You're trying to comfort\nme, aren't you?! That's such a kind gesture..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmmm... Can kindness be a unique trait? Maybe\nif I'm kind to enough people..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Uh, Tannhauser?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Like helping people in trouble or searching for\nlost cats from missing posters..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um, don't you do that stuff already?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yes! I think that'll work! All right, it's go time!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Thanks, everyone! I'm gonna become super kind!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Um, Tannhauser?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She ran off..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser runs off with new resolve. A\nshort while later..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I found a cat and helped a bunch of people, but..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Now that I stop and think about it, helping\npeople in trouble is actually pretty normal. I\nmean, any average girl would do the same."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I can't believe I was trying to become unique by\ndoing totally normal things... What was I\nthinking?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Sigh...</i> This is so embarrassing. But at least..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I got thanked by even more people than usual\ntoday! Hehe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though Matikanetannhauser seems to think she\nfailed, there are no signs of regret in her smile."
+        }
+    ]
+}

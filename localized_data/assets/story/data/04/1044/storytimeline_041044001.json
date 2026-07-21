@@ -1,0 +1,240 @@
+{
+    "title": "虹色のハーデンベルギア",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In that moment, on that day, she shined brighter—and more\nbrilliantly—than anyone else. That was the first time we ever met."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I met her at a scrimmage. During the final stretch—out of\nnowhere—she overtook one, then another, and yet another..."
+        },
+        {
+            "name": "Racers",
+            "text": "Whoa?!\nHuh?!\nNo way she's that fast!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She swept aside the competition and flew into first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That explosive, overwhelming power. That brilliant, yet beautiful\nrunning. It was just like...",
+            "choice_data_list": [
+                "(Just like... magic!)",
+                "(Just like... magic!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "<i>Pant, pant...</i> Phew! Hehe, that felt pretty good."
+        },
+        {
+            "name": "Instructor A",
+            "text": "Sweep Tosho! Come over here! It's time to review and reflect on the\nrace you ran just now."
+        },
+        {
+            "name": "Instructor A",
+            "text": "Your victory is commendable, but be careful not to rely on a\nlast-minute burst of speed. If you can clean up your running during\nthe rest of the race—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...Shuuut up!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Shaddup, shaddup, shaddup! Don't tell me what to do! 'Cause I'm not\ngonna listen to a siiingle word you say!"
+        },
+        {
+            "name": "Instructor A",
+            "text": "Huh?! Sw-Sweep?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nope, nuh-uh, nada—I'm not listeniiing!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh my gosh, what's her deal?! This sucks! It's all so boring—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh? Hey, you! What're you looking at?!",
+            "choice_data_list": [
+                "Um... it was, uh, like magic."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...What?",
+            "choice_data_list": [
+                "Uhhh."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm so lost in thought about her running that I end up saying the first\nthing that comes to mind. She's probably weirded out by what I just—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Did you just say magic?!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You said it, didn't you?! M-a-g-i-c! Just now! Explain yourself!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Mmm! ♪ So sweet! ♪ Deeelish! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "An hour—and one chocolate parfait with extra whipped cream—later,\nSweep Tosho smiles with a look of satisfaction on her face."
+        },
+        {
+            "name": "Monologue",
+            "text": "As for how this happened, well..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Oh, if we're gonna talk, let's talk over sweets! Lemme eat something.\nYour treat, of course!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Can't you see how tired I am from all that running?! Some pudding, a\nparfait, or even a cake—just gimme some sweets, nooow!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Just so you know, I won't settle for anything average! It's gotta be\nsweet, yummy, <i>AND</i> cute! ♪ So, lead the way! C'mooon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, after a bit of coercion, I find myself here."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now, about what we were talking about earlier. You said my running\nwas like magic, didn't you? What'd you mean by that?",
+            "choice_data_list": [
+                "Uhhh, it just kinda popped into my head,\nhonest—"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That's it?! What the heck, I don't get you at all!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hah... whatever. And here I was, thinking I'd finally found a lead on\nracing magic.",
+            "choice_data_list": [
+                "Racing magic?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yup... Grandma taught it to me. She told me racing magic was the\nbest."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "It looks like you don't know, so I'll fill you in. You're in the presence\nof the genius Magical Girl Sweepy!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Someday, I'll become a great witch like Grandma. That's why I need\nto hurry up and learn racing magic.",
+            "choice_data_list": [
+                "...So you want to learn how to use magic?",
+                "...So you want to learn how to use magic?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Who wouldn't?! Listen up, okay? Magic is..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't wanna! No, no, no! Nooooo waaaaay!"
+        },
+        {
+            "name": "Sweep's Father",
+            "text": "Sw-Sweepy! There's nothing to be scared of, okay? You're great at\nEnglish! Your teacher even told me you got a perfect score on your\nlast t—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I don't wanna! If I don't wanna, I don't wanna! I'm not going!"
+        },
+        {
+            "name": "Sweep's Father",
+            "text": "Um, how about singing then? We can go to singing lessons instead!\nYou won an award for that too! I'm sure this is the st—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Nooo meanssss nooooo!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(No, no, no! I mean, it's all so boring! Do this, do that—everyone's\nalways trying to tell me what to do!)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(Getting praised for doing well doesn't make it fun! So I'm done!\nNever again! No, no, no!)"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "Ahahahaha! My child, you're too young to be bored by the world\nalready. Let's see here..."
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "Carpe diem!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "Now, isn't that a nice fragrance? Take a deep breath and take it all\nin, my little Sweepy."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "These flowers are so pretty... But how?! You didn't have these a\nsecond ago! How... C'mon, c'mon, c'mon—how'd you do it?! Tell me\nalready, Grandma!"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "You want to know? Sweepy, this here, is magic. I'm a great witch, so I\ncan use every kind of magic!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Magic?!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Magic, huh? Tell me more, tell me more! It sounds really fun!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I wanna try too! I wanna try using magic!"
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "Haha, I can see that. Then come with me. I've got the perfect hat for\nyou."
+        },
+        {
+            "name": "Sweep's Grandma",
+            "text": "My little Sweepy. Listen well, because Grandma is about to teach you\njust how fun and exciting magic can be!"
+        }
+    ]
+}

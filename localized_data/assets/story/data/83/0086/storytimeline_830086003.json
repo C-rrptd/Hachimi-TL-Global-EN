@@ -1,0 +1,214 @@
+{
+    "title": "Rivals Know Best",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day before the mini concert! When I arrive\nat the venue, the four performers are already\nthere."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Our support has arrived! Hehe.\nTell me, did you volunteer to help with the\nconcert for the chance to see me backstage?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's clearly not the case."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I-I'll d-do my best and try not to s-step on\nanyone's feet!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Relax, Doto. The concert's going to be great\ntomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They begin their rehearsal. All of Narita Top\nRoad's practice seems to be paying off up until—"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Agh!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'm sorry! I didn't mean to hit my hand against the\nset piece!"
+        },
+        {
+            "name": "Stage Director",
+            "text": "Yeah, this stage is a bit smaller than we hoped\nfor. Sorry, can you adjust your choreography a\nlittle and keep your movements tighter?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(Spin in place, spin in place—agh!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Pow!</i>"
+        },
+        {
+            "name": "Stage Director",
+            "text": "Let's change this part up a little. Top Road,\ninstead of dancing with everyone, we'll have you\nsing a solo here!"
+        },
+        {
+            "name": "Stage Director",
+            "text": "I'm sorry about these last-minute changes. We'll\ndo our best to adjust the staging to make the\nmost of the performance!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "No, I'm sorry. I should be adapting to the changes\nbetter..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I'm going back to training."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh, that's a vote of confidence from Ayabe. It's\nas though to say we needn't squander time\nworrying for Top Road—she'll be fine!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "R-right! Top Road always comes through!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Precisely! Oh, our dear rival, Narita Top Road! I,\nthe Overlord, vouch for your skill! She will surely\nbe transformed by the time of dawn's arrival!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Director! Can you give me until tomorrow? I\npromise I'll master the choreography by then!",
+            "choice_data_list": [
+                "I'll help you practice!",
+                "I'll help you practice!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "One! Two! One, two, three!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "<i>Huff, puff...</i> One more time! I'm going to keep\ngoing until I get it right!",
+            "choice_data_list": [
+                "Take it slowly. You don't want to rush this."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The choreography isn't new to her. She just needs\nto remember all the effort she's put in up till now.",
+            "choice_data_list": [
+                "You've put in the work, so draw upon it now!",
+                "You've put in the work, so draw upon it now!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "...Draw upon the work I've put in?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(That's right... I'm not learning this dance for the\nfirst time. I already know how it goes!)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(I've poured so much of myself into this so I can\nmeet everyone's expectations!)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "You're a hundred percent right. All the work I've\ndone wasn't for nothing. I won't waste the efforts\nI've made!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "First, I have to get a grasp on what I'm dealing\nwith, then I have to analyze the situation!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I just have to stay calm and tackle the issues I'm\nhaving. I'm going to review the recording of our\nrehearsal!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Aaand there! <i>Huff... Huff...</i> I did it!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "This will definitely convince the director I'm ready\ntoo!",
+            "choice_data_list": [
+                "Yeah! You've got this!",
+                "Yeah! You've got this!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Right now, I feel like I can do anything!",
+            "choice_data_list": [
+                "Anything?"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Yeah! Like, for instance..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the next day, just before the concert. The\ntime for Narita Top Road to show off the fruits of\nher labor has come!"
+        },
+        {
+            "name": "Stage Director",
+            "text": "What?! Top Road... Are you sure you want to do\nboth?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "I'm positive! Here, let me show you that I can!\n<i>Inhale...</i>"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Accelerating now! ♪ Never backing down! There's\na place I'm meant to be! ♪"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-wow! She's singing and dancing at the same\ntime?! Her voice is so strong and stable too!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Stage Director",
+            "text": "Magnificent! I'm shocked! Yes, go ahead and sing\nand dance simultaneously on stage! The audience\nwill love it for sure!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Oh! Thank you so much! I'll do all I can to wow the\ncrowd!",
+            "choice_data_list": [
+                "All right!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Though fear may rob you of all hope, through the\ndark forest and beyond our expectations shall\nyou go... Yes! Ahh, how brilliant!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Thank you so much, Trainer. Because of you, I\nwas able to believe in myself and do my best!",
+            "choice_data_list": [
+                "All I did was help.",
+                "All I did was help."
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Pfft... Hehe! Is that supposed to be an imitation\nof what I said when we were helping my\nclassmates with their makeup test?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Well, it's time to do this. We'll show you what\nwe're really made of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Narita Top Road flashes me a sparkling smile\nbefore she heads on stage."
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "title": "I'm Gonna Be a Mommy!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, as I'm passing by the dorms..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Cough, cough!</i> I'm okay, Flower. It's not bad\nenough that I need to take the day off."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But... if you push yourself any more, you'll\ncollapse from exhaustion!",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Creek's caught a cold, but she doesn't want to\nrest. She says she still has things to do..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Laundry, vacuuming, bedtime stories... Everyone\nneeds me."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I have to be there for them..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Creek..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You can leave all of that to me! I'll look after\neveryone!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "But... but that means I won't get to pamper... No,\nI mean—I would hate to cause you trouble,\nFlower."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Don't worry, it's no trouble at all! I <i>want</i> to help!",
+            "choice_data_list": [
+                "Why not rely on her?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm... I wish I could look after them myself... but\nokay."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Knowing you, I'm sure you'll be a great mommy\nfor everyone."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah, I'll try my best!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oguri, hi! I'm here to deliver your lunch box on\nCreek's behalf."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Did you... arrange the food to look like me?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes. Creek suggested I make something you can\nhave fun eating. I jam-packed it with all your\nfavorite foods! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I see. Thank you. Hehe, it's very cute."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Taishin, your training partner has arrived!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What? Didn't Creek leave school early today?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes, that's why I'm here to run with you instead! I\ncan hold my own up to medium\ndistance—promise!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A-all right, all right."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ya really don't gotta do this, y'know..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Of course I do. I'm here in Creek's stead! I'll\nmassage all your fatigue away!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whew! Thanks a bunch. You're real considerate,\naren'tcha?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Well, Creek told me to give you a thorough\nmassage after training."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And then after that, I think she said... to give you\na pat on the head for good measure?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The heck ya will!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Nishino Flower's day of being a mommy\ncomes to an end."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Phew... That was more tiring than I expected.",
+            "choice_data_list": [
+                "You did a great job."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Creek is amazing. She helps out so many people."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "She was there for me too, when I first arrived at\nthe academy."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was feeling lonely, but she told me I could rely\non her as if she were my own mother. It was so\nreassuring."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to be just as reliable as she is one day.",
+            "choice_data_list": [
+                "You did perfect today!",
+                "You did perfect today!",
+                "It's easy to see your heart's in it.",
+                "I'm rooting for you.",
+                "I'm rooting for you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to be just as reliable as she is one day.",
+            "choice_data_list": [
+                "You did perfect today!",
+                "You did perfect today!",
+                "It's easy to see your heart's in it.",
+                "I'm rooting for you.",
+                "I'm rooting for you."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Th-thank you very much."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "My approach was probably different from\nCreek's... but I hope the others found it just as\nhelpful. ♪",
+            "choice_data_list": [
+                "You should have more confidence in yourself."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Okay!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, and um... I did something for you too..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "This is a potpourri that I made, full of scents to\nrelieve fatigue. If you'd like, it's yours!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that day, I'm able to enjoy a productive\nwork session thanks to the potpourri Nishino\nFlower gave me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah... I hope so! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "By the way, are you free? I brought some\nhomegrown tea leaves with me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was wondering if you'd like to try them.",
+            "choice_data_list": [
+                "I'd love to."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe, yay! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The tea Nishino Flower brews for me is delicious.\nHer gratitude toward me for accompanying her\ntoday is apparent in every sip."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you! After today, I feel like I've gotten a\nlittle closer to getting there."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "When I grow up, I want to be just as kind and\ndependable as Creek! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There, there. Mommy's here for you, honey! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I-I'm here too! So... just relax and let us spoil you,\nokay?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, is something wrong?",
+            "choice_data_list": [
+                "It's nothing. Just... don't go overboard, all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Got it! Thanks for the advice!"
+        },
+        {
+            "name": "Monologue",
+            "text": "That sudden fever dream... Could it have been a\nsign of things to come?"
+        }
+    ]
+}

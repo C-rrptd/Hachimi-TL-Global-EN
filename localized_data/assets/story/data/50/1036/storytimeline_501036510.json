@@ -1,0 +1,194 @@
+{
+    "title": "要件定義：奇跡を数値化する",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after classes have finished, I hear voices\ncoming from inside the gym. I peek inside and\nfind..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! Pay more attention to where the spotlight is\nshining. And you're walking too early too."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! I do apologize! I dazzle so\nspectacularly that mere lighting escapes the eye!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Focus on moving the spotlight faster, Doto.\nYou're not keepin' up with Opera O."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "R-right! I'll do my best!\nBe faster! Be faster!",
+            "choice_data_list": [
+                "Are you in a play?!",
+                "Are you in a play?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?!\nHell no! Don't get any weird ideas!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Actually, T.M. Opera O is the only person up on\nthe stage. Air Shakur must be helping backstage\nwith the sound and lighting."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Wishing to capture me in the dazzling cage of the\nspotlight is the most natural thing in the world!\n'Tis a fearsome thing, this charm of mine, capable\nof bringing the entire world to its knees!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Th-that's for sure! You've even got Shakur so\ndazzled and impressed that she's helping out."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Wrong. Dead wrong. How many times do I have\nto say it?",
+            "choice_data_list": [
+                "Then, why <i>are</i> you here?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You don't have to bother over every little detail.\nDamn..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fine. If you're <i>that</i> curious, just watch the full\nrehearsal. It's about time we factor in the\naudience factor anyway."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Get ready, you two. It's time to begin the code\nreview process."
+        },
+        {
+            "name": "Monologue",
+            "text": "Their opera is so incredibly well put together, I\ncan hardly believe it was created by just three\npeople."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Alas, I can never be satisfied for even a moment,\nno matter how glorious. The paragon of beauty\nthat is myself is a thing that must be shared with\nas many as possible!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Three, two, one.\nAaand, fade out in ten..."
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O moves across the stage illuminated\nby a laser-focused spotlight, each step\nresounding through the space as if struck on\nstone."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the next instant, a vast ocean appears. A flood\nof lights and the sound of crashing waves make\nthe empty stage suddenly come alive."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Time, I command thee stand still! Behold my\nbeauty!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And now, fade to black."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There you have it. Thoughts?",
+            "choice_data_list": [
+                "Absolutely captivating!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Right? I meticulously calculated every aspect so\nas to create a feeling of immersion, pulling the\naudience directly into the world on stage."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "What a masterpiece! With your direction, we've\nsomehow managed to draw out my radiant charm\neven further—exactly as one would polish a\ngemstone!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I had no idea you could do that with sound and\nlighting. You really helped us out!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I didn't do any of this to help you. I just wanted to\nprove a theory I had."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I wanted to test if my logic would prevail even in\nthe chaotic world of the arts. I wish you'd all get\nthat through your heads."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. Now, that's enough useless blabber. Let's\nkeep running tests until it's time for the real\nperformance."
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears the real reason Air Shakur has decided\nto help with the show isn't due to kindness, but\nrather the desire to prove a theory. All the same...",
+            "choice_data_list": [
+                "You've really been working hard, huh?",
+                "You've really been working hard, huh?",
+                "You should keep helping until the show opens!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It appears the real reason Air Shakur has decided\nto help with the show isn't due to kindness, but\nrather the desire to prove a theory. All the same...",
+            "choice_data_list": [
+                "You've really been working hard, huh?",
+                "You've really been working hard, huh?",
+                "You should keep helping until the show opens!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless of intentions, pulling off this level of\nperfection is no ordinary feat. I tell her it seems\nshe's put in no small effort, but..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Spare me the cliches. Putting forth the effort\nnecessary to achieve a goal should go without\nsaying."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but... you've come to so many rehearsals. It\nreally feels like we accomplished this together."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Actually, well, I know what you must be thinking!\nWhat right does someone as useless as me have\nto say that, right? Sorry!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>...Sigh.</i> For the love of..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway, it turned out all right. If we can keep up\nthis quality until opening day, I'll call you back to\nreprise your role as an audience member."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not easy to tell, but Air Shakur seems\nsomewhat pleased."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, yeah. Even if I tried to back out now,\nDoto'd never give me a moment's peace."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Not only that, I would come to recruit you once\nagain! It's rare to find such a magnificent\nbackstage talent! I wouldn't dream of letting you\nslip through my fingers."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "See? Sticking it out to the end is the logical\nchoice. I've factored that in from the very\nbeginning."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No other reason."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur seeing this play through until the end\nadmittedly shows a bit of her caring side. Or at\nleast that's how it seems to me!"
+        }
+    ]
+}

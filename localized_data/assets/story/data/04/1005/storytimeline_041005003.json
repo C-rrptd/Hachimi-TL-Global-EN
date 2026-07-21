@@ -1,0 +1,248 @@
+{
+    "title": "Never enough",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day before tryouts..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Sigh...</i> I'm so sorry for stopping you, but I'm in search of someone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki informs me that she can't find one of the students under\nher care. Unfortunately, I have no idea where to look...",
+            "choice_data_list": [
+                "I'm sorry. I haven't seen her."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I see... Well, thank you anyway. If you do happen to find her, would\nyou tell her to contact me right away?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "No need to say how—every member of Ritto dorm knows my details.\nThank you again! Now, I must be off."
+        },
+        {
+            "name": "Umamusume Junior A",
+            "text": "Hey, wasn't that Fuji? I wonder why she was in such a hurry."
+        },
+        {
+            "name": "Umamusume Junior B",
+            "text": "Apparently, a student from Ritto hasn't been seen all day. I heard she\nmight've snuck off and run away from school."
+        },
+        {
+            "name": "Junior Student A",
+            "text": "Ah, well, that's not super rare, huh... Wait, so Fuji's been looking\nsince morning?! The tryouts are tomorrow!"
+        },
+        {
+            "name": "Junior Student B",
+            "text": "I know, right? I wonder if she'll be able to train at all... But it's her\nwe're talking about. I'm sure she'll be fine.",
+            "choice_data_list": [
+                "(I've gotta help look!)",
+                "(I've gotta help look!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Try as I might to find a student fitting the description Fuji gave me,\nmy search ends in failure."
+        },
+        {
+            "name": "Monologue",
+            "text": "Meanwhile, it's already grown dark outside."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Trainer?! What on earth are you doing here? And you're drenched in\nsweat...",
+            "choice_data_list": [
+                "I wanted to help with the search."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Is that so? You're very kind... Thank you for helping out."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm afraid to say, this park is the only place left unchecked—"
+        },
+        {
+            "name": "Umamusume Junior C",
+            "text": "<i>Sniffle...</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Wait! Did you hear that? Let's go!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Good evening, my darling pony. And what might you be doing in such\na lonely place?"
+        },
+        {
+            "name": "Umamusume Junior C",
+            "text": "Huh? F-Fuji?! But, why are you here?! You should be preparing for\nyour race tomorrow, not worrying about me!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I needn't worry about you? Why would you say such a thing? I mean,\nyou're one of my dearest friends at the academy."
+        },
+        {
+            "name": "Junior Student C",
+            "text": "No way! I... I'm no good to anyone here. I'm not fit to be at this school\nanymore."
+        },
+        {
+            "name": "Junior Student C",
+            "text": "The training's way too hard for me. I just wanna see my family... All my\nmotivation to race disappeared like a puff of smoke!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Your motivation to race... I see."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Don't you want to try reclaiming that feeling? Or would you rather\nthrow this all away and go home?"
+        },
+        {
+            "name": "Junior Student C",
+            "text": "I-I dunno..."
+        },
+        {
+            "name": "Umamusume Junior C",
+            "text": "I mean, I'd like to get the feeling back, <i>if I can</i>... Running in real races\nhas always been my dream, but—"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Then it's decided! If that is your wish, then I shall make it come true."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Watch me—I'll have you remember your motivation. All of it. In the\ntryouts tomorrow, I'll show you a real miracle!"
+        },
+        {
+            "name": "Junior Student C",
+            "text": "A miracle?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I mean it. So come on... let's get back to the dorm."
+        },
+        {
+            "name": "Monologue",
+            "text": "Through an inspiring promise of a miracle, Fuji Kiseki manages to\nbring the student safely home."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Geez... My nerves are shot, Fuji. I thought we lost you too."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hahaha! Forgive me! But I thank you, Hishiama, for watching over\nthings while I was gone."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And Trainer, your efforts were heartening to see!",
+            "choice_data_list": [
+                "I'm just glad we found your friend."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Come on, it's almost lights-out. Get to bed already. You've got that\nrace tomorrow."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You missed a whole day of training, but I wouldn't sweat it. It'd take\nmore than a day to throw you out of shape. Just concentrate on restin'\nup."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...Will do."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Don't get any funny ideas or anything, 'kay? Good night."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yes, good night."
+        },
+        {
+            "name": "Monologue",
+            "text": "I part ways with the two and return to my room, but I can't help\nworrying about how Fuji was acting..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "For I am Fuji Kiseki—the entertainer who brings joy to all! At least,\nthat is the ideal I wish to become."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'll put on a miracle of a performance that will make everyone smile!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "For I... am the miracle of the turf, Fuji Kiseki!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Watch me—I'll have you remember your motivation. All of it. In the\ntryouts tomorrow, I'll show you a real miracle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She wants so badly to entertain and thrill people. I hope she's staying\ncalm about this...",
+            "choice_data_list": [
+                "(But I've got a bad feeling.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to shake my strange hunch, I go to make sure Fuji's resting."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What a jerk! She looked too calm—I knew she'd do somethin' dumb\nlike this!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, it's you. You're that trainer who was with Fuji, aren't ya?",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, only her drivin' me into a rage! She vanished without a trace. It's\none thing for the others to break curfew, but a dorm leader?\nUnforgivable!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's good that you're here, though—we're after the same thing. Let's\nsplit up."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Lemme think where she loves to train... There's down by the river, the\nshrine..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After thinking of all the places she could be, Hishi Amazon and I split\nup to look for Fuji Kiseki."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Huff, puff, huff...</i>",
+            "choice_data_list": [
+                "Fuji Kiseki!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Huh... T-Trainer?!"
+        }
+    ]
+}

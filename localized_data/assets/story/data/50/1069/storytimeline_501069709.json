@@ -1,0 +1,38 @@
+{
+    "title": "レース入着",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahh, I was so close... I know it's not that bad a\nresult, but it's still frustrating..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Haha... I guess I'm still a step short from claiming\nvictory...",
+            "choice_data_list": [
+                "But you gave it your all!",
+                "You'll get it next time!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yeah... Yeah, you're right! I did!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But I'm still upset that I didn't make it to first\nplace..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"Heavy is the trophy that slipped from your\ngrasp\"... I'll just have to train harder. Then victory\nwill be even sweeter!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're right... I can't simply accept the placement\nI got this time."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"To see the light, you must run toward it!\" I need\nto train more to make sure I place first next time!"
+        }
+    ]
+}

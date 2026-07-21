@@ -1,0 +1,405 @@
+{
+    "title": "Changes",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Passerby A",
+            "text": "Well, you know... Air Shakur tried really hard. I'll\ngive her that."
+        },
+        {
+            "name": "Passerby A",
+            "text": "But her performance was a bit of a letdown. Sure\nwould be nice if some heavy hitters with actual\npromise showed up at some point."
+        },
+        {
+            "name": "Monologue",
+            "text": "The disparity in skill between Air Shakur and the\nsenior-year racers became evident at the Japan\nCup, turning the public's opinion on her on its\nhead."
+        },
+        {
+            "name": "TV",
+            "text": "My opinion on Air Shakur? Well... I think she's\ngreat. She's a cut above the rest for sure!"
+        },
+        {
+            "name": "Commentator",
+            "text": "She's certainly strong, if we only go by her track\nrecord, but... well, can we really take those\nrecords at face value?"
+        },
+        {
+            "name": "Commentator",
+            "text": "There aren't very many strong racers in her year,\nafter all."
+        },
+        {
+            "name": "Commentator",
+            "text": "If she had a powerful rival to contend with, then\nthere'd be no doubt that she's the real deal."
+        },
+        {
+            "name": "Commentator",
+            "text": "Usually, there are no shortages of rivals pitting\ntheir dreams and tenacity against each other in\nheated battle..."
+        },
+        {
+            "name": "Commentator",
+            "text": "Strangely enough, such rivalries are missing this\ntime around. I did see a few potential\ncontenders... but perhaps they couldn't pull\nthrough in time."
+        },
+        {
+            "name": "TV",
+            "text": "It seems the consensus is that she was lucky... And\nif you're listening, Air Shakur, don't forget to\nwave to your fans every once in a while!"
+        },
+        {
+            "name": "TV",
+            "text": "Ahaha—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Don't turn it off."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There's no need. I figured it'd be like this.",
+            "choice_data_list": [
+                "Shakur..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My achievements may score high on an absolute\nscale, but that doesn't make them exempt from\npeople's subjective scrutiny."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Numbers are the only absolute things in this\nworld. However..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's not good if things are <i>too</i> absolute.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Parcae has shown me my fate: I'll never be able to\nwin again.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whatever route I take or pattern I attempt to\nimplement, I keep endin' up back here."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Guess that's why it's called fate..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There's not much time left till the spring Tenno\nSho, so why waste it worryin' about background\nnoise?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There's no point fussin' over every complaint or\nopinion."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur isn't being completely honest right\nnow. She's not one to mince words when she truly\ndoesn't care about something."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her, things are never left to ambiguous\ninterpretation. She's strict and honest with\nherself, and she's a strong person who doesn't let\nother people's opinions sway her.",
+            "choice_data_list": [
+                "(I should go after her. I need to hear her out.)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "???",
+            "text": "The representative of the \"weakest generation\"\nmay stand above the rest in her year, but she's\nstill weak."
+        },
+        {
+            "name": "???",
+            "text": ">System.InvalidOperation"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Shut up. Buzz off already.",
+            "choice_data_list": [
+                "There you are."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ugh. I knew you'd show up."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I get the feelin' the gods are toyin' with me.",
+            "choice_data_list": [
+                "What makes you say that?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You don't think so? Despite how ridiculous this\nis?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Everything's gone just as predicted. And despite\nknowing that, I've been busting my ass trying to\nchange the inevitable. Someone upstairs has <i>got</i>\nto be laughin'."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I know what they're sayin'. \"Give up. Quit acting\nlike this. Change your ways. Accept your fate.\nThen you might find salvation.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even my own partner's been tryin' to rile me up."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's the only answer I'll accept."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've built up a track record of absolute values...\nAnyone can see that plain as day."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And yet, not a single person's evaluated me fairly.\nWhy? Because of the year I'm in? 'Cause I don't\nhave a proper rival?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No. It's 'cause I'm me."
+        },
+        {
+            "name": "Monologue",
+            "text": "The sight of Air Shakur looking so hopeless and\nhelpless causes me to blurt out my next words\nbefore I have the chance to think.",
+            "choice_data_list": [
+                "Are you sure nothing has changed?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?",
+            "choice_data_list": [
+                "What about your feelings?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Stop beatin' around the bush. What do you want\nfrom me?",
+            "choice_data_list": [
+                "If you really believe in your numbers..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Then she should know the path she chose isn't\nwrong. The first thing is for her to accept that\nfact. But that's not all.",
+            "choice_data_list": [
+                "You should be proud of yourself."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "I know I'm not your \"partner,\" but...",
+                "I know I'm not your \"partner,\" but..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I've watched her get to this point. Despite being\nplagued with nightmares throughout the Classic\nTriple Crown, she overcame her fate."
+        },
+        {
+            "name": "Monologue",
+            "text": "And despite her fear of the insurmountable wall\nblocking her way, she didn't shrink from the\nchallenge. She never stopped thinking either."
+        },
+        {
+            "name": "Monologue",
+            "text": "That is the truth. I've witnessed all her\naccomplishments with my own eyes, and as her\ntrainer, there is one thing I can say.",
+            "choice_data_list": [
+                "You are the strongest. My reality will never\nchange.",
+                "You are the strongest. My reality will never\nchange."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Whatever route you take, I can say that with\ncomplete confidence."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ugh."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're an overoptimistic fool... I'm weak. I\nwouldn't have been able to change my fate on my\nown."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It took interference from an unquantifiable\ninfluence—from you.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "How the hell am I supposed to take pride in that?",
+            "choice_data_list": [
+                "You're wrong!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If she honestly believes she couldn't have done it\nby herself, she's made a grave miscalculation.",
+            "choice_data_list": [
+                "Your tenacity is what changed your fate.",
+                "Your tenacity is what changed your fate."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!",
+            "choice_data_list": [
+                "I chose to be here because of you.",
+                "I chose to be here because of you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is fixated on winning. The reason why I\nsigned on to be her trainer was because her\nperseverance resonated with me—and she\naccepted."
+        },
+        {
+            "name": "Monologue",
+            "text": "If I helped her in some way, that's her merit for\nchoosing her trainer effectively. And even if I\nmanaged to make a difference...",
+            "choice_data_list": [
+                "A 0.01 push doesn't round up to 1. You putting\nin 0.99 did that."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She came so far on her own—a mere beat of a\nbutterfly's wings was the last push she needed.\nFrom the moment she chose to overturn her fate...",
+            "choice_data_list": [
+                "Your fate changed on that very day."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You're so naive."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're always givin' the same worthless pep talks."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But I guess that's your own brand of tenacity."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whatever. I see where you're coming from.",
+            "choice_data_list": [
+                "You should make everyone understand you."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What's that supposed to mean?",
+            "choice_data_list": [
+                "Show everyone just how tenacious you are.",
+                "Show everyone just how tenacious you are."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Are you being serious?",
+            "choice_data_list": [
+                "I'm always serious."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's right. That's who you are, isn't it?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You've always been like that. No need to run any\nanalyses to see that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My tenacity, huh?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Still... At the end of the day, I couldn't do it on\nmy own."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(No, I've come this far by myself. If I'm gonna\ntrust this idiot, then the only thing I can do is\nprove myself.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm the only one who can raise myself up."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If I'm nothing in people's eyes, then I'll just force\n'em to look this way."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll make every last one of 'em understand me.\nHmph, that's such an abstract and ambiguous\ngoal. But still..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm ready to do this."
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm? Parcae?"
+        },
+        {
+            "name": "???",
+            "text": "> Start initialization process?\n>[y]:"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What's with this command?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Reinitialization? Are you trying to get me to reset\nyou back to a fresh install?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Come on, I don't need you becoming self-aware\noutta nowhere like some kinda sci-fi story... The\nheck, though? I didn't code this..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I guess you want me to create my own reality."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's right. The two of us are different."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "title": "ウマ娘演歌大会！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I-I absolutely have to do a good job at the enka\ncontest..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It all started when Sakura Chiyono O and I were\non our way back to the academy after spending\nthe day out and about..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Chiyono O! Can you please participate in an\nUmamusume enka contest we're holding?!",
+            "choice_data_list": [
+                "What Umamusume enka contest?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Well, it's an event for the elderly... One of the\nparticipants got injured and can't make it\nanymore, so...",
+            "choice_data_list": [
+                "So you came to us.",
+                "So you came to us."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yeah... Chiyono, you're always humming enka\nsongs with gliding note changes and stuff, so you\nmust be good! Please, you've gotta do this!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "O-oh gosh! I'm flattered, but I couldn't possibly! I\nonly dabble a little in enka, so I'm nowhere near\ngood enough. Although..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I suppose the saying does go that \"every race\nstarts with the first furlong.\" In other words, that\nfirst step is the most important... Trainer!",
+            "choice_data_list": [
+                "Go get 'em, Chiyono O!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so Sakura Chiyono O signs up as a\nparticipant in the enka contest."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aaah! ♪\nMy looove is swallowed by the wiiind ♪\nAnd vanishes in the dark waaaves! ♪"
+        },
+        {
+            "name": "Lady A",
+            "text": "Th-that was wonderful, Kita! My heart is still\nracing from your performance!"
+        },
+        {
+            "name": "Man A",
+            "text": "Your vocal runs and vibrato were wonderful... Oh,\nI've grown soft with age... I'm starting to tear up..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "(Urgh... I'm so scared about going on stage...\nB-but I have to muster up the courage for the\nsake of performing with Opera O!)"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ahhh! ♪\nThe snooow wraps youuu ♪\nIn its embraaace! ♪"
+        },
+        {
+            "name": "Man B",
+            "text": "Very good, Doto! That delicate voice of yours is\nincredible!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow... Everyone's amazing... Their singing is so\ncaptivating... But..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I'm next... Wh-what am I going to do? My hands\nare shaking!"
+        },
+        {
+            "name": "Host A",
+            "text": "And now for someone who impresses even Kitasan\nBlack! It's Sakura Chiyono O!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(I-I have to sing my best... Uh... Uh... How do\nenka songs go again?)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Chiyono O is shaking, but I can tell there's\nnothing to worry about. I know just how\ncourageous she really is.",
+            "choice_data_list": [
+                "Remember, every race starts with the first\nfurlong!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "(Right... I don't have time to flounder around like\nthis... I just need to open my mouth... and sing the\nfirst verse!)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "A-as the clouds scatter..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yaaah! ♪\nYour love is reveaaaled ♪\nIn the shadow of the mooon! ♪"
+        },
+        {
+            "name": "Man A",
+            "text": "Wow! What feeling!"
+        },
+        {
+            "name": "Lady A",
+            "text": "Amazing! Such emotion! I can tell just from her\nsinging just how genuine her feelings are!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahhh! ♪\nDearest cherry blossoms of the niiight! ♪\nTell me nooow, do you feel my looove? ♪"
+        },
+        {
+            "name": "Spectators",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Pheeew... I actually managed to do it..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Chiyono O! That was so moving! All of your\nfeelings came across like <i>bam!</i> Hit me right in the\nheart!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Th-that really warmed my heart too! Your singing\nis so comforting."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "What? Me? But I'm nowhere near as good as\neither of you!",
+            "choice_data_list": [
+                "Bravo! What a touching performance!",
+                "I want an encore!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh! Trainer..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Th-thank you, everyone! My face is getting red...\nHehe."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But you know, Trainer... You're the reason I was\nable to sing so well."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I was panicking and didn't know what to do... But\nwhen I heard your voice, I realized..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Even if I'm by myself onstage, I'm not alone.\nThere are people out there watching me and\nsupporting me."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "That's why I decided to pour all my feelings of\nappreciation into my song!",
+            "choice_data_list": [
+                "Those feelings came across loud and clear."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Great! Hehe... It'd be nice to participate in\nanother Umamusume enka contest sometime."
+        },
+        {
+            "name": "Spectators",
+            "text": "Oh! We can ask for an encore? Encore! Encore!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wh-what's going on?",
+            "choice_data_list": [
+                "They loved your singing so much, they want to\nhear it again!",
+                "They loved your singing so much, they want to\nhear it again!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O-o-oh dear... Are they sure? I mean... what if I\nmess up?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You'll be fine! Just remember, every race starts\nwith the first furlong! Right, Trainer?",
+            "choice_data_list": [
+                "Right!",
+                "Right!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Great! We'll start with the first furlong, then! Let's\ncombine our strength and give 'em a great\nencore! Woo!"
+        },
+        {
+            "name": "Chiyono O & Doto",
+            "text": "Woo! ♪\nW-woo! ♪"
+        }
+    ]
+}

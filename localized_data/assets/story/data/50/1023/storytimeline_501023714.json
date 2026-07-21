@@ -1,0 +1,118 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Biwa Hayahide has a severe injury, so I cancel\npractice and go visit her to drop some things off."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Hello! If you're looking for Hayahide, she left for\nthe gym a little while ago."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Pant... pant...</i> I didn't think... this injury would...\naffect me so much...",
+            "choice_data_list": [
+                "What are you doing?!",
+                "What are you doing?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know. I'm sorry, but please, don't worry."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I suffered a major injury as a child, so I know what\na setback it can be."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's why I don't want to waste any time. I want\nto continue refining my equations instead."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'll pay close attention to my injury while still\ncarrying out my calculations, so please..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Please don't stop me from progressing!",
+            "choice_data_list": [
+                "We need to go back to the infirmary.",
+                "If you're so intent on doing this... then we'll do\nit together!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "...I see. So I have no choice but to stand still as\neveryone sprints on ahead again...",
+            "choice_data_list": [
+                "If your injury gets worse, you'll <i>never</i> catch up\nto them."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're right. I know that... Intellectually, anyway."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know I can't make the same mistake I did in the\npast. But..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "No, never mind. I'll do as you say."
+        },
+        {
+            "text": "Biwa Hayahide struggles mightily with her fears of\nfalling behind, but agrees to rest and recuperate."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you... Thank you for understanding. Let's\nget started!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah!"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "Hayahide?!"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I-I'm fine... I just... I just tripped."
+        },
+        {
+            "text": "Biwa Hayahide is so overwrought by her first\ninjury that she ends up giving herself another. It'll\ntake even longer for her to heal now..."
+        },
+        {
+            "text": "After that, I start working with her on testing out\nher calculations."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I see... According to this heart rate... the amount\nof muscular exertion decreased, just as I\npredicted."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Phew...</i> Well, that was productive. I even learned\nabout things unrelated to my calculations.",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I realized that I have other advantages besides\nmy analytical skills. I have someone beside me,\nwilling to go over theories and calculations\ntogether, all for the sake of improvement."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "What I'm saying is... that you're incredibly\nimportant to me. I can't wait to start training\nagain."
+        }
+    ]
+}

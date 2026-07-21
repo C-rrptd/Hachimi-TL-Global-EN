@@ -1,0 +1,50 @@
+{
+    "title": "高松宮記念にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Just take a look at the crowd here today at\nChukyo Racecourse—no doubt awaiting the\nTakamatsunomiya Kinen!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Geez, you can barely find a seat! But just imagine\nhow much more packed it'd be if Oguri were\nrunning."
+        },
+        {
+            "name": "Spectator B",
+            "text": "Can you imagine if she ran in sprints too? Then\nshe'd really be unstoppable! She could run every\nrace by herself. Who needs the others?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "So this is it... This is the first stop on the road to\nbecoming the best sprinter.",
+            "choice_data_list": [
+                "Nervous?",
+                "Nervous?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No way! I'm so excited, I can barely keep myself\nfrom blasting off right here and now!",
+            "choice_data_list": [
+                "That's the Bamboo Memory I know.",
+                "That's the Bamboo Memory I know."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right! See you in a bit!"
+        }
+    ]
+}

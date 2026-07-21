@@ -1,0 +1,208 @@
+{
+    "title": "炎の思い出",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "We're on the way back from an outing when Hishi\nAmazon suddenly stops in front of a signboard."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Check it out! This restaurant serves\nAmerican-style barbecue. Man, that takes me\nback.",
+            "choice_data_list": [
+                "What do you mean?",
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, I mean it takes me back to my days when I\nwas livin' in America! My dad would have\nbarbecues all the time."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I was still a kid back then..."
+        },
+        {
+            "text": "<i>Woosh! Crackle, crackle!</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My family and I'd go out into the great outdoors,\nstart up a campfire, and go all-out on our\nbarbecues."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My dad loves cooking. After he'd grilled up a\nhuge hunk of meat for me, I'd start gnawing into\nit like a wild beast!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I watched him cookin' all the time as a kid, so I\neventually learned how to do it myself.",
+            "choice_data_list": [
+                "So that's how you learned to cook!",
+                "So that's how you learned to cook!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, more or less! Still teaches me new recipes\nto this day. He's a great dad, even though he can\nbe a little timid."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Except, there's just one thing he would never\nteach me.",
+            "choice_data_list": [
+                "And what's that?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What the most important thing about cooking is!\nEvery time I asked him, he would answer me with\nthe same response—"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "\"That's something you need to figure out for\nyourself!\"",
+            "choice_data_list": [
+                "I wonder what it is.",
+                "I wonder what it is."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Right? It's like he gave me homework to figure\nout, except I still don't know what it's about!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I think about it sometimes while cookin', but I still\ndon't have a clue...",
+            "choice_data_list": [
+                "I'll help you solve the mystery.",
+                "I'll help you solve the mystery."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aw, Teach! Thanks, that'd be great!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, for starters, what do <i>you</i> think is the key to\ncooking?",
+            "choice_data_list": [
+                "Controlling the intensity of your heat source.",
+                "Choosing the right ingredients."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, that's definitely important! You can't cook\nwithout any heat, after all!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right! I'm gonna go buy a stove top for the\ndorm that can <i>really</i> crank up the heat!",
+            "choice_data_list": [
+                "I think she's mixed up \"controlling heat\nintensity\" with plain old \"heat intensity\"..."
+            ]
+        },
+        {
+            "text": "Hishi Amazon is raring to go, so I follow her lead\nto the shopping mall."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Interesting... They've got stoves for home cooking\nand restaurant-grade ranges. Look at all the\nvariety."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "This Japanese charcoal grill sure stands out like a\nsore thumb among all these fancy stoves, though.\nAnyway, got any recommendations, Teach?"
+        },
+        {
+            "text": "Since she was so enthusiastic about getting\nsomething that can churn out the heat, and\nbecause I'll be supervising her while she cooks, I\nsuggest buying a large, heavy-duty burner."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Talk about bringing out the big guns, Teach... I\nmean, yeah, that one probably packs the most\nfirepower..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But it'll be too hard to make minor adjustments to\nthe heat. I want something that's easy to control\n<i>and</i> super powerful.",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm? Why do you look so surprised? Did I say\nsomething weird?",
+            "choice_data_list": [
+                "I thought you were all about firepower..."
+            ]
+        },
+        {
+            "name": "Shop Assistant",
+            "text": "If you want something that has both power and\nfine control, I recommend this stove here."
+        },
+        {
+            "name": "Shop Assistant",
+            "text": "You can turn up the heat in an instant, and it's\nfitted with a temperature control system for\nprecision! But there's only one left, so act fast!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Incredible! That's exactly what I had in mind!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Everyone, outta my way! The last one's mine!"
+        },
+        {
+            "text": "Despite how brash Hishi Amazon might seem at\nfirst, she is surprisingly attuned to small details.\nMaybe that's why she's such a good cook."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "For sure! Fresh ingredients are definitely a must!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "All right! Let ol' Hishiama show you how to pick\nthe freshest, best ingredients in the wild!",
+            "choice_data_list": [
+                "I can't help but feel like she's wildly\nmisinterpreted what I meant..."
+            ]
+        },
+        {
+            "text": "Hishi Amazon is raring to go, so I follow her lead\nuntil we end up at..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Let's start at the fishmonger's in this shopping\ndistrict."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoa! Look at all the fish they have swimming in\nthose tanks! Those are fresh for sure!"
+        },
+        {
+            "text": "I hope she's not planning to grab a live fish with\nher bare hands..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, I'll go with the ones they have on display.\nAll the fish they've got lined up are in season\nright now."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Okay, now let's get some burdock from the\ngrocer over there. Looks like they've been pulled\nfresh from the ground!",
+            "choice_data_list": [
+                "This shopping trip is... surprisingly tame?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What do you mean by \"tame\"? Choosing the right\ningredients is the most basic of basics."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "There's so many grocery options in the urban\njungle, you've gotta be smart with how you\nforage."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My dad might seem like a haphazard cook, but he\nknows a thing or two about curing meats too."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Anyway, let's stock up! This tiny little shopping\nbasket's not gonna hold all these, so let's just\nbring the whole box up to the register!"
+        },
+        {
+            "text": "Hishi Amazon grabs things off the shelves with\ngusto, but she takes great care in making sure she\nselects only the best of the best."
+        }
+    ]
+}

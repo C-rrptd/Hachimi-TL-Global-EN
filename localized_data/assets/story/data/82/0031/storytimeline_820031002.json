@@ -1,0 +1,173 @@
+{
+    "title": "ゲートよ、開け！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while walking along the street back to\nmy place..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "GYAAAHHHH!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Dang it... Messed up again...",
+            "choice_data_list": [
+                "Are you okay?! What happened?!",
+                "Are you okay?! What happened?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ooh, when'd you get here, minion?! Your timin's\nperfect! Help me with my gate trainin'!",
+            "choice_data_list": [
+                "...Uh, \"gate training\"?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I assume that scream just now was the sound of\nher struggling with training, so I decide to help\nher out. However..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "When I get into the gate, you give me the signal\nto start. Got it?!",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "All riiiiight... I'm in!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Gimme the signal! The signal, dang it! Come on,\nc'mon, c'mon!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "GWEH?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Surprised by her yelp, I rush over to find... Shinko\nWindy's foot stuck in a deep hole at the starting\nline. She's sprawled dramatically across the\nground."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grrrr... DANG IT! Why do I keep fallin'?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "And after all that fidgetin' I did to build up\npower! GAH!",
+            "choice_data_list": [
+                "I think the fidgeting might be the problem..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "That's not true! The fidgetin' is proof I'm gettin'\nfired up to run like the wind! Plus it helps with\ngettin' off to a good start!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "That puts all eyes on me! And that's when I chomp\ndown hard on first place! That's the perfect race,\nright?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While it's true that a competitive spirit is vital for\nracing, her fidgeting feet are what dug the hole\nthat tripped her up and bungled her all-important\nstart."
+        },
+        {
+            "name": "Monologue",
+            "text": "...I need to persuade her to look at it in a\ndifferent light.",
+            "choice_data_list": [
+                "I think you could do better.",
+                "I think you could do better."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wh-what?! Whatcha tryin' to say?!",
+            "choice_data_list": [
+                "If you save all that fire for after the gates open,\npeople are gonna go wild."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain that people get caught off guard by\nunpredictable surprises, and that she'd look\ncooler if she kept her competitiveness under\nwraps until the race was underway."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Competitive spirit... lookin' cool..."
+        },
+        {
+            "name": "Spectators",
+            "text": "Huh? She's awfully quiet. Maybe she's nervous."
+        },
+        {
+            "name": "Caster",
+            "text": "And the gates are open! Who will make the first\nmove?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "YAAAAAHHHHH! COMPETITIVE SPIRIIIIIT!"
+        },
+        {
+            "name": "Spectators",
+            "text": "What's with that fighting spirit?! Wasn't she\ntotally silent a second ago?! She's so cool! Wow!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe. Guess I'll have to give it a shot, if ya\ninsist!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "All right, I'm in the gate. Gotta suppress the\nfidgets... Stay cooool!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "GRAAAAAHHHHH!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I did it! I didn't trip up! Hey, hey! How was I?!",
+            "choice_data_list": [
+                "Super cool!",
+                "Super cool!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Mehehe! I like this trainin'! Imma do it like a\nhundred times!",
+            "choice_data_list": [
+                "What? A hundred?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Uh-huh! So you're gonna get to witness me being\ncool a hundred more times! Aren't you lucky!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Unable to say no to her beaming smile, I stay\nwith her until she wears herself out."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "GAHHHHH?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ack... Awww...",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm... fine, but... I think... Imma call it... a day..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She runs off in tears from the sheer pain."
+        }
+    ]
+}

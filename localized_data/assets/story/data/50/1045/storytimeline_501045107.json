@@ -1,0 +1,177 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "Um, Trainer? I wanted to celebrate Valentine's\nDay with you, but...",
+            "choice_data_list": [
+                "But?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Valentine's Day should be a fun day, but Super\nCreek seems awfully down."
+        },
+        {
+            "name": "Monologue",
+            "text": "I ask her if she forgot to bring her chocolates."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'd never forget something like that. I brought\nthe chocolates I made, but...",
+            "choice_data_list": [
+                "They didn't come out right?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's not it..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Will you try one for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I pop one into my mouth."
+        },
+        {
+            "name": "Monologue",
+            "text": "The flavor of heavenly chocolate blossoms in my\nmouth—a true Super Creek masterpiece."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Does it taste okay?",
+            "choice_data_list": [
+                "I could die happy right now."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "What?! Please don't!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't see any problems with the flavor, so why\ndoes she seem so upset?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You see, I put my heart and soul into making\nthese chocolates. But when they were done, it hit\nme..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "What kind of chocolates are these exactly?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There are all sorts of chocolates, right? You give\nsome out of romance, others out of friendship...\nor even obligation."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But I can't tell which feelings I poured into these.",
+            "choice_data_list": [
+                "Surely they're not... out of obligation?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Absolutely not! If I had to pick the most\nappropriate kind, then I guess it'd be romance,\nbut..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know how to answer, since that's not the\nkind of relationship an Umamusume has with her\ntrainer."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm, if I really had to put a label on my\nchocolates, then...",
+            "choice_data_list": [
+                "What about \"ambiguous\" chocolates?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Our relationship is hard to define, so maybe\ndescribing them as \"ambiguous\" makes sense."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You're right, but the thought of them being\nambiguous is a little sad."
+        },
+        {
+            "name": "Super Creek",
+            "text": "How about \"ambiguously special chocolates?\"",
+            "choice_data_list": [
+                "Yeah, that works!",
+                "Yeah, that works!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Thank goodness. I feel a little better now."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It makes sense. We have a relationship where we\ncan't really pin down what's special about it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek smiles and watches me enjoy the\nchocolates. There's a hint of something special in\nthem that makes them all the more delicious."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Romantic chocolates are ones that you can only\ngive to someone you like, right?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "The word \"like\" doesn't even come close to\ndescribing how I feel about you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You have been and always will be irreplaceable\nto me."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know what to call them, but reserving\nthem for an irreplaceable partner only seems a bit\nheavy."
+        },
+        {
+            "name": "Monologue",
+            "text": "After pondering for a while, I suggest that there's\nno need to label them at all."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But that's just plain old chocolate then! Are you\nsure?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm, but maybe you're right. Maybe they don't\nneed a label..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Words can't really describe the relationship we\nhave."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's something that others don't understand, but\nwe do."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Heh... hehehe. We're silly for overthinking it.",
+            "choice_data_list": [
+                "Haha, you're right.",
+                "Haha, you're right."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. I'm sure you must be hungry now after all\nthat thinking."
+        },
+        {
+            "name": "Super Creek",
+            "text": "They're the most unique chocolates in the world,\nso go ahead and eat up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The chocolates taste like a genuine bond, with a\nsweetness no regular couple could dream of\nexperiencing."
+        }
+    ]
+}

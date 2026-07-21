@@ -1,0 +1,34 @@
+{
+    "title": "夜ふかし気味で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Yawn...</i>"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Well, hello there, Trainer. I'm sorry you had to\nsee that.",
+            "choice_data_list": [
+                "You look exhausted.",
+                "You look exhausted."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Recently, my creative juices have been flowing\nbest after the sun exits its heavenly stage."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My latest work is an opera written by and starring\nyours truly. <i>Overlord of the Rose Sky</i> will be told\nin twenty-six parts."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Upon completion, this masterpiece will surely be\nseen as a revolutionary contribution changing the\nrealm of fine arts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "T.M. Opera O seems fulfilled with her recent\nproductivity, but it's also apparent she could use\nmore rest."
+        }
+    ]
+}

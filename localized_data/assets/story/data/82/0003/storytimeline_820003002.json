@@ -1,0 +1,90 @@
+{
+    "title": "姐御流の解決法",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "There's a race today. I go to watch, and see that\nthere's some commotion on the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Amazon and another runner are talking\nabout something..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's just you and me! I'm not gonna go easy on\nyou!",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey. Well, it seems like she's been in a slump\nrecently."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I told her she should just think about beating me."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's not like I'm gonna lose, though! Throw a few\ncheers our way if ya feel like it. See ya!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "...Hishiama! I'm definitely going to win!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's the right attitude! All right, we're going to\ndo this for real!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Huff, huff, huff...</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "(Huh... She's running pretty well now.)"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "(Now to break out from the back of the pack and\nget on her heels... Let's go!)"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You've got a long way to go before you can block\nthe great Hishiama! Haaaaah!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "No way! She passed me!"
+        },
+        {
+            "name": "Caster",
+            "text": "Hishi Amazon! Hishi Amazon has taken first place!\nShe made a comeback in the last half of the race\nand took the lead! What a surprising victory!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hehe! It was barely a workout!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "...You crushed me. But, thanks to your advice,\nI've managed to break free from my slump!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Glad to hear it. You were tearing up the track out\nthere!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "From now on, if you ever hit a wall like that, just\nrun right through it without a second thought!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Your path will become clear!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I will!"
+        }
+    ]
+}

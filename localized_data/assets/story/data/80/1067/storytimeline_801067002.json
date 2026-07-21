@@ -1,0 +1,109 @@
+{
+    "title": "難しいこと、大好きです！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I pass by the gym, I see Satono Diamond and\nKitasan Black arguing about something."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Don't do it, Dia! It's not safe!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "There's nothing to fret about! I'll be fine!",
+            "choice_data_list": [
+                "What seems to be the problem?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh, thank goodness you're here! Please, you have\nto help me stop her!"
+        },
+        {
+            "name": "Monologue",
+            "text": "They tell me how the gym's treadmill has a\n\"lunatic\" setting that's so difficult, nobody has\nmanaged to conquer it."
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond, brimming with unbridled\ncuriosity, is apparently determined to be the first\none to do it."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "If no Umamusume has ever been able to run on\nthat speed, that must mean it's extremely\ndangerous!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita, please don't try to stop me. You know how I\nam."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's no fun to draw conclusions on something\nbefore trying it out."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I won't fail this endeavor! I swear it!",
+            "choice_data_list": [
+                "Well, give it a shot!",
+                "Let's see how fast it really is first."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, thank you. I appreciate your words of\nencouragement."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I know I can do it. Just watch and see."
+        },
+        {
+            "name": "Monologue",
+            "text": "She sets the speed to lunatic, and the machine\nstarts emitting a high-pitched zipping noise as the\nbelt starts spinning at blinding speed!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-whoa!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So this is how fast it is... I can't wait to try this!\nHere I go!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia, nooo! Don't do it! It's too dangerous!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We somehow manage to stop the\noverenthusiastic Satono Diamond before she\ndoes something reckless."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hmph... Fine. Seeing as a trainer is the one\nsuggesting caution, I suppose this does require\nprior investigation."
+        },
+        {
+            "name": "Monologue",
+            "text": "She sets the speed to lunatic, and the machine\nstarts emitting a high-pitched zipping noise as the\nbelt starts spinning at blinding speed!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I told you, Dia! It's too dangerous! You can't start\nrunning at that speed without any preparation!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes, you're right... Then I'll simply have to work\nmy way up to it!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll start with the exercise bike on the highest\n\"catastrophe\" difficulty!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "N-noooo! No one's been able to do that one\neither!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We somehow manage to stop the\noverenthusiastic Satono Diamond before she\ndoes something reckless."
+        }
+    ]
+}

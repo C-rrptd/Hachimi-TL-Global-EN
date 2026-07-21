@@ -1,0 +1,268 @@
+{
+    "title": "ビッグなドリーム、めしあがれ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Caster",
+            "text": "Today's 1,400-meter scrimmage has begun! All eyes are on Hishi\nAkebono and Biko Pegasus!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "<i>Huff, huff, huff!</i>"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Bono, you're really on fire today, huh? Weeell, so am I!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono soars down the course with explosive speed. No one\nwould believe me if I told them about the day before.",
+            "choice_data_list": [
+                "(How?!)"
+            ]
+        },
+        {
+            "name": "Observing Umamusume A",
+            "text": "Hishi Akebono's the big racer over there, right? She always makes the\ntastiest food for everyone at the dorms."
+        },
+        {
+            "name": "Observing Umamusume B",
+            "text": "Yeah, that's her! I knew she was huge, but next to Biko Pegasus, her\nsize is extra obvious!"
+        },
+        {
+            "name": "Caster",
+            "text": "All right, the racers have entered the homestretch! In the lead is Hishi\nAkebono, followed closely by Biko Pegasus! Will Hishi Akebono\noutrun her, or will she be overtaken?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "(Huh? Why do my legs feel so heavy... Ah, right, I didn't get much\nsleep last night.)"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yeah, that's it all right. But so what?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono's eyes sparkle as she locks eyes with the path ahead\nof her."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Don't worry, everybody, I'm giving this race everything I got!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "And no one can overtake me when I give 100%!"
+        },
+        {
+            "name": "Caster",
+            "text": "First to cross the finish line is Hishi Akebono! Hishi Akebono is our\nwinner! She managed to inch ahead for a narrow victory!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "<i>Huff, puff...</i> Yippee!"
+        },
+        {
+            "name": "Fellow Racer",
+            "text": "You really are a force to be reckoned with on the track, Bono. You're\nsuch a gentle giant, I sometimes forget the <i>giant</i> part."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe. Well, it's a race, right? No way I could smile after a race where\nI didn't give it my all. Isn't that right, Biko? ♪"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's right! I know I'm in for a real fight when you're in the roster!\n...But losing still hurts!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Next time, victory will be mine! I swear it!",
+            "choice_data_list": [
+                "Good work out there."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ah, Trainer! I thought you left to rest. You didn't have to come, but\nwell, thank you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Likewise, I'd like her to rest after this race and the day we had\nyesterday, but before I can convey that thought..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That reminds me! I'm having a chanko party after this! Would you like\nto join us? ☆",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Come and get it, everybodyyy! I promise the flavor is super-duper\nbuono. ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "After witnessing how Hishi Akebono flitted about the kitchen just\nnow, I seriously wonder if her energy has <i>any</i> limit. Lured by the\naroma, students steadily file into the cafeteria."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That means you too, Trainer! I made more than enough, so be sure to\neat your fill.",
+            "choice_data_list": [
+                "Th-thanks."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "YUM! I could eat this all day!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ooh, you added ginger and perilla leaves to the fish balls... And it's\n<i>real</i> good. I'm stealin' that idea!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Seein' y'all sittin' 'round the table and laughin' reminds me of home!\nThis meal's delicious!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I-it really is... And the vegetables you used are so hard to come by."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Phew, everyone's got a bowl, right? Then it's my turn to dig iiiin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking down at my bowl, I recognize some vegetables inside. They\nlook just like the ones I dropped in the river..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmm! Freshly picked veggies really do make the best stew.",
+            "choice_data_list": [
+                "Did you... pick these today?"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe, I sure did. I mean, the whole reason we were collecting\ningredients yesterday was for this party."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "After all, I wanted to give my friends a super-duper scrumptious bowl\nof chanko after a race.",
+            "choice_data_list": [
+                "But why would you go so far..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Why? Because after giving your all, you've gotta eat buono food with\nyour friends!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Tracen is just like a sumo dojo, Trainer! We only get stronger when we\ncompete with everything we've got!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Looking past Hishi Akebono, I notice the content faces of each of her\nclassmates as they chow down on their chanko."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Arrrgh! I was right theeere! A little more, and I would've won!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Don't get too down on yourself. You showed some real guts out there.\nHow about doing some stamina training with me?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now that I think 'bout it, you've been really goin' at it in the\nmornings, Suzuka. How far are you runnin' these days?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ummm... To the closest mountain... I think."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What?!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe. ♪ I'm glad everyone's having a good time.",
+            "choice_data_list": [
+                "(This must be what she meant by being a pot of\nchanko.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She wants to be there for her rivals—not just as fierce competition,\nbut as a fellow racer to grow alongside."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like her, her ambitions are big and good-natured."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end though, there can be only one winner. There may come a\ntime when her ideals block her way forward.",
+            "choice_data_list": [
+                "(I'll just have to be there for her when that\nhappens.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "More and more students stop by the hot pot party, and the festive\natmosphere continues until right before curfew."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Trainer, Trainer, what's wrong? You're really spacing out today.",
+            "choice_data_list": [
+                "You're one amazing person.",
+                "You're one amazing person."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh? Where did that come from?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as Hishi Akebono desired, all the students who came to the hot\npot party left with a smile and a full belly."
+        },
+        {
+            "name": "Monologue",
+            "text": "If anyone can become a pot of chanko and bring a smile of\nsatisfaction to everyone else... it's her.",
+            "choice_data_list": [
+                "Your dreams have my full support.",
+                "Your dreams have my full support."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Hishi Akebono's big, bright eyes grow even bigger as I continue.",
+            "choice_data_list": [
+                "Let's turn you into a big pot of chanko."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "...!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe... Okay! Thank you, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ah, that's right! As thanks for tagging along with me yesterday, I\nbaked you some cookies!",
+            "choice_data_list": [
+                "What the—when? How?!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I baked them with lots and lots of love, so I can promise a buono\ntaste! ♪ Say \"ah\"!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As I steel my resolve to make her dreams come true, starting with her\ndebut, I take a bite. My mouth fills with a soft, sweet warmth..."
+        }
+    ]
+}

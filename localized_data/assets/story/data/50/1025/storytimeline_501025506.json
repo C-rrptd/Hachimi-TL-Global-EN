@@ -1,0 +1,129 @@
+{
+    "title": "Dance Lesson",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "During a dance lesson with Manhattan Cafe..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shuffle... Shuffle...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "She has the general movements down, but they\ndon't quite fit the music..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "My dancing is a little... off, isn't it?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Do you think... I should dance more in time with\nthe rhythm? Or should we change the song...",
+            "choice_data_list": [
+                "Try dancing with more energy.",
+                "Let's try switching to a ballad."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Okay... I'll give it a go. More energy..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whoa there... What the heck are you doing?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, Shakur... Are you here to dance as well?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Who cares what I'm here for. We need to talk\nabout that dance you just did."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You were stiff as a board and your face was twice\nas wooden. That's not <i>you</i> at all."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...What do you mean?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Let's think logically here. What do your fans want\nfrom you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "'Cause I can tell you it's not some half-baked\nattempt to look all cutesy. Am I wrong?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...No, you're right."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I see what I have to do now... Thank you for the\nkind advice."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?! I wasn't trying to be kind. That weird\ndance of yours was bothering me, that's all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If nothing else, Air Shakur has at least given us\nsome useful critique."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "A ballad... That might just work."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure why, but the longer I watch her\ndance, the heavier my eyelids feel..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Listening to the slow and winding melody... with\nits melancholy tone..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...This is nice, isn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe continues to dance for quite\nsome time..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Trainer... Hey, Trainer...",
+            "choice_data_list": [
+                "Huh? Where... am I?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hm? We're in the dance studio..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I snap to my senses, only to find myself back in\nthe dance studio. It's strange, for a moment there\nI felt like I was in a whole other world..."
+        }
+    ]
+}

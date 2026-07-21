@@ -1,0 +1,29 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Don't talk to me. I'm just starting my final check."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now all I've gotta do is run the program and show\noff my code."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Okay, you can talk now.",
+            "choice_data_list": [
+                "Let's win this!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I know. Keep your eyes on the prize."
+        }
+    ]
+}

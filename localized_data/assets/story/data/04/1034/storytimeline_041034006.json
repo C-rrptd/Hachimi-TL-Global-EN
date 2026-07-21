@@ -1,0 +1,264 @@
+{
+    "title": "イナリ様に任せときな！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On one of my days off, I'm going around town gathering books and\nother resources to use in Inari One's training, when..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, fancy seein' you here! Wazzup? Doin' some shoppin'?",
+            "choice_data_list": [
+                "Something like that. What about you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, fancy seein' you here! Wazzup? Doin' some shoppin'?",
+            "choice_data_list": [
+                "Something like that. What about you?"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya see, my old teammates are comin' for a visit soon, so I'm lookin' for\nspots to take 'em. Gotta make their trip worthwhile."
+        },
+        {
+            "name": "Inari One",
+            "text": "But man, talk about options! Every place I go is just as stylin' as the\nlast!"
+        },
+        {
+            "name": "Inari One",
+            "text": "...That's it! You've got a good eye for stuff, right? You got any fav\nspots? Mind takin' me to see 'em?",
+            "choice_data_list": [
+                "Sure, let's go."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "...That's it! You've got a good eye for stuff, right? You got any fav\nspots? Mind takin' me to see 'em?",
+            "choice_data_list": [
+                "Sure, let's go."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, thanks a million! I knew I could count on you, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa, thanks a million! I knew I could count on you, Boss!"
+        },
+        {
+            "name": "Inari One",
+            "text": "The hell's with this fancy parfait?! There's even flowers on it... Ohhh,\nis this what they call \"aesthetic\"?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oho! Everyone's walkin' around in their bathing suits! And someone\nover there is dancin'... It's just like a festival!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh, a pool hall, huh? I've watched a few games before, so let's see if\nI can win in one shot!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah, this place is pretty stylish too.\n...Oh, whazzat over there?"
+        },
+        {
+            "name": "Inari One",
+            "text": "Be right back, I'm gonna go check this out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Always careful to let me know where she's going, Inari One heads\nfurther into the store. She's so considerate of others."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her Oi teammates coming to town, perhaps this will be a chance\nfor her to let her hair down and relax."
+        },
+        {
+            "name": "Monologue",
+            "text": "While Inari One takes a look around, I decide to browse the shop\nmyself..."
+        },
+        {
+            "name": "Customer",
+            "text": "I told you, it was broken when I got home! Can't you just let me\nexchange it?"
+        },
+        {
+            "name": "Store Employee",
+            "text": "But sir, it wasn't broken when we wrapped it up for you to take home.\nUm... is it possible you bumped it on the way back?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's when I happen upon a very heated discussion at the shop\nregister. The customer looks like he wants to grab the poor employee\nby the throat...",
+            "choice_data_list": [
+                "(Inari's still on the other side of the store,\nright?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As much as I want to help the employee, I need to make sure she\nwon't get caught up in any... altercations. But seeing as she's out of\nsight, I decide to come to his aid.",
+            "choice_data_list": [
+                "Hey, um, why don't we all just calm down..."
+            ]
+        },
+        {
+            "name": "Customer",
+            "text": "Huh?! The hell are you?! Mind your own business and scram! Or\nmaybe... you wanna take this schmuck's place and—"
+        },
+        {
+            "name": "Inari One",
+            "text": "Whoa-ho there, big guy! Gotta say, I like your spunk! Ya look like\nyou're ready to trade punches!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as the man turns his anger on me, a tiny figure enters the scene."
+        },
+        {
+            "name": "Inari One",
+            "text": "Sounds like you got some complaints. But ya know what they say...\nActions speak louder than words! C'mon, I say you settle this the\nold-fashioned way!"
+        },
+        {
+            "name": "Inari One",
+            "text": "And the loser can't go cryin' home to Mommy, got it? Now, whatcha\nthinkin'? A foot race? Or maybe—"
+        },
+        {
+            "name": "Customer",
+            "text": "W-wait, are you suggesting we fight?"
+        },
+        {
+            "name": "Inari One",
+            "text": "What, ya worried or somethin'? Don't sweat it, I'll be your ref! I'll\nmake sure you settle this fair and square!"
+        },
+        {
+            "name": "Customer",
+            "text": "I-I'm not looking for a fight. I just—ah, urgh... Guess I did lose my\ntemper there..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Izzat so? Guess I'll have to wait to ref a street brawl! Sorry for\nmisunderstandin'. You'll forgive me, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The customer looks stunned as Inari One flashes a grin his way. He\ntakes a deep breath before continuing... It looks like he's finally\ncalmed down."
+        },
+        {
+            "name": "Customer",
+            "text": "...Um, my bad. I bought this as a gift for my girlfriend, you see. Seeing\nit all busted up just set me off."
+        },
+        {
+            "name": "Customer",
+            "text": "I owe you all an apology... Sorry. And, miss... thanks for stopping me."
+        },
+        {
+            "name": "Inari One",
+            "text": "Wow, Boss, puttin' yourself in the middle of that spat sure took guts!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Wow, Boss, puttin' yourself in the middle of that spat sure took guts!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya coulda just ignored 'em, but ya did the right thing!",
+            "choice_data_list": [
+                "You were pretty cool yourself."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Aw, c'mon, you're embarrassin' me! Hehe, not that I mind hearin' that\nfrom you."
+        },
+        {
+            "name": "Monologue",
+            "text": "If Inari One hadn't stepped in, things might have gotten ugly fast."
+        },
+        {
+            "name": "Monologue",
+            "text": "Luckily, the man calmed down, but when I think about what could\nhave happened if things had taken a wrong turn..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hm? What's up? Why're you starin' like that? There something on my\nface?",
+            "choice_data_list": [
+                "Don't do anything dangerous, okay?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm the one who got us into trouble this time, but I do want to avoid\nputting her in danger as much as possible."
+        },
+        {
+            "name": "Inari One",
+            "text": "Hehe, I was wondering why you looked so serious..."
+        },
+        {
+            "name": "Inari One",
+            "text": "But you're talkin' to THE Inari One! And that should be <i>my</i> line!"
+        },
+        {
+            "name": "Inari One",
+            "text": "You're too nice, ya know that, Boss? I get wantin' to help, but ya\ndidn't have to do it alone."
+        },
+        {
+            "name": "Inari One",
+            "text": "You're too nice, ya know that, Boss? I get wantin' to help, but ya\ndidn't have to do it alone."
+        },
+        {
+            "name": "Inari One",
+            "text": "You're thinkin' 'bout what woulda happened if that guy tried fightin'\nme, right? Well, my chances in a fight are a lot better than yours."
+        },
+        {
+            "name": "Inari One",
+            "text": "I mean, I'm an Umamusume, ya know! I woulda knocked that punk into\nnext week!",
+            "choice_data_list": [
+                "But..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "When you were lost, you had me help you out, right? And today, you\nhelped me out by showin' me around."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm only sayin' this one more time, so listen up—You don't gotta do\nstuff alone!"
+        },
+        {
+            "name": "Inari One",
+            "text": "If ya can, why not ask an expert for their assistance? There's a right\ntool for every job, right?",
+            "choice_data_list": [
+                "Yeah, but..."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, ya don't gotta be so serious...\nAh, looks like the sun's callin' it a day. We should do the same!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Boss, ya don't gotta be so serious...\nAh, looks like the sun's callin' it a day. We should do the same!"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I get that you're as earnest as they come, Boss. Trust me, I know\nbetter than anyone.)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(I get that you're as earnest as they come, Boss. Trust me, I know\nbetter than anyone.)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(But wow, that attitude sure did get you in trouble today! Hehe, I\nbetter keep my eye on you, or else!)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ya know, I think I'll tell the Oi girls about today! Let 'em know ya\ngave me a personal tour!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One smiles as she gives me a few more pats on the back."
+        }
+    ]
+}

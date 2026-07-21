@@ -1,0 +1,369 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A few days before the Spring Fan Fest..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You seriously think I'd wanna do that?",
+            "choice_data_list": [
+                "I guess not...",
+                "I guess not..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Umamusume never refuse to join the Fan Fest... If\nthey've debuted, it's always been kind of a given\nthat they'd have fans."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is a rare opportunity for them to thank their\nsupporters up close in person, and generally,\nboth sides are really excited about it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Races depend on spectators, and therefore\nfan-orientated events are held regularly in order\nto build and maintain fan loyalty.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even that explanation doesn't quite make sense\nto me. What's the point?",
+            "choice_data_list": [
+                "A lot of people get strength from their\nsupporters."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, well not me. They don't affect my\nperformance in the least."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "They're just more noise. I'd prefer they just shut\nup and let me focus on the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Although Shakur has fans, sadly, their voices\naren't reaching her. She blocks out all the noise."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, it's out of character, considering she usually\nprides herself on acting rationally. She doesn't\nneed to be grateful for her fans, but I wish she'd\nat least realize they're out there.",
+            "choice_data_list": [
+                "Any chance we could make a deal?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, I don't think so. Kick and scream all you\nwant, but there's nothin' in it for me.",
+            "choice_data_list": [
+                "Hang on!",
+                "Hang on!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to have to resort to bribing her, but...",
+            "choice_data_list": [
+                "I hear the new U-MAX226s are dropping soon!",
+                "I hear the new U-MAX226s are dropping soon!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "U-MAX226 is a sneaker line that Air Shakur is\nparticularly fond of. They're quite popular among\nthe younger generations."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, they are. What about it?",
+            "choice_data_list": [
+                "I'll wait in line for you if you do the Fan Fast."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You will, will you? And what if I say I don't need\nyou to?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I could just preorder a pair. Which means I don't\nhave to resort to negotiating with you.",
+            "choice_data_list": [
+                "Darn..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Check and mate."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...But you know what? Whatever. I'll give it a go.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But I'm only gonna show up. I won't be competing\nor anythin'.",
+            "choice_data_list": [
+                "Good enough!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah? It's a deal, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "As long as she's there, the voices of her fans will\nsurely reach her."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the day of the Fan Fest arrives. Air\nShakur is..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ugh, it's so loud.",
+            "choice_data_list": [
+                "Let's go down to th—"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Nah."
+        },
+        {
+            "name": "Monologue",
+            "text": "Following that, I resume my efforts to convince\nShakur to participate."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, I somehow manage to talk her into to\njoining the Fan Fest. But..."
+        },
+        {
+            "name": "Fan A",
+            "text": "Whoa, it's Air Shakur! I didn't know she came to these\nthings."
+        },
+        {
+            "name": "Fan B",
+            "text": "Oooh, she's so intense.",
+            "choice_data_list": [
+                "(The crowd is parting around her.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Being an event hosted by Tracen Academy, most\nof the attendees are friendly faces. And yet..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ahhh. I see what you're up to.",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're tryin' to give me a shot of motivation,\naren't ya?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Show me I got nothing but hate comin' my way.\nInteresting."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Okay, I'll bite. I'll scare the hell out of everyone\nat the spring Tenno Sho."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm going back now. You can stay here if you\nwant."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her interpreting it in the exact opposite\nway I meant it, this may have actually been the\nbest way to strengthen Air Shakur's resolve."
+        },
+        {
+            "name": "Fan C",
+            "text": "Oh... She left.",
+            "choice_data_list": [
+                "(Is that one of Shakur's fans?)"
+            ]
+        },
+        {
+            "name": "Fan C",
+            "text": "I should've gone and talked to her. I know Shakur\ndoesn't like people bothering her, but..."
+        },
+        {
+            "name": "Fan C",
+            "text": "Still... I wanted to tell her I'll be cheering for her at the\nspring Tenno Sho."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fine. If the terms are right.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's actually good timing. There's something I've\nbeen wantin' to try."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There's an event where the trainers race each\nother this year.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just for fun, I put together a training schedule for\nhumans once as a thought exercise."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've never tested it, though... So? Sounds like fun,\nright?",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're not liftin' your legs enough. There's no\npoint if you don't. Go do five more laps."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Whoa, check it out. That's one of the students\nfrom Tracen Academy. Must be a race coming up\nbecause she's really going all out."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! You're draggin' your feet again. You wanna\nrun even more laps?",
+            "choice_data_list": [
+                "N-no."
+            ]
+        },
+        {
+            "name": "Passerby B",
+            "text": "Hold on a second... Is that the trainer running?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I follow the training plan that Air Shakur\ndevised for a few days, until..."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Aaand they're off! The 1,600-meter trainer race\nhas begun!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Used to calling the shots, now the trainers are\nputting their expertise to the test as they power\nthrough this 1,600-meter course!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "You can do it, Trainer!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "They're onto the final stretch! Which of our fierce\ntrainers will claim victory?"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "What's this?! One trainer is surging forward with\nincredible speed!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "There it is."
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Aaand just like that, everyone else has been left\nin the dust! And the winner is..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. Not bad."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Still, there's room for improvement. If we start\nprepping for the next race right n—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch, listen to me. What's the point in thinking\nabout next time?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, I somehow manage to talk her into to\njoining the Fan Fest. But..."
+        },
+        {
+            "name": "Fan A",
+            "text": "Whoa, it's Air Shakur! I didn't know she came to these\nthings."
+        },
+        {
+            "name": "Fan B",
+            "text": "Oooh, she's so intense.",
+            "choice_data_list": [
+                "(The crowd is parting around her.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Being an event hosted by Tracen Academy, most\nof the attendees are friendly faces. And yet..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ahhh. I see what you're up to.",
+            "choice_data_list": [
+                "You do?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're tryin' to give me a shot of motivation,\naren't ya?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Show me I got nothing but hate comin' my way.\nInteresting."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Okay, I'll bite. I'll scare the hell out of everyone\nat the spring Tenno Sho."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm going back now. You can stay here if you\nwant."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her interpreting it in the exact opposite\nway I meant it, this may have actually been the\nbest way to strengthen Air Shakur's resolve."
+        },
+        {
+            "name": "Fan C",
+            "text": "Oh... She left.",
+            "choice_data_list": [
+                "(Is that one of Shakur's fans?)"
+            ]
+        },
+        {
+            "name": "Fan C",
+            "text": "I should've gone and talked to her. I know Shakur\ndoesn't like people bothering her, but..."
+        },
+        {
+            "name": "Fan C",
+            "text": "Still... I wanted to tell her I'll be cheering for her at the\nspring Tenno Sho."
+        }
+    ]
+}

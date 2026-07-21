@@ -1,0 +1,264 @@
+{
+    "title": "ジャパンカップの後に・外柔内剛",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "What did you think, Trainer?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Did I succeed in leading by example?",
+            "choice_data_list": [
+                "Absolutely!",
+                "Absolutely!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Then I am satisfied."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Almost a year has passed since I started my senior\nyear."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If my performance has managed to inspire\nyounger racers, I can't think of anything more\nworthwhile.",
+            "choice_data_list": [
+                "You're not planning to stop now, are you?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahaha! Don't worry, there's no chance of that.\nCan't you see the fire in my eyes?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Naturally, I'm already looking to the future. My\nnext challenge will be...",
+            "choice_data_list": [
+                "The Arima Kinen!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Precisely."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But this will be no repeat of last year. I intend to\nshow the world the fruits of my labors."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf looks fired up enough already,\nbut I have one more thing to tell her.",
+            "choice_data_list": [
+                "I hear Maruzensky's going to be there."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Maruzensky. I see..."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way back..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh, is that..."
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "...And that concludes our tour of the academy.\nDo you have any questions?",
+            "choice_data_list": [
+                "I remember her..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yes, the student council's general manager. It\nlooks like she's leading a group of Umamusume\naround."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now that I think about it, today was the day that\nthe new student council members were supposed\nto be given a guided tour."
+        },
+        {
+            "name": "Short Umamusume",
+            "text": "You know... I'm starting to think that maybe the\nstudent council might not be right for me..."
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "Why do you say that?"
+        },
+        {
+            "name": "Short Umamusume",
+            "text": "I joined because of the President, but when I saw\nher race today..."
+        },
+        {
+            "name": "Short Umamusume",
+            "text": "She was so much better than I could ever hope to\nbe. I feel like there's no point..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf says nothing. She's waiting to see\nhow the general manager will respond."
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "I know what you mean. I felt exactly the same way\nwhen I first joined."
+        },
+        {
+            "name": "Short Umamusume",
+            "text": "Really?"
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "I thought there was no way I could ever live up to\nmy station, and it made me feel really down on\nmyself."
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "Honestly, I still feel useless most of the time. But I\ncan tell you one thing for certain: I've grown a lot\nas a person since I began."
+        },
+        {
+            "name": "Student Council General Manager",
+            "text": "So if you want to improve yourself... would you\nconsider hanging in a little longer?"
+        },
+        {
+            "name": "Short Umamusume",
+            "text": "A-all right... I'll give it a shot!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's gratifying to see the younger students\nmaturing off the track as well as on it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And it's a relief to know that the academy will be\nin safe hands even after I'm gone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf looks like a weight has been lifted\nfrom her shoulders. This is the perfect time to\nspring my proposal!",
+            "choice_data_list": [
+                "There's something I've been meaning to ask\nyou."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's rather sudden, but by all means.",
+            "choice_data_list": [
+                "I want you to forget about your titles at the\nArima Kinen.",
+                "I want you to forget about your titles at the\nArima Kinen."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't want her to race as the Emperor or the\nPresident, but simply as Symboli Rudolf."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I understand what you're trying to say."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But my pride as the Emperor won't allow it. The\nweight of my responsibilities is what makes me\nwho I am."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What's the harm in setting all that aside once in a\nwhile?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Air Groove! I didn't see you there."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Indeed. I was assisting with the tour. But more to\nthe point..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I concur with your trainer's suggestion."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Every time you race, you hold your real self back\nin order to be more true to your ideals."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But now your successors are well on their way to\nmaturity. I think, just once, you should race the\nway you truly want to."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I <i>have</i> raced the way I wanted to. This is the path\nI chose when I became the Emperor."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Good grief. Why must you insist on being so\nhardheaded?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "How about this, then? Do it for us."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "For you?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I've always wanted to see how you would race if\nyou let your heart guide you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If you let yourself be nothing more than an\nUmamusume seeking a challenge."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I believe I speak for the entire student council\nwhen I say we would relish the learning\nexperience."
+        },
+        {
+            "name": "Air Groove",
+            "text": "So, in your capacity as president... would you\nshow us what it looks like when you race as\nSymboli Rudolf?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "<i>Sigh...</i> You know exactly how to pull my strings,\ndon't you?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I've been at this for a while now, you know."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Very well. You win. If both my trainer and my own\nright hand turn against me, what am I to do?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "When I race in the Arima Kinen, I will let the titles\nof Emperor and President fall by the wayside."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As for what will come of it, I cannot say.",
+            "choice_data_list": [
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Me neither. It will be a learning experience for\nboth of us."
+        }
+    ]
+}

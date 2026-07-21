@@ -1,0 +1,190 @@
+{
+    "title": "It will be fine",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while walking through the shopping\ndistrict..."
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "WHOOOAAAYAAAH!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Her heartfelt songs will bring life to this shopping\ndistrict! Well, what do you think of the plan?!"
+        },
+        {
+            "name": "Fishmonger",
+            "text": "What do I think of it? Uhhh... It'll be too loud and\ndistracting. I'm sorry, but having concerts in the\nshopping district might not be a good idea."
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "Ugh, what the heck! If you don't get my sound,\nthen I don't even wanna play here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Wham!</i>",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Phew! Glad I caught you in time. Sorry for\ngrabbing your arm so suddenly.",
+            "choice_data_list": [
+                "Oh no, I'm fine.",
+                "Oh no, I'm fine."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Good. You'll have to forgive her, though. She\ntends to lose sight of her surroundings when she's\nmad."
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "My bad. It's just, we can't find a venue for my\nconcert...",
+            "choice_data_list": [
+                "Oh? What concert?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "This gal here's ready to go big! She's moving off\nthe streets and onto her first stage performance!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I can vouch for her exceeding musical talent! I\nfirst heard her sing in front of the station, and I\nwas moved to my core!"
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "Hehe! You're the only one who really gets my\ngenius, Pearl."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hehe! One day, the world will realize it too. Now\ncome on, let's keep looking for your stage!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Speaking of which... You wouldn't happen to\nknow a place we can hold a performance, would\nyou?",
+            "choice_data_list": [
+                "Let's look for one together.",
+                "Let's look for one together."
+            ]
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "Wooooo! Waaarrrghhh! THANK YOU!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And there you have it! Didn't that just kickstart\nyour heart?"
+        },
+        {
+            "name": "Cafe Owner",
+            "text": "U-um... Sorry, but her music doesn't really fit the\ncafe's atmosphere...",
+            "choice_data_list": [
+                "Let's find somewhere that's a bit livelier, then."
+            ]
+        },
+        {
+            "name": "Manager",
+            "text": "Sorry, but we've got a young and hip clientele\nhere, so... Oh, I know! Can you perform disco?"
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "Tch! Does it look like I can?!",
+            "choice_data_list": [
+                "L-let's look for somewhere more musically\naligned with your style!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "This place is quite relaxing, but what do you say\nto livening it up with some rock music?"
+        },
+        {
+            "name": "Store Manager",
+            "text": "Hmm... To be honest, I'm not really feeling it.\nWhy not just perform at a club if you're doing\nrock?"
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "UUUGH!"
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "This sucks! We're getting turned down left and\nright! My music's just too sophisticated for any of\nthem to understand!",
+            "choice_data_list": [
+                "Now, now. No need to get all worked up."
+            ]
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "<i>Sigh...</i> You're right. There's only one way to make\nit big nowadays anyway—and that's to go viral!"
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "Hehe, get this. A band I like, Santa Monica,\nstarted off by making a name for themselves\nonline too!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Huh... I guess there is that method."
+        },
+        {
+            "name": "Girl with Guitar",
+            "text": "All right! Since we're doing this, let's make a\nmusic video that'll really pop off! C'mon, let's go\nsee which of the studios we know will let us use\ntheir gear!",
+            "choice_data_list": [
+                "W-wait!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There she goes, off to twist someone else's arm. I\njust hope she can get her passion across\nproperly..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hehe! I think she's on a roll!",
+            "choice_data_list": [
+                "R-really?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Yep! She's the type to make staggering gains in\nthe face of adversity. She's tackling a chance for\ngrowth head-on!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She may be frustrated at how poorly today went,\nbut I bet this experience will spark inspiration for\nher songwriting! ♪",
+            "choice_data_list": [
+                "When you put it that way, it makes sense."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But in order for her to keep fighting, she'll need a\nstrong support system."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "As determined and passionate as she is, she'll\neventually break if she's constantly buffeted by\nopposing winds."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "She needs a friend to catch her when she's about\nto fall. We all do, right?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I decided to be that pillar of support from the\nmoment her singing stole my heart."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "And I learned a lot today too."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "There's no need to worry! Things will definitely\nwork out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl makes her declaration with full\nconfidence, and I can't help but be impressed by\nher conviction."
+        }
+    ]
+}

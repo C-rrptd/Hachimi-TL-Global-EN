@@ -1,0 +1,29 @@
+{
+    "title": "Claw Machine: Failure...",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aw, GGs, Trainer.... Well, these machines aren't\nsupposed to be easy to win from.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hey, it is what it is. It'd be no fun if you always\ngot something, yeah?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "'Sides, the best part of playing these machines is\nthe rush when the claw comes up! Enjoying that\npart's the key to these games!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Don't beat yourself up! C'mon, I'll treat you\nsomething sweet!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing..."
+        }
+    ]
+}

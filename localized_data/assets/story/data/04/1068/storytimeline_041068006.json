@@ -1,0 +1,236 @@
+{
+    "title": "Crimson Leaves in the Wind",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "In addition to her early morning sessions, Kitasan Black has been\ndedicating every minute of her free time to training."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Pant, pant...</i> I can still run! Come on, Trainer, just a little while longer!",
+            "choice_data_list": [
+                "You should take a breather."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It'll be fine! See, I'm fit as a fiddle. I won't waste even a second of\nyour time, Trainer! So let's keep going!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kita runs off with tremendous speed. Underneath her hyped-up\nattitude, I can also sense a hint of desperation."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"I won't waste even a second of your time,\" huh."
+        },
+        {
+            "name": "Monologue",
+            "text": "...Maybe the training program I created for her ended up backfiring\nand putting pressure on her instead.",
+            "choice_data_list": [
+                "(I can't let things stay like this...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't want her to feel pressured to run. I want her to improve slowly\nbut surely, running in the way that best suits her."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? Tomorrow, you want to go see... the autumn leaves? Weren't we\ngoing to train? What happened?",
+            "choice_data_list": [
+                "I was thinking it'd be a nice change of pace."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A change of pace..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Ah!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I-I get it! You must be exhausted! Right, that totally makes sense."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aw, maaan. I can't believe I didn't notice until now!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I understand! Let's change our pace, pronto!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Like <i>blam</i>—relaxation! Just leave it <i>all</i> to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I start to wonder if Kita knows how to relax. Putting that aside, the\ntwo of us make plans to go see the autumn leaves tomorrow."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? That person over there..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Excuse me, are you okay? You look like you might be lost..."
+        },
+        {
+            "name": "Lost Woman",
+            "text": "Ah... Th-that's right."
+        },
+        {
+            "name": "Lost Woman",
+            "text": "I had my friend draw me a map, but since I'm not familiar with this\narea, it's not helping me out much."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Give me one second. This is the station, sooo... Ah, this might be a\nbit tricky. It's a little ways away, so I'll—",
+            "choice_data_list": [
+                "We'll show you the way.",
+                "We'll show you the way."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...!"
+        },
+        {
+            "name": "Lost Woman",
+            "text": "You will? Thank you so much!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "..."
+        },
+        {
+            "name": "Old Man",
+            "text": "Hah... Upsy-daisy... Wh-whoa there..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-whoa! Careful! You're carrying an awful lot of stuff, mister."
+        },
+        {
+            "name": "Old Man",
+            "text": "Oh, sorry for the scare. I thought I'd buy some gifts for my\ngrandchildren, but I may have bitten off more than I can chew..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You want your goods on the luggage rack, right? Don't worry, I got\nthis—",
+            "choice_data_list": [
+                "There we go!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah...",
+            "choice_data_list": [
+                "Let us know when we're at your station."
+            ]
+        },
+        {
+            "name": "Old Man",
+            "text": "Hey, I appreciate it. Thank you very kindly."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Whoa, so pretty! And so many colors, too!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I love that crunchy sound the leaves make underfoot! Come on,\nTrainer, let's go check out over there."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "The view from here is amazing! Wait! I see a dango stand over there!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Do you see it, Trainer? Right on that hill..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Looks like going to see the autumn leaves really did make for a nice\nchange of pace. That said, it's tough at times to keep up with Kita's\nbubbly energy."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ahhh, you're drenched in sweat... H-how are you holding up, Trainer?",
+            "choice_data_list": [
+                "I'll be fine with some rest."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...I'm so sorry!",
+            "choice_data_list": [
+                "Huh? What for?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You're only tired because I dragged you around today!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And before we even got here... You know, um... I made you help\nthose people out."
+        },
+        {
+            "name": "Monologue",
+            "text": "Since I was already there, it only made sense for me to help out where\nI could. Not to mention...",
+            "choice_data_list": [
+                "I was happy to help out."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Wait, that's not the issue! I mean, I am super-duper happy to hear\nthat, though!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's just... I wanted you to rest up more today, since I'm sure you're\ntired from training me...",
+            "choice_data_list": [
+                "True, I might have to work on my stamina..."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nnngh! You already have plenty, trust me!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "You're not only at all of my training sessions, but you also keep up\nwith my running on your bike!",
+            "choice_data_list": [
+                "Of course. I'm your trainer, after all."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Th-that might be true, but I don't want to... take it for... Mmgh..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...What should I do? I'm always... the only one being supported..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(<i>Sigh...</i> Dad... It's hard supporting someone, isn't it?)"
+        }
+    ]
+}

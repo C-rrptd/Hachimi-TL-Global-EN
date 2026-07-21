@@ -1,0 +1,197 @@
+{
+    "title": "Leave It to the Roomie",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tosen Jordan",
+            "text": "Ahahahahahaha! No way! You're messing with me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Nishino Flower looking like she wants to\nspeak to Tosen Jordan. Unfortunately, the latter\nis deep in conversation with a friend."
+        },
+        {
+            "name": "Trendy Umamusume",
+            "text": "Am not! Get this, Nakayama and Prez threw\ncheesy puns at each other for ten whole minutes!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "For real?! Wish I could've been there! Wait—tell\nme you recorded it!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hmm? ...Aww, sorry, I gotta dash."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hey, was Flower here just now?",
+            "choice_data_list": [
+                "Yeah. It looked like she was waiting for you.",
+                "Yeah. It looked like she was waiting for you."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ugh, sounds like I screwed up..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, I notice a key chain lying at my feet.\nThere's a small plushie hanging from it.",
+            "choice_data_list": [
+                "Huh? Is that..."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, that's gotta be Flower's."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hmm... Dunno where I'd find her, so I guess I'll\ngive it to Bourbon. They're roomies and all."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yo, Bourbon. We picked up something of\nFlower's. Mind passing it along?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Acknowledged. I shall retain it for safekeeping.",
+            "choice_data_list": [
+                "Thanks.",
+                "Thanks."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Y'know, I didn't take you for a fan of those sorts\nof mags."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is only for investigative purposes. I purchased\nseveral after seeing Flower brooding over them\neach night."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah? Something's got her bothered?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hmm... Which ones was she reading?"
+        },
+        {
+            "name": "Monologue",
+            "text": "My own interest piqued, I flip through a few\nmagazines. Which of these articles has Nishino\nFlower most likely read?",
+            "choice_data_list": [
+                "\"Try DIY Today!\"",
+                "\"A New You! ☆ Glamorous Grown-up Vibes!\""
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "DIY... Commencing relevant keyword search.\nArticle match found: \"How to Build a Resin\nTable!\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What? Since when is she building a table?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Analyzing her recent behavior, we may\nextrapolate that she wants a table to place by the\nflower bed. She must be deliberating over its\nconstruction.",
+            "choice_data_list": [
+                "Maybe she dropped by to ask you for advice.",
+                "Maybe she dropped by to ask you for advice."
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeaaah... doubt that. Does my look scream \"DIY\"\nto you?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "But Flower was muttering about lacquer, polish,\nand UV light while reading. This is the only DIY\narticle that matches all terms."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It's likely that she was studying the process of\ncoloring the wood with lacquer before hardening\nit with UV light and applying polish."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uh... You sure she wasn't reading about nails?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"Nails.\" Cross-checking database for related\nkeywords..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Stop, stop, stop! You don't gotta bother—it's\nobviously nail-related! I mean, tables? Like,\nwhat?!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Totally! I bet she wanted to ask me about her\nwardrobe earlier."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Inconsistency discovered. I heard Flower mutter\nseveral terms while reading magazines, but none\nare in this article."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Expanding the definitions leads to a weak match\nwith a shoe care article, but that seems unlikely.\nAre you certain she is concerned about her attire?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "What kinda stuff was she saying?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have records of her saying the words \"lacquer,\"\n\"polish,\" and \"UV light.\""
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, it's gotta be about nails."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "\"Nails.\" Cross-checking database for related\nkeywords..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Stop, stop, stop! You don't gotta bother—it's\nobviously nail-related! Like, when did shoes even\ncome into this?!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "So the terms \"lacquer,\" \"polish,\" and \"UV light\"\nalso fall under the category of nails? It seems I\nmust update my database."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm guessing the sweets competition got her\ninterested. Think she wanted my help or\nsomething?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Meh, whatevs. Bourbon, gimme your hand. I'll do\nyour nails."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "For what reason is that necessary?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Oh, y'know, since Flower seems interested.\nDon'tcha think it'd be a good convo starter?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "You're her roomie and all, so it'd be easy for her\nto bring it up with you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Reasoning acknowledged. I will gladly comply\nwith your order."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I'm short on time, so I'll only paint your index\nfinger. But I'll make it crazy cute!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Kay, we're done! It's all you now, Bourbon! Kill it!"
+        }
+    ]
+}

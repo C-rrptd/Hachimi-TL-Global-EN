@@ -1,0 +1,319 @@
+{
+    "title": "祭りはひとりじゃできやしねえ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Inari One",
+            "text": "<i>Pant... Pant... Pant...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days have passed since Inari One's\ninterview was broadcast on TV. She's been\npouring herself into training, as she always does.\nHowever...",
+            "choice_data_list": [
+                "(Is it really okay to leave things like this?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inari One's goal to reach the top of the regionals\nwas born from her love of Oi."
+        },
+        {
+            "name": "Monologue",
+            "text": "But her intentions could go to waste if she does\nnothing to settle the discord between her and\nChief—or I could say, between her and all of Oi\nitself.",
+            "choice_data_list": [
+                "(I just can't sit by and watch!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Another day later... Without notifying Inari One, I\ndecide to make a trip all the way to Oi\nRacecourse.",
+            "choice_data_list": [
+                "(I'm sorry, Inari.)"
+            ]
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Whoa! I know you, you're Inari's trainer! Did ya\ncome alone today?",
+            "choice_data_list": [
+                "I wanted to speak with Chief..."
+            ]
+        },
+        {
+            "name": "Racer with Purple Scrunchie",
+            "text": "Chief? Sure, just gimme a sec.\nChief, you have a gueeest!"
+        },
+        {
+            "name": "Chief",
+            "text": "For goodness' sake! Ya don't gotta scream at me\nto get my—wait, it's you...",
+            "choice_data_list": [
+                "I want to talk to you about Inari."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to him why Inari One wants to compete\nin the regionals and her long-term goal."
+        },
+        {
+            "name": "Chief",
+            "text": "She wants to proudly declare that the regionals\naren't a step below the centrals... by reachin' the\ntop of both of 'em?"
+        },
+        {
+            "name": "Chief",
+            "text": "Geez, she's a real piece of work."
+        },
+        {
+            "name": "Chief",
+            "text": "Gotta go 'n' make things hard for me, doesn't\nshe? But I'll agree to what she's tryna do.",
+            "choice_data_list": [
+                "That's great!"
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "Doesn't mean I've forgiven her, though... I accept\nit, but I don't like it one bit!",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "Sorry if I'm buttin' in, Trainer, but I trust you'll let\nme come back to the academy with ya. I got a few\nwords to exchange with that girl.",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "<i>Huff, huff, huff...</i>"
+        },
+        {
+            "name": "Inari One",
+            "text": "I gotta run even more. Otherwise, I don't have a\nchance of beatin' anyone from Oi!"
+        },
+        {
+            "name": "Chief",
+            "text": "Well, will ya look at that! Good to know you're\nputtin' some heart into your trainin', Inari!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Uh... <i>Huh?!</i> Chief?! What're ya doin' here?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Don't tell me...",
+            "choice_data_list": [
+                "Sorry, Inari."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Why'd ya go and bring him here?!"
+        },
+        {
+            "name": "Chief",
+            "text": "Watch your mouth, brat!"
+        },
+        {
+            "name": "Chief",
+            "text": "Your trainer came lookin' for me outta grave\nconcern over your situation."
+        },
+        {
+            "name": "Chief",
+            "text": "So don't go actin' shocked... That wouldn't be\nfittin' for an Oi girl."
+        },
+        {
+            "name": "Inari One",
+            "text": "...!"
+        },
+        {
+            "name": "Chief",
+            "text": "Inari. I know what you're tryna do. I fully\nunderstand, but..."
+        },
+        {
+            "name": "Chief",
+            "text": "I don't like it. No, I don't like it one bit! What're\nya doin' actin' so stupid?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "I know... I can't defend myself on this one. I'm\ngoin' against what ya told me by runnin' in the\nregionals instead of the centrals."
+        },
+        {
+            "name": "Chief",
+            "text": "Forget that crap! I'm not worried about that at all!"
+        },
+        {
+            "name": "Inari One",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Chief",
+            "text": "I wanna know why ya won't stand tall and say\nyou're aimin' for the top."
+        },
+        {
+            "name": "Inari One",
+            "text": "I-I mean, I can't just say somethin' like that...\n'Specially knowin' how strong everyone in Oi is."
+        },
+        {
+            "name": "Chief",
+            "text": "Ya see?! <i>That's</i> exactly what I don't like!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Chief",
+            "text": "You're tryna act all tough, but you're nothin' but\na scaredy-cat! If it's the top you want, come at us\nwith your head held high, fair and square!"
+        },
+        {
+            "name": "Chief",
+            "text": "Or are ya plannin' to mosey your way up to the\ntop without givin' us a chance to fight? I tell ya,\nthis idiot!"
+        },
+        {
+            "name": "Chief",
+            "text": "What's the top even mean for ya in the first\nplace?!"
+        },
+        {
+            "name": "Inari One",
+            "text": "...!"
+        },
+        {
+            "name": "Chief",
+            "text": "Quit thinkin' you're the only one who knows the\nright thing to do."
+        },
+        {
+            "name": "Chief",
+            "text": "You're not the only one on this journey, you\nknow. Yet here ya are, ignorin' your trainer."
+        },
+        {
+            "name": "Inari One",
+            "text": "..."
+        },
+        {
+            "name": "Chief",
+            "text": "Sounds to me like your time here at Tracen has\nmade you forget something important, Inari."
+        },
+        {
+            "name": "Chief",
+            "text": "And that's... that ya can't put on a festival alone.",
+            "choice_data_list": [
+                "Chief..."
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "All right, lemme cut to the chase..."
+        },
+        {
+            "name": "Chief",
+            "text": "Central racer Inari One, listen up and listen good!",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "I, as representative of Oi, accept your challenge!\nBut just so you know..."
+        },
+        {
+            "name": "Chief",
+            "text": "<i>We're</i> the ones who're gonna stand at the top!"
+        },
+        {
+            "name": "Inari One",
+            "text": "..."
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks, Chief. I really appreciate ya..."
+        },
+        {
+            "name": "Inari One",
+            "text": "I'm Inari One, and I'm makin' this statement right\nhere! With all my body 'n' soul, I will stand\nvictorious on the grounds of Oi..."
+        },
+        {
+            "name": "Inari One",
+            "text": "And take the top of the regionals!"
+        },
+        {
+            "name": "Inari One",
+            "text": "So when that time comes, get ready to <i>rumble!</i>"
+        },
+        {
+            "name": "Chief",
+            "text": "Heh! Right back atcha."
+        },
+        {
+            "name": "Chief",
+            "text": "If you wanna reach the top so bad, come and get\nit, ya big dummy."
+        },
+        {
+            "name": "Chief",
+            "text": "...Trainer, I'll be takin' my leave now. Thank ya for\narrangin' my visit."
+        },
+        {
+            "name": "Chief",
+            "text": "See ya, Inari. Ya better bulk up good. We're a\nstrong bunch."
+        },
+        {
+            "name": "Inari One",
+            "text": "Yeah... I know that..."
+        },
+        {
+            "name": "Inari One",
+            "text": "That's what makes gettin' to the top worthwhile!"
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for today, Boss."
+        },
+        {
+            "name": "Inari One",
+            "text": "Thanks for today, Boss."
+        },
+        {
+            "name": "Inari One",
+            "text": "And... I'm sorry I made ya worry for nothin'.",
+            "choice_data_list": [
+                "No, I'm sorry for forcing the conversation on\nyou.",
+                "No, I'm sorry for forcing the conversation on\nyou."
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "That's all water under the bridge now! Let's turn\nover a new leaf. 'Cause I really learned somethin'\ntoday."
+        },
+        {
+            "name": "Inari One",
+            "text": "I made up my own ideas about how Chief felt...\nand I pushed forward not knowin' how you felt."
+        },
+        {
+            "name": "Inari One",
+            "text": "I ran off 'cause I couldn't face things head-on. I\nwas so selfish... But that sorry act ends here!"
+        },
+        {
+            "name": "Inari One",
+            "text": "From now on, I'll speak my mind and stand proud!\nI'm gonna fight through the whole of Oi till I take\nthe top!"
+        },
+        {
+            "name": "Inari One",
+            "text": "And to do that... I'll be needin' your help!",
+            "choice_data_list": [
+                "You can count on me!",
+                "You can count on me!"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "And to do that... I'll be needin' your help!",
+            "choice_data_list": [
+                "You can count on me!",
+                "You can count on me!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm relieved to see the discord between Inari One\nand Chief has finally been resolved. This whole\nincident serves as a good reminder that the bond\nshe has with her hometown is an unbreakable one."
+        }
+    ]
+}

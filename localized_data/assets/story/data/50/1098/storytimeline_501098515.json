@@ -1,0 +1,216 @@
+{
+    "title": "トーク番組でハッピー☆",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm taking a break in the\ncafeteria..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer! Acute! Listen to this!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I got a request to go on a TV show! It's a talk\nshow, and the topic is feng shui!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Goodness, Rickey! That's wonderful to hear.",
+            "choice_data_list": [
+                "Your efforts to spread feng shui have really\npaid off.",
+                "Your efforts to spread feng shui have really\npaid off."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The world is making way for feng shui! If this goes\nwell, I'll be able to spread its wondrous teachings\nto even more people!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All right! Since I'm going to be talking on TV, I\nneed to compile some discussion topics! I have to\nmake it easy for beginners to understand too!",
+            "choice_data_list": [
+                "I'll help any way I can!",
+                "I'll help any way I can!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Really?! Then, when I finish putting together my\ntalking points, will you listen to what I've come up\nwith? I want you to tell me if there's anything you\ndon't understand!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Yes, you just knock their socks right off, Rickey.\nIn fact, I think I might whip up some ohagi to\nkeep you going."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yay! I love your ohagi, Acute! ☆"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe. ♪ And I'll make sure to come and see you\nin all your glory when you're doing your talk\nshow."
+        },
+        {
+            "name": "Host",
+            "text": "Hello there! ♪ Miracles come to those who\nbelieve! It's time for our segment on the spiritual\nfates of feng shui! And our guest for today is..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Rickey! ☆ Lucky! ☆ Helloooo! My name's Copano\nRickey! I'm here to tell you all about feng shui so\nwe can all be happy! ♪"
+        },
+        {
+            "name": "Host",
+            "text": "Oooh! Your spiritual aura is even stronger in\nperson! I can just feel the good fortune emanating\nfrom you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wonder Acute and I are watching from the\naudience. It might just be me, but I feel like this\nhost is using some rather shady words..."
+        },
+        {
+            "name": "Host",
+            "text": "Hm. We've had a question from someone asking\nhow to meet their soulmate. This person should\nwear something pink! If I remember correctly...\nthat boosts your luck in love, right?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Exactly! The feng shui of colors is deeply\nconnected to the five elements! And the five\nelements are—"
+        },
+        {
+            "name": "Host",
+            "text": "Oh, I'm sorry! We're tight on time, so let's keep it\nmoving. Next question!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The feng shui you should follow for arranging\nyour home can vary depending on your house!\nUsing this compass can help you find a more\naccurate way to utilize feng shui."
+        },
+        {
+            "name": "Host",
+            "text": "In other words, you pour your holy power into\nthat device and then—BAM—a miracle happens!\nWhoa, how convenient!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh dear... It looks a bit like Rickey is struggling\nto get her voice heard. Just look at her little ears\ndrooping.",
+            "choice_data_list": [
+                "We have to support her—even if it's only the\ntwo of us!",
+                "We have to support her—even if it's only the\ntwo of us!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "You're quite right.\nYou can do it, Rickey. We're rooting for you,\ndearie."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(It's Trainer and Acute... That's right—I came here\nto tell everyone about feng shui! I'm not backing\ndown now!)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Um! If it's okay with you... Shall we play feng shui\ntrue or false? All the questions are\nstraightforward so I think people can learn some\nuseful tips!"
+        },
+        {
+            "name": "Host",
+            "text": "Oh! Yes, good idea! I'm sure the audience would\nenjoy that!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Here we go. It's better to carry plenty of lucky\nitems around with you. True or false?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The answer is \"false\"! Going overboard can have\nthe opposite effect! ☆ Okay, next: Things like\ngood and bad directions and lucky colors change\ndepending on the year and location. True or\nfalse?!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Oh, so the answer's true! Hey, this quiz is pretty\nfun. I can answer with just a \"true\" or \"false,\" so\nit's not as intimidating!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Hmm. Feng shui is more down-to-earth than I\nthought. It's got a solid foundation and it actually\nseems really deep..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, you did just wonderfully, Rickey. The\naudience had such a smashing time."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's great to hear! I saw you two cheering for\nme too!",
+            "choice_data_list": [
+                "You were fantastic!",
+                "Everyone really enjoyed it.",
+                "Everyone really enjoyed it."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's great to hear! I saw you two cheering for\nme too!",
+            "choice_data_list": [
+                "You were fantastic!",
+                "Everyone really enjoyed it.",
+                "Everyone really enjoyed it."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's thanks to the courage you two gave me! I'm\nstill a little sad that I didn't get to talk in much\ndepth..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But I did get to introduce some feng shui basics\nwith that quiz, so it was definitely a success!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh Rickey, you did so, so well. And I just know\nthat all your efforts will bear fruit one day."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wonder Acute embraces Copano Rickey and\ngently strokes her back as if to soothe her."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe. Thanks! I hope you'll both help me out next\ntime, too!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Because I'm not stopping here! Tomorrow, the\nnext day, and the day after that—every single\nday—I'm going to do my best to make everyone\nhappier!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "That's the spirit, dearie. Knock all their socks off."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I will! And it's not just the show's audience who\nenjoyed it—everyone's talking about it on\nUmatter too!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "People are saying they understand feng shui a\nlittle better now, and that they want another true\nor false quiz!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, that just goes to show that you're getting\nsomewhere, doesn't it? You've worked so very\nhard after all, Rickey."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wonder Acute gives Copano Rickey a pat on the\nhead."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "True! Buuuut, I have to make sure I learn from my\nmistakes!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I think trying to explain all of it at once was\nprobably kind of overwhelming, so I need to\nmake things a little simpler!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Rickey! ☆ Lucky! ☆ Explanation 2.0! I'm going to\ndo eeeven better next time!"
+        }
+    ]
+}

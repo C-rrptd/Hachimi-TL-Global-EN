@@ -1,0 +1,170 @@
+{
+    "title": "笑顔は続くよどこまでも",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm accompanying Daitaku Helios and Mejiro\nPalmer to the concert venue today."
+        },
+        {
+            "name": "Monologue",
+            "text": "After being invited to be a guest performer by\nthe famous international singer N.B., Daitaku\nHelios's plan to hype up Japan grew to a global\nscale."
+        },
+        {
+            "name": "Monologue",
+            "text": "As a member of the new Operation: Get the\nWorld Hyped, I decide to attend the event\nmyself."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Gahhh, I'm so excited! Are we there yet?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Hold up, what's with this traffic? Wait, it goes all\nthe way to the venue?! NOOO!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "This is bad... What did the concert organizer say\nwhen you called, Trainer?",
+            "choice_data_list": [
+                "If we don't make it in time, they'll have to\ncancel your guest appearance..."
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Aaagh! It's so over..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wait, we can just run there!",
+            "choice_data_list": [
+                "All the way to the venue?! That's really far!",
+                "All the way to the venue?! That's really far!"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Facts! But if I don't show up on time, that's the\nbiggest yikes of them all! I've <i>gotta</i> get my smile\nto everyone, so there's no choice but to run!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Now we're talkin'! Come on, Trainer! Let's get\nrunning!",
+            "choice_data_list": [
+                "...All right, let's go!"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Waheeey! ☆ Here we go! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ahaha! This place is <i>faaar!</i>\nKeep running, Palmer!\nAnd how's my producer?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Huff!</i> You don't have to... tell me twice! We'll\nmatch your pace, so don't push yourself too hard,\nTrainer!",
+            "choice_data_list": [
+                "<i>Wheeze...</i> Th-thanks!"
+            ]
+        },
+        {
+            "name": "Passerby",
+            "text": "E-excuse me! You're the Hype Channel producer,\nright? I love what you guys do! You can use my\nbicycle if you like!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wow, thanks a bunch! You seriously saved our\nproducer! Oh, and a new legend's about to be\nborn today, so stay tuned to the channel!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "<i>Wheeze! Huff... Pant... Cough!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "We—<i>wheeze...</i>—made it!"
+        },
+        {
+            "name": "Concert Organizer",
+            "text": "Are you okay?! Here, sit down and catch your\nbreath!"
+        },
+        {
+            "name": "Concert Organizer",
+            "text": "Um... Do you think you'll still be able to perform?\nI don't want to push you if you're not up to it."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Aha... That's nice of you! But..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "I got this! I wanna perform!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "There are people out there who feel happier just\nby looking at my smile. They said seeing me\nmakes them feel better."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "After hearing that, there's nothing I wanna do\nmore than go smile my heart out and cheer\neveryone up!",
+            "choice_data_list": [
+                "Helios..."
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Besides, I'm an Umamusume! Performing at a\nconcert right after doing a full-out sprint is\nnothing!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah! Let's do this!"
+        },
+        {
+            "name": "N.B.",
+            "text": "That’s the spirit! What did I tell you? These girls\ngot it."
+        },
+        {
+            "name": "Concert Organizer",
+            "text": "Oh, N.B... Hehe, you're so right. Her smile's\nabsolutely dazzling."
+        },
+        {
+            "name": "N.B.",
+            "text": "Come on, girls! It's showtime!"
+        },
+        {
+            "name": "Helios and Palmer",
+            "text": "Yeah! Showtime!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Perhaps the reason Daitaku Helios's smile brings\njoy to so many people is because she sincerely\nwants it to. And that desire fuels her when she\nruns."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "DJ Helios is in the house! C'mon, everybody! Say\nheeey!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As she starts her set, there's no hint of exhaustion\nwhatsoever in her smile."
+        },
+        {
+            "name": "Monologue",
+            "text": "The concert is broadcast around the world, and\nher happy face trends across the globe for being\nas \"bright as the sun.\""
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wait, it was broadcast on satellite TV? And the\n<i>whole</i> world saw it? That means... my smile went\nout into space! That's straight up <i>outta this world!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "When people see the pictures, Daitaku Helios's\nsprint to the venue becomes as hot a topic as the\nconcert itself."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Look! Everyone who saw me is smiling! You know\nwhat this means, right? Operation: Get the World\nHyped was a total success!"
+        },
+        {
+            "name": "Helios and Palmer",
+            "text": "Waheeey! ☆"
+        }
+    ]
+}

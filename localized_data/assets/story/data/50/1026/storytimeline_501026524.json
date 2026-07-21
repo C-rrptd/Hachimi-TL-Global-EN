@@ -1,0 +1,88 @@
+{
+    "title": "鬼トレーニング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I woke up earlier than usual this morning, so I\ndecide to take a healthy stroll along the river,\nwhen..."
+        },
+        {
+            "text": "<i>Thud, thud, thud, thud, THUD!</i>"
+        },
+        {
+            "text": "Mihono Bourbon comes rushing up the riverbank\nwith astounding speed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Twenty reps of incline running complete. Thirty\nreps remaining.",
+            "choice_data_list": [
+                "Getting some solo training in?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes. Father said running up riverbank slopes is\ngood training for the legs. This has been my\ntraining regimen since before I entered Tracen."
+        },
+        {
+            "text": "However, I have a different training regimen\nplanned for the afternoon. We can't afford her\noverexerting herself in the morning.",
+            "choice_data_list": [
+                "(But maybe she really wants to exert her\nenergy...)",
+                "(But maybe she really wants to exert her\nenergy...)",
+                "(Might be time to get her to stop.)"
+            ]
+        },
+        {
+            "text": "However, I have a different training regimen\nplanned for the afternoon. We can't afford her\noverexerting herself in the morning.",
+            "choice_data_list": [
+                "(But maybe she really wants to exert her\nenergy...)",
+                "(But maybe she really wants to exert her\nenergy...)",
+                "(Might be time to get her to stop.)"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Trainer?",
+            "choice_data_list": [
+                "Keep at it, Bourbon!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood!"
+        },
+        {
+            "text": "She continues her training until the last possible\nmoment before she must return to the academy."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Process complete. Increased leg strength\nconfirmed."
+        },
+        {
+            "text": "Seeing how easily she was able to complete her\nexercises really drives home to me just how much\nshe's improved."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Pant... pant...</i> Decreased power output...\ndetected."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Next task... School commences in thirty minutes. I\ncan still... make it..."
+        },
+        {
+            "text": "She's completely depleted her energy doing her\nmorning exercises, so I help her get to the\nacademy."
+        },
+        {
+            "text": "I tell her to end her morning exercise for today,\nconsidering she has more training in the\nafternoon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Orders confirmed. Updating top priorities.\nSwitching to energy conservation mode in\npreparation for the afternoon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Energy output quota projected to be fulfilled\nduring afternoon training."
+        },
+        {
+            "text": "For her sake, I'll have to make afternoon training\nmore rigorous than usual."
+        }
+    ]
+}

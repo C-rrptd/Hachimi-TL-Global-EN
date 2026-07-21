@@ -1,0 +1,201 @@
+{
+    "title": "いいこ、いいこ♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the scrimmage against the veteran trainer has arrived."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm so glad you came today to support me, Tamtam."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Whoa! Ya don't gotta pat my head every time ya see me!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But anyway, 'course I'd come. We trained together this whole time, so\nya better show me some results!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You got it!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "How are you feeling, Trainer? Feeling nervous?",
+            "choice_data_list": [
+                "I should be the one asking you that question...",
+                "I should be the one asking you that question..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "You know best, but I can't help worrying about you a little."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I feel great though, because I know you're behind me all the way."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "Good morning, Rookie and Super Creek. It looks like you've done\nyour training accordingly."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Good morning. I look forward to today's race."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "You're taking this quite casually. I suppose this means you're fully\nready to join my team.",
+            "choice_data_list": [
+                "Super Creek isn't going to lose."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, when did you become so bold? ♪"
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "I-I can see that you two are close, but that relationship ends today. I\nalready have Super Creek's new training plan ready."
+        },
+        {
+            "name": "Monologue",
+            "text": "With unwavering confidence, the veteran trainer walks away."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now that we've finished saying hello, why don't we go ahead and get\nready ourselves?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Even though today's race isn't official, I'll be sure to grab our first win.\nThink of it as a little present from me.",
+            "choice_data_list": [
+                "You got this, Creek!",
+                "You got this, Creek!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Yup! I'm gonna give it all I have! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the race between Super Creek and the veteran trainer's racer\nbegins."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Huff, huff!</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Pant, pant...</i> As I expected, she's pretty fast."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But I won't let my trainer and Tamtam's efforts go to waste!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Super Creek accelerates to a breakneck pace despite it only being\nthe first half of the race."
+        },
+        {
+            "name": "Monologue",
+            "text": "This is just like at the tryouts, but somehow she's running even faster."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "She's not even at the halfway mark, but she's already breaking into a\nsprint?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nah, ya just don't get it. That's not a sprint—it's her runnin' style. She\nalways had the skills to make her debut whenever she wanted."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The whole reason she hasn't debuted yet is 'cause her trainer was\nlookin' out for her."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Bein' as she's not in great shape right now."
+        },
+        {
+            "name": "First-rate Trainer",
+            "text": "You're saying this <i>isn't</i> her peak condition?!",
+            "choice_data_list": [
+                "Seriously?!",
+                "Seriously?!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Da heck, ya didn't know?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "She wasn't doin' well for a few days since you became her trainer...\nWell, I s'pose you wouldn't know, since she's not the type to tell\nanyone. She doesn't like worryin' people."
+        },
+        {
+            "name": "Monologue",
+            "text": "This whole time, I thought it was my inability as a rookie to create a\nsuitable training plan. Little did I know that she's been struggling..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...But ya did switch up her trainin', yeah? It made her real happy. Kept\ntellin' me how you were growin' day by day."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "In the end, any mistakes you made with your plan don't matter. What's\nmost important is that you care 'bout her."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I still can't escape the nagging feeling that she's been caring for\nme far more than I've been able to care for her!",
+            "choice_data_list": [
+                "I promise I'm gonna be the best and most\nreliable trainer for you!",
+                "I promise I'm gonna be the best and most\nreliable trainer for you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Gathering all of my feelings, I shout across the field with all my might\nat Super Creek."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my, Trainer! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm gonna win so I can keep giving you all the attention you need!"
+        },
+        {
+            "name": "Monologue",
+            "text": "True to her word, Super Creek finishes far ahead of her opponent and\ngrabs the win."
+        },
+        {
+            "name": "Monologue",
+            "text": "A little while later..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ooh, I'm actually kind of nervous now that my debut race is\napproaching.",
+            "choice_data_list": [
+                "Me too...",
+                "Me too..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh dear, we can't have that now. Everything is going to be just fine,\nTrainer. You're doing such a great job."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Once I debut, I'm going to bring home all the trophies for us. I'll show\neveryone what a wonderful trainer you are."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I promise I'll take good care of you, okay? ♪"
+        }
+    ]
+}

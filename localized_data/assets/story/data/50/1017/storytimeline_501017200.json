@@ -1,0 +1,61 @@
+{
+    "title": "デビュー戦にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At long last, Symboli Rudolf's racing debut is\nupon us."
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite the early hour, the venue is electric. The\natmosphere feels more like a graded race than a\nsimple debut."
+        },
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hah! The race hasn't even begun, and I can feel\nthe crowd's excitement from here.",
+            "choice_data_list": [
+                "You're the one they're waiting for.",
+                "You're the one they're waiting for."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Indeed. All eyes are on me, perhaps more now\nthan there ever will be."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Only today are they free to wonder how I\nmeasure up to the title of Emperor. Once I take\nto the track, I'll become a known quantity."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That means my performance today is crucial.\nAnything less than the best will disappoint them.",
+            "choice_data_list": [
+                "That sounds like a lot of pressure."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Surely you know better than that. Who do you\ntake me for?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If anything, I see this as an opportunity."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If the crowd is this excited before they've even\nseen me run, imagine the fame we'll enjoy if I\naccount for myself well."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So, worry not. Or rather, I should say... I will not\nlet you down."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Today we take the first step on our road of\nconquest."
+        }
+    ]
+}

@@ -1,0 +1,461 @@
+{
+    "title": "エアシャカール登場！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "<i>Huff... Huff!</i> Just a hundred more meters!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Only one rival in my way to take down, and then\nI win!)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Yeah... I've got this! I'm gonna win! Just keep\ngoing! Just... keep...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah! ...Damn it! Damn it all straight to hell!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch, it's still only three o'clock."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I guess I'll do some work."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Starting today, I've got a trainer with me. I have\nto start seriously preparing for my debut.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(It's finally beginning...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the first day of training since Air Shakur\nsigned the trainer contract. Murmurs race across\nthe training track."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey, isn't that person over there Shakur's trainer?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Really?! You mean <i>that</i> Shakur?!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I saw her go off one time... It was terrifying."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I heard the teachers have a hard time with her\ntoo, 'cause of how crazy smart she is."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "You've gotta have either nerves of steel or be the literal\ncream of the crop to take her on as a trainee."
+        },
+        {
+            "name": "Monologue",
+            "text": "My heart begins to pound under the weight of the\ncurious gazes centering on me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just shut them out."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Everywhere I go, I'm surrounded by extraneous\nnoise. If you let every little thing distract you,\nthere'll be no end to it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, so to speak. At any rate, even though\nyou're just here for show, it'll be a pain if you\nstart freakin' out.",
+            "choice_data_list": [
+                "What do you mean I'm here for show?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Uh, just what it sounds like? I hope you're not\nunder the illusion that I expect anything out of\nyou."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Today, I'm running a simulation modeled on\nestimations about my debut race.",
+            "choice_data_list": [
+                "A... simulation?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tokyo Racecourse, left-handed, turf, 2,000\nmeters, cloudy, firm track..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Parcae has determined these to be the optimal\nconditions for my debut race."
+        },
+        {
+            "name": "Monologue",
+            "text": "Parcae is a computer that Shakur built to kick off\nher racing career. She even engineered the OS\nand programs herself."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shakur views the system as her training partner.\nShe collects data, then Parcae processes it into\ntraining plans, which she trusts unequivocally."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you wanna watch, that's up to you. Just don't\nbother me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur moves to the inner lane, but hangs way\nback, like she's trying to stay behind the pack.\nThen, just as she approaches the final turn..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "HYAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She accelerates toward the finish line. She runs\nefficiently, with no wasted effort, yet with\ndetermination. That honed power is truly\nsomething to behold."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Exhale...</i>",
+            "choice_data_list": [
+                "That was a great run!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nThat run would put me around fifth place."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Although, my optimal route doesn't have\nanything to do with my debut race anyway.",
+            "choice_data_list": [
+                "What's this optimal route, exactly?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Come here. I'll brief you on the races I'm planning\nto run."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...There we go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur connects her computer to a monitor,\nand the Parcae screen appears. A number catches\nmy eye right away.",
+            "choice_data_list": [
+                "What does the number 991031021222 in the\nbottom right corner mean?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Oh, that.\nI'm not really sure."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No idea why, but it's been there ever since I had\nParcae plan my race schedule.",
+            "choice_data_list": [
+                "Is that normal?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's not usually there, no. I can't seem to erase it\neither, but you can just ignore it. It's not like it's\ncausing any problems."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now, let's get back to discussing my racing\nagenda."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The optimal route Parcae calculated is..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Debut, and then follow up with the Hopeful\nStakes. Then the Satsuki Sho, Japanese Derby,\nKikuka Sho, and the Japan Cup for my classic\nyear."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Classic Triple Crown is a series of races that\nUmamusume get only one chance to compete in.\nIt consists of the Satsuki Sho, the Japanese\nDerby, and the Kikuka Sho."
+        },
+        {
+            "name": "Monologue",
+            "text": "Anyone who manages to win all three is crowned\na Triple Crown champion, a title of uncontested\nstrength."
+        },
+        {
+            "name": "Monologue",
+            "text": "However..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The most important race by far is the Japanese\nDerby."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Parcae estimates that I'll lose the Derby by seven\ncentimeters."
+        },
+        {
+            "name": "Monologue",
+            "text": "That seven is cold, hard data. Neither hard work\nnor aspirations can overturn the harsh truth of\nreality."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've tried swapping out data and inputting all\nkinds of patterns, but that figure has never\nbudged."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This must be what they call fate.",
+            "choice_data_list": [
+                "Fate, huh?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Even if I train to my absolute limit, and reach the\nvalues Parcae is guiding me toward..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll only be able to win the Satsuki Sho and the\nKikuka Sho. I still won't be able to break the\nseven-centimeter gap in the Derby."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Parcae is unable to determine a single route with\nbetter results, which means there is none. But...",
+            "choice_data_list": [
+                "We're just gonna have to find a way ourselves."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've already looked everywhere. No stone\nunturned.",
+            "choice_data_list": [
+                "Maybe it's stuck to the bottom of your foot."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's a metaphor. As if I'd make such a stupid\nmistake in my coding."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now, the reason I've been so thorough with my\nexplanation was to make sure you understand the\ntraining plan."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "First off, I'm gonna raise my stats to the ideal\nvalues for winning the Satsuki Sho and the Kikuka\nSho. I'll leave the how to you, so come up with an\nappropriate training schedule.",
+            "choice_data_list": [
+                "Me?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yes, you. You remember that you're supposed to\nbe a trainer, right?",
+            "choice_data_list": [
+                "I thought you said I was just for show?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "For now, anyway."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "However, you might prove to have a non-zero\namount of use as an unquantifiable influence—a\nvariable outside the equation.",
+            "choice_data_list": [
+                "You think so?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You could be what leads to me overcoming the\nunassailable seven-centimeter gap derived from\nall my data. A miracle, in other words."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm kidding, by the way. But the fact remains that\nI'm finished if I keep going the way I am now."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I need to at least consider the possibility that\nyou'll be able to turn the tables somehow.",
+            "choice_data_list": [
+                "I'll do what I can!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Like I said, I'm not actually expecting anything\nfrom you.",
+            "choice_data_list": [
+                "I'll still try to be useful."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's a long shot, but do whatever you want.\nProviding it doesn't actually harm me."
+        },
+        {
+            "name": "Monologue",
+            "text": "At any rate, she's given me a chance to prove\nmyself. As such, I'd like to think about what I can\ndo, including in the long term.",
+            "choice_data_list": [
+                "What's the \"optimal route\" for your senior year?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "For just a moment, a dark shadow flashes across\nAir Shakur's eyes, but she recovers quickly."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Do you need to know that right now? Just focus\non what's in front of you.",
+            "choice_data_list": [
+                "(I might not need to know, but...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like she's not telling me something\nimportant. And I have a hunch that it's something\nI should know as her trainer."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This conversation's over. Don't follow me.",
+            "choice_data_list": [
+                "Could you at least answer my question first?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't want you causin' me any trouble out of\nignorance, so I'm sharing information on a\nneed-to-know basis."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I have no intention of tellin' you anything beyond\nthat. Honestly, even the seven-centimeter gap\nissue doesn't really affect the process, so I didn't\nreally wanna talk about it.",
+            "choice_data_list": [
+                "But that's the reason why we made our contract."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And there it is. This is exactly the crap I don't\nwant."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What would you even do if answered? If all you\ncan do is say, \"Oh, I see,\" then there's no point."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Or do you think you can actually do something?",
+            "choice_data_list": [
+                "I can't think of anything if I don't know the\ndetails."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "I'd prefer to know now rather than be left in the\ndark."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "All right, you want my optimal route for senior\nyear? There isn't one."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "According to Parcae's predictions, I'm not gonna\nwin a single race after the Kikuka Sho.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If I'm going to change the horrible future fate has\nin store for me, I've gotta nip this problem right in\nthe bud."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "In other words, I need to overcome the\nseven-centimeter gap.",
+            "choice_data_list": [
+                "So that's why you're so focused on those seven\ncentimeters."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, yeah. It'd suck to put in a ton of work for\nnothing."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So... what're <i>you</i> gonna do to help? Pray for a\nmiracle?",
+            "choice_data_list": [
+                "Ooh, now things're getting exciting!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh?",
+            "choice_data_list": [
+                "Don't worry—I'm going to do my best to make\nsure you win!",
+                "Don't worry—I'm going to do my best to make\nsure you win!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh, gross. I'm outta here.",
+            "choice_data_list": [
+                "Shakur!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What?",
+            "choice_data_list": [
+                "Let's change your destiny."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "How can you say that with a straight face?"
+        }
+    ]
+}

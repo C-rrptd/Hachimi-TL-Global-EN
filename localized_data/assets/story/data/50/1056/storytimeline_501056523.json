@@ -1,0 +1,92 @@
+{
+    "title": "シラオキ様☆降臨",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Matikanefukukitaru shows up with quite\na difficult request."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ummm... I don't suppose you would approve of\nme giving up on studying for this test, would you?",
+            "choice_data_list": [
+                "Not a chance."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I knew it. Fine. I just wanted to put it out there."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Sigh...</i> No way around this, huh? I suppose this\ncalls for me to unleash my true power. Or even\nbetter yet, my <i>spiritual</i> power!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Grr... Ryaaah!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What do you make of that, Trainer?! My power is\nso great, the cherry blossoms are all in full\nbloom..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait, what?! Cherry blossoms?! Where did Trainer\ngo?!"
+        },
+        {
+            "name": "???",
+            "text": "I'm glad you've made it, Fukukitaru."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Is that... me?! What?! I didn't know I had a\ndoppelganger!"
+        },
+        {
+            "name": "Shiraoki (?)",
+            "text": "It is I, Shiraoki. I have taken hold of your body as\na way of manifesting myself."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Shiraoki?! Uhh, what is going on right now?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait! Where are you going?! P-please, wait a\nmoment!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Huff... Huff...</i> H-how did I end up racing against\nShiraoki?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Uuugh... Of course the great Shiraoki would be\nthis fast! But there's something different about\nme..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "My body feels so light!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Phew... To think I get to run with Shiraoki. It's a\ndream come true!"
+        },
+        {
+            "name": "Shiraoki (?)",
+            "text": "Hehe. Hold onto this feeling. Even after you\nawake, hold onto it..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...Trainer... I think I'm finally awake.",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "That's not what I mean! I've been <i>awakened</i> to a\nnew power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not entirely sure what she means, but her\nrunning is certainly improving!"
+        }
+    ]
+}

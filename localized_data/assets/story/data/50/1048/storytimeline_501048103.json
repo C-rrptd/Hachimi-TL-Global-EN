@@ -1,0 +1,38 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer camp, where we'll spend each and every\nday training hard, begins today."
+        },
+        {
+            "name": "Monologue",
+            "text": "But before that..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "I have to go to the hospital <i>again?</i> And you,\nyou're something else."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Just head over to the campsite. You know you\ndon't have to come with me, right?",
+            "choice_data_list": [
+                "Forget about that. Let's get moving!",
+                "Forget about that. Let's get moving!"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Thanks."
+        },
+        {
+            "name": "Monologue",
+            "text": "After Tosen Jordan gets her toenails examined\nand picks up her medicine, we meet with\neveryone at the camp."
+        }
+    ]
+}

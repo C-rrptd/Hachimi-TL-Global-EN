@@ -1,0 +1,159 @@
+{
+    "title": "満足させて！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Due to scheduled track maintenance, I planned on starting training\nearlier than usual... or so I thought."
+        },
+        {
+            "name": "King Halo",
+            "text": "One! Two! Three!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Pant, pant...</i> It still feels like I'm not hitting that last turn well. Once\nmore, then...",
+            "choice_data_list": [
+                "Hey, it's almost time for training though...",
+                "Hey, it's almost time for training though..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh, I know, I know. Don't be so impatient. No one likes being\nrushed."
+        },
+        {
+            "name": "King Halo",
+            "text": "Just let me focus for a bit longer. I stumbled in the middle of my last\nwinning concert...",
+            "choice_data_list": [
+                "Really? You did?",
+                "Really? You did?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Oh, you didn't see it? Well then, my recovery must've been perfect."
+        },
+        {
+            "name": "King Halo",
+            "text": "But it doesn't matter if people noticed or not—a failure's a failure. I\nwon't allow myself to make the same mistake twice."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's what it means to be first-rate."
+        },
+        {
+            "name": "King Halo",
+            "text": "So please, let me go through it one more time. It's fine if we push\ntraining a bit later.",
+            "choice_data_list": [
+                "Fine, but just once more, okay?",
+                "Fine, but just once more, okay?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Indeed. Once more until I'm satisfied with my performance.",
+            "choice_data_list": [
+                "...Wait, what?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm? Did I stutter? I don't think so."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! Did you really think I would leave a flaw as-is? I won't\nmove on until it's perfect!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll give you the honor of starting the music. Together, we will push my\ndancing skills to the highest level!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Okay, let's start training. Are you ready?",
+            "choice_data_list": [
+                "There's not much time left though..."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "What do you mean? Gosh, we're fine. Relax a little bit."
+        },
+        {
+            "name": "King Halo",
+            "text": "Besides, I know the schedule for this course. I'm positive we've got\nample time to spare."
+        },
+        {
+            "name": "King Halo",
+            "text": "Anyway, that's enough talk for now! Hurry up and get ready for\npractice already!"
+        },
+        {
+            "name": "King Halo",
+            "text": "...It's my policy to always give it my all, whether it's dancing or\ntraining. Everything must be perfect—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ding dong...</i>"
+        },
+        {
+            "name": "School Announcer",
+            "text": "Training time has ended. The course will now undergo scheduled\nmaintenance. Students, please collect your belongings and exit\nquickly."
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Gasp.</i>",
+            "choice_data_list": [
+                "Did you forget about the maintenance?",
+                "Did you forget about the maintenance?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ngh... A-as if I'd forget something so crucial! And besides, it's not like\nI have to practice at school. I can go run somewhere else."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmph, you can leave. Training alone isn't a big deal anyway. I'll be\nfine by myself!"
+        },
+        {
+            "name": "King Halo",
+            "text": "All right, shoo—",
+            "choice_data_list": [
+                "I'll stay with you."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Huh?"
+        },
+        {
+            "name": "King Halo",
+            "text": "But I'm sure you have other things on your to-do list today. You don't\nhave to come with—",
+            "choice_data_list": [
+                "As your trainer, you're my top priority.",
+                "As your trainer, you're my top priority."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "..."
+        },
+        {
+            "name": "King Halo",
+            "text": "W-well, you better get ready to stay for hours and hours because I'm\ngoing to keep running until I'm satisfied!",
+            "choice_data_list": [
+                "Heh, bring it on!",
+                "Heh, bring it on!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! That's the energy I'm looking for! I hope you're prepared!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the sun slips underneath the horizon, I keep King Halo company\nwhile she trains to her heart's content."
+        }
+    ]
+}

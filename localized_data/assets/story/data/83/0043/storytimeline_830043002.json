@@ -1,0 +1,183 @@
+{
+    "title": "火花散る昼",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Director Akikawa",
+            "text": "Attention! I hereby announce the commencement\nof the Tracen Concentration Card Game Tourney!\nThe grand prize is one coupon for a special meat\nlover's course, brought to you by the cafeteria\nstaff!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I shall claim victory—for Brian's sake and mine!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Biwa Hayahide is matching cards masterfully in a\ndisplay of incredible memory! Even Special Week\nmight be outmatched!"
+        },
+        {
+            "name": "Special Week",
+            "text": "...I can't give up! Meat... Meat..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hey, Spe! After you win, we're gonna throw a\nmeat fiesta to make up for the meal you missed!"
+        },
+        {
+            "name": "Special Week",
+            "text": "...! The match for this card is riiiiight... <i>here!</i>"
+        },
+        {
+            "name": "Commentator",
+            "text": "Wow! Special Week has found yet another pair in\njust one try!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Lady Luck must really be on her side to keep\nmatching up cards that haven't even been turned\nover once yet."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Or maybe she's just crazy focused from hunger.",
+            "choice_data_list": [
+                "Oh, it's you...",
+                "Oh, it's you..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ah, you're that trainer from the other day. Sorry,\nbut spare me the small talk."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "<i>I'm</i> up against Spe next. And the round's about to\nstart, so..."
+        },
+        {
+            "name": "Commentator",
+            "text": "And now we enter the long-awaited finals! Give it\nup for Special Week, who's defeated formidable\nopponents one after another to make it here! Will\nher final challenger meet the same fate?"
+        },
+        {
+            "name": "Spe's Classmate",
+            "text": "You got this, Spe! Keep it up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "Uuugh! M-my stomach..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Looks like you've used up quite a bit of\nbrainpower. ...Care for a piece of candy?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so the finals begin, if in a somewhat less than\ndramatic fashion!"
+        },
+        {
+            "name": "Commentator",
+            "text": "And they're at it! Special Week has her eyes\nclosed! Is she going to use that special power of\nhers again?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Meat... Meat... <i>Meat!</i>"
+        },
+        {
+            "name": "Special Week",
+            "text": "It's this one! ...Huh?!"
+        },
+        {
+            "name": "Commentator",
+            "text": "What a shocker! Special Week has failed to match\nthe cards for the first time today! What happened\nto all that momentum from earlier?"
+        },
+        {
+            "name": "Special Week",
+            "text": "No way! Wh-where'd all my luck go?!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "What? Not enough sugar to concentrate? I have\nmore candy, if ya want."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Groan...</i> Thank you. <i>Sigh...</i> What's going on?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, Special Week is unable to get back in\nthe groove."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nakayama Festa emerges the victor and receives\nthe grand prize."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh?! This is the coupon for the special meat\nlover's course... You're really giving this to me?!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "You betcha. Just my way of sayin' thanks for all\nthe fun. See ya 'rou—"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh, looks like we got an audience. I can't say\npeepin's a respectable pastime.",
+            "choice_data_list": [
+                "Was that a... bribe just now?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Huhhh?! Don't be ridiculous! As if I'd ever dream\nof cheating!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I didn't want the prize, so I threw her a bone. All I\nreally wanted was to throw a wrench in the\nmachine.",
+            "choice_data_list": [
+                "...A wrench?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "That's right. You're as stubborn as they come,\naren't ya? ...Fine. Listen up, 'cause I'm only gonna\nexplain this once."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Do you remember that habit that Spe has?",
+            "choice_data_list": [
+                "You mean closing her eyes before flipping the\ncards?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Yeah. Not only that, but then she'd say things to\nmake herself even hungrier."
+        },
+        {
+            "name": "Special Week",
+            "text": "You know, like, \"Meat... I want to eat meat...\" Yadda,\nyadda."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Now, I dunno if it was on purpose or not, but El\nmentioned Spe had missed a meal. I bet she\nhadn't eaten since breakfast. She must've been\nstarvin'."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "As she got hungrier and hungrier, her gut instincts\ngot sharper and sharper. That's exactly what led\nto her bout of good luck."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "So I think to myself, what if we were to take care\nof that hunger? With, say, I dunno... a piece of\ncandy."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Things get a little out of whack. A cog jams in the\nmachine. A hint of distress starts to eat away at\nthose gut instincts which have been drawing out\nsuch insane luck.",
+            "choice_data_list": [
+                "So, you're telling me...",
+                "So, you're telling me..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Relyin' on luck is for suckers. Sometimes you\ngotta use your noggin."
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "title": "ゆたかなる友情",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way back home with Mejiro Dober, we\nspot a poster of Mejiro McQueen."
+        },
+        {
+            "name": "Passerby A",
+            "text": "Hey look, it's a poster of McQueen."
+        },
+        {
+            "name": "Passerby B",
+            "text": "Oh, yeah. She ran a great race the other day, but\nthat's just par for the course for a Mejiro!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...",
+            "choice_data_list": [
+                "You okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I'm fine. I was just thinking how right they are."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah. I was just thinking, \"Yep, that's McQueen\nfor you.\""
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Even the way she carries herself in day-to-day life\nis just different... All while shouldering way more\nresponsibility than I do."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Even the way she carries herself in day-to-day life\nis just different... All while shouldering way more\nresponsibility than I do."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "She has this aura of dignity and the skills to back\nit up... No one can represent our family like her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, we pass by a bookstore and spot\nsomeone very familiar."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "M-McQueen?! Didn't expect to run into you\nhere..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "D-Dober?! I was, erm... just passing by, you see,\nand certainly not here to purchase the special\nfeature on Yutaka or anything...",
+            "choice_data_list": [
+                "Who's Yutaka?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yutaka? Wait... <i>that</i> Yutaka?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Gasp!</i> Wait, Dober... you know Yutaka?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The mention of Yutaka excites them both, and we\nend up ducking into a diner so they can chat.",
+            "choice_data_list": [
+                "Is this Yutaka that famous?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Uh, yes? Oh, McQueen, did you see the thing\nfrom the other day?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Uh, yes! Oh, McQueen, did you see the thing\nfrom the other day?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I saw it in real time!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, I saw it in real time!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, you keep up with things in real time? I like to\nwait and binge everything at once."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, well, that lets you savor things at your own\npace, I suppose..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But is it not thrilling to experience things as they\nare happening?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm... I guess, but the location is, well, you know..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Location? Oh, if you mean watching in person, I\nsuppose it is rather far..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Far? What do you mean? You can buy magazines\nanywhere."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Magazines? I'm talking about the baseball\nstadium...",
+            "choice_data_list": [
+                "I don't think you two are talking about the same\nthing..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? We're talking about Yutaka, the manga\nartist, aren't we? The one behind <i>Burn Bright!\nShibasaki Girls' Soccer Club.</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh?! I thought we were talking about Yutaka the\nbaseball player!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sorry... I just got so excited when I thought we\nliked the same thing..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Same here... I thought we'd found a common\ninterest... So there's a manga artist named Yutaka\ntoo, is there?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I imagine their work must be fascinating, given\nhow passionately you talk about it."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hehe. We'll have to chat again sometime soon,\nand then you can tell me all about them!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I had no idea McQueen had a <i>fangirl</i> side to her...",
+            "choice_data_list": [
+                "People sure are multifaceted, huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Guess so."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Multifaceted... Yeah, I guess so."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'd like to see more... See what other sides there\nare to McQueen.",
+            "choice_data_list": [
+                "Why don't you lend her some of your manga?",
+                "We could go to a baseball game together!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Now I'm curious to see what other sides there are\nto McQueen, sides I don't know about...",
+            "choice_data_list": [
+                "Why don't you lend her some of your manga?",
+                "We could go to a baseball game together!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, I don't want to be pushy or anything...",
+            "choice_data_list": [
+                "I mean, she seemed interested."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...But don't you think I'll come across as too\npushy?",
+            "choice_data_list": [
+                "I mean, she seemed interested."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sure, but still... Well, I guess it couldn't hurt to\nask..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...That's true. I'll try asking if she'd like to borrow\nsome, then."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I see the two of them happily\nconversing in the cafeteria."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I see the two of them happily\nconversing in the cafeteria."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, that can't be! We have to wait until the next\nvolume to find out what happens to the club?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh... Ahem. Apologies for getting carried away."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, no, it's just... You had the exact same\nreaction I did, so I was surprised... and happy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Yutaka the manga artist, the two of\nthem become a little closer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...\"We\"?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's... a good idea. I've been wanting to go to\none, so I think I'll ask her."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, the three of us are on our way\nback from a baseball game..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, the three of us are on our way\nback from a baseball game..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Oh, I still cannot believe how much I screamed\nduring the game... How mortifying..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Don't be embarrassed! That home run was\nscream-worthy."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I know, right?! That decisive swing was proof that\nhe hadn't given up despite how far behind they\nwere!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The tension right before he swung was palpable...\nI can see why you like baseball so much. I'd love\nto learn more."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Truly? Then we <i>must</i> attend another game\nsometime!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'd like that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two chat enthusiastically about the game the\nentire way home."
+        }
+    ]
+}

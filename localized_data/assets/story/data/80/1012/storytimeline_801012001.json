@@ -1,0 +1,70 @@
+{
+    "title": "ヒシアマ姐さん奮闘記　～問題児編～",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm in the middle of watching some Umamusume\ntrain when Hishi Amazon calls out to me."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, you! Have you seen Sky?",
+            "choice_data_list": [
+                "No, I haven't...",
+                "No, I haven't..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh... She's gone AWOL in the middle of her\nextra classes again."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "As the leader of Miho Dorm, I figured I should\nscold her good and set her straight."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, there she is! Now I just gotta figure out how\nto nab her...",
+            "choice_data_list": [
+                "Surround her from all sides and trap her.",
+                "Lure her out to the track."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Hishi Amazon that it would be more\neffective to approach her from the sides rather\nthan going after her head-on."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You're right. I'll get some of my residents to help\nme catch that slippery little sucker!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Raaaaah! There's no slackin' off on Hishiama's\nwatch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky appears to have anticipated the trap,\nbut she admits defeat after getting boxed in by a\nmulti-layered wall of Umamusume."
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like this served as not only a good\npunishment for Seiun Sky, but an effective\ntraining activity in its own right."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suggest luring Seiun Sky to the track so that\nchasing her eventually ends up as a form of\ntraining through partner running."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm, so I don't necessarily have to catch her, huh?\nAll right, I'm in!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "SKYYYYY! YOU GET BACK HERE!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of them play cat-and-mouse for a while,\nuntil Seiun Sky realizes to her horror that she's\nbeen totally duped."
+        }
+    ]
+}

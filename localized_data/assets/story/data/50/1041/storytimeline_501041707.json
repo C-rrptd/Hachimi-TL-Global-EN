@@ -1,0 +1,128 @@
+{
+    "title": "神社でお祈り！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Phew! Shrines are great! I feel cleansed from head\nto toe!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It felt like my Bakushin had been lacking recently.\nI haven't been in great shape either...",
+            "choice_data_list": [
+                "Feeling better now?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Much better! Right now, I feel like I could swiftly\ndeal with whatever is thrown my way!"
+        },
+        {
+            "name": "???",
+            "text": "...Uwaaa! What should I do?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! How perfectly timed! A person-in-need! Allow\nthis class representative to assist you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! If it isn't Biko! What's wrong?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Bakushin O! I don't know what to do!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Heroes constantly need to devise new special\nmoves in their fight against evil..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "But I haven't the faintest idea! I tried asking the\ngods for help, but my prayers have fallen on deaf\nears!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! Leave it to my keen intellect! I am a model\nstudent and class rep after all!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To put it bluntly, all you need is Bakushin!",
+            "choice_data_list": [
+                "What happened to your \"keen intellect?!\"",
+                "What happened to your \"keen intellect?!\""
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's all connected! If you Bakushin... You... um..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes! Your mind will get stimulated in different\nways!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Okay! Face the sun and... BAKUSHIN,\nBAKUSHIIIN!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oh! So it's like special training! Such intensity!\nBakushin, Bakushiiin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hurriedly chase after the two as they head\ntowards the direction of the sun."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Pant... Pant...</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hehe, the sunset after a full power Bakushin...\nNow, that's something special!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Ah! To Bakushin feels incredible! Not only do I\nfeel refreshed, but I learned a new special move\nto boot!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "<i>Gasp!</i> Right! I could use that dash to slide into my\nheroic entrance!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hahaha! You like it? This is the way your class\nrepresentative does things! The power of\nBakushin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a content smile on her face, Sakura Bakushin\nO seems to finally be back on her feet!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Huff... Huff...</i>",
+            "choice_data_list": [
+                "It seems you're still not 100%..."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, no! There's no reason to falter over\nsomething like this!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "...No, that's more than enough for a\ndemonstration! Your passion has been duly noted!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Give it your all and never give up! I'll do my best\nto create a special move!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahhh... I'm sorry I couldn't be more help..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is still not back to her usual\nself, and her prayers at the shrine seem to have\nbeen of no help."
+        }
+    ]
+}

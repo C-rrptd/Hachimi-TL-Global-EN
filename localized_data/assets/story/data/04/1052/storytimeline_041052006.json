@@ -1,0 +1,162 @@
+{
+    "title": "ストップ？ウララの大作戦",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I head towards the train station on my day off, I suddenly hear a\nfamiliar voice."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "All right, time to put my super-duper secret plan into action!",
+            "choice_data_list": [
+                "Oh? And what would that be?",
+                "Oh? And what would that be?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Well, you see... Wait! What are you doing here?!",
+            "choice_data_list": [
+                "I'm just doing some shopping."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, yeah? Me too! Ah, but this is all a part of my super-duper secret\nplan, so that's all I'm telling you!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aaanyway, I better get going! See you later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara dashes away before I can say another word. A mix of\ncuriosity and concern compels me to follow her."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hm... That magazine said it should be around here..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she wanders around aimlessly, one of the nearby shopkeepers\napproaches her."
+        },
+        {
+            "name": "Shady Shopkeeper",
+            "text": "Lookin' for somethin' special, are we?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yup! I'm trying to find the shoe store around here! Do you know\nwhere it is?"
+        },
+        {
+            "name": "Shady Shopkeeper",
+            "text": "Forget about that store! I've got just the shoes for you, riiight here."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "No, thank you! I'm not looking for just any shoes. I need the kind that\ngive you super speed!"
+        },
+        {
+            "name": "Shady Shopkeeper",
+            "text": "Well, what a co-inky-dink! These just so happen to be the\nworld-renowned Super Speed Sneakers! How about I give you a deal\non them?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Urgh... I have juuust enough to buy them, but... Are you SURE they'll\nmake me faster?"
+        },
+        {
+            "name": "Shady Shopkeeper",
+            "text": "Positive! First place is as good as yours with these babies on your\nfeet!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really truly?! Well... they are a bit expensive, but if they'll make me\nfaster—",
+            "choice_data_list": [
+                "HOLD IT!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Trainer?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What?! All that stuff about making me faster was a lie?! But he said\nfirst place was as good as mine!",
+            "choice_data_list": [
+                "Good thing I followed you..."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "No kidding... And now my super-duper secret plan to get faster is\ndown the drain!",
+            "choice_data_list": [
+                "How were you going to do that?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "With shoes that make me extra fast, of course!",
+            "choice_data_list": [
+                "Only practice can increase your speed.",
+                "Only practice can increase your speed."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I-I'm not trying to skip out on any training... I just want to get faster!",
+            "choice_data_list": [
+                "Can I ask why?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Remember those nice things the reporter said about you? That made\nme really happy."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "If that's the kind of stuff she says NOW, imagine what people would\nsay about you if I WON!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I figured if I could find a way to win first place faster, I could surprise\nyou and everyone else!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'd love to win a race, and if that means everyone will praise you, I'd\nlove it even more!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's already putting in the work, but Haru Urara still wants more. As\na trainer, I'm in awe of her dedication.",
+            "choice_data_list": [
+                "Well, it's good to be motivated!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Right?! Ehehe, I'm glad you feel that way. I'll make sure to find the\nright shoes—",
+            "choice_data_list": [
+                "But we need to do this together."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Together?",
+            "choice_data_list": [
+                "Let's find a way to win... together."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah... Yeah, you're right! I shoulda gone to you right away!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Well, looks like I'll need to give tomorrow's training some\nextra-special effort! See you then!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara excitedly runs back to Tracen Academy. With a better\nunderstanding of her motivations, I feel my desire to help her win\ngrowing even stronger."
+        }
+    ]
+}

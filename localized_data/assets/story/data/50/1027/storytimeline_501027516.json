@@ -1,0 +1,88 @@
+{
+    "title": "筋肉の休息日",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm searching for a seat during lunch one day\nwhen I see Mejiro Ryan with her head tilted down."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hmm, what should I do... This might be too\nmuch...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, hey, Trainer!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I was planning on resting my muscles today, but I\nended up taking the same amount of food as I\nusually do on a workout day."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Carbs are an essential source of energy, so I make\nsure to eat lots of 'em on workout days..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But on rest days like today, eating this much will\nhave the opposite effect!",
+            "choice_data_list": [
+                "Want me to take half?",
+                "You should eat what you put on your plate.",
+                "You should eat what you put on your plate."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "But on rest days like today, eating this much will\nhave the opposite effect!",
+            "choice_data_list": [
+                "Want me to take half?",
+                "You should eat what you put on your plate.",
+                "You should eat what you put on your plate."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoa, would you do that for me? That'd be such\na help!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Oh, but you've got your own food!",
+            "choice_data_list": [
+                "No worries, I can handle a little more!",
+                "No worries, I can handle a little more!"
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "For real?! But an unbalanced diet gives you\nunbalanced muscles!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I know! How 'bout <i>you</i> do a workout after lunch?\nI'll spot you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After eating a lot, but not too much, I head for a\nworkout with Mejiro Ryan."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Urgh, y-you’re right... It'd be super wasteful to\nthrow away food."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Okay... I put it on my plate, so now I gotta put it\nin my belly."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Time to chow down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ryan is happy to eat her fill and then\nsome... but she ends up regretting it the next day."
+        }
+    ]
+}

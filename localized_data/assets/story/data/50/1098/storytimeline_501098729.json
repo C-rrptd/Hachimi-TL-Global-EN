@@ -1,0 +1,29 @@
+{
+    "title": "クレーンゲーム失敗……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Aww, that's a shame. These things are really\ndifficult.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe, no need to apologize! It really means a lot\nto me that you tried to get them for my sisters. ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Don't feel bad, Trainer! Just think of it as an\noffering to the claw machine!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Luck always comes around full circle! Today, you\ndonated a little luck to the world. It's bound to\ncome back to you sooner or later! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, that was disappointing..."
+        }
+    ]
+}

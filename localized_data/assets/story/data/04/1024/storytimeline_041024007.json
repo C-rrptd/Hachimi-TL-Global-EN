@@ -1,0 +1,256 @@
+{
+    "title": "ツバサ、大きく広げて！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's our first day of summer camp, and we've arrived at the seaside\nfacility where everyone has gathered for some summertime training."
+        },
+        {
+            "name": "Monologue",
+            "text": "I check in on Mayano Top Gun to see what she's up to in her free\ntime."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm <i>finally</i> done! Freeeeeedom!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Gosh, isn't this supposed to be a summer camp? Why are they even\ngiving out regular school homework?",
+            "choice_data_list": [
+                "You did your homework? By yourself? Without\nanyone telling you to?",
+                "You did your homework? By yourself? Without\nanyone telling you to?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hm? Oh, it's you!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mmhmm, that's exactly right! It was suuuuuper boring, but I did it! ♪",
+            "choice_data_list": [
+                "Fantastic work, Mayano!",
+                "Fantastic work, Mayano!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe, right? Keep the praise coming!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I mean, you said I might discover something new, but I don't think I\nhave... Not yet, at least."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But still, you might be right, so I thought I'd keep at it for now!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, right! Since I did my homework, can we do something together? I\nwanna go to the beach! That's okay with you, right?!",
+            "choice_data_list": [
+                "Fine by me. Let's go!",
+                "Fine by me. Let's go!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yaaaay! Then let's—"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Hey, Mayano! The teacher told us about you! Pretty impressive, I\nhave to say."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Huh? What are you talking about?"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Y'know, the pop quiz we had the other day? You used your own\nformula to solve the problems, didn't you?"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Our teacher was like, \"She always finishes her tests so quickly. What's\nup with that?\" She even said it's a surprisingly efficient way of solving\nthe problem."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "R-really? I thought I was doing it the same way as everyone else..."
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "That's probably because you're always sleeping during lessons. She\neven wants to show the class how you did it next time."
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Actually, if you don't mind... I wanted to ask if you could study with\nme sometime. Maybe teach me a thing or two?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, uh... S-sure! Yeah, that sounds good! Let's do it!"
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "Yay! Thanks a bunch! Y'know, I was always afraid of talking to you,\nsince the two of us seem so different."
+        },
+        {
+            "name": "Serious Umamusume",
+            "text": "But I'm glad I reached out to you today, Mayano! I'll see you again\nsoon!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Um... I guess we should go?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano grabs my hand and drags me away from the camp."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "...Wooow."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahhhh! Hey, were you listening to what she said earlier?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "No one's ever praised me for <i>studying</i> before! And I even made a new\nfriend!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I think I get it now though. My teacher told me to show my work\n'cause she wanted to know how I solve the problems!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Y'know, until now, whenever other people said they didn't get\nsomething, in my head I was always like, \"Why don't you get it? What\nis there not to get?\""
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But now I see that it's just 'cause we're doing things differently!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "There are different kinds of formulas just like there are different kinds\nof running! That's why people worry... 'Cause everyone has their own\nstyle!",
+            "choice_data_list": [
+                "And if you learn about these different methods\nof doing things, you'll be all the wiser, right?",
+                "And if you learn about these different methods\nof doing things, you'll be all the wiser, right?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah, exactly! It feels like my vision was all fuzzy from some silly\nclouds, but then they went <i>woosh,</i> and <i>bam</i>! Blue skies as far as the\neye can see!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hm... Maybe <i>my</i> reason for doing homework is different from\neverybody else's too!",
+            "choice_data_list": [
+                "How so?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Uhhh... So my teacher can know more about me! \"This is how Maya\nwould solve the problem.\" That's what I wanna show her!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And then! And then! Once she gets to know me better, she can tell\neverybody about me and how I solve my problems!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "And then I can make even more friends!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, I know I already have my friends and teachers asking me to do\nstuff, but... do you think you could give me some too?",
+            "choice_data_list": [
+                "Some stuff? As in homework?",
+                "Some stuff? As in homework?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yeah! You could give me, like, running-related homework or\nsomething!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Some kinda special homework just for me..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "It'll be like you're with me even when we're apart! Our own special\nconnection!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "If I think of homework like that, I'm sure it'll feel a little less boring!\nStill boring, but not as much!",
+            "choice_data_list": [
+                "You're one step closer to becoming a grown-up.",
+                "You're one step closer to becoming a grown-up."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Really? You think so? Was I being super mature or something?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Heh-heh... Ehehehehehe... That's right. I'm one step closer to\nbecoming a grown-up woman!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hey, can I ask you something?",
+            "choice_data_list": [
+                "Ask away."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Since I'm being mature... could you give me a grown-up reward? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "I agree to her request and follow Mayano to the nearby beach that\nnight."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoaaaa! The stars are so pretty! And look at that ocean!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Even the waves! The <i>splish-splash</i> is so quiet now! This is the perfect\ngrown-up atmosphere!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I think I saw a nice rock to sit on earlier. Let's go there!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "We can have a nice little chat! Like grown-ups do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We head over to the rock, only to find..."
+        },
+        {
+            "name": "Boyfriend",
+            "text": "Close your eyes, my dear..."
+        },
+        {
+            "name": "Girlfriend",
+            "text": "All right..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Eep!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "W-wahhhhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...And so, Mayano Top Gun awakes the next day with a slight fever."
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "title": "スイーピー5☆入団テスト！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm walking down the hallway with Satono\nDiamond, when..."
+        },
+        {
+            "name": "???",
+            "text": "Theeere you aaaaare!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Satono! As of today, I appoint thee \"Magical\nDia\"!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Huh? Magical Dia?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It is I, Magical Black, member of Magical Girl ☆\nSweepy 5!\nOr something like that. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You're doing this too, Kita?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe. ♪ Get this! Sweep created a team called\nMagical Girl ☆ Sweepy 5."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "And she appointed me \"Magical Black\" not too\nlong ago!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "So I thought it would be great if you joined in\ntoo... What do you think?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Our current roster consists of Magical Black,\nProfessor Tachyon, and me, Genius Magical Girl\nSweepy."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow, and you all practice magic together? That\nsounds fun. ♪ I'd love to join!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You mean it?! Excellent! ♪ Then let's dive straight\ninto your magical training! Um..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ah! That one! Defeat that individual standing\nthere!",
+            "choice_data_list": [
+                "Me?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "You never know when or where an enemy will\nappear. Practice is important!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "But... What exactly should I do to defeat my\ntrainer?",
+            "choice_data_list": [
+                "(She's just going along with it?!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'll teach you all you need to know. ♪ Ready?\nFirst chant a spell like this..."
+        },
+        {
+            "name": "???",
+            "text": "...Heh, heh, heh. Magic isn't the only method to\nvanquishing one's foes."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You also have the option of strengthening\nyourself via a chemical concoction. I can certainly\nassist you should you choose that route."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hey, it's still my time in the spotlight!\nYou'd rather have me teach you than Tachyon,\nright, Satono?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Both of your methods sound fun. ♪\nOh! Who do you think I should go with, Trainer?",
+            "choice_data_list": [
+                "Have Sweep Tosho teach you.",
+                "Accept Agnes Tachyon's help."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Heh, heh! The natural choice! Now then, let me\nshow you the proper way to cast a spell. ♪ Watch\nclosely!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Panthus, panthus, agapanthus! Rain down, O\nstarlight!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...Nothing happens. However, as one would\nexpect of a self-proclaimed magical girl, her\nexecution certainly feels on point somehow."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Did you follow that? All you need to do is\nchant a spell that fits who you are. ♪"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I think I understand. A spell that fits me...\nOkay, I'll give it a shot!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I know you can do it, Dia!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Behold! The dazzling glimmer of a diamond! The\nradiant beacon of tranquility!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I truly see a dazzling light before me. Or at least I\nget the sense I do, and collapse to the ground."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wow! You were really sparkling! You're amazing,\nSatono! ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Magical Dia! I officially approve your induction\ninto Magical Girl ☆ Sweepy 5! You know what\nthis means, right?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Of course! I, Magical Dia, will continue to shine\never brighter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't really understand much about magic, but\nwatching them have fun together seems to have\nthe power to bring a smile to my face."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh, heh. An excellent choice!\nNow then, Satono, guzzle this potion down to\nstrengthen your body."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon takes out a strangely colored\nconcoction. ...Something about all this feels\nworrying."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "That's a really weird color... You sure you wanna\ndrink that, Dia?",
+            "choice_data_list": [
+                "On second thought, let's not!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What? That's no fun. Are you really going to\nchicken out?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Not at all. I never go back on my decisions. Even\nif it means going against my trainer!",
+            "choice_data_list": [
+                "But—"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Here I go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She takes the potion from Agnes Tachyon and\ndowns it all in one gulp!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wow. I've never tasted anything quite like that\nbefore! How curious!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oho! I added extra capsaicin to increase blood\nflow, and you polished it off like it was nothing!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh-heh... You're quite the intriguing\nspecimen! Okay, now I want you to go for a run!",
+            "choice_data_list": [
+                "(Capsaicin?! The stuff in chili peppers?!)"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "W-way to go, Magical Dia! You're now an official\nmember of Magical Girl ☆ Sweepy 5! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curious about the capsaicin she ingested, I\napproach Satono Diamond after Sweep Tosho\nand the others leave.",
+            "choice_data_list": [
+                "That potion earlier really wasn't spicy?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...So you noticed?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. It honestly felt like my tongue was on fire.\nBut I couldn't exactly let everyone see me\ngrimace. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "She quietly reveals the truth. I'm pleased to see\nher doing something so typical for her age as\nputting on a brave face for her friends."
+        }
+    ]
+}

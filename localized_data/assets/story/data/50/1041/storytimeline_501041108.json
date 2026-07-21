@@ -1,0 +1,268 @@
+{
+    "title": "ファン感謝祭",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day of the Fan Fest is here."
+        },
+        {
+            "name": "Monologue",
+            "text": "The academy is bustling with countless\nUmamusume devotees. But I sense more and more\npeople will be coming..."
+        },
+        {
+            "name": "Monologue",
+            "text": "So of course, there's no way a particular\nUmamusume is going to stay put."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Greetings, everyone! It is I, model student and\nclass representative!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Sakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Since there are a lot of you here today, make sure\nto watch your step!",
+            "choice_data_list": [
+                "You're hard at work.",
+                "You're hard at work."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, Trainer! Good to see you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "An event like this needs a reliable class\nrepresentative to keep an eye out."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And today I plan to shine even more than usual!",
+            "choice_data_list": [
+                "And how do you plan to do that?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I signed up for a bunch of races! About thirty of\nthem!",
+            "choice_data_list": [
+                "Thirty?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I want to show off my speed to as many people as\npossible!",
+            "choice_data_list": [
+                "Just... don't push yourself too hard, okay?",
+                "Just... don't push yourself too hard, okay?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Roger!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Just watch, I'm scoring first place with my \"Spin\nDash\" the second I'm out of here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is really determined to get\nthose wins..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm?! I sense a rabble rouser is afoot!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now who would dare invoke the wrath of this\nmean lean class representative machine!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And after that..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Tachyon! Where are you?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "You cannot make suspicious-looking medicine\nwithout authorization! Go and get permission\nfirst!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Stop right there!"
+        },
+        {
+            "name": "Male Fan",
+            "text": "Whoa! She came through like a hurricane!"
+        },
+        {
+            "name": "Female Fan",
+            "text": "Oh no, my ice cream! Darn..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm? Do I hear the sound of chatter from a\nclassroom that is strictly off-limits?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hey! Who's in there?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eek!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Oh no, the poster! The wind has torn it to bits.."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day continues like this, until finally..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Phew... Things have finally calmed down! Now is\nabout time to run in those races..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait, how come it's evening already?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All the races are over for today? That can't be!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "So you were here, Bakushin O. I was looking for\nyou."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The awards ceremony is about to begin. Come\nwith me."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The awards ceremony?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But I didn't compete in a single race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Wait, did I get first for best model student?! That\nwould make perfect sense!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I would gladly receive that reward every day!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "So impertinent. Just follow me!"
+        },
+        {
+            "name": "Host",
+            "text": "And so, today's \"Most Excellent Sprinter\" is\nSakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Huh?! \"Most Excellent Sprinter\"?!"
+        },
+        {
+            "name": "Host",
+            "text": "You made the selection for the following reason:\n\"You were faster than anyone else today.\"\nCongratulations!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "N-no way! Though I <i>am</i> faster than anyone else!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The award is for being a fast sprinter then? Not\nfor being a model student?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aw shucks..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sakura Bakushin O is a little dejected, but all in\nall, the Fan Fest ends in a success."
+        },
+        {
+            "name": "Host",
+            "text": "It has been decided that Sakura Bakushin O will\nreceive a special reward from the student\ncouncil—the Hardest Worker Award!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The Hardest Worker Award?!"
+        },
+        {
+            "name": "Host",
+            "text": "The sight of you sprinting wildly around the\nacademy was exemplary! Congratulations!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohh! Whoaa!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Exemplary! That's what the student council thinks\nof me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I guess this makes me the best model student\never! I could even be a college class\nrepresentative at my level!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "It comes with a reward. Consider it a gift from the\nstudent council."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yay! It must be a plate or a trophy!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Not quite."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Your running around left a mess in its wake,\nyou're on clean-up duty for every location you\ntrashed up!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The hallway, school gates, classrooms, and the\ntracks! I want to see them all spick and span!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Waah?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But I'll accept! They do say to clean up your own\nmesses!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I am Sakura Bakushin O, winner of the Hardest\nWorker Award! I will clean with beauty and grace!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushiiin! <i>Bang, craaash!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Rattle, kaboom!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You say that, but you're just making more of a\nmess!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Well, some matters aside, the Fan Fest is a big\nsuccess!"
+        }
+    ]
+}

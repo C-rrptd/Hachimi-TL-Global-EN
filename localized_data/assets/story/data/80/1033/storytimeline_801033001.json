@@ -1,0 +1,107 @@
+{
+    "title": "不器用なトライアングラム",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm shopping at the mall when I see Admire Vega\nconsoling a crying boy."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, what happ—"
+        },
+        {
+            "name": "Boy",
+            "text": "Waaah!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh...</i>",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's what I'd like to know.",
+            "choice_data_list": [
+                "Hi, are you lost?"
+            ]
+        },
+        {
+            "name": "Boy",
+            "text": "Waaaaaah! I'm scared!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "He's been like this for a while now. I've tried\ntalking to him, but he won't stop crying.",
+            "choice_data_list": [
+                "Let's work together!",
+                "Let's try getting him to calm down."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh? I said I've already tried everyth—",
+            "choice_data_list": [
+                "Can you fetch someone from the information\nkiosk? I'll stay with the boy.",
+                "Can you fetch someone from the information\nkiosk? I'll stay with the boy."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "In just a few minutes, we successfully get the mall\nstaff to make an announcement over the PA\nsystem."
+        },
+        {
+            "name": "Boy",
+            "text": "Big siiis! I was so scared!"
+        },
+        {
+            "name": "Girl",
+            "text": "And I told you not to go off on your own! You'd\nbetter not let go of my hand this time!",
+            "choice_data_list": [
+                "I'm glad we found his family."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Me too."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the boy evidently in a state of panic from\nbeing lost, we pat him on the back and try our\nbest to reassure him."
+        },
+        {
+            "name": "Boy",
+            "text": "<i>...Sniffle.</i> My sister... I don't know where she is."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!\nOh."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't worry, I'm sure your sister is also looking for\nyou. Where did you two get separated?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, after we get enough information from the\nboy..."
+        },
+        {
+            "name": "Boy",
+            "text": "Thank you! Bye bye!",
+            "choice_data_list": [
+                "Good for him."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Yeah."
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "title": "Part-Time Pro!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I spot Ines Fujin engaged in some lively\nconversation with her friends."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep, I recommend starting off with sales or\ncatering! This magazine here lists a bunch of open\npositions..."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wow, there are so many!\nAre there any that catch your eye, McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hmm. They all look rather inviting, but it's a little\ndifficult to envision what the role entails from the\ndescription alone...",
+            "choice_data_list": [
+                "What are you talking about?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, Trainer! Howdy, howdy! These two were\nasking me for advice on part-time jobs."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Yeah, I figured a part-time job would make for\nsome sweet work experience! That's why I was\nasking Ines what kind of jobs are out there."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So, getting back on topic, I recommend a\nposition at a convenience shop or as a delivery\ndriver—a lotta-lot of those places are eager to\nhire Umamusume!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "That makes sense—plus you could get a sweet\nworkout carrying stuff around!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I see... So, what exactly would <i>this</i> job involve,\nthen?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You put on a mascot costume for that one. And\nyou get to play with kids! I had so much fun doing\nthat!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And that's not the only fun experience I've had. I\nhelped out with a magic show once, and did some\nlive picture book readings, too. So many\nmemories!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "What else... Oh, there was that one time I helped\nexcavate some ruins."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "<i>Ruins?!</i> Wait, do part-time jobs like that actually\nexist?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Only if you know where to look—they don't\nusually advertise in magazines like these! Oh,\nanother job you can get is selling lunch boxes at a\nbaseball stadium—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A b-baseball stadium?! They have part-time jobs\nat baseball stadiums?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Man, this is wild. ...I mean, it's pretty amazing\nthat there are so many different job openings\ncrammed into this one magazine, sure..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But what's really remarkable is that you seem to\nhave tried almost all of them, Ines!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha, well, when it comes to part-time jobs, I've\ngotcha covered! Anyway... Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin turns her gaze to a passing Umamusume\nwho's glancing off to the side while carrying a tray\npiled high with desserts."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as the peril of the situation is beginning to\ndawn on me, her foot slips, and—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eek!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Watch out!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone winces, anticipating the inevitable mess\nof ruined pastries on the ground. ...However."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Swoosh!</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Phew. Good thing I caught all those desserts!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "When you're holding a tray, try stabilizing it with\nyour fingers instead of your palms! Oh, and try\nnot to get distracted!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Th-thank you so much... I'm so sorry about this!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "How did you do that?! You went <i>whoosh</i> through\nthe air and caught every single dessert!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, I'd done that before at a part-time gig!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That doesn't explain anything!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha! Well, I wasn't working as a ninja or\nanything—it's just a hack I picked up from a diner\njob."
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin laughs off her incredible feat, but it\nlooks like her long work history is paying off in\nvarious ways.",
+            "choice_data_list": [
+                "It's like there's nothing you can't do.",
+                "It's like there's nothing you can't do.",
+                "You're incredible!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin laughs off her incredible feat, but it\nlooks like her long work history is paying off in\nvarious ways.",
+            "choice_data_list": [
+                "It's like there's nothing you can't do.",
+                "It's like there's nothing you can't do.",
+                "You're incredible!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I guess. ♪ But I'm just getting started. I mean,\nthere are still so many professions out there for\nme to try!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "There are tuna shoal experts, people who\nresearch soil to make the best rice, artists who\ncan make stunning pictures using just a few\ncolored pencils..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Seeing pros like those makes me realize there's a\nlot I can't do! It's a big world out there!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...I don't know whether you're really\noverambitious or I'm just massively lacking in\nwork experience."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I believe we've somehow transitioned from\npart-time work to full-fledged vocations..."
+        },
+        {
+            "name": "Monologue",
+            "text": "While I suspect her scope is a little overblown, I'm\nreminded of just how talented Ines Fujin really is."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, thanks for the compliment! You know, I do\nall this because I want to, so it's kinda weird\nhearing you say that."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But now I really want to focus on striking a good\nbalance between my training and my work!",
+            "choice_data_list": [
+                "Ines..."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "...Hmm. I wonder if all that part-time work is the\nsecret to Ines's strength."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This all goes to show just how beneficial part-time\njobs are!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like these two are missing the point a little..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "All right, Trainer! I'm counting on you to keep\nsupporting me! ♪ I mean, I do rely on you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I come away from the experience feeling like Ines\nFujin and I really do have a strong bond."
+        }
+    ]
+}

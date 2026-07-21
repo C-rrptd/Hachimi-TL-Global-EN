@@ -1,0 +1,228 @@
+{
+    "title": "飛び上がるほど心は跳ねて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I can't stop thinking about Gold City—that training session along the\nriverbank after tryouts."
+        },
+        {
+            "text": "I want to get to know her. But first, I need to find her."
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Pant, pant...</i> Phew. Yes, a new best time! Now to try upping my pace..."
+        },
+        {
+            "text": "Wouldn't want to interrupt her while she's laser-focused. I decide to\nwait a bit, when..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Wow, just wow! Your running never fails to amaze, City!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Who're you?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "As you can see, I'm a trainer! And I'm here to scout you!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Scout me? ...For real?!"
+        },
+        {
+            "text": "Crap! I got scooped!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Er, I mean... Ahem."
+        },
+        {
+            "name": "Gold City",
+            "text": "O-oh yeah? And? If you want to scout me, aren't you going to, like,\ngive your pitch? You know, like plans and goals?"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Yes, of course! I am going to make you the <i>top</i> Umamusume."
+        },
+        {
+            "name": "Gold City",
+            "text": "...!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "No one will be able to take their eyes off of you! The brightest star\non the turf—Gold City! That's what I have in store for you!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh. N-not bad."
+        },
+        {
+            "name": "Gold City",
+            "text": "Well, how about a trial period? I wouldn't mind training with you for a\nlittle while."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Oh, great! No time to waste, then. I'll see you at training tomorrow!\nGet ready, because we've got lots to do! Later!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hey, wai— Going already?!"
+        },
+        {
+            "name": "Gold City",
+            "text": "That was fast. Said what he had to say and dipped. No nonsense, huh."
+        },
+        {
+            "name": "Gold City",
+            "text": "No one will be able to take their eyes off of me? \"The brightest star\non the turf\"?"
+        },
+        {
+            "name": "Gold City",
+            "text": "...!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Argh, I can't! I literally can't!"
+        },
+        {
+            "text": "She takes off all of a sudden. Concerned, I find myself following her."
+        },
+        {
+            "name": "Gold City",
+            "text": "Let's gooo! Yes, yes, yes yes yesss!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Honestly, I ran like crap that race. I thought for sure I'd have to wait\ntill next time, but no—I got scouted! Yes!"
+        },
+        {
+            "name": "Gold City",
+            "text": "...Someone was watching. Actually seeing <i>me.</i>"
+        },
+        {
+            "name": "Gold City",
+            "text": "This is it. It all starts here. I'm going to run with my own two legs, as\nthe real me!"
+        },
+        {
+            "name": "Gold City",
+            "text": "G1 victory? Or even more? Bring it on! This time, everyone will know\nme for who I really am."
+        },
+        {
+            "name": "Gold City",
+            "text": "...Ugh, what am I doing off in fantasy land? Fifth in tryouts is low-key\nawful, like actually."
+        },
+        {
+            "name": "Gold City",
+            "text": "Back to training... Wh-whoa!"
+        },
+        {
+            "text": "Oops! Definitely wasn't supposed to let her spot me!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Uh, hold on, you... came up to me before the race. Wait, what? So..."
+        },
+        {
+            "name": "Gold City",
+            "text": "You... heard all that?",
+            "choice_data_list": [
+                "S-sorry.",
+                "S-sorry."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "You're fricking kidding me! Eavesdropping? I can <i>not</i> believe you\nright now!",
+            "choice_data_list": [
+                "I'm really sorry!",
+                "I'm really sorry!"
+            ]
+        },
+        {
+            "text": "After apologizing profusely, I explain how I'd come to scout her but\nended up following along when she suddenly ran off."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, <i>really</i> now? So you were just concerned about me, is that it?",
+            "choice_data_list": [
+                "I didn't mean to eavesdrop. Please believe me...",
+                "I didn't mean to eavesdrop. Please believe me..."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "<i>Sigh...</i> Okay, okay, whatever. You're making me feel like a bully at\nthis point."
+        },
+        {
+            "name": "Gold City",
+            "text": "Just, forget everything you heard, and not a <i>word</i> to anyone. Promise\nme that, and you're off the hook."
+        },
+        {
+            "name": "Gold City",
+            "text": "And you better not say \"no guarantees.\"",
+            "choice_data_list": [
+                "I promise, I promise!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Good, then that's that. I need to get back to training, so you go do\nwhatever."
+        },
+        {
+            "name": "Gold City",
+            "text": "No use trying to scout me anymore. I've already got a trainer.",
+            "choice_data_list": [
+                "Right... Yeah, that's too bad..."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Geez, it's not a funeral. What's with you?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I swear you almost burst into tears apologizing just now. Got nothing\nto hide, huh? Ever been told you can't lie to save your life?"
+        },
+        {
+            "name": "Gold City",
+            "text": "I mean, not like I really care or anything.",
+            "choice_data_list": [
+                "Glad you got a trainer, though. You've got my\nsupport!",
+                "Glad you got a trainer, though. You've got my\nsupport!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Uh, thanks? Usually trainers support, you know, their own trainees, so\nnot sure what that's supposed to mean, but..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, you know what I really don't get, though?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Why didn't you say anything? I mean, from the way you're talking, it\nsounds like you were here first."
+        },
+        {
+            "name": "Gold City",
+            "text": "So why'd you just let that other guy swoop in?",
+            "choice_data_list": [
+                "You looked so focused, I didn't want to\ninterrupt."
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? Seriously? Haha!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Ugh. Nothing good ever comes to goody-two-shoes like you, you\nknow."
+        },
+        {
+            "name": "Gold City",
+            "text": "Anyway, you can give me all the support you want. I'm off."
+        }
+    ]
+}

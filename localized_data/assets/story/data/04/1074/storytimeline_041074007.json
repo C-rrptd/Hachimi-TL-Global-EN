@@ -1,0 +1,258 @@
+{
+    "title": "Blooming in the Night",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The ocean, clear blue skies—it's time for summer camp! This is the\nperfect opportunity to get in some good training, so I'm feeling extra\npumped up!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The weather is so nice... Perfect for an afternoon nap on the beach.\nBut before that, I have one more lap to run, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bright is back to her usual self, but she seems to be enjoying the\nsummer camp, so our training is going well."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Well then, I shall leave the timing to you.",
+            "choice_data_list": [
+                "You got it! Ready... go!",
+                "You got it! Ready... go!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Yaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After she comes back, I let her rest while I plan out our summer camp\ntraining regimen. Up next is strength training in the ocean."
+        },
+        {
+            "name": "Monologue",
+            "text": "And after that is..."
+        },
+        {
+            "name": "???",
+            "text": "...ner? ...Trainer?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "Whoa?! You're already back?",
+                "Whoa?! You're already back?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've been back for a while. Is something the matter? You seem like\nyou're drifting away."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...That reminds me. Trainer, you stayed up late last night preparing\nenergy drinks for our training, right?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Riiight?",
+            "choice_data_list": [
+                "Y-yeah, I did..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Then that settles it. Trainer, won't you accompany me to tonight's\nfestival?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "One of the employees at the summer dormitory spoke of it. They said\nthere would be a festival close by this evening."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It seems many other Umamusume are headed there. So I was thinking\nwe could take it easy today..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I have to finish up my work if I want to enjoy this festival tonight!\nFirst, I have to figure out this training regimen!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, you're organizing those documents even faster than before.",
+            "choice_data_list": [
+                "Let's stop for a break now!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, what a swift departure. Breaks are fine with me, but I do hope\nTrainer is resting properly as well."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Right. I must do my part as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "The sun is already setting by the time I finish up the training regimen.\nI've even managed to map out a route for tomorrow's run through the\nforest.",
+            "choice_data_list": [
+                "It's... already this late?! I need to hurry back!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, welcome back. Come along, I've saved a seat for you right next\nto me."
+        },
+        {
+            "name": "Monologue",
+            "text": "When I tell Bright about all the work I still have to do, she simply\nlooks at me and smiles."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Now, now... You just made it back, did you not? I've plenty of things\nI'd like to talk about with you today."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "During our break, I went looking for seashells on the shore with\nDober. And guess what? There was a purple sea slug...",
+            "choice_data_list": [
+                "I-I see..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Out in the ocean, I saw jellyfish floating dreamily about. I only\nwatched from the shore, but the sight was truly enchanting."
+        },
+        {
+            "name": "Monologue",
+            "text": "I suddenly feel today's fatigue hit me all at once, and Bright's\nsoothing voice feels almost like a lullaby."
+        },
+        {
+            "name": "Monologue",
+            "text": "But I can't fall asleep yet. I still have so many documents to go\nthrough..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I even saw a big cloud, bigger than a mountain. It looked so soft and\nfluffy, like freshly whipped ice cream slowly melting away..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee, are you feeling sleepy? Go ahead, gently slip away into the\nland of dreams."
+        },
+        {
+            "name": "Someone's Humming",
+            "text": "Hmmm, hm-hm-hm, hm-hm-hmmm... ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "In my dreams, I hear a gentle voice soothing my soul with a familiar\nlullaby."
+        },
+        {
+            "name": "Someone's Humming",
+            "text": "Hm-hm-hmmm... Hm-hm-hm, hm-hm-hmmm... ♪",
+            "choice_data_list": [
+                "...Is that you, Bright?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, you've woken up already? You can rest for longer, if you'd like.",
+            "choice_data_list": [
+                "Huh? When did I fall asleep?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I jump to my feet. When did I fall asleep on this couch in the lobby?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Let's see... I still need to submit those documents, and there's that\nfestival I promised to go to. Suddenly, Bright speaks up."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Those documents... They're meant for the staff here, right? I took the\ntime to ask if you could submit them tomorrow, and they said it was\nokay."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "As for the festival, we've no hurry to go, have we? After all, we still\nhave next year."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Perhaps, I went too far? I only ended up derailing your original\nplans.",
+            "choice_data_list": [
+                "Actually... I'm thankful.",
+                "Actually... I'm thankful."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I've done nothing that deserves your gratitude. I only acted as I\nnormally would, taking things nice and slowly."
+        },
+        {
+            "name": "Monologue",
+            "text": "I might've been overworking myself recently... Thanks to Bright lulling\nme to sleep, I feel my energy coming back to me."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she hadn't helped me relax, then I probably would've ended up too\ntired to even go to the festival.",
+            "choice_data_list": [
+                "Thanks to you, we managed to find our usual\npace again."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Our usual pace... Yours, and mine, you mean?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...I see. Mhm. In the end... staying true to my laid-back self is how I\nshould be."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, look over there, Trainer. That carrot stir-fry stall is still open."
+        },
+        {
+            "name": "Monologue",
+            "text": "By the time we arrive at the festival, things have mostly quieted\ndown, with many people gradually making their way home."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Many of the stalls have already closed up, but you know what they\nsay, \"Leftovers are a sign of good things to come.\"",
+            "choice_data_list": [
+                "First time I've heard that one..."
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ah, young miss! Wanna try your luck in the raffle? There's only one try\nleft, and I'm lookin' to sell out, y'see."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "My, and speaking of good leftovers... Teehee, I think I'll give this a\ntry."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Congratulations, you're a winner! Here's your prize—a pretty brooch\nfor the pretty lady!"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Wow! Teehee, thank you very much. I'm quite fond of this floral\ndesign."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...You know, Trainer? You were right..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Every flower has its spring.",
+            "choice_data_list": [
+                "...Yeah.",
+                "...Yeah."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, we continue enjoying the remainder of the festival. We\nwalk along slowly, leisurely, and at our own pace—a pace fit for the\ntwo of us."
+        }
+    ]
+}

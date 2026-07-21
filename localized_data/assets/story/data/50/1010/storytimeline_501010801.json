@@ -1,0 +1,217 @@
+{
+    "title": "ドキ×ドキ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, when we're off from training..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Trainer! Could you <i>ask</i> for a better day to\ngo hiking? There ain't a cloud in the sky!",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Same here! ♪ I modeled the route after the hikes\nI used to go on with my folks! It's gonna be like\nhikin' down memory lane!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We're gonna \"ooh\" <i>and</i> \"ah\" like you won't\nbelieve! Now, let's get started!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Phew! Can you believe we're already halfway up?!\nThe mountains in Japan are so cute and tiny\ncompared to back home. ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You okay, Trainer?! You're breathin' awful hard!",
+            "choice_data_list": [
+                "I'm... fine..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You sure? You look ready to keel over any\nsec—whoopsie daisy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Snatch!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Phew... I got ya in the nick of time! Imagine if you\nwent tumblin' down the mountain.",
+            "choice_data_list": [
+                "You're a real lifesaver."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe! Looks like the shoe's on the other foot\ntoday! Glad I got the chance to help you for a\nchange!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I want you to lean on me even more! How's about\nI help you all the way to the top?! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Lunch time! And the staple of every hiking lunch..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's right! A club sandwich bigger than your\nface! Let's see who can finish first!",
+            "choice_data_list": [
+                "Are you sure that's a staple?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Does a bear squat in the woods? It's what my\nfamily always packs! Just one sandwich'll take\ncare of ya for the day!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Fresh tomato! Cheese! Meat! And a big jug of\nmilk to wash it all down!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What more could ya ask for?! ♪ Here! Take a nice\nbig chomp!",
+            "choice_data_list": [
+                "It's so big. Where do I even start?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Need me to feed it to you? Back when I was little,\nmy mom would help me too. ♪",
+            "choice_data_list": [
+                "I... I can do it myself!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ohoho! Is that a blush I see? Ain't nothin' to be\nshy about!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Awww... But don't you look cute! You got my\nheart all aflutter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She continues teasing me throughout the meal,\nand then leads me to..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Last but not least, we fly through the air in a\nhot-air balloon!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Look at 'em all, driftin' up there! Really, just look!\nAll those balloons, aaall the waaay up the—"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Say! Is it really okay for 'em to be up that high?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! That reminds me! Papa used to always pick\nme up and carry me on board..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But now I'm a full-grown lady! I can get on all by\nmyself!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But... if <i>you're</i> scared, we can always do somethin'\nelse.",
+            "choice_data_list": [
+                "Let's fly!",
+                "Yeah, let's not. It looks scary."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh... I mean, yeah! Okay!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoaaa! We're so high up! ...Too high! Too high!\nAaagh! Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Squeeze!</i>",
+            "choice_data_list": [
+                "Taiki?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh my gosh! Oh no! Nonononooo! Trainer, hold\nonto meee!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Uuugh... Finally, back on solid ground! I really\nowe you one!",
+            "choice_data_list": [
+                "But I didn't do anything..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Don't be modest! The only reason I didn't jump\nout of the basket is 'cause I had you there to grab\nonto!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And not just that... I'm also happy because I\nrealized how close our hearts are now!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Gasp!</i> ...Does that mean if we go again, our hearts\nwill grow even closer?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm not sure <i>my</i> heart could take another ride. I\nquickly talk her out of the idea, and we bring our\nhiking trip to a close."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Well, okay! I'm actually glad to hear that!\nLet's find something less scary to do!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah! A boat! Let's go on a boat ride! ♪ We can get\nour hearts and our arms in sync rowing downriver!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And rooow! One, two! One, two! Give it more\noomph! OOONE, TWOOO!",
+            "choice_data_list": [
+                "That's too much oomph!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hahaha! My legs are soaked! I didn't reckon we'd\nbe goin' for a sw—"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Achoo!",
+            "choice_data_list": [
+                "Here. Take my jacket."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ain't you just the picture of chivalry! ♪Color me\nimpressed!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Actually, I was tryin' to impress you, but looks\nlike that went and backfired... Hehe. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle is in high spirits as we hit the dusty\ntrail and bring our hiking trip to a close."
+        }
+    ]
+}

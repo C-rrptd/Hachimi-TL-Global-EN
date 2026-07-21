@@ -1,0 +1,271 @@
+{
+    "title": "不撓不屈の大和撫子",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Everyone believes that Grass Wonder rejects scouting offers because\nshe lacks the drive to win."
+        },
+        {
+            "name": "Monologue",
+            "text": "But the racer I saw training doesn't look like someone who's simply\nquiet and gentle."
+        },
+        {
+            "name": "Monologue",
+            "text": "I want to know the true Grass Wonder."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah... Good evening. What are you doing here at this late hour?",
+            "choice_data_list": [
+                "Actually, I'd like to ask you that myself.",
+                "Actually, I'd like to ask you that myself."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hm?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I... Well, I lost track of time looking up at the night sky. Hehe, how\nsilly of me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But I should return to the dormitory now... Was there anything you\nneeded of me? If not, then good night—",
+            "choice_data_list": [
+                "Are you really not accepting any scouting\noffers?",
+                "Are you really not accepting any scouting\noffers?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, that... I believe I've explained before that I'd refuse..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A terrible shame though it may be, my mind is unchanged. I'm sorry.",
+            "choice_data_list": [
+                "May I ask why?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well... Forgive me, but it's a personal matter... That's all I can say."
+        },
+        {
+            "name": "Monologue",
+            "text": "She doesn't seem to want to explain, but I can still try to work the\nanswer out for myself."
+        },
+        {
+            "name": "Monologue",
+            "text": "So I think back to that look in her eyes on the course, the blue flames\nI saw hidden within. How she really feels...",
+            "choice_data_list": [
+                "Are you disappointed about placing second in\nthe tryouts?",
+                "Are you disappointed about placing second in\nthe tryouts?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What drew you to that conclusion?",
+            "choice_data_list": [
+                "I saw your fighting spirit burning in your eyes.",
+                "I saw your fighting spirit burning in your eyes."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My eyes?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You understood that... just from my eyes?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A Yamato Nadeshiko is always modest—a soft expression coupled\nwith a calm demeanor. She must always remain unflappable and\nsolemn."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That is the ideal to which I strive, but..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I must confess, true serenity still eludes me. The anger I feel toward\nmy own weakness is not so easy to quell."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I decided to run of my own volition. The path I mean to master lies on\nthe turf. And to reach its end, to <i>win,</i> I cannot afford to stop running."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So... I should never have relinquished my hold on victory... no matter\nwhat the course of events."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And yet!",
+            "choice_data_list": [
+                "You can't forgive yourself for losing?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...I cannot."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The moment I begin to yield, the path to victory will crumble. In such\na halfhearted state, I cannot in good conscience accept any offer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Put more plainly, I'm being selfish. It is simply my preference."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My apologies, but I should leave—",
+            "choice_data_list": [
+                "All right. I'll come ask you again once you've\nplaced first.",
+                "All right. I'll come ask you again once you've\nplaced first."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Again? You mean to say, you intend on trying to scout me again?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You'll wait for months until I race in the next tryouts?",
+            "choice_data_list": [
+                "Yup!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Um... I..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "How do I put this? Surely you can see I am... not the easiest racer to\ndeal with."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I never compromise, and once I've made a decision, I never change\nmy mind."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Because I was dissatisfied with my results, I've refused every offer just\nso I can take on the tryouts one more time."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Even knowing that, do you mean what you say? You will wait for me?",
+            "choice_data_list": [
+                "I want to help you in your uncompromising\npursuit of victory.",
+                "I want to help you in your uncompromising\npursuit of victory."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, are you absolutely sure? You do realize that should I keep\nfailing to achieve victory, you'll be left without a student to train?",
+            "choice_data_list": [
+                "Except you're definitely winning the next one,\nno?",
+                "Except you're definitely winning the next one,\nno?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, how remarkable. What can I say to that? Hehehe."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see you are skilled at motivating me."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, several months later..."
+        },
+        {
+            "name": "Caster",
+            "text": "Grass Wonder's going for it! She easily overtakes the lead and jumps\nto first!"
+        },
+        {
+            "name": "Caster",
+            "text": "She's ahead! What an astounding push! She's left the pack\nbehind—Grass Wonder takes first plaaace!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder remains determined all the way up to her beautiful\nfinish."
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterward..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You got first, Graaass!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes, I'm rather taken aback."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "What a huge lie! You can't fool me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Anyway, now you can debut with a clear conscience, right? Races are\ngonna be so much hotter! Burning hot! Scorching! Mucho calienteee!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Congrats, Grass! I'm so excited for the day we race together!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I look forward to it as well, hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "After responding to her rivals' words with a warm smile, Grass Wonder\napproaches me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for coming, Trainer.",
+            "choice_data_list": [
+                "You know why I'm here.",
+                "You know why I'm here."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe... yes. I've been waiting."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I should formally introduce myself... My name is Grass Wonder. I hope\nfor your full guidance and support."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Please help me traverse the path I walk to its end."
+        },
+        {
+            "name": "Monologue",
+            "text": "Thus begin my days with the unwavering racer, Grass Wonder!"
+        }
+    ]
+}

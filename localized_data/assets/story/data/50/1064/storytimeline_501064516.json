@@ -1,0 +1,114 @@
+{
+    "title": "Angel vs. Devil",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hmm, what to do, what to do?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot a rather worried-looking Mejiro Palmer with\nDaitaku Helios at a cafe in town."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, if it isn't Trainer! Helios and I were just\nthinking of having some tea."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "What a coinkydink that you're here too! Time to\nbring the party to this cafe!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, for sure, but like...",
+            "choice_data_list": [
+                "What's the problem?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Well, they've got this dessert buffet special going\non right now."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "See? They've got a sign with huge letters saying,\n\"Eat to your heart's content!\" and everything."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But that \"to your heart's content\" part has got me\nshook. There's an angel and a devil duking it out\nin my head right now..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Oooh! Who's gonna win?! I mean, that mountain\nof crepes looks bussin'! That angel's in for a tough\none!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "\"In for a tough one\"? Nah, girl, she's already\ndown for the count!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uuugh! I just wanna chow down on desserts!",
+            "choice_data_list": [
+                "Keep fighting, angel!",
+                "Keep fighting, angel!",
+                "Let us be beguiled by the devil's persuasion\ntogether..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uuugh! I just wanna chow down on desserts!",
+            "choice_data_list": [
+                "Keep fighting, angel!",
+                "Keep fighting, angel!",
+                "Let us be beguiled by the devil's persuasion\ntogether..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, she can't give up! I can't let a sugar rush\ntempt me, not now!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "All right, bye-bye dessert buffet and hello regular\nmenu."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wow, talk about willpower of steel! You know\nwhat, I'll join you in solidarity! Buffet's all yours,\nTrainer!",
+            "choice_data_list": [
+                "Wait, what?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Yeah, I might not be able to indulge in it myself,\nbut seeing you dig in to the yummy sweetness'll\nbe good enough!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eat enough for my bestie and me too! Avenge\nthat devil!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't know how things turned out this way, but I\nend up filling up on dessert while Mejiro Palmer\nmanages to restrain herself."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Omigosh, for real?! I mean, I'm not planning to be\nin devil mode for the rest of my life or anything,\nbuuut..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "YOLO! Time to give in to temptation for a day!\nBetter flag down the waiter! ☆"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Wait! The waiter's gonna actually come over!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Welp... No stoppin' this train now! Let's live it up\ntoday!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we let the devil literally sweet-talk us and\ngorge ourselves on desserts..."
+        }
+    ]
+}

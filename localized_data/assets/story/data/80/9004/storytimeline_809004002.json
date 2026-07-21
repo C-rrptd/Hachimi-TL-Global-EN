@@ -1,0 +1,44 @@
+{
+    "title": "同期の桐生院トレーナー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, I see <chrname> back\nto her dorm after the day's training runs a little\nlonger than expected. Just after we say our\ngoodbyes..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>!\nNice to see you! Are you heading home now?",
+            "choice_data_list": [
+                "Yep!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I see! I just saw Meek off and was thinking about\nheading back to the trainer dorms myself, so..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "If it's all right with you, why don't we go back\ntogether?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Unless you think that's a little too—how should I\nput this—chummy? We are coworkers, after all...",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Hehe... Glad to hear it."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "All right. Shall we?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We talk about various things on the way back to\nthe dorms."
+        }
+    ]
+}

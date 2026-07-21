@@ -1,0 +1,26 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "I haven't forgotten how it felt losing my last\nrace..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But I've worked to overcome my weaknesses since\nthen.",
+            "choice_data_list": [
+                "And you've got the perfect strategy!",
+                "And you've got the perfect strategy!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah. I've memorized everything from the course\nand track conditions to the characteristics of my\nopponents."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "First place will be mine today."
+        }
+    ]
+}

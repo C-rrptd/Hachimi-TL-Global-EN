@@ -1,0 +1,182 @@
+{
+    "title": "夢を追い続ける限り",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I ask Trainer Kiryuin to join me for a day out and\nabout, and she accepts. The two of us are idly\nwalking around, when..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, what's this?"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "No good! Give it more heart, and put your back\ninto it!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Huff, huff, huff...</i> Y-yeah... I'll try again!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "She's working hard... but as far as the trainer's\nadvice goes...",
+            "choice_data_list": [
+                "It's not just about spirit and guts, right?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That's right. As the Trainer's Handbook says:\n\"Motivation and willpower only have meaning\nwhen paired with proper technique.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Still, I can't interfere with his training metho—"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "C'mon! Get a hold of yourself! This next race is\nmy last chance!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...!",
+            "choice_data_list": [
+                "Trainer Kiryuin?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Excuse me, Trainer. Sorry to interrupt you in the\nmiddle of your work."
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Wha?! Trainer Kiryuin?!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Would you mind explaining to me what you just\nsaid? What do you mean by \"last chance?\""
+        },
+        {
+            "name": "New Trainer A",
+            "text": "W-well, not that it's any of your business, but...\nmy evaluation scores are falling because of her\nrace results!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "If my contract with Tracen Academy is\nterminated, my career—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You are a trainer who should be guiding\nUmamusume towards their dreams, not placing\nyour burdens on them!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "What are you—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You say this is your final chance? Give me a\nbreak!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "A trainer should not force their own dreams upon\ntheir racers."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Racing is a once in a lifetime opportunity that\ngreatly influences the rest of their lives."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "That's why we're here—in order to guide them."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "<i>We</i> are the ones who take responsibility for <i>them,</i>\nnot the other way around!"
+        },
+        {
+            "name": "New Trainer A",
+            "text": "Th-that's..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "If you call yourself a trainer, then do your part to\nsupport your trainee's dreams!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "As long as you continue to chase those dreams\ntogether, there should be no \"last chances.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Even for you."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I'm sorry you had to witness that. I acted rashly."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But... I couldn't just stand by and remain silent.",
+            "choice_data_list": [
+                "No apologies needed. You taught me an\nimportant lesson."
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "What?! H-hardly!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "You already knew all that, didn't you,\nTrainer <username>?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I can tell just by looking at you. You put your\nUmamusume's needs above all else."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "...That being said, it's an honor to hear you say\nthat."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Being recognized by someone I believe in warms\nmy heart greatly.",
+            "choice_data_list": [
+                "You... believe in me?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Huh... Oh! Y-yes! Uh... I didn't mean for it to\nsound weird or anything."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "What I mean is, I believe in you as a peer, as a\nfellow trainer, and as a friend!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Of course, it doesn't have to be only that. For\ninstance, being able to talk like this is a si—"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah... E-excuse me. Please forget I said anything..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems that Trainer Kiryuin has a lot of faith in\nme."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "It's no big deal, really. Yelling like that is proof\nthat I'm still immature emotionally."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I can't keep doing that. For Meek's sake as well, I\nneed to keep growing..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I should apologize to that trainer as well."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm sure Trainer Kiryuin's sincerity will reach\nwhoever she's speaking to, even the trainer\nbefore."
+        }
+    ]
+}

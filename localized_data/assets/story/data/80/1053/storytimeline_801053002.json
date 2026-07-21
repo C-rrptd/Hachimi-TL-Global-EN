@@ -1,0 +1,126 @@
+{
+    "title": "トラブル、上等っス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm passing through the school gates..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "It's the head of the disciplinary committee,\nBamboo Memory! I wonder if she's doing rounds?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "She almost looks... sinister. I bet she's a real\nstickler when it comes to school rule violations\nand stuff..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hm? Oh, greetings! You're one of the school\ntrainers, right?",
+            "choice_data_list": [
+                "Hey. Are you out here doing rounds?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Nope! Recently, there've been reports of a\nsuspicious woman in a white coat and mask\nrunning around campus, so I'm on the lookout!",
+            "choice_data_list": [
+                "Th-thank you for your service.",
+                "Th-thank you for your service."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No prob! Just doing my duty as a member of the\ndisciplinary committee!"
+        },
+        {
+            "name": "Disciplinary Committee Member",
+            "text": "Urgent news, Bamboo!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What is it?!"
+        },
+        {
+            "name": "Disciplinary Committee Member",
+            "text": "Gold Ship started practicing a giant swing\nwrestling move in the central plaza all of a\nsudden..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "That Golshi! She's always causing a ruckus!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ugh, it'll be trouble if she makes herself dizzy,\nfalls over, and hurts herself..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I shall stop her at once!",
+            "choice_data_list": [
+                "You've got your work cut out for you, huh?",
+                "You've got your work cut out for you, huh?",
+                "You'd better hurry to the scene of the crime!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I shall stop her at once!",
+            "choice_data_list": [
+                "You've got your work cut out for you, huh?",
+                "You've got your work cut out for you, huh?",
+                "You'd better hurry to the scene of the crime!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "No worries! This is nothing, really!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Honestly, it's a good thing when people start\ncausing trouble because it means they're in good\nspirits!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I just need to keep an eye out and make sure they\ndon't do anything totally off the charts. Rest\nassured—I've got this."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Well, some trouble still catches me off guard, but\nit also adds some zest into my life. Hehe!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory has a big smile on her face as\nshe runs off."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Roger that! If I make a straight dash toward the\nplaza, I'll get there in no time!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "If it's not too much trouble, could you watch over\nthis area for me?",
+            "choice_data_list": [
+                "Piece of cake!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Whoa, thanks! I owe you big time!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right, time to earn my keep as the\nno-nonsense leader of the disciplinary committee\nand get things under control!"
+        },
+        {
+            "name": "Disciplinary Committee Member",
+            "text": "Bamboo! Wait for me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory sprints off, leaving the other\ncommittee member frantically chasing after her."
+        }
+    ]
+}

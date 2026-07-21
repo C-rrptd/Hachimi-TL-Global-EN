@@ -1,0 +1,89 @@
+{
+    "title": "お大事に！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Shakur gets injured during training, so I take\nher to the infirmary."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch. Might've been thinkin' too much while I was\nrunning. Such a dumb mistake."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But whatever. I can overcome little irregularities\nlike this, no problem."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway, I'm all patched up. Let's get back to\ntraining.",
+            "choice_data_list": [
+                "You should get some proper rest.",
+                "Sure, but let's keep it light."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That supposed to be a joke? Injuries like this are\na dime a dozen.",
+            "choice_data_list": [
+                "An injury is an injury. If we're talking in binary\ncode, it's a 1, not a 0."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch... Spare me the stupid analogies, will you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It's a waste of time talking to you. I'm gonna head\nback to my room and compile data. I take it you\ndon't have a problem with that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur returns to her dorm looking\ndissatisfied."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll be the one to decide whether to take it easy or\nnot. Either way, efficiency is gonna take a hit."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we make our way to the track."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Nng."
+        },
+        {
+            "name": "Monologue",
+            "text": "I get her to start with a light jog, but Air Shakur's\nface twists in pain."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch... So this isn't gonna go my way either, huh?",
+            "choice_data_list": [
+                "It's probably best if we call it a day.",
+                "It's probably best if we call it a day."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Way to state the obvious. Geez..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur returns to her dorm, grumbling\nunhappily."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It should be fine if I keep it light. That way I won't\nlose my edge."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "While we're at it, let's get some data on my\nperformance while injured."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur keeps her training light and takes care\nnot to aggravate her injury."
+        }
+    ]
+}

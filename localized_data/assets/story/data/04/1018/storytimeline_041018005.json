@@ -1,0 +1,172 @@
+{
+    "title": "第1話",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Learning that Air Groove is overseeing a dance lesson for a group of\nother students after school, I decide to drop by and watch."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Stay in formation! First the box step, then the turn! Maintain eye\ncontact!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're finished if you fall behind tempo! Next is a heel step. Get\nready to come forward!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While her tone is stern, the instruction is precise. This is an Air\nGroove dance lesson through and through."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Okay, let's switch to pair training. Get with a partner and begin the\nroutine!"
+        },
+        {
+            "name": "The Three",
+            "text": "Okay!",
+            "choice_data_list": [
+                "This is some high-level stuff.",
+                "This is some high-level stuff."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? Were you always there?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "The winning concert is an integral part of any Umamusume's duties.\nNaturally, dance practice is going to be tough."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "It's so awesome to get lessons from <i>the</i> Air Groove!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Can't be sloppy in front of her! Let's do this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The excited dancer stumbles out of line."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hey, keep your eyes on—you'll fall!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Eek!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove rushes over to cushion the girl's fall."
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Ow ow ow..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Waaaahhh! Air Groove! Are—are you okay?!",
+            "choice_data_list": [
+                "Air Groove?!",
+                "Air Groove?!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'm fine... This is nothing to be alarmed by."
+        },
+        {
+            "name": "Monologue",
+            "text": "After some initial resistance, I convince Air Groove to come with me\nto the infirmary."
+        },
+        {
+            "name": "Monologue",
+            "text": "The physician declares it a minor sprain. There is a little swelling, but\nfortunately there's no damage to the ligaments or bone."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Then there's nothing stopping me from getting back to work. If you'll\nexcuse me, I have a lesson to teach.",
+            "choice_data_list": [
+                "Wait!",
+                "Wait!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "What do you want? Those girls are counting on me for instruction.\nDon't get in my way.",
+            "choice_data_list": [
+                "I'd prefer if you took better care of yourself."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Better care? I think I've got that under control, thank you. You've no\ngrounds to be telling me how to take care of myself."
+        },
+        {
+            "name": "Air Groove",
+            "text": "An empress cannot abandon those in need for anything. A mere\nscratch is no reason to—",
+            "choice_data_list": [
+                "You're hurt! What could be more important than\nthat?!",
+                "You're hurt! What could be more important than\nthat?!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "B-back off! I could hear you where you were standing before.",
+            "choice_data_list": [
+                "Ah, sorry.",
+                "Ah, sorry."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh please, stop with that face. Geez, what's gotten into you?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I suppose...\n<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fine. I'll take the rest of the day off and let them know we'll resume\npractice at a later date."
+        },
+        {
+            "name": "Air Groove",
+            "text": "It won't do for an empress to allow her audience to see her in\nanything less than an ideal state."
+        },
+        {
+            "name": "Air Groove",
+            "text": "...And I suppose causing anxiety for one's trainer isn't very\nempress-like either.",
+            "choice_data_list": [
+                "Air Groove... thank you!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "All right, enough talk! I'm going to nap here for a while."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well, off you go then. Do you want me to get some rest or not?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I happily allow myself to be kicked out of the infirmary."
+        }
+    ]
+}

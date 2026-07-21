@@ -1,0 +1,81 @@
+{
+    "title": "無茶は厳禁！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross got injured during training, so I've\nhurried her to the infirmary."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Owww...",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Honestly, I'm not doin' too great, but at least it's\nnothin' the infirmary can't fix up for me."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Still, I don't think trainin's in the cards today... It\nsucks, but I think I should stay put for now."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But while I'm restin' up, everyone else is gonna be\nout there makin' progress..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...I mean, some athletes tape up their injuries 'n\ntough it out for races, even when it looks bad."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Compared to that, this is barely a scratch! A li'l\nrunnin' won't hurt, will it?",
+            "choice_data_list": [
+                "I'm not letting you run a single meter.",
+                "...Okay. But you have to be careful."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "C'mon, why're you bein' so stern all of a sudden? I\njust wanted to test the waters."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I guess trainin' really is off the table today... All\nright, I'll stay put and rest to speed up the healin'\nprocess..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sounding frustrated, Tamamo Cross drifts back to\nthe dorm."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I just wanna test the waters a bit, yeah? I promise\nI won't go overboard."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ow, ow, owww. Dammit, I think I just made my\ninjury worse."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Owwwww! Urk... I would've been better off stayin'\nput till it was all better..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After pushing herself too hard, Tamamo Cross\nworsens her injury. It ends up taking a while for\nher to fully recover."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I just wanna test the waters a bit, yeah? I promise\nI won't go overboard."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Oh! I think I can handle some light joggin'! The\nschool nurse sure knows her stuff!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking care not to worsen her injury, Tamamo\nCross manages a light training session."
+        }
+    ]
+}

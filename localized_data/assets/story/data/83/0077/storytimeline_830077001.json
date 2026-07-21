@@ -1,0 +1,235 @@
+{
+    "title": "Ayabe Shows Concern",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Admire Vega",
+            "text": "Urara... Please think this through again."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Don't worry, it'll be fine! I don't know them, but\nI'm sure they're a good person!",
+            "choice_data_list": [
+                "What's going on?",
+                "What's going on?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, Prez wants me to meet someone I've never\nmet before!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I know the student council is involved, but you\nstill ought to know what you're getting into to be\nprepared.",
+            "choice_data_list": [
+                "Yeah, that worries me too. Let me go with you,\nUrara.",
+                "Yeah, that worries me too. Let me go with you,\nUrara."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Okay! Then you come too, Ayabe! Hurry!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, wait, why am I—"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "And so, Urara, I want you gorgeously adorning\nthe posters I'm making to advertise my inn!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "I saw you on TV, during the Umamusume karuta\ntournament! The confidence and grace you\nshowed is perfect for representing this\nestablishment!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yippee! I'll do my best, of course!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Thank you so much! Now that you're on board, I'd\nalso really like to include that girl who suddenly\njoined partway into the tournament!",
+            "choice_data_list": [
+                "The girl who joined partway in?"
+            ]
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Yes. The Umamusume who showed up in the latter\nhalf of the karuta competition. She had this\ndignified prowess about her."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "If I had to describe her, I'd say she was just like...\nthis fine lady... here..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "Could it be?"
+            ]
+        },
+        {
+            "name": "Inn Owner",
+            "text": "I-it's you! What a miraculous coincidence! Please,\nyou <i>have</i> to join the photo shoot for the posters!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'm sorry, but no."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "<i>Gasp!</i> ...Is, is that so? I understand..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whaaat? But why? You should definitely join in,\nAyabe! It's gonna be so much fun!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh...</i> There are plenty of other people more\nsuited to this than I am."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Like someone positive who makes you happy just\nlooking at her. You'd attract way more customers\nby employing someone like that. Right?"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "That's..."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "That's wonderful!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "You really thought deeply into what would be\nprofitable for my business! How considerate of\nyou!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "During the tournament, what kept me on the\nedge of my seat was precisely that contemplative\nexpression of yours, so focused on the match!\nYour cooperation is just the catalyst the inn\nneeds for business to boom!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "So please, won't you reconsider? I beg of you!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Of course, I'll see to it that there are no\nrepercussions to you, your races, or anything else!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Even still... I...",
+            "choice_data_list": [
+                "Why don't you think it over once more?",
+                "I can't wait to see the completed posters!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Not you too... Geez..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "So you're coming along?! Yay, a photo shoot with\nAyabe! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What do you wanna do at the inn? Hmm, I\nwonder what they have."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I know! Hot springs! They have one, right?! Let's\nget in together! Hot springs, hot springs! ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Urara, you do know we aren't going there for\nfun, right?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Don't you want to soak in the hot springs?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I do—wait... Whether I want to or not is besides\nthe point."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I knew it! Of course you wanna enjoy the hot\nsprings! ♪ Let's dive in with a splash!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Urara... For the last time..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>...Sigh.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Admire Vega agrees to model for the\nposters."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Don't worry! I'll be there with you, so you'll do\njust fine!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...It's not like I don't want to do it. That's not the\npoint..."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Then, please! That indescribable aura of\nyours—no, that bold charm like no other—I must\ncapture it in my posters!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "I'm confident that you symbolize the inn's\nmotto—\"Hospitality with Sincerity\"! Not to\nmention the plethora of other reasons why I'm\nasking you!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Sigh...</i> I get it, I get it. You don't have to keep\nasking."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "D-does that mean—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'll do it. Though I don't think I'll measure up to\nyour expectations..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't act like I already said yes. You can stop it\nwith the flattery, too.",
+            "choice_data_list": [
+                "It's not flattery though."
+            ]
+        },
+        {
+            "name": "Inn Owner",
+            "text": "It's true! The charisma you're presenting in this\nvery moment would inspire thousands if captured\nin my posters!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Like I said..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ooh ooh! I know lots of places where Ayabe looks\ncool! Like, the other day, while we were out\nrunning..."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Yes! I see! It's guaranteed my posters will turn out\nfantastic!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...All right, fine! I get it, okay?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If you're going to be this annoying, it'll be less of\na hassle if I just do it."
+        }
+    ]
+}

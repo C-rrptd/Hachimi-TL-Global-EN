@@ -1,0 +1,46 @@
+{
+    "title": "夏合宿（2年目）スタート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the first day of summer camp. It's a\nperiod of intense training where racers can\nimprove their skills."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Current temperature—twenty-eight degrees\nCelsius. Relative humidity—seventy-eight\npercent. This is an average summer day in July."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The heat is expected to grow more intense in the\ncoming days. Please take adequate precautions\nagainst heatstroke.",
+            "choice_data_list": [
+                "You too!",
+                "You too!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Yes, Trainer. We must ensure that we hydrate\nperiodically."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I've brought you a refreshment."
+        },
+        {
+            "text": "Mihono Bourbon takes out a water bottle from\nsomewhere and hands it to me.",
+            "choice_data_list": [
+                "Th-thanks!"
+            ]
+        },
+        {
+            "text": "And so begins my blistering summer camp with\nMihono Bourbon."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "After summer, it'll be time for the Kikuka Sho..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You can do this, Rice... Come on!"
+        }
+    ]
+}

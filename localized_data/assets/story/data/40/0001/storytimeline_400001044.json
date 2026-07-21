@@ -1,0 +1,76 @@
+{
+    "title": "I'm Here to Challenge You",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Happy Meek",
+            "text": "I'm here... to challenge you.",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Oh, I'm sorry about that! Um, would you grant us\na little of your time?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "After our aquarium outing the other day, Meek\nand I got to talking about a lot of things, and she\nsaid something that hit me hard."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "\"I want to win it all with you. So I'll do everything\nI can to make that happen.\""
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So I think that's why she came up to you all fired\nup like that. Do I have that right, Meek?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Yep."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "You guys are like role models to us."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "And you're rivals, too. Our rivalry pushes us to\ngrow."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "If we challenge each other, we'll get stronger.\nWay stronger, I bet."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "That's why I'm making the first move. I'm here to\nchallenge you."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Um... I'm on board with Meek and I'll also give it\nmy all!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I think it'll be good for all of us to compare\ntraining results and stats and such..."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "So if it's not too much trouble, will you consider\naccepting her challenge?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just as she says, I do believe it would be\nbeneficial for <chrname> too.",
+            "choice_data_list": [
+                "Sounds good. Let's do it!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Thank you so much! Isn't that great, Meek?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Thank you. I'll do my best."
+        }
+    ]
+}

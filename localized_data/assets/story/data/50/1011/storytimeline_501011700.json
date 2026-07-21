@@ -1,0 +1,41 @@
+{
+    "title": "寝不足で……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day after Grass Wonder's day off, I head over\nto my office only to find..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Zzz... Zzz...</i>",
+            "choice_data_list": [
+                "Are you asleep?",
+                "Are you asleep?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh! I-I'm sorry. I only meant to take a quick rest\non the sofa.",
+            "choice_data_list": [
+                "Did you get enough sleep yesterday?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I sort of lost track of time while gazing at\nmy moss terrarium last night."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "There is an art to growing moss in a glass tank,\nand it brings me joy to observe its daily progress."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But I need to take care not to let it cut into my\nsleep schedule... <i>Yawn...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems Grass Wonder stayed up late rather than\nget a proper night's rest."
+        }
+    ]
+}

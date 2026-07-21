@@ -1,0 +1,239 @@
+{
+    "title": "羽ばたけコンドル！世界最強の空へ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As promised, El Condor Pasa shows up for training the following day."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "She's fearless, she's bold, she's El Condor Pasa! Having overcome her\ninjury, she makes her triumphant return to the ring!",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, hello and good morning. You're awfully calm, Trainer."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So I gotta know! What kind of extremo training are we doin' today?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Is it gonna be thirty laps at top speed?! Or maybe hill sprints until the\nsun goes down?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Running around town while givin' you a piggyback ride doesn't sound\nbad either!",
+            "choice_data_list": [
+                "How about we do some light jogging on dirt\ntoday?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I see, I see, I see! Some light joggin'—"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Wait, whaaat?! Sorry, did I hear you right just now? Trainer, could you\nrepeat that?!",
+            "choice_data_list": [
+                "How about we do some light jogging on dirt\ntoday?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The exact same sentence—word-for-word! What are you, stuck on\nrepeat?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Why?! Why are you doin' this to me, Trainer?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>I</i> am the Umamusume who will one day become the world's strongest\nracer! The condor who will rule over the skies of champions!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Do you really think I have even a second to waste on dillydallying on\nthe ground?!",
+            "choice_data_list": [
+                "Fundamentals are important too, you know?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grr... Urghhh!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...I understand. I'll run—for now. But if you change your mind, tell me\nright away, okay?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>Sigh...</i> How am I supposed to soar the skies with this kind of normal\ntraining?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite her complaints, El Condor Pasa makes her way to the dirt\ntrack and begins running."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Phew... I finished that light jog you wanted me to do, Trainer.",
+            "choice_data_list": [
+                "How are your legs feeling?",
+                "How are your legs feeling?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Qué? Uh, they're fine... No pain at all in either leg."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...Wait, don't tell me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Trainer, you made me do light training because you were worried\nabout my legs?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "C'mon, no need to make a fuss! If I'm gonna prove myself as the\nworld's strongest racer, then we don't have time to worry about this\nkinda stuff!",
+            "choice_data_list": [
+                "You can't become the world's strongest if you're\ninjured."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Agh. You're right about that, but... But!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'm sad, shocked, even disappointed. I was <i>really</i> lookin' forward to\nyour training program, you know."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Could it... Could it be that you never actually believed in me from the\nstart?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Did you think that fundamentals training was just right for a\nloudmouth like El Condor Pasa?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I bet you don't even believe that I could become the world's strongest\nracer, do you?!",
+            "choice_data_list": [
+                "No, I do want to prove that you're the\nstrongest!",
+                "No, I do want to prove that you're the\nstrongest!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Urk! S-such fiery eyes! That's the passion I know and love!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "B-but now I'm even <i>more</i> confused! If what you said is true, then\nwhat's this training for?!",
+            "choice_data_list": [
+                "It's to condition your body into becoming the\nworld's strongest racer!",
+                "It's to condition your body into becoming the\nworld's strongest racer!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Condition my body?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa is still growing. If she pushes herself too much now,\nthere's a chance she might develop a chronic injury."
+        },
+        {
+            "name": "Monologue",
+            "text": "I explain to her that's why I want her to do training that suits her\ncurrent strengths so that one day, when she's ready, she'll have a\nbody ready to truly become the world's strongest racer."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...I see. I see, I see—I totally understand."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Um, actually, you lost me with all the lingo in the middle. But at the\nvery least..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I get that you're serious about training me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So... there's something I want to ask you. And I want you to put your\nall into this answer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The world's strongest racer—she flies across the turf at the speed of\nlight!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And her name is?!",
+            "choice_data_list": [
+                "El Condor Pasa!"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Correct! Bueno!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You replied with zero hesitation, which means you really do believe in\nme!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa flashes me a satisfied smile."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hm... Why don't we do this again from the top?",
+            "choice_data_list": [
+                "From the top?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Just wait riiight there!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...Here I go!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Blam! The lightning-quick Umamusume who runs through storm and\nsquall! Her name—El Condor Pasa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Also known as... your new trainee! She's here and reeeady to\nruuumble!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "And on that note... Trainer, I'm looking forward to our new\npartnership!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I took my first step towards soaring the skies with El Condor\nPasa!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Now, with that over, let's get back to training! Wanna run with me,\nTrainer?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Picture it—beside the world's strongest Umamusume stands her\ntrainer, the world's strongest muscle behemoth! I think we could make\nit work, don't you?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Ah! Wait up, Trainer! Don't be like that! Come back! Why are you\nrunning?!"
+        }
+    ]
+}

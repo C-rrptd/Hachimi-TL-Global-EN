@@ -1,0 +1,240 @@
+{
+    "title": "大地から顔を出して",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Academy Nurse",
+            "text": "You'll probably need to focus on rehabilitation for a while. I'll have a\ncar brought around to take you to the hospital, just in case."
+        },
+        {
+            "name": "Academy Nurse",
+            "text": "I know you're starting to train in earnest, but you're still growing.\nPushing yourself too hard will have immediate repercussions on your\nbody. You know that, right?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Yes."
+        },
+        {
+            "name": "Academy Nurse",
+            "text": "Good. You'll be fine—with proper rehabilitation, you'll be training\nagain before you know it. But you have to take it easy for now, all\nright?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Yes ma'am."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "During a training period, I spot Nishino Flower. She's putting more\nweight on one leg; it's clear at a glance that she's injured."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh...",
+            "choice_data_list": [
+                "Is your leg all right?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer... You said I gave you courage... back then..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But... I..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...I'm sorry!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With tears in her eyes, Nishino Flower flees."
+        },
+        {
+            "name": "Monologue",
+            "text": "She shouldn't be running with that injured leg... Worried, I run after\nher."
+        },
+        {
+            "name": "Monologue",
+            "text": "I chase after her tiny form in the distance. Finally, she stops."
+        },
+        {
+            "name": "Monologue",
+            "text": "Before me is a breathtaking field of flowers, colorfully blooming as far\nas the eye can see."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You came after me. I'm sorry for running away...",
+            "choice_data_list": [
+                "What is this place?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "This... is my favorite spot."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Looking at the flowers here always cheers me up. They make me feel\nlike I can keep going."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Even the smallest flowers fill me with courage. That's why... I want to\nbe just like them. That's why I come here."
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "It's hard to describe, but seeing you race gave me a burst of\nconfidence. It was really something, seeing our little treasure shine so\nbrightly."
+        },
+        {
+            "name": "Flower's Father",
+            "text": "Exactly. You gave us courage. There's no need to hide ourselves, to\nmake ourselves small—we should be holding our heads up high\ninstead."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The people I love told me that I gave them courage."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oho! If a decisive call is what you desire, then why don't we race\nagain? And this time, I'll make sure there'll be <i>zero</i> doubts about the\nwinner!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. When petals dance on the breeze, they sometimes obscure\none's view. I suppose, then, I have no choice but to become a gale."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Even though I was overwhelmed by the gap in our abilities, I still tried\nto do my best."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But look, I only ended up hurting myself. I knew I was pushing myself\ntoo hard, but I still...",
+            "choice_data_list": [
+                "Why <i>did</i> you push yourself so hard?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm still a kid, but... <i>Sniffle.</i> I-if... <i>Hiccup</i> If I tried hard enough, I\nthought I could catch up with everybody. I... I..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I wanted to... make my dream come true... <i>Sob.</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower sobs, her small shoulders shaking. Her frustration at\nnever being enough must have been building up for a while now."
+        },
+        {
+            "name": "Monologue",
+            "text": "It would be easy to tell her that she doesn't need to \"catch up\" with\nanyone. However, right now, the emotion that's bubbling up inside of\nme is..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sob.</i> I... I'm... so sorry...",
+            "choice_data_list": [
+                "Let me be your trainer!",
+                "Let me be your trainer!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?",
+            "choice_data_list": [
+                "You gave me courage too.",
+                "You gave me courage too."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Nishino Flower again about how her actions cheered me up and\ngave me hope."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's why she can—no, she <i>will</i> make her dream come true. She'll\nbloom as flowers do, bringing smiles to me and everyone else around\nher.",
+            "choice_data_list": [
+                "You're not ready to give up on your dream yet,\nare you?",
+                "You're not ready to give up on your dream yet,\nare you?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If she had given up, she would never have come to this place. She\nwouldn't have sought solace from the flowers."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I... um...",
+            "choice_data_list": [
+                "I want to help you achieve your dream."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I... I don't want to give up! No, I <i>won't</i> give up!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You said I gave you courage, right? Did you... really mean it?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...! Thank you! I... I'll do my best, so... please..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Help me achieve my dream!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All smiles once more, Nishino Flower returns to the academy.\nTomorrow, we'll begin working together to make her dream a reality."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thanks for everything. I can walk the rest of the way to class by\nmyself.",
+            "choice_data_list": [
+                "We should probably swing by the infirmary\nfirst..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, I'll be fine going there on my own. Please, there's no need to\nworry. I made you run after me, so I couldn't possibly ask you to do\nmore..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Heeey, Flower. You on your way to the infirmary too? Hope there's\nenough beds for us both. I could use a nap. <i>Yawn.</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? You're going to sleep in the infirmary, Sky? That's unusual. On\nclear days like today, you always nap outdoors..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With a straight face, Seiun Sky claims she wants a change of pace,\nbut her gaze flicks briefly to Nishino Flower's leg.",
+            "choice_data_list": [
+                "I guess you're in good hands."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Whatever do you mean?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, wait up Sky!\nI'll see you tomorrow, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seiun Sky strolls away, waving a casual goodbye. Nishino Flower\nslows down to match her pace. I watch them go, letting out a relieved\nbreath."
+        }
+    ]
+}

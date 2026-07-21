@@ -1,0 +1,33 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Blue, blue, <i>blue!</i> Blue will calm me!",
+            "choice_data_list": [
+                "Wh-what's wrong?",
+                "Wh-what's wrong?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Everything's wrong! My heart's been pounding\nlike a drum and it just won't calm down!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I'm looking at something blue to try and calm\nmyself down, but it's not working at all! And the\nwaiting is stressing me out!",
+            "choice_data_list": [
+                "Maybe that just proves that you're eager to get\ngoing."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...I'm eager? Oh, you're right! It's because I want\nto run so badly I can't wait a second longer!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Okay, in that case, I'll go with red for passion\ninstead! Time to give it all I've got! ☆"
+        }
+    ]
+}

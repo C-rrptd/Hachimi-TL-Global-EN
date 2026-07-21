@@ -1,0 +1,48 @@
+{
+    "title": "グッドエンディング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Tazuna pays a visit to my office."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hello, Trainer! I hope I'm not interrupting\nanything!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Only a handful of students at the academy have\nbeen able to find such success over the past three\nyears."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm so happy that I could watch over you both this\nentire time! ♪",
+            "choice_data_list": [
+                "Thank you for working so hard for our sakes!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Not at all... Anyway..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Would you and your trainee care to join me after\nthis?",
+            "choice_data_list": [
+                "At the... usual spot?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Yes, the usual spot! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But let's buy some apples for everyone first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Afterwards, the three of us feast on ramen and\npan-fried dumplings."
+        }
+    ]
+}

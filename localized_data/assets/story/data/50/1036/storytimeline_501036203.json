@@ -1,0 +1,274 @@
+{
+    "title": "日本ダービーにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The fated day of the Japanese Derby has arrived.\nParcae's calculations have yet to bring the\nseven-centimeter gap down to zero."
+        },
+        {
+            "name": "Monologue",
+            "text": "The venue bustles with spectators here to see the\ncrowning of a Derby champion. While the stands\nswell with anticipation and excitement..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The racers waiting on standby are mired in a\nthicker than usual blanket of anxiety and tension.\nOne particular competitor seems especially\nagitated."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "E-excuse me... Air Shakur? I'm currently\nconducting pre-race interviews and was\nwondering if—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whaddya want?!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "I'm so sorry for bothering you!"
+        },
+        {
+            "name": "Trainer A",
+            "text": "Whoa, Air Shakur certainly seems to be in a mood..."
+        },
+        {
+            "name": "Trainer B",
+            "text": "Nah, that's just how she always is. You can't really blame\nher for being touchy before a major race, though.",
+            "choice_data_list": [
+                "(It's not that. She's just anxious.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite being fated to lose, she still wants to\nwin... She must be struggling to reconcile the\nreality of the situation with her desires."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Quit that."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You've been starin' at me like an idiot for ages,\nand it's seriously pissin' me off. If you got\nsomethin' to say, say it.",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch...",
+            "choice_data_list": [
+                "(There must be something I can do...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She managed to identify the seven-centimeter\ngap and also whittle it down to three all on her\nown. Is there really anything I can even say to\nher?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I believe that if I do what I must, the two of us will\nsee eye-to-eye one day."
+        },
+        {
+            "name": "Monologue",
+            "text": "Do what I must... As a trainer, I need to assuage\nShakur's nerves so she can take on the race with\nconfidence."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If people want to take up all the oxygen in the\nroom makin' noise, then I'll just keep\nbrainstorming solutions till the very last second."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Just three more centimeters... Just three more\n<i>measly</i> centimeters... If I can get this down to\nzero..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Screw it. I'm redoing it from scratch."
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't have time to second-guess things. If I want\nto help her, I have to believe in myself and take\naction.",
+            "choice_data_list": [
+                "(There's something I want to say to her.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If I take responsibility for what I tell her and am\nprepared to see it through, Air Shakur should be\nwilling to hear me out."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Dammit! Again with this stupid 991031021222\nnonsense! Go away already!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I can't believe even you're hell-bent on tickin' me\noff, Parcae!",
+            "choice_data_list": [
+                "Shakur!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Finally got the nerve to speak up?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Go ahead, then. I'm all ears. Not like I can't guess\nwhat you're about to say."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You want me to shut up, right? You think I'm\npathetic for getting all worked up like a total\nidiot, don't you?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I bet you think everything I've done so far has\nbeen for naught and that I should just give up and\naccept my fate."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then again, knowin' you, you might just wanna\nsay somethin' about how I should enjoy the Derby\nsince it's a once-in-a-lifetime opportunity."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "We won't know how things'll turn out till it's over\nwith, and it's gonna start all the same, whether I'm\ncalm or not, so the only thing to do is run... Blah,\nblah, blah."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Come on, what're you so scared to say to me,\nhuh? Spit it out already.",
+            "choice_data_list": [
+                "It's normal to be scared.",
+                "It's normal to be scared."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>What?</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The partner she has absolute faith in has\npredicted that she's destined to lose. Of course\nshe would feel scared.",
+            "choice_data_list": [
+                "I know that data is everything to you.",
+                "I know that data is everything to you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In her world and in the reality she lives, that\nforecasted timeline is what will go down in\nhistory. But for me...",
+            "choice_data_list": [
+                "In my reality, you're the strongest Umamusume\never!",
+                "In my reality, you're the strongest Umamusume\never!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It hasn't been long since we first met, but I know\nthe source of her strength stems from all the hard\nwork she's put in over time."
+        },
+        {
+            "name": "Monologue",
+            "text": "Changing your worldview changes what you see.\nI'm not sure my words are enough to convey that,\nbut I have to try!",
+            "choice_data_list": [
+                "The person in front of me is someone who can\nchange her fate.",
+                "The person in front of me is someone who can\nchange her fate."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\n...Is that it?",
+            "choice_data_list": [
+                "Let your tenacity carry you through!",
+                "Let your tenacity carry you through!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nYour logic isn't sound."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm sure you must know something like that would\nnever convince me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So why'd you even bother? You should've let me\nbe, like always.",
+            "choice_data_list": [
+                "Because I'm quite tenacious as well.",
+                "Because I'm quite tenacious as well."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Okay, and?",
+            "choice_data_list": [
+                "I want you to believe in yourself.",
+                "I want you to believe in yourself."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Break free from all the nightmares."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I just told you that kinda talk's not going to\nwork on me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Siiigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Anyway, it's time.",
+            "choice_data_list": [
+                "(I'm sure my words got through.)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I get it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Those dreams are over."
+        },
+        {
+            "name": "Monologue",
+            "text": "I go to put her laptop away after Air Shakur\nleaves, and something on the screen catches my\neye.",
+            "choice_data_list": [
+                "The 991031021222 number isn't there\nanymore."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Not only that, but Parcae has finished some new\ncalculations. And the result is..."
+        }
+    ]
+}

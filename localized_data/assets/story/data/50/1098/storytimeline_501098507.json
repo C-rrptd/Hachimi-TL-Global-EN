@@ -1,0 +1,76 @@
+{
+    "title": "ファンレター",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Copano Rickey has brought me along to a store\nin the mall.",
+            "choice_data_list": [
+                "What did you want to buy here?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Sooo, I need something to keep my fan letters\nin. ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I've been getting letters from all kinds of people\nlately, and those letters don't fit in the box in my\nroom anymore."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Feng shui actually says it's better to get rid of\nletters after a certain amount of time. But there\nare some exceptions."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "If you have letters that make you feel happy, or if\nthey're from people who mean a lot to you, it's\nokay to keep them as long as you store them\nsomewhere that gets a lot of sunlight."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I want to cherish all the letters my fans have sent\nme. ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "One of them said, \"I don't really understand feng\nshui, but your running made me feel so much\nbetter.\""
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "And another letter was from a fan who talked\nabout how I inspired her to start learning about\nfeng shui!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hearing what my fans have to say gives me so\nmuch strength!"
+        },
+        {
+            "name": "Shop Employee",
+            "text": "Thank you for your purchase!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe. ♪ The color, the shape, and the\nbreathability of the material are all <i>perfect!</i> I'll\nput my fan letters in this as soon as I get back to\nmy room!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's pretty big, but once this basket's full, I'm\ngoing to have to get an even bigger one."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh! But what will I do if I get so many fan letters\nthat my whole room fills up?!",
+            "choice_data_list": [
+                "For you, Rickey, that might happen pretty soon."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh! My dad might have some good ideas! Maybe\nI'll ask him the next time we talk."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Well... I'll have to figure something out, but if I\nend up with that many people supporting me, it's\ngoing to be one happy day!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It looks like imagining a bright future has boosted\nCopano Rickey's motivation even higher."
+        }
+    ]
+}

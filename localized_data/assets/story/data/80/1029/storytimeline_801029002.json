@@ -1,0 +1,83 @@
+{
+    "title": "“シチースポット”を目指して",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm out buying supplies..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Gee whiz! Fancy meet'n you here!",
+            "choice_data_list": [
+                "Doing some shopping?"
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "No! I'm out visit'n trendy spots Grass 'n the others\ntold me 'bout!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "But it's my first time 'round here, so I'm all lost..."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I brought a map, but I've been walk'n 'round in\ncircles for a while now...",
+            "choice_data_list": [
+                "Let me take a look at that map... If you want to\ngo here...",
+                "You should use a GPS app.",
+                "You should use a GPS app."
+            ]
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I brought a map, but I've been walk'n 'round in\ncircles for a while now...",
+            "choice_data_list": [
+                "Let me take a look at that map... If you want to\ngo here...",
+                "You should use a GPS app.",
+                "You should use a GPS app."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I look at Yukino Bijin's map and point out the\npath she should take to her destination."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Zoinks! I've been walk'n the wrong way this whole\ntime! It sure would've been bad if I kept going!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "You city folks are someth'n else! Thanks for\npoint'n me in the right direction!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Welp, I'll be off now! Toodles!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The sight of Yukino Bijin exploring with her map\nin hand makes me realize that walking around\ntown might be a good stamina training exercise."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell Yukino Bijin about the app that I like to use."
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Hot dog! Who knew such a handy app existed? It\neven tells ya how t'get to your destination!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "I won't get lost no matter where I go in the city as\nlong as I've got this app!"
+        },
+        {
+            "name": "Yukino Bijin",
+            "text": "Welp, I'll be off now! Toodles!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If you incorporate more efficient methods, you\ncan reach your goal more quickly. This might be\ngood advice for races, too."
+        }
+    ]
+}

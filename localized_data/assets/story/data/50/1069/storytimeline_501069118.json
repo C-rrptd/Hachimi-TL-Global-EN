@@ -1,0 +1,168 @@
+{
+    "title": "それは羨望か,執着か",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After we win the Radio Nikkei Sho, a haughty\nlittle girl suddenly calls out to us."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "You there! Sakura Chiyono O, stop! You're a fan\nof Maruzensky, aren't you?",
+            "choice_data_list": [
+                "And who might you be?",
+                "And who might you be?"
+            ]
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "I'm Maruzensky's biggest fan! I've been her fan\nsince three months ago!",
+            "choice_data_list": [
+                "(That's unexpectedly recent...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't think this little girl could hurt Sakura\nChiyono O, but I keep my eye on the situation\nanyway."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "You've got promise. Anyone who achieves the\nsame feats as Maruzensky is worthy of my\ninterest."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh! You watched me run in the Asahi Hai Futurity\nStakes?"
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "I don't just mean that race! I also saw you in the\nTokyo Sports Hai Junior Stakes, and obviously\nthe Radio Nikkei Sho just now..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh! So you watched all the races that Maruzen\nwon! And I just happened to place first in those\nraces too!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "It all makes sense now... You really love Maruzen\ntoo, just like me! I have so much to talk about\nwith you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, the three of us somehow end up going\nto a ramen restaurant together."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "<i>Slurp, slurp.</i> ...And before I knew it, I was rooting\nfor you as well. You ran pretty well in today's\nrace, too."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow, thank you so much! I felt really good about\ntoday too, actually."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I think I really grasped the secrets of the mile, just\nlike Maruzen..."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "Wow... so everything you do is related to\nMaruzensky! Just like I thought, your passion is\nnothing like other run-of-the-mill Maruzensky\nfans!"
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "I'm guessing you'll be making your grand exit\nafter competing in the sprint in Sapporo? That'll\nbe quite an ending to your career. Hehe, then you\ncan be my first fellow fan and—"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe... no, it's way too soon for me to stop\nrunning. My main goal right now is the autumn\nTenno Sho. I have to race there if I want to\nbecome Maruzen's rival."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "What?"
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "Wait a second... Her rival? You're kidding. You\nwant to go up against <i>the</i> Maruzensky?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yeah. Um, sorry if that wasn't clear..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "I don't want to be her fan. I want to be her rival."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "What are you saying? I thought you loved her and\nlooked up to her?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "You're right. I do love her. And that's why I want\nher to see me as a rival.",
+            "choice_data_list": [
+                "She's working hard every day to make sure that\nhappens.",
+                "She's working hard every day to make sure that\nhappens."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Exactly. As you know, Maruzen's racing abilities\nare incredible. My skills are painfully mediocre\ncompared to hers."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But even if I can't hold a candle to her, I swore to\nnever give up. That's why I'm in the Twinkle Series\nnow."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "And that's why I'm going to race in the autumn\nTenno Sho, so I can show her how strong I am and\nlight a fire in her heart."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "..."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "...I see. I guess we can't be fellow fangirls, then."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "You might love Maruzensky in a different way than I do,\nbut I can tell you still love her..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "The ramen was really good! Um..."
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "I don't mind accepting you as Maruzensky's rival."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Huh?"
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "I said, I accept you as her rival! You're strong and\na hard worker!"
+        },
+        {
+            "name": "Girl with Ribbon",
+            "text": "So go become her greatest rival! Use your love\nfor her to grow stronger, and make her feel that\nlove!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Wow...",
+            "choice_data_list": [
+                "Looks like she's rooting for you too."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Yeah. I never thought one of Maruzen's fans\nwould acknowledge me as her rival..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Thank you. It's such an honor."
+        },
+        {
+            "name": "Monologue",
+            "text": "As the girl turns and runs off, Sakura Chiyono O\ngives her a deep bow of respect and gratitude."
+        }
+    ]
+}

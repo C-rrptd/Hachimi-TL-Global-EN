@@ -1,0 +1,196 @@
+{
+    "title": "キミのアクセサリパーツ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On the way home from an outing, I come across\nsome people looking immensely excited."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "No way! There's going to be a Dee pop-up?! I\nthought he only sold online!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Yeah! Apparently, he also has pop-ups every now\nand again. I heard there'd be one around here!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well, if it isn't Shakur!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fuji! You haven't seen any stalls selling\naccessories around here, have you?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, you mean the Dee pop-up? I was actually just\non my way over there!",
+            "choice_data_list": [
+                "What's \"Dee\"?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Dee is a popular accessory designer. Legend has\nit he once sold out a new release in just one\nminute."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Save the explanations for later! Let's move!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No way, it's really here! I chose the perfect time\nto check the website!",
+            "choice_data_list": [
+                "Do you buy from him often?",
+                "Do you buy from him often?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I guess so. His accessories have to grow on you a\nbit, but once he gets his hooks in you, that's it."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That chain earring is one of his, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "How do <i>you</i> know that?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I enjoy dressing in a variety of styles, so I'm\nalways checking out different tastes."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No kidding..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh, he's selling the ear cuffs!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, those are the ones people say sold out in a\nminute! The silver rings next to them are also very\nrare!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!\nSo, do you know what those are right next to\nthem?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yes. That's the limited-edition anti-eyebrow and\neyebrow set! That's the—",
+            "choice_data_list": [
+                "Oh, that's the eyebrow piercing you have!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This takes me back. I went and got the piercing\ndone professionally the very day it arrived."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I still haven't got an anti-eyebrow piercing done\nyet, but I'm definitely going to one day!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Oh, there are even some items for sale today\nonly! And the design!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Don't tell me! It matches that necklace he used to\nsell, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!\nIt does, right?! I knew it!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm surprised you knew that. You must be a\nhardcore fan!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha, I'm honored by the compliment! But I just\nhappen to have one, so it just clicked.",
+            "choice_data_list": [
+                "It's a really cool design!",
+                "It's a really cool design!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You might actually be able to pull it off as well.\nIt's limited edition, so this might be your only\nchance to get your hands on it.",
+            "choice_data_list": [
+                "Okay, I'll take it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is in a good mood from start to finish,\nand Fuji Kiseki and I have a good time shopping\nwith her."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, I bought more than I expected!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I might've gotten a little carried away, actually. I\nspent a lot, but...",
+            "choice_data_list": [
+                "It's good that you were able to buy what you\nwanted!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, I guess. It was a necessary expense, so no\nregrets."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you consider the effect that having these will\nhave on my performance..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It was a freakin' bargain, if anything.",
+            "choice_data_list": [
+                "That's right!",
+                "Which one are you gonna wear first?",
+                "Which one are you gonna wear first?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "It was a freakin' bargain, if anything.",
+            "choice_data_list": [
+                "That's right!",
+                "Which one are you gonna wear first?",
+                "Which one are you gonna wear first?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hearing you say it makes it sound less\nconvincing..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Meh... I guess it's fine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shopping with Air Shakur has turned out to be an\nextremely valuable experience!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Does it matter? And why do I have to tell you\nanyway?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That's the only answer I get out of her, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I notice Air Shakur trying out each of her new\naccessories over the next few days and looking\npleased."
+        }
+    ]
+}

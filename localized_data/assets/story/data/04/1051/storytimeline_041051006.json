@@ -1,0 +1,234 @@
+{
+    "title": "どうか土に潤いを",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "That was a good session. Um, thank you, Trainer!",
+            "choice_data_list": [
+                "Good work out there!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We're only scheduled to do half a day of training today. I think about\nhow I'm going to spend my afternoon when Nishino Flower speaks."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's already the afternoon..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, I misunderstood what you said about my bentos. I'm really sorry!",
+            "choice_data_list": [
+                "Come again?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'll be more careful from now on, so... Uh... I guess I'll see you\ntomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I wanted to give Nishino Flower money to pay for the lunch\ningredients, but she runs off before I can say a word."
+        },
+        {
+            "name": "Monologue",
+            "text": "What did she mean by misunderstanding? I wish I could ask her, but I\nguess that won't be possible today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that afternoon, I'm walking around the train station when I spot\nNishino Flower doing some shopping.",
+            "choice_data_list": [
+                "I didn't think I'd run into you here.",
+                "I didn't think I'd run into you here."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-yes. I came here to get some new running shoes. Um... Are you out\nshopping too?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "My parents told me it's about time I got some new ones and sent me\nmore money than usual..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "They've been like that even before I entered Tracen Academy. When\nit comes to training, they always go above and beyond in supporting\nme."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mom! Dad! I... I want to run more! I want to enter more races!"
+        },
+        {
+            "name": "Flower's Mother",
+            "text": "Then you have our full support! You'll need a good pair of shoes first.\nAnd you'll also need..."
+        },
+        {
+            "name": "Flower's Father",
+            "text": "A place where you can train and run to your heart's content! We might\nas well buy some land, big enough to build facilities on and—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "They've given me everything I need to run. It's almost to the point\nwhere I wonder if I'm not asking for too much...",
+            "choice_data_list": [
+                "Your parents sound wonderful.",
+                "Your parents sound wonderful."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes! They're so kind. I couldn't be happier to be their daughter!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But... whenever I go shopping on my own, I don't know what to get. I\nhave to use my money wisely and make a good choice.",
+            "choice_data_list": [
+                "Do you want me to tag along?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh? You're in the middle of your own shopping, right? I couldn't\nimpose... You're probably really busy...",
+            "choice_data_list": [
+                "I just came out here for a walk."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Really? Well, then... Um. Okay! If you really don't mind. I'll try not to\ntake up too much of your time!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hmm... Should I get shoes with a bit more weight to them this time? I\ndon't know..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I probably should, especially if I'm going to step up my training.)"
+        },
+        {
+            "name": "Academy Nurse",
+            "text": "You'll probably need to focus on rehabilitation for a while. I'll have a\ncar brought around to take you to the hospital, just in case."
+        },
+        {
+            "name": "Academy Nurse",
+            "text": "I know you're starting to train in earnest, but you're still growing.\nPushing yourself too hard will have immediate repercussions on your\nbody. You know that, right?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Yes."
+        },
+        {
+            "name": "Academy Nurse",
+            "text": "Good. You'll be fine—with proper rehabilitation, you'll be training\nagain before you know it. But you have to take it easy for now, all\nright?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(What if I get into another accident?)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I need to avoid that at all costs. I don't want Mom and Dad to worry,\nand I'm already putting a lot on Trainer's plate!)",
+            "choice_data_list": [
+                "There are other ways to intensify your training."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no need to use resistance equipment for the entire training\nperiod. There are other methods, like wearing weighted cleats, that\nare just as effective."
+        },
+        {
+            "name": "Monologue",
+            "text": "I casually mention that gear can be changed based on Nishino\nFlower's condition at any given time."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh... Y-you're right! Sorry for eating up your time...",
+            "choice_data_list": [
+                "You have nothing to apologize for."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No. You're using your valuable time to help me out while I'm standing\naround overthinking."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you, Trainer. I'll get the regular pair then!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I won't let your advice go to waste. I can't wait to try these new shoes\nout tomorrow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower dashes off to make her purchase."
+        },
+        {
+            "name": "Monologue",
+            "text": "My advice, if you could call it that, was more of an offhand comment,\nbut it seems she's taken it to heart."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's already evening. I'm sorry for taking up so much of your time..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want to wear these shoes tomorrow, so I'll need to break them in as\nsoon as I get home. I'll be using the standard cleats and..."
+        },
+        {
+            "name": "Monologue",
+            "text": "So it's not just my imagination. She <i>is</i> behaving differently than\nnormal. She seems overly concerned about how I'll react."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower always makes an effort to read the room. She thinks\nabout what the people around her want, and goes out of her way not\nto burden anyone."
+        },
+        {
+            "name": "Monologue",
+            "text": "And she's probably doing the same thing with me. However, it's not\nhealthy to keep going like this.",
+            "choice_data_list": [
+                "(I want her to know it's okay to open up to me!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She can share all her burdens with me if she wants. If something's\nbothering her, I don't want her to keep it bottled up. That's part of\nwhat being a trainer is about."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer? Is there something...",
+            "choice_data_list": [
+                "I'll do my best too!",
+                "I'll do my best too!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Huh?! O-okay!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Y-you surprised me...",
+            "choice_data_list": [
+                "Oh, I'm sorry..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "It's no problem. But... Hehe. You're already doing so much for me."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So the least I can do is put in the same effort, so I don't end up just\ntaking from you without giving anything back."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Nishino Flower's smile, I silently vow once more to protect that\nsunny expression."
+        }
+    ]
+}

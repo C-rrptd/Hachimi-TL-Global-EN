@@ -1,0 +1,249 @@
+{
+    "title": "Our Clutch Captain!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Player A",
+            "text": "Ahhh! They're... gonna get our flag! I-it's over!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Frustrated screams echo throughout Tracen Academy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Two teams are vying for victory in capture the flag. Unfortunately, it's\nnot looking so good for one team..."
+        },
+        {
+            "name": "Player A",
+            "text": "Dang it, no matter how many times we try, we just can't get past their\ndefense! Like, they've got no weak points!"
+        },
+        {
+            "name": "Player B",
+            "text": "Ahhh, speaking of defense—look at ours! We're... doomed!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Come on, team... Don't give up!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's okay, we've still got a chance! Defenders, listen up! Dig your\ncleats in and make sure they don't push us any further back—I know\nyou have it in you."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Next, I'll need three people confident in their strength to follow me.\nWe can't hold out forever, so we'll just have to bring the fight to\nthem!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Kita, you're planning on charging through them head-on, right? If\nanyone can do it, it's you!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yup, I got this! I've been carrying portable shrines way heavier than\nme since I was a kid! So check this out, Dia!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Everyone—chaaarge! Today will be <i>our</i> victory! Haaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A miracle unfolds before my eyes. She breaks through the opposing\ndefense before grabbing the flag and scoring. Now <i>that's</i> a\ncomeback!"
+        },
+        {
+            "name": "Player B",
+            "text": "Way to go, Kitasan! Or should I say—our clutch captain?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, thanks! ♪ But I couldn't have done it myself. We won because\nof everyone's hard work! Let's keep this up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a trainer, I can't help but be entranced by her cheerful expression\nand that determined look in her eyes—not to mention her natural\nknack for leadership."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey hey, you're a trainer, right? You've got your eye on her,\ndon'tcha?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Y'know, Kitasan Black—or Kita, for short! I can't wait to see where\nshe'll go. Who would've thought she'd grow up to be such a leader?",
+            "choice_data_list": [
+                "You're... Tokai Teio?!",
+                "You're... Tokai Teio?!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh-heh, so you know who I am. Makes sense. You'd have to live\nunder a rock to not recognize <i>the</i> Invincible Teio!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Y'know, I wonder what kind of racer Kita will be. She used to always\nsay she wanted to be just like me."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah! Teiooooo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Did you see me back there?! Did you see how I ran?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm still nowhere near your level, but I'm giving it my all every day so I\ncan make my debut!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mm-hm, that's the spirit! If you enter the tryouts, I'm sure you'll find a\ntrainer in no time."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Ah, speaking of, you must be a trainer. Nice to meet you—I'm\nKitasan Black!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She deeply bows to me in greeting. Seems like she's got good\nmanners, too."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Oh yeah, Teio! I'm entering an upcoming scrimmage, and my\nchildhood bestie Dia will be there too!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We're running in different races, but we promised each other we'd\nboth win. So, um... would you want to come watch?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah, you betcha! But if I'm coming out to watch, then you better\nshow me some great running, 'kay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Curious myself, I make a mental note to go watch her at that\nscrimmage."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, the day of the scrimmage arrives."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I can win—I've got this. All right, as long as I run with the pack, I'll\neventually overtake them..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wait, what? Huh?! Nobody's... falling behind?! You're kidding\nme—they're speeding up?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kitasan Black frantically tries to catch up to the runners in front. In the\nend... she finishes in third place."
+        },
+        {
+            "name": "Friend A",
+            "text": "Kitasan, nice going out there. We totally thought you had it in the\nbag, though... Are you feeling under the weather?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "H-huh? I really thought that was my race, too... Ah! Dia's race is about\nto start!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The next race features Kitasan Black's childhood friend, Satono\nDiamond."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "So this... is the pace of Tracen Academy. It's about what we\nexpected. Wait for it, wait for it... Almost..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Now! This is my chance! Yaaaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Satono Diamond bursts forward. Right before the finish line, she pulls\nslightly ahead and claims victory."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wh-what <i>was</i> that, Dia?! Um, I mean, I'm happy that you won and all...\nBut wasn't that different from how you usually run?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I totally flubbed up my own running, so I have to know—what's your\nsecret?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well... the races at Tracen Academy are far removed from the\namateur scene. I came in knowing that."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "All I did was utilize what I learned from my family and coach. This <i>is</i>\nwhat've they've been preparing me for, after all."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We've all been working towards one dream—that one day, I'll win a\nG1 race. And I don't plan on letting their efforts go to waste."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "This is our family's dream. Everyone's been waiting for this day—and\nfor all the races still to come—since long before I was even born."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Maybe that's why I feel more relaxed now. I took my first step—made\nmy first ripple in this vast ocean that I must traverse."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I always assumed... that we were the same...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(We were inseparable—playing together, competing with each other,\nsupporting one another... But...)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(I was wrong. Whenever it got dark and we said our goodbyes... Dia\nwas still putting in the work to improve herself afterwards.)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Dia didn't just get lucky today. She and her family worked hard to\nget here. That's why she won—and I...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "I see Kitasan Black gritting her teeth in frustration as she gazes at the\nsky."
+        },
+        {
+            "name": "Monologue",
+            "text": "And yet beneath her frustration, I can sense her determination and\nstrength of will."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I... didn't notice... at all. I didn't understand anything..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "But... but... it's only uphill from here! Sure, I might've lost today, but—",
+            "choice_data_list": [
+                "Um!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "H-huh? Hey, aren't you that trainer from the other day?"
+        },
+        {
+            "name": "Monologue",
+            "text": "For some strange reason—one that I can't even explain myself—I feel\nlike I have to say this now, or never.",
+            "choice_data_list": [
+                "Please, let me be your trainer!",
+                "Please, let me be your trainer!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh? Whaaaaat?!"
+        }
+    ]
+}

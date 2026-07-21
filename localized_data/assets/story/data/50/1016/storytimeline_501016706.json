@@ -1,0 +1,153 @@
+{
+    "title": "得意距離？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Narita Brian and I are on the train home after a\nday out."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, Brian!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Teio..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You heading home?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Yeah..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I see. Where'd you go?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Out. Nowhere worth talking about."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh? Well, I'll be the judge of that..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, that reminds me! I heard something\ninteresting! Listen to this..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Are you heading straight back to the academy,\nBrian?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What're you gonna do once you get back? Eat?\nTake a bath? Train?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Not sure yet."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "C'mon! You gotta work with me here a little! Say\nsomething!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hey, Trainer! What's the topic?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Well, whenever I try and talk to Brian, she just\ngives me a one-word answer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You <i>must</i> know a topic that catches her interest.\nYou're her trainer, after all!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Something to get Narita Brian's attention and get\nher talking...",
+            "choice_data_list": [
+                "How about a race back to the academy?",
+                "How're things going with the student council?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "That's not really a conversation topic..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Great idea! Hey, Brian, let's have a race!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Pass. Sounds like a pain."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Seriously?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...But, I wouldn't mind running <i>with</i> you."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Really?! All right—"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Just not now. I'll make time for it later, even if it's\nbetween training sessions."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay! I'll hold you to it! Don't forget, 'kay? I'm\ngonna ask you every day so you remember."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Don't. That's annoying. We'll still run even if you\ndon't..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we all have a good talk about training\nand racing."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm curious about that too!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'm pretty sure you're always in the student\ncouncil office."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "But no one tells me anything about the actual\nwork."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Like, what is it that you do, Brian? Are you Prez's\nbodyguard or something?"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Is that how you see me? For starters, Rudolf just\nwent and—"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, the three of us enjoy a lively chat\nabout the student council on our way back."
+        }
+    ]
+}

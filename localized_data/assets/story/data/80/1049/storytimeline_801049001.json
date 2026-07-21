@@ -1,0 +1,116 @@
+{
+    "title": "夕暮れにひと勝負",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I make my way into the cafeteria, where I notice a\nsmall crowd huddled around a table scattered\nwith coins."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Go all in, I dare ya. Let's raise the stakes and\nmake things more excitin'.",
+            "choice_data_list": [
+                "What's going on here?",
+                "What's going on here?"
+            ]
+        },
+        {
+            "name": "Students",
+            "text": "Eek! Run away!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Tch, what a shame. And after I went to all this\ntrouble to set this up.",
+            "choice_data_list": [
+                "Don't tell me you were gambling..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hah, not exactly. Just a lil' make-believe using\nchocolate coins as chips."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Casual games over candy aren't against the rules\nnow, are they?",
+            "choice_data_list": [
+                "Sorry... I thought..."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Yeah, I know what ya thought. ...Here, pull up a\nseat."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "If you wanna make it up to me, humor me with a\nround of poker. Five-card draw."
+        },
+        {
+            "name": "Monologue",
+            "text": "With her gaze fiercely fixed upon me, I agree to a\nmatch with Nakayama Festa, and so the game\nbegins."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Shuffle.</i>"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, terrible poker face ya got there. I take it\nyou've got a good starting hand."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "But does it top mine? Here, lemme give ya a\nsneak peek."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, Nakayama Festa starts revealing her\ncards without a shred of hesitation!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Look here. I've got a three, four, five, and a six."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "If my last card's a seven, that's a straight. Not too\nshabby. What're you workin' with over there?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I look down at my three of a kind. If she's telling\nthe truth, she has a better hand than I do.",
+            "choice_data_list": [
+                "I don't like my odds... I better fold.",
+                "She has to be bluffing... I'm all in!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Tch, what a killjoy. So you're the type to lie in\nwait for the right opportunity, huh?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "But I have to admit, you did make the right call\nthis round."
+        },
+        {
+            "name": "Monologue",
+            "text": "She reveals her last card as she says this—a seven\nof hearts. I nearly fell for her ruse!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ya dodged a bullet there. But are ya really\ncontent just playin' it safe? Play like you mean it.\nI want somethin' high-stakes and down to the\nwire."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Puttin' it all on the line and goin' all in, eh? Little\nbetter than throwin' yourself to the wolves..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Still, true victory can only be obtained by those\nwilling to seize it right outta the maw of death."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, she shows me her last card—a four of\nclubs. My gamble paid off!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh. Guess this was worthwhile, after all. To think\nI'd find someone here cut from the same cloth as\nme."
+        }
+    ]
+}

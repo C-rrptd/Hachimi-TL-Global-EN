@@ -1,0 +1,354 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After Seiun Sky and I finish training, we head to\nthe shopping district together."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow, there are a lot of people here today."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Lookie here, it's a raffle!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait a sec, didn't we get something from the\ncashier when we bought our snacks?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, it's a raffle ticket! What a weird\ncoincidence! ☆ Guess we gotta try our luck!",
+            "choice_data_list": [
+                "You can just say you want to do the raffle..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "H-huh?! You saw right through me?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That's too bad. I wanted to make you feel\nthrilled, as if fortune was smiling down on you."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh well. I, of course, wanna win that hot spring\nvacation!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "So the rest is up to you, Trainer!",
+            "choice_data_list": [
+                "You want me to do it?!",
+                "You want me to do it?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Keeping your Umamusume motivated is an\nimportant part of your job! With a hot spring\nvacation as bait, I'll <i>have</i> to do my finest in\ntraining! ☆"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Doesn't that sound appealing? Now go win that\nprize!"
+        },
+        {
+            "text": "With Sky looking over my shoulder, and my heart\npounding rapidly, I pull the raffle lever!"
+        },
+        {
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wooooooo!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You did it! You got the hot spring vacation!",
+            "choice_data_list": [
+                "I won!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You master among trainers! You're bursting with\ntrainer magic!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, when should we go? Tomorrow? The day\nafter?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What if we go right after training one day? It\nwould feel so nice to wash off all that sweat!",
+            "choice_data_list": [
+                "That's not a bad idea.",
+                "That's not a bad idea."
+            ]
+        },
+        {
+            "text": "But then I realize where the conversation is going\nand snap out of it. There's no way we can take a\ncarefree trip to a hot spring right at the start of\nher senior year!",
+            "choice_data_list": [
+                "We'll go once things have calmed down a bit!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Damn, you caught on. And I was so close!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You're such a buzzkill, wasting an opportunity to\nwarm me up for the year!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Didn't I tell you I'll work harder if you give me a\nreward?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Please! If you take me to the hot spring, I really\nwill start training seriously! I promise!",
+            "choice_data_list": [
+                "Let's do it this way..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What?",
+            "choice_data_list": [
+                "First, you work hard, <i>then</i> we go to the hot\nspring!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmph, why am I not surprised?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Then promise me that you'll take me to the hot\nspring once I've worked hard enough.",
+            "choice_data_list": [
+                "I promise!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Really?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You'll do all the necessary preparations before\nthe trip? And you'll treat me like a princess so I\nwon't have to lift a finger?",
+            "choice_data_list": [
+                "Sure I—huh?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "You said sure! ☆ Now I'm sooo excited to put in\nthe effort for that hot spring. ♪"
+        },
+        {
+            "text": "That's how I end up holding onto the ticket for\nthe hot spring vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa, first prize! Amazing!",
+            "choice_data_list": [
+                "Sorry it's not the hot spring ticket."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What are you talking about? This is amazing\nenough!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Man, this hamburger steak looks tasty! ♪ I'm\ngonna chow down on this baby tonight!",
+            "choice_data_list": [
+                "Can you finish all that by yourself?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Um, I'm actually a very impressive Umamusume,\nI'll have you know."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I mean, not that I eat as much as Spe or Grass..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I got it. If you're worried, why don't you join me?",
+            "choice_data_list": [
+                "Can I?",
+                "Can I?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Of course! You're the one who won it after all."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I get the first bite of the carrot! ♪"
+        },
+        {
+            "text": "Afterward, we return to the academy and split the\nhamburger steak, and without hesitation, Sky cuts\nme the larger portion."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Incredible! Just look at aaall these carrots..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What am I even supposed to do with 'em?",
+            "choice_data_list": [
+                "That's a good question.",
+                "That's a good question."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I guess I could hand some out to anyone who\nwants them on campus."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha! I just came up with something even\nbetter. ☆"
+        },
+        {
+            "text": "<i>Chatter, chatter...</i>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "All right now, everyone form a line! How about we\nhear from you first?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Okay! I found the perfect spot to hang up a\nhammock in the next town over!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oooh, that sounds perfect for a nap. For this\nvaluable intelligence, I give you... five carrots!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Yay! Thanks. ♪"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Me next, Sei!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I know, I know. Still got lots of carrots to go\naround, no reason to rush."
+        },
+        {
+            "text": "Looks like Seiun Sky found a new way to gather\ninformation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wowie, one carrot.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What are you apologizing for? I'm crazy about\ncarrots. ☆"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "My motivation level remains stable! But if you\nwanna make this even better..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "How about we get a piping hot potato croquette\nwhile we're here? ☆",
+            "choice_data_list": [
+                "Let's get minced meat ones too."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yay! ☆ You're so generous, Trainer!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Youch, that's hot... <i>Blow, blow...</i>"
+        },
+        {
+            "text": "I watch Sky as she struggles to eat the steaming\ncroquettes with her carrot."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "text": "You obtained: <itemname>",
+            "choice_data_list": [
+                "...I'm sorry."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Haha! No need to apologize. It's a game of luck,\nso nothing we can do about it."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But still..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Don't be surprised if my motivation decreases. ☆",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sorry, Trainer. Maintaining my mood is\nluck-based as well."
+        },
+        {
+            "text": "The next day, sure enough, Seiun Sky shows up\nlate to practice..."
+        }
+    ]
+}

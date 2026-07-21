@@ -1,0 +1,42 @@
+{
+    "title": "レース入着",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. I couldn't get first."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My calculations must be off. I need to fix this bug\nstraight away.",
+            "choice_data_list": [
+                "I thought you did good.",
+                "Let's fix the issues and move on."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Spare me the flattery. I've got no use for results\nout of the expected range."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Well, it's true that some of it went well. I won't\noverlook that data."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Let's get back already. I want to fix my code up\nright away."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Easy for you to say. Try sayin' that again after\nlearning how to debug."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whatever. Try making me a list of all the issues\nyou can think of if you want to help."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you can name even one thing I miss, I'll be\nimpressed."
+        }
+    ]
+}

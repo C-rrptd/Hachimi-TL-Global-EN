@@ -1,0 +1,207 @@
+{
+    "title": "ミソ×ハート",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm out shopping with Taiki Shuttle on a day off,\nwhen..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Sigh...</i> What should I do? This whole trip is going\nto be a waste if I don't—"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Flower! You sure look anxious about\nsomething."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, it's nothing serious. I just can't decide which\nclothes to buy."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heck! If that's all it is, I'll help ya out. Fashion's\nway more fun with a friend to shake up your\nstyle! ☆"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "To shake up... my style?",
+            "choice_data_list": [
+                "Well? Whaddya say?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Yes, please! I'd love it if you'd join me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow! These diamond shoes are absolutely\ngorgeous! Just look at 'em sparkle! You <i>gotta</i> try\nthese on!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Diamonds?! On me?! I... I..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ta-daaah! ☆ Tell me this ain't the coolest wetsuit\nya ever seen! It'd be perfect for a rainy day! ☆"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wh-what?! You mean you'd wear something like\nthis out on the street?! Talk about a bold fashion\nstatement! Too bold for me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, leeet's see! ♪ What should we try next? ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Pant...</i> You've got so much energy...",
+            "choice_data_list": [
+                "Are you getting tired?",
+                "Are you getting tired?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No! Actually, I'm feeling really inspired!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The reason I wanted to go shopping today is...\nWell, it's because I wanted to find clothes that\nwould make me look more grown-up."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "But once I started looking at outfits, it felt like\nnothing really suited me, and I felt too shy to try\nanything on..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That's why Taiki is so amazing! It's like she can\npull off any look."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, honey, you've got it all wrong! It doesn't take\nskill to rock an outfit..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It takes heart!",
+            "choice_data_list": [
+                "Heart?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's what I said! Take this outfit for example—it\njust shouts \"active!\" and \"cheerful!\" It's all about\nmatchin' the occasion! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What's yer heart tellin' ya, Flower? What kinda\noutfit and mood are ya aimin' for?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What kind of mood... Hm..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I want something... kind... that brings a smile to\neveryone's face. I want to be like a blooming\ncosmos flower!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Bam! Now yer talkin'! Hold onto that feelin'!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "If that's the kinda outfit you want, then that's the\noutfit you should get! I'm certain it'll look like it\nwas made just for you! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh! Okay! Then... I'm gonna go look through the\nshops one more time!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle and I sit back and watch as a smiling\nNishino Flower runs off to find her new outfit.",
+            "choice_data_list": [
+                "She looks pleased.",
+                "She looks pleased."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn right she does! It'd be a crying shame if she\nwasn't, seeing as she's out shopping! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Which reminds me... A certain somebody hasn't\npicked out a single thing!",
+            "choice_data_list": [
+                "I guess I could buy something!",
+                "I dunno... This month's been kind of tough..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Woohoo! I was hopin' you'd be on board! ☆ Now\nhurry up and spill the beans on what's in <i>your</i>\nheart."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What was your mood comin' out with me today?",
+            "choice_data_list": [
+                "I was excited, just like you.",
+                "I was excited, just like you."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Just like me?! You mean your heart and mine\nare... In other words..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You wanna get matchin' outfits?!",
+            "choice_data_list": [
+                "Who said anything about matching outfits?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I know! Let's get a top with super frilly sleeves!\nAnd do you remember those pants with all the\nhearts?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We need to get to the fitting room, like, right\nnow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Having misunderstood my intentions, she runs off\nto buy an outfit. This throws me into a panic, and\nI give chase!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I hear ya loud 'n' clear. No worries. I'll foot the bill\ntoday!"
+        },
+        {
+            "name": "Shop Staff",
+            "text": "I'm sorry. It appears that your card is maxed out..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You're kidding!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Looks like we're <i>both</i> poor as church mice,\nTrainer!",
+            "choice_data_list": [
+                "Sorry...",
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What're you sorry for? I'm about as happy as a\npig in mud right now!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We might not have matchin' outfits, but we sure\nas all get-out have matchin' hearts! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we head back to the academy,\ncheerfully chatting about the day we had."
+        }
+    ]
+}

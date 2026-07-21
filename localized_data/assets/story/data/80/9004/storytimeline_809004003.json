@@ -1,0 +1,22 @@
+{
+    "title": "お疲れ様です！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Trainer <username>!\n<chrname>! Nice work out there!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "I learned so much watching you two train!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "The trust you both have in one another is\nespecially amazing!"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Ah, sorry to hold you up when you must be tired!\nI'll see you later!"
+        }
+    ]
+}

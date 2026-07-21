@@ -1,0 +1,170 @@
+{
+    "title": "終幕　あの窓からこぼれる光",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki and I have completed the crucial first\nthree years of her career in the Twinkle Series,\nand we're basking in our victories."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hey there, Trainer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Do you happen to be free this weekend? There's\nsomewhere I want to bring you."
+        },
+        {
+            "name": "Monologue",
+            "text": "I am free, so I agree to accompany her. It turns\nout the place she wanted to bring me is..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ta-dah! It's an amusement park!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I wanted to bring you here as thanks for staying\nby my side and supporting me these past three\nyears!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Here, give me your hand! I'll be your guide today.\nWhat kind of rides do you like?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki is enthusiastic about her role as guide.\nFirst, she takes me to the merry-go-round..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Look this way! Cheeese!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then to a roller coaster..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Don't worry, I'll be right there with you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Then we have lunch and watch a parade. We're\nhaving a very fulfilling day at the amusement\npark!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! That was so scary! They're smart, making\nyou lower your guard and then terrifying you with\none last surprise."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ooh, it's getting late. We should think about\nleaving soon."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What do you want to do now? Should we round\nout the day with a ride on the Ferris wheel?",
+            "choice_data_list": [
+                "Sounds good."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We get in line for the Ferris wheel as the setting\nsun bathes the park in golden light."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "So? Did you have fun today?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She regards me with an earnest expression.",
+            "choice_data_list": [
+                "I had a blast."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Phew! I've actually been wanting to treat you to a\nday of fun for a while now."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Remember how I was feeling a lot of pressure\nafter I started senior year?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be talking about the time shortly after\nthe Yasuda Kinen. I recall how panicked she was\nback then."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I was way past my limits at the time, but I was\nsurprised by how quickly I picked myself up again\nafter speaking with you."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A large part of it was because of your\nencouragement, but it wasn't just that."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It was also because I had someone waiting for me\nin the wings, and just knowing that made me\nstand taller.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "And that wasn't the only time. Right after our\nfinal senior race, the Arima Kinen..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Well, to be honest, I was thinking how it wouldn't\nbe so bad to take things more slowly."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I thought about talking to you about it, but when\nI came through the runners' tunnel and saw you\nwaiting for me with a smile..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "All thoughts about slowing down just...\ndisappeared from my mind."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Instead, I wondered what my next goal should be!\nWhat kind of miracle I should show the world!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I believed that with you by my side, I could do\nanything and go anywhere I wanted!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Your mere presence gave me the resolution I\nneeded to face the big stage."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "If not for you, I might have stepped down from\nthe stage altogether."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I owe a lot to you. So I wanted to ask..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She grows quiet."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Will you please stay by my side?",
+            "choice_data_list": [
+                "Yes, of course!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki takes my hand and pulls me up the\nstairs to the Ferris wheel just as a carriage swings\ngently to a stop before us."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Come on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Outside the carriage, the sky is a swirl of cotton\ncandy reds and blues. The first star of the evening\ntwinkles bright on the shifting tapestry."
+        }
+    ]
+}

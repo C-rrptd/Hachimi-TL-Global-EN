@@ -1,0 +1,92 @@
+{
+    "title": "Get Well Soon!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ines Fujin suffers an injury during training, so I\nbring her to the infirmary."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm fine, I'm fine. It's nothing serious, so don't\nworry."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "See, I'm all patched up now, so let's get right\nback to training!",
+            "choice_data_list": [
+                "Are you sure you're okay?",
+                "Are you sure you're okay?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Of course I'm sure! I can barely feel the pain\nanymore!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "And I bet a bit of running will do wonders for my\nmood! I mean, I love running! ♪",
+            "choice_data_list": [
+                "I'm still worried, so please rest up.",
+                "As long as you don't overdo it."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Geez,</i> you're being dramatic. I'm stronger than I\nlook, you know.",
+            "choice_data_list": [
+                "But what if your injury worsens?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ngh. Don't give me that look..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Okay, fine. I'll rest up for today. I wouldn't want\nto worry you."
+        },
+        {
+            "name": "Monologue",
+            "text": "A little disappointed, Ines Fujin returns to her\ndorm."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Nice! I knew you'd say yes! Come on, let's hit the\ntrack!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Ouch!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In the middle of her light jog, Ines Fujin's face\ncrumples up in pain.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ugh... I don't think so..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm sorry. And after I acted all cool back there.\nWe might have to call it a day after all..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We cut our training session short, and Ines Fujin\ntrudges back to her dorm."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Phew. Looks like I should be okay if I keep the\nexercises light."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ehehe. I'm glad I powered through training, even\nwith my injury."
+        },
+        {
+            "name": "Monologue",
+            "text": "While monitoring her injury, Ines Fujin completes\na light training session."
+        }
+    ]
+}

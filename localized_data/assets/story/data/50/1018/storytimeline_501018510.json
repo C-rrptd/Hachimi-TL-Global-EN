@@ -1,0 +1,317 @@
+{
+    "title": "“女帝”と“帝王”",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I'm walking by the front gate of the academy, I\nspot Air Groove and Tokai Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oho, looks like this party has a new guest! Come\njoin us!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Who said you could invite anyone?",
+            "choice_data_list": [
+                "Are you guys heading out?",
+                "Are you guys heading out?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "She's been moaning all day about how bored she\nis without the president around."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I attempted to remove her from the premises, but\nshe ended up dragging me out here with her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "C'mon, just give it up and hang out with me\nalready! Let's goooo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "H-hold on, I didn't agree to any of this! Let go of\nme!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And here we are! All right, Air Groove. Time to\nduke it out!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Fine. Just one round, and then I'll be going."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, I know. Your trainer can decide what we\nplay! How about it?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You prob'ly don't play games like this a lot, so it's\nfairer if I let you guys choose!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hah. As if I need any favors."
+        },
+        {
+            "name": "Monologue",
+            "text": "What game should I pick?",
+            "choice_data_list": [
+                "A dance game.",
+                "A card game."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh! You sure? I'm pretty good at those, if I do\nsay so myself!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I won't back down in the face of a challenge.\nBring it, Tokai Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, gotcha. I'm not holdin' back then!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Woohoo, a perfect score on the bonus stage too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tokai Teio's footwork is incredible..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, how do ya like <i>that,</i> Air Groove? No way\nyou can beat that score!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh, wait... Where's Air Groove? Is she still\nplaying?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I was so absorbed in Tokai Teio's dancing that I\nforgot about Air Groove. I frantically look for her\nand find..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "What's the matter with you?! Where are your\nmanners?!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Don't be like that, gorgeous! Your dancing just\nlooked so great, I couldn't stop staring!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "You gotta show us those hot moves again. I'll\neven pay for it! It's what you came here for, right?\nWhat's the problem?",
+            "choice_data_list": [
+                "(Oh no! Air Groove!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I instinctively move to get between them.\nHowever, before I'm able to reach Air Groove,\nsomeone else leaps to action."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Get! Away! From! Her!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "What's wrong with you two?! Don't you know\nbetter than to bother people who're just trying to\nhave fun?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Besides, it's <i>me</i> you should be watching, not her! I\nput on a way better show!"
+        },
+        {
+            "name": "Passerby A",
+            "text": "C-come on, dude, let's bail... Short stack's totally\nkilled the mood."
+        },
+        {
+            "name": "Passerby B",
+            "text": "You said it. See ya later, pipsqueak!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "H-hold it! Who're you callin' pipsqueak?! Talk\nabout rude!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Grrr... And don't get me started on you, Air\nGroove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "What did <i>I</i> do?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's what you <i>didn't</i> do that's the problem! Where\nwas the scary Air Groove who always yells at me?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Just today, you were giving me that look of yours\nwith your eyebrow raised all the way to <i>here!</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "They're complete strangers. I can't treat them the\nsame way I treat you."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "That shouldn't matter! Ugh, why don't you get it?!\nSheesh!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hold on... Are you... telling <i>me</i> off right now?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Am I actually being told off by Teio? Talk about\nridiculous... Haha... Ahahah!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Come ON! First them, now you? Stop laughing\nwhen I'm trying to be serious!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I-I'm sorry, it's just... Pfft... I really can't...\nHahahaha!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove can't help but laugh at the bizarre\npredicament she's found herself in."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ah, a game of knowledge and stratagems. Yes, I\nthink this might be fun."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, well... I'm no pushover when it comes to\ngames that use your brains!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Very well. Before we begin, I'd like to study the\nfeatures and abilities of the cards. Wait just a\nmoment, Teio."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Take as long as you need! Imma go try the claw\nmachine in the meantime.",
+            "choice_data_list": [
+                "Don't you need to get ready too?",
+                "Don't you need to get ready too?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I've played this game loads of times. I've just\nabout memorized all the cards."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "No point gettin' all worked up about it!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "That should be enough. Thank you for waiting,\nTeio. I'm ready now."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I scored twenty pieces of candy while waiting, so\nit's all good."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All righty then! Let's get this game started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The duel begins, and Tokai Teio quickly gains the\nupper hand."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heh, drawing this out isn't fun for anyone. It's\ntime to end this!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oho... You have both the knowledge and daring\nto strike when necessary. I imagine the average\nplayer wouldn't stand a chance against you."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Haha, here's somethin' you don't see every day! Is\nthe high and mighty Air Groove givin' up?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No, Teio. I said the <i>average</i> player."
+        },
+        {
+            "name": "Air Groove",
+            "text": "I certainly hope you're not counting the Empress\namong their ranks!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Now, prepare to feel my army's wrath!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Zhwooooom!)"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "N-nooooo!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I... I lost?! But how?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hubris got the best of you. You believed you had\nan advantage over your opponent in experience,\nexpertise, and even innate ability."
+        },
+        {
+            "name": "Air Groove",
+            "text": "This combination was the source of your\ncarelessness—and by extension, your defeat."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Careless? Me?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...I'm gonna review all the cards again. You'd\nbetter sit tight, 'cause we're having a rematch!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You may be the Empress, but I'm the Monarch!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I refuse to accept anything other than a clean\nsweep!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Very well. I'll humor you."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmph, just you wait!",
+            "choice_data_list": [
+                "I'm excited for the rematch!",
+                "I'm excited for the rematch!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh."
+        },
+        {
+            "name": "Air Groove",
+            "text": "...For once, I agree."
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, much to her enjoyment, Air Groove\nspends a little more time matching wits against\nTokai Teio."
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "title": "マスコット対決！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm walking around the academy..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now! Go fetch this popcorn!"
+        },
+        {
+            "name": "Crow",
+            "text": "Caw, caw!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Uwah?! It caught it in a flash, and in midair, no\nless!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Heh-heeeh, impressive, right? I've trained this\nbird to obey any command. All it took was a ton\nof snacks!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Now it's my loyal familiar. I even named it\nBoom-Boom! I'm gonna make it into my new\nfamiliar one day!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "O-ohhh... I see."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Heh, I bet you're super jealous, right? You want\nyour own familiar, don't you?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wh-wh-what gave you that idea? I'm not jealous\nat all! Though it does seem kind of nice..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "That means you <i>are</i> jealous. I'll have you know it's\nno simple task, unless you're a super smart\nmagical girl like myself!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Grrrr... How frustrating!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Suddenly, I'm struck by a bolt of inspiration.\nKawakami's beloved Princess Fighter is also\naccompanied by an animal mascot...",
+            "choice_data_list": [
+                "That won't be necessary, because the princess\nhas <i>me.</i> Woof!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Huh? Wh-what are you..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What?! Trainer, the way you're speaking—it's just\nlike Sebastian, the butler hound from Princess\nFighter!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What are you—are you saying that <i>you're</i> going\nto be Kawakami's familiar?",
+            "choice_data_list": [
+                "That's right. Woof!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "T-Trainer! I can't believe you'd go to such lengths\nfor me! I'm so touched, I can't hold back these\nprincess tears!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Ohhhh... whatever! I bet you still can't catch\npopcorn in midair like my loyal Boom-Boom can!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Says who?!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "When push comes to shove, Trainer can do\nanything! And that includes catching midair\npopcorn with far more elegance than you and\nyour bird!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hmph! You're on, then! Let's put your claim to the\ntest!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up in an unwinnable showdown\nagainst Sweep Tosho's bird..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Listen up! The rules are simple! We'll both throw\nup a piece of popcorn, and the first minion to\ncatch their piece is the victor!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer... Believe in me. In just a few moments,\nyou'll sprout wings that'll take you soaring\nthrough the air!",
+            "choice_data_list": [
+                "Say what?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Believe! For I will become those wings!",
+            "choice_data_list": [
+                "Say whaaat?"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hyah! Now, go, Boom-Boom!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's time, Trainer! HRRRYAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel Kawakami Princess grab me with incredible\nstrength, and the next thing I know, I'm hurtling\nthrough the air."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer! The popcorn's right in front of you!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You did it! You did it! What a perfect catch!\nThat's my trainer for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It was all so fast I'm not quite sure what\nhappened, but I appear to have caught the\npopcorn."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "H-hey, you can't throw your familiar! That's\ncheating!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Nuh-uh! We're partners! It's only logical that we'd\nwork together!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And you can't deny that Trainer made a\nmagnificent catch! I won't listen to your griping!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Now then, Trainer—or rather, Sebastian! Which\ndazzling trick shall we show them next?",
+            "choice_data_list": [
+                "...Please just let me stay on my feet for the next\none. Woof!",
+                "Launch me up into the air at full force! Woof!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Understood! Then next, we're going to engage in\na relay race death match!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Bring it on! We'll leave you in the dust! Right,\nBoom-Boom?"
+        },
+        {
+            "name": "Crow",
+            "text": "Caw!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we continue our showdown until all the\nmuscles in my body feel like they've turned to\njelly."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yeah, that's my Traine—Sebastian! You're\nbursting with competitive spirit!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Next, I'm going to send you flying right up into\nthe stratosphere! Are you ready?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "One, two...",
+            "choice_data_list": [
+                "UWAAAAAHHH!"
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "A-are you insane?! Your trainer's going higher\nthan the academy building!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If today has taught me anything, it's that I must\nnever let the heat of the moment cloud my\njudgment again."
+        }
+    ]
+}

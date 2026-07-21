@@ -1,0 +1,34 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I arrive at the track for Vodka's training."
+        },
+        {
+            "name": "Vodka",
+            "text": "Yo, Trainer!",
+            "choice_data_list": [
+                "Looks like you're in a good mood!",
+                "Looks like you're in a good mood!"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Sure am! I ate a bunch on my day off and slept\nlike a baby."
+        },
+        {
+            "name": "Vodka",
+            "text": "I even got to knock out my backlog of motorcycle\nmagazines."
+        },
+        {
+            "name": "Vodka",
+            "text": "Now I've got a full tank of gas and I'm ready to\nrun with all I've got!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'll be coming full-throttle out of the gate—I'll\nblow everyone's minds!"
+        }
+    ]
+}

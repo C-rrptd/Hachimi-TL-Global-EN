@@ -1,0 +1,176 @@
+{
+    "title": "教えて、必要スペック",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "My work laptop has been running poorly as of\nlate, so I decide to buy a replacement."
+        },
+        {
+            "name": "Monologue",
+            "text": "I look through a catalog for my options, but my\neyes glaze over when I see the different models,\nunable to make sense of the technical jargon..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh, so that piece of junk finally broke down?",
+            "choice_data_list": [
+                "Yeah, something like that."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The catalog seems to have piqued her interest,\nand her eyes linger on its pages. I take the\nopportunity to slide in a question while she's\nengaged.",
+            "choice_data_list": [
+                "Do you have any recommendations?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No. And even if I did, I wouldn't give you any."
+        },
+        {
+            "name": "Monologue",
+            "text": "I point to a fairly priced model, which is proudly\nlabeled as a popular best seller.",
+            "choice_data_list": [
+                "Is this one any good?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Are you kiddin'? What do you need such a\nhigh-spec model for? It'd just be a waste of\nmoney."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You don't need a powerful CPU or a good\ngraphics card if all you're planning to use it for is\nrecordkeeping and drafting documents."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You should be lookin' for something that won't\nstrain your eyes. A simple, lightweight model with\nan anti-glare screen would be more up your\nalley..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how reticent she usually is, it feels\nlike a wonder how easily the words tumble from\nher mouth. I can't help but stare at her."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nTch, it's your laptop, so figure it out yourself.",
+            "choice_data_list": [
+                "W-wait, please!",
+                "W-wait, please!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur looks more than ready to leave. There\nmust be something I can say to stop her!",
+            "choice_data_list": [
+                "Wh-what's a CPU?!",
+                "Can you tell me what \"anti-glare\" means?",
+                "Which spec is \"lightweight\" for? Memory?\nCost?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You can't be serious right now.",
+            "choice_data_list": [
+                "But I am!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Sigh...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Listen up, 'cause I'm only explainin' this once."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Think of it as a computer's brain. How smart that\nbrain is changes the price."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But knowin' the type of work you do, there's no\nneed for anything with high specs."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'd put that money into other things, if I were you.",
+            "choice_data_list": [
+                "That makes sense... Thanks for the explanation!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Wipe that grin off your face. The hell's wrong with\nyou?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nSure."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But there's no such thing as a free lunch in the\nworld."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you want me to tell you, you gotta do somethin'\nfor me too.",
+            "choice_data_list": [
+                "Anything."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Buy this HDD for me. I've been wantin' a new one."
+        },
+        {
+            "name": "Monologue",
+            "text": "My eyes nearly pop out of their sockets when I\nsee how much it costs!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Now. what was it you wanted to know the\ndefinition of? \"Anti-glare\"?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If you got any other words you don't know, I can\ntell you. One term, one new computer part for\nme. Great deal, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Frankly, I don't think my wallet can handle such\npricey demands, but I've kind of got my back to\nthe wall since I said I'd do \"anything.\"",
+            "choice_data_list": [
+                "Sure..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Geez. I'm just kidding, dummy."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Pfft."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Man, you're so freakin' desperate."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I just meant its normal old weight. As in, pick\nsomething that doesn't physically weigh much."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hehe, dummy."
+        }
+    ]
+}

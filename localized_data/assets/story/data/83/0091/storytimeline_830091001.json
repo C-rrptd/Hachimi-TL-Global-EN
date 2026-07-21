@@ -1,0 +1,179 @@
+{
+    "title": "シンボリの名を持つ者",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I drop by the racecourse on my day off and find\nthe track crowded with Umamusume, waiting at\nthe ready. Just then..."
+        },
+        {
+            "name": "Monologue",
+            "text": "A runner zips by in a flash. I recognize her... That's\nSirius Symboli."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her expression is fierce and filled with an\noverwhelming thirst for victory."
+        },
+        {
+            "name": "Monologue",
+            "text": "Once she passes the halfway point of the race,\nshe tears away from the competition and lands an\neasy win for herself."
+        },
+        {
+            "name": "Sirius's Followers",
+            "text": "Oh, Sirius! Your running today was nothing short\nof fantastic, as always!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hah, no need to make such a big deal. This race\nwas nothing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli is swept up in a storm of admirers\nand reporters, who all shower her with praise.\nHowever..."
+        },
+        {
+            "name": "Reporter",
+            "text": "Congratulations on your win! You won by such a\nlarge margin!"
+        },
+        {
+            "name": "Reporter",
+            "text": "It appears the Symboli in your name isn't for\nshow! Will you be sharing the results of this race\nwith your childhood friend, Symboli Rudolf?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...What?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Oh, I get it. You're one of the Emperor's fans,\naren't you?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Why don't you tell her yourself? It's better than\nwasting your time with me."
+        },
+        {
+            "name": "Reporter",
+            "text": "Huh? No, that's not what I was implying!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The reporter scrambles to smooth things over but\nis cowed by Sirius Symboli's ire and ends up\nleaving the racecourse."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf, the Emperor... It feels like the air\naround Sirius Symboli dropped a few degrees\nafter she heard that name."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hey, what's up with the sour looks? Don't you\nhave a celebration party in store for me?"
+        },
+        {
+            "name": "Sirius's Followers",
+            "text": "Oh, yes, of course! Let's make this a party to\nremember!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Also..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You there. You got something to say to me?\nYou've been staring a hole through me.",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Getting called out throws me for a loop, but I find\nthe right thing to respond with quickly.",
+            "choice_data_list": [
+                "Congratulations on getting first!",
+                "You're just as strong as the rumors say you are."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hmph. It was obvious I was going to win. So, what\ndo you have for me?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "You're here to celebrate my success, aren't you?\nSo what are you going to do for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I already congratulated her. What else does she\nexpect from me?",
+            "choice_data_list": [
+                "(Does she want a gift?)"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...",
+            "choice_data_list": [
+                "(Maybe a bouquet would be more\nappropriate?)"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...",
+            "choice_data_list": [
+                "(What's the right answer here?!)"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Pfft... Hahaha! Don't get worked up over such a\nsimple question!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I suppose those faces you pulled will do for\ntoday. Don't let me down next time, though."
+        },
+        {
+            "name": "Monologue",
+            "text": "...I guess she's just messing with me. Sirius Symboli\nleaves in a jovial mood after playing me for a\nfool."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "As strong as the rumors say? That's a decent\ncompliment. But it's not good enough."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "What you should have said is that the rumors\ndidn't do me any justice."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "It looks like I need to teach you a few things\nabout manners. For instance... Yes, I know."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Lend me your ear.",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite being more than confused, I turn the side\nof my face to her, thinking she has something to\ntell me, but when I do...",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She suddenly reaches for my ear and gently twists\nit!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hahaha! That's how we Umamusume say hello."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "It's important to greet people properly. Make\nsure you've mastered the right way to say hello\nthe next time we meet."
+        },
+        {
+            "name": "Monologue",
+            "text": "That was bizarre... I'd never had someone do that\nto me before, and the experience leaves my heart\nracing for a while."
+        }
+    ]
+}

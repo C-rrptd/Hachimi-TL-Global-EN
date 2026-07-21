@@ -1,0 +1,274 @@
+{
+    "title": "突撃！　ごはんアンケート！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Summer rolls around, and we arrive at the academy's seaside facilities\nto begin our summer training session. Right before we start,\nhowever..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Do you have a moment before we start training? I wanted to give you\nsomething."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap rummages through her bag and pulls out a sheet of paper.\nIt looks to be some kind of handwritten questionnaire."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Could you fill this out while I'm warming up? It shouldn't take long."
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly glance over the questions."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Do you like sweet food?\" \"Do you like spicy food?\" \"Do you have\nany food allergies?\" ...All the questions seem to be about food."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "They're mostly yes-no questions, so you shouldn't have to think too\nhard about your answers."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You'll do it, right?",
+            "choice_data_list": [
+                "Sure... I don't mind."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. I'll leave you to it then."
+        },
+        {
+            "name": "Monologue",
+            "text": "I fill out the questionnaire while Oguri Cap runs her warm-up laps."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks. I'll check your answers later tonight and see if there's\nanything to be avoided.",
+            "choice_data_list": [
+                "Avoided?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep, don't worry about it. You filled everything out, so I should have\na pretty good grasp."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Let's focus on training for now. I need to be sure I'm prepped for\ntonight."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Work hard, play hard. I'll push through today's training and make sure\nI expend as much energy as possible.",
+            "choice_data_list": [
+                "Are we... doing something tonight?",
+                "Are we... doing something tonight?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't you know? Tonight is... Hmmm, wait a sec."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's better I keep this a secret, right?",
+            "choice_data_list": [
+                "Ummm..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm, certainly a dilemma. Well, I'll think about it a bit more after we\nfinish training."
+        },
+        {
+            "name": "Monologue",
+            "text": "Something appears to be on Oguri Cap's mind, but I decide to drop\nthe subject for now and focus on her training."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Pant, pant...</i> Phew."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Is that the last of our regimen? I feel like I can do a bit more...",
+            "choice_data_list": [
+                "That's enough for today."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I guess you're right. I don't want to push myself <i>too</i> hard today."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I still have to go over your answers and get ready for later."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I took a peek at the paper earlier, but I've never done this before, so\nit's better to play it safe and have extra time...",
+            "choice_data_list": [
+                "Are we going somewhere?",
+                "Are we going somewhere?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, there's a place I'd like to take you. Let's wash up and meet in\nfront of the training hall.",
+            "choice_data_list": [
+                "Shouldn't we eat first?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No. No eating."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Don't get me wrong. I just finished training. I'm starving. But as much\nas I'd like to eat, we can't. Not yet, at least."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "The training hall is especially fragrant around this time. Dinner today\nis fried chicken and boiled vegetables, so I expect the halls to be\nespecially aromatic."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But we must overcome this temptation. There's something we <i>need</i> to\ndo. And if that means skipping a meal or two, then so be it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So... Please, no eating.",
+            "choice_data_list": [
+                "A-all right, if you say so..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thank you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I think I'll make a quick stop by the cafeteria and ask if they can\nsave me some food for later though."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "In any case, I'll see you soon."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap hurries away. Later that evening..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "We're finally here."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Look at all these food stalls. Amazing, isn't it?",
+            "choice_data_list": [
+                "There's a festival today?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yep. I just <i>had</i> to have dinner here."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "As you can see, there are so many food options available to us. I'm\nsure you'll find something you like."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Eat as much as you like—my treat. I wanted to thank you for\neverything you've done for me.",
+            "choice_data_list": [
+                "Is this what the questionnaire was about?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah. I realized that you know way more about me than I do about\nyou. It's only fair that I at least find out what your culinary likes and\ndislikes are."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "In any case, you do so much to support me. I just wanted to return the\nfavor in my own way. So dinner's on me."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap must've put a lot of time and effort into coming up with\nthis plan... She's usually more occupied with the <i>eating</i> part..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Besides... whenever I'm with you, everything tastes great no matter\nwhat I'm eating. So I wanted to come here together...",
+            "choice_data_list": [
+                "Always a pleasure to share a meal with you!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Great. If you're happy, I'm happy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "All right, then. Shall we begin? We'll start with all the jumbo-sized\nfoods."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Everything here is so big. \"Jumbo\" doesn't even cover it."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "There's enough shaved ice to fill a bucket, and the okonomiyaki's big\nenough to serve as cushions. And the takoyaki? They're the size of\nbaseballs.",
+            "choice_data_list": [
+                "Aren't these way too big?!",
+                "Aren't these way too big?!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You say that, but shaved ice is mostly water. And look at the\nokonomiyaki. It's all cabbage."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You couldn't call any of this a meal. This is more like... an appetizer.",
+            "choice_data_list": [
+                "All of this?! An appetizer?!"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Heh, I'm glad you're as excited as I am. I feel ya. I can't wait to start\neating."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Excuse me, mister! Can I get two servings of shaved ice and four\nokonomiyaki?",
+            "choice_data_list": [
+                "<i>Four?!</i>"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Uh-huh. I want to try out the other stalls too, so we're starting off\nlight. If you want more, we can come back later."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "No need to hold back. Feel free to eat to your heart's content.",
+            "choice_data_list": [
+                "There's no way I can eat all of thi—"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Whenever I need anything, you're always the first person to provide\nit. This is my way of saying thank you."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I've never done anything like this before, so it's kind of\nembarrassing... but please accept my gratitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "Oguri Cap's words of gratitude were moving... But not moving enough\nto dislodge me from my seat after stuffing myself immobile."
+        }
+    ]
+}

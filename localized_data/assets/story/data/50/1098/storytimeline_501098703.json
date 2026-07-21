@@ -1,0 +1,165 @@
+{
+    "title": "楽しくいこうよ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Copano Rickey",
+            "text": "Wow, this is delicious, Trainer! I could eat it\nnonstop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As a way to show their thanks for Copano Rickey\nhaving saved their inn, the couple we recently\nmet have invited us to enjoy their campsite."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Now that we're nice and full, it's time to revitalize\nour spirit by absorbing all we can of nature's qi!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Whoa, they're so agile! I can see their silhouettes\nin the water, but none of them are biting—"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Huh, oh?! It's taken the bait! Are you my lucky\ncatch? Grab the net, Trainer! The net!",
+            "choice_data_list": [
+                "Calm down!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Look, Trainer! We can see Mount Fuji!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Did you know there are dragon veins running\nthrough Mount Fuji? The connect all the way to\nTokyo, channeling positive energy!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, just looking at it makes me want to climb to\nthe summit! What do you say, Trainer? Up for a\nhike?",
+            "choice_data_list": [
+                "Right now?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ahaha! I'm kidding! We should definitely go\nsometime though!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Whew, that was a lot of fun! I guess it's time to\nhead back."
+        },
+        {
+            "name": "Hotel Guest A",
+            "text": "Wait, so I'm the bad guy here?!"
+        },
+        {
+            "name": "Hotel Guest B",
+            "text": "Yeah! You've been sulking this whole time. You\nsucked all the fun out of today!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Startled by the sudden shouts of anger, I turn to\nsee two campsite guests arguing."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "...Oh that's not good at all. There's bad energy\nflowing all through the cottage they're in. There's\na clashing of qi at T-junction of the building.",
+            "choice_data_list": [
+                "Think you can use your feng shui expertise to\nfix it?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She might be able to do something to rectify the\nawkward atmosphere like she did at the inn\nbefore."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You bet I can! All riiight. Let's do it Copa-style\nonce more! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Excuse me... it's not good to argue! Instead, how\nabout changing the mood of your room with a\nlittle feng shui?"
+        },
+        {
+            "name": "Hotel Guest B",
+            "text": "Excuse me?! Who do you think you are? Did your\nparents never teach you to mind your own\nbusiness?"
+        },
+        {
+            "name": "Hotel Guest A",
+            "text": "That's right! Keep your nose out of it! This is\nbetween us two!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The guests are right. What Copano Rickey is\ndoing is, after all, meddling. However..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I want to soothe your hearts with feng shui! If you\ngive me a shot, I'll do the best I can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She just wants to see them smile. She wants\neveryone here to enjoy themselves.",
+            "choice_data_list": [
+                "Perhaps you could give her a few moments of\nyour time and listen to what she has to say?"
+            ]
+        },
+        {
+            "name": "Hotel Guest A",
+            "text": "Huh? First her, now you? Who the heck are you\npeople?",
+            "choice_data_list": [
+                "We just don't want you to leave here with only\nbad memories."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yes, that's right! We want to help you enjoy your\ncamping trip!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You see, there are some building structures that\nmake it easier for discord to arise. If you look\nover this way..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Thank you for helping out today, Trainer! I'm glad\nthose two finally cooled their heads!",
+            "choice_data_list": [
+                "You did amazing once again.",
+                "You did amazing once again."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "It's all thanks to you! I'm really happy you\nbelieved in me!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You gave me a huge confidence boost! And you\nwere so cool! Like, for real!",
+            "choice_data_list": [
+                "That's because I knew you'd figure out a way.",
+                "I was fearful for a moment..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe. I'm grateful for your trust! You can always\nrely on this feng shui master!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing Copano Rickey full of confidence, I realize\nshe's at her best when she's in high spirits. The\nevent ends up making for a great memory."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, really? Hehe, actually, I was too."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But, you did your very best to help me! It was\nthanks to you we got it all sorted out!\nEverything's totally Copa-cool! Right? ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Part of her charm is how quickly she seems to\nperk up her mood. As this thought comes to mind,\nour conversation turns to fond memories."
+        }
+    ]
+}

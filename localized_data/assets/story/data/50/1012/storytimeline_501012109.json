@@ -1,0 +1,177 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One gloomy morning in the lead up to the Arima\nKinen, I head to my office to plan out a training\nregimen."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh?! You're here already?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When I open the door, Hishi Amazon is busy at\nwork decorating the room."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, y'know... It's the twenty-fifth, right? I\nwanted to surprise you."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I figured it'd be fun to walk into your office and\n<i>boom!</i> Winter wonderland.",
+            "choice_data_list": [
+                "I'm so sorry!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Nah, it's all right. I didn't plan this well."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I had no idea you would come in so early."
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is going to be the backdrop for\nHishi Amazon's huge showdown with Narita Brian\nthis year.",
+            "choice_data_list": [
+                "I wanted to make sure you'd be prepared, so..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh... I, uh... Hey, I really appreciate that. Thank\nyou."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm really excited for the Arima Kinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "She smiles bashfully as she says it."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Man, I nearly forgot to give you this. You've\ngotta open a present, eh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I pull off the wrapping to find she's gifted me a\nneck warmer.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly try putting it on, but..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh? What are you doing, Teach? It goes around\nyour stomach, not your neck.",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What am I going to do with you? Come on, hold\nstill."
+        },
+        {
+            "name": "Monologue",
+            "text": "She pulls the stretchy fabric of the <i>belly</i> warmer\nwide and shimmies it down my torso.",
+            "choice_data_list": [
+                "Oh!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm? Maybe it needs to go a little lower? Yeah,\nthere we go!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Sweet, the size is perfect! Looks good on you."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It comes with a pocket on the inside for those\ndisposable heat packs. That should come in\nhandy when it gets really cold."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's chilly sittin' out there from the spectator\nseats, right? I don't want my partner to catch a\ncold!",
+            "choice_data_list": [
+                "Th-thank you!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "What a thoughtful gift. I'll be sure to make good\nuse of it."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So, um, about your present..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "...",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ugh... I feel strangely self-conscious because of\nall the weird things <i>they</i> were saying.",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's just... My dorm residents kept makin' fun of\nme while I was knitting the thing!"
+        },
+        {
+            "name": "Miho Student A",
+            "text": "Oh, are you knitting a scarf? You're so talented!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Thanks, this is supposed to be a present for\nsomeone."
+        },
+        {
+            "name": "Miho Student B",
+            "text": "Whoa! Is it for your <i>special</i> someone?!"
+        },
+        {
+            "name": "Miho Student A",
+            "text": "Wait, no waaay! I mean, she's making it by hand,\nso it has to be!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wha—as if! S-stop runnin' your mouths, you\ndummies!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You know what? Forget it! Just take this already!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I open the box to find a hand-knit scarf with a\nfine and intricate pattern on it. It's so like her to\nmake something like this.",
+            "choice_data_list": [
+                "Thank you. I promise to treasure it."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly put it around my neck. The length is\nperfect, and it's soft to the touch."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoa. It suits you a lot better than I expected it\nto."
+        },
+        {
+            "name": "Monologue",
+            "text": "This day with Hishi Amazon is one to remember."
+        }
+    ]
+}

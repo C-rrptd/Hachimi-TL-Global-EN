@@ -1,0 +1,254 @@
+{
+    "title": "今はまだ蕾だけれど",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Let's do our best today, Trainer!",
+            "choice_data_list": [
+                "We'll go at your pace, okay?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Right! I have to focus on rehabilitation first!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We can't do any serious training while Nishino Flower is going\nthrough rehabilitation, but there's still plenty we can do. If anything,\nour days are busy."
+        },
+        {
+            "name": "Senior Trainer A",
+            "text": "Hey, <username>! You look way more cheerful\nthan the last time I saw you! That's great! We were worried about you,\nyou know."
+        },
+        {
+            "name": "Senior Trainer B",
+            "text": "You seemed pretty depressed, so we were thinking about taking you\nout for a meal sometime—",
+            "choice_data_list": [
+                "You guys!"
+            ]
+        },
+        {
+            "name": "Senior Trainers",
+            "text": "Whoa! Wh-what is it?!",
+            "choice_data_list": [
+                "There's something I want to ask you!"
+            ]
+        },
+        {
+            "name": "Senior Trainer A",
+            "text": "You want our help filling in any gaps you might have as a trainer? Say\nno more! Experience is the best teacher, but there are also things you\ncan only learn from your colleagues!"
+        },
+        {
+            "name": "Senior Trainer B",
+            "text": "I trained someone who injured themself the same way. I still have my\nold notes, so I'll make copies of them for you.",
+            "choice_data_list": [
+                "Thank you! You're both lifesavers!"
+            ]
+        },
+        {
+            "name": "Senior Trainers",
+            "text": "You've got this, rookie!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Using advice from my senior trainers, books I borrowed from the\nlibrary, and past notes, I start putting together a rehabilitation\nprogram."
+        },
+        {
+            "name": "Monologue",
+            "text": "And while rehabilitation is important, I'll need to think about what\ncomes after too. I'm racking my brain for ideas when I hear a knock at\nthe door."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Have you had lunch yet, Trainer?",
+            "choice_data_list": [
+                "Huh? Is it that time already?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes! Actually, lunch started a few minutes ago. So, um... I made this\nfor you."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I was hoping we could eat together, so I made lunch for both of us.\nI'm pretty good at making meatballs with sweet vinegar sauce. Ehehe.",
+            "choice_data_list": [
+                "Thank you. I can't wait to try it."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, I'm glad you like it. If there's anything else you'd like to eat, let\nme know. I'll make it for our next lunch together. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Nishino Flower's rehabilitation period ends in the blink of an eye.\nNow, we're ready to start training in earnest!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "We can finally start training! I'm ready to go whenever you are—"
+        },
+        {
+            "name": "???",
+            "text": "Wahey-hey!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Running besties for life! Girl, we <i>run</i> these sprints!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "You're so goated for that!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmm! Next up is hill sprints, is it? Easy-peasy! As class rep, I'll\novercome any wall or incline that comes my way!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Everyone's working so hard! And from today, I'll be joining them!)",
+            "choice_data_list": [
+                "Why don't we ease into things with a run on the\ndirt course?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "What?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...",
+            "choice_data_list": [
+                "Do you think I'm going too easy on you?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Not at all! You designed this program just for me, and I have faith in\nyou. So I'm not going to get ahead of myself by comparing myself to\neveryone else."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Well, time to get started!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Nishino Flower begins her training. Gradually, she's able to\nrun at the pace she did before her injury."
+        },
+        {
+            "name": "Monologue",
+            "text": "I also continue my studies, so I can be the trainer she deserves. Then,\none day, the academy announces that it's holding scrimmages."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A scrimmage... Eurgh. I feel so nervous."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(The last time I ran, I couldn't keep up, no matter how hard I tried.\nThe memory of that day still stings.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(But... But I've been working really hard with Trainer. I'm sure I'll do\nbetter this time—)",
+            "choice_data_list": [
+                "Y-you'll do just fine out there!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You're shaking, Trainer. Are you nervous too?",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The shakiness in my voice must be far from reassuring. But no matter\nhow nerve-racking the situation may be, my faith in Nishino Flower is\nunshakable.",
+            "choice_data_list": [
+                "I know you can win this!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!\nTrainer..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Inhale, exhale.</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Right! Leave it to me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"I know you can win this!\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer's voice was shaking, but I heard those words loud and clear. I\ncan win this. My training <i>will</i> pay off.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer believes in me, so I'll do everything I can to share my courage\nwith them.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(\"It's all right. Everything is going to be all right.\" That's what I want\nto communicate through my running.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I want Trainer to be happy. Just like that day Mom and Dad smiled\nso brightly!)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hyaaaaah!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(I want to give courage to lots of people!)"
+        },
+        {
+            "name": "Umamusume Caster",
+            "text": "Aaand that's the race! It's Nishino Flower! Nishino Flower takes first\nplace!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Trainer!",
+            "choice_data_list": [
+                "You did it! Congratulations!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I did, didn't I? Thank you! I... I'll do even better next time, so—",
+            "choice_data_list": [
+                "And I'll work even harder to become the trainer\nyou deserve!",
+                "And I'll work even harder to become the trainer\nyou deserve!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Amid the cheers, Nishino Flower smiles widely. Her expression\nreminds me of that field of flowers we saw together."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Trainer, you always give everything one hundred percent. You work\nhard—sometimes too hard.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(That's why someday, I want to win first place in a G1 race. I want to\ngive you the gift of a victory.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Thank you, Trainer, for always supporting my dreams.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Thank you for accepting the courage I shared with you.)"
+        }
+    ]
+}

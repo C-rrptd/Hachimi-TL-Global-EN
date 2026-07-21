@@ -1,0 +1,51 @@
+{
+    "title": "頭痛で憂鬱",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I happen to spot Narita Taishin and am about to\ncall out to her when she stops me with a deadly\nglare."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Halt! Don't you dare come any closer!",
+            "choice_data_list": [
+                "What'd I do?!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I can't deal with noisy dimwits like you or Ticket\nright now."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "My head'll split apart if you screech at me like\nyou always do!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "One step closer... and I'll seriously punt you into\nspace.",
+            "choice_data_list": [
+                "Should we cancel training today, then?",
+                "Should we cancel training today, then?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "As if! I'll be fine once I rest for a bi—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Urgh!",
+            "choice_data_list": [
+                "I really think you should rest.",
+                "I really think you should rest."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh, fine! I'll go to the infirmary! You happy\nnow?!"
+        },
+        {
+            "text": "She looks at me with the desperation of a\nwounded beast as she stalks off."
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "title": "見解マイルール",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, I've come to the mountains to get a break\nfrom work. As I walk through the lush greenery..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Aah... Isn't this nice? Deciding to go trail running\nwas a great idea."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Except you kept ducking off the beaten path...\nBut you're right, this does feel nice!",
+            "choice_data_list": [
+                "(Funny seeing those two here.)",
+                "(Funny seeing those two here.)"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Oh. Look, Maruzen, there's a rest area over there.\nGood timing too. I could use a snack."
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "I'm telling you, eating rice balls while hiking the\nmountain trail is poor etiquette!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Seaweed and salt are from the sea. It's improper\nto bring items belonging to the ocean god into\nthe realm of the mountain god!"
+        },
+        {
+            "name": "Hiker",
+            "text": "Um... Oh... I see. I never knew that... Sorry."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Goodness. What a fussy person."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "<i>Chomp. Munch, munch...</i>",
+            "choice_data_list": [
+                "(Uh-oh.)"
+            ]
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "What?! Y-y-you there! Was that a rice ball you\njust ate?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I didn't even get a chance to stop you before you\nate it all. Oh, C.B...."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "<i>Gulp.</i> Mm. Can't go wrong with salmon."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Be careful where you step, Maruzen! The center\nof the bridge looks safe, so stick to it!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Hold it there! Were you not listening to what I\njust said?!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "The right way to cross a rope bridge is to walk\nhumbly along the side! Tramping through the\ncenter makes you look like an arrogant fool!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "In order to make sure you don't fall while hiking\nup a mountain, you should stop and check each\nof your steps before committing to it!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Excuse us! We'll just pass on ahead, if you don't\nmind. We've got to keep up a good pace if we\nwant to make it all the way up to the top."
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "RRRRRGH!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "Just who do you think you are?! I've never met\nsomeone so selfish!"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "That self-centered attitude of yours is making\neveryone around you uncomfortable! Have some\ncommon courtesy and follow the rules!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I don't have to listen to the nonsense you're\nspouting."
+        },
+        {
+            "name": "Hiker",
+            "text": "D-did she really just say that?!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Purposely making that old rope bridge sway was\ndangerous, and you'll overexert yourself hiking if\nyou don't go at your natural pace."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "But I don't really get it. Aren't you just calling\nyour own personal opinions \"rules\"?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "So why should I do what you say? I can think for\nmyself."
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "E-excuse me?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Okay, okay, let's settle down, everyone! Getting\nupset at each other won't solve anything. ☆"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let's keep this trip a good one. It'd be\ndisrespectful to the mountain otherwise. ♪"
+        },
+        {
+            "name": "Suspicious Person",
+            "text": "...I won't forget this!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Sorry, Maruzen. I overdid it again, didn't I?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe. You're just so blunt, is all. You always have\nto speak up about things you don't agree with\nand charge straight into arguments."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But I like that about you. ♪"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's admirable how free-spirited she is and how\nshe sticks to what she believes in, though her\nstrong will seems to land her in trouble often...",
+            "choice_data_list": [
+                "It's impressive how true you are to yourself.",
+                "Don't make things too hard on yourself.",
+                "Don't make things too hard on yourself."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's admirable how free-spirited she is and how\nshe sticks to what she believes in, though her\nstrong will seems to land her in trouble often...",
+            "choice_data_list": [
+                "It's impressive how true you are to yourself.",
+                "Don't make things too hard on yourself.",
+                "Don't make things too hard on yourself."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Is it? I'm just following what my heart tells me.",
+            "choice_data_list": [
+                "Following your heart is what makes you strong.",
+                "Following your heart is what makes you strong."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "I don't know about that. But if that's what your\nheart says, then maybe you're right."
+        },
+        {
+            "name": "Monologue",
+            "text": "I decide to trust my intuition and believe what I\nsaid is true, and to see for myself just what her\nrunning is like."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Is it? I'm just following what my heart tells me."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "For example, do you feel that pleasant breeze?\nLet's sprint all the way down the mountain now!",
+            "choice_data_list": [
+                "What?! Why?!"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Because I can't suppress this urge to go running!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her awkwardness and refusal to compromise on\nher beliefs may be the secret to her strength. I\ndecide to see for myself just what her running is\nlike."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "It's harder to keep quiet. After all..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "This is my life. I don't want to blindly follow things\nI don't understand."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her awkwardness and refusal to compromise on\nher beliefs may be why she's so strong. I decide to\nsee for myself just what her running is like."
+        }
+    ]
+}

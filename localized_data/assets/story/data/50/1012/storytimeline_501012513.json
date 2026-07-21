@@ -1,0 +1,222 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while discussing Hishi Amazon's training\nwith her, I can't help but notice something..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "...",
+            "choice_data_list": [
+                "Is something bothering you?",
+                "Is something bothering you?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Urk... You sure know how to read me, Teach."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Truth is, everyone in the dorm is gettin' together\nfor a fright night. They asked me to make them\nghost costumes."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm glad they like my sewing skills so much, but..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I'm not exactly jazzed about having to watch a\nhorror film, even if it's for the sake of gathering\ncostume references...",
+            "choice_data_list": [
+                "I didn't know you weren't good with horror\nmovies.",
+                "I didn't know you weren't good with horror\nmovies."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, and wh-what's it to you?! Everyone's got\ntheir weaknesses!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I can handle earthquakes, thunder, fires, creepy\nold guys—you name it. But ghosts... I can't do\nghosts!",
+            "choice_data_list": [
+                "You want me to watch it with you?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Would</i> you?! You'd be doing me a huge favor,\nTeach!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It'd be pointless watching the movie for reference\nif I just get spooked and look away from the\nscreen whenever things get scary."
+        },
+        {
+            "text": "And so, we watch a horror movie in my office. To\nstimulate the feel of a fright night, I keep the\nlights off."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Um, Teach... any ideas when the ghosts're gonna\nshow up?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I keep bracin' myself for the next jump scare, but\nat this rate, not even my nerves of steel're gonna\nbe able to hold out!",
+            "choice_data_list": [
+                "Well, that's horror for you..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ugh... What a cheap way of doing things. They\nshould stop delayin' it and just jump out alrea—"
+        },
+        {
+            "name": "Movie Ghost",
+            "text": "RAAAGH!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "EEEEEK!",
+            "choice_data_list": [
+                "I-it really jumped out!"
+            ]
+        },
+        {
+            "name": "Movie Victim",
+            "text": "Arrrrgghh!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "They got him... just like that! He didn't even stand\na chance!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Teach... I'm done! I know this was for the\ncostumes, but I just can't go on."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You can't one-on-one a ghost! None of your hits\nwould land!"
+        },
+        {
+            "text": "Hishi Amazon's nerves are beyond frayed... But at\nthis rate, she won't be able to get any costume\nreferences. How can we overcome this?",
+            "choice_data_list": [
+                "So the undead would be fine if you could fight\nthem?",
+                "So the undead would be fine if you could fight\nthem?",
+                "I'll take over from here.",
+                "I'll take over from here."
+            ]
+        },
+        {
+            "text": "Hishi Amazon's nerves are beyond frayed... But at\nthis rate, she won't be able to get any costume\nreferences. How can we overcome this?",
+            "choice_data_list": [
+                "So the undead would be fine if you could fight\nthem?",
+                "So the undead would be fine if you could fight\nthem?",
+                "I'll take over from here.",
+                "I'll take over from here."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, yeah. I could easily come out on top with a\ngood punch and kick!"
+        },
+        {
+            "text": "Working off that idea, I instead suggest we watch\nsome films where the enemies are susceptible to\nphysical damage."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm, yeah! That's a great idea! I like it! So what do\nyou recommend, Teach?",
+            "choice_data_list": [
+                "How about starting off with the remake?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wh-what's so different about that one?! Choose\nsomething else, please!",
+            "choice_data_list": [
+                "Well, it takes place in a post-apocalyptic world."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That does sound like a fair bit of scrappin' would\nbe going on. But aren't the enemies just regular\nol' thugs?! I need references for ghosts!",
+            "choice_data_list": [
+                "How about this one, then? It has a mummy!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Sounds good! You can definitely clock a mummy\nin the face and take 'em down, and that's just\nenough horror for me!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "We should have watched this from the start.\nYou're pretty smart, Teach."
+        },
+        {
+            "text": "I accept her compliment and show her the cover\nof the movie <i>Umamusume vs. Mummy.</i>"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What's with this mummy? Its bandages are\npractically fallin' off. How sloppy."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My costumes won't have this problem—I'll make\nsure the bandages are wrapped so tightly they're\npractically skintight!"
+        },
+        {
+            "text": "...Costume criticisms aside, it looks like Hishi\nAmazon is back to her normal self."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "What! Are you telling me to abandon you and run\noff with my tail tucked between my legs?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, I'm not doing that! If it's gonna come down\nto that, uh..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yeah, I'd rather get over my fear of ghosts! Let\nme show you what it means to have guts!",
+            "choice_data_list": [
+                "Just don't force yourself, okay?",
+                "Just don't force yourself, okay?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Y-yeah, sure. I won't.",
+            "choice_data_list": [
+                "Can we keep the lights down and volume as is?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Yep, they're fine! As long as you're good, Teach.",
+            "choice_data_list": [
+                "Do you want a drink?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hm... Nah, I'm good..."
+        },
+        {
+            "text": "We watch the horror movie to the very end.\nHowever..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Heh, hehehe! Teach!"
+        },
+        {
+            "text": "<i>Thud!</i>",
+            "choice_data_list": [
+                "Hishi Amazon?!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "I-I'm feeling a little weak in the knees..."
+        },
+        {
+            "text": "Hishi Amazon experiences firsthand just how hard\novercoming your fears is..."
+        }
+    ]
+}

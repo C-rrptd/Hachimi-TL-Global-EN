@@ -1,0 +1,372 @@
+{
+    "title": "たとえば、カラフルメモリー",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm in the mood for a good flick on one of my days off. Little do I\nexpect to see Mejiro Dober in the lobby.",
+            "choice_data_list": [
+                "Hey, Dober! Quite the coincidence!",
+                "Hi, Dober! Quite the coincidence!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Eh? You've got the wrong person!",
+            "choice_data_list": [
+                "Wait, Dober! It's me!",
+                "Wait, Dober! It's me!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, it's just you. Don't just shout out from behind someone! Of course\nI was surprised!",
+            "choice_data_list": [
+                "Did you have to run away, though?",
+                "Did you have to run away, though?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Trainer... You really surprised me, calling out suddenly from\nbehind me like that.",
+            "choice_data_list": [
+                "Did you have to run away, though?",
+                "Did you have to run away, though?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, that's..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, that's..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose I can tell you since you went ahead and looked that one\ntime..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, I suppose you already know after seeing my illustrations."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was thinking of seeing this today."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was thinking of seeing this today."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober reaches for her smartphone and pulls up a ticket she\nhad reserved online."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a ticket for the film \"Veggie Caroline: Veggin' Out on Summer\nVacation!\" It's the latest entry in the kids' anime series she was\ndrawing characters of."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was actually supposed to watch it with Ryan, but something came up\nwith her, so now I'm here alone."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And there are a lot more children here than I imagined... I'll probably\nstand out quite a lot."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Kawakami was telling me that the new \"Pretty Fighters\" movie was\nabout half adults and half kids, so I thought this might be similar..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't see any other academy students either, so I feel like I'll\ndefinitely be standing out."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Maybe I should just wait until Ryan is free again..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm, but the limited-edition entry bonuses are sure to run out before\nthen. I probably can't afford to wait.",
+            "choice_data_list": [
+                "Wanna watch it together with me, then?",
+                "Would you like to watch it with me?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? You had to have come here because there's something you\nwanted to see. I'm positively sure that it wasn't Veggie Caroline.",
+            "choice_data_list": [
+                "I'm interested in knowing more about what you\nwant to see!",
+                "I'm interested in knowing more about what you\nwant to see!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? You had to have come here because there's something you\nwanted to see. Don't feel like you need to force yourself for my sake.",
+            "choice_data_list": [
+                "I'm interested in knowing more about what you\nwant to see!",
+                "I'm interested in knowing more about what you\nwant to see!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Really now... Well, don't blame me if you're bored to death or\nsomething. Have it your way.",
+            "choice_data_list": [
+                "All right!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Is that right? Well, if you're okay with it, then by all means, I'd like to\nhave you see it with me.",
+            "choice_data_list": [
+                "All right!",
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Theater Announcer",
+            "text": "Seating has begun at screen 2 for \"Veggie Caroline: Veggin' Out on\nSummer Vacation!\""
+        },
+        {
+            "name": "Theater Announcer",
+            "text": "Seating has begun at screen 2 for \"Veggie Caroline: Veggin' Out on\nSummer Vacation!\""
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, that's us... Let's go, Trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, that's us... Let's go, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone receives a special sticker sheet as they enter the theater.\nMy white sheet is lined with various holographic stickers featuring\nmovie characters.",
+            "choice_data_list": [
+                "Would you like my stickers?",
+                "Would you like my stickers?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone receives a special sticker sheet as they enter the theater.\nMy white sheet is lined with various holographic stickers featuring\nmovie characters.",
+            "choice_data_list": [
+                "Would you like my stickers?",
+                "Would you like my stickers?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Is that okay? Th-thanks. I was actually thinking that I might have to\nsee the movie again to get another sheet."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Is that okay? To be honest, I was wanting to get two sheets, and I\nwould have had to see the movie again. This really helps. Thank you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Your stickers are white. Too bad it's still not my preferred color.",
+            "choice_data_list": [
+                "Aren't the stickers the same on all the sheets?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Your stickers are white. Too bad it's still not my preferred color.",
+            "choice_data_list": [
+                "Aren't the stickers the same on all the sheets?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The stickers are not arranged randomly on the sheets. The only\ndifference is the background color."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That may be so, but it's exactly because of that it would be nice to\nget your favorite color."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I bet that little kids can get really upset about it. In fact, I heard some\nparents talking about it.",
+            "choice_data_list": [
+                "How about when you were little?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I didn't... really do that. Ryan was always there to smooth things over\nor get me the color I wanted."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I didn't really, no. Ryan would always arrange to get us younger kids\nthe colors we wanted."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Wait, this conversation is kind of silly."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Wait, this conversation is kind of silly."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Maybe I can ask the staff if I can exchange them for some green ones."
+        },
+        {
+            "name": "Theater Staff",
+            "text": "I'm sorry, but we're unable to allow color choice or exchange of the\nstickers. We ask for your understanding."
+        },
+        {
+            "name": "Mother",
+            "text": "The nice lady says we can't change them. Let's go with this color,\nokay? Look, it even has Caroline!"
+        },
+        {
+            "name": "Little Girl",
+            "text": "Nooo! I don't want green!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like this little girl's stickers are green. I can't help but notice\nthat the red outfit she is wearing is rather close to Caroline's in the\nmovie.",
+            "choice_data_list": [
+                "What color did you get, Dober?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? They're red.",
+            "choice_data_list": [
+                "Maybe you can exchange stickers with her\nthen?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm, hers are green all right. But how can you be so sure that she'd\nwant red?",
+            "choice_data_list": [
+                "I have a feeling..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A skeptical Mejiro Dober and I approach the parent and child."
+        },
+        {
+            "name": "Monologue",
+            "text": "A skeptical Mejiro Dober and I approach the parent and child."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That worked out well... How on earth did you know that she wanted\nred?",
+            "choice_data_list": [
+                "She was wearing red overalls.",
+                "She was wearing red overalls."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That worked out well... Trainer, how did you know that she wanted\nred stickers?",
+            "choice_data_list": [
+                "She was wearing red overalls.",
+                "She was wearing red overalls."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that since Caroline also wears red overalls, she may have\nbeen trying to imitate her favorite character."
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that since Caroline also wears red overalls, she may have\nbeen trying to imitate her favorite character."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I see... Well I guess that should be expected of a trainer. It's kind of\nyour job to be observant."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Observation skills to be expected of a pro trainer I see."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That kid probably thinks you're a big fan of Veggie Caroline now."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That kid probably thinks you're a big fan of Veggie Caroline now."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I think you managed to stand out even more than me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I think you managed to stand out even more than me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The movie turned out to be much more interesting than I thought."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was pretty surprised to see them give so much screen time to some\nof the more obscure characters. The little ones at home must have\nbeen talking about them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You know... I have a much younger sister and brother."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They both seem to really love Veggie Caroline. I wanted to know\nmore about what they were talking about, so that's why I wanted to\ncome see it.",
+            "choice_data_list": [
+                "These stickers are for them, aren't they?",
+                "These stickers are for them, aren't they?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes. I'm glad I was able to get their favorite colors. If it were just me,\nthere would have been no way I could approach anyone else to\nexchange them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So thanks... for watching the movie with me."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Watching the movie with me was a big help, Trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was able to relax and not worry about any eyes that would be on\nme..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was able to relax and not worry about any eyes that would be on\nme..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It was kind of reassuring..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Having you there next to me was rather reassuring."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So that's the long and short of it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, Mejiro Dober picks up her pace and walks out ahead of\nme, her hair glistening and swaying in the twilight glow."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that, Mejiro Dober turns her eyes shyly away from mine. Her\nprofile glows a faint crimson in the twilight gleam."
+        }
+    ]
+}

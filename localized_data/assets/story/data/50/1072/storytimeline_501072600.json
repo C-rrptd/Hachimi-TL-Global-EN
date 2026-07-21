@@ -1,0 +1,26 @@
+{
+    "title": "武者震い",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Yaeno Muteki",
+            "text": "The time has almost come."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Everything is rooted in my daily training. The\nlessons you've taught live within me and emerge\nnaturally when I run."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Thus, while my soul is ablaze with the fire of\ndetermination, my heart remains as fluid as\nflowing water.",
+            "choice_data_list": [
+                "Go show everyone what you've learned!",
+                "Go show everyone what you've learned!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Yes! My path is clear—here I come!"
+        }
+    ]
+}

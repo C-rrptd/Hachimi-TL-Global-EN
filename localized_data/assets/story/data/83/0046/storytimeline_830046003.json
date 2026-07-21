@@ -1,0 +1,158 @@
+{
+    "title": "チケゾー☆ナイトフィーバー！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "While visiting Bubblyland, I see Winning Ticket\ntending to someone."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Are you okay?! You must have twisted your ankle!\nHold onto my shoulders!"
+        },
+        {
+            "name": "???",
+            "text": "Yowch! Geez Louise, that smarts!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You poor thing! I'll go call the park staff!"
+        },
+        {
+            "name": "???",
+            "text": "No way! I'm about to go on stage! They won't let\nme dance if they find out I'm hurt!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Wait, are you... You're the star of Bubblyland,\nFuzzy Buddy, right?!"
+        },
+        {
+            "name": "Fuzzy Buddy",
+            "text": "Yes. It is I, Fuzzy Buddy, star to kiddos\neverywhere. Even if I have to sacrifice my feet\nand my Friday night, I <i>will</i> stand on that stage\nand bring a smile to their faces!",
+            "choice_data_list": [
+                "You're seriously planning to dance in this state?"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "...Uwaaaagh! That's such a cool way to liiive!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "It takes a lot of guts to sacrifice your legs!\nEntertainment must really mean the world to\nyou... You're such a bright, sparkly staaarrr!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I gotta help you! How about I stand in for you?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Let me help too! You always put on such great\nshows for us, Fuzzy Buddy. Now we can do\nsomething for you! ♪"
+        },
+        {
+            "name": "Fuzzy Buddy",
+            "text": "But you're totally unprepared! I can't let you two\ngo up on that stage like this!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Please! We'll make sure the show's spectacular!\nWe won't let you down!"
+        },
+        {
+            "name": "Fuzzy Buddy",
+            "text": "Th-those eyes! They're burning with true bubbly\nfire! ...All right. I believe in you two!"
+        },
+        {
+            "name": "Fuzzy Buddy",
+            "text": "Tonight's show is up to you guys!"
+        },
+        {
+            "text": "Having taken Fuzzy Buddy to the infirmary, we\nhead back to the stage where we can already hear\nlively music. It sounds like the show is starting!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "YAAAY! Hey, everyone! Tonight we've got\nsomething extra special for all of you!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Woohoo! Let that fever rock your whole body!"
+        },
+        {
+            "name": "Audience",
+            "text": "Huh? Where's Fuzzy Buddy?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Nighttime Bubblyland starts now! Let's get things\nbubbly!"
+        },
+        {
+            "name": "Audience",
+            "text": "BOOO! You call that dancing?! Get Fuzzy Buddy\nout here already!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh my... What a tough crowd. This is rough!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Regroup, Maruzen! As you'd say, it's time to\nboogie-woogie!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Wahooo! Are y'all feeling it?! My engine's going\n<i>full throttle!</i>"
+        },
+        {
+            "name": "Audience",
+            "text": "Are they seriously going to dance all night?\nThey're gonna regret that in the morning!"
+        },
+        {
+            "text": "The two desperate dancers go nonstop for over\nan hour, and the audience starts to see them in a\nnew light!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ahaha! This is so fun! Come on, everyone! Get\nlouder! Give in to the FEVER!"
+        },
+        {
+            "name": "Audience",
+            "text": "Who cares about time? We're back in the bubble\nera now!\nBack in time, back in style!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It's working, Tickezo! They're all in sync!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "We're just getting warmed up! Let's go, everyone!\nGet it MOVING!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "BOOOYAAAAH!"
+        },
+        {
+            "text": "<i>Splaaash!</i>"
+        },
+        {
+            "text": "Winning Ticket performs a flip in midair, before\ndiving into the pool with acrobatic flair!"
+        },
+        {
+            "name": "Audience",
+            "text": "WOOHOOO!\nRock our socks off!"
+        },
+        {
+            "text": "The spectators start diving in one after another! It\nlooks like Winning Ticket's enthusiasm has caught\nhold of them!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hehe! They're totally into it! Looks like they all\nwanna make the most of their time here!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Check you out, thinking of the fans! You're\npractically a star yourself! ♪"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "If they wish hard enough for it, anyone can be\nwhoever they wanna be! I'm so happy I got to\nshow that to them!"
+        },
+        {
+            "text": "With their improvised show, Winning Ticket and\nMaruzensky bring more fun to Bubblyland than\nit's ever known!"
+        }
+    ]
+}

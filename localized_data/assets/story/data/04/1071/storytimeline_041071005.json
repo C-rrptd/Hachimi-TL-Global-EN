@@ -1,0 +1,198 @@
+{
+    "title": "気高さが目指すもの",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "With Ardan's next race fast approaching, she and I are spending our\ndays training."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Huff, huff...</i> Phew..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My time went down, didn't it? My breathing doesn't feel as ragged as\nbefore either.",
+            "choice_data_list": [
+                "Yeah, you're flying through this regimen! Good\njob!",
+                "Yeah, you're flying through this regimen! Good\njob!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you. Now then... I shall get back to practice."
+        },
+        {
+            "name": "Monologue",
+            "text": "When Ardan's in practice mode, nothing can shake her out of it, not\neven praise.",
+            "choice_data_list": [
+                "That focus of yours is your strongest weapon.",
+                "That focus of yours is your strongest weapon."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A... weapon? Ah, my apologies. I appreciate the compliment—I've just\nnever thought about it like that before."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's unaware of the effects her determination has had on\nher and her training."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "As I'm sure you know, I was born with a fragile, weak body."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I do not know when my body will give out on me. Among the\ncountless Umamusume who shine so bright, my star may very well burn\nout the fastest."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Just like that painting in the woods, I may fade away and be\nforgotten. And yet, here and now..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I still wish to shine, and I'm willing to do whatever it takes to do so."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even as she spoke about her own circumstances, Mejiro Ardan's eyes\nburned with a quiet... yet firm determination.",
+            "choice_data_list": [
+                "(I don't want to disappoint her...)"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm ready, Trainer. Please time my last lap.",
+            "choice_data_list": [
+                "All right... Go!"
+            ]
+        },
+        {
+            "name": "Observing Umamusume",
+            "text": "Huh? How many laps does that make? She's doing a lot of exercises...\nWill she be okay?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can hear the voice of Ardan's anxious juniors. However..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "<i>Huff... huff...</i> So far, so good...",
+            "choice_data_list": [
+                "(Don't worry, she can handle more.)"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Is everything all right?",
+            "choice_data_list": [
+                "I was just wondering if we should add another\nlap or two."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I... I would love that, actually. I was just thinking that I wanted to run\na little more."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for today. I feel like today's training was especially fruitful."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "In addition, I was wondering... Perhaps we could use today's\nincreased practice regimen going forward?",
+            "choice_data_list": [
+                "I was just about to ask."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh my! Ehehe, I should be grateful. As I am now, I don't have to worry\nabout overheating anymore."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Before my debut, there were times where I could not practice for days\nat a time. I'm glad to know that's all in the past now."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, our post-training meeting ends on an optimistic note. Yet\ndespite the fact that the day's over, Ardan's posture remains as\ncomposed as ever.",
+            "choice_data_list": [
+                "You can relax a bit more during your breaks,\nyou know.",
+                "You can relax a bit more during your breaks,\nyou know."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "What do you mean?",
+            "choice_data_list": [
+                "You could take a seat or even take a nap on the\nsofa."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you, but I feel more at ease like this."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Racers in the Mejiro family make a lot of public appearances, so we're\ntaught how to conduct ourselves from a very young age. And, well..."
+        },
+        {
+            "name": "Mejiro Family Friend",
+            "text": "Ardan? Why are you over here, all by your lonesome? You're leaning\nagainst the wall... Are you feeling sick?"
+        },
+        {
+            "name": "Young Ardan",
+            "text": "No, ma'am. I was just thinking to myself..."
+        },
+        {
+            "name": "Mejiro Family Friend",
+            "text": "Now, now, don't push yourself. You have to be mindful of your health!"
+        },
+        {
+            "name": "Young Ardan",
+            "text": "(Oh... If I relax too much, others will think I'm sick...)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...",
+            "choice_data_list": [
+                "Ardan?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ah, my apologies. In any case, I feel more relaxed like this, so you\nneedn't worry."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Besides, I promised you I wouldn't overdo it, correct? I assure you, I\nam fine.",
+            "choice_data_list": [
+                "All right, but remember, it's okay to do what\nyou want sometimes.",
+                "All right, but remember, it's okay to do what\nyou want sometimes."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh dear... I don't know if spoiling me like that is such a good idea,\nTrainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Perhaps tomorrow I will skip practice simply because I feel like it.\nWhat will you do then?",
+            "choice_data_list": [
+                "I-I'm not going to go easy on you in terms of\ntraining!",
+                "I-I'm not going to go easy on you in terms of\ntraining!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe... And that's exactly what I'm hoping for. But thank you for your\nconcern. I promise I'm fine.",
+            "choice_data_list": [
+                "(Well, if she says so...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As she smiles, I feel my own desire to further protest melt away. It\nseems even I am no match for Mejiro Ardan's stubborn determination."
+        }
+    ]
+}

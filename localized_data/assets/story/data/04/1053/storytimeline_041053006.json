@@ -1,0 +1,244 @@
+{
+    "title": "FULL-THROTTLE—Blowing Off Steam!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "Trainer! If you're free, I'd like your help with something on our day\noff!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo's got such a serious expression on her face, I agree to do\nwhat I can."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All right, let's do this! Today, we're getting the full student's-day-off\nexperience!",
+            "choice_data_list": [
+                "Uhhh... Day off... experience?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yep! Remember the other night at the arcade? I've been thinking\nabout what those students said."
+        },
+        {
+            "name": "Student B",
+            "text": "I have to run from dawn to dusk, and then they pile up ridiculous\namounts of exercises to do on my days off... Is it <i>such</i> a crime to take\na break?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Yeah... I've been shouting at people without hearing their side of the\nstory. Both tonight... and earlier."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "You taught me that I should try being more sympathetic, so I'm giving\nit a go!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Today, I wanna research the things students are doing off-campus. I\nthink that'll give me insight as to why the pair broke curfew!",
+            "choice_data_list": [
+                "You're such a hard worker.",
+                "You're such a hard worker."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe! I just want to be a good disciplinary chair, y'know?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "All righty, first up on our list is \"looking at lip gloss.\""
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "WAIT?! What the heck are these colors?! Those are <i>definitely</i> against\nthe dress code!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Oh boy... I get the sense I'm in for a <i>weird</i> deep-dive into the\nteenage psyche..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "S-so that was <i>Madonna's Memory...</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I heard students gossiping about it being a \"suuuper spicy romance,\"\nbut what <i>was</i> that?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "The way she... A-anyways, it's definitely a bad influence on students!\n<i>None</i> of that was school-appropriate!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Why would they order the couple's special at the cafe?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "How is sharing a drink even a breaktime activity? Wouldn't they\nrather get their own?!",
+            "choice_data_list": [
+                "And yet, we're here trying it..."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Of course! This is important research, so drink up!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After our pitstop at the cafe, we resume the whirlwind tour of teenage\ntrends, but...",
+            "choice_data_list": [
+                "Hey, Bamboo? Are you actually enjoying this?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Enjoying this? We're not here to goof around. I'm trying to understand\nthe student body's pastimes!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But I guess it <i>is</i> kinda, um... I dunno, I looked at makeup and watched\na movie, but I still don't get why someone'd break curfew for stuff like\nthis."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Does that mean I'm not sympathetic enough?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I think she might be getting too caught up in the details to see the\nfull picture.",
+            "choice_data_list": [
+                "We're just looking at this wrong. Breaks are time\nto do things <i>you</i> enjoy."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Things... I enjoy?",
+            "choice_data_list": [
+                "Yeah, so let's go have fun!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Huh?! Wait! Wait for meee!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hmm... So games help students get refreshed and ready for training?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The popular games don't seem to be her thing, but I've still got an\nidea up my sleeve.",
+            "choice_data_list": [
+                "Bamboo, let's play that one!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Kendo Blade?</i> Whoa, they've got a kendo game?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Press up to aim at the helmet, press the side keys to aim at the\nchest... Yeah, this one looks interesting! You're on, Trainer!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Nooo, you got me?! What was that smokescreen?! I couldn't see\nanything!",
+            "choice_data_list": [
+                "Yeah, my character's got defensive skills."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "But that's not how kendo works! You can't just smoke bomb someone!\nThat's <i>cheating!</i>",
+            "choice_data_list": [
+                "Maybe, but this isn't real kendo. If you wanna\nwin, you've gotta play by the game's rules."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Mmph... The rules... The <i>game's</i> rules..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Challenge accepted! I'll beat you by your own rules, just you watch!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Gah?! A-again! I was just testing out the controls!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Noooooo... Gimme one more shot! I swear I'll get you this round!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...Now! HEADSHOT!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I got you! I GOT YOUUU! Did you see that?! I used skills and\neverything!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Even in a game, I would never lose a match of kendo!",
+            "choice_data_list": [
+                "Guess I'll have to get you back in another game,\nthen!",
+                "Guess I'll have to get you back in another game,\nthen!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, you can try all you want. Let's do a round of that game over\nthere!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Whew... I suddenly feel tired! I haven't spent this long playing games\nin ages.",
+            "choice_data_list": [
+                "So, what's the verdict on downtime?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...Y'know, that <i>was</i> a lot of fun."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I really got in the zone and enjoyed myself. Next thing I knew, I'd\nforgotten all about my research and felt like my usual red-hot self\nagain."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "It's like the rush you get after winning a bout of kendo! ...And I think\nnow I kinda get why those students needed a breather from all the\nserious stuff."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "What I said the other day... It was definitely too harsh."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I know races and training are important, but there's more to life. I bet\nthe two of them had other important things they wanted to do too..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "And thanks to you, I was finally able to see that! I really appreciate\neverything you've done!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'm... I'm gonna try talking things over with those two again. I can't\npromise things'll work out though...",
+            "choice_data_list": [
+                "I'm sure they will!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hehe, y'know what? You're right!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Let's spend another day off together some time! It'll be a total blast!\nOkay?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "This whole snafu ended up being a really good learning experience\nfor Bamboo, and she looks a lot happier for it!"
+        }
+    ]
+}

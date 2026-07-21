@@ -1,0 +1,226 @@
+{
+    "title": "要件定義：幽霊の存在を証明する",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I meet up with Air Shakur before\ntraining because she has some business to attend\nto."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey. I brought the data you asked for. But\nseriously, why the hell did I have to bring it on a\nphysical drive?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Thank you! Hehe. I figured you would want to\nknow. The truth is..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Cafe is at her parents' house! Meaning, of course,\nthat I've been tragically left behind, and the\nflavor of loneliness is harsh indeed. In short, I\nneed some company."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You? Lonely? Spare me the blatant lies, will ya?\nI'm outta here. You should g—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Snap!</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? What was that sound? Did anyone else hear\nit?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I heard it as well. How about you, Trainer?",
+            "choice_data_list": [
+                "I heard it.",
+                "I heard it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Eh, whatever. I'm ou—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh! Flutter, flutter...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What the...\nHey! You're not hidin' another one of your weird\ninventions, are you?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Of course not! I resent that accusation. I won't\ncomment on my usual activity, but I can say that\nI'm completely innocent this time."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This time, huh? Well, what the hell was it, then?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I hear this sound sometimes when Cafe's around.\nIt's something to do with her body makeup or\nsomething."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You can't just chalk it up to her body makeup and\nleave it at that. I'd like to run some tests and\nverify things. But regardless, she's not even here\ntoday."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Yeah, she's been gone since early this morning.\nShe doesn't have any classes or training today."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Is that so? Well, whatever. I don't have time for\npointless distractions. I <i>do</i> have training to get t—"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Step, step, step...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Somebody's coming."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm, that's strange. You're the only one I was\nexpecting today."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Cafe isn't around, and there shouldn't be many\nstudents in the school. I wonder who would be in\nthe hallway?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yeah, I didn't see anyone on my way over here."
+        },
+        {
+            "name": "Monologue",
+            "text": "Aside from Agnes Tachyon and Air Shakur using\nthe empty classroom, there's no real reason for\nanyone to come to the school building when there\nare no classes."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Considering present conditions, chances of a\ncomplete stranger coming here are very slim.\nWhich means my efforts to detect the source of\nthe sound are failing to compile."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Logic is completely failing me. Dammit, what the\nhell is going on here?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Step, step, step...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thump!</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sorry, I forgot something.\nTachyon, have you seen those coffee beans I\nbought the other d—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...? Are you three okay?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh... heh-heh-heh! Well, I see! I didn't expect\nyou to return so soon. Isn't that shocking, Shakur?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Tch! I was missing a damn variable from the very\nstart. I should've factored in the likelihood of\nCafe coming back."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My thoughts were all in disarray because of that\nweird noise.\nForget this. Let's go, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Step, step, step...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? Not again? Who is it this time? Hang on, I'm\ngonna open the door."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Ah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Ka-thump!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "Clearly irritated, Air Shakur swings open the\ndoor, but there's nobody on the other side."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I swear I heard footsteps right here!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sorry... I guess something followed me."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not buying an illogical explanation like that.",
+            "choice_data_list": [
+                "Then perhaps the easiest explanation would\nbe... a ghost?",
+                "Maybe it was someone stamping around far\naway."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Didn't I just say I'm not interested in half-baked\nconclusions that bypass logic for easy answers?!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I guess I'm gonna have to crack this case myself.\nI'll start by ascertaining what materials the\nhallway is constructed out of and measuring its\nacoustic properties."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I could try asking the presence to try to walk quieter..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is full of enthusiasm for her project,\nand Manhattan Cafe is staring off into space."
+        },
+        {
+            "name": "Monologue",
+            "text": "It doesn't look like it'll be easy to find the cause\nof this phenomenon, but if anyone has a shot at\nit, it's Air Shakur."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, that can't be it. It would have had more of an\necho to it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, I suppose we could chalk this up as a mass\nhallucination.\nOr would that be too dramatic?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ah, but wait. If that's the case, do I have to reevaluate\nall of our mental stats? They may be lower than I\nthought..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No, we should be able to make up for it with training.\nI've gotta verify the external factors to arrive at an\naccurate value."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I could try asking the presence to try to walk quieter..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur regains her composure while\nManhattan Cafe stares off into space."
+        },
+        {
+            "name": "Monologue",
+            "text": "I just hope that Air Shakur's reasoning holds up.\nIt's been a fairly frightening experience."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "title": "Distant Feelings",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Welcome home, Mom! I know how busy you are\nwith work, so thanks for making the time!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "How was your flight? Was there a lot turbulence?\nAre you tired?"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "Hehe, I'm positively bursting with energy! Now,\nScarlet, let's go for lunch!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wow! I can hardly believe you're the head of such\na major project, Mom!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're really incredible! Forging ahead and\ntaking the lead... It's just like when you used to\nrace!"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "My! Now that you mention it, I suppose not much\nhas changed. Speaking of which..."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "You're wearing that outfit again today. I have to\nsay, it really does suit you!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Well, you picked it out for me. It's my favorite!"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "Hehe, a mother should be familiar with what her\ndaughter likes."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "Hmm... This pasta is spicier than I anticipated."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, then I'll finish it for you! I actually love spic—"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "No, it's all right. I know you can't handle spicy\nfoods."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "Don't you recall ordering spicy curry from that\nrestaurant when you were young? You started\ncrying because it made your tongue burn."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh...yeah... I remember that... I think."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "My little Scarlet prefers something sweet. Oh, of\ncourse! How about we get some shortcake?"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "You always say you loved it because it was \"the\nnumber one sweetest thing in the world!\" We\nhaven't much time left, so let's hurry!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Right! Thanks, Mom."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Thanks for today, Mom! It's been so long since we\nhad a chance to chat, and you even bought me\ncake."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "Oh, it was nothing. ...I'm sorry that I'm never able\nto spend more time with you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's okay! I'm happy enough just having the\nchance to see you. I'm already looking forward to\nthe next time you come home!"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "About that... Things will likely become even more\nhectic next month, so I've no idea when I'll be\nback next."
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "We won't be able to see each other for a while, so\nis there anything you need right now? Anything\ntroubling you?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Um..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...No, I'm fine! There's nothing to worry about."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm giving my all in training, so you do your best,\ntoo, Mom!"
+        },
+        {
+            "name": "Scarlet's Mother",
+            "text": "...Thank you for always supporting me, Scarlet.\nWell then, bye-bye for now!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She's gone..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...How old was I when I last said that shortcake\nwas my number one favorite...?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...It's not a big deal, right? I don't want to burden\nMom when she's so busy...\nI should hurry back and finish my homework."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Daiwa Scarlet by the academy gates. She\nseems somewhat forlorn...",
+            "choice_data_list": [
+                "Been doing some shopping?",
+                "...Is something wrong?",
+                "...Is something wrong?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I spot Daiwa Scarlet by the academy gates. She\nseems somewhat forlorn...",
+            "choice_data_list": [
+                "Been doing some shopping?",
+                "...Is something wrong?",
+                "...Is something wrong?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah, no... This cake was a gift.",
+            "choice_data_list": [
+                "Is the gift troubling you?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "O-of course not! Um, my Mom bought it for me!\nI'm so thrilled that I just kind of zoned out!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Anyway, I need to get this to the fridge! I'll see\nyou later!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...! N-no, it's nothing!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "To tell the truth, I saw my Mom today for the first\ntime in ages! We had lunch, and she even bought\nme a gift!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I need to be sure to train hard so that I can keep\nsending her good news!"
+        }
+    ]
+}

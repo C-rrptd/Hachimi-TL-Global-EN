@@ -1,0 +1,89 @@
+{
+    "title": "タマモ先輩の学園案内",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm walking around the academy..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Sniffle...</i> Where am I?",
+            "choice_data_list": [
+                "Are you lost?"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Y-yes... I just arrived here from out of town\ntoday..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I thought I'd take a little walk before orientation\nstarts, but... <i>Hic!</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "HEY! Whatcha doin', makin' dat poor girl cry?!\nExplain yaself!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Intimidated by Tamamo's accusing glare, I\ndesperately try to defend myself."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "So that's how it was, eh? My bad for jumpin' to\nconclusions."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hey, newbie. I came all the way out here from\nOsaka myself, so I totally get how dauntin' it must\nbe for ya."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, I'll take ya to the orientation! I'll even show\nya where the real important stuff happens 'round\ncampus along the way!",
+            "choice_data_list": [
+                "Oh? Are you talking about the library?",
+                "Oh? Are you talking about the gym?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, ya gotta know where the library is to study!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Here we are. Now listen, ya gotta be quiet in the\nlibrary—got it?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Thanks for your help. I can't believe I'm already\ngetting help from an underclassman."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "You're only here for a campus tour, but you're so\non top of things. I need to be more like you."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "The hell you callin' an underclassman?! Can't ya\nsee that I'm wearing the academy uniform?!\nYou're <i>my</i> junior!"
+        },
+        {
+            "name": "Student Librarian",
+            "text": "Tamamo Cross! This is a library! Please be quiet!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeah, she's gonna be usin' it a lot soon!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "And we're here. When it comes to equipment, if\nya can name it, it's here. Make sure ya train up\nyour energy and guts!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Absolutely! I'll make sure to set a good example\nas your senior!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "I'M DA SENIOR ONE HERE!"
+        }
+    ]
+}

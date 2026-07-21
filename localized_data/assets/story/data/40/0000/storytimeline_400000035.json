@@ -1,0 +1,23 @@
+{
+    "title": "乙名史記者の悦楽取材",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Reporter Otonashi",
+            "text": "Congratulations! What a spectacular victory.",
+            "choice_data_list": [
+                "It's all thanks to her hard work."
+            ]
+        },
+        {
+            "name": "Reporter Otonashi",
+            "text": "Now I'm certain. The next extra-large, full-color\nspecial feature <i>has</i> to be about you two!"
+        },
+        {
+            "text": "Sounds like we can expect a great response from\nthe next <i>Twinkle Monthly!</i>"
+        },
+        {
+            "text": "I go to praise <chrname> for her\nvictory."
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "title": "お香でおやすみ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I'm shopping at the mall with Seiun Sky and Grass\nWonder."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, Grass! I found the incense."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, thank you. They've got quite a lot here."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I wonder which one will help with insomnia..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Incense that helps you catch some Zs, huh? I\ndon't think I'd need much help with that."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Only takes me about three seconds to find my\nway to dreamland, whenever or wherever."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, the way you always keep your composure is\ncommendable."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's see... They have electric burners we can test.\nShall we try some out?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's start with sandalwood."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes... It has a lovely, soothing fragrance."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "<i>...Zzz.</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hm? Sei? Can you hear me?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Whoa... Huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Was I snoozing just now?",
+            "choice_data_list": [
+                "You sure were.",
+                "You sure were."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, well... How interesting."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's try lavender next. ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Um... Grass, wait a sec—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mmm..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nya-ha-ha... Fouuund you, Grass... Now it's my\nturn... to hide... <i>Zzz...</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Look at that. Perhaps she's playing hide and seek\nin a lavender field."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Now, what happens when I try lemon?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Grass... Cut it out... You can't eat... a whole\nlemon in one... whoa...",
+            "choice_data_list": [
+                "That's quite a dream she's having.",
+                "That's quite a dream she's having."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Oh, Sei. You know I'd <i>never</i> do a thing like\nthat."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Who knew incense could have this strong of an\neffect? ♪ It wouldn't hurt to try out a few more."
+        },
+        {
+            "text": "Grass Wonder continues testing one stick after\nanother."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Curry-scented incense? What a rare find! Let's\nmake this our last one."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mmm... So we're having curry today? Smells\ngood—huh? You're gonna feed me... with your\neyes closed?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wait, wait... You have to let it cool... Ack! Hot!\nIt's too hot!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "No no no noooo!",
+            "choice_data_list": [
+                "You're okay, it's just a dream.",
+                "You're okay, it's just a dream."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wha... a dream?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ehehe, it appears the curry scent isn't very\nwell-suited for sleeping. I've certainly learned a\nlot. ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Grass... You were just using those last few ones to\nmess with me, weren't you?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, not at all. As if I would do such a thing! I\nsimply wanted to make an informed decision."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What do you think, Trainer?",
+            "choice_data_list": [
+                "She was probably messing with you.",
+                "She was making an informed decision.",
+                "She was making an informed decision."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What do you think, Trainer?",
+            "choice_data_list": [
+                "She was probably messing with you.",
+                "She was making an informed decision.",
+                "She was making an informed decision."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I knew it! Grrr, I <i>am</i> capable of getting mad, you\nknow!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But I've got a one-way ticket to Snoozetown with\nyour name on it! Smell thi—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mmm... <i>Snooze... Zzz...</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Dear me..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Should we take a picture?"
+        },
+        {
+            "text": "Watching Seiun Sky sabotage herself like that, I\nfeel as if I've witnessed something never before\nseen."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Huh? Really?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Precisely. Now, since you apologized for your\nmistake, and to repay you for helping me..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'll give you a keychain with a little bag of catnip\nattached. ♪"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Meow you're talking."
+        },
+        {
+            "text": "Grass Wonder has Seiun Sky wrapped around her\nfinger... She's truly fearsome!"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "title": "エンディング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon placed excellently in the Twinkle\nSeries."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hand in hand, we've been able to work our way\nthrough the first three pivotal years of her career."
+        },
+        {
+            "name": "Monologue",
+            "text": "On a day of respite, while basking in the glory of\nour accomplishments..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Saying that she wants to conduct a psychological\ntest, Agnes Tachyon makes herself comfortable in\nmy office."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "An object is buried deep in your backyard. What\nis this object?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I don't really get the meaning behind the\nquestion, but I suppose I have no choice but to\nplay along."
+        },
+        {
+            "name": "Monologue",
+            "text": "What types of things might be buried in a yard?",
+            "choice_data_list": [
+                "...A yam?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The answer you choose reveals the one thing you\nwish for someone else to uncover.",
+            "choice_data_list": [
+                "But... I answered with \"yam.\""
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Color me surprised.",
+            "choice_data_list": [
+                "...Can that be true?",
+                "...I had no idea."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "There's no way! We've been tricked once again!\nHow bold of them to claim a one-hundred\npercent accuracy rate."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless of that, I'm more curious about the\nreason behind her sudden interest in\npsychological tests.",
+            "choice_data_list": [
+                "Why the interest in psychology tests all of a\nsudden?",
+                "Why the interest in psychology tests all of a\nsudden?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "At present, I am studying the fundamental factor\nbehind the social animal, the factor otherwise\nknown as \"emotion.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "I faintly remember her saying something similar\nonce before."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Lately, I've become increasingly curious about the\npowers that stem from factors like \"enthusiasm\"\nand \"passion.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking back on it, she expressed her interest in\nemotions quite a while before."
+        },
+        {
+            "name": "Monologue",
+            "text": "I thought it was a passing curiosity, but that no\nlonger seems to be the case.",
+            "choice_data_list": [
+                "What's gotten you so interested in this?",
+                "What's gotten you so interested in this?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Something opened my eyes, you see. It was\nduring the Arima Kinen, from the stands."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "After I placed first... I was assailed by a\nthunderous applause—a roaring cheer."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "That raw energy emanating from the stands was\nenough to make my hair stand on end—to make\nmy heart race. I was utterly dumbfounded."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It was at that moment when the notion came to\nme."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Winning the race that day... No, not just that, but\nmanaging to reach the Classics with my own two\nfeet..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "All of these accomplishments were, perhaps, only\npossible due to emotion."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "It occurred to me that I might have severely\nunderestimated the true extent of its power."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I've always recognized the importance of its\neffects on muscular activity, both internal and\nexternal."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "However, the results have far exceeded my\npredictions. Observing its potential has been such\na thrill!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Indubitably, this holds the key to further research\nthat will allow us to surpass our limitations!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Therefore, I thought it prudent to draw upon\nreferences from a wide range of literature in order\nto further my research."
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon turns to face me, squinting."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "As luck would have it, I have, at my beck and call,\na guinea pig highly responsive to emotions of\nevery sort."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "In these three years, thanks to your feelings, I\nhave..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She stops mid-sentence.",
+            "choice_data_list": [
+                "Pardon?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Um, n-never mind. Let's drop this subject.",
+            "choice_data_list": [
+                "But now I'm curious!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Shut up. Forget everything I said."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Anyway, you're my trainer, which means you must\nbe earnest in your duties as my guinea pig!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, I'm forced to undergo psychological\ntest after psychological test till dusk."
+        },
+        {
+            "name": "Monologue",
+            "text": "Anyhow, my new journey together with Agnes\nTachyon has only just begun."
+        }
+    ]
+}

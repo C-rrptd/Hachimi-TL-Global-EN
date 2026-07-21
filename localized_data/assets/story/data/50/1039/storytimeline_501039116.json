@@ -1,0 +1,376 @@
+{
+    "title": "私は姫？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While you can downplay opinions as simply\nsubjective, it's difficult to ignore the many forms\nin which they're expressed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Support, praise, envy, criticism... Some comments\nmay be pleasant, but others can be hurtful..."
+        },
+        {
+            "name": "Monologue",
+            "text": "While waiting for Kawakami Princess to show up\nat my office, I hurriedly check through her new\nfan letters before she arrives.",
+            "choice_data_list": [
+                "...I'll hide these opinions in this box."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess ran in the Queen Elizabeth II\nCup just a few days ago, so I made today's\ntraining a little lighter than usual."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Huff... Puff...</i>",
+            "choice_data_list": [
+                "It looks like you're still a bit fatigued."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "N-no, not at all! I'm ready for you to bring on the\nheat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite what she says, her body is stiff and\nconstricted. She's not running with the same ease\nshe's shown before."
+        },
+        {
+            "name": "TV Producer",
+            "text": "There you are, Trainer! And Kawakami Princess,\nlong time no see!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You're..."
+        },
+        {
+            "name": "TV Producer",
+            "text": "Kawakami Princess, I already talked to your\ntrainer about this, but I'd like you to do a live\nappearance on my program."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Is that so?",
+            "choice_data_list": [
+                "As long as you want to, of course.",
+                "As long as you want to, of course."
+            ]
+        },
+        {
+            "name": "TV Producer",
+            "text": "Now that the Tiara tour is over, I'm hoping you'd\nbe willing to deliver a message to our viewers in\nyour own words! Please consider it!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "In my own words..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'll do it! Thank you for the opportunity!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Kawakami Princess and I arrive at the\nvenue for the live broadcast."
+        },
+        {
+            "name": "TV Producer",
+            "text": "Trainer! Trainer! Could you come over here for a\nsecond?"
+        },
+        {
+            "name": "TV Producer",
+            "text": "As I mentioned the other day, we've prepared a\nsurprise cake to celebrate Kawakami Princess's\nefforts in the Tiara tour."
+        },
+        {
+            "name": "TV Producer",
+            "text": "We'll start off by giving her the gift, and then she\ncan talk about her future ambitions, okay?",
+            "choice_data_list": [
+                "I'm sure she'll be thrilled."
+            ]
+        },
+        {
+            "name": "TV Producer",
+            "text": "We made the cake her favorite flavor, too. I'm\nglad I asked you beforehand. Haha, this is so\nexciting!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And with that, the live broadcast begins."
+        },
+        {
+            "name": "MC",
+            "text": "Hello, everyone! Welcome to another episode of\n<i>Meet the Racers!</i> This week, we're broadcasting\nlive! ♪"
+        },
+        {
+            "name": "MC",
+            "text": "Our guest today is an Umamusume who's been on\nquite a roll recently! It's Kawakami Princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...It's a pleasure to be here."
+        },
+        {
+            "name": "MC",
+            "text": "What's that? Are we a bit nervous? Hehe... well,\nwe've got just the antidote for that!"
+        },
+        {
+            "name": "MC",
+            "text": "In today's program, we've arranged a surprise\npresent for you, Kawakami Princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A surprise present?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "This must be it... The surprise present Trainer was\nhiding from me before."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "MC",
+            "text": "Hehe, isn't the cake just lovely?! It's topped with\nall of your favorite fruits, too! ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "—sorry. I'm... I'm sorry!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm not elegant, and I'm not princess-like... I lack\nthe dignity required for a race like the Queen\nElizabeth II Cup..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So please... please forgive me for all my\ndisrespectful behavior!"
+        },
+        {
+            "name": "MC",
+            "text": "Um... Kawakami Princess?",
+            "choice_data_list": [
+                "Sorry—could we stop for a moment?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess's shoulders tremble as tears\nwell in her eyes. I take her to the waiting room."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm sorry for making such a scene...",
+            "choice_data_list": [
+                "...What's wrong?",
+                "...What's wrong?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I saw them—all those letters."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"You crushed my favorite racer's chances in the\nJapanese Oaks. Her one and only big chance.\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"I can't believe that at the Shuka Sho—the grand\nfinale of the Tiara tour—all you could talk about\nwas yourself. Not a single word of praise for your\nopponents.\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"Everything you say, everything you do, it's\nalways about yourself. You're the worst princess\nthere is.\""
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "\"You aren't fit to enter a dignified and historic\nrace like the Queen Elizabeth II Cup. You never\nwere.\"",
+            "choice_data_list": [
+                "...None of that is true."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You can be honest with me. I mean, I... I..."
+        },
+        {
+            "name": "Chestnut-haired Umamusume",
+            "text": "Hey, this is a press conference for racers entering\nthe Japanese Oaks. Don't you think you should\nbehave more appropriately?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "After all, a princess blows past all the foes who\nstand in her way!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I intend to win the Queen Elizabeth II Cup, like a\ntrue princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A princess is full of spunk and bravery, but\nblessed with the dignity and grace to show mercy\nto her enemies. ♪"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A princess is strong and shows sincere respect for\nher opponents. I thought I'd learned that from\nPrincess Fighter, and yet..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I tried to paint myself as the only star. I treated\nthe other racers not as rivals, but as foes that\nneeded to be defeated."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I was arrogant and looked down on the other\nUmamusume. I was incredibly self-centered!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I hurt the feelings of others without even realizing\nit... Everything is all my fault!",
+            "choice_data_list": [
+                "You did nothing wrong.",
+                "You did nothing wrong."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's not true. It <i>can't</i> be true. Because I... I..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm not a princess at all! That's why no one thinks I\nam! I'm just... I'm just an embarrassment!",
+            "choice_data_list": [
+                "Don't say that..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her big eyes well up with tears. It looks like she\ncould break down at any moment."
+        },
+        {
+            "name": "Monologue",
+            "text": "She keeps putting all of the blame on herself, but\nis she really the only one who should shoulder\nthat burden?",
+            "choice_data_list": [
+                "You're wrong. It's my responsibility for not\ngiving you proper guidance.",
+                "You're wrong. It's my responsibility for not\ngiving you proper guidance."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm her trainer. And that means it's my role to lead\nher in the right direction."
+        },
+        {
+            "name": "Monologue",
+            "text": "...I'll hide these opinions in this box."
+        },
+        {
+            "name": "Monologue",
+            "text": "I should never have hidden those opinions from\nher. I should have explained them honestly, and\ntaught her what lessons she could take from them."
+        },
+        {
+            "name": "Monologue",
+            "text": "My job is to lead her along the path to becoming\na wonderful Umamusume who feels no shame\nwhen she looks back on her past."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But I'm the one who actually did all those things...",
+            "choice_data_list": [
+                "Even if that's true, you're not the only one to\nblame.",
+                "Even if that's true, you're not the only one to\nblame."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "B-but...",
+            "choice_data_list": [
+                "I'm sorry for making you shoulder all that alone."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer... It's not your... It's my..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "My...",
+            "choice_data_list": [
+                "...Let's keep growing together."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Sniffle... Sob...</i>"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Waaaaah! I'm sorryyyy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess loudly bawls her eyes out.\nOnce the tears have ceased, we make a pledge to\nkeep improving together."
+        },
+        {
+            "name": "TV Producer",
+            "text": "Are you sure you're okay? The live broadcast isn't\nover yet, but..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm truly sorry for before. I'd like to say some final\nwords, if that would be okay.",
+            "choice_data_list": [
+                "Allow me to join her too, please.",
+                "Allow me to join her too, please."
+            ]
+        },
+        {
+            "name": "TV Producer",
+            "text": "All right. Just don't push yourself if you don't feel\nup to it."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...Of course."
+        },
+        {
+            "name": "MC",
+            "text": "To bring this episode to a close, Kawakami\nPrincess has some final words she'd like to share\nwith all the viewers out there.",
+            "choice_data_list": [
+                "We're very sorry for what happened back there."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I apologize for suddenly losing my composure and\ngiving everyone such a shock. I must have made\nthe staff worry terribly."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But I swear that from this moment forth, I will\nconduct myself properly as a princess."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...So I'd like you all to continue watching me.",
+            "choice_data_list": [
+                "Thank you for your support."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Facing the program's viewers head-on, Kawakami\nPrincess expresses her newfound determination\nwith utmost sincerity."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later, I learn that this episode received around\nseventy viewer complaints. I contact the TV\nproducer to apologize, but he tells me..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Don't worry about a thing. I'm still a fan of\nKawakami Princess, and so is everyone else here.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Our next goal is the Kinko Sho. I'll do my best to\nsupport her so she can enter the race as a proud\nprincess."
+        }
+    ]
+}

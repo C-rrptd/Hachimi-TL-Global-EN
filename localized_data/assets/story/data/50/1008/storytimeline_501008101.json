@@ -1,0 +1,159 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Vodka",
+            "text": "It's good bye old year, hello new! Right, Trainer?\nAnd that's what I came here for."
+        },
+        {
+            "name": "Vodka",
+            "text": "So, yeah... Happy New Year! I'm lookin' forward\nto training hard again together this year.",
+            "choice_data_list": [
+                "Whoa, that was more formal than I expected."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Well, I've gotta be! My mom told me I have to do\nNew Year's greetings properly."
+        },
+        {
+            "name": "Vodka",
+            "text": "I don't do stuff if it doesn't have purpose, which\nmeans my comin' here's not just for show. You'll\nbe doing a lot for me this year."
+        },
+        {
+            "name": "Vodka",
+            "text": "So, about my resolution for this year... I guess I\ndon't even have to say it."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna be the coolest! That's it! That's all there\nis for me!",
+            "choice_data_list": [
+                "By the way, what was your resolution last year?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "To be cool!",
+            "choice_data_list": [
+                "And the year before?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "To try and be cool!",
+            "choice_data_list": [
+                "...Is it always the same?",
+                "...Is it always the same?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "They're not the same! It gets upgraded a little\nevery year."
+        },
+        {
+            "name": "Vodka",
+            "text": "And on top of that, I have another big goal this\nyear: the Derby.",
+            "choice_data_list": [
+                "What if you made that your resolution?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh! Nice! Yeah, let's do that."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna dream big and dominate the Derby!"
+        },
+        {
+            "name": "Vodka",
+            "text": "And so, I wanted do a little somethin' for the new\nyear to get off on the right foot."
+        },
+        {
+            "name": "Vodka",
+            "text": "Ya know, like... some superstitious stuff to ensure\nvictory or somethin'."
+        },
+        {
+            "name": "Vodka",
+            "text": "So, think of somethin' that suits me and I'll do\nthat over the rest of the break."
+        },
+        {
+            "name": "Monologue",
+            "text": "Hmm... A New Year's activity that suits Vodka... I\nwonder what would be best...",
+            "choice_data_list": [
+                "Become a lucky shrine maiden.",
+                "Spend the break on some wheels.",
+                "Go ape and put your pedal to the <i>mental.</i>"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "A shrine maiden? I don't think the cutesy look\nsuits me though."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hm, wait. Now that I think about it, I do know a\nshrine that does a lucky event like that every\nyear. All right!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Vodka competes in a good-luck race at a\nshrine. As for the results..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeahhh! I did it! I'm the lucky maiden of the year!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm gonna keep goin' like this for the whole year!\nOh yeahhh!"
+        },
+        {
+            "name": "Shrine Visitors",
+            "text": "Lucky maiden! Lucky maiden!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Cheers erupt for Vodka's victory. It seems she's\nalready raised her speed this year!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Wheels? You mean like a motorcycle? I don't\nhave one though."
+        },
+        {
+            "name": "Vodka",
+            "text": "But if you can get me on one, I'm in!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Man, this motorcycle game is sick! It feels like I'm\ndrivin' the real thing!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I wanna spend the whole break doin' this! Trainer,\nlighten up my trainin' schedule, will ya?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka spends most of her New Year's break at\nthe arcade. She seems to have enjoyed her time\noff."
+        },
+        {
+            "name": "Vodka",
+            "text": "Uhhh... What is there to go ape on over New\nYear's break? My homework?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Like, you want me go \"mental\" and hit some\nbooks? I don't really get it, but I'll give it a try."
+        },
+        {
+            "name": "Vodka",
+            "text": "Man, why do we have to visit the library on\nbreak? This book... <i>Human Ancestry Quiz?</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "So I just gotta memorize this and get the\nquestions correct? This is the Peking Man, and\nthis is the Java Man! How was that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka goes absolutely primal on her studies for\nthe entire break. She seems to come out with\nmore knowledge and broadened horizons."
+        }
+    ]
+}

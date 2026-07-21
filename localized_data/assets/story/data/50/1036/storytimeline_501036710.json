@@ -1,0 +1,46 @@
+{
+    "title": "レース敗北",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Damn... I'm not even on the scoreboard..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey! You recorded the race, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Send me the data straight away so I can identify\nwhat went wrong and rewrite the algorithm for\nnext time.",
+            "choice_data_list": [
+                "Your persistence is really admirable.",
+                "The next race is in the bag."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Huh? You think I need you to tell me that?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I just need to raise the accuracy of my program,\nand the next race should go as calculated."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No way I'm gonna leave the code I've been\nworkin' on for so long unfinished."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Of course, first place is as good as mine."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll use every means at my disposal to get it. That\nincludes you, obviously."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm not gonna let anyone look down on me\nagain..."
+        }
+    ]
+}

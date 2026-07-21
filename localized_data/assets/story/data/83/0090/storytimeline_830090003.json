@@ -1,0 +1,187 @@
+{
+    "title": "熱が導く",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After coming to observe a dance lesson, I find\nmyself pulled into some pair dance training with\nSirius Symboli!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Huh... So you got a little less crap at this. You still\nturn like a baby deer though.",
+            "choice_data_list": [
+                "O-oh, I see...",
+                "O-oh, I see..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite how harsh her critique sounds, I have no\ngood counterargument to make. On second\nthought, maybe her comment was actually... kind,\nin a way? Suddenly..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Might I cut in?",
+            "choice_data_list": [
+                "Symboli Rudolf?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I wish to have a dance with you. Just one. What\ndo you say?",
+            "choice_data_list": [
+                "Um, but..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...Clearly you see we're busy. What're you up to?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "No ulterior motives here. I simply felt like\ndancing."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Oh, please! Who are you kidding? Or I guess the\nEmperor's got nothing better to do, then."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hey, <i>you!</i>",
+            "choice_data_list": [
+                "M-me?!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Pick me as your partner. I'll lead.",
+            "choice_data_list": [
+                "Wh-whoa?!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now, shall we begin? My hand is yours to take.",
+            "choice_data_list": [
+                "Huuuh?!"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hmm... Ah! Let's go with this track! This song's so\none person can alternate between two partners!\nAaand <i>play!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "The song starts. Both Umamusume make such\nmagnificent leads that the students watching\nsqueal in delight."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sirius Symboli leads quite assertively, but I never\nfeel like I'm being left behind."
+        },
+        {
+            "name": "Monologue",
+            "text": "Drawn into her rhythm, it's as though I'm dancing\nwith a swirling pillar of flames."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Your dance partner is <i>here.</i> Quit looking around.\nLift your face."
+        },
+        {
+            "name": "Monologue",
+            "text": "Symboli Rudolf, on the other hand, aligns her\nmomentum with mine and moves with graceful\nelegance."
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel the want to be carried away into her stream\nof serenity—I want to give in to her riverlike\ncurrent."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Do you grow anxious from the looks of our\nsurrounding audience? Ignore them. In this\nmoment, I am your partner. Your attention should\nbe fixed on me."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So you're tepid on the dancefloor, too? Gimme a\nbreak."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Try listening more closely to the music.\nExpression doesn't come from ferocity alone."
+        },
+        {
+            "name": "Monologue",
+            "text": "Sparks start to fly between my two partners, even\nas their eyes remain fixed on me. The air between\nthem may be hostile, but throughout the rest of\nthe room..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "They're amazing. I want to dance like that too!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "I'm next! Dance with me next! Pleeease!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I find myself immersed in the feverish excitement\nof the room."
+        },
+        {
+            "name": "Onlookers",
+            "text": "That was heavenly!",
+            "choice_data_list": [
+                "Y-you were both incredible..."
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I think I'm in love... I want to dance like they did.\nDo you think I can learn how if I keep taking\nlessons?!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Same! Same! It was just <i>so</i> cool how she led the\ntrainer with all those flowing movements."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Oh. Yes, that was it all along."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(A heat born of friction...)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Of course. Though we may clash, it doesn't lead\nus to a standstill. The two of us are always striving\nto move forward.)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(The heat we generate draws others in, such that\nit may push us all beyond that apex.)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Though our paths may never cross, and though\nour destinations are different, with this passion...)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Perhaps we can guide the great many to new\npossibilities.)"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "We were both incredible? ...It still hasn't sunk in,\nhuh? Get over here, and I'll show you what I can\ndo one more time.",
+            "choice_data_list": [
+                "Eep."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. Indeed. I would have you comprehend\nthoroughly this heat that guides the many."
+        },
+        {
+            "name": "Monologue",
+            "text": "With sparks between them lighting up the room,\nSymboli Rudolf and Sirius Symboli stand before\nme. Behind, a crowd of envious-looking\nUmamusume watch on."
+        },
+        {
+            "name": "Monologue",
+            "text": "And then I come to realize, I'm surrounded on all\nsides."
+        }
+    ]
+}

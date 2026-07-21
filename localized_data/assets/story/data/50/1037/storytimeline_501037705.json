@@ -1,0 +1,310 @@
+{
+    "title": "誠意を貴方へ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash wants to go shopping, so we stop by\nthe shopping mall on our way home."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for accompanying me.",
+            "choice_data_list": [
+                "Of course. So what do you need to buy?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I wish to purchase thank-you gifts for people who\nhave helped me during my time in Japan. I have\nbeen saving up for this occasion."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I have a list of what I'd like to get, so this should\nnot take long. Let's be on our way."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A comfortable pillow for Falcon, a clutch purse\nfor Jordan..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A Moai statue for Golshi... A tumbler for\nNakayama..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Now, only one gift remains. I'm surprised I'm still\nunder budget.",
+            "choice_data_list": [
+                "Who's left?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "You, of course.",
+            "choice_data_list": [
+                "You don't have to get me anything!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Of course I do. You have helped me more than\nanyone."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Is there anything in particular you would like? My\nbudget is now higher than anticipated, so I'm\nopen to requests.",
+            "choice_data_list": [
+                "I'd like to look around first.",
+                "I'm fine with anything you pick!",
+                "I'm fine with anything you pick!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Is there anything in particular you would like? My\nbudget is now higher than anticipated, so I'm\nopen to requests.",
+            "choice_data_list": [
+                "I'd like to look around first.",
+                "I'm fine with anything you pick!",
+                "I'm fine with anything you pick!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Very well. Let's find something together."
+        },
+        {
+            "name": "Monologue",
+            "text": "We browse for a while until suddenly, I notice\nEishin Flash staring intently at one particular\nitem."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's a stopwatch decorated with ladybugs. Now\nthat I think about it, Eishin Flash does love\nladybugs..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh. Excuse me. I didn't mean to get distracted...",
+            "choice_data_list": [
+                "I think I'd like that stopwatch."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Huh? You've taken a liking to it as well?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wait... Can it be you are planning to regift it to\nme?",
+            "choice_data_list": [
+                "Oops. You saw right through my plan.",
+                "Oops. You saw right through my plan."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Of course I did. You are kind as always."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, this is supposed to be a gift of\ngratitude for <i>you.</i>"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So as happy as I am for your thoughtfulness—",
+            "choice_data_list": [
+                "Your happiness is the best gift I could ask for."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Very well. Then I shall graciously accept your\nkindness..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I shall treasure it with my whole heart."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash carries the stopwatch to the register\nwith a truly priceless smile."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Here you go..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me the stopwatch, and then I present it\nback to her."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...Thank you very much, Trainer.",
+            "choice_data_list": [
+                "Well, let's head back."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Wait a moment. Before we do—"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Please accept this.",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Open it. You'll see."
+        },
+        {
+            "name": "Monologue",
+            "text": "I do as she says and discover a picture frame\ninside."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I couldn't ignore my desire to gift you something,\nyou see..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "There is a particular picture I wish for you to put\nin that frame.",
+            "choice_data_list": [
+                "And that would be?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The picture we'll take together to commemorate\nmy victory at a race."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I believe that would be the best proof that I have\nachieved what I must—and the gift that would\nbring you the most joy."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hehe. Please look forward to that day."
+        },
+        {
+            "name": "Monologue",
+            "text": "After receiving such a wonderful present from\nEishin Flash, I feel even more determined to work\nhard together with her."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Anything, you say? But I want to choose\nsomething that I know you will like..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hmm. What a predicament.",
+            "choice_data_list": [
+                "You don't need to put so much thought into it."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Please be patient. I shall find the perfect gift for\nyou within the next twelve minutes, thirty\nseconds."
+        },
+        {
+            "name": "Monologue",
+            "text": "Eishin Flash takes off before I can try to stop her."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Seven minutes, eighteen seconds remain. Hmm...\nI'm struggling to find the right gift..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "No, I mustn't fret. Toi, toi, toi... I should return to\nthe floor map and think it over..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, hi! I thought that was you, Flash! ♪ Never\nthought I'd bump into you here!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? You're by yourself? But this morning you\ntold me you were going to be hanging out with\nyour trainer..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hello, Falcon. That is true, but I am currently—"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ooh, okay! So you're looking for something to\nget your trainer, huh?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Not too long ago, we were watching TV when the\ntrainer took a liking to the Arita ware teacups\nthey were showcasing..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "But then again, there was the fancy table lamp\nthey introduced in the Scandinavian-themed\nprogram too..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Taking such remarks into consideration, the\nperfect gift must be... No, there must be\nsomething else... Hm..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Umm... Aren't you overthinking this?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Indeed, my thoughts are in gridlock. Only five\nminutes, twenty-eight seconds remain... Will I be\nable to find a suitable gift in time?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hmm... Well, at times like this, you should..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you for your patience, Trainer."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Here... Please accept this gift."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's a cake. As the daughter of pastry chefs, I can\nattest to the quality of the patisserie where I\npurchased this."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm sure, well... I think you will like how it tastes."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I can only hope this is a satisfactory gift...",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Oh! What a relief..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yay! I'm so glad it worked out! Good for you!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. Your advice was most helpful, Falcon."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Ehehe! Aren't I just the best? When it comes to\nstuff like this, you don't have go for a perfect\nscore or anything."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It was just like you said—it's the thought that\ncounts. Clearly conveying my sincerity was all I\nneeded to do."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I hope Trainer is enjoying the cake right now."
+        }
+    ]
+}

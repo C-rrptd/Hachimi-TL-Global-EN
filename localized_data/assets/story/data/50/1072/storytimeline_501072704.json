@@ -1,0 +1,232 @@
+{
+    "title": "常に、誰かの“師”たれ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While out one day with Yaeno Muteki, we head\nto a mountain at her request."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I apologize for dragging you to such a place. The\ntruth is, I've discovered that the missing Yaegaki\nstudent is actually somewhere around here."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I am familiar with these notions. I am also familiar\nwith someone else who feels this way."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My senior... She felt empty after mastering the\nmartial arts and ended up abandoning our school."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I may be able to get through to her now... At\nleast, I think I've grown enough to do so.",
+            "choice_data_list": [
+                "But do you think we'll be able to find her on\nthis vast mountain?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "We won't need to find her. She's been watching us\nsince the moment we set foot here."
+        },
+        {
+            "name": "???",
+            "text": "Oho, I heard you'd chosen to walk the path of\nracing... I'm surprised to see your senses are still\nsharp."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the next instant, a huge Umamusume clad in a\nragged martial arts uniform tied with a straw rope\ndescends from the trees above."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's been some time. I was surprised to hear you\nwere in a place like this."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "This is all that's left for me. I've done everything\nthere is for me in civilized society. If nothing else,\ntaking on the great outdoors has helped stave off\nthe emptiness."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Was there truly no other path for you? A life like\nthis offers only a temporary reprieve..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You could continue to polish your skills and serve\nas an inspiration to the students who looked up\nto you. That could be your life."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Hmph. What good is it to learn from someone\nwho's lost their way?"
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "...Maybe someday you'll know how I feel. Once\nyou've mastered the path of racing, you might\nend up staring into the same empty abyss."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You're just making excuses!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Do you know what I've learned in the world of\nracing? That you'll never reach the end of your\npath as long you can compete against your fellow\nrunners! Because you push each other to greater\nheights!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When the next generation chooses their own\npaths, they will look at the ones we have taken.\nThe very connections we make with others forge\nthese paths!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "You have your own friendly rivals at the dojo, do\nyou not?! And don't forget the students who look\nup to you! Even those who suffered defeat at your\nhands are training for a rematch!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "How can you just ignore them all and claim to feel\nnothing but emptiness?! Cease this selfish\nnonsense!"
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Heh. You've always been one to use words\nexcessively. So you came all the way here just to\ngive me a lecture, huh?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "No! I came here to <i>prove</i> to you that connections\nare what lead to growth! And that's why..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I will expertly deflect your mightiest strike!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems like when Yaeno Muteki said she wanted\nto \"get through to her,\" she didn't mean with\nwords—she meant using a method that only a\nfellow martial arts practitioner would understand.",
+            "choice_data_list": [
+                "Hold on... This is way too dangerous!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I'm aware of the risks! Fear not... The teachings I\nhave learned from <i>you</i> are firmly ingrained within\nme!"
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "...Bring it on. I'm not so dishonorable that I'd\nrefuse a duel with an earnest opponent. Oh, but...\nI won't be holding back."
+        },
+        {
+            "name": "Monologue",
+            "text": "The older Kongo Yaegaki student assumes a low\nstance, exuding a violent ferocity as she slowly\ncloses the distance between herself and Yaeno\nMuteki."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "(It comes without shadow or sound, felling all in\nits wake—it is the ultimate strike and the final\nYaegaki technique. However... my heart is free of\nfear!)",
+            "choice_data_list": [
+                "Trust in all you've learned!",
+                "Trust in all you've learned!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "(Yes! With my mentor by my side, I have\nconquered countless battles against formidable\nfoes!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "The raging blaze fierce and the calming water\nstill... A brief tip in the balance causes her to be\nblown backward. But the side of her that finally\novercomes her opponent's technique is..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Urgh! <i>Pant... Pant...</i>"
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Water still... So that's the strength you gained\nthrough your connections with others?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Cough...</i> In that instant, the memories I've made\nwith the people I met along my path... imbued me\nwith water's ultimate wisdom."
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Our master said something to me once, and\nlooking at you just now reminded me... \"Consider\nevery person you meet on your path a mentor.\""
+        },
+        {
+            "name": "Yaeno's Classmate",
+            "text": "Guess it's time for a reset. I'm gonna start my\ntraining over from square one... I'd better head\nback to the dojo and apologize to everyone."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "The reason I was able to act as a mentor to her is\nbecause I've been surrounded by wise mentors\nmyself."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My master, my friends... and you, Trainer.",
+            "choice_data_list": [
+                "In that case, you're also a mentor to me!",
+                "In that case, you're also a mentor to me!",
+                "I wonder if she'll be okay...",
+                "I wonder if she'll be okay...",
+                "You could probably start your own school at\nthis point.",
+                "You could probably start your own school at\nthis point."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "My master, my friends... and you, Trainer.",
+            "choice_data_list": [
+                "In that case, you're also a mentor to me!",
+                "In that case, you're also a mentor to me!",
+                "I wonder if she'll be okay...",
+                "I wonder if she'll be okay...",
+                "You could probably start your own school at\nthis point.",
+                "You could probably start your own school at\nthis point."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah! It is an honor to hear that... Yes, let's consider\nthat observation to be a truth."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It appears that we see ourselves in one other, and\ntherein find inspiration to better."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "That could well be the ideal mentor-student\nrelationship... Hehe."
+        },
+        {
+            "name": "Monologue",
+            "text": "I set off back to the academy alongside an\nuplifted Yaeno Muteki."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "She will. Now that her misgivings have been\nexpelled, there's little cause for concern. I expect\nshe will become even stronger, and the next time\nour paths cross, I might even fail to evade her\nstrike."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "As I continue down my path, I will surely come\nacross others who have lost their way."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "When I do, I hope I can be worthy to serve as a\nmentor to them. That is my greatest hope at this\nmoment..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I set off back to the academy alongside an\nuplifted Yaeno Muteki."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "No, I'm <i>far</i> from ready. The earliest I could even\ncontemplate such a thing would be after\naccomplishing my greater goal.",
+            "choice_data_list": [
+                "Are you talking about our goal race?",
+                "Are you talking about our goal race?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hehe. The goal I speak of is for you to someday\nacknowledge my skills, and proclaim me master."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "To achieve my boundless goals, I will continue to\ndevote myself to progress!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I set off back to the academy alongside an\nuplifted Yaeno Muteki."
+        }
+    ]
+}

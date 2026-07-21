@@ -1,0 +1,104 @@
+{
+    "title": "Experience Leads to Strength",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Nice Nature",
+            "text": "Hmm..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Say, Trainer, didn't you say we'd go on some\naway races after the Wakagoma Stakes?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I know the Kokura Kinen is our goal, but have you\nalready decided what other races I'll be taking\non?",
+            "choice_data_list": [
+                "Do you have something in mind?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "No, not really, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Nice Nature doubts her own strength. She simply\nlacks confidence. Which race she enters won't\nchange that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her anxiety is apparent in the way she keeps\naverting her gaze. I suppose it's something she\ncan't shake, even if she knows better. In that\ncase...",
+            "choice_data_list": [
+                "It'd be nice to go somewhere we can do some\nsightseeing."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh?",
+            "choice_data_list": [
+                "We might as well if we're going on a trip."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Sightseeing, huh?",
+            "choice_data_list": [
+                "Maybe Kyoto? They have good pickles there."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "You want to eat pickles?",
+            "choice_data_list": [
+                "Or how about looking at the fireflies in Hyogo?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Fireflies..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pfff, ahahaha! Yeah, you're totally right! It is a\ntrip after all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pickles and fireflies sound good to me. Might as\nwell choose races around there..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Like maybe the Kyoto Shimbun Hai in Kyoto and\nthe Naruo Kinen at Hanshin Racecourse?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Yeah, I'll keep those in mind."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Let me know in advance if we're going for sure,\nokay? I want to have time to look up sightseeing\nspots and stuff.",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "And Trainer..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Thank you."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's not a bad idea for her to run in the Kyoto\nShimbun Hai and Naruo Kinen before the Kokura\nKinen."
+        },
+        {
+            "name": "Monologue",
+            "text": "I hope those races can help Nice Nature gain\nsome confidence..."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "今度こそ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Shakur",
+            "text": "Okay, it's about time to do this."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I've rewritten my program, so I don't expect we'll\nsee the same garbage output as before.",
+            "choice_data_list": [
+                "I'm expecting good things."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Forget expectations. I'd prefer you just think\nabout our next race. I've already calculated the\nresults."
+        }
+    ]
+}

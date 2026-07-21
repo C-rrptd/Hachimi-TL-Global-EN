@@ -1,0 +1,50 @@
+{
+    "title": "“東”VS“西”",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Just before we're supposed to run in the Kyoto\nDaishoten, a certain piece of news drops."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow... So Suzuka managed to win the Mainichi\nOkan."
+        },
+        {
+            "name": "Monologue",
+            "text": "Silence Suzuka is a powerful force in the racing\nworld. She's amassed a large number of fans with\nher unreal speed, earning her the nickname\n\"Otherworldly Front-Runner.\""
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "And she left Grass and El in the dust?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That sure <i>is</i> otherwordly. Tokyo Racecourse must\nhave been raving.",
+            "choice_data_list": [
+                "We won't lose though!",
+                "We won't lose though!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm, I guess so... Yeah, we gotta end big!",
+            "choice_data_list": [
+                "I'm glad you're excited.",
+                "I'm glad you're excited."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I'm not really. It's just way more fun to get other\npeople hyped."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "If Suzuka used her speed to pull ahead, that\nmeans..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "I can win if I use my special magic. ♪ Let's go\nlight up Kyoto!"
+        }
+    ]
+}

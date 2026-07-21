@@ -1,0 +1,240 @@
+{
+    "title": "A Warm and Fluffy Start",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Taiyaki Shop Attendant",
+            "text": "Taiyaki! Taiyaki! Get yer taiyaki hot and steamin' right off the press!\nThis'll be today's last!",
+            "choice_data_list": [
+                "Excuse me, can I get that—"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "One taiyaki pleeease!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh?! Wh-wh-whoa, sorry! Please, go on ahead!",
+            "choice_data_list": [
+                "No no, you go ahead."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "No, we kinda both got here at the same time and... Oh, I know!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mm! Soft and flaky, chewy-gooey deliciousness. And now I'm stuffed!",
+            "choice_data_list": [
+                "Sorry for taking half of it.",
+                "Sorry for taking half of it."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Nah nah, snacks are even tastier when you share! And you're a trainer\nat the academy, yeah?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "This has gotta be more than chance. Hopefully we get to meet again\nsoon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And just a few days later..."
+        },
+        {
+            "name": "Meat Bun Shop Attendant",
+            "text": "Meat buns, meat buns! Meet yer new favorite snack—my last remainin'\nmeat bun!",
+            "choice_data_list": [
+                "Excuse me, can I get that—"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "One meat bun pleeease!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Huh?! Wh-wh-whoa, sorr— Geh, heeeh? It's you!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohohoho, I s'pose lightning can strike the same place twice. Shall we\ngo halfsies today too? Heehee."
+        },
+        {
+            "name": "Monologue",
+            "text": "And after a few more days of our bellies crying out at the same time\nand place..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, good morning! Hey hey, check out this pic!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Muhuhu. Somehow someway, I managed to snag that new spider\nplushie! Isn't he so cute?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We've become something like small talk buddies, and chats like this\nare common whenever we run into each other in the academy halls.\nThen one day..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Several students are engaged in ramp training, led by Mihono\nBourbon."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "First ramp dash complete. Commencing second dash."
+        },
+        {
+            "name": "Student A",
+            "text": "<i>Huff... huff...</i> Is she <i>really</i> going for another? No waaay!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Phew... This is rough!"
+        },
+        {
+            "name": "Student B",
+            "text": "Nooo... waaay... Haaa... Urgh, and here I thought I finally... built up\nsome stamina."
+        },
+        {
+            "name": "Monologue",
+            "text": "Though some of her peers seem to be quite spent,\nMatikanetannhauser presses behind Mihono Bourbon up the ramp\nonce more."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... whew... huff!</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Third run. Adding two hundred meters. <i>Huff!</i>"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "M-me toooo!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... phew...</i> Couldn't quite... cut it... that time... Bourbon's\nreally somethin' else... Wah!"
+        },
+        {
+            "name": "Student A",
+            "text": "Are you okay?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehe, I'm okay, I'm okay! My legs are just a little shaky. Looks like I've\nstill got work to do."
+        },
+        {
+            "name": "Student B",
+            "text": "Really? 'Cause you were pretty awesome up till those last three\nhundred meters. You were right on her tail!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mihono Bourbon's regimen is known throughout the academy as being\nespecially tough. Most students give up after one ramp dash.",
+            "choice_data_list": [
+                "(She's really got it where it counts. Just needs a\nbit of extra polish...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Student A",
+            "text": "Hey, haven't they been at it for a while now? Like over two hours or\nsomething at this point? Looks like they're really serious about\ninterval training."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Right behind, right behind, stay <i>right... behind...</i> Haaa, I'm <i>totally</i> at\nmy limit!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Huff... huff... huff...</i> I gotta stop! Thought I had a bit more stamina\nthan that!"
+        },
+        {
+            "name": "Student A",
+            "text": "No, that was great! You put up a great fight, Machitan."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, well thank ya very kindly! Hm? Oh! Now since when have you\nbeen standin' there?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Kinda wish you came when I was actually running at my best. I really\nthought I'd be able to finish that round, hehe."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "But ya know, I really did pick up on some good long-distance tricks.\nYeah, that was a pretty good sesh. Gotta jot these down before I\nforget..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I need to think of more ways to raise my stamina, and I should\nprobably try out a form with less air resistance... Mun."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh yeah, while I've got you here, Trainer. Um, would you mind giving\nme some pointers?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "My goal this month is to get tough! I wanna up my stamina and really\nwork on building slow-twitch muscle!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She hands me her notebook, which I quickly take a look at. The\ntraining plan neatly notated on the calendar appears moderately\ntough.",
+            "choice_data_list": [
+                "This is some good stuff! Very detailed, too."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, thank you very much."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "To be honest, I don't think I quite have what it takes to compete with\nthe best of the best yet. I'm trying not to push myself <i>too</i> hard."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I just want to do what I can for now, 'cause I know it'll all work out for\nme eventually!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's amazingly positive, hardworking, and down-to-earth. From the\nlittle bit that I've seen of her over the last few days, I feel like we\nwould make a good team."
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if she doesn't stand out so much yet, I know that she definitely\nhas what it takes to shine."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm? Somethin' up?",
+            "choice_data_list": [
+                "Would you like to make a contract with me?",
+                "Would you like to make a contract with me?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "A contract? Oh, wait! Is this a scouting offer?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Yay, I definitely accept! A big welcome, comin' from me to you, my\nhalfsies partner! Here's to sharing a lot more than just snacks!"
+        },
+        {
+            "name": "Monologue",
+            "text": "While quite normal in many ways, Matikanetannhauser is just peculiar\nenough in others to ensure fun and fruitful days ahead."
+        }
+    ]
+}

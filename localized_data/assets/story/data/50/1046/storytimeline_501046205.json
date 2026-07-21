@@ -1,0 +1,81 @@
+{
+    "title": "フェブラリーSにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today is the February Stakes, the first of the\nraces Smart Falcon declared she'd win. A sense of\nexcitement fills the air at Tokyo Racecourse."
+        },
+        {
+            "name": "Fan A",
+            "text": "I wonder how Smart Falcon's gonna do. What if\nshe stumbles right off the bat?"
+        },
+        {
+            "name": "Fan B",
+            "text": "Hm... She was pretty good last year, but I\nwouldn't say she's the best."
+        },
+        {
+            "name": "Fan A",
+            "text": "You know, I think this is my first time watching a\ndirt race. I'm actually getting pretty hyped up."
+        },
+        {
+            "name": "Monologue",
+            "text": "Smart Falcon can feel the energy of the venue\neven from the waiting room."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...I wonder how high we can go?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Well, Tokyo Racecourse is also home to the\nJapanese Derby, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Japanese Derby is a high-profile turf race\nexclusive to classic-year racers, many of whom\nstake their dreams on it."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "The Derby is on the same level as the Arima\nKinen... or bigger, even."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I was just wondering how close we can get to that.",
+            "choice_data_list": [
+                "It's a high hurdle, for sure.",
+                "It's a high hurdle, for sure."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Yeah, the Derby is a super special race—I know\nthat! No matter how hard I chase it, I can't get\nthere right now."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Still, we're getting plenty of attention!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "If I can place first today, the next race will get\njust a little more special!",
+            "choice_data_list": [
+                "And you'll have to keep on winning.",
+                "And you'll have to keep on winning."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I know. We won't have a story if I go losing right\nat the start."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I have to win and become the trending topic. That\nway, I'll be all smiles on the year-end stage!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...All right! Time to kick things off on the right\nfoot!"
+        }
+    ]
+}

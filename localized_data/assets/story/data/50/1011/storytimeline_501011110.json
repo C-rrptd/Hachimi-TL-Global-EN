@@ -1,0 +1,72 @@
+{
+    "title": "エンディング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder has managed to leave quite a mark\non the Twinkle Series."
+        },
+        {
+            "name": "Monologue",
+            "text": "Together, we've successfully navigated the crucial\nfirst three years of her career."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We've passed a significant milestone, haven't we?",
+            "choice_data_list": [
+                "I'm glad we made it through!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh... Trainer? It seems you've been moved to\ntears yet again."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You've been a leaky faucet ever since the Arima\nKinen. There, there. ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "By the way, there's something I would like you to\nsee once you've finished wiping your eyes.",
+            "choice_data_list": [
+                "What is it?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, do you remember the promise I wrote out\nfor you when we were getting started?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "To mark this new occasion..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Allow me to present you with a favorite poem of\nmine."
+        },
+        {
+            "name": "Monologue",
+            "text": "Just like before, Grass Wonder hands me a sheet\nof paper."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open it up to see the warmest, gentlest brush\nstrokes of calligraphy I have ever seen. The poem\nreads..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "When spring comes again, and the years bring us\nback here, may this day return. Let us share a\njoyous drink—with plum petals in our hair."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'll make some delicious tea, so let's celebrate\nspring together each year."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And please, continue to walk this path with me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We've still got a long, long way to go together!"
+        }
+    ]
+}

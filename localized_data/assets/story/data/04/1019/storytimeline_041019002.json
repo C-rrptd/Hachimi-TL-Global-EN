@@ -1,0 +1,309 @@
+{
+    "title": "Don't Expect Too Much",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A trainer with no trainees has one job—getting to know new students.",
+            "choice_data_list": [
+                "(All right, I'm gonna <i>really</i> study the racers\ntoday!)"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Pant, pant...</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "When I get to the tracks, I spot Agnes Digital running the dirt course."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's small, but she's sturdy and seems to have a lot of leg strength.\nIn the blink of an eye, she blasts down the final straight and crosses\nthe finish line.",
+            "choice_data_list": [
+                "(She looks experienced... I guess she's already\ndebuted, then.)",
+                "(She looks experienced... I guess she's already\ndebuted, then.)"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Whew..."
+        },
+        {
+            "name": "Instructor",
+            "text": "Agnes Digital, that was great! You were in top form, as always. At this\nlevel, you're more than ready to take on the tryouts."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Hwah?! The tryouts? Already?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But I, uh... That's kinda... Could I have more time to think about it?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I'll, uh, I'll just scooch over to the turf course..."
+        },
+        {
+            "name": "Instructor",
+            "text": "Ah! If you insist. Don't push yourself too hard, though!"
+        },
+        {
+            "name": "Instructor",
+            "text": "To think that she trains this hard every single day... and then turns\naround and does it again on the other track. She's working twice as\nhard as anyone."
+        },
+        {
+            "name": "Monologue",
+            "text": "As Agnes Digital sets off down the turf, I'm taken aback by how light\nher steps are. I thought she was a dirt racer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I whip out my stopwatch to check her time, and my jaw drops."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's good on turf <i>and</i> dirt, but she hasn't even run the tryouts yet, let\nalone debut?",
+            "choice_data_list": [
+                "(I wonder what's stopping her...)",
+                "(I wonder what's stopping her...)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My curiosity gets the better of me, and I head over to ask her\ndirectly."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Fweheehee... Running on the same ground my oshis just stepped on is\nso magical!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "If I can just follow their cleatprints, I'll be ready to follow them down\nany track! Mwehehe, I'll follow them to the ends of the earth..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah, but I've gotta be careful not to stick out. I dunno what I would've\ndone if I accidentally agreed to enter the tryouts.",
+            "choice_data_list": [
+                "Why's that?",
+                "Why's that?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I mean, I'd never forgive myself if I made such a rookie mistake..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "W-WAIT! Who just said that? You?!",
+            "choice_data_list": [
+                "Me. We watched Daiwa Scarlet together."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Oh, you're that trainer who was simping as hard as I was. Looks like\nwe meet again."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "So how's everything going? Lady Luck rewarding your efforts?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I've been working hard to rack up good karma, y'know. Praying to my\nmerch shrine, giving thanks for my daily doses of moe, ugly crying\nover idols..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "B-but more importantly! You didn't, uh, happen to overhear me\nrambling, did you?!",
+            "choice_data_list": [
+                "I did...",
+                "I did..."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Ah... I see. I see how it is."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Well, the reason I'm avoiding the tryouts is honestly pretty simple.\nJust imagine your Umamusume oshis for a sec."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "They specialize in either turf or dirt, right? But I don't really have a\nspecialty, and I have favs in both."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "That's the hardest part... I can't pick one without abandoning the\nother. And I really, reeeeeally don't want that...",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The graded races at central racecourses are mostly for turf, especially\nat higher levels."
+        },
+        {
+            "name": "Monologue",
+            "text": "A lot of racers inevitably drift away from dirt, so I get what Agnes\nDigital means.",
+            "choice_data_list": [
+                "You're really passionate about racing, huh?",
+                "You're really passionate about racing, huh?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Well, of course! I love watching both styles! I love turf Umas <i>and</i> dirt\nUmas! I love every single Umamusume ever to run!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh?"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Y'know, um. It ain't easy bein' a fangirl, okay?! I've got way too many\nfavs to watch just one track type!",
+            "choice_data_list": [
+                "To... watch?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Duh! I thought you were as down bad as I am! I wanna watch both! I\nhave to, but..."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "If I run turf, I won't be able to see dirt Umas up close! If I run dirt, I\nwon't get to see turf Umas!"
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Aaaaahdk, how is that even fair?! I can't come up with a solution, so\nI've been turning down all the scouts and tryout invites to stall for\ntime."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "I just wanna SIMP! Whether on turf or dirt, I wanna absorb the glory of\neeeeevery single Umamusume from the frontlines!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Hmm... I can't help but feel like she's seeing things as a fan more than\na racer."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "But at least you get me! You feel my pain, right?! 'Cause you love\nUmamusume too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I attempt to calm Agnes Digital down, then I take stock of the\nsituation."
+        },
+        {
+            "name": "Monologue",
+            "text": "She wants to follow her favorite \"oshi\" Umamusume, but debuting as a\nracer herself will limit what kind of races she can join."
+        },
+        {
+            "name": "Monologue",
+            "text": "She can't pick between dirt or turf, so she's been dodging the\nquestion by rejecting scout offers."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "<i>Sigh...</i> If I had a clear specialty, it'd be so much easier to accept the\ninevitable..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's already spent so long thinking herself in circles. Maybe what\nshe really needs is a second opinion.",
+            "choice_data_list": [
+                "How about we ask some other racers for advice?",
+                "How about we ask some other racers for advice?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "Huh? We can't just..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I peek down at the course, where I spot the Overlord of turf racing,\nT.M. Opera O, and the idol of dirt racing, Smart Falcon.",
+            "choice_data_list": [
+                "Let's go get their opinions!"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...What."
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "WHAT?! That's the Overlord and the Umadol!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "My, what fervent gazes. Are you perhaps here to see me?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I welcome you both! I'm always happy to pose for photos, answer\nquestions, record interviews—anything for my adoring fans!",
+            "choice_data_list": [
+                "Well, we wanted to ask why you chose turf over\ndirt.",
+                "Well, we wanted to ask why you chose turf over\ndirt."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Oh, that's quite a unique question. The answer is simple, really. For\nyou see—I simply chose the stage best suited to complement my\nglory!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh? I know you... You're Digital! Thank you for cheering me on at my\nlast performance!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'm so flattered to see you here at the track! ♪ You must be a really\nbig fan!",
+            "choice_data_list": [
+                "She was hoping to ask why you chose dirt\nracing.",
+                "She was hoping to ask why you chose dirt\nracing."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? The reason I picked dirt over turf? Hmm... Well... I promised\nmyself that I'd be my best self and do what only I can! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though their phrasing differs, both answers are essentially the\nsame. They picked a style that would show off their talents best."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now to apply that to Agnes Digital...",
+            "choice_data_list": [
+                "Did that help you decide?",
+                "Did that help you decide?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...",
+            "choice_data_list": [
+                "Earth to Agnes Digital."
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Agnes Digital",
+            "text": "...As the grass follows the wind, so too does luck follows the virtuous.",
+            "choice_data_list": [
+                "Uhhh?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "On that cryptic note, she passes out... Did I just witness someone\nswoon in real life?"
+        }
+    ]
+}

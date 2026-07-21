@@ -1,0 +1,215 @@
+{
+    "title": "解けないものは、解けないままでいい",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "I remember, a long time ago, a friend and I used\nto play pretend cafe. My friend played the cafe's\nbarista. Whereas, I..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I meander aimlessly, stuck trying to put\nsomething together for the next training regimen,\nwhen..."
+        },
+        {
+            "name": "Cafe Barista",
+            "text": "...Oh, you look rather lost in thought. How about\na cup of coffee at my cafe? I've just opened up."
+        },
+        {
+            "name": "Monologue",
+            "text": "I take a look at the cafe before me. There's\nsomething about the rustic exterior that draws me\nin..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Welcome. I think... you will be our last\ncustomer."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I'll pour you... a cup of coffee."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Here you are.",
+            "choice_data_list": [
+                "Ooh, latte art of a cat.",
+                "Ooh, latte art of a cat."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The execution is perfect. My attention is drawn to\nits charming expression. And... into the center of\nits round eyes..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I... become sucked in..."
+        },
+        {
+            "name": "???",
+            "text": "HEY, wake up already!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You're conscious... Your eyes look fine.\nEverything's normal. Just as I thought. We got\nhere right before the nosedive.",
+            "choice_data_list": [
+                "Wh-what do you think you're doing?",
+                "Wh-what do you think you're doing?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "We're investigating the \"illogical\" cafe! Shakur\ncouldn't get it off her mind. This place is\nwonderful, don't you think?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Cafe, there's no foolin' me. I know this is all your\ndoing."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The trigger is the coffee, right?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The latte art serves as a visual distraction as you\nalter our state of consciousness. In other words,\nit's hypnosis."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But what I can't figure out is... how you\nhypnotized us before serving the latte art.",
+            "choice_data_list": [
+                "<i>Before</i> the latte art?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Yeah. Doesn't make sense no matter how you\nslice it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You were drawn to this cafe the moment you saw\nit, right? The same thing happened to us, and\neveryone else who's visited this place."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "So, you walk inside and who's behind the bar?\nNone other than Cafe. Were you surprised?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Right. One look from the outside and I did a feel\na strong pull inviting me in. But I didn't find it\nstrange that Manhattan Cafe was inside.",
+            "choice_data_list": [
+                "Now that I think of it, it does all seem bizarre...",
+                "Now that I think of it, it does all seem bizarre..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "My suspicions brought me back here. And just as I\narrived, there you were moseying your way inside."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The question is... what is it that altered your\nconsciousness from the start?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Cafe. It's time to come clean. What did you do?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...This cafe appears... to those who seek it. I\nonly... pour this coffee... with passion."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I don't understand it... myself. But I don't... need\nto. This is fine... the way it is."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...I suppose... it's about time to finish up,\nhowever."
+        },
+        {
+            "name": "Monologue",
+            "text": "Manhattan Cafe lifts the coffee mug in her hand\nand...",
+            "choice_data_list": [
+                "What?! She ate it?!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Y-y-you shouldn't do that, Cafe! Coffee mugs\naren't meant to be—Hwah! Th-the sun!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "It was nice... getting to play pretend cafe after all\nthis time. But now... playtime is over. Thank you...\nfor acting as one of the staff."
+        },
+        {
+            "name": "Black Cat",
+            "text": "Meow."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...No, it's enough for now. I'm all out of coffee\nbeans."
+        },
+        {
+            "name": "Black Cat",
+            "text": "Meooow."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Sure. We can do this again once I get a hold of\nsome new beans. I enjoyed myself. It brought\nback memories."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Someday... I want to brew a delicious, comforting\ncup of coffee. Just like my father... did for his\ncustomers."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Oh, but next time... don't bring in any customers\nby force."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I know that you approached everyone. First you\nwere a child, then a fishmonger..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "H-huh? I don't remember coming here...",
+            "choice_data_list": [
+                "Weren't we in a cafe?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh... <i>oh!</i> That's right!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Cafe was helping out at a cafe, so we dropped by\nto taste her brew!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah... That's right. And the coffee wasn't half\nbad."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm? Hey, it's nearly curfew. I'll catch you around.\nNot in the mood to hear an earful for being late."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, Shakur! W-wait for meee!"
+        },
+        {
+            "name": "Monologue",
+            "text": "...I still feel lightheaded. And actually... I have a\nstrange feeling that maybe, someone's watching\nme.",
+            "choice_data_list": [
+                "I must be imagining things. I better head back...",
+                "I must be imagining things. I better head back..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "...I'm looking forward to your next visit. I will have\na special brew ready... just for you."
+        },
+        {
+            "name": "???",
+            "text": "As I watch the three of them return to the\nacademy, I whisper the words that remind me of\nher."
+        },
+        {
+            "name": "Black Cat",
+            "text": "And scratch my ear with my hind leg."
+        }
+    ]
+}

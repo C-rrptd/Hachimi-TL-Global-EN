@@ -1,0 +1,108 @@
+{
+    "title": "ダンスレッスン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I take a peek inside the dance studio and find\nTokai Teio practicing on her own."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! Here's my revised Teio Step!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Huff, huff, huff...</i> Huh? Uh-oh! Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She gets thrown off balance mid-spin and falls\nover."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ow, ow, ow.",
+            "choice_data_list": [
+                "Everything okay?",
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Trainer, you're here?! You should've said\nsomething sooner!",
+            "choice_data_list": [
+                "I didn't want to interrupt."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You're not interrupting! I wanted to show you\nanyways!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You saw some of it, right? My revised Teio\nStep! ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "For the last part, I lift one foot and spin around!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "It's super cool when I get it right, but keeping the\nmomentum going is the tricky part.",
+            "choice_data_list": [
+                "Try to improve your sense of balance.",
+                "Build up your overall strength!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, you're right! I always get dizzy halfway\nthrough."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Oh I know! I could take ballet lessons from\nMaruzen!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Isn't her dad a professional ballet dancer? I'm\nsure she'll know a good way to practice!",
+            "choice_data_list": [
+                "I look forward to the final performance."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe! ♪ Everyone's eyes will be glued to the\ngreat Teio's amazing dance!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Uuuugh! I did improve my balance, but..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I think taking that drive with Maruzen afterwards\ndid way more in teaching me how to keep my\nbalance..."
+        },
+        {
+            "name": "Monologue",
+            "text": "An unexpected bonus lesson seems to have tired\nher out, but at least it was productive."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "True. I'm gonna need strength if I don't wanna get\nall wobbly!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All right! I'll do some weight training so I can\nfinish my revised Teio Step!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Do you know a good routine for building muscle\nall around?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I nod."
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we both do some weight training."
+        }
+    ]
+}

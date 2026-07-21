@@ -1,0 +1,230 @@
+{
+    "title": "黄昏サボタージュ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm heading to my office when two students\nemerge from a nearby classroom in an argument."
+        },
+        {
+            "name": "Vodka",
+            "text": "Ughhh! Leave me alone already! I can't focus on\nthe race with you nagging me!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's cleaning time right now, so just record your\nlittle motorcycle race and watch it later!"
+        },
+        {
+            "name": "Vodka",
+            "text": "What's the point in watching if it's not even live?!\nYou just don't get it."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>I</i> don't get it? I don't want to hear that from\nsomeone who doesn't even \"get\" why she should\nprioritize her assigned tasks!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Nnngh! You... you're such a pain!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Why don't you just go find someone who actually\n<i>wants</i> to clean?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Stop shirking your responsibilities! Hey, come\nback here! Ugh... I swear!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I later spot Vodka hanging out behind the school,\nwatching a heated motorcycle race on her phone."
+        },
+        {
+            "name": "Monologue",
+            "text": "But as intense as the race sounds, Vodka doesn't\nlook like she's enjoying herself at all."
+        },
+        {
+            "name": "Vodka",
+            "text": "Dammit! What's her problem?! This sucks... Ugh!",
+            "choice_data_list": [
+                "You don't look like you're having much fun.",
+                "You don't look like you're having much fun."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh, you were in the hallway earlier, huh? Sorry\nyou had to see that."
+        },
+        {
+            "name": "Vodka",
+            "text": "...I can't stop thinking about what Scarlet said."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>I</i> don't get it? I don't want to hear that from\nsomeone who doesn't even \"get\" why she should\nprioritize her assigned tasks!"
+        },
+        {
+            "name": "Vodka",
+            "text": "She's right... Skipping out on my responsibilities\nlike that..."
+        },
+        {
+            "name": "Vodka",
+            "text": "That was so uncool! Damn it all!"
+        },
+        {
+            "name": "Vodka",
+            "text": "She must be so done with me...",
+            "choice_data_list": [
+                "You should show her how much you regret it!",
+                "You should apologize to her earnestly."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Yeah... Guess it's that or bust!"
+        },
+        {
+            "name": "Vodka",
+            "text": "The whole thing was my bad, and I shouldn't have\nbeen that rude to her! I'm never gonna pull such a\nlame stunt again!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At that very moment..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah, fine. Get outta the way, will you? I got\ntrash to throw out."
+        },
+        {
+            "name": "Vodka",
+            "text": "Scarlet?! Did you hear what I was saying?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph. Well, you were practically yelling. So, you\nwere rude to a particular someone?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "And to whom <i>exactly</i> were you rude this time?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Guh... Don't give me that! Just hand over that\ngarbage bag! I'll help clean!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Mm-hm... So who were you talking about again?"
+        },
+        {
+            "name": "Vodka",
+            "text": "C-come on, drop it already! You know who!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hm? I don't have the slightest idea. I'm afraid I\nwon't \"get it\" until you say it loud and clear for\nme."
+        },
+        {
+            "name": "Vodka",
+            "text": "Gaaah! I'm <i>not</i> gonna say it! You can't make me!"
+        },
+        {
+            "name": "Vodka",
+            "text": "I don't know if I can do that... Nah, yeah. I've got\nno choice <i>but</i> to apologize, huh."
+        },
+        {
+            "name": "Vodka",
+            "text": "I won't run away! I'll apologize to her and there'll\nbe no ifs, ands, or buts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "At that very moment..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Have you been here this whole time? And what's\nall this about apologizing to someone?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Scarlet! Perfect timing! U-um..."
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm sorry I ditched cleaning duty! I was being\nselfish, and..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh...</i> It's fine. Just do better from now on."
+        },
+        {
+            "name": "Vodka",
+            "text": "Like you have to tell me! I'll make the place so\nclean you'll be able to see your face on every\nsurface!"
+        },
+        {
+            "name": "Vodka",
+            "text": "All right, time to get to work! You take care of\nwiping things down, and I'll sweep the place."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Awfully bossy considering you were neglecting\nyour duties not five minutes ago..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Wait, what about that race you were watching? Is\nit over already?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Nah, it's still going on, but now's not the time to\nbe watching it."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh, you're sounding very serious... Are you\nfeeling all right?"
+        },
+        {
+            "name": "Vodka",
+            "text": "I'm totally fine! Just trying to take responsibility\nhere."
+        },
+        {
+            "name": "Vodka",
+            "text": "I've got no business admiring cool stuff while\nacting majorly uncool!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah, I see. So nothing's really changed, then."
+        },
+        {
+            "name": "Vodka",
+            "text": "You just take a backseat and leave it all to me!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Take this! And this, and this, and this!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Vodka swings the broom about wildly, whipping\nup whirlwinds of dust."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Cough! Hack!</i> Stop! Hey, I said quit it!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "What are you playing at?! Did you come back just\nto make a mess?"
+        },
+        {
+            "name": "Vodka",
+            "text": "All we gotta do is open the windows and let the\ndust blow out! Am I a genius or what?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's the least intelligent idea I've ever heard,\nand the dust isn't even going outside! Ugh, you're\njust so—",
+            "choice_data_list": [
+                "You two sure get along well.",
+                "You two sure get along well."
+            ]
+        },
+        {
+            "name": "Vodka and Scarlet",
+            "text": "No we don't!"
+        }
+    ]
+}

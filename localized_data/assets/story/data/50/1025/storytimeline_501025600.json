@@ -1,0 +1,30 @@
+{
+    "title": "Ready for a Challenge",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Manhattan Cafe",
+            "text": "...This is strange. Today, I feel as if..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I can hear the voices very clearly."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "But strangely, it feels like nighttime... They're\nfleetingly translucent... and shimmering...",
+            "choice_data_list": [
+                "It sounds like you'll be able to find a whole new\nworld.",
+                "It sounds like you'll be able to find a whole new\nworld."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Yes."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "I'll go and find it... The end only I can see."
+        }
+    ]
+}

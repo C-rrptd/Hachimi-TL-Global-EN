@@ -1,0 +1,249 @@
+{
+    "title": "新年の抱負",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A new year begins, and Copano Rickey's classic\nyear with it."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the second day of January. Still on New Year's\nbreak, I'm taking a stroll by myself when..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Happy New Year, Trainer! It's time for some\ntraining! Let's get a move on! ☆",
+            "choice_data_list": [
+                "Already?!"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "C'mooon. Let's do a little training, at least. The\nearlier you start working, the better the wind\nflows. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to do a quick run around the track and\nthen take it easy."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Phew. Yep, even running a little bit sharpens you\nmentally and physically! ♪ Okay..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "May the protection of the Four Guardians be with\nus once more this year.",
+            "choice_data_list": [
+                "Rickey, what are the Four Guardians again?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The Four Guardians? Oh, well, they're also known\nas the \"Four Auspicious Beasts.\""
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Basically, in feng shui, they're the four gods that\nwatch over each of the cardinal directions."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The Azure Dragon of the east, the Vermilion Bird\nof the south, the White Tiger of the west, and the\nBlack Tortoise of the north."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "And in the center is the Yellow Dragon that rules\nover all of them."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "When I was really little, I had a dream where I was\ndrowning, and the Azure Dragon rescued me!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "That's why I believe that the Azure Dragon is my\nguardian.",
+            "choice_data_list": [
+                "Oh, so you have a strong connection to the\nAzure Dragon.",
+                "Oh, so you have a strong connection to the\nAzure Dragon."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With a god looking out for her, I'm sure Copano\nRickey will be able to keep on running with a\npositive attitude this year, too."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hm... But it <i>is</i> the new year. I'd really like to bask\nin the good graces of at least one of the other\nGuardians as well."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Sometimes you've gotta get greedy. ♪ So, how\nabout we go for a little walk?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Let's go somewhere we can receive the power of\nthe Vermilion Bird, White Tiger, or Black\nTortoise!",
+            "choice_data_list": [
+                "Sure. Let's give it a try."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After agreeing to her proposal, I begin to think.\nWhich of the four Guardians should we choose,\nand what exactly should we do?",
+            "choice_data_list": [
+                "Let's ride the Vermilion Bird up into the sky.",
+                "We should frolic with the White Tiger.",
+                "I'd like to challenge the Black Tortoise's\nsturdiness."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Into the sky with the Vermilion Bird, huh? If you\nwant to fly through the sky, I know just the\nplace! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whoosh!</i>"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh, hey Rickey! Rickey! ☆ Lucky! ☆ Do you copy?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yep, I copy! But fancy seeing you here, Maya!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After heading to the airport, we run into Mayano\nTop Gun. She's a runner with intuition beyond her\nyears, and she also loves airplanes."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "What're you doing at the airport, Maya?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I came to check out all the planes they've got\nhere! I'm not sure if you knew this about me, but I\nknow a whooole lot about planes!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Do you want to come look at them with me,\nRickey?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh, I get it now. The Vermillion bird must have\nshed a feather here, so that it can absorb the\nwisdom that resides in this location."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "You're okay with studying with Maya today,\nright? I think we'll learn a lot!",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "That one there's a state-of-the-art passenger\nplane! The seats are laid out in a zigzag pattern\nso even more people can fit on board."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oh! And as for that cargo plane over there..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mayano Top Gun has a blast telling us all about\nthe different planes, while Copano Rickey\nreceives the blessing of the Vermilion Bird's\nwisdom."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The White Tiger, huh. ☆ I think I know where we\ncan find one of those."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yep, the zoo! Hey, there it is! It's so adorable. ♪"
+        },
+        {
+            "name": "White Tiger",
+            "text": "<i>Growwwl...</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Maybe when it's calm, it's just like a house cat.\nLet's play!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Rawr, rawr, tiger! Rawr, rawr, grr?"
+        },
+        {
+            "name": "White Tiger",
+            "text": "<i>Rawr!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Rickey! ☆ Lucky! ☆ Very scratchy!"
+        },
+        {
+            "name": "White Tiger",
+            "text": "<i>Rawr, rawr!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "After playing with the white tiger to her heart's\ncontent, Copano Rickey looks nice and\nrejuvenated."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "The Black Tortoise's sturdiness? Hm... Nothing\nreally comes to mind. Do you know anywhere we\ncould go to take on a challenge?",
+            "choice_data_list": [
+                "I'll show you. Come with me."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We soon find ourselves at an old-fashioned\nmartial arts dojo."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Rickey... you seek to learn the Kongo Yaegaki\nstyle's protective arts, yes?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Very well, then. Attack from any angle you like."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Trainer? What's going on?!",
+            "choice_data_list": [
+                "You're getting an introduction to martial arts."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Yaeno Muteki: a martial arts-focused\nUmamusume. Her guard must be close to that of\nthe Black Tortoise's sturdiness."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "All right! Here I go! ☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Time for Rickey's Mega Drill Punch! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Smack!</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Blows like those I can simply absorb. However...\nyou are skilled at reading your opponent's\nenergy."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "I imagine you will improve quickly. Since you're\nhere, would you like to study the Kongo Yaegaki\nstyle a little more?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Yes, I'd love to! Learning about a historic form of\nmartial arts seems like it'd help a lot in other\nareas too. ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "Through her training with Yaeno Muteki, Copano\nRickey learns all kinds of new motions."
+        }
+    ]
+}

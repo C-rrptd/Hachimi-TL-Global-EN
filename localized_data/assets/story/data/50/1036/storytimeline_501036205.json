@@ -1,0 +1,215 @@
+{
+    "title": "ジャパンCにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "@RacingEnthusiast",
+            "text": "I predict T.M. Opera O will win the Japan Cup\nagain! There's no doubt in my mind!"
+        },
+        {
+            "name": "@TeamDotoForever",
+            "text": "I hope Doto does well. I really wanna see her give\nOpera O a run for her money!"
+        },
+        {
+            "name": "@Dashmachine",
+            "text": "A new generation's on the rise! C'mon, it's\nobvious Air Shakur is gonna win!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Everyone has their eyes on the Japan Cup today,\nand every social media outlet is filled with posts\nabout it. There's a good amount of support for\nShakur too."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm hardly cognizant of all that, however, because\nmy attention is on something else entirely.",
+            "choice_data_list": [
+                "(I'm still not getting any new data on her\nphysical condition.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The app Air Shakur installed on my phone is\nsupposed to send me updates from the body\ncomposition monitor and fitness trackers she\nuses."
+        },
+        {
+            "name": "Monologue",
+            "text": "I'd been using it to keep track of the daily\nchanges in her condition, but I haven't received\nany updates lately."
+        },
+        {
+            "name": "Monologue",
+            "text": "I spoke with her the moment I realized something\nwas up, but..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I changed fitness trackers, and they're not synced\nto the app yet. I'll update everything after the\nJapan Cup."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'll monitor everything myself until then, so you\njust focus on your admin work."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her tone made it clear she wasn't looking for\nquestions or requests, so I decided to trust her\nand do as she asked."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I look at Air Shakur now in her racewear, I\ncan't ignore the subtle waves of unease roiling off\nher.",
+            "choice_data_list": [
+                "Hey, Shakur..."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I wasn't able to meet the target numbers I needed\nto win, but that's no surprise. Those numbers were\nabsurdly high."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But I at least got to the point where I won't be\ncompletely trounced. I made that happen. I can\nhold my own. I should be fine..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Maybe I should go over the data on my\nopponents again. The best way to get on that\nscoreboard should be to—",
+            "choice_data_list": [
+                "Hey, Shakur."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What? What's with you today?",
+            "choice_data_list": [
+                "Why are you talking like you're expecting to\nlose?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "That's not it. I'm just..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I gotta go. Later.",
+            "choice_data_list": [
+                "Shakur!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "Your fate has already changed."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was on edge before the Derby too, but things\nfeel different this time. The gloom bubbling inside\nher is new, and...",
+            "choice_data_list": [
+                "(How could I not have noticed?! I'm so stupid!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "All I can do is pray that she manages to shake\nthat darkness off..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Welcome, Shakur, to my stage! Welcome to my\nperformance!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "W-welcome!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Your\" stage, huh? Hah, guess they don't call you\nthe Overlord for nothin'."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't remember gettin' invited, though. I'm just\na party crasher, if anything."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Yes, I get that feeling too. You seem more like a\nguest than anything today."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh yeah?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "After all, can an actor without spirit truly be said\nto be on the stage?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Imagine! You, Shakur, the accomplished star of\nyour generation, enters the stage and I meet your\nviolent pursuit with grace!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Alas, it appears such a dramatic turn of events is\nnot to be. I'm afraid that role must go to an\nunderstudy."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Doto, if you would please do the honors?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Yes, ma'am!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Oh, um, but... I think you're really amazing too,\nShakur!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "You're so smart and you're always thinking of\nways to win..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "I, um, hope we have a good race today!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(You're wrong, Doto... I'm nothing like you two.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(The data's made that clear. I know I can't catch\nup to you, so what am I supposed to do about\nthat?!)"
+        },
+        {
+            "name": "Monologue",
+            "text": "\"Your fate has already changed.\""
+        },
+        {
+            "name": "Air Shakur",
+            "text": "But what if there's still only one outcome for me,\ndespite that?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Dammit! What am I so scared for? Even if that's\nthe case..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I have no choice but to run toward it!"
+        }
+    ]
+}

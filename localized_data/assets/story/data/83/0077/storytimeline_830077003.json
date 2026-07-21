@@ -1,0 +1,219 @@
+{
+    "title": "Ayabe Won't Be Disheartened!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Today, I accompany Admire Vega and Haru Urara\nto a traditional inn. Needless to say, the reason\nbeing..."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "All right, crew! Let's run through the locations for\nthe poster photo shoot tomorrow, shall we?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Okay! ♪ I'm so excited! ♪"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "First off, we'll take a photo here at the entrance.\nAfter that, we'll do some solo shots of you two\nseparately."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "For Urara, I'm thinking of taking photos of you in\nthe inn's main attraction, the Sakura Lounge,\nwhile you partake in our cherry blossom-themed\ncuisine."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Cherry blossom-themed?</i> I wonder what that\nmeans! Sounds fun though! ♪"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "As for Ayabe, I'm thinking it'd be great if you'd\npose in another attraction of the inn, the Crimson\nCourtyard. I'd love to capture you beautifully\nsurrounded in that world of autumn hues."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "And I'm positive the red accents of the kimono\nwe've prepared will blend perfectly with the\nautumn leaves! Man, I can't wait for tomorrow!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'll do what I can..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And thus, the day of the photo shoot begins,\nbut..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Nooo, it's raining!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "It's a shame, but there's no changing the weather.\nAyabe, let's scrap our previous plan and move the\nshoot indoors instead."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why? I'm fine getting a little wet."
+        },
+        {
+            "name": "Inn Owner",
+            "text": "No. What if you catch a cold? As your fan, I\ncouldn't possibly be responsible for disrupting\nyour race schedule. Don't worry! I've thought of\nother locations."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Like I said—why?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "To begin with, conditions are never perfect in a\nrace—not the track, nor the weather... not even\nmy own body."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yet, still, I run. Because none of those are valid\nreasons not to. After all..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Running is the decision <i>I</i> made. The same goes for\nthis photo shoot. Plus..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Weren't you the one praising how virtuous it is\nthat I never go back on my word?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh right! The owner did say something like that! I\nremember, because it sounded super cool!"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "<i>Gasp!</i> Yeah, you're right. What was I thinking?"
+        },
+        {
+            "name": "Inn Owner",
+            "text": "Then, please forget what I said about changing\nour plans. If you are willing, shall we continue the\nphoto shoot?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Just let me know when you're ready."
+        },
+        {
+            "name": "Monologue",
+            "text": "And thus, even amid a downpour, the photo\nshoot for the posters featuring Admire Vega\ncomes to a successful end."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later in the central plaza, I come\nacross Admire Vega and Haru Urara surrounded\nby a large group of students."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Urara, I saw your poster in front of the station!\nYou were absolutely adorable!",
+            "choice_data_list": [
+                "Looks like someone's the center of attention.",
+                "Looks like someone's the center of attention."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee, you're making me blush!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ayabe, I wanna hear your story too! Your pictures\nwere so awesome! The one with you wistfully\nstanding in the rain gave me goosebumps!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There's nothing really to tell. I just stood there\nand had my photo taken."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wait, was it actually raining?! I thought you had a\nrace later that same day..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "In defense of the inn, I wasn't troubled in any\nway. Besides, they provided me with a towel and\nheater afterwards."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I also... got to use their hot spring.",
+            "choice_data_list": [
+                "I wish I'd taken a dip in the hot spring myself.",
+                "I wish I'd taken a dip in the hot spring myself.",
+                "You're surprisingly cut out to be a model, don't\nyou think?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I also... got to use their hot spring.",
+            "choice_data_list": [
+                "I wish I'd taken a dip in the hot spring myself.",
+                "I wish I'd taken a dip in the hot spring myself.",
+                "You're surprisingly cut out to be a model, don't\nyou think?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's a little late to be saying that..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, but the hot spring was so relaxing!\nWouldn't you wanna go again, Ayabe?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...If the opportunity presents itself."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "If?! Awww, I wanted you to teach me about the\nconstellations again.",
+            "choice_data_list": [
+                "Constellations?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! We could see the stars from the open-air\nbath, so Ayabe taught me loads about\nconstellations! ♪ She had so much to say about\nthem!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The constellations I know of just happened to be\nin view, that's all."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "The photographer was skilled, that's all."
+        },
+        {
+            "name": "???",
+            "text": "Really? If that's all it takes for a quality photo,\nthen everyone would be a model. ♪"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I saw your poster! ♪ It really, like, highlights your\nstrong points, you know?"
+        },
+        {
+            "name": "???",
+            "text": "Haaah ha ha ha! Indubitably so! You looked\ngorgeous!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Gorgeous to the extent that even I, beauty\nincarnate, could not overlook you!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "I have heard your declaration of war, and I shall\nrespond in kind!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Wow! ♪ A declaration of war?! Yeah, totally! I\nwon't back down either, then! I'm feeling a little\npumped! ♪"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe... Now that we are in accord, shall we go\nsettle this photo shoot battle?!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "I'm in! ♪ Should we all go to the hot spring\ntogether?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey, when did I say I was in on this?! Can you all\nstop dragging me into things already?!"
+        }
+    ]
+}

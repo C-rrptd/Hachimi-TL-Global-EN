@@ -1,0 +1,177 @@
+{
+    "title": "まなざしは変わる",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's been a while since I've had a day off, so I decide to go shopping\nfor some essentials. I bump into a familiar face at the mall."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There, there. I'm sure it was scary, right? But everything's gonna be\nokay now."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Just wait here for a second, okay? I'll... umm...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer! Perfect timing—it seems like this little girl here got lost."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I found her crying in the corner by herself and tried to ask her what's\nwrong..."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aw, was it scary being alone? There, there. It's okay now.",
+            "choice_data_list": [
+                "Where are your parents?",
+                "Where are your parents?"
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "...",
+            "choice_data_list": [
+                "Did you get separated?"
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "Umm... I... don't know... waaaah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Crap, I shouldn't have asked that question! She's bawling now.",
+            "choice_data_list": [
+                "I-I'm sorry!",
+                "I-I'm sorry!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I quickly take out my handkerchief from my pocket and wipe the girl's\nface."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aww, Trainer! Thank you so much."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Your face is all cleaned up now. Isn't that nice? So tell me... were you\nout here shopping?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The little girl gives a small nod."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I see! What did you want to buy?"
+        },
+        {
+            "name": "Girl A",
+            "text": "I wanted... an Umagical Wand... because Papa and Mama said...\nthey'd buy it for me..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, isn't that nice? You must've been excited! Does that mean you\ncame here together with your Papa and Mama?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The little girl nods again. There's no doubt that she's lost. I pause,\nthinking about the best thing to do in this situation...",
+            "choice_data_list": [
+                "I'll go to the information desk and let the staff\nknow!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Yes, please do. I'll stay here with her."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I approach the desk, I see a husband and wife standing there,\nfaces stricken with worry. They must be the girl's parents!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer, thank you so much for your help today. I'm so glad that little\ngirl was able to reunite with her parents.",
+            "choice_data_list": [
+                "I didn't really do anything though...",
+                "I didn't really do anything though..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "No, really. Be proud of yourself—you were such a big help."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Until you showed up, I wasn't sure what I was going to do. I couldn't\njust walk away with the girl, so I thought about calling for help..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But there weren't any staff nearby either. Honestly, I felt stuck."
+        },
+        {
+            "name": "Super Creek",
+            "text": "So when you came, it was a huge relief. I was really happy to see you.",
+            "choice_data_list": [
+                "But I made the poor girl cry..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, maybe it wouldn't hurt to learn a bit more about how to handle\nlittle kids."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But really though... I felt safe with you being there."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I appreciated having you with me, so please don't put yourself down.",
+            "choice_data_list": [
+                "I suppose I've become a little more reliable\nthen."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Of course!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And you didn't forget your handkerchief this time. Good job! ♪",
+            "choice_data_list": [
+                "...You're doing it again."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I can't help myself though. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though our dynamics haven't changed much, I feel that I was\nable to gain more of Super Creek's trust today."
+        },
+        {
+            "name": "Super Creek",
+            "text": "(I'm glad I can depend on you, Trainer.)"
+        }
+    ]
+}

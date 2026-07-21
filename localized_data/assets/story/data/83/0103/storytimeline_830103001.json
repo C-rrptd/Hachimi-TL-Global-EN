@@ -1,0 +1,151 @@
+{
+    "title": "これはいわゆる照れでしてっ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Having finished my work for the morning, I'm out\nfor a stroll and enjoying the sunny day, when..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, hey there. All finished up? Are you headed\nanywhere special?",
+            "choice_data_list": [
+                "Nowhere in particular. Just enjoying the\nweather.",
+                "Nowhere in particular. Just enjoying the\nweather."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "I totally get it. Days like this are perfect for going\nout. <i>Sigh...</i> Now I want to go somewhere too..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy! Well, ain't this a nice coincidence!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hyah! Who's that?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Taiki? You look sad... Did something\nhappen?!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Ahhh, so your friends canceled your plans to go\nto the mountain stream, huh? That <i>is</i> a bummer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeah, but they said some important stuff came up\nthat they have to wrap, so what can you do?",
+            "choice_data_list": [
+                "Do you mean wrap <i>up?</i> Either way, it's a shame\nyour plans fell through.",
+                "Do you mean wrap <i>up?</i> Either way, it's a shame\nyour plans fell through."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It's great bein' able to vent when you're feeling\nblue. I'm so happy y'all were here to lend me an\near!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, bring it on in for a big thank-you hug!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Eeek! N-n-n-now hold on a second!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, my bad, Tannhauser! ...Not a hugger?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah... no! That's not it! It's just that... well, how do I\nput this? It's not like I don't like being hugged! It's\njust, uh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems less like she hates hugs and more that\nshe was just caught off guard—and feels a little\nembarrassed."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless, Matikanetannhauser has got herself\nworked up over it, so I change the subject in an\nattempt to calm her down.",
+            "choice_data_list": [
+                "Since you're here..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I suggest that they go to the mountain stream\ntogether. Matikanetannhauser wants a day out as\nwell, so it should kill two birds with one stone."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! That sounds like a mighty fine idea! Let's do\nit!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, o-okay! If you're cool with hanging out with\nme, then sure! I'll go wherever."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Darn right I'm cool hanging out with you! We're\ngonna have ourselves a ball!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Man! Taiki's so nice! She says that even though\nshe might've really been hurt by my reaction to\nher hug...)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(But I was just a little embarrassed, that's all.\nTaiki is so straightforward with her feelings, it\nmade me freeze up...)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(Gyaah! I really messed up! I should be grateful to\nthat trainer for sorting out my dumb mistake.)"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "(I'll definitely return the favor someday!)"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey! Why don't you join us, Trainer? The more\nthe merrier!",
+            "choice_data_list": [
+                "Let me know ahead of time and I'll clear my\nschedule."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yay! Great!\nI'm not one bit sad now! Hehe! Thanks a million,\nTannhauser!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Of course! I'll show you how well I can take a hug!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Matikanetannhauser seems motivated, though it\nappears she might still be hung up about the hug."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. What we oughta do is have us a barbecue!\nMeat and veggies are extra tasty fresh off the\ngrill!",
+            "choice_data_list": [
+                "Why don't you invite some more people too?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now you're talkin'! I'm sure we can round us up a\nfew more heads! I'll get right on it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle hurtles off in the blink of an eye. I'm\nwatching her shrink into the distance, when..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ngh... Okay, Taiki! The thing about the hug is\nthat it just caught me off guard! So... huh?! Taiki?\nTaikiii!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Taiki Shuttle is already gone, but\nMatikanetannhauser putters around for a little\nwhile looking for her."
+        }
+    ]
+}

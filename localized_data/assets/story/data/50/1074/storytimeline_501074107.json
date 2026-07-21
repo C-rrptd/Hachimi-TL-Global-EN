@@ -1,0 +1,173 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Bright",
+            "text": "My dear Trainer. With today being Valentine's\nDay, I've prepared a present for you."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'd like to give it to you now, so would you mind\naccompanying me somewhere?",
+            "choice_data_list": [
+                "Where would you like to go?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The usual spots would be behind the school\nbuilding or a local cafe to enjoy a chocolate\nparfait together..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, it's not far. By plane, it's about... seven hours\nor so."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Whooooosh!</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "There, have a look at this adorable cocoa tree."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I planted it just for you, Trainer. And now, this\nentire tree is yours."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That means each and every cocoa bean it\nproduces will belong to you as well, of course.",
+            "choice_data_list": [
+                "Oh, um, thank you..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "That's the Mejiro family for you. They operate on\na different scale entirely... I never thought I'd be\ngiven my very own cocoa tree."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "It'll be some time before it bears pods, so please\nwait a short while.",
+            "choice_data_list": [
+                "How long's a short while?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Let me see... Well, from what I've been told,\naround four years or thereabouts.",
+            "choice_data_list": [
+                "Th-that's quite a leisurely timeline!",
+                "Th-that's quite a leisurely timeline!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's going to take much, much longer than I\nthought before I get to savor any of this tree's\nproduce..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'm terribly sorry about that. But I do believe that\nthe more patiently you wait, the more\nscrumptious the flavor will end up being."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Your own personal cocoa tree, Trainer, and the\nprecious cocoa beans it will produce for you and\nyou alone..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I wanted you to enjoy a flavor all your own. I\nexpect it shall be one you'll never forget.",
+            "choice_data_list": [
+                "You might just be right about that...",
+                "You might just be right about that..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Delicious chocolate might be easy to find these\ndays, but chocolate made from this particular\ncocoa tree..."
+        },
+        {
+            "name": "Monologue",
+            "text": "It will have a flavor all its own. It looks like Mejiro\nBright wants to gift me the experience of tasting\nit."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I promise you, Trainer, that once this tree's cocoa\npods are ripe, I shall use them to make chocolate\nfor you."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I'll grind them up, and griiind them up some\nmore. ♪ Right up until they're a fine powder..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Then, after one more year...",
+            "choice_data_list": [
+                "I'd rather you picked up the pace at that point...",
+                "I'd rather you picked up the pace at that point..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "At this rate, every step of the process is going to\ntake a full year. I feel my mouth twitch into a wry\nsmile as the two of us enjoy the scenery of the\ncocoa fields."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Bear in mind that the first year the tree's ready to\nbe harvested won't be the only year I make\nchocolate. Cocoa trees really are something, you\nknow..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I hear that they produce beans for fifty whole\nyears.",
+            "choice_data_list": [
+                "Fifty years?!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "That's right, and I wish to make chocolates for\nevery single one of them."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I imagine the taste will vary from year to year,\nwhat with the weather and temperature changes.\nBut then..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "We'll also change as the years pass. And we'll\nmake more and more memories as we do.",
+            "choice_data_list": [
+                "You're right..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A lot can change over the course of fifty years.\nIt's possible that nothing we have now will stay\nthe same."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Change can be a little frightening, but it can be a\nsource of excitement, too. Changes are just one\nmore thing for us to treasure. Oh, and..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I do believe some things will stay the same.\nSpecifically..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "The Mejiro family... and the bond you and I share."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "I think it'll last forever, you know. Our bond."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Fifty years from now... this tree will have grown\nhuge. And we'll still be here together, talking\nbeside it.",
+            "choice_data_list": [
+                "...Yeah, we will.",
+                "...Yeah, we will."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's just a wee tree at the moment. But in time..."
+        },
+        {
+            "name": "Monologue",
+            "text": "With good stewardship, this tree will grow to be\nas everlasting as the Mejiro family itself."
+        }
+    ]
+}

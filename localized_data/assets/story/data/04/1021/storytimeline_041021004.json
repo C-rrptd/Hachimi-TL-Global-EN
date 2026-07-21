@@ -1,0 +1,222 @@
+{
+    "title": "Now That's White Lightning!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross and I continue to train hard for the tryouts. One day\nafter practice, I ask her if we can talk."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Okay, cooldown's done. So... whaddaya wanna talk about?",
+            "choice_data_list": [
+                "Just a final piece of advice before tryouts.",
+                "Just a final piece of advice before tryouts."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Final? Whaddaya mean by that? Don't tell me... ya think I don't got\nwhat it takes?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I shake my head in disagreement and explain that she's got what it\ntakes to win. Which is why this is my final piece of advice as her\ntemporary trainer.",
+            "choice_data_list": [
+                "Enjoy the race, okay?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wh-what're ya talking about?! Dis isn't the time to be havin' fun! I\nneeda run for my life!",
+            "choice_data_list": [
+                "That's not true!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "What're ya—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Up until now, Tamamo Cross has never been able to race to her full\npotential, and I think I know why. I begin to tell her what I've noticed\nafter observing her..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "<i>Huff! Huff! Huff!</i> I gotta win dis! I gotta! <i>I gotta win!</i>"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "My folks worked hard to get me into this academy, so I gotta make it\nworth the price! That's why I gotta win! But..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tamamo Cross's desire to win for her family is a strong one... Perhaps\ntoo strong."
+        },
+        {
+            "name": "Monologue",
+            "text": "Instead of serving as motivation, it's making her nervous. Once those\nnerves get the better of her, she loses sight of her goal, and her\nperformance suffers."
+        },
+        {
+            "name": "Monologue",
+            "text": "But that isn't to say her love for her family is a bad thing. If anything,\nit should be cherished. So I tell her...",
+            "choice_data_list": [
+                "Introduce the rest of us to White Lightning.",
+                "Introduce the rest of us to White Lightning."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...!"
+        },
+        {
+            "name": "Monologue",
+            "text": "If she can combine her love for her family and the joy she feels from\nrunning, Tamamo Cross will have all she needs to win. At least, that's\nmy theory."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You've got a point. Dad only called me that when I was havin' fun,\nbut... shouldn't I be focused on winnin'? Is that really the time to play\n'round?",
+            "choice_data_list": [
+                "Who says you can't do both?",
+                "Who says you can't do both?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Haha... Seriously, since when am I so blind? When you say it like that,\nit's preeetty obvious, huh?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "It's never been my body holdin' me back—it's my mind. I've been\nfreakin' myself out 'bout winnin'. No wonder I'm slowin' down."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But that's not the <i>real</i> me. And that's not White Lightning!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Uraaagh! Whaddaya think of dis?!"
+        },
+        {
+            "name": "Tamamo Cross's Siblings",
+            "text": "Cooool!"
+        },
+        {
+            "name": "Tamamo Cross's Father",
+            "text": "I swear, Tama, I'll never get sick of dat smile on your face when you're\nrunnin'! Go, White Lightning, the fastest in Japan!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Thanks for that last tip, and consider it done. Hope you're lookin'\nforward to the tryouts! 'Cause, well... I sure will be!",
+            "choice_data_list": [
+                "That's what I wanted to hear!",
+                "That's what I wanted to hear!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Finally, the day of the tryouts arrives."
+        },
+        {
+            "name": "Caster",
+            "text": "The racers are approaching the last corner before the final stretch!\nThe racers in the back are making moves, but is it too late?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(The wind whizzin' past my ears, the earth beneath my feet... the\ncrazy thump-thump in my heart! Gotta say... been a hot minute since I\nfelt like this!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Guess I really was in my head, huh? I even forgot how <i>good</i> runnin'\nfeels!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Now I'm itchin' to let loose! These legs could outrun anything right\nnow! Better keep your eyes peeled, 'cause I'ma blow you away!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Urrraaaauuugh!"
+        },
+        {
+            "name": "Caster",
+            "text": "Tamamo Cross is picking up speed and gaining ground! She's <i>flying</i>\npast the competition!"
+        },
+        {
+            "name": "Caster",
+            "text": "Tamamo Cross takes the lead and... That's it! With that terrific dash,\nTamamo Cross rushes in to claim first place!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yeaaah! Now DAT'S what I'm talkin' about! Dat was White Lightning,\naka... TAMAMO CROSS!"
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "Hm? Her pacing was much steadier this time around. Maybe I\nmisjudged her..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "That tremendous sprint at the end... I thought her small frame would\nhold her back, but I guess not."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Yes, yes, YES! Didja see dat?! I blew 'em all away!",
+            "choice_data_list": [
+                "You sure did, White Lightning!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hell yeah! But you know, you're the real star of the show. Seriously, I\ncouldn't have done this without ya!",
+            "choice_data_list": [
+                "Well, you're the one who ran the race.",
+                "Well, you're the one who ran the race."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hehe!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "You know... with the tryouts done, your trial period's technically over.\nYou're free to scout and train whoever ya want."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But... well, unless you've got a certain racer in mind—",
+            "choice_data_list": [
+                "THE ANSWER IS YES!",
+                "THE ANSWER IS YES!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "—I'd like to—OH, COME ON! I'm talkin' here! I swear, ya need a\nserious lesson in manners. Seriously, lemme finish for once...",
+            "choice_data_list": [
+                "BUT THIS IS SO <i>EXCITING!</i>"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Tone it down, will ya?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Pfft! Ahahaha! Baaaahahaha!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "For cryin' out loud, I feel so dumb. I was so nervous, but here ya are,\ngiddy as hell! I swear."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "But well, I'm glad you're on board! Put 'er there, Trainer!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I firmly grasp Tamamo Cross's hand and give it a vigorous shake. From\nnow on, we're working as a team!"
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "title": "はぐれ者のリファレンス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day while searching for Air Shakur, I find her taking a rare nap,\nher laptop still open."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I go to close her laptop, the screen catches my eye. It looks like\nshe had her social media open. The account on-screen says \"!monad.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "From the looks of it, this is an account she uses to post music she\nmakes. I'm a little surprised by her choice of hobby, but decide to\nleave before she wakes up."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, I decide to invite Air Shakur to the record shop."
+        },
+        {
+            "name": "Monologue",
+            "text": "I fully expected her to say no, but it seems she already had plans to\ncome here. She's allowed me to tag along—but nothing more."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Man, you never learn, huh. Remember what happened at the net\ncafe?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Once we're at the shop, don't you dare talk to me.",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This artist's not even that big, so why a physical CD? If they'd just\nposted it online, I could've bought it with a single click."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems she's come here today to buy the CD of a small-time artist.",
+            "choice_data_list": [
+                "You must really like music.",
+                "You must really like music."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not really. But it is good for drowning out the thoughts in my head."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ah."
+        },
+        {
+            "name": "Young Artist",
+            "text": "Next up is my newest song, \"Rust.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur stops in her tracks. I follow her line of sight to find a young\nwoman performing on her DJ deck.",
+            "choice_data_list": [
+                "Do you know her?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Her CD is what I came here to buy."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Didn't think I'd get to listen to her live today."
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Air Shakur finds a spot a bit separated from the artist and\nbegins to listen to her performance."
+        },
+        {
+            "name": "Monologue",
+            "text": "The song's rhythm seems to draw you in, and the scat vocals add a\nsense of playfulness to the experience. Before I know it, I'm tapping\nmy foot to the beat.",
+            "choice_data_list": [
+                "This is a good song.",
+                "This is a good song."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Yeah, it's not bad."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Most of her stuff online is really light and old school... Looks like she\nswitched genres to house music."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, change is inevitable after all. Let's get going."
+        },
+        {
+            "name": "Young Artist",
+            "text": "W-wait! Please take this!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The young musician hands a single flyer to Air Shakur."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'm still pretty new to the game, but I'll be performing at this event!\nFeel free to drop by if you can!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Got it.\nHuh, so it's this weekend—ah!",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking a peek at the flyer, my eyes settle on the artist's profile, which\nexplains she was inspired to perform after hearing a certain artist...\n!monad.",
+            "choice_data_list": [
+                "(Wait, isn't that Air Shakur's...)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Musician",
+            "text": "Um, 'scuse me... is everything okay?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, it's fine. Good luck this weekend.",
+            "choice_data_list": [
+                "Who's this DJ listed in your profile?",
+                "Who's this DJ listed in your profile?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey!"
+        },
+        {
+            "name": "Young Artist",
+            "text": "Oh, them! I love, love, LOVE !monad's stuff! I have to be extra careful\nto not copy their style completely."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I ended up using scat vocals hoping to make the song feel mine... But\nwell, I'm definitely still working out the kinks in my style!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!monad's music sounds like they're just messing around to me. I\ndoubt it's got any use as inspiration or whatever."
+        },
+        {
+            "name": "Young Artist",
+            "text": "Hey, come on, don't say that! I owe !monad my life!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Your life?"
+        },
+        {
+            "name": "Young Artist",
+            "text": "I don't mean that literally or anything. It's not like we've ever met.\nBut..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'm just... different from other people, and my life's been pretty hard\n'cause of it. But even when I tried to fit in, it's like something was still\n<i>off,</i> ya know?"
+        },
+        {
+            "name": "Young Artist",
+            "text": "But that's when I heard !monad's music, and it felt like someone was\nsticking the middle finger to the world! It gave me the push I needed\nto do things my way!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "But all that aside, their musical sense alone is on another level!\nThey're like a bat out of hell, screaming bloody murder! They're truly\nliving in the moment!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'd love to meet them myself one day. I just know that deep down,\nthey've got a heart burning with <i>passion!</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Is that so?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh? What're you smiling about?",
+            "choice_data_list": [
+                "N-nothing!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Several days later..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey, look at this! Someone put a super flashy flyer on the bulletin\nboard! You think a student did it?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Probably. But wait, isn't this for a club in town? Huh... Maybe I'll\ncheck it out."
+        },
+        {
+            "name": "Monologue",
+            "text": "A mysterious flyer posted on the school bulletin board quickly\nbecomes the talk of the academy."
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "title": "クリスマス",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer? Why are you working on a holiday?",
+            "choice_data_list": [
+                "There's a lot to be done at the end of the year.",
+                "There's a lot to be done at the end of the year."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Uh-huh... So, is there anything I can help with?",
+            "choice_data_list": [
+                "What?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't really have any plans, so... I'm free."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Don't worry about me. I don't have anything else\nplanned for today."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Don't give me that look. Not everyone has a\nfestive day all planned out, you know."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I already stopped by a party, so I was just going\nto relax for the rest of the day."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You seriously need to learn to be more tactful."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Anyway, you don't have to feel bad! Come on,\nlet's finish up your work quickly."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You do even more work than I thought."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You do even more work than I thought."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I mean, I always knew you worked hard, but\nseeing all these piles of paper in person..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well... It's a lot.",
+            "choice_data_list": [
+                "But it's worth it.",
+                "But it's worth it."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You really haven't changed a bit, have you?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. I figured you'd say that."
+        },
+        {
+            "name": "Monologue",
+            "text": "She chuckles softly and continues to work."
+        },
+        {
+            "name": "Monologue",
+            "text": "She chuckles softly and continues to work."
+        },
+        {
+            "name": "Monologue",
+            "text": "Still, I'm not sure if I should let her help me for\nthe rest of the day. She's been busy too, and she\nneeds a day off..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Whew... Here, I'll take care of those documents\nnex—",
+            "choice_data_list": [
+                "Let's stop here for today!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? But there's still paperwork left...",
+            "choice_data_list": [
+                "The holidays only come once a year!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, but..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Fine. We can deal with the rest later. I'm still\ngoing to help, though."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hehe. You're right, we should have some fun."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Not because I like helping you or anything. I just\nhate leaving things half finished.",
+            "choice_data_list": [
+                "Let me treat you to dinner as thanks!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll help you with the rest later. Just let me know\nwhen you get to it.",
+            "choice_data_list": [
+                "Let me treat you to dinner as thanks!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You want to have dinner? With me? Today?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You don't need to thank me..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But wouldn't that... I don't know. Wouldn't that\nalmost be like a... I wasn't expecting..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I've always been the one who should be thanking\nyou..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose it's just dinner so... Fine, I'll go. Eating\ntogether's not a big deal."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Okay, let's go. I haven't gone out for dinner in a\nlong time."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ahem... I'll go change since we're going out. Wait\nhere, okay?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, but before we head out, I should change.\nWait here."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Figures everywhere would be full.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Figures everywhere would be full.",
+            "choice_data_list": [
+                "Sorry..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You don't have to apologize. We found a diner\nwith an open table, at least."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It took me off guard when that family called out\nto me, though."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Then other people started noticing me...",
+            "choice_data_list": [
+                "This hasn't been a very relaxing time, huh..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, it hasn't been that bad."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's not like before. Now I know what those looks\nmean."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So don't worry about me.",
+            "choice_data_list": [
+                "Dober..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's been a while since I've been to a diner, and I\nhad fun. I didn't know they had such a big menu."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Anyway..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If you ask me, where you're eating isn't as\nimportant as <i>who</i> you're eating with."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Saying that out loud was a little embarrassing..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Stop staring! Just pretend I didn't say anything!\nThat's the polite thing to do!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I meant what I said. I wanted to make sure\nyou knew that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh... Anyway, happy holidays, Trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Happy holidays, Trainer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Here's to a productive winter."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Here's to a productive winter."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The restaurant was nice and relaxing, and the\nfood was good, but..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm surprised you even knew about a place like\nthat.",
+            "choice_data_list": [
+                "Yeah?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah, it felt all... grown-up, you know?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Then again, I guess you are an actual adult."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...",
+            "choice_data_list": [
+                "Dober?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Can we talk a little more? Let's go somewhere\nquieter."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "While I was helping you earlier, I got to thinking..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I do feel like you're a hopeless idiot sometimes,\nbut... you're a proper adult, in your own way."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You work so hard I sometimes worry about you,\nbut... you really are a proper adult."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "When I was lost, you pulled me through and set\nmy sights forward again."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "When I was lost, you pulled me through and set\nmy sights forward again."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Whenever I was at my weakest and doubted\nmyself, you called me strong."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Being able to lead someone like that shows how\nmature you are, and I admire that.",
+            "choice_data_list": [
+                "You flatter me..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm not. I'm just speaking the truth."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "For someone who's always flattering me, you sure\nare quick to get shy when the tables are turned.\nHehe."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I just... think it's incredible."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Always being mindful of another person and\nguiding them... That's something only a real adult\ncan do."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I still don't know what the future holds for me,\nbut... if I'm going to become something, I think I'd\nlike to be someone like you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I want to guide others toward their own dreams of\nbecoming something, someone."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's the kind of person I'd like to be."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Or something like that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hey... You're shivering. Are you cold?",
+            "choice_data_list": [
+                "That's the best gift I've ever received...",
+                "That's the best gift I've ever received..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Stupid. That wasn't even a present."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, stop it. I have an actual present for you, you\nknow?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Here. You can open it, but I don't want to hear\nany complaints."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Here you go. I hope you like it..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What do you think?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What do you think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I open the present and see..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...It's a brooch. It's small, so it shouldn't get in\nyour way or anything."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It doesn't have any special meaning. I just saw\nhow it was glowing so gently and... picked it up\nwithout realizing."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And then I just happened to think about you, so...",
+            "choice_data_list": [
+                "Thanks! I'll treasure it!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And... I thought it would look good on you.",
+            "choice_data_list": [
+                "Thanks! I'll treasure it!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Yeah. I hope you do."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Yeah. I hope you do."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Happy holidays, Trainer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober and I gaze down at the sparkling\ntown below us, enjoying our quiet night together."
+        }
+    ]
+}

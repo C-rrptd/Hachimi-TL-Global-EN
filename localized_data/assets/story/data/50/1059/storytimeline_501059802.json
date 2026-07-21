@@ -1,0 +1,338 @@
+{
+    "title": "香りを重ねて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Mejiro Dober invites me to an event for\nmaking wet potpourri, a type of interior\nfragrance."
+        },
+        {
+            "name": "Monologue",
+            "text": "I know she loves herbs, so I want to do my best to\nsupport her efforts to create a great fragrance!",
+            "choice_data_list": [
+                "Okay! Which herbs should we pick?",
+                "Okay! Which herbs should we pick?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Come on. This isn't the kind of event you need\nto be getting <i>that</i> enthusiastic about."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ahaha, calm down, Trainer. You don't need to\nbring that kind of enthusiasm to this."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Come to think of it, we have been walking for\nquite a while... I'd like to take a short break. You\nsit down too."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We've been walking for quite a while—are you\ngetting tired? I brought some herbal tea, so let's\ntake a break."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I brought some chocolate, so you should eat\nsome. Don't want you passing out on me.",
+            "choice_data_list": [
+                "What about the event?",
+                "What about the event?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I also have some chocolate and other snacks!\nWe're going to be doing a lot more walking, so\nyou should stock up on energy.",
+            "choice_data_list": [
+                "What about the event?",
+                "What about the event?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The event runs until this evening. Let's head over\nto that shaded area. Hurry up."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Don't worry! The event runs until this evening.\nLet's rest in that shaded area. Come, this way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Won over by Mejiro Dober's rare show of\nforcefulness, I accept her kind hospitality.\nAfterwards, it's finally time to gather the herbs."
+        },
+        {
+            "name": "Monologue",
+            "text": "Won over by Mejiro Dober's rare show of\nforcefulness, I accept her kind hospitality.\nAfterwards, it's finally time to gather the herbs."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, there's some rosemary over there...",
+            "choice_data_list": [
+                "Should we go pick some?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I wonder, though. Rosemary would be refreshing and\nrevitalizing, but I feel like something would still be\nlacking."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Then maybe I have my priorities backwards. Yes, it's\nprobably better to go with a different herb...",
+            "choice_data_list": [
+                "...Are you okay?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's nothing! Anyway, we're holding off on the\nrosemary for now. Let's search over there."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, um, it's nothing. Anyway, let's put the\nrosemary on hold for now. We should try over\nthere instead, Trainer!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "If we climb this cliff, I'm sure we'll find other herbs\nup there!",
+            "choice_data_list": [
+                "If we... wait, <i>what?!</i>"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, I need some muña! And that herb grows on\nhigh ground."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They're great for health and promote relaxation!",
+            "choice_data_list": [
+                "That won't help if you get hurt before you find\nany!",
+                "That won't help if you get hurt before you find\nany!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite telling me not to get excited about this\nevent, she seems strangely eager... Regardless,\nwe continue collecting herbs."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober contacts me a few days later to let\nme know that the wet potpourri is ready. I guess\nshe wants to show me, since I helped a little?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Here. This is the wet potpourri from the other\nday.",
+            "choice_data_list": [
+                "...Huh?",
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Here. It's the wet potpourri I made the other day!",
+            "choice_data_list": [
+                "...Huh?",
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "What? You don't want it? I'd like to think I did a\npretty good job with it...",
+            "choice_data_list": [
+                "Huh?! I thought you made it for yourself.",
+                "Huh?! I thought you made it for yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh? Don't you want it? It smells great, and I'm\nquite proud of how it turned out, actually...",
+            "choice_data_list": [
+                "Huh?! I thought you made it for yourself.",
+                "Huh?! I thought you made it for yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, I've already got a bunch of these anyway."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hm? I don't think I remember saying that."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You see... I got a call from my former trainer not\ntoo long ago."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...To tell you the truth, I got a call from my former\ntrainer not too long ago."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's been so long since we've spoken! To what do I\nowe this pleasure?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's been so long since we've spoken! To what do I\nowe this pleasure?"
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "I just wanted to see how you've been doing lately.\nYou're not pushing yourself too hard, are you? I\nhope you're getting proper rest."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm getting plenty of rest, I assure you! I even\nattended a Mejiro family tea party recently."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I really am doing fine... Well, <i>I</i> am, anyway..."
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "...Berry?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, forget it! It's nothing. I'm completely fine!"
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "Okay, then... Can I tell you something?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "S-sure..."
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "You're kinder than you realize, Berry. You really\ndo care about others."
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "So have more faith in that kindness. If you do, I'm\nsure you'll be able to handle any challenge that\ncomes your way."
+        },
+        {
+            "name": "Dober's Former Trainer",
+            "text": "Hehe. Keep giving it your best. I'm rooting for\nyou!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...R-right! Thank you very much for the call.\nGoodbye."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You're always worrying about <i>me,</i> right?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Trainer, I know you worry about me a\nlot—you're always making sure I rest properly and\nwhatnot."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And I couldn't just sit by on the receiving end\nforever..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "So I... I wanted to do a little something for you in\nreturn."
+        },
+        {
+            "name": "Monologue",
+            "text": "Back when we were collecting herbs, she was\npushing herself while telling me to take it easy... I\nguess it was all for my sake...",
+            "choice_data_list": [
+                "I appreciate you doing all that... for me.",
+                "I appreciate you doing all that... for me."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Back when we were collecting herbs, she was\npushing herself while telling me to take it easy... I\nguess it was all for my sake...",
+            "choice_data_list": [
+                "I appreciate you doing all that... for me.",
+                "I appreciate you doing all that... for me."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! I-I never said it was for you! It's just...\nthere's someone special to me I didn't want to let\ndown!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, I'm the one who should be grateful to you.\nThank you for always holding me dear."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Besides... we won't be winning any races unless\nwe're both at our best.",
+            "choice_data_list": [
+                "Let's keep giving it our all!",
+                "Let's keep giving it our all!",
+                "I'll have to do something for you next.",
+                "I'll have to do something for you next."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm glad that you like it. It feels like I finally got\nto return the favor somewhat.",
+            "choice_data_list": [
+                "Let's keep giving it our all!",
+                "Let's keep giving it our all!",
+                "I'll have to do something for you next.",
+                "I'll have to do something for you next."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I went to a lot of effort making that potpourri, so\nI expect as much effort from you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Right! I'm expecting great things!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You better not slack off while you're indulging in\nthat fragrance, though."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We'll ace tomorrow's training with aplomb, then\nkeep riding that momentum!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's fine. If you keep doing that, there'll be no end\nto this.",
+            "choice_data_list": [
+                "Our relationship won't end, though, right?",
+                "Our relationship won't end, though, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "It's fine. If you keep doing that, there'll be no end\nto this.",
+            "choice_data_list": [
+                "Our relationship won't end, though, right?",
+                "Our relationship won't end, though, right?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "W-wait... Um, what... What do you mean?",
+            "choice_data_list": [
+                "I'll work alongside you until I'm physically\nincapable of working anymore!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Sigh...</i> Don't use such ambiguous phrasing."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh... <i>Ohhh!</i> But come on, why say that now? I\nknow that's how you've always done things!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Well, if you do want to do something in return, I\nwon't stop you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You threw me for a loop there. I thought for\nsure you meant..."
+        }
+    ]
+}

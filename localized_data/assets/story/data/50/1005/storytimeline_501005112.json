@@ -1,0 +1,270 @@
+{
+    "title": "温泉旅行",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, after Fuji Kiseki has a number of\nvictories under her belt..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Do you remember that promise we made before?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "We made a promise to go on a hot spring\nvacation once we had the time, remember?"
+        },
+        {
+            "name": "Monologue",
+            "text": "She whips out a familiar-looking hot spring\nvacation coupon out of nowhere."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Now that things have calmed down, why don't we\ngo? I promise it'll be a vacation unlike any you've\never had."
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide a date for our trip right away, and..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of our hot spring vacation is here!",
+            "choice_data_list": [
+                "(Oh no, I overslept!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I run to our meeting spot, hoping I'm not too late."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh! Good morning, Trainer! Over here!",
+            "choice_data_list": [
+                "Sorry I'm late!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! You're fine. I've already contacted the\ninn, so we can take it easy."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "By the way, have you eaten breakfast yet? I\nordered some takeout just in case."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "We can eat it together on the train, if you'd like.",
+            "choice_data_list": [
+                "I'd love to! Thank you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki acts as my guide, and we make it to\nthe inn safely."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soaking in the hot spring..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hey! How was your bath? Nice and relaxing, I\nhope?",
+            "choice_data_list": [
+                "It was fantastic."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's great. The water was so nice, it warmed me\nright to my core."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "While we're at it, here. Have some delicious\nspring water. ♪",
+            "choice_data_list": [
+                "Oh, thanks!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Fuji Kiseki continues to be the perfect guide and\nhost as we make our way through the inn."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "There's a beautiful field of flowers over there and\nstill time before dinner, so why don't we go and\ntake a look?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. You look like you really like the food."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "You can have my share too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I know it, she has me by the hand, leading\nme down a rural path through the rice fields."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "It's getting dark, so watch your step!",
+            "choice_data_list": [
+                "(Is Fuji getting any rest?)",
+                "(Is Fuji getting any rest?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I feel like I've just been going with the flow and\nletting her take care of me the entire time."
+        },
+        {
+            "name": "Monologue",
+            "text": "This trip is meant to be relaxing for both of us—I\ncan't let her exhaust herself like this!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What's wrong? Are you tired?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sorry, I shouldn't have dragged you out on a walk\nwithout warning. Let's head back.",
+            "choice_data_list": [
+                "That's not it."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "What is it, then?",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her how I want her to let her own hair down\nand relax instead of worrying over me constantly."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, is that all? Thank goodness!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Don't worry. I'm doing this because I love making\nyou smile more than anything."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Getting to see you smile all day long has been so\nnourishing for my both my heart and body."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "But... Well... If you'd really like me to relax more,\nthen..."
+        },
+        {
+            "name": "Monologue",
+            "text": "She snaps her fingers smartly."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Peeeew!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "A huge firework shoots into the air and explodes\nabove us!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'd like you to enjoy this trip with every fiber of\nyour being.",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! Surprised? I didn't set this up, to be\nhonest. There just happens to be a fireworks show\ntoday."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "This is supposed to be a good secret spot to view\nit from."
+        },
+        {
+            "name": "Monologue",
+            "text": "Fireworks launch one after the next and bloom\nbright and sparkling in the sky.",
+            "choice_data_list": [
+                "This is so cool!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Considering how perfect our timing was, she must\nhave invited me on this walk just for the fireworks\nshow.",
+            "choice_data_list": [
+                "(Just how much research did she do for today?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When I think back on our day together, I realize\nFuji Kiseki must've readied everything in advance."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I'm glad you're having fun! There are some\nbenches we can sit on over ther—"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm? What's wrong? You're staring at me so\nintensely.",
+            "choice_data_list": [
+                "Thank you for making today such a memorable\nday."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...!",
+            "choice_data_list": [
+                "I'm grateful for all the thought you put into this.",
+                "I'm grateful for all the thought you put into this."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's obvious how much heart and effort she put\ninto today's preparations, from breakfast to the\nflower field to the fireworks show.",
+            "choice_data_list": [
+                "I'm so happy right now.",
+                "I'm so happy right now."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "A lovely red tinges Fuji Kiseki's cheeks as I speak."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O-oh. Well... I'm happy to hear that. The thing\nis..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I really wanted to make today special. I hope I\ndidn't overdo it.",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Phew... That's a relief."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I want to thank you too for gracing me with your\nwonderful smile."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Here's to many more days of smiling together."
+        },
+        {
+            "name": "Monologue",
+            "text": "I sense that Fuji Kiseki and I have formed an\nirreplaceable bond during this time together."
+        }
+    ]
+}

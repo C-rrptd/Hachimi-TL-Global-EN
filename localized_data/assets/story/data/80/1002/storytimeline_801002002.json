@@ -1,0 +1,62 @@
+{
+    "title": "どうすれば",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while I'm taking a breather at the park..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The trick to running fast... The trick... I've never\nreally tried using any tricks while running,\nthough..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I come across Silence Suzuka wandering around in\na left-handed loop, absorbed in her thoughts."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! I-I'm so sorry for blocking your... Wait, where\nam I?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh gosh... It's one thing to get lost in my\nthoughts, but I can't believe I've lost my way and\nwandered so far out again."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "And what's more, I have nothing to show for it..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I don't want to disappoint the girl who asked me\nfor help, but I can't think of anything... Goodness,\nwhat should I do?",
+            "choice_data_list": [
+                "Why not do some partner running with her?",
+                "Maybe the trick is hidden in that left-handed\nloop you're in."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Partner running? Ah, I see..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "If I can't <i>tell</i> her what she should do, I can simply\n<i>show</i> her."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you so much for the advice. I'll try asking\nher to run with me right away."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Huh? The trick is in my left-handed loop?\nR-really?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "That thought has never even occurred to me, but\nI suppose I do always end up doing this..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Okay, I'll tell her about this. I just hope it helps\nher."
+        }
+    ]
+}

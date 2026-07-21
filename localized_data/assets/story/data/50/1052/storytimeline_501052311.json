@@ -1,0 +1,77 @@
+{
+    "title": "根岸Sの後に・ふいんき？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "Whew! That was fun! I was flying around the track\nthis time!",
+            "choice_data_list": [
+                "You just ran a pretty prestigious race. How do\nyou feel?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmmm... I dunno. Are presti-gee-us races\nsupposed to feel different?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "It was so exciting, just like always! Was there\nsomething else?"
+        },
+        {
+            "name": "Monologue",
+            "text": "No matter the race, Haru Urara is always the\nsame. I'd say that's one of her strong suits,\nexcept..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Being a little nervous can actually result in a\nbetter performance. So I decide to suggest taking\non a higher level race to her.",
+            "choice_data_list": [
+                "How about tackling a G1 race next?",
+                "How about tackling a G1 race next?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "G1? That's..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Such a cool name! Yeah, let's do it!",
+            "choice_data_list": [
+                "How about the February Stakes then?",
+                "How about the February Stakes then?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "If she's surrounded by hard workers, maybe it'll\nchange her mindset!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "February Stakes? I feel like I've heard that\nbefore... But oh well!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sure, let's try this Fairly Lovely Steaks race!",
+            "choice_data_list": [
+                "February Stakes!",
+                "February Stakes!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Isn't that what I said? These race names are\nso hard..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Febru... Febby... Fairly... What was it again?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, we decide on the next race to shoot\nfor. However..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Haru Urara doesn't seem to take <i>anything</i>\nseriously. I wonder how hard she'll actually\ncompete..."
+        }
+    ]
+}

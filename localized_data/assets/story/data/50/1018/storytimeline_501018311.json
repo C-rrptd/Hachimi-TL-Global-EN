@@ -1,0 +1,45 @@
+{
+    "title": "大阪杯の後に・消えぬ景色",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Air Groove put her best foot forward in the\nOsaka Hai. Afterwards, in the waiting room..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "This race was another step towards taking on\nSuzuka. The question is, where will she be next?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Someone of Silence Suzuka's talents would\nprobably run in...",
+            "choice_data_list": [
+                "The Takarazuka Kinen.",
+                "The Takarazuka Kinen."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Agreed. There's no doubt in my mind that's where\nshe'll choose to run next.",
+            "choice_data_list": [
+                "We'll do even better in the Takarazuka Kinen\nthan today."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That we will. I'll definitely defeat Suzuka."
+        },
+        {
+            "name": "Air Groove",
+            "text": "After all, if I don't..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Never mind. Let's go."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Groove begins to pack her things, but\nsomething seems off about her..."
+        }
+    ]
+}

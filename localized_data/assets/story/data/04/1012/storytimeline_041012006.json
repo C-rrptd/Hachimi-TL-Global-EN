@@ -1,0 +1,275 @@
+{
+    "title": "姐御流クッキング",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "On my day off, I pay a visit to the school library."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Let's see... \"The Five-Star Italian Compendium\" and \"The Ultimate\nChinese Culinary Challenge\"? Hmm, these aren't really what I had in\nmind..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh! \"Energizing Meals Made Easy\"? That sounds in the right ballpark.\nYeah, I think I'll check out this one today—",
+            "choice_data_list": [
+                "What are you doing?",
+                "What are you doing?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Whoa, Teach?! Why're you here? Didja come to stock up on stuff to\nread like me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Noticing a book in Hishi Amazon's hands, I ask her what it's about."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, this? It's a cookbook. You can only grow your repertoire so much\non your own, y'know?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Sometimes I check out stuff like this to really step up my culinary\ngame. 'Cause I don't just read the recipes—I actually make 'em."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "So c'mon, Teach! We're gonna go load up on the ingredients listed in\nthis book!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Kay, grab a shopping cart, and I'll start tossin' stuff in! First up is\npumpkin, then fish sauce... Huh, I've never used these before.",
+            "choice_data_list": [
+                "You must know a lot about cooking.",
+                "You must know a lot about cooking."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You bet! I do it every day! Then I give my power-packed provisions to\nthe youngsters. Feels good to see 'em scarf them down.",
+            "choice_data_list": [
+                "So it's a hobby of yours?",
+                "So it's a hobby of yours?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "A hobby? Well, I guess you could call it that. But it's not really about\nthe cooking itself..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Actually, Teach, you seem really into this. Does that mean you cook\ntoo?",
+            "choice_data_list": [
+                "Yeah, I can hold my own."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Huh?! So what you're saying is..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You've been acting all casual, but you're actually my rival! This whole\ntime, you were just playing dumb!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Dammit! Then that means I just showed my whole hand to the\ncompetition! Argh!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Well, whatever. I'll lay all my cards down on the table and still score a\ncrushing victory! That's how ol' Hishiama gets stuff done!",
+            "choice_data_list": [
+                "I-I'm not following...",
+                "I-I'm not following..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Isn't it obvious? The two of us are both whizzes in the kitchen. So\nthere's only one thing to do! Have a one-on-one!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "As fellow travelers down the path of cuisine, we won't be satisfied 'til\nwe prove who's best, right?",
+            "choice_data_list": [
+                "Not sure that applies to me..."
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aww, c'mon, have some guts. Finding out that you cook too really lit a\nfire under me."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "It's good for us Umas and our trainers to square off on the same field\nonce in a while, don'tcha think? So let's have a cook-off!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "We have the entire cafeteria to ourselves, so that means it's cook-off\ntime!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "In one corner, we have our dorm leader—the iron maiden of the\nkitchen, Hishiama! All of us can vouch for her cooking skills."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Just so you know, I won't be holding back."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "And in the other corner, we have Hishiama's trainer. If you want to\nwin, you'll have to serve up something that seriously tickles my taste\nbuds! Ooh, I can't wait! ♪"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, don't hijack our match just to stuff yourself!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Ehehe, let my stomach get the better of me for a minute there..."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Anyway, let's get back to it. In this battle of teacher and student, it's\neat or be eaten! Let the cook-off... begin!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Aw yeeeah! It's on, Teach! Take that, and that! Gotta get that pot\nsimmering! Bubble, bubble, bubble!",
+            "choice_data_list": [
+                "Is the narration necessary?",
+                "Is the narration necessary?"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Wh-what's the problem? That's just the way I get into it. Doesn't it\nhelp heat things up?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You'd better get rolling too. Let's see what you can <i>really</i> do!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following a fiery cooking session, we set our dishes side by side on\nthe table."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Now then, it's time to taste the submissions. Here we have the\ntrainer's dish—cheese and carrot gratin topped with honey."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Whaaat?!</i> You totally sold your soul, Teach! Look at you stuffing your\ndish with popular ingredients just to pander to the judge!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Curse you, junk food cook!\nTch, whatever. Go on and taste it already."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Yes, ma'am. <i>Munch, munch...</i>\nMmm, yum! It's melting in my mouth! ♪"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ngh... I'd better try a bite too... No, scratch that! My pride won't\nallow it."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Next up is Hishiama's entry—lightly simmered pumpkin and...\nmincemeat?"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "That's right! It's a brand-new recipe I found in a book. I know it looks\nplain, but just try it."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Yes, ma'am. <i>Munch, munch...</i>\n...This flavor!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "It's super plain! Not only does it look plain, it tastes plain too!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Hey, you don't have to say it like that! Argh... Guess it doesn't have\nmuch impact compared to Teach's junk food."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Oh... But wait a minute. The flavor..."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "It's plain, but there's something else there... Feels like I'm being\nwarmed up from the inside..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Oh, looks like you finally noticed! That's my secret weapon."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "You should try it too, Teach. I'm sure it'll strike a chord with you. Trust\nme.",
+            "choice_data_list": [
+                "Bon appétit!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Taking a spoonful of the stew, I feel the delicate flavor spreading\nthrough my body."
+        },
+        {
+            "name": "Monologue",
+            "text": "On top of being delicious, her cooking is thoughtfully prepared to\ncater to those who will eat it. But when I attempt to give my\ncompliments to the chef..."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Kn-knock it off! Did you forget I'm your rival? I dunno how I'm\nsupposed to respond to that."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "But yeah, that's what I was gettin' at earlier. You were right—my\nhobby <i>is</i> cooking. But that's not the whole story."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "My <i>real</i> hobby is cooking up healthy foods that'll give people energy\nand motivation. That goes for you too, Teach!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Tweeeeet! The judges have reached their decision. The winner of this\ncaptivating culinary contest is none other than..."
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "Actually, they were both delicious, so it's a tie!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "<i>Huh?!</i> What the heck?! You made it sound like I was a shoo-in for first\nplace!"
+        },
+        {
+            "name": "Referee Umamusume",
+            "text": "But that melted cheese was just sooo good!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Grr, falling for such an obvious trick... Go drown yourself in boba tea\nor something!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Anyway, what do we do now, Teach? Our big one-on-one ended in a\ndraw! How're we supposed to solve this?",
+            "choice_data_list": [
+                "We'll have to have a rematch sometime!",
+                "We'll have to have a rematch sometime!"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "A rematch? Oh, yeah! That's right! Even if it ended in a tie this time\naround, we can just do it again. We'll have plenty of chances from\nhere on out."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Haha. You're going down next time, Teach! You and I are partners,\nbut when it comes to the kitchen, we're rivals through and through!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Delighted to have found a worthy adversary in her hobby, Amazon\ncontinues to pursue gentle flavors in her cooking—in stark contrast to\nher personality."
+        }
+    ]
+}

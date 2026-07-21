@@ -1,0 +1,57 @@
+{
+    "title": "クレーンゲームに挑戦！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while out and about with Yaeno\nMuteki..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Ah.",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's... nothing."
+        },
+        {
+            "name": "Monologue",
+            "text": "Her eyes seem drawn to a claw machine filled with\nUmamusume plushies called cuties.",
+            "choice_data_list": [
+                "Do you want one of those plushies?",
+                "Do you want one of those plushies?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "It's not a question of desire. I simply cannot have\none."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "If I were to get one... If I were to cradle it in my\narms..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "And see those pleading eyes... I would need to\nprotect it!",
+            "choice_data_list": [
+                "Let's get you some plushies to protect, then."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Get plushies for the purpose of protecting them?\nThat is one way to look at it..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Very well. I pray for your success!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

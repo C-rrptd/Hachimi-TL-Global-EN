@@ -1,0 +1,42 @@
+{
+    "title": "不在の理由は……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've been waiting for Bamboo Memory for a while,\nbut she hasn't shown up for training."
+        },
+        {
+            "name": "???",
+            "text": "AGHHHHH!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "TRAINER! I'M SO SORRY! I didn't mean to be\nlate!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I got completely caught up watching this red-hot\nshow... But I'll make up for it! A hundred laps\nshould be appropriate! Plus a hundred-page\napology letter!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "As part of the disciplinary committee, I'm\nsupposed to be watching for latecomers! And\ndespite that, I... I...",
+            "choice_data_list": [
+                "It's enough that you realize your mistake.",
+                "It's enough that you realize your mistake."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ngh... You're so understanding! That makes me\neven more embarrassed! You've left me with no\nchoice..."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "I'll do a <i>thousand</i> laps around the track! And write\na <i>thousand</i>-page apology letter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Bamboo Memory seems truly remorseful, so I tell\nher not to beat herself up too much."
+        }
+    ]
+}

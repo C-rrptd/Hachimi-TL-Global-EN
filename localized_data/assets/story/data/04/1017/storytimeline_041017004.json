@@ -1,0 +1,228 @@
+{
+    "title": "情意投合",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "Today is the day."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well then, trainers, let me hear your answers. Why do you wish to be\nmy trainer?"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "I'll kick things off. As I said the other day, I guarantee you'll become\neven stronger under my tutelage—strong enough to stand on that\npodium as a champion."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "This is a three-year training plan. I put all the knowledge and effort I\ncould muster into it."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Superb. Even just glancing at it, I can tell that it's a well thought out\nplan. I'll take a closer look shortly."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Next would be..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Me, yes. It's true that you have boundless potential—so much so that\nsome trainers are hesitant to work with you."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "But <i>I</i> want to see you fulfill your potential. I'm prepared to do\nwhatever it takes to guide you to certain victory!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "I've laid out a report with winning race strategies based on an analysis\nof your runs. Please take a look!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm... Impressive work. I'll look at it in more detail shortly."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "And now... Last but not least, I turn to you. Why do you wish to be my\ntrainer?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You said you wanted to see more of my running. In other words, you\nspoke of your belief in my future potential."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Illustrate to me, please, what that would entail. What future would\nyou seek for me?"
+        },
+        {
+            "name": "Monologue",
+            "text": "In response to her question, I show her the photo I took yesterday."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hm? Is this... a photograph of me? When I brought Grass Wonder and\nMaruzensky together?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So this... is the answer you brought for me?",
+            "choice_data_list": [
+                "This is the future I wish to seek with you.",
+                "This is the future I wish to seek with you."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...I see. <i>With</i> me, huh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, Symboli Rudolf carefully reads the documents put together\nby the other trainers."
+        },
+        {
+            "name": "Monologue",
+            "text": "But ultimately..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm sorry to turn you both down like this after you put in so much\nwork."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "...A tremendous pity, but I understand."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "We'll leave the rest to you. Help her achieve greatness—we're\nholding you to that."
+        },
+        {
+            "name": "Monologue",
+            "text": "The two trainers look back regretfully as they make their way off the\ntrack."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "They were excellent trainers. Any student would flourish under their\nguidance.",
+            "choice_data_list": [
+                "...Then why?",
+                "...Then why?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Why did I choose you? Isn't it obvious?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You made an effort to look at the world from my perspective. And\nthat... made me happier than I expected."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "What I aim for, every day of my life, is to create a world where\nUmamusume can live in bliss. That's what I've been running full-speed\ntoward this entire time."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But, well... I think there was a part of myself that considered it a\nnaïve, faraway dream."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But you're different! I could tell you were willing to go the extra mile,\nbut I didn't expect someone who shared the same vision!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Knowing that brings me so much joy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Having someone who shares my aspirations—who would seek this\nfuture with me by my side... it fills my heart with a reassuring warmth.",
+            "choice_data_list": [
+                "I'm the one who's thrilled to have you by my\nside."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Turning the tables on me, are you? Hahaha! I'm flattered that you feel\nthat way!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well then—let's make it official, shall we?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I am Symboli Rudolf. I stand here at the starting gate with my eyes on\none goal: a world where all Umamusume can live in bliss."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But idle talk won't get me anywhere. I must back my words with deeds\nworthy of attention and respect."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That is why I am aiming for the top—so that I may be a ruler worthy of\nher crown."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Much time has passed since I first came to the academy. I spent my\ndays serving as the student council president, but now the hour is\nnigh."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Will you help me take the throne, Trainer?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excellent. That's what I wanted to hear! We'll make the name Symboli\nRudolf one to remember."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Both of us, together."
+        },
+        {
+            "name": "Monologue",
+            "text": "Time passed quickly after that."
+        },
+        {
+            "name": "Monologue",
+            "text": "Soon enough, the day of Symboli Rudolf's debut race is upon us, and\nbefore I know it..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you for your cheers and well-wishes, everyone!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yeaaaaaah! Woooo!!"
+        },
+        {
+            "name": "Caster",
+            "text": "Symboli Rudolf—what a powerhouse! Such an exceptional\nperformance!"
+        },
+        {
+            "name": "Caster",
+            "text": "This victory is surely only the beginning of her blazing path to glory!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...High praise indeed."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh, looks like we both have great expectations to live up to!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her smile spreads to the people in the stands, capturing countless\nfans—and this is still only the first race of her journey!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "S-so cool!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "So that's... Symboli Rudolf!"
+        }
+    ]
+}

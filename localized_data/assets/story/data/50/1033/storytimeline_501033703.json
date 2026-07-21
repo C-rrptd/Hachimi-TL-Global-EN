@@ -1,0 +1,224 @@
+{
+    "title": "言葉＋……",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Children's Center Staff",
+            "text": "Both of you, go ahead and eat up! Don't worry\nabout assisting!",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I'd prefer to do something to help..."
+        },
+        {
+            "name": "Monologue",
+            "text": "One day, on our way back from a day out, we're\napproached by some familiar children."
+        },
+        {
+            "name": "Cheerful Girl",
+            "text": "I knew it was you! You're the heroes who helped\nout Doto!",
+            "choice_data_list": [
+                "Oh, it's the kids from when we were searching\nfor the legendary blade."
+            ]
+        },
+        {
+            "name": "Children's Center Parent A",
+            "text": "Ah, yes! I heard that you helped Opera O prepare\nfor her performance!"
+        },
+        {
+            "name": "Children's Center Parent B",
+            "text": "The kids seemed so excited saying they couldn't\nwait to see it. Why don't you join us for a\nbarbecue?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No, that's all right. We didn't do anything special."
+        },
+        {
+            "name": "Cheeky-Faced Boy",
+            "text": "Pleeease! Just for a little while! Come on, this\nway!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "H-hold on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite seeming quite hesitant, Admire Vega\njoins in with the barbecue."
+        },
+        {
+            "name": "Children's Center Staff B",
+            "text": "Hm? We've already run out of ingredients? I'll\nhave to go and pick up a few more things."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Uh... In that case, I'll go."
+        },
+        {
+            "name": "Children's Center Staff B",
+            "text": "No, you sit down! You're our guest, and we need\nto get quite a lot!",
+            "choice_data_list": [
+                "I'll go with her.",
+                "I'll go with her."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah. We can handle it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "This should be everything. I hope so, anyway..."
+        },
+        {
+            "name": "Monologue",
+            "text": "We've got a lot of boxes. Even if they aren't too\nheavy to lift, there's no way we can keep them\nbalanced on the way back."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't know how this is going to work. But I said\nI'd do it, so..."
+        },
+        {
+            "name": "???",
+            "text": "Hey, Ayabe! That's a ton of groceries you've got\nthere!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "This is where you're heading with those boxes,\nright? Let's load them onto my cart!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thank you. That... would be a big help."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "No worries! You're in luck—I was planning to buy\na lot today!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(But obviously she meant to use the cart for\nherself. I'm making her go really far out of the\nway...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(We're costing her a lot of time and effort. It\nwouldn't be enough to only give her a \"thank\nyou.\")"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Okay, I should start heading back! Have fun,\nguys!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh? W-wait up!"
+        },
+        {
+            "name": "Children's Center Staff A",
+            "text": "Yes, we can't have you go just like that. Let us\ntreat you to a meal for helping us carry\neverything! ♪"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Are you sure? In that case... thank you so much!\nI'll gladly join you!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ehehe! This makes me really happy!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Happy..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't need it. Your words are thanks enough."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-but! I couldn't... How about something besides\na drink? An ice cream, or a grilled carrot? Or\nmaybe..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(I see...)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Top Road... I'll do the cooking. You take a seat."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "I'll help."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Okay.",
+            "choice_data_list": [
+                "What's up? It looks like something's on your\nmind.",
+                "What's up? It looks like something's on your\nmind."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I think I kind of understand how Doto felt before."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sometimes you want to do something more than\njust saying thank you."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There are feelings that can't be expressed\nthrough words alone.",
+            "choice_data_list": [
+                "In that case, you have to do a good job with the\ncooking!",
+                "In that case, you have to do a good job with the\ncooking!",
+                "We really learned a lot today."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "There are feelings that can't be expressed\nthrough words alone.",
+            "choice_data_list": [
+                "In that case, you have to do a good job with the\ncooking!",
+                "In that case, you have to do a good job with the\ncooking!",
+                "We really learned a lot today."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That goes for you too. Make sure not to burn\nanything."
+        },
+        {
+            "name": "Children's Center Staff",
+            "text": "Heh heh! Thanks so much, you two! You did a\ngreat job grilling the meat!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Thank you."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yeah..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Saying it out loud feels a bit embarrassing,\nthough...",
+            "choice_data_list": [
+                "Come on, you don't have be like that!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Don't start. Just be quiet and eat your food."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega piles vegetables and meat onto my\nplate in rapid succession, not allowing me a\nmoment to speak."
+        }
+    ]
+}

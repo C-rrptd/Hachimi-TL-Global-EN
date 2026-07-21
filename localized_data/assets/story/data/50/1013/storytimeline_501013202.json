@@ -1,0 +1,65 @@
+{
+    "title": "菊花賞にむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectator A",
+            "text": "Hoo boy, I'm lookin' forward to this! The Kikuka\nSho!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "And this time, there's gonna be a Mejiro family\nshowdown, right?!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "That's right! I hope you brought a fan, 'cause this\nrace is gonna get heated!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "They're quite excited... I can hear them all the\nway from here.",
+            "choice_data_list": [
+                "That's because it's a Triple Crown race.",
+                "That's because it's a Triple Crown race."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Indeed. An opportunity coveted by any and all\nUmamusume..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Beyond that, for me, it is a chance to truly\ncompete against Ryan."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It's strange. Long before this, the two of us would\nrace against each other, but there were no\nspectators back then."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now, all eyes are on us..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm sure everyone in the Mejiro family is watching\nus as well.",
+            "choice_data_list": [
+                "You'll have to run with dignity, then!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes. I mustn't embarrass myself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Even if my opponent is Ryan—"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No. <i>Especially</i> because my opponent is Ryan,\nsomeone whom I respect, I must gain a victory\nmost magnificent!"
+        }
+    ]
+}

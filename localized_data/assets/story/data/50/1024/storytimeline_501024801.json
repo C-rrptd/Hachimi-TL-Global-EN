@@ -1,0 +1,244 @@
+{
+    "title": "Meant To Be♪",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Mayano Top Gun and I are summoned\nto the student council office..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Whoa! You want me to be a guest at a fashion\nshow?!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's correct. It's part of a PR event for the\nacademy. The attendees voted on which signature\nracewear they'd like to see."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The wedding signature racewear from the Beauty\nDream Cup emerged victorious, so we called you\nhere since you own it."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Eee! I love that outfit too! Wait a second. Doesn't\nthat mean..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right. I, too, have the same outfit, so I'll be\nparticipating as well."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Furthermore, we also require that someone escort\nyou down the runway as part of our vision."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "You can hold applications for fans or ask\nsomeone you know. Just let us know your decision\nby tomorrow."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Escorted by a fan... or someone I know, huh?\nActually, I...",
+            "choice_data_list": [
+                "Have you decided?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "What do you think I should do, Trainer?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I-if I walked with a fan, I'm sure they'd be really\nhappy! Or I could ask Fuji. I'm sure she'd be really\ngood at it..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But... if a certain someone were to ask me to pick\nthem, then... Hmmm...",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Come <i>on!</i> Take the hint already!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Okay, fine! I guess I'll just come up with the best\nstrategy to get through to you!"
+        },
+        {
+            "text": "With that, I stand back and watch as Mayano Top\nGun's strategy unfolds..."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "Mayano! Everyone's dying to know who you\npicked to walk you down the runway!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Aw, thanks! I definitely have to find an applicant\nsoon! <i>Ahem...</i>"
+        },
+        {
+            "name": "Fan",
+            "text": "I'm so excited for the event! I'd totally apply if\nfans were allowed to!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I sure am popular, huh? ☆ If no one asks to walk\nme down the runway, I might just have to open\napplications to the public! <i>Ahem...</i>"
+        },
+        {
+            "text": "A few days later, she still hasn't chosen an escort.\nAs I'm wondering why..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Pardon me. I've come to speak to you directly\nabout a certain matter. I trust you're aware of\nwhich one, yes?",
+            "choice_data_list": [
+                "The escort role, right?",
+                "The escort role, right?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "I understand the gravity of this decision, but I\ncan't wait forever. Please, I need an answer—"
+        },
+        {
+            "name": "???",
+            "text": "Stooop! Trainer, what's going on here?!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Escort role?! \"I can't wait forever\"?! Are you\ngonna be <i>Air Groove's</i> escort?!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "But... but... I've been waiting this whole time for\nyou to ask <i>me!</i>",
+            "choice_data_list": [
+                "Really?!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "You're my partner! I wanted you to ask me, not\nthe other way around..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I've been waiting for you to say something, but\nnow Air Groove's asked you?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wait a moment! What are talking about? I've\nalready selected someone else to escort me."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "What?! Th-then... the reply for the escort role...",
+            "choice_data_list": [
+                "She just wants to know who you've chosen."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "...Ohhh! I totally misread the situation then!\nThank goodness."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ha... Haha... Sorry for the misunderstanding. I\nthought my strategy of playing hard to get had\ntotally failed...",
+            "choice_data_list": [
+                "Playing hard to get?"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Oops!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ugh... Fine! I thought that you'd see how popular\nI was, panic, and then ask me!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I wanted to know... that you value me more than\nanyone else.",
+            "choice_data_list": [
+                "Can you give me one more chance?",
+                "Of course I value you the most."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Hmph! You leave me no choice! Just one though!",
+            "choice_data_list": [
+                "Please let me escort you."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "...Yaaay! Ehehe, I'm so happy!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll go file the forms. <i>Sigh...</i> Please don't cause a\nruckus the day of. Are we clear?"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Got it! I can't wait! The outfit is already perfect.\nAll that's left is...",
+            "choice_data_list": [
+                "The mental prep.",
+                "The mental prep."
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Well, yeah, but I don't think my heart will ever\nstop pounding! I'll never be the same again..."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "I'm so happy! Let's make this an incredible fashion\nshow, okay?"
+        },
+        {
+            "text": "We walk out onto the runway full of excitement,\nand it ends up being a great success."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "R-really? I'm special? I'm the most precious? I\ntwinkle the brightest?",
+            "choice_data_list": [
+                "Yes, yes, and yes!",
+                "Yes, yes, and yes!"
+            ]
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ehehe! My plan may have failed, but I guess it all\nworked out in the end since I found out how you\nreally feel about me!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Are you ready? I'm gonna make you say even\nmore incredible things on the day! ☆",
+            "choice_data_list": [
+                "Even more incredible?!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "<i>Sigh...</i> I'll go file the forms. I ask that you not\ncause any trouble on the day of the event,\nincredible or not."
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Yay! ☆ Thanks for your support, everyone! I'm so\nhappy!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "My trainer and I both promise to both keep on\ntwinkling from here on out!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Right, Trainer? ♪",
+            "choice_data_list": [
+                "Yeah! We promise!",
+                "Yeah! We promise!"
+            ]
+        },
+        {
+            "text": "The crowd roars in response to this declaration,\nand the event ends in brilliant success!"
+        }
+    ]
+}

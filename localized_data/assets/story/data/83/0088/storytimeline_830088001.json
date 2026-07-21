@@ -1,0 +1,162 @@
+{
+    "title": "見えない献身",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The day after a bout of heavy rain, I go to check\nin about the status of the track with a staff\nmember I'm acquainted with, when..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Excuse me! Might we have a moment of your\ntime?"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Ah, yes, of course. We were just finishing up our\nconversation. I'll be off, then!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Wait! We're actually hoping to speak with <i>you!</i>"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You're in charge of taking care of the training\ntrack, yes? Would it be all right if we asked you a\nfew questions?"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Sure. I'm guessing yesterday's rain has you two\nworried, huh?"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "It really poured out here, didn't it? But you don't\nhave to worry. It's totally fine to use it today!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I can see that, but that's why it's so terribly\nstrange!",
+            "choice_data_list": [
+                "Strange? In what way?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You see, yesterday..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It doesn't appear like the rain will stop. I wonder\nif it'll be dry enough to train on by tomorrow\nmorning."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We'll just have to come check! At the very least,\nwe'll be able to do stretches!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We didn't have our hopes up, so we were\nsurprised how pristine and dry the track was! It\nwas like yesterday's rain never even happened!"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Haha. Well, it wasn't all dry this morning, but I\nfinished up the job with some elbow grease.\nGotta keep the track ready for everyone, right?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Wait, you mean you dried it off manually?! But\nwhen?! It was already completely dry early this\nmorning."
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Well, there's diligent athletes like you who come\nout at the crack of dawn to practice. You\nmotivate me to work just as hard."
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "That's why I always make sure to wrap up my\nmorning routine before the grounds open for the\nday.",
+            "choice_data_list": [
+                "You sure have your work cut out for you!"
+            ]
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Haha. I won't argue with that. But it's all of you\nwho make my job worth doing."
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Running in the competition of your dreams\nagainst your rivals..."
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "If waking up a little earlier than normal means I\ncan help you all achieve your goals, then I'm more\nthan happy to do so.",
+            "choice_data_list": [
+                "I understand that feeling very well."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um! Do you mind if I ask one more question?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What made you decide to work at Tracen\nAcademy instead of the racecourses that hold\nthose competitions we all dream of?"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Well, that's because..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Thank you so much, Trainer! Because of you, I was\nfinally able to realize my dream!"
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "Seeing that racer crying in joy at her moment of\ntriumph moved me. It made me wonder just how\nhard she had to work to reach her goal."
+        },
+        {
+            "name": "Track Maintenance Staff",
+            "text": "The more I thought of it, the more restless I\nbecame. I wanted to do all I could to help racers\nfulfill their dreams, so I came here to Tracen!",
+            "choice_data_list": [
+                "So that's what brought you here."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After seeing the staff member off, I come back to\nfind the two students with serious looks on their\nfaces."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I never considered how hard the staff worked to\nsupport us."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I really feel I mustn't take their efforts for\ngranted, especially after that conversation."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "If only we could do something to show them our\nappreciation..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And it's not just the maintenance staff we have to\nthank either, is it?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Right. There are also the cooks in the cafeteria\nwho make us such delicious meals every day."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "And also the custodians who keep the academy\nnice and clean."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "What if we did something for everyone to show\nthem our thanks?",
+            "choice_data_list": [
+                "I'm sure they'd all be delighted.",
+                "I'm sure they'd all be delighted."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'm going to start thinking of something right\naway!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Now that I've realized the extent to which\neveryone supports us, I want to make sure I\nexpress my gratitude to all of them!"
+        }
+    ]
+}

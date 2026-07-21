@@ -1,0 +1,27 @@
+{
+    "title": "休息はバッチリ！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "I spot Narita Brian at the academy after a break.",
+            "choice_data_list": [
+                "How was your break?"
+            ]
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...I went out to the sticks for a student council\ninspection."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "But the president can't pass up a good time. She's\ngot to sample the local cuisine, visit the hot\nsprings, yada yada..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "An \"inspection,\" she called it... Can you believe\nthat?"
+        },
+        {
+            "text": "It seems like Narita Brian had a nice, relaxing\ntime with her friends."
+        }
+    ]
+}

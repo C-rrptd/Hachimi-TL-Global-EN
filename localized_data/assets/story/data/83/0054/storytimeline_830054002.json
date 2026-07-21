@@ -1,0 +1,218 @@
+{
+    "title": "抑えられないキモチ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's my day off, so I decide to go watch an\noff-campus marathon for inspiration..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Dash!</i>"
+        },
+        {
+            "name": "Marathon Director",
+            "text": "And the winner iiiis... NICE NATURE!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Phew! I finished off strong!",
+            "choice_data_list": [
+                "Nice work!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, uh, thanks... You came to watch, huh?",
+            "choice_data_list": [
+                "Yep. So I guess you felt like racing?",
+                "Yep. So I guess you felt like racing?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Well, yeah. Do you remember what Palmer told\nme before?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I wanted to try that whole \"escape the ordinary\"\nthing she suggested."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Look around... Not all these participants are from\nthe academy. I figured that racing against new\nfaces might feel kind of refreshing..."
+        },
+        {
+            "name": "Black-Haired Umamusume",
+            "text": "<i>Huff, huff...</i> Dang it! I lost!"
+        },
+        {
+            "name": "Black-Haired Umamusume",
+            "text": "But that was so incredible, Nature! I hope I can\nbeat you someday!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Long-Haired Umamusume",
+            "text": "Ahaha, I know how you feel, but I'm not so sure\nwe stand a chance!"
+        },
+        {
+            "name": "Long-Haired Umamusume",
+            "text": "Your specialty's short races, right? Why don't you\njust stick to those?"
+        },
+        {
+            "name": "Black-Haired Umamusume",
+            "text": "No way! I won't give up! I <i>can't</i> give up! I've got\nthis feeling inside me that I can't ignore..."
+        },
+        {
+            "name": "Black-Haired Umamusume",
+            "text": "I <i>will</i> win someday! My heart, my body, and my\nsoul are all crying out for victory!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Her heart... is crying out?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Everything was perfect! I had the win in the bag!\nBut that darn Teio just had to..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Dang it, dang it, <i>dang it!</i> I can't <i>believe</i> this!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Huh. I guess I felt the same way."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's because she hasn't given up that she's frustrated and\neager to win."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I get it now... That's why when I lost to Teio, I felt so...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Huh?! N-nothing! Anyway!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Siiigh...</i> My face's burning up here... Guess I didn't\nrealize I was this stubborn..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Um, hey. Can I ask you something?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I don't suppose you know any tricks people can\ntry to, you know, cool their heads?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Out of the blue, she asks me for advice. And what\ncomes to mind in the moment is...",
+            "choice_data_list": [
+                "Go eat something sweet.",
+                "Going for a run might clear your mind."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, so you think I should get some sugar to calm\ndown? Nice idea!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Okay! I'm gonna go all in! Who cares about a\nlittle heartburn?! Rub-a-dub-dub, bring on the\ngrub!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pardon me, ma'am, I'd like a chocolate carrot.\nOh, and a fanfare soda, please!"
+        },
+        {
+            "name": "Candy Store Owner",
+            "text": "Here ya are, Natie! Your sweet tooth's really\nacting up today, huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "It's just been one of those days! So, any other\nrecommendations?"
+        },
+        {
+            "name": "Black-Haired Umamusume",
+            "text": "Oh, Nature! Sweet stuff always hits the spot after\na hard day of work, huh?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Whoa! You're those racers from before!"
+        },
+        {
+            "name": "Candy Store Owner",
+            "text": "Oh my. Do y'all know Natie?"
+        },
+        {
+            "name": "Long-Haired Umamusume",
+            "text": "Yes! We ran together in today's marathon! Nature\nwas <i>so</i> amazing!",
+            "choice_data_list": [
+                "She really respects you..."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hey, now... If you keep that up..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "My face is gonna burn up just as I was starting to\ncool down!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Despite all her fussing, Nice Nature ends up with\nsome sweet treats and even sweeter friends."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, I get it. But that sounds a little like a line out\nof a sports movie or something."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But sure! I'm in! That's exactly what I need right\nnow!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Wheeze... Huff...</i> That was harder than the\nmarathon.",
+            "choice_data_list": [
+                "I didn't think you'd be running till sunset."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahaha... Well, me neither. Surprised even myself\nthere."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But all that running sure set things straight up\nthere in the old noggin."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hehe.",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Oh, it's nothing. A little something just occurred\nto me is all."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I just figured... I'm actually pretty good at\nrunning, you know?"
+        },
+        {
+            "name": "Monologue",
+            "text": "With a clear head, it looks like she's gained a\nlittle confidence."
+        }
+    ]
+}

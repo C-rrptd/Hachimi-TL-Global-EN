@@ -1,0 +1,58 @@
+{
+    "title": "昼つ方、打ち語らふ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I've just finished observing a race when..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Why, hello there! ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That was a most excellent race. It offered plenty\nof points to learn from, don't you agree?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The first-place winner was particularly\nexceptional."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "From her positioning and route selection to the\ntiming of her final push, everything about her\nstrategy was magnificent."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "If I wanted to win against someone of her caliber,\nwhat approach would be most effective, I\nwonder?",
+            "choice_data_list": [
+                "You could throw them off by messing with their\npace.",
+                "Try sticking close to them to make sure they\ncan't run the way they want."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Ah, I see. That would prevent them from\nconserving the strength in their legs properly."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmmm, and if one is able to pull that off..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder and I thoroughly discuss various\nstrategies to apply pressure on opponents during\nraces."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I see... Better to bend than to break, as the saying\ngoes."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Staying close to an opponent from start to finish\nwill greatly hinder their ability to run... That is\nquite an excellent tactic, I must say."
+        },
+        {
+            "name": "Monologue",
+            "text": "Grass Wonder and I leisurely discuss the\nintricacies of how to target a formidable\nopponent during a race."
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "title": "Die Achtung",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "A box addressed to me from Eishin Flash's parents\narrives the day after her debut.",
+            "choice_data_list": [
+                "(A wreath?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Interwoven in its branches are berries, dried\nflowers, and, on closer inspection, spices. It's a\nbeautifully symmetrical and intricate masterpiece."
+        },
+        {
+            "name": "Monologue",
+            "text": "Attached to it is a card with the message,\n\"Congratulations on debuting\" written in\nperfectly balanced Japanese characters."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I received the same wreath. The message affixed\nto it was different, however."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"May the joy you felt at your debut continue\nthroughout your racing career.\" That is the wish\nmine is imbued with."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When I opened the box and smelled the faint\naroma of spices, I immediately knew it was made\nby my mother's hand.",
+            "choice_data_list": [
+                "This is handmade?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Yes. My mother has always had a fondness for\nmaking wreaths.",
+            "choice_data_list": [
+                "This is just a <i>hobby</i> for her?!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That is correct. My parents excel at many things!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Both are dexterous and quick to learn whatever\nthey turn a hand to."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My mother has extraordinary sense for wreath\ndesign, as you can see, and my father is\nknowledgeable in many things outside the realm\nof confectionery, as well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "In fact, my mother was the one who designed\nalmost every piece of furniture in our house, and\nmy father was the one who built them!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "They always shied away from praise, saying it's\namateur work, but it is truly gorgeous. I would\nlove to show you someday, actually!",
+            "choice_data_list": [
+                "You must really respect your parents.",
+                "You must really respect your parents."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I do... I respect and admire them greatly."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To me, they are the symbols of what is right.",
+            "choice_data_list": [
+                "Can you elaborate on what you mean?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Both my parents proudly saw through their own\nchosen paths. For my mother, it was racing, and\nfor my father, it was baking."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"May you accomplish all you want on the path\nyou choose.\" That was the message written for\nme."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I wish to live up to their expectations and carry\non as they do. However, I lack the ability to do so\nas I am now.",
+            "choice_data_list": [
+                "You don't think you have what it takes?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I don't. I'm still so inexperienced—I can't hold a\ncandle to my parents."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Once, when I was a child, I made a wreath under\nmy mother's instruction."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "However, mine paled in comparison to hers, so I\nasked her how I could improve."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"Experience is something you accumulate over\ntime,\" she told me."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "\"If you interlace branches the right way and work\nhard to do everything correctly, all will come\ntogether beautifully in the end.\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "My mother always created a thorough plan for\nher races—just as she did for her wreaths—and\ncarried it through to perfection."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I still lack the finesse and experience she has. My\nschedule is designed to alleviate these\ndeficiencies of mine."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I will see this timetable through to the end and\nbecome a better, more proper version of myself..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Then, I can return to Germany with pride... and\nshow my parents who I have become."
+        },
+        {
+            "name": "Monologue",
+            "text": "It seems her profound admiration for her parents\nis what caused her to be fixated on doing things\nthe \"right\" way."
+        },
+        {
+            "name": "Monologue",
+            "text": "As she calmly talks about her grand plan, I can't\nhelp but feel moved realizing it all stemmed from\nher simple wish of wanting to make her parents\nproud.",
+            "choice_data_list": [
+                "Let's make this happen!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Let's!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If I may ask, where is your wreath now?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Good. All looks well."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I placed it next to your door. That space is in\nshade year-round, so there's no danger of the\nwreath losing color.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Think nothing of it. By the way, could we discuss\nmy training schedule?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Specifically, I would like to increase my training\nload leading up to the Japanese Derby.",
+            "choice_data_list": [
+                "Why is that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Learning how much my parents expect of me has\nrenewed my determination to improve further."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I previously said that I didn't want to set victory\nas my goal. However... I wish for my mother to see\nme win the Derby."
+        },
+        {
+            "name": "Monologue",
+            "text": "Now that I think about it, she did mention how\npassionate she was about the Derby when we first\ntalked about her three-year schedule.",
+            "choice_data_list": [
+                "Why is the Derby so special to you?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I suppose it's because..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When I was young, my mother showed me the\nGerman Derby."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The race left a strong impression on me, but then\nmy mother told me something."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "She said that some races overseas, like the\nJapanese Derby, are amazing too, and how\nthey're a true spectacle every single year."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So, I asked her if I would be amazing if I ran in the\nJapanese Derby."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "She answered with the largest smile that day,\nsaying, \"You would be super, toll und klasse,\nFlash!\""
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "All of those words translate to \"amazing,\" but I\nhad never heard my mother use them in\nsuccession with such excitement before."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Winning the Derby would surely make her happy.\nThat being the case, it would only be right to win\nit.",
+            "choice_data_list": [
+                "Making her happy is your dream, huh?",
+                "Making her happy is your dream, huh?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'm unsure if \"dream\" is the correct word."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The visions we see while in deep sleep are also\n\"dreams.\" Thus, the word itself is vague and\nintangible."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "To me, bringing my mother joy is not a dream,\nbut a reality that I must make happen."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That's why I want to go over my training schedule\nagain to ensure I'll be able to win the Derby.",
+            "choice_data_list": [
+                "I'm with you all the way."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Thank you. Now, concerning when I should start..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I've learned a lot today about how important\nEishin Flash's parents are to her, and what it\nmeans for her to do things the \"right\" way."
+        }
+    ]
+}

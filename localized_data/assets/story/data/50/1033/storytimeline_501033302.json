@@ -1,0 +1,453 @@
+{
+    "title": "福引チャンス！",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Early on in the new year, Admire Vega and I are\nshopping for necessities when..."
+        },
+        {
+            "name": "Shop Staff",
+            "text": "Here you are, one bonus raffle ticket! Thanks for\nshopping with us!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...A raffle ticket?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with our New\nYear's raffle! This year's grand prize is a hot\nspring vacation for two!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot hamburger\nsteak! Second-prize winners get a bushel of\ncarrots! And third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you by! Get a\nticket now and spin for your chance to win!",
+            "choice_data_list": [
+                "This must be part of that sale event going on.",
+                "This must be part of that sale event going on."
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hey, you two! You have a ticket! Why not try\nyour luck?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You could win a trip to a hot spring with\nincredible scenery out in the countryside! The\nstarry sky will be sure to help you relax!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "(It looks like that might have piqued her\ninterest.)",
+                "(It looks like that might have piqued her\ninterest.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In that case...",
+            "choice_data_list": [
+                "Since we're here, why don't we give it a try?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She has a ticket already. It would be a shame to\nlet it go to waste."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's true... It would be a waste."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right, ready to give it a try? How about you\ndo it together? Spin the tumbler with all your\nheart!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "All right, ready to give it a try? How about you\ndo it together? Spin the tumbler with all your\nheart!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Heart?",
+            "choice_data_list": [
+                "Let's get that grand prize, Ayabe!",
+                "Let's get that grand prize, Ayabe!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Wait. What does he mean by heart?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ayabe and I spin the lottery machine with extra\noomph!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves a grand-prize\nwinner! Come and get the coupon for your hot\nspring vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What? The grand prize? Seriously?",
+            "choice_data_list": [
+                "You did it, Ayabe!",
+                "You did it, Ayabe!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Th-thanks..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Maybe Admire Vega's in shock? She stares at the\ncoupon for some time."
+        },
+        {
+            "name": "Monologue",
+            "text": "When she finally starts to speak..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Here... Can you hold on to it?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "To be honest, I don't really know what I want to\ndo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Do I really want to go? Or am I just... I don't\nknow."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "But it's not like seeing a special starry sky doesn't\ninterest me."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "If it gets too close to the expiration date, you can\nuse it however you like."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "So—",
+            "choice_data_list": [
+                "I'll hold on to it for you.",
+                "I'll hold on to it for you."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!",
+            "choice_data_list": [
+                "I'll wait for you to make your decision.",
+                "I'll wait for you to make your decision."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Okay."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that's how I end up with the coupon for a hot\nspring vacation until Admire Vega makes up her\nmind."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize winner!\nCongratulations! You get one deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "First prize...",
+            "choice_data_list": [
+                "So close!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...It's still pretty lucky."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It feels heavy... I bet it's filling and tastes great."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Should we have it tonight?",
+            "choice_data_list": [
+                "What? You're including me?",
+                "What? You're including me?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Huh?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Why wouldn't I?",
+            "choice_data_list": [
+                "That was your raffle ticket, so it should be\nyours.",
+                "That was your raffle ticket, so it should be\nyours."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's true, but..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't normally eat expensive things like this.",
+            "choice_data_list": [
+                "All the more reason to celebrate your lucky\npull!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "What?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before heading back, we pick out some things in\nthe shopping district.",
+            "choice_data_list": [
+                "First up, some <i>scrumptious</i> hors d'oeuvres."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Are you going to act like this the rest of the\nday?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We enjoy a full-course meal with the hamburger\nsteak as the main dish."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's your lucky day!\nYou're going home with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Carrots... A lot of them..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I don't even think we could finish them all\nourselves...",
+            "choice_data_list": [
+                "Want to share them with everyone?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Everyone?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Oh..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mmm! This grated carrot salad sandwich is\nfantastic!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! It's seasoned so well and super light! I feel\nlike I could eat a whole bunch without getting\nfull!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Would that be okay, though?! I feel like I've\nalready had a lot!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...I'm serving them because I want them all to be\neaten. You can have as many as you'd like."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I also owe you for those rice balls..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yay! Then I won't hold back!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Spe, be careful you don't choke..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Thank you so much, Ayabe. I'll have some too."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "This would go great with... coffee. I think I'll have\none too."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Being able to eat with one hand certainly is more\nefficient... the nutritional balance of the\ningredients is also on point."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ha ha ha! Indeed, I should have no problem\nrecruiting someone to feed me while I'm in the\nmiddle of my experiments!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Use your own hands, dammit!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Wow! They're so colorful! Can I have one to eat\nwhile I'm reading?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Haha! It's like we've been drawn here by fate! ☆\nBrought together by these marvelous\nsandwiches! ★☆"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I think we invited too many people..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega's voice drips with regret, but\nlooking at her face, she doesn't really seem to\nmind."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won the third\nprize! Here's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "A single carrot...",
+            "choice_data_list": [
+                "I'm sorry it's not the grand prize.",
+                "I'm sorry it's not the grand prize."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "That's not very easy to get. I suppose this is\nbetter than nothing."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "It's fine... It's a decent prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "On the way back from the raffle..."
+        },
+        {
+            "name": "Young Sisters (Little Sister)",
+            "text": "<i>Sob...</i> I'm sorry, Sis..."
+        },
+        {
+            "name": "Young Sisters (Big Sister)",
+            "text": "You don't have to cry! I forgot too, Aiko!"
+        },
+        {
+            "name": "Young Sisters (Big Sister)",
+            "text": "But we can't make curry without a carrot... What\nwill Mom do?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hey. Did you say you forgot to buy a carrot?"
+        },
+        {
+            "name": "Young Sisters (Big Sister)",
+            "text": "Oh, um... yeah. Our mom asked us to go\nshopping."
+        },
+        {
+            "name": "Young Sisters (Little Sister)",
+            "text": "<i>Sniffle...</i> It's my fault! I was looking at candy and I\nforgot to help!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "I see... That's admirable of you to reflect on your\nmistake."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "As a reward... I'll let you have this carrot."
+        },
+        {
+            "name": "Young Sisters (Little Sister)",
+            "text": "<i>Hic...</i> Huh?"
+        },
+        {
+            "name": "Young Sisters (Big Sister)",
+            "text": "What?! A-are you sure?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Yes. Here, take it."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "You two get along well. ...Watch out for cars on\nthe way home."
+        },
+        {
+            "name": "Monologue",
+            "text": "Admire Vega speaks softly as she hands the\ncarrot to the two sisters who are still tightly\nholding hands."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you pulled a blank\none! Take this pack of tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Nothing..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Well... That happens sometimes."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Nothing you can do."
+        },
+        {
+            "name": "Monologue",
+            "text": "It's her usual unfazed reaction, but I can tell that\nshe's feeling more down than usual."
+        }
+    ]
+}

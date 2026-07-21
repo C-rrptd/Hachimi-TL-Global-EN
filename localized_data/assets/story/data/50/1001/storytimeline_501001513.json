@@ -1,0 +1,146 @@
+{
+    "title": "ポーズはどうする？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Special Week gets an offer to be\ninterviewed for a magazine."
+        },
+        {
+            "name": "Special Week",
+            "text": "How do I look, Trainer? Is my skirt on straight?",
+            "choice_data_list": [
+                "Looking good!",
+                "Looking good!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Wearing my signature racewear outside of a race\nfeels kinda weird."
+        },
+        {
+            "name": "Special Week",
+            "text": "I won't be running, but I'm still all fired up for\nsome reason."
+        },
+        {
+            "name": "King Halo",
+            "text": "I know how you feel. The only time you put on\nyour signature racewear is when you're ready for\nbattle."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah, just putting it on gets me in a serious\nmood!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I hope I don't hype myself up too much and end\nup making strange faces during the interview..."
+        },
+        {
+            "name": "Special Week",
+            "text": "By the way, why aren't Sei, Grass, and El here\nyet?"
+        },
+        {
+            "name": "King Halo",
+            "text": "They've still got time. We're just here early."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hehe, I guess I'm just too excited to sit still!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You're the star here, so you need to act like one.\nBehold my majestic presence, for example, and\ntry to emulate it."
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? You didn't get here early because you were\nnervous?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-why, I would never! It's not like I was so\nelated that I mistook the time or anything!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Anyway, our photo shoot is first, and after that,\nthere's the interview. Correct?"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's what I heard... Gahhh, just the idea of\ngetting my picture taken is making me nervous!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm still not sure what pose I should make."
+        },
+        {
+            "name": "Special Week",
+            "text": "What do I do? I don't want to stand out and look\nlike a weirdo...",
+            "choice_data_list": [
+                "You should let out all of the emotions that are\nbubbling up inside of you.",
+                "How about a pose that shows you've got your\nrival in mind?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "The emotions that are... bubbling up inside of\nme?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Remember what you said earlier? About feeling\nfired up whenever you put on your signature\nracewear?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ohhh, yeah! So I should just show off how I'm\nfeeling whenever I have my signature racewear\non!"
+        },
+        {
+            "name": "King Halo",
+            "text": "You don't need any accessories for that. You just\nhave to show them you're giving it all you've got,\nno?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! I'll try to show them my burning hot\npassion!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My rivals, huh?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Wh-why are you staring at me like that?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm just getting a good look at your pose, King."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'm sure your trainer meant \"in mind\" as your drive\nto defeat them, not mimic them!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ohhh, I get it!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My drive to beat my rivals... All right, that's what\nI'll try and show 'em!"
+        },
+        {
+            "name": "Special Week",
+            "text": "But this signature racewear is really something\nspecial. It fills me with the desire to win."
+        },
+        {
+            "name": "Special Week",
+            "text": "You're all dear friends to me, but at the same\ntime, you're also my rivals. So I'm gonna run as\nfast as I can and take first place!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! I accept your challenge. And I'm sure\nthe other three will too.",
+            "choice_data_list": [
+                "Racing against your rivals will push you all to\nnew heights!",
+                "Racing against your rivals will push you all to\nnew heights!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! Today is just a photo shoot, but we'll all be\nwearing these same outfits the next time we meet\non the turf!"
+        }
+    ]
+}

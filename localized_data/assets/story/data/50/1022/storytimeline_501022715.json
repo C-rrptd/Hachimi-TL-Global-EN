@@ -1,0 +1,94 @@
+{
+    "title": "追加の自主トレ",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fine Motion",
+            "text": "Phew! Another fine day of training in the books.\nRight, time to tidy up the equipment and head on\nhome—ah!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>CLUNK!</i>"
+        },
+        {
+            "name": "???",
+            "text": "WHOOOAAAA! There you... are?!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Wait, what?! Fine?! Y-you're not the monster\neveryone's been talking about."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh dear, I'm sorry for surprising you. By the by...\nwhat's this about a monster?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "You haven't heard?! Recently, something's been\nhaunting this very gym!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Be careful on your way back to the dorm! I'm not\nquite done here yet..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "H-heroes do not fear specters and the like! I <i>will</i>\ncomplete today's training regimen... I'm n-n-not\njust going to wallow in t-terror!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I see... Trainer, would you mind if I stayed and\ntrained a little longer as well?",
+            "choice_data_list": [
+                "Sure thing!",
+                "I can't let you push yourself any harder..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Thank you! Hey, Biko, mind if I join you? I'd like\nto hear more about these rumors."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "O-of course! They say that every night, a skeletal\nfigure appears to use the leg-press machine..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh dear! A skeleton doing muscle training?! I\nwonder what its motivation could be!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Indeed! I wonder too. If this b-bony body-builder\nmakes an appearance, p-perhaps we should ask it\ntogether! A hero should exchange words before\nfists!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, Fine Motion joins Biko Pegasus, who's\nputting on her best brave face, for some\nadditional training exercises."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hm. I suppose this could be considered overkill.\nStill..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Oh... are you worried about me, Fine? ...If that's\nthe case, you can rest easy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "If the specter emerges, I'll beat it back into the\nafterlife! Even if it <i>is</i> terrifying... No! It's precisely\n<i>because</i> it's terrifying that I must spare everyone\nelse its terror!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wow, you really are brave! Far beyond my\nexpectations..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I have underestimated you. In recognition of your\ncourage, I hereby bestow upon you a clover that\nwill grand you sacred protection."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Th-this is amazing! It's like getting a sprout\ntalisman from Honey Princess! I feel like I'm\npositively buzzing with bravery now! Thank you!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe. Let's hope that it keeps you out of\nharm's way. Good night."
+        }
+    ]
+}

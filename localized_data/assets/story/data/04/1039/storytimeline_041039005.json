@@ -1,0 +1,162 @@
+{
+    "title": "Dark Princess Appears",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Kawakami Princess",
+            "text": "Hraaaaagh! Princess coming through!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yaaay, I did it! Another beautiful, graceful, courageous day—and a\nbig win!",
+            "choice_data_list": [
+                "Looking good out there.",
+                "Looking good out there."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "You've got that right! It's all because—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "—I've got my fateful partner! The prince of my future is with me!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The moment we bonded there was a big bang of a miracle! That's the\nreal power of a bond!",
+            "choice_data_list": [
+                "Your confidence is through the roof...",
+                "Your confidence is through the roof..."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "There's no doubt about that! I learned it all from Princess Fighter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Wherever it came from, confidence is always a good thing. So long as\nshe can keep this up—"
+        },
+        {
+            "name": "???",
+            "text": "Hmph. It seems I've finally found you, would-be princess. Or should I\nsay, overconfident commoner?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What do you mean, \"would-be\"?! And who are you?!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh... Can you not tell by my aura brimming with princess spirit? I'm\nthe <i>real</i> princess here! And the strongest too—my princess power is\nover 100 billion!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I don't care what your level is! I'm a fantastic princess! I even found\nmy prince!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Hm? A prince, you say? You don't mean that trainer there, do you?",
+            "choice_data_list": [
+                "Yeah, that's me."
+            ]
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Ahahaha! You're so plain, I didn't even notice you! Like a paltry piece\nof carrot in cheap instant noodles!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "M-my trainer is nothing of the sort! My trainer's like, um... wagyu\nsteak topped with caviar—",
+            "choice_data_list": [
+                "Can we stop with the food comparisons?"
+            ]
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh... If you're so mad about it, why don't you race me and <i>make</i> me\nshut up? I'll personally show you what a real princess can do!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I was about to say the same thing! You'll take back those words once I\nbeat the daylights out of you!",
+            "choice_data_list": [
+                "Hold on a sec!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "(I've seen this Umamusume before. She's a veteran with some serious\nTwinkle Series wins under her belt!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh, don't worry! There's no way I'd lose to a bully like that. I'll leave\nher in my dust and win the race in time for tea!",
+            "choice_data_list": [
+                "Let's at least come up with a plan!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aw, come on. You worry way too much! I don't need any tactics or\nanything! Because..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "We've got the invincible power of our bond! Just trust it and wait for\nmy return!"
+        },
+        {
+            "name": "Monologue",
+            "text": "My attempts to stop her go unheard. Maybe she's gotten a little <i>too</i>\nconfident..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Okay! I've got a good pace now! Time to cut straight through to the\nfinish!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess is running in top form like usual, but the\ncurly-haired rival princess is trailing eerily close behind her."
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh... Are you all talk, Kawakami? What do you think a princess is?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?! I know exactly what a princess is! Beautiful, graceful, and\ncourageous..."
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Hahaha, mwahahaha! Don't make me laugh! Here, I'll tell you\nsomething useful!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "It's the undeniable, overwhelming power to crush those beneath\nyou—that's what makes a true princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whaaat?!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Aaahahahaha! If you'll excuse me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami tries desperately to catch up, but by the end, she finishes\nthree lengths behind."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "<i>Pant, pant...</i> Ugh, why?!"
+        },
+        {
+            "name": "Umamusume with Princess Curls",
+            "text": "Heh heh heh, aaahahahagh! <i>Cough, cough!</i> This is the difference\nbetween a real princess... and a fake!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Waaah! It's not faaair!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kawakami Princess runs off before I even have a chance to console\nher..."
+        }
+    ]
+}

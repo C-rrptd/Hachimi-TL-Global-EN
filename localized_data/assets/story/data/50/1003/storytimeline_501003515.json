@@ -1,0 +1,218 @@
+{
+    "title": "カイチョーみたいな勝負服",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I head for Tokai Teio's classroom to let\nher know about an adjustment to the day's\ntraining location..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, hello. Teio, you've got a visitor."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Oh, Trainer!",
+            "choice_data_list": [
+                "Why are you in your racewear?",
+                "Why are you in your racewear?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I was thinking I could train like it's a real race\ntoday!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She flew out of the room as soon as class ended.\nGave our teacher a real fright."
+        },
+        {
+            "name": "Vodka",
+            "text": "And she was yelling, \"My racewear is calling\nme!\" ♪ She sure loves those clothes, huh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Of course! After all..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huzzah! Guess what, Trainer!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I'm finally gonna have my very own racewear!",
+            "choice_data_list": [
+                "I guess you'll need to come up with a design,\nthen.",
+                "I guess you'll need to come up with a design,\nthen."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Yeah! I wanna include something that matches\nPrez's outfit!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hm, what kinda design should I use? I really want\nsome <i>oomph</i> in it!",
+            "choice_data_list": [
+                "How about a cravat?",
+                "How about a cape?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ooh, ooh! That'll show off my majesty, just like\nPrez!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez is always cool, but she's like ten times as\ncool when she's wearing her signature racewear!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Seeing her in the winner's circle waving to the\ncrowd, cravat fluttering in the wind..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "She looks just like a real emperor! That's when I\nknew I wanted to be just like her!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, I finished the design! ♪ Ahhh, I wanna run\nin it already!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And here's the finished product! Isn't it so\nmajestic? ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This racewear is proof that I'm gonna be just like\nPrez was back then."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Sigh...</i> If you truly wish to look majestic, you\nought to have a bit more composure."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "You must act more modestly, as befits your noble\nlineage."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh, stop with the old-fashioned schtick! I'm\ngoing to be majestic in my own way!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "For starters, I'm gonna train super hard today,\nand then―"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Found you, Teio."
+        },
+        {
+            "name": "Air Groove",
+            "text": "You come straight back to the student council\noffice this instant and clean up the mess you\nmade with your games and snacks!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "I-I'll do that later! Today's the day I run just like\nPrez in my new racewear! I've been itching to get\nout there since―"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well, you can run around as much as you like\nwhile you clean. And I'm sure the president will be\nmore than happy to watch you do it."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Whaaat?! I don't wanna!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can even tell her about the new training\nlocation, Tokai Teio is dragged away by Air\nGroove."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "It appears she has a long way to go before she\ncan be called \"majestic.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, her signature racewear seems to be a\npositive influence on her."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "A cape sounds great! Oh, and I could use that\ncool design she has on her sleeves, too! ♪"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Of course, the cape's gotta be bright red, just like\nPrez's!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Okay, I finished the design! ♪ Ahhh, I wanna run\nin it already!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "And here's the finished product!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, sick cape. Maybe I'll try one on for my next\nrun."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You're <i>so</i> easy to influence..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Am not!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "You can't blame her. Who wouldn't want one of\nthese?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Prez sprinting like the wind on the turf, her cape\nfluttering behind her..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "One look and I was a goner. My heart couldn't\nstop racing for, like, ever!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "This racewear symbolizes my dream to become\nlike that someday!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "All eyes on me, hearts pounding as they watch me\nrun..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Before you start daydreaming, how about you\nclean up the mess you made in the student\ncouncil office with your games and snacks?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ack! Air Groove?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "In fact, I'll be so kind as to fulfill your wish. I'll be\nkeeping my eyes on you for the entire duration of\nyour cleaning duties."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nooo! Not like thiiis!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can even tell her about the new training\nlocation, Tokai Teio is dragged away by Air\nGroove."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "That's one way to get eyes on you."
+        },
+        {
+            "name": "Vodka",
+            "text": "Haha! You're not wrong!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In any case, her signature racewear seems to be a\npositive influence on her."
+        }
+    ]
+}

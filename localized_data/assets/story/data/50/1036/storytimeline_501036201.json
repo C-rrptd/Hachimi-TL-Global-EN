@@ -1,0 +1,64 @@
+{
+    "title": "ホープフルSにむけて",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fan A",
+            "text": "Oh, that's Air Shakur. Everyone has their eye on her as\nthe most likely winner for the Hopeful Stakes."
+        },
+        {
+            "name": "Fan B",
+            "text": "She certainly doesn't <i>look</i> very \"hopeful.\" I wonder what\nit is she wants."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur hasn't exactly endeared herself to the\nfans since her debut, but she has been attracting\nmore and more attention from them."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "And whatever they say about her, she's\ncompletely unaffected."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Closing this seven-centimeter gap'll snuff out\nthe noise.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "No matter who's lookin' at 'em, numbers are a\nclear, objective proof that anyone can\nunderstand."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "The simulation went perfectly. Now I just have to\nrecreate the same conditions..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't think the data you brought me's gonna\nhave much bearing on the results, though.",
+            "choice_data_list": [
+                "You mean..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I've been wondering what she did with the data I\ngave her on unquantifiable influences, but it\nlooks like she <i>is</i> using it."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Anyway..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "If people want to take up all the oxygen in the\nroom makin' noise, then I'll just keep\nbrainstorming solutions till the very last second."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...You should do the same."
+        }
+    ]
+}

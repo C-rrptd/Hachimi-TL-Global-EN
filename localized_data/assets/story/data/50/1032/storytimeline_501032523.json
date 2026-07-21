@@ -1,0 +1,88 @@
+{
+    "title": "人助けから得たもの？",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, Agnes Tachyon brings me to a certain\nplace..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Wow! It's a beautiful day, isn't it? Well then, let's\nget started!",
+            "choice_data_list": [
+                "Where are we?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I thought we'd do an experiment here today.\nDon't worry, it won't be difficult."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "First, show me your limits. That's where the real\nexperiment begins."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I'll slow down to your pace and run alongside you,\nso try to go as fast as you can!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I run along the beach according to Agnes\nTachyon's instructions."
+        },
+        {
+            "name": "Monologue",
+            "text": "One hour passes... Then another... My body gets\nheavier and heavier as my feet crash into the sand\nwith each step."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Trainer! Watch your step!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After hearing Agnes Tachyon's voice from behind\nme, I look down at my feet. There I see..."
+        },
+        {
+            "name": "Monologue",
+            "text": "...A sea urchin?! It's too late, I can't avoid it!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Trainer, open your eyes."
+        },
+        {
+            "name": "Monologue",
+            "text": "I open my eyes to find the urchin is right next to\nme. It seems Agnes Tachyon had pulled me away\njust in time."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Geez! You're quite the hazard. I need you to\nrefrain from getting injured outside of\nexperiments.",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You owe me now! It happened so quickly, my\nheart rate skyrocketed..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Hm? No, wait!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "The feeling in that moment... Perhaps it'll be\nuseful for the body modification I'm currently\nresearching..."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh-heh! Nice work, Trainer! Let's hurry back to\nthe laboratory!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I must make a record of that moment before I\nforget!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Agnes Tachyon seems to have gained something\nfrom her spur-of-the-moment action. Her running\nimproves significantly from that day!"
+        }
+    ]
+}

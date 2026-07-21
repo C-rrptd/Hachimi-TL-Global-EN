@@ -1,0 +1,62 @@
+Run started: 2026-07-21T01:01:34.126302+00:00
+[perf] catalog index on a(n) present/created
+[stage2] text_data: 54035 rows -> text_data_dict.json
+[stage2] character_system_text: 13483 rows -> character_system_text_dict.json
+[stage2] race_jikkyo_comment: 296 rows -> race_jikkyo_comment_dict.json
+[stage2] race_jikkyo_message: 2877 rows -> race_jikkyo_message_dict.json
+[config] wrote config.json
+[STAGE 3: story dialogue] Found 13880 matching entries in meta database.
+[STAGE 3: story dialogue]   Extracted: 13875
+[STAGE 3: story dialogue]   Skipped (already up to date): 0
+[STAGE 3: story dialogue]   Not found locally (need download): 0
+[STAGE 3: story dialogue]   Loaded but no text found: 5
+[STAGE 3: story dialogue]   Errors: 0
+[STAGE 3: story dialogue] 
+[STAGE 4: home dialogue] Found 653 matching entries in meta database.
+[STAGE 4: home dialogue]   Extracted: 652
+[STAGE 4: home dialogue]   Skipped (already up to date): 0
+[STAGE 4: home dialogue]   Not found locally (need download): 0
+[STAGE 4: home dialogue]   Loaded but no text found: 1
+[STAGE 4: home dialogue]   Errors: 0
+[STAGE 4: home dialogue] 
+[STAGE 5: race story text] Found 23 matching entries in meta database.
+[STAGE 5: race story text]   Extracted: 23
+[STAGE 5: race story text]   Skipped (already up to date): 0
+[STAGE 5: race story text]   Not found locally (need download): 0
+[STAGE 5: race story text]   Loaded but no text found: 0
+[STAGE 5: race story text]   Errors: 0
+[STAGE 5: race story text] 
+[STAGE 6: lyrics] Found 34 matching entries in meta database.
+[STAGE 6: lyrics]   Extracted: 32
+[STAGE 6: lyrics]   Skipped (already up to date): 0
+[STAGE 6: lyrics]   Not found locally (need download): 0
+[STAGE 6: lyrics]   Loaded but no text found: 2
+[STAGE 6: lyrics]   Errors: 0
+[STAGE 6: lyrics] 
+[stage7] NOT IMPLEMENTED - investigation found no separate translatable text asset for movie/mainstory subtitles; likely already covered by stage 3
+[STAGE 8: atlas texture export] Found 45 texture entries.
+[STAGE 8: atlas texture export]   Textures extracted: 45
+[STAGE 8: atlas texture export]   Skipped (already up to date): 0
+[STAGE 8: atlas texture export]   Not found locally (need download): 0
+[STAGE 8: atlas texture export]   Loaded but no data found: 0
+[STAGE 8: atlas texture export]   Errors: 0
+[STAGE 8: atlas texture export] 
+[STAGE 9: an_texture_sets texture export] Found 78 matching entries in meta database.
+[STAGE 9: an_texture_sets texture export]   Textures extracted: 78
+[STAGE 9: an_texture_sets texture export]   Skipped (already up to date): 0
+[STAGE 9: an_texture_sets texture export]   Not found locally (need download): 0
+[STAGE 9: an_texture_sets texture export]   Loaded but no data found: 0
+[STAGE 9: an_texture_sets texture export]   Errors: 0
+[STAGE 9: an_texture_sets texture export] 
+[STAGE 14: comic texture export] Found 235 comic texture entries.
+[STAGE 14: comic texture export]   Comic textures extracted: 235
+[STAGE 14: comic texture export]   Skipped (already up to date): 0
+[STAGE 14: comic texture export]   Not found locally (need download): 0
+[STAGE 14: comic texture export]   Loaded but no data found: 0
+[STAGE 14: comic texture export]   Errors: 0
+[STAGE 14: comic texture export] 
+[atlas/uianimation metadata json] NOT IMPLEMENTED - real shape is {"windows": {"bundle_name": "..."}} but the source of bundle_name is still unconfirmed, see investigate_bundle_name_metadata()
+[generic textures] NOT IMPLEMENTED - too broad, no single searchable folder
+[info.json] Wrote template to C:\Users\C_rrptd\Documents\Projects\Hachimi TL Global EN\localized_data\info.json - replace the <...> placeholders (and drop the Discord entry if you don't have one) before publishing.
+[index_base] Wrote template to C:\Users\C_rrptd\Documents\Projects\Hachimi TL Global EN\index_base.json - replace the <...> placeholders with your actual repo's URL/branch before publishing.
+Run finished: 2026-07-21T01:10:15.041388+00:00

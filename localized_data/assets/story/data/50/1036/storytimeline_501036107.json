@@ -1,0 +1,216 @@
+{
+    "title": "バレンタイン",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I stop by the basement floor of a\ndepartment store to find it buzzing with people\nbuying Valentine's chocolates.",
+            "choice_data_list": [
+                "(Maybe I should I get something for Air Shakur.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She selects her food solely based on its\nnutritional value and only rarely indulges in any\nsort of treat."
+        },
+        {
+            "name": "Monologue",
+            "text": "But she chews on a lot of glucose tablets, and I\noccasionally see her eating chocolate. I think she\nlikes snapping the bars."
+        },
+        {
+            "name": "Monologue",
+            "text": "There are so many varieties to choose from. After\nsome thought, I buy something I think she'll like."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "There you are, Shakur!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I made some chocolate for the class. Be sure to\ntry some later!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm good."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, I'm afraid you don't have a choice. I'm giving\nyou chocolate."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "And you're going to try it. I'll drop some off at\nyour room later!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...\nLook here..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "So you'll try some? Thanks! ♪"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Passive-aggressive much?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Huh?! What do you mean?!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Some people say thank you in advance as a tactic\nto make it difficult for the other person to refuse.\nI believe it's called pre-framing."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, no, no! I didn't mean it like that!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's... I just wanted to say thanks for letting me\ngive them to you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(The hell? First of all, what is it like to want to\ngive someone something?)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Happy Valentine's, Shakur! Could I interest you in\nsome delicious chocolate? Free of charge, of\ncourse."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Ordinarily, people expect to get something out\nof it. Like Tachyon. Now, <i>her</i> I can understand.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Well, whatever. No point wastin' time thinkin'\nabout it. I'll get started on compiling the spring\nTenno Sho data.)"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hey. Where are you going? These chocolates that\nexpand your senses are reaaally great."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Air Shakur is seriously tapping away at her\ncomputer, but it shouldn't be long before she\nstarts to crave glucose."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I rush to get the chocolates I bought yesterday. I\nchose some with the same nutritional value as her\nusual ones so as not to throw off her calculated\ndiet.",
+            "choice_data_list": [
+                "Here you go."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Oh?"
+        },
+        {
+            "name": "Monologue",
+            "text": "I bought semi-sweet chocolates loaded with\ncacao and firm enough to be satisfying to bite\ninto. I'm hoping it gives her a boost."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I'm goin' back to my dorm.",
+            "choice_data_list": [
+                "Good job today."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...",
+            "choice_data_list": [
+                "What?",
+                "What?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I felt like today's chocolates were better than\nusual for some reason.",
+            "choice_data_list": [
+                "You liked them?!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Uh... sure?",
+            "choice_data_list": [
+                "Yesss!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well? Don't just sit there smirking. Tell me the\nbrand already! Read between the lines."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ah."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(Were those Valentine's chocolates? ...Knowin'\nthis joker, it's likely.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Every single person is so smug and self-satisfied..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Tch. What a headache."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Whatever. I'm outta here."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(That chocolate today was really good. I usually\ndon't even think about them...)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(It wonder if it's because it's Valentine's Day. The\npackage was just left sitting there.)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "(A normal person would've said something. What\na weak way of goin' about it.)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That's... I just wanted to say thanks for letting me\ngive them to you."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, I don't get it. Just everyone sittin' around\nbeing smug."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Wait until ya see the results before you start\npattin' yourselves on the back."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I messaged you yesterday, but I'm changin'\ntoday's regimen."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I came up with a new approach that looks more\nefficient when I was running some calculations.",
+            "choice_data_list": [
+                "Flash of inspiration, huh? Nice."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I dunno, but it felt like I had a little extra zip of\nenergy yesterday. Maybe."
+        },
+        {
+            "name": "Monologue",
+            "text": "She's acting rough again, but I get the sense...\ntraining today is gonna go pretty well."
+        }
+    ]
+}
