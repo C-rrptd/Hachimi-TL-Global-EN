@@ -1,267 +1,267 @@
 {
-    "title": "カワイイの未知",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Director Akikawa",
-            "text": "Without further ado—it begins! Welcome to the Tracen Academy\nPretty Grand Prix!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Looks like our whimsical director has cooked up another new event.\nThe students gathered here in the gym immediately start chattering\namong themselves."
-        },
-        {
-            "name": "Director Akikawa",
-            "text": "Explanation! As Umamusume, you must be strong both on and off the\ntrack!"
-        },
-        {
-            "name": "Director Akikawa",
-            "text": "Hence! You will compete in three areas: performing, public speaking,\nand racing! The top four from the preliminaries will then vie for\nvictory in the finals!"
-        },
-        {
-            "name": "Director Akikawa",
-            "text": "Accepting entrants! From tomorrow, you can enter yourself or\nrecommend another! I await your courageous challenges!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "What a lov'ly event! City, I'll put your name down for you!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Wait, Yukino?! Seriously?!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Grand Prix are just da bomb, aren't they? I'm gettin' revved up just\nimagining it! ♪"
-        },
-        {
-            "name": "Air Groove",
-            "text": "(<i>Sigh...</i> Director Akikawa is back at it again...)"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "(...I would love to see Groove excel in the Grand Prix.)"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "..."
-        },
-        {
-            "name": "Monologue",
-            "text": "The Pretty Grand Prix, huh? Leave it up to the director to come up\nwith something like this. Either way, it doesn't have much to do with\nCurren Chan—"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Big Brooo! Get this, get this! ☆"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Big Siiis! Get this, get this! ☆"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Just now! I signed myself up for the Grand Prix!",
-            "choice_data_list": [
-                "You what?!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe! ♪ Like, it's called the Pretty Grand Prix, right? It's an event fit\nfor Curren, through and through—they might as well put my name on\nit!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Big Bro, make sure you cheer me on looots, okay? ♪ You do that, and\nI'll try my bestest to win!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Big Sis, make sure you cheer me on looots, okay? ♪ You do that, and\nI'll try my bestest to win!"
-        },
-        {
-            "name": "Monologue",
-            "text": "I'm glad she's motivated... but I'm also worried her Grand Prix training\nmight get in the way of her normal training.",
-            "choice_data_list": [
-                "Right now, the priority should be working on\nyour fundamentals..."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Don't worry, I'll keep working on my fundies. But at the same time...\nthe Grand Prix is just as important to me!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I mean, y'know! I need more people to know how much of a cutie-pie I\nam! ♪"
-        },
-        {
-            "name": "Monologue",
-            "text": "...Is clout really the only thing on her mind? Once again, I feel lost in\nthe dark when it comes to Curren Chan.",
-            "choice_data_list": [
-                "So you're committed to the Grand Prix?",
-                "So you're committed to the Grand Prix?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Um, um! Big Bro, I wanna show you my best."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Um, um! Big Sis, I wanna show you my best."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "...Won't you let me?"
-        },
-        {
-            "name": "Monologue",
-            "text": "Her cutesy tone makes it difficult for me to make a decision. This time\nthough, sensing a new air of determination around her, I reluctantly\nagree."
-        },
-        {
-            "name": "Monologue",
-            "text": "That said, I can't keep letting her push me around like this. Resolved\nto figure out what makes her tick, I pick up my phone and open her\nUmasta."
-        },
-        {
-            "name": "@Curren",
-            "text": "\"Check out this Miracle Pegasus Parfait I had today! ♪\n#FeelTheRainbow #CurrenSmile #CuteCurrenChan\""
-        },
-        {
-            "name": "Monologue",
-            "text": "Oh, here's a selfie she posted of her eating a parfait... Wait, 49,906\nlikes?! Let's take a peek at the comments section..."
-        },
-        {
-            "name": "@Curren_is_MyLife",
-            "text": "\"Even though Curren posts at least three times a day on her Umasta,\nshe never drops a single clue about her private life.\""
-        },
-        {
-            "name": "@cuteeeeeCurren",
-            "text": "\"I know, right? Usually, you can get a general vibe of where people\nlive or who they hang out with from their photos.\""
-        },
-        {
-            "name": "@Curren_is_MyLife",
-            "text": "\"She's a real enigma. Every photo is always in a different place with\ndifferent people. 'Course, that air of mystery is one of the things I\nlove about her!\""
-        },
-        {
-            "name": "@UMA_hunter",
-            "text": "\"I know the truth. Curren is actually an alien. I mean, she's way too\nperfect to be human.\""
-        },
-        {
-            "name": "@UMA_hunter",
-            "text": "\"Some of my buddies say she's an UMA: Unidentified Mysterious\nAngel. They say she stays so cute by sucking the blood of others like\na chupacabra.\""
-        },
-        {
-            "name": "Monologue",
-            "text": "...That's enough internet for today. The more I read about Curren\nChan, the less I feel I know about her."
-        },
-        {
-            "name": "Monologue",
-            "text": "Finally, the day of the Pretty Grand Prix preliminaries has arrived.\nFirst up is the performance section..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Everyone! Send me all your love and support, okay? ♪"
-        },
-        {
-            "name": "Monologue",
-            "text": "Emitting her usual superstar aura, Curren Chan captivates the crowd\nand passes with flying colors."
-        },
-        {
-            "name": "Monologue",
-            "text": "The following public speaking section goes about the same way."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Today, I've brought an item that'll make everyone even cuter! ♪ My\npersonal recommendation is... this golden cream foundation!"
-        },
-        {
-            "name": "Monologue",
-            "text": "The last part of the preliminary involves a time trial race."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "All righty! Time to show my stuff! ♪ Make sure you catch me\nshining—not just with your eyes, but your cameras too!"
-        },
-        {
-            "name": "Fans",
-            "text": "Aieeek! We love you!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Curren Chan has natural talent. As long as she performs like in\npractice, she should be able to get a respectable time... Before long,\nthe race kicks off."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yeppity-yep, I'm feeling great! ♪ Everyone! Keep your eyes on me—"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hm? That's weird..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Something's off about Curren Chan's running form. Most of the\nspectators are so absorbed in her cuteness that they haven't noticed\nyet, but I'm sure of it..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "...Eep!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Her form is showing cracks! There's no way she's beating her old\nrecord like this!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "...At this rate—nnnnngh!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Curren Chan powers past the finish line, but her time leaves\nsomething to be desired. Still, thanks to her previous two scores, she\nmanages to qualify for the finals."
-        },
-        {
-            "name": "Serious Umamusume",
-            "text": "Did you hear? Her cleat fell off her shoe. It's proof she slacked off on\nher race prep."
-        },
-        {
-            "name": "Race-loving Umamusume",
-            "text": "Hmph, looks like she couldn't care less about racing. If she wanted to\nbe an idol, she should've just gone somewhere else."
-        },
-        {
-            "name": "Fangirl Umamusume",
-            "text": "Curren... I didn't want to see you like this..."
-        },
-        {
-            "name": "Monologue",
-            "text": "...Did Curren Chan overhear what they were saying? Either way, she's\ncurled up into a ball in front of the finish line.",
-            "choice_data_list": [
-                "...Hey, you okay?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "...Nope. Failing like this is no good. Getting carried away,\nembarrassing myself... That's not <i>cute.</i>"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "If this is the best I can do..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I don't deserve... to be with Big Bro."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I don't deserve... to be with Big Sis."
-        },
-        {
-            "name": "Monologue",
-            "text": "Before I have a chance to say anything, Curren Chan runs off\nsomewhere. This loss hit her way harder than I thought it would..."
-        },
-        {
-            "name": "Monologue",
-            "text": "She doesn't seem like the type of person to let the naysayers get to\nher. But then, why was she so upset?"
-        },
-        {
-            "name": "Monologue",
-            "text": "Turning back to the track, I spy Curren Chan's lone cleat, now only\nfaintly reflecting the brilliant light of the sun."
-        }
-    ]
+  "title": "カワイイの未知",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Director Akikawa",
+      "text": "Without further ado—it begins! Welcome to the Tracen Academy\nPretty Grand Prix!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Looks like our whimsical director has cooked up another new event.\nThe students gathered here in the gym immediately start chattering\namong themselves."
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Explanation! As Umamusume, you must be strong both on and off the\ntrack!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Hence! You will compete in three areas: performing, public speaking,\nand racing! The top four from the preliminaries will then vie for\nvictory in the finals!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Accepting entrants! From tomorrow, you can enter yourself or\nrecommend another! I await your courageous challenges!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "What a lov'ly event! City, I'll put your name down for you!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Wait, Yukino?! Seriously?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Grand Prix are just da bomb, aren't they? I'm gettin' revved up just\nimagining it! ♪"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(<i>Sigh...</i> Director Akikawa is back at it again...)"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "(...I would love to see Groove excel in the Grand Prix.)"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The Pretty Grand Prix, huh? Leave it up to the director to come up\nwith something like this. Either way, it doesn't have much to do with\nCurren Chan—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big Brooo! Get this, get this! ☆"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big Siiis! Get this, get this! ☆"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Just now! I signed myself up for the Grand Prix!",
+      "choice_data_list": [
+        "You what?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe! ♪ Like, it's called the Pretty Grand Prix, right? It's an event fit\nfor Curren, through and through—they might as well put my name on\nit!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big Bro, make sure you cheer me on looots, okay? ♪ You do that, and\nI'll try my bestest to win!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Big Sis, make sure you cheer me on looots, okay? ♪ You do that, and\nI'll try my bestest to win!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I'm glad she's motivated... but I'm also worried her Grand Prix training\nmight get in the way of her normal training.",
+      "choice_data_list": [
+        "Right now, the priority should be working on\nyour fundamentals..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Don't worry, I'll keep working on my fundies. But at the same time...\nthe Grand Prix is just as important to me!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I mean, y'know! I need more people to know how much of a cutie-pie I\nam! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "...Is clout really the only thing on her mind? Once again, I feel lost in\nthe dark when it comes to Curren Chan.",
+      "choice_data_list": [
+        "So you're committed to the Grand Prix?",
+        "So you're committed to the Grand Prix?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Um, um! Big Bro, I wanna show you my best."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Um, um! Big Sis, I wanna show you my best."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Won't you let me?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her cutesy tone makes it difficult for me to make a decision. This time\nthough, sensing a new air of determination around her, I reluctantly\nagree."
+    },
+    {
+      "name": "Monologue",
+      "text": "That said, I can't keep letting her push me around like this. Resolved\nto figure out what makes her tick, I pick up my phone and open her\nUmasta."
+    },
+    {
+      "name": "@Curren",
+      "text": "\"Check out this Miracle Pegasus Parfait I had today! ♪\n#FeelTheRainbow #CurrenSmile #CuteCurrenChan\""
+    },
+    {
+      "name": "Monologue",
+      "text": "Oh, here's a selfie she posted of her eating a parfait... Wait, 49,906\nlikes?! Let's take a peek at the comments section..."
+    },
+    {
+      "name": "@Curren_is_MyLife",
+      "text": "\"Even though Curren posts at least three times a day on her Umasta,\nshe never drops a single clue about her private life.\""
+    },
+    {
+      "name": "@cuteeeeeCurren",
+      "text": "\"I know, right? Usually, you can get a general vibe of where people\nlive or who they hang out with from their photos.\""
+    },
+    {
+      "name": "@Curren_is_MyLife",
+      "text": "\"She's a real enigma. Every photo is always in a different place with\ndifferent people. 'Course, that air of mystery is one of the things I\nlove about her!\""
+    },
+    {
+      "name": "@UMA_hunter",
+      "text": "\"I know the truth. Curren is actually an alien. I mean, she's way too\nperfect to be human.\""
+    },
+    {
+      "name": "@UMA_hunter",
+      "text": "\"Some of my buddies say she's an Horsegirl: Unidentified Mysterious\nAngel. They say she stays so cute by sucking the blood of others like\na chupacabra.\""
+    },
+    {
+      "name": "Monologue",
+      "text": "...That's enough internet for today. The more I read about Curren\nChan, the less I feel I know about her."
+    },
+    {
+      "name": "Monologue",
+      "text": "Finally, the day of the Pretty Grand Prix preliminaries has arrived.\nFirst up is the performance section..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Everyone! Send me all your love and support, okay? ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "Emitting her usual superstar aura, Curren Chan captivates the crowd\nand passes with flying colors."
+    },
+    {
+      "name": "Monologue",
+      "text": "The following public speaking section goes about the same way."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Today, I've brought an item that'll make everyone even cuter! ♪ My\npersonal recommendation is... this golden cream foundation!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The last part of the preliminary involves a time trial race."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "All righty! Time to show my stuff! ♪ Make sure you catch me\nshining—not just with your eyes, but your cameras too!"
+    },
+    {
+      "name": "Fans",
+      "text": "Aieeek! We love you!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Curren Chan has natural talent. As long as she performs like in\npractice, she should be able to get a respectable time... Before long,\nthe race kicks off."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yeppity-yep, I'm feeling great! ♪ Everyone! Keep your eyes on me—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hm? That's weird..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Something's off about Curren Chan's running form. Most of the\nspectators are so absorbed in her cuteness that they haven't noticed\nyet, but I'm sure of it..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Eep!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Her form is showing cracks! There's no way she's beating her old\nrecord like this!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...At this rate—nnnnngh!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Curren Chan powers past the finish line, but her time leaves\nsomething to be desired. Still, thanks to her previous two scores, she\nmanages to qualify for the finals."
+    },
+    {
+      "name": "Serious Umamusume",
+      "text": "Did you hear? Her cleat fell off her shoe. It's proof she slacked off on\nher race prep."
+    },
+    {
+      "name": "Race-loving Umamusume",
+      "text": "Hmph, looks like she couldn't care less about racing. If she wanted to\nbe an idol, she should've just gone somewhere else."
+    },
+    {
+      "name": "Fangirl Umamusume",
+      "text": "Curren... I didn't want to see you like this..."
+    },
+    {
+      "name": "Monologue",
+      "text": "...Did Curren Chan overhear what they were saying? Either way, she's\ncurled up into a ball in front of the finish line.",
+      "choice_data_list": [
+        "...Hey, you okay?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Nope. Failing like this is no good. Getting carried away,\nembarrassing myself... That's not <i>cute.</i>"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "If this is the best I can do..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I don't deserve... to be with Big Bro."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I don't deserve... to be with Big Sis."
+    },
+    {
+      "name": "Monologue",
+      "text": "Before I have a chance to say anything, Curren Chan runs off\nsomewhere. This loss hit her way harder than I thought it would..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She doesn't seem like the type of person to let the naysayers get to\nher. But then, why was she so upset?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Turning back to the track, I spy Curren Chan's lone cleat, now only\nfaintly reflecting the brilliant light of the sun."
+    }
+  ]
 }

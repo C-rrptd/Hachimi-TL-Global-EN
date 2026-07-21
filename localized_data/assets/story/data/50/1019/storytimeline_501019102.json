@@ -1,269 +1,269 @@
 {
-    "title": "初詣",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Happy New Year. Agnes Digital and I are visiting\na shrine to commemorate the occasion and her\nentrance into her senior year."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "O gods. This year, I don't need any new merch.\nInstead, please send me rivals!"
-        },
-        {
-            "name": "Monologue",
-            "text": "She's starting out the year with a very unexpected\nrequest.",
-            "choice_data_list": [
-                "What's going on?",
-                "What's going on?"
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Nothing. I just want to catch up with Opera O and\nDoto this year, no matter what it takes."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I went and told them I'd like to have a group bout\nin the fall, but..."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Haaah ha ha! Naturally, I welcome a challenge!\nHowever, you have a grave weakness, Digital!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Will you manage to realize what this is on your\nown? If not, challenging the two of us will never\nbe anything but a dream."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Whaaat?! What weakness?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "The fact that you have no rivals!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Huuuuh?! You're just going to tell her?!"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Hearing it like that, I realized she was right. It's\nbeen a real blind spot, huh? Every shonen protag\nhas a rival, but not me."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "If I don't have a main competitor who pushes me\nto get stronger, there's no way I can catch up to\nOpera O and Doto."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "So, please, Trainer, I need some names! Are there\nany Umas out there that'll send sparks flying?",
-            "choice_data_list": [
-                "Wouldn't you be the best judge for that?"
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "That's a no-go. I'm an all-rounder, meaning I love\neveryone equally. If I try to choose, I'll just get\nstuck in a never-ending loop."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "So how about it? Can you think of anyone?",
-            "choice_data_list": [
-                "Why don't we start with people who are likely\nto accept?",
-                "Why don't we start with people who are likely\nto accept?"
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Ah, good point. If the other party doesn't give\nthe go-ahead, we can't exactly call them an\narchnemesis slash rival."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Well then, let's find some likely candidates!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Uh, <i>what?!</i> You want me to be your rival?"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "That's right! Your cocky know-it-all attitude\nmakes you one of the biggest characters in our\nyear!"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I know we haven't really rubbed shoulders much,\nbut what do you say?"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "In your dreams. Not interested."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hmph. Rivals, eh? It seems you've mistaken being\nthe target of my one-sided research for some kind\nof reciprocal relationship..."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Ooof. I see..."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "There's no need to get so depressed, Digital. If\nyou're looking for a catalyst to draw out your\nunique qualities..."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I have a feeling the answer is already clear."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Really? Who is it?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "It's not for me to say. Well... not only me,\nactually."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "It's not for anyone to say. Isn't that right, Trainer?",
-            "choice_data_list": [
-                "Uh..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Put on the spot, I'm hard-pressed to think of a\nreply. What could she mean by a rival no one can\ntell her about?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Well, ponder on it for a bit. Seek and you will\nfind."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "If you're truly observing your trainee, that is."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Trainer, do you have any idea what she's talking\nabout?"
-        },
-        {
-            "name": "Monologue",
-            "text": "I give it some thought. So long as I think hard, the\nanswer should come to me..."
-        },
-        {
-            "name": "Monologue",
-            "text": "What are her strengths? And who can draw them\nout?"
-        },
-        {
-            "name": "Monologue",
-            "text": "The answer is..."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Have you figured it out?",
-            "choice_data_list": [
-                "Yep.",
-                "Yep."
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Then, who would be the best rival for me?",
-            "choice_data_list": [
-                "Your rival is... everyone!",
-                "Your rival is... everyone!"
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Whaaaaat?! Everyone?! So, that means I can\ncontinue simping for everyone equally?!",
-            "choice_data_list": [
-                "That's right!",
-                "That's right!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Agnes Digital's biggest strength is that she can\nrun on both turf and dirt. If we were to choose an\nindividual rival..."
-        },
-        {
-            "name": "Monologue",
-            "text": "She would be limited to running the same tour as\nthem. And I consider that a drawback, so..."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I feel like... maybe I get it... I have to keep loving\neveryone in order to be myself."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I can't walk the same path as Doto or the\nOverlord."
-        },
-        {
-            "name": "Monologue",
-            "text": "It's her only option if she's to have a chance at\nvictory. Meisho Doto and T.M. Opera O are both\nstill amongst the strongest runners."
-        },
-        {
-            "name": "Monologue",
-            "text": "Normal training won't cut it. If Agnes Digital\nwants to beat them, she must build up\nexperiences so varied that no one else on the\ntrack will know her next move."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Come to think of it... King said something\nsimilar..."
-        },
-        {
-            "name": "King Halo",
-            "text": "Race against as many as you can and absorb\neverything. And then..."
-        },
-        {
-            "name": "King Halo",
-            "text": "Become a true all-rounder. You are a part of what\nyou cherish most."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I get it now! The way I am now, I can move\nforward alongside all Umamusume!"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "They're all my rivals! Which is precisely how I'm\nable to—",
-            "choice_data_list": [
-                "Get nourishment!",
-                "Grow through the power of friendship!",
-                "Love diversity!"
-            ]
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Nourishment! That's right! Each Uma has her own\nflavor, and I get energized every time I run with\nthem!"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Every day, I get fresh sustenance from my oshis!\nThere's no better fuel."
-        },
-        {
-            "name": "Monologue",
-            "text": "There's no doubt that plenty of runners will\ncontinue contributing to Agnes Digital's growth."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "The power of friendship! Yeah... I'll gather power\nfrom everyone little by little..."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "And then use it for an explosive finale! I feel like\nthat might really be my style!"
-        },
-        {
-            "name": "Monologue",
-            "text": "It seems like interacting with new runners will\nallow Agnes Digital to become even stronger in\nthe future."
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "Diversity! That's right. Every Umamusume runs\ndifferently, but everyone runs well!"
-        },
-        {
-            "name": "Agnes Digital",
-            "text": "I can worship everyone while taking it all in! I\nwanna be a walking Umamusume encyclopedia!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Agnes Digital takes in what she sees earnestly—a\ndisposition which will certainly tie into her future."
-        }
-    ]
+  "title": "初詣",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Happy New Year. Agnes Digital and I are visiting\na shrine to commemorate the occasion and her\nentrance into her senior year."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "O gods. This year, I don't need any new merch.\nInstead, please send me rivals!"
+    },
+    {
+      "name": "Monologue",
+      "text": "She's starting out the year with a very unexpected\nrequest.",
+      "choice_data_list": [
+        "What's going on?",
+        "What's going on?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Nothing. I just want to catch up with Opera O and\nDoto this year, no matter what it takes."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I went and told them I'd like to have a group bout\nin the fall, but..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Haaah ha ha! Naturally, I welcome a challenge!\nHowever, you have a grave weakness, Digital!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Will you manage to realize what this is on your\nown? If not, challenging the two of us will never\nbe anything but a dream."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Whaaat?! What weakness?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "The fact that you have no rivals!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Huuuuh?! You're just going to tell her?!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Hearing it like that, I realized she was right. It's\nbeen a real blind spot, huh? Every shonen protag\nhas a rival, but not me."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "If I don't have a main competitor who pushes me\nto get stronger, there's no way I can catch up to\nOpera O and Doto."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "So, please, Trainer, I need some names! Are there\nany Umas out there that'll send sparks flying?",
+      "choice_data_list": [
+        "Wouldn't you be the best judge for that?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "That's a no-go. I'm an all-rounder, meaning I love\neveryone equally. If I try to choose, I'll just get\nstuck in a never-ending loop."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "So how about it? Can you think of anyone?",
+      "choice_data_list": [
+        "Why don't we start with people who are likely\nto accept?",
+        "Why don't we start with people who are likely\nto accept?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, good point. If the other party doesn't give\nthe go-ahead, we can't exactly call them an\narchnemesis slash rival."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Well then, let's find some likely candidates!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Uh, <i>what?!</i> You want me to be your rival?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "That's right! Your cocky know-it-all attitude\nmakes you one of the biggest characters in our\nyear!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I know we haven't really rubbed shoulders much,\nbut what do you say?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "In your dreams. Not interested."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmph. Rivals, eh? It seems you've mistaken being\nthe target of my one-sided research for some kind\nof reciprocal relationship..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ooof. I see..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "There's no need to get so depressed, Digital. If\nyou're looking for a catalyst to draw out your\nunique qualities..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "I have a feeling the answer is already clear."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Really? Who is it?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "It's not for me to say. Well... not only me,\nactually."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "It's not for anyone to say. Isn't that right, Trainer?",
+      "choice_data_list": [
+        "Uh..."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Put on the spot, I'm hard-pressed to think of a\nreply. What could she mean by a rival no one can\ntell her about?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Well, ponder on it for a bit. Seek and you will\nfind."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "If you're truly observing your trainee, that is."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Trainer, do you have any idea what she's talking\nabout?"
+    },
+    {
+      "name": "Monologue",
+      "text": "I give it some thought. So long as I think hard, the\nanswer should come to me..."
+    },
+    {
+      "name": "Monologue",
+      "text": "What are her strengths? And who can draw them\nout?"
+    },
+    {
+      "name": "Monologue",
+      "text": "The answer is..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Have you figured it out?",
+      "choice_data_list": [
+        "Yep.",
+        "Yep."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Then, who would be the best rival for me?",
+      "choice_data_list": [
+        "Your rival is... everyone!",
+        "Your rival is... everyone!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Whaaaaat?! Everyone?! So, that means I can\ncontinue simping for everyone equally?!",
+      "choice_data_list": [
+        "That's right!",
+        "That's right!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Agnes Digital's biggest strength is that she can\nrun on both turf and dirt. If we were to choose an\nindividual rival..."
+    },
+    {
+      "name": "Monologue",
+      "text": "She would be limited to running the same tour as\nthem. And I consider that a drawback, so..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I feel like... maybe I get it... I have to keep loving\neveryone in order to be myself."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I can't walk the same path as Doto or the\nOverlord."
+    },
+    {
+      "name": "Monologue",
+      "text": "It's her only option if she's to have a chance at\nvictory. Meisho Doto and T.M. Opera O are both\nstill amongst the strongest runners."
+    },
+    {
+      "name": "Monologue",
+      "text": "Normal training won't cut it. If Agnes Digital\nwants to beat them, she must build up\nexperiences so varied that no one else on the\ntrack will know her next move."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Come to think of it... King said something\nsimilar..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Race against as many as you can and absorb\neverything. And then..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Become a true all-rounder. You are a part of what\nyou cherish most."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I get it now! The way I am now, I can move\nforward alongside all Umamusume!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "They're all my rivals! Which is precisely how I'm\nable to—",
+      "choice_data_list": [
+        "Get nourishment!",
+        "Grow through the power of friendship!",
+        "Love diversity!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Nourishment! That's right! Each Horsegirl has her own\nflavor, and I get energized every time I run with\nthem!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Every day, I get fresh sustenance from my oshis!\nThere's no better fuel."
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no doubt that plenty of runners will\ncontinue contributing to Agnes Digital's growth."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "The power of friendship! Yeah... I'll gather power\nfrom everyone little by little..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "And then use it for an explosive finale! I feel like\nthat might really be my style!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It seems like interacting with new runners will\nallow Agnes Digital to become even stronger in\nthe future."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Diversity! That's right. Every Umamusume runs\ndifferently, but everyone runs well!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "I can worship everyone while taking it all in! I\nwanna be a walking Umamusume encyclopedia!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Agnes Digital takes in what she sees earnestly—a\ndisposition which will certainly tie into her future."
+    }
+  ]
 }

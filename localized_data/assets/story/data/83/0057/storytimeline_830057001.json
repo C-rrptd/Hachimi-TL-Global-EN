@@ -1,194 +1,194 @@
 {
-    "title": "ゴルシ様、城を建てる",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "As I'm walking down the hallway during lunch\nbreak, I hear loud voices coming from the\nstairway."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I am Uma Lord Golshi! Bow down to me as I stand\nperched atop the world! Desist!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "No! I'm no follower of yours!",
-            "choice_data_list": [
-                "Wh-what are you guys doing?",
-                "Wh-what are you guys doing?"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oh, good question! Long story short: Golshi's\nbein' the Uma Lord."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "She got hooked on this one RPG, and now she's\nbeen role playing in person all day!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "For I am the Uma Lord! The one who stands on\ntop! At the summit! Now then—you there!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The top is the strongest! The strongest is the top!\nSo answer me this, mortal: What does it take to\nget there?!",
-            "choice_data_list": [
-                "Uhhh..."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Th-the top is the strongest?! The strongest is the\ntop?! I got it!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "What you need is an unyielding heart! A burning\nspirit! The caliente will to fight!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Whoa, easy there, tiger. What are you getting all\nfired up for? You're not a little kid, y'know? Cool\nit already..."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué?!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Plebeian earthlings. You know nothing! Follow\nme, and I shall teach you!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I shall build my castle here!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "What comes with being at the top? A castle! I'll\nbuild a castle and stand at the very top of it.\nThat'll make me the strongest!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That'll make you... the strongest? I see... Makes\nsense!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Wait... But if you just wanna stand somewhere\nhigh up, wouldn't the rooftop of the academy be\ngood enough?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "El Condor Pasa! Do you not wish to claim the top\nyourself?!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "?!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "If you are indeed a condor, you must aim for the\nskies! The blue peak... Don't you want the\nmightiest throne for yourself?!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Ohhhh... The mightiest throne! Sí! I sure do!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Then you'll need a castle! A grand fortress with\nspires soaring high above mine own!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "It's survival of the fittest here... Strength is the\nwill to rise above others, for only then canst thou\nchange the world!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Aw yeeeah! The strong! The transcendent! The\nbattle for the top! Things are heating up!",
-            "choice_data_list": [
-                "Huh..."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Right, let's get started! But first, what do we do\nabout the castle?"
-        },
-        {
-            "text": "El Condor Pasa appears to be getting swept up in\nGold Ship's chaotic vibe. I suppose if I have to\ngive her some advice, then...",
-            "choice_data_list": [
-                "Try raising some funds?",
-                "Maybe look for something you can use as the\ncastle?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Arrr! Looks like we'll need us a fishing boat, then!\nOne with cannons! We'll defeat the Great King\nSquid and become the fishing kings, me matey!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "No, wait, it'd probably be faster to just find some\nhidden treasure. Yar-har! We be sailing the high\nseas as pirates, then!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Huh?! What happened to being the Uma Lord?!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Come on, ye landlubber! Ye can hop onto me\nship, arrr!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Wait, what?!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The high seas await us! To the legendary island!\nAnchors aweeeigh!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué?! I-I'm not going anywhere! I don't want to\ntake to the se—AHHHHH?!"
-        },
-        {
-            "text": "Gold Ship hoists up the reluctant El Condor Pasa\nand sets sail. I watch them surge along the\nHallwayntic Ocean until at last, they dip below\nthe distant horizon..."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Then I know just the place!"
-        },
-        {
-            "text": "Gold Ship races over to the jungle gym, climbs to\nthe top, and raises her hand in a lofty manner."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Bwahahaha! I am Uma Lord Golshi! Come at me,\nEl Condor Pasa the hero!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hero?!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Very well! As the world's strongest hero, I'm\ngonna drag you from that throne!"
-        },
-        {
-            "name": "Boy A",
-            "text": "Hey, what're you two doing?"
-        },
-        {
-            "name": "Girl A",
-            "text": "Ooh! I wanna play too!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oh? I see you've brought some of your underlings\nto tip the scales! Excellent! Just try to catch me!\nHUP!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hey, you! You're Soldier A now, okay? Remember\nyour line?",
-            "choice_data_list": [
-                "\"This is Golshi's castle.\""
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Perfect!"
-        },
-        {
-            "text": "I watch for a while as Gold Ship and El Condor\nPasa play out the battle of the Uma Lord versus\nthe heroes."
-        }
-    ]
+  "title": "ゴルシ様、城を建てる",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "As I'm walking down the hallway during lunch\nbreak, I hear loud voices coming from the\nstairway."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "I am Horsegirl Lord Golshi! Bow down to me as I stand\nperched atop the world! Desist!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No! I'm no follower of yours!",
+      "choice_data_list": [
+        "Wh-what are you guys doing?",
+        "Wh-what are you guys doing?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Oh, good question! Long story short: Golshi's\nbein' the Horsegirl Lord."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "She got hooked on this one RPG, and now she's\nbeen role playing in person all day!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "For I am the Horsegirl Lord! The one who stands on\ntop! At the summit! Now then—you there!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "The top is the strongest! The strongest is the top!\nSo answer me this, mortal: What does it take to\nget there?!",
+      "choice_data_list": [
+        "Uhhh..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Th-the top is the strongest?! The strongest is the\ntop?! I got it!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "What you need is an unyielding heart! A burning\nspirit! The caliente will to fight!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Whoa, easy there, tiger. What are you getting all\nfired up for? You're not a little kid, y'know? Cool\nit already..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Plebeian earthlings. You know nothing! Follow\nme, and I shall teach you!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "I shall build my castle here!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "What comes with being at the top? A castle! I'll\nbuild a castle and stand at the very top of it.\nThat'll make me the strongest!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "That'll make you... the strongest? I see... Makes\nsense!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Wait... But if you just wanna stand somewhere\nhigh up, wouldn't the rooftop of the academy be\ngood enough?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "El Condor Pasa! Do you not wish to claim the top\nyourself?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "If you are indeed a condor, you must aim for the\nskies! The blue peak... Don't you want the\nmightiest throne for yourself?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ohhhh... The mightiest throne! Sí! I sure do!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Then you'll need a castle! A grand fortress with\nspires soaring high above mine own!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "It's survival of the fittest here... Strength is the\nwill to rise above others, for only then canst thou\nchange the world!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aw yeeeah! The strong! The transcendent! The\nbattle for the top! Things are heating up!",
+      "choice_data_list": [
+        "Huh..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Right, let's get started! But first, what do we do\nabout the castle?"
+    },
+    {
+      "text": "El Condor Pasa appears to be getting swept up in\nGold Ship's chaotic vibe. I suppose if I have to\ngive her some advice, then...",
+      "choice_data_list": [
+        "Try raising some funds?",
+        "Maybe look for something you can use as the\ncastle?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Arrr! Looks like we'll need us a fishing boat, then!\nOne with cannons! We'll defeat the Great King\nSquid and become the fishing kings, me matey!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No, wait, it'd probably be faster to just find some\nhidden treasure. Yar-har! We be sailing the high\nseas as pirates, then!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Huh?! What happened to being the Horsegirl Lord?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Come on, ye landlubber! Ye can hop onto me\nship, arrr!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Wait, what?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "The high seas await us! To the legendary island!\nAnchors aweeeigh!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué?! I-I'm not going anywhere! I don't want to\ntake to the se—AHHHHH?!"
+    },
+    {
+      "text": "Gold Ship hoists up the reluctant El Condor Pasa\nand sets sail. I watch them surge along the\nHallwayntic Ocean until at last, they dip below\nthe distant horizon..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Then I know just the place!"
+    },
+    {
+      "text": "Gold Ship races over to the jungle gym, climbs to\nthe top, and raises her hand in a lofty manner."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bwahahaha! I am Horsegirl Lord Golshi! Come at me,\nEl Condor Pasa the hero!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hero?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Very well! As the world's strongest hero, I'm\ngonna drag you from that throne!"
+    },
+    {
+      "name": "Boy A",
+      "text": "Hey, what're you two doing?"
+    },
+    {
+      "name": "Girl A",
+      "text": "Ooh! I wanna play too!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oh? I see you've brought some of your underlings\nto tip the scales! Excellent! Just try to catch me!\nHUP!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hey, you! You're Soldier A now, okay? Remember\nyour line?",
+      "choice_data_list": [
+        "\"This is Golshi's castle.\""
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Perfect!"
+    },
+    {
+      "text": "I watch for a while as Gold Ship and El Condor\nPasa play out the battle of the Horsegirl Lord versus\nthe heroes."
+    }
+  ]
 }

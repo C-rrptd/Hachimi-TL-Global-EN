@@ -1,214 +1,214 @@
 {
-    "title": "Chasing My Sister",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "While on a walk one day, I happen to see a\nfamiliar face."
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "<i>Huff... Huff!</i> B-bakushin! Bakushiiiin!",
-            "choice_data_list": [
-                "Is that... Bakushin O's little sister?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The one and only! Hello! We're training for her\nnext Uma Kids Footrace Meet!"
-        },
-        {
-            "name": "Monologue",
-            "text": "I think back to when I watched the Footrace Meet\nthe other day, recalling that Sakura Bakushin O's\nsister didn't place as high as she'd hoped."
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Finishing tenth really stuck with her. She's been\ntraining hard ever since. Chasing the Bakushin, in\nher words.",
-            "choice_data_list": [
-                "Are you spotting for her too, Chiyono O?",
-                "Are you spotting for her too, Chiyono O?"
-            ]
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Yeah! I'm friends with Bakushin O—we're in the\nsame club."
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "That's how I got to know her sister. We cook\ntogether sometimes, and she makes the most\namazing sweets! ♪"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed! Still, something's off. She usually runs\nfaster than this.",
-            "choice_data_list": [
-                "...Huh?"
-            ]
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "I'm gonna Bakushin... and become the ultimate\nracer... just like my sister!",
-            "choice_data_list": [
-                "You're right. Her running form is a little stiff."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Her form?! I see! I see?!",
-            "choice_data_list": [
-                "Mind if I help out with this training session?"
-            ]
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Would you?! In that case, since we're about to\nbreak for lunch, I'd like your advice about her\nregimen..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Stomachs, full! Brains, picked! Time to get back\nto train—"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "...Wait, no, hold that thought! Check out that\nsign! \"Face our fast-paced, full-on food\nchallenge\"?!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fast-paced? That's the essence of Bakushin! As a\nbig sister, I've gotta step up and set a shining\nexample!",
-            "choice_data_list": [
-                "But it says nobody's ever beaten the challenge!",
-                "But it says nobody's ever beaten the challenge!"
-            ]
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "T-then I'd better Bakushin with you, Sis! Bakushin!",
-            "choice_data_list": [
-                "Not you too!"
-            ]
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "A-are you sure about this?! Even a grown-up\nUmamusume couldn't finish that much!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Don't listen to her! Let us rise to the challenge,\nmy dear sister! Our combined Bakushin will ensure\nvictory!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Their combined Bakushin did not ensure victory."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Heh... It was a formidable opponent. But I won't\nstay down. Once I power up into my second and\nthird forms, I'll go back for a rematch. <i>Burp.</i>"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Eh-hehe... I couldn't even finish half of what you\nmanaged..."
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "My time's not improving either. It's hard to\nBakushin...",
-            "choice_data_list": [
-                "..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "While Sakura Bakushin O seems fine, her little\nsister's glum mood starts to worry me. I rack my\nbrain for a way to cheer her up.",
-            "choice_data_list": [
-                "Check it out! Those sweets look delicious!",
-                "Check it out! Those sweets look delicious!"
-            ]
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Um... I think more food is the last thing we need\nright now..."
-        },
-        {
-            "name": "Monologue",
-            "text": "My suggestion falls flat."
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Oh, but... don't they remind you of the sweets we\nmade that one time, Big Sis?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Whoa! Now that takes me back! You were such a\ngood teacher that it convinced me you'd grow up\nto be a model class rep!",
-            "choice_data_list": [
-                "Your little sister's amazing, huh?",
-                "Your little sister's amazing, huh?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You said it! But she's got more than just teaching\nup her sleeve! Cleaning, laundry, sewing,\nhandicrafts—she can do it all!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's like everything is a piece of cake for\nher—even the stuff I don't excel at!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Aw, Big Sis! Delicate work's really not your strong\nsuit, huh?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "AH!",
-            "choice_data_list": [
-                "Bakushin O?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I've got it! I know exactly what my little sister\nneeds!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "You do? What is it?! Tell me, tell me!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In due time, sister of mine. But there's something I\nmust prepare first—alone!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Therefore, we're done for today! Class dismissed!",
-            "choice_data_list": [
-                "Sure. Good luck with your mystery prep work!",
-                "Let me help out!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Thanks for understanding! Now if you'll excuse\nme, I'm off to get started!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "There she goes... You think she'll really be okay\nalone?",
-            "choice_data_list": [
-                "She seemed to think so. Let's trust her."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "The rest of us disperse, all of us wondering what\nSakura Bakushin O could be up to."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, I must decline! That's one thing I won't budge\non!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No matter what, I have to do this by myself!"
-        },
-        {
-            "name": "Monologue",
-            "text": "It appears that for the sake of her sister's\nimprovement, Sakura Bakushin O must\naccomplish this mission of hers alone."
-        },
-        {
-            "name": "Monologue",
-            "text": "Some time later, I hear word that her sister did\nquite well in a recent competition."
-        }
-    ]
+  "title": "Chasing My Sister",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "While on a walk one day, I happen to see a\nfamiliar face."
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "<i>Huff... Huff!</i> B-bakushin! Bakushiiiin!",
+      "choice_data_list": [
+        "Is that... Bakushin O's little sister?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "The one and only! Hello! We're training for her\nnext Horsegirl Kids Footrace Meet!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I think back to when I watched the Footrace Meet\nthe other day, recalling that Sakura Bakushin O's\nsister didn't place as high as she'd hoped."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Finishing tenth really stuck with her. She's been\ntraining hard ever since. Chasing the Bakushin, in\nher words.",
+      "choice_data_list": [
+        "Are you spotting for her too, Chiyono O?",
+        "Are you spotting for her too, Chiyono O?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yeah! I'm friends with Bakushin O—we're in the\nsame club."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "That's how I got to know her sister. We cook\ntogether sometimes, and she makes the most\namazing sweets! ♪"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Indeed! Still, something's off. She usually runs\nfaster than this.",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "I'm gonna Bakushin... and become the ultimate\nracer... just like my sister!",
+      "choice_data_list": [
+        "You're right. Her running form is a little stiff."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Her form?! I see! I see?!",
+      "choice_data_list": [
+        "Mind if I help out with this training session?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Would you?! In that case, since we're about to\nbreak for lunch, I'd like your advice about her\nregimen..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Stomachs, full! Brains, picked! Time to get back\nto train—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Wait, no, hold that thought! Check out that\nsign! \"Face our fast-paced, full-on food\nchallenge\"?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Fast-paced? That's the essence of Bakushin! As a\nbig sister, I've gotta step up and set a shining\nexample!",
+      "choice_data_list": [
+        "But it says nobody's ever beaten the challenge!",
+        "But it says nobody's ever beaten the challenge!"
+      ]
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "T-then I'd better Bakushin with you, Sis! Bakushin!",
+      "choice_data_list": [
+        "Not you too!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "A-are you sure about this?! Even a grown-up\nUmamusume couldn't finish that much!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Don't listen to her! Let us rise to the challenge,\nmy dear sister! Our combined Bakushin will ensure\nvictory!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Their combined Bakushin did not ensure victory."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Heh... It was a formidable opponent. But I won't\nstay down. Once I power up into my second and\nthird forms, I'll go back for a rematch. <i>Burp.</i>"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Eh-hehe... I couldn't even finish half of what you\nmanaged..."
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "My time's not improving either. It's hard to\nBakushin...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While Sakura Bakushin O seems fine, her little\nsister's glum mood starts to worry me. I rack my\nbrain for a way to cheer her up.",
+      "choice_data_list": [
+        "Check it out! Those sweets look delicious!",
+        "Check it out! Those sweets look delicious!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Um... I think more food is the last thing we need\nright now..."
+    },
+    {
+      "name": "Monologue",
+      "text": "My suggestion falls flat."
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Oh, but... don't they remind you of the sweets we\nmade that one time, Big Sis?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Whoa! Now that takes me back! You were such a\ngood teacher that it convinced me you'd grow up\nto be a model class rep!",
+      "choice_data_list": [
+        "Your little sister's amazing, huh?",
+        "Your little sister's amazing, huh?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "You said it! But she's got more than just teaching\nup her sleeve! Cleaning, laundry, sewing,\nhandicrafts—she can do it all!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "It's like everything is a piece of cake for\nher—even the stuff I don't excel at!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Aw, Big Sis! Delicate work's really not your strong\nsuit, huh?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "AH!",
+      "choice_data_list": [
+        "Bakushin O?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I've got it! I know exactly what my little sister\nneeds!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "You do? What is it?! Tell me, tell me!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "In due time, sister of mine. But there's something I\nmust prepare first—alone!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Therefore, we're done for today! Class dismissed!",
+      "choice_data_list": [
+        "Sure. Good luck with your mystery prep work!",
+        "Let me help out!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Thanks for understanding! Now if you'll excuse\nme, I'm off to get started!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "There she goes... You think she'll really be okay\nalone?",
+      "choice_data_list": [
+        "She seemed to think so. Let's trust her."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "The rest of us disperse, all of us wondering what\nSakura Bakushin O could be up to."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No, I must decline! That's one thing I won't budge\non!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No matter what, I have to do this by myself!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It appears that for the sake of her sister's\nimprovement, Sakura Bakushin O must\naccomplish this mission of hers alone."
+    },
+    {
+      "name": "Monologue",
+      "text": "Some time later, I hear word that her sister did\nquite well in a recent competition."
+    }
+  ]
 }

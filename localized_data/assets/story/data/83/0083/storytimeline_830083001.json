@@ -1,191 +1,191 @@
 {
-    "title": "Uma Kids Footrace Meet",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "Today's the day of the Uma Kids Footrace Meet,\na local community event. As academy staff and\nthe participants' guardians gather around to\nwatch the children compete..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "LET'S GO, SISTER!"
-        },
-        {
-            "name": "Monologue",
-            "text": "The explosive shout catches me by surprise, and I\nturn to see who it is."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I want you to show me your speed, power, and\noverflowing Bakushin energy! Leave it all on the\nfield today!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Okay, Sis! I won't let you down!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh? You there, Trainer! Let me guess—you've\nalready caught on to my sister's potential!",
-            "choice_data_list": [
-                "...Huh?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You've got an eye for talent! Don't look away,\nbecause she's going to show you her Bakushin\nspirit!",
-            "choice_data_list": [
-                "So, your sister's running?",
-                "So, your sister's running?"
-            ]
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Yes! Rest assured, she won't disappoint!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "She's the best sister ever! Top of her class and a\ngreat cook to boot! Mark my words—she'll make\nhistory in today's race! <i>Gasp?!</i>"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wait, that means... everyone will nominate her as\nclass representative! Finally! My sister! A class rep\nin her own right!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Um, I'll pass on that, actually... but I'll do my best\nfor the race! I'm gonna go all-out Bakushin, just\nlike you!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "HAAA HA HA HA! That's the spirit! Run like me\nand first place is surely yours!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Simply Bakushin forward with all your might, and\nyou'll be at the finish line before you know it!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "LET'S BAKUSHIIIN!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Thus, the much-anticipated race begins. After\nhearing so much praise about Bakushin O's little\nsister, she's the focus of my attention."
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "<i>Huff... Huff!</i> I've gotta Bakushin... even harder!",
-            "choice_data_list": [
-                "...Huh?"
-            ]
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "<i>Huff, huff!</i> Tenth... place... B-Big Sis, I'm so sorry...\nI couldn't run like you..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ba... Ba-ba-ba... Ba...",
-            "choice_data_list": [
-                "It's too bad, but I'm sure you'll do better next—"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "BAKUSHIN-TASTIC! I'M SO TOUCHED!",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "<i>Sob!</i> To think I'd get to see my baby sis fly across\nthe turf in a race! They grow up so fast!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Your brave, dignified, incredible running was a\nBakushin straight to my heart! The tears, they\nwon't stop!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "B-but I came tenth... I did so poorly..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What do you mean? Tenth's amazing! The way\nyou gave it your all out there was so electrifying,\nit set the world on fire!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Your run was more than worthy of a class rep—no,\na national rep—no, a world rep! Everyone should\nfollow your Bakushin example!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So don't worry. You'll win the next meet without\nfail! You were more brilliant, beautiful, and\nBakushin than anyone!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "A-ahaha... You think so? Um... thanks, Sis."
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Still... I wish my running could've been as cool as\nyours..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Despite Sakura Bakushin O's words of\nencouragement, her little sister trudges away\nlooking dejected."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wha?! N-n-no way! She's unhappy?! Why?!",
-            "choice_data_list": [
-                "You should give her some time alone.",
-                "You should give her some time alone.",
-                "Maybe a special training session would cheer\nher up!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wha?! N-n-no way! She's unhappy?! Why?!",
-            "choice_data_list": [
-                "You should give her some time alone.",
-                "You should give her some time alone.",
-                "Maybe a special training session would cheer\nher up!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "It might be hard for Sakura Bakushin O to get why\nher sister's feeling down. Some time alone might\nbe the solution."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I should?! D-does that mean... no Bakushin?",
-            "choice_data_list": [
-                "It's plenty Bakushin to just watch over her!",
-                "It's plenty Bakushin to just watch over her!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I see! Truly, the art of Bakushin is deep!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Together, we watch her little sister walk away,\nknowing she'll only come out of this stronger."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That makes sense! When you're feeling down,\nBakushin gets you back up! Worries, problems,\nand even tragedies—there's nothing it can't solve!",
-            "choice_data_list": [
-                "That's what I'm talking about!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Sister of mine! Let's run back home! I'll be your\nhot-blooded Bakushin personal coach!"
-        },
-        {
-            "name": "Bakushin O's Little Sister",
-            "text": "Sis... Yeah, you're right. Feeling down won't do\nme any good!"
-        },
-        {
-            "name": "Both",
-            "text": "Shoot for the stars! BAKUSHIIIN!"
-        }
-    ]
+  "title": "Horsegirl Kids Footrace Meet",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Today's the day of the Horsegirl Kids Footrace Meet,\na local community event. As academy staff and\nthe participants' guardians gather around to\nwatch the children compete..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "LET'S GO, SISTER!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The explosive shout catches me by surprise, and I\nturn to see who it is."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I want you to show me your speed, power, and\noverflowing Bakushin energy! Leave it all on the\nfield today!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Okay, Sis! I won't let you down!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oh? You there, Trainer! Let me guess—you've\nalready caught on to my sister's potential!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "You've got an eye for talent! Don't look away,\nbecause she's going to show you her Bakushin\nspirit!",
+      "choice_data_list": [
+        "So, your sister's running?",
+        "So, your sister's running?"
+      ]
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Yes! Rest assured, she won't disappoint!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "She's the best sister ever! Top of her class and a\ngreat cook to boot! Mark my words—she'll make\nhistory in today's race! <i>Gasp?!</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Wait, that means... everyone will nominate her as\nclass representative! Finally! My sister! A class rep\nin her own right!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Um, I'll pass on that, actually... but I'll do my best\nfor the race! I'm gonna go all-out Bakushin, just\nlike you!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "HAAA HA HA HA! That's the spirit! Run like me\nand first place is surely yours!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Simply Bakushin forward with all your might, and\nyou'll be at the finish line before you know it!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "LET'S BAKUSHIIIN!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Thus, the much-anticipated race begins. After\nhearing so much praise about Bakushin O's little\nsister, she's the focus of my attention."
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "<i>Huff... Huff!</i> I've gotta Bakushin... even harder!",
+      "choice_data_list": [
+        "...Huh?"
+      ]
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "<i>Huff, huff!</i> Tenth... place... B-Big Sis, I'm so sorry...\nI couldn't run like you..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ba... Ba-ba-ba... Ba...",
+      "choice_data_list": [
+        "It's too bad, but I'm sure you'll do better next—"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "BAKUSHIN-TASTIC! I'M SO TOUCHED!",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Sob!</i> To think I'd get to see my baby sis fly across\nthe turf in a race! They grow up so fast!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Your brave, dignified, incredible running was a\nBakushin straight to my heart! The tears, they\nwon't stop!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "B-but I came tenth... I did so poorly..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "What do you mean? Tenth's amazing! The way\nyou gave it your all out there was so electrifying,\nit set the world on fire!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Your run was more than worthy of a class rep—no,\na national rep—no, a world rep! Everyone should\nfollow your Bakushin example!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "So don't worry. You'll win the next meet without\nfail! You were more brilliant, beautiful, and\nBakushin than anyone!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "A-ahaha... You think so? Um... thanks, Sis."
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Still... I wish my running could've been as cool as\nyours..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite Sakura Bakushin O's words of\nencouragement, her little sister trudges away\nlooking dejected."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Wha?! N-n-no way! She's unhappy?! Why?!",
+      "choice_data_list": [
+        "You should give her some time alone.",
+        "You should give her some time alone.",
+        "Maybe a special training session would cheer\nher up!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Wha?! N-n-no way! She's unhappy?! Why?!",
+      "choice_data_list": [
+        "You should give her some time alone.",
+        "You should give her some time alone.",
+        "Maybe a special training session would cheer\nher up!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It might be hard for Sakura Bakushin O to get why\nher sister's feeling down. Some time alone might\nbe the solution."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I should?! D-does that mean... no Bakushin?",
+      "choice_data_list": [
+        "It's plenty Bakushin to just watch over her!",
+        "It's plenty Bakushin to just watch over her!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "I see! Truly, the art of Bakushin is deep!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Together, we watch her little sister walk away,\nknowing she'll only come out of this stronger."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "That makes sense! When you're feeling down,\nBakushin gets you back up! Worries, problems,\nand even tragedies—there's nothing it can't solve!",
+      "choice_data_list": [
+        "That's what I'm talking about!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sister of mine! Let's run back home! I'll be your\nhot-blooded Bakushin personal coach!"
+    },
+    {
+      "name": "Bakushin O's Little Sister",
+      "text": "Sis... Yeah, you're right. Feeling down won't do\nme any good!"
+    },
+    {
+      "name": "Both",
+      "text": "Shoot for the stars! BAKUSHIIIN!"
+    }
+  ]
 }

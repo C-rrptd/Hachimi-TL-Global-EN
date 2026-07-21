@@ -1,101 +1,101 @@
 {
-    "title": "皐月賞の後に・駆け込みの大舞台",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Kitasan Black",
-            "text": "<i>Huff, huff, huff...</i> This is... all I've got!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Even if I didn't have any flashy moments that set\nme apart, I was still able to push myself to my\nlimits!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Thank you, Trainer. Successfully finishing the\nSatsuki Sho has made my heart feel so full.",
-            "choice_data_list": [
-                "You did great, Kitasan!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I wasn't sure if I'd be okay going in, though. Um...\nSorry for all the trouble I caused."
-        },
-        {
-            "name": "Monologue",
-            "text": "Things <i>had</i> been a little dicey before the race\nstarted, thanks to that unexpected plot twist that\nhit us..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "OHHH NOOO! Trainer, Trainer! I... I—"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I forgot to submit my paperwork for entering the\nSatsuki Sho! Since I wasn't going to run it at first, I\ntotally forgot about it!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Huh?! Whaaa?!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh well! That's no biggie, is it? What's a little bit\nof paperwork anyway? Hahaha!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "It <i>is</i> a biggie! I can't run in the race if I don't\nsubmit my paperwork!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I caused you so much stress and grief because of\nmy carelessness..."
-        },
-        {
-            "name": "Monologue",
-            "text": "After the race, we meet up with Sakura Bakushin\nO so we can head home together, but..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What's this? Look over there, where all the\nreporters are. I recognize that Uma they're\nsurrounding..."
-        },
-        {
-            "name": "Reporter A",
-            "text": "Excuse me! What will Brusquement's plans be\nnext? Will you be going straight for the Derby\nnext? Or perhaps—"
-        },
-        {
-            "name": "Astute Trainer",
-            "text": "Nothing is set in stone yet, but it's highly likely\nthat we'll be running in the Derby next. At least,\nthat is the plan for now."
-        },
-        {
-            "name": "Monologue",
-            "text": "A throng of reporters bustles around\nBrusquement. Despite how well Kitasan Black ran\ntoday, everyone's attention is on her rival."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Ngh... I'm still not good enough for anyone to\nnotice me..."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Chin up! Don't let this eat at you! The Classic\nTriple Crown's barely even started!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Bakushin O!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This is no time to turn your eyes away from the\nfinish line! Keep your head up and keep heading\ntoward tomorrow!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "BAKUSHIN! BAKUSHIIIN!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Right! Bakushin, Bakushiiin!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Sakura Bakushin O's pep talk pulls Kitasan Black\nout from the dumps. For now, I just want her to\nmake it out of this tunnel without stopping."
-        }
-    ]
+  "title": "皐月賞の後に・駆け込みの大舞台",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kitasan Black",
+      "text": "<i>Huff, huff, huff...</i> This is... all I've got!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Even if I didn't have any flashy moments that set\nme apart, I was still able to push myself to my\nlimits!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Thank you, Trainer. Successfully finishing the\nSatsuki Sho has made my heart feel so full.",
+      "choice_data_list": [
+        "You did great, Kitasan!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I wasn't sure if I'd be okay going in, though. Um...\nSorry for all the trouble I caused."
+    },
+    {
+      "name": "Monologue",
+      "text": "Things <i>had</i> been a little dicey before the race\nstarted, thanks to that unexpected plot twist that\nhit us..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "OHHH NOOO! Trainer, Trainer! I... I—"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I forgot to submit my paperwork for entering the\nSatsuki Sho! Since I wasn't going to run it at first, I\ntotally forgot about it!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Huh?! Whaaa?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Oh well! That's no biggie, is it? What's a little bit\nof paperwork anyway? Hahaha!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "It <i>is</i> a biggie! I can't run in the race if I don't\nsubmit my paperwork!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I caused you so much stress and grief because of\nmy carelessness..."
+    },
+    {
+      "name": "Monologue",
+      "text": "After the race, we meet up with Sakura Bakushin\nO so we can head home together, but..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "What's this? Look over there, where all the\nreporters are. I recognize that Horsegirl they're\nsurrounding..."
+    },
+    {
+      "name": "Reporter A",
+      "text": "Excuse me! What will Brusquement's plans be\nnext? Will you be going straight for the Derby\nnext? Or perhaps—"
+    },
+    {
+      "name": "Astute Trainer",
+      "text": "Nothing is set in stone yet, but it's highly likely\nthat we'll be running in the Derby next. At least,\nthat is the plan for now."
+    },
+    {
+      "name": "Monologue",
+      "text": "A throng of reporters bustles around\nBrusquement. Despite how well Kitasan Black ran\ntoday, everyone's attention is on her rival."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ngh... I'm still not good enough for anyone to\nnotice me..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Chin up! Don't let this eat at you! The Classic\nTriple Crown's barely even started!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bakushin O!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "This is no time to turn your eyes away from the\nfinish line! Keep your head up and keep heading\ntoward tomorrow!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "BAKUSHIN! BAKUSHIIIN!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Right! Bakushin, Bakushiiin!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sakura Bakushin O's pep talk pulls Kitasan Black\nout from the dumps. For now, I just want her to\nmake it out of this tunnel without stopping."
+    }
+  ]
 }

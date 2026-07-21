@@ -1,57 +1,57 @@
 {
-    "title": "日本ダービーにむけて",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Matikanefukukitaru",
-            "text": "The momentous occasion is finally upon us! The\nTokyo Yushun, the Japanese Derby, the race of\nall races!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Today, the Umamusume most blessed by the\nheavens shall be revealed! What joy! What bliss!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "But, do I really have to run? I'm already taking on\nthe role of oracle, so...",
-            "choice_data_list": [
-                "Yes, you do."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Figures..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I'm kidding, really! I'm all fired up, you know!\nPlus, I need to keep my promise to Suzuka."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "My sister was great, but Suzuka is like, ten times\nmore capable than even her. She's like ten sisters\nrolled into one!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "But that's not going to stop me from beating her!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "...Is what I wish I was cool enough to say. But I'll\nput on a brave face and give it my all, at least."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I usually get by on luck, so I should be able to put\non a good race for you, Trainer.",
-            "choice_data_list": [
-                "All right! Show everyone what you can do!",
-                "All right! Show everyone what you can do!"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Right! My warding spells are all set to protect me\nfrom this monster of a race!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I am a blessed Uma, a veritable picture of good\nhealth! I vow to carry myself to the finish line and\naccomplish my goals!"
-        }
-    ]
+  "title": "日本ダービーにむけて",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "The momentous occasion is finally upon us! The\nTokyo Yushun, the Japanese Derby, the race of\nall races!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Today, the Umamusume most blessed by the\nheavens shall be revealed! What joy! What bliss!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "But, do I really have to run? I'm already taking on\nthe role of oracle, so...",
+      "choice_data_list": [
+        "Yes, you do."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Figures..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I'm kidding, really! I'm all fired up, you know!\nPlus, I need to keep my promise to Suzuka."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "My sister was great, but Suzuka is like, ten times\nmore capable than even her. She's like ten sisters\nrolled into one!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "But that's not going to stop me from beating her!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Is what I wish I was cool enough to say. But I'll\nput on a brave face and give it my all, at least."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I usually get by on luck, so I should be able to put\non a good race for you, Trainer.",
+      "choice_data_list": [
+        "All right! Show everyone what you can do!",
+        "All right! Show everyone what you can do!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Right! My warding spells are all set to protect me\nfrom this monster of a race!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "I am a blessed Horsegirl, a veritable picture of good\nhealth! I vow to carry myself to the finish line and\naccomplish my goals!"
+    }
+  ]
 }

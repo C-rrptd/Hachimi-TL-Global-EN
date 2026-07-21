@@ -1,163 +1,163 @@
 {
-    "title": "#カレンの疑問",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Curren Chan",
-            "text": "Oh, hi, Trainer!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe, found you. Hey, do you remember what\nwe talked about the other day?",
-            "choice_data_list": [
-                "You mean about discovering your womanly\ncharm?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yep, yep! ☆ My search for my inner womanly\ncharm... And I want you to help out today!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "All righty... Let's get moving!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Before I know what's happening, I'm being pulled\nalong by the hand until we arrive at..."
-        },
-        {
-            "name": "Gold City",
-            "text": "Just like that. Focus your mind right down to your\nfingertips. Then concentrate on your ears and tail.\nTry not to make any unnecessary movements."
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Gee willikers! You look splend'd, Curren! Why,\nyou're so lov'ly, I've fallen head ov'r heels for ya!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ahaha, thanks! ☆"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Now I've got womanly charm and the means to\nshow it off! I knew City was the right person to\nask! ♪"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "That's City for you. <i>Sigh...</i> With prop'r guidance, I\nwonder if I can be just as charm'n someday..."
-        },
-        {
-            "name": "Gold City",
-            "text": "Caught your fancy? Want to give it a shot?"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "What?! N-n-n-nooo! I'll pass! I don't wanna get in\nth'way!"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "But... m-maybe some oth'r time..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe. Then it's a promise! ☆ Let's all three of us\ncome up with a pose and take some pics\nsometime! ☆"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "S-sure!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "All right, let's get back to it! Maybe a pose like\nthis next... Trainer, take the pic! ♪"
-        },
-        {
-            "name": "Monologue",
-            "text": "<i>Flash!</i>"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "How about this one, next?"
-        },
-        {
-            "name": "Monologue",
-            "text": "<i>Flash!</i>"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Dearie me! You look like the council president.\nSo polish'd!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Next up... this one!"
-        },
-        {
-            "name": "Monologue",
-            "text": "<i>Flash!</i>"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Oh my, now you look like Brian! Rough around\nth'edges, but so cool!"
-        },
-        {
-            "name": "Gold City",
-            "text": "...As I thought, you really know how to hold\nyourself in front of a camera."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yippee! ♪ Now just let me go over the photos\nreal quick and upload them to Uma...sta..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "...",
-            "choice_data_list": [
-                "Curren?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmmm... And maybe this one for the future..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Let's see... #WomanlyCurren #LookinCool\n#IsYourHeartPoundingYet?"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Zoinkies! You're amazing, Curren! Over ten\nthous'nd likes in th'blink of an eye... Ooh, and\nyou've got comments to boot!"
-        },
-        {
-            "name": "Comments",
-            "text": "\"My heart's pounding a little different than usual.\"\n\"I like Curren Chan cute, but I'm liking this totally\nnew womanly side of her too!\""
-        },
-        {
-            "name": "Monologue",
-            "text": "Judging by the comments, it looks like her photos\nhave been well received. However...",
-            "choice_data_list": [
-                "Something feels off..."
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Agreed. The photos look great. But... there's\nsomething I can't quite put my finger on..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmmm, I knew it. Something's not right, is it?"
-        },
-        {
-            "name": "Yukino Bijin",
-            "text": "Huh? But I think you're look'n mighty fine in these\nphotos. Like a real city girl..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe, thanks! But still..."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I don't know... It's like, is this <i>my</i> kind of womanly\ncharm?"
-        },
-        {
-            "name": "Monologue",
-            "text": "Tilting her neck in that adorable way of hers,\nCurren Chan quietly expresses her doubt."
-        }
-    ]
+  "title": "#カレンの疑問",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Curren Chan",
+      "text": "Oh, hi, Trainer!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe, found you. Hey, do you remember what\nwe talked about the other day?",
+      "choice_data_list": [
+        "You mean about discovering your womanly\ncharm?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yep, yep! ☆ My search for my inner womanly\ncharm... And I want you to help out today!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "All righty... Let's get moving!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Before I know what's happening, I'm being pulled\nalong by the hand until we arrive at..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Just like that. Focus your mind right down to your\nfingertips. Then concentrate on your ears and tail.\nTry not to make any unnecessary movements."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Gee willikers! You look splend'd, Curren! Why,\nyou're so lov'ly, I've fallen head ov'r heels for ya!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ahaha, thanks! ☆"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Now I've got womanly charm and the means to\nshow it off! I knew City was the right person to\nask! ♪"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "That's City for you. <i>Sigh...</i> With prop'r guidance, I\nwonder if I can be just as charm'n someday..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Caught your fancy? Want to give it a shot?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "What?! N-n-n-nooo! I'll pass! I don't wanna get in\nth'way!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "But... m-maybe some oth'r time..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe. Then it's a promise! ☆ Let's all three of us\ncome up with a pose and take some pics\nsometime! ☆"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "S-sure!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "All right, let's get back to it! Maybe a pose like\nthis next... Trainer, take the pic! ♪"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Flash!</i>"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "How about this one, next?"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Flash!</i>"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Dearie me! You look like the council president.\nSo polish'd!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Next up... this one!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Flash!</i>"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh my, now you look like Brian! Rough around\nth'edges, but so cool!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...As I thought, you really know how to hold\nyourself in front of a camera."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Yippee! ♪ Now just let me go over the photos\nreal quick and upload them to Horsegirl...sta..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...",
+      "choice_data_list": [
+        "Curren?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmmm... And maybe this one for the future..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Let's see... #WomanlyCurren #LookinCool\n#IsYourHeartPoundingYet?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Zoinkies! You're amazing, Curren! Over ten\nthous'nd likes in th'blink of an eye... Ooh, and\nyou've got comments to boot!"
+    },
+    {
+      "name": "Comments",
+      "text": "\"My heart's pounding a little different than usual.\"\n\"I like Curren Chan cute, but I'm liking this totally\nnew womanly side of her too!\""
+    },
+    {
+      "name": "Monologue",
+      "text": "Judging by the comments, it looks like her photos\nhave been well received. However...",
+      "choice_data_list": [
+        "Something feels off..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Agreed. The photos look great. But... there's\nsomething I can't quite put my finger on..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmmm, I knew it. Something's not right, is it?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh? But I think you're look'n mighty fine in these\nphotos. Like a real city girl..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe, thanks! But still..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "I don't know... It's like, is this <i>my</i> kind of womanly\ncharm?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Tilting her neck in that adorable way of hers,\nCurren Chan quietly expresses her doubt."
+    }
+  ]
 }

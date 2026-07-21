@@ -1,303 +1,303 @@
 {
-    "title": "初詣",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Kitasan Black",
-            "text": "Trainer!"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "Hello there!"
-        },
-        {
-            "name": "Kitasan and Dia",
-            "text": "Thanks for joining us for our first shrine visit of\nthe year!"
-        },
-        {
-            "name": "Monologue",
-            "text": "No one has greater hopes for the year than these\ntwo. The three of us head to the shrine to make\nour New Year's wishes."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I need to be at my strongest by the time the\nArima Kinen rolls around at the end of the year,\nor else I'll never beat Dia..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "So Trainer, do you think we could talk strategy\nbefore I pray for extra support?",
-            "choice_data_list": [
-                "Sure, let's do that."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Before we decide Kitasan Black's racing agenda,\nthough, we first need to establish what we feel\nsets her apart."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "But... that's what we figured out last year, isn't it?\nThere's nothing in particular that sets me apart\nfrom the others."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "My acceleration is average, my race performance\nisn't eye-catching, and I don't possess any\npromise as a star... But still!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I do my best and hold out to the very end of\nevery race I run! Doing so has allowed me to\nslowly improve and gain more supporters."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "If that's what I have going on for me, then let's\nsee..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Just then, I have a thought. If her performance\nitself won't draw others in... then we'll just have to\nplay the numbers game instead."
-        },
-        {
-            "name": "Monologue",
-            "text": "Kitasan Black's strength lies in her unparalleled\ntoughness. If we want to take advantage of that,\nthen I know just what to do this spring.",
-            "choice_data_list": [
-                "Let's compete in all three spring G1 races!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Seriously?! All three of them?! But they're all huge\nraces that are medium-distance or longer!",
-            "choice_data_list": [
-                "Seriously. Let's enter the Osaka Hai, spring\nTenno Sho, and Takarazuka Kinen.",
-                "Seriously. Let's enter the Osaka Hai, spring\nTenno Sho, and Takarazuka Kinen."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "If she performs well in these three races, people's\nexpectations for her will no doubt rise."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Yeah! I definitely think that would help... but it's\nnot enough!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Can I run even more after those three?",
-            "choice_data_list": [
-                "You want to enter even more races?!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "If we're going to do back-to-back races, I want to\nkeep up the momentum until my run with Dia in\nthe Arima Kinen."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "After the Takarazuka Kinen, I want to take on the\nautumn Tenno Sho and Japan Cup before diving\ninto the Arima Kinen!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Could we please do six G1 races in a row? I know\nthis schedule is beyond reckless, but please!",
-            "choice_data_list": [
-                "Okay. Let's do it!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "It'll be tough brute-forcing through so many races\nin one year, but if there's anyone who can handle\nthat schedule and more, it's Kitasan Black."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Our first race is gonna be the Osaka Hai, huh?\nAnd afterwards, if I manage to do well at the\nspring Tenno Sho..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I might be able to rank higher in the Takarazuka\nKinen's popularity poll. It'd be nice to rank higher\nthan third, like I did in last year's Arima...",
-            "choice_data_list": [
-                "We're aiming higher than that! Let's gun for first\nplace!",
-                "We're aiming higher than that! Let's gun for first\nplace!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "You want me to try to become <i>the</i> most popular\nUmamusume?"
-        },
-        {
-            "name": "Monologue",
-            "text": "There's no turning back here. We have to prove\nthat she can be everyone's favorite even without\nany innate showiness."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "You're right... Let's aim for first! I'm going to\nbecome the best and most popular Umamusume\naround! And once I do..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I'll be a big shot in title <i>and</i> skill, just like my dad!"
-        },
-        {
-            "name": "Monologue",
-            "text": "With that, this year's schedule is set and Kitasan\nBlack's wish takes on a more tangible form."
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "It looks like you've made up your mind, Kita.\nCome on then, let's go and pray!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Okay!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I wish to run well in all six consecutive G1 races in\nmy senior year and to put smiles on everyone's\nfaces!"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "I wish to conquer a G1 race! May I fulfill my\ndearest wish and illuminate everyone with my\nbrilliant light as a Satono!"
-        },
-        {
-            "name": "Monologue",
-            "text": "One wish bursts up from the earth while the other\nshines down from the heavens. Though their\nwishes take very different forms..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Their feelings are the same. They both want to do\ntheir best as Umamusume to give back to their\nloved ones..."
-        },
-        {
-            "name": "Kitasan and Dia",
-            "text": "Thank you so much, Trainer!",
-            "choice_data_list": [
-                "Do your best, you two!",
-                "Do your best, you two!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "And so, our first shrine visit of the new year\nfinishes up without a hitch."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "All right, Dia. You know what time it is! Let's get\nstarted on our annual New Year showdown!"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "Yes, of course. But what should we do this time?\nWe'll be running in the Arima Kinen at the end of\nthe year, so we should do it before that."
-        },
-        {
-            "name": "Monologue",
-            "text": "It appears that having some kind of competition\nat the start of every new year has become a\ntradition for the two of them."
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "You know, we do have a third person here who\ncan help us out. Why don't we ask your trainer\nwhat we should compete in?"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Good idea! Hey, Trainer, pick something we can\nreally go all out in!"
-        },
-        {
-            "name": "Monologue",
-            "text": "It would be boring if I just suggested they race\neach other, so I try to think of something with a\nNew Year's flair.",
-            "choice_data_list": [
-                "Compete to see who can arrange a better face\nin fukuwarai!",
-                "See who's faster in winter swimming!",
-                "Do a New Year's hike up a mountain!"
-            ]
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Ooh, fukuwarai! That's the game where you try to\nput facial features on a blank face while\nblindfolded, right? Let's play it at my house, Dia!"
-        },
-        {
-            "name": "Monologue",
-            "text": "And so, we head over to Kitasan Black's family\nhome."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Let's see... I think the eyes should go here! And I'll\nput the nose around here! How'd I do?"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "Ahaha! What in the world is this face, Kita?\nHahaha!"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "How did you manage to make it look so hilarious?\nIt's not fair!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I-is it really that funny? You're laughing so hard\nat it, Dia..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Pfft! Ahahaha! You've got me laughing too!\nAhaha!"
-        },
-        {
-            "name": "Monologue",
-            "text": "The two roll around on the floor in fits of\nlaughter. Playing fukuwarai was clearly a great\ndecision, and it put them in fantastic moods."
-        },
-        {
-            "name": "Monologue",
-            "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "A winter swimming competition! Okay, then let's\nhave our battle in the pool! I won't lose to you,\nDia!"
-        },
-        {
-            "name": "Monologue",
-            "text": "And so, they dive right into their swimming\ncompetition..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Ah, that was a good swim! It was pretty\ninteresting how we both used different strokes,\nhuh, Dia?"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "It was. I prefer using the front crawl and\nbackstroke."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "And I'm better at breaststroke and butterfly. I\nguess I'm pretty good at Uma-paddling too."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Hey, since we're here in the pool and everything,\nwhy don't we teach each other our specialty\nstrokes?"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "Good idea! I always wanted to learn the\nUma-paddle!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Just as their upbringings differ, so to do their\nswimming styles. By teaching each other, they\nlearn how to use their bodies in new and different\nways."
-        },
-        {
-            "name": "Monologue",
-            "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "A New Year's hike? I guess we're trail running,\nthen."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Ooh, that sounds interesting. All right, seeing as\nit's the New Year, let's try going up a mountain\nwe can't usually climb!"
-        },
-        {
-            "name": "Monologue",
-            "text": "And so, they choose a mountain to tackle..."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Whoa, running on a snowy mountain is tough. I\nwon't lose to you, though!"
-        },
-        {
-            "name": "Satono Diamond",
-            "text": "You're right. The way you use your legs is\ncompletely different to usual, isn't it? This is\nprobably even better training than incline\nrunning!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Running together on a snowy mountain in winter\nallows them to glean new methods on how to\nimprove their running."
-        },
-        {
-            "name": "Monologue",
-            "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
-        }
-    ]
+  "title": "初詣",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kitasan Black",
+      "text": "Trainer!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hello there!"
+    },
+    {
+      "name": "Kitasan and Dia",
+      "text": "Thanks for joining us for our first shrine visit of\nthe year!"
+    },
+    {
+      "name": "Monologue",
+      "text": "No one has greater hopes for the year than these\ntwo. The three of us head to the shrine to make\nour New Year's wishes."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I need to be at my strongest by the time the\nArima Kinen rolls around at the end of the year,\nor else I'll never beat Dia..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "So Trainer, do you think we could talk strategy\nbefore I pray for extra support?",
+      "choice_data_list": [
+        "Sure, let's do that."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Before we decide Kitasan Black's racing agenda,\nthough, we first need to establish what we feel\nsets her apart."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "But... that's what we figured out last year, isn't it?\nThere's nothing in particular that sets me apart\nfrom the others."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "My acceleration is average, my race performance\nisn't eye-catching, and I don't possess any\npromise as a star... But still!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I do my best and hold out to the very end of\nevery race I run! Doing so has allowed me to\nslowly improve and gain more supporters."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "If that's what I have going on for me, then let's\nsee..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Just then, I have a thought. If her performance\nitself won't draw others in... then we'll just have to\nplay the numbers game instead."
+    },
+    {
+      "name": "Monologue",
+      "text": "Kitasan Black's strength lies in her unparalleled\ntoughness. If we want to take advantage of that,\nthen I know just what to do this spring.",
+      "choice_data_list": [
+        "Let's compete in all three spring G1 races!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Seriously?! All three of them?! But they're all huge\nraces that are medium-distance or longer!",
+      "choice_data_list": [
+        "Seriously. Let's enter the Osaka Hai, spring\nTenno Sho, and Takarazuka Kinen.",
+        "Seriously. Let's enter the Osaka Hai, spring\nTenno Sho, and Takarazuka Kinen."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "If she performs well in these three races, people's\nexpectations for her will no doubt rise."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Yeah! I definitely think that would help... but it's\nnot enough!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Can I run even more after those three?",
+      "choice_data_list": [
+        "You want to enter even more races?!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "If we're going to do back-to-back races, I want to\nkeep up the momentum until my run with Dia in\nthe Arima Kinen."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "After the Takarazuka Kinen, I want to take on the\nautumn Tenno Sho and Japan Cup before diving\ninto the Arima Kinen!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Could we please do six G1 races in a row? I know\nthis schedule is beyond reckless, but please!",
+      "choice_data_list": [
+        "Okay. Let's do it!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "It'll be tough brute-forcing through so many races\nin one year, but if there's anyone who can handle\nthat schedule and more, it's Kitasan Black."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Our first race is gonna be the Osaka Hai, huh?\nAnd afterwards, if I manage to do well at the\nspring Tenno Sho..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I might be able to rank higher in the Takarazuka\nKinen's popularity poll. It'd be nice to rank higher\nthan third, like I did in last year's Arima...",
+      "choice_data_list": [
+        "We're aiming higher than that! Let's gun for first\nplace!",
+        "We're aiming higher than that! Let's gun for first\nplace!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "You want me to try to become <i>the</i> most popular\nUmamusume?"
+    },
+    {
+      "name": "Monologue",
+      "text": "There's no turning back here. We have to prove\nthat she can be everyone's favorite even without\nany innate showiness."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "You're right... Let's aim for first! I'm going to\nbecome the best and most popular Umamusume\naround! And once I do..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I'll be a big shot in title <i>and</i> skill, just like my dad!"
+    },
+    {
+      "name": "Monologue",
+      "text": "With that, this year's schedule is set and Kitasan\nBlack's wish takes on a more tangible form."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "It looks like you've made up your mind, Kita.\nCome on then, let's go and pray!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Okay!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I wish to run well in all six consecutive G1 races in\nmy senior year and to put smiles on everyone's\nfaces!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "I wish to conquer a G1 race! May I fulfill my\ndearest wish and illuminate everyone with my\nbrilliant light as a Satono!"
+    },
+    {
+      "name": "Monologue",
+      "text": "One wish bursts up from the earth while the other\nshines down from the heavens. Though their\nwishes take very different forms..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Their feelings are the same. They both want to do\ntheir best as Umamusume to give back to their\nloved ones..."
+    },
+    {
+      "name": "Kitasan and Dia",
+      "text": "Thank you so much, Trainer!",
+      "choice_data_list": [
+        "Do your best, you two!",
+        "Do your best, you two!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, our first shrine visit of the new year\nfinishes up without a hitch."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "All right, Dia. You know what time it is! Let's get\nstarted on our annual New Year showdown!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Yes, of course. But what should we do this time?\nWe'll be running in the Arima Kinen at the end of\nthe year, so we should do it before that."
+    },
+    {
+      "name": "Monologue",
+      "text": "It appears that having some kind of competition\nat the start of every new year has become a\ntradition for the two of them."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "You know, we do have a third person here who\ncan help us out. Why don't we ask your trainer\nwhat we should compete in?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Good idea! Hey, Trainer, pick something we can\nreally go all out in!"
+    },
+    {
+      "name": "Monologue",
+      "text": "It would be boring if I just suggested they race\neach other, so I try to think of something with a\nNew Year's flair.",
+      "choice_data_list": [
+        "Compete to see who can arrange a better face\nin fukuwarai!",
+        "See who's faster in winter swimming!",
+        "Do a New Year's hike up a mountain!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ooh, fukuwarai! That's the game where you try to\nput facial features on a blank face while\nblindfolded, right? Let's play it at my house, Dia!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, we head over to Kitasan Black's family\nhome."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Let's see... I think the eyes should go here! And I'll\nput the nose around here! How'd I do?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ahaha! What in the world is this face, Kita?\nHahaha!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "How did you manage to make it look so hilarious?\nIt's not fair!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "I-is it really that funny? You're laughing so hard\nat it, Dia..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Pfft! Ahahaha! You've got me laughing too!\nAhaha!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The two roll around on the floor in fits of\nlaughter. Playing fukuwarai was clearly a great\ndecision, and it put them in fantastic moods."
+    },
+    {
+      "name": "Monologue",
+      "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "A winter swimming competition! Okay, then let's\nhave our battle in the pool! I won't lose to you,\nDia!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, they dive right into their swimming\ncompetition..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ah, that was a good swim! It was pretty\ninteresting how we both used different strokes,\nhuh, Dia?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "It was. I prefer using the front crawl and\nbackstroke."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "And I'm better at breaststroke and butterfly. I\nguess I'm pretty good at Horsegirl-paddling too."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Hey, since we're here in the pool and everything,\nwhy don't we teach each other our specialty\nstrokes?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Good idea! I always wanted to learn the\nHorsegirl-paddle!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Just as their upbringings differ, so to do their\nswimming styles. By teaching each other, they\nlearn how to use their bodies in new and different\nways."
+    },
+    {
+      "name": "Monologue",
+      "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "A New Year's hike? I guess we're trail running,\nthen."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Ooh, that sounds interesting. All right, seeing as\nit's the New Year, let's try going up a mountain\nwe can't usually climb!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so, they choose a mountain to tackle..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Whoa, running on a snowy mountain is tough. I\nwon't lose to you, though!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "You're right. The way you use your legs is\ncompletely different to usual, isn't it? This is\nprobably even better training than incline\nrunning!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Running together on a snowy mountain in winter\nallows them to glean new methods on how to\nimprove their running."
+    },
+    {
+      "name": "Monologue",
+      "text": "With this, New Year's Day draws to a close and\nKitasan Black boldly embarks on her journey to\ntake on the Osaka Hai."
+    }
+  ]
 }

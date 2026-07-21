@@ -1,92 +1,92 @@
 {
-    "title": "全力でシンキング！",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Fan Fest Committee Member A",
-            "text": "We can't have a Fan Fest without food stalls! We\nneed booths that sell things like drinks and\ndesserts!"
-        },
-        {
-            "name": "Monologue",
-            "text": "I hear voices coming from a classroom, and when I\ntake a peek inside, I see a group of students\navidly planning for the Fan Fest."
-        },
-        {
-            "name": "Fan Fest Committee Member B",
-            "text": "In that case, I suppose we could play it safe and\ndo a class cafe, but what do you think, Pearl?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Hmm... That might not be so bad, but what we\nreally need is something fans can't experience\nanywhere else."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Since they're coming out all this way, shouldn't we\ntreat them to something special?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "We must widen our minds and be flexible with our\nideas! It's not enough to just think outside the\nbox—we have to think <i>over</i> and <i>beyond</i> the box!"
-        },
-        {
-            "name": "Fan Fest Committee Member A",
-            "text": "Treat them to something special... Yeah, that\nwould definitely make things more interesting!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Seeking the Pearl's rallying call inspires the rest of\nthe students, and they begin to excitedly discuss\ntheir ideas for the Fan Fest."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Okay, how about doing an Uma-powered\nmerry-go-round?! We can make a ride that we\nmanually push in circles! What do you think?"
-        },
-        {
-            "name": "Fan Fest Committee Member A",
-            "text": "Ooh! That sounds so exciting!"
-        },
-        {
-            "name": "Fan Fest Committee Member B",
-            "text": "Why stop there? Let's add similar rides, like\nUma-powered spinning cups!"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Oh? Do you have something to add? Go ahead,\nwe're all ears.",
-            "choice_data_list": [
-                "Won't it be hard to implement?",
-                "That's such a cool idea!",
-                "That's such a cool idea!"
-            ]
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Oh? Do you have something to add? Go ahead,\nwe're all ears.",
-            "choice_data_list": [
-                "Won't it be hard to implement?",
-                "That's such a cool idea!",
-                "That's such a cool idea!"
-            ]
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Yeah, it won't be easy, but it's not impossible to\nbring to life either."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "We just have to think of a way we can we make\nthis dream into a reality!"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "As long as we all put our heads together, I'm sure\nwe can find a way! I have no doubt everything'll\nturn out great!"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Thanks. I wouldn't have been able to think of it if\nnot for how inspired I was by everyone's ideas."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "There's a spark of the most wonderful potential\nwithin each and every one of them."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "If we all work hard together, I'm sure we can make\nthis Fan Fest the best in history!"
-        }
-    ]
+  "title": "全力でシンキング！",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan Fest Committee Member A",
+      "text": "We can't have a Fan Fest without food stalls! We\nneed booths that sell things like drinks and\ndesserts!"
+    },
+    {
+      "name": "Monologue",
+      "text": "I hear voices coming from a classroom, and when I\ntake a peek inside, I see a group of students\navidly planning for the Fan Fest."
+    },
+    {
+      "name": "Fan Fest Committee Member B",
+      "text": "In that case, I suppose we could play it safe and\ndo a class cafe, but what do you think, Pearl?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Hmm... That might not be so bad, but what we\nreally need is something fans can't experience\nanywhere else."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Since they're coming out all this way, shouldn't we\ntreat them to something special?"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "We must widen our minds and be flexible with our\nideas! It's not enough to just think outside the\nbox—we have to think <i>over</i> and <i>beyond</i> the box!"
+    },
+    {
+      "name": "Fan Fest Committee Member A",
+      "text": "Treat them to something special... Yeah, that\nwould definitely make things more interesting!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Seeking the Pearl's rallying call inspires the rest of\nthe students, and they begin to excitedly discuss\ntheir ideas for the Fan Fest."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Okay, how about doing an Horsegirl-powered\nmerry-go-round?! We can make a ride that we\nmanually push in circles! What do you think?"
+    },
+    {
+      "name": "Fan Fest Committee Member A",
+      "text": "Ooh! That sounds so exciting!"
+    },
+    {
+      "name": "Fan Fest Committee Member B",
+      "text": "Why stop there? Let's add similar rides, like\nHorsegirl-powered spinning cups!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Oh? Do you have something to add? Go ahead,\nwe're all ears.",
+      "choice_data_list": [
+        "Won't it be hard to implement?",
+        "That's such a cool idea!",
+        "That's such a cool idea!"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Oh? Do you have something to add? Go ahead,\nwe're all ears.",
+      "choice_data_list": [
+        "Won't it be hard to implement?",
+        "That's such a cool idea!",
+        "That's such a cool idea!"
+      ]
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Yeah, it won't be easy, but it's not impossible to\nbring to life either."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "We just have to think of a way we can we make\nthis dream into a reality!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "As long as we all put our heads together, I'm sure\nwe can find a way! I have no doubt everything'll\nturn out great!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Thanks. I wouldn't have been able to think of it if\nnot for how inspired I was by everyone's ideas."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "There's a spark of the most wonderful potential\nwithin each and every one of them."
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "If we all work hard together, I'm sure we can make\nthis Fan Fest the best in history!"
+    }
+  ]
 }

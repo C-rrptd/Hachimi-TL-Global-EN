@@ -1,194 +1,194 @@
 {
-    "title": "New Year's Shrine Visit",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mejiro Palmer",
-            "text": "Happy New Year, Trainer!"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "All right! First shrine of the year! Let's go pray and\nget hyped for this year! Things are gonna be liiit!",
-            "choice_data_list": [
-                "You've gotten pretty good at using all that\nslang.",
-                "You've gotten pretty good at using all that\nslang."
-            ]
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "I sure have! My bestie squad has been a big help\nwith that."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "And check it out! I'm in my senior year now! It's\nabout time we go get the crowds hyped in the\nbiggest events!"
-        },
-        {
-            "name": "Monologue",
-            "text": "We've accumulated a good number of wins, and\nwe were able to watch Oguri Cap in action at the\nend of last year..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Mejiro Palmer has experienced a lot, and I'm sure\nshe'll be able to put all she's learned into good\nuse this year."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "By the way, it just occurred to me, but..."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Do you think it'd be better for us to pray to party\ngods instead of regular gods?",
-            "choice_data_list": [
-                "P-party gods?"
-            ]
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Yeah! I mean, there are plenty of Umamusume\ndown here on Earth who are practically party\ngods themselves."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Whaddya think? Should we give it a try?",
-            "choice_data_list": [
-                "That does seem interesting...",
-                "That does seem interesting..."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "I suppose she has a point. Modern problems may\nrequire modern solutions... like praying to party\ngods."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "All right, let's head out to meet our new patrons!\nBut hold up. There are tons of different party\ngods, right?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "There are some who know exactly how to live it\nup, and others who've got looksmaxxing down\npat... Who do you think we should pray to?"
-        },
-        {
-            "name": "Monologue",
-            "text": "Among the wide array of party gods we choose\nfrom, I think the one Mejiro Palmer should pray to\nas she's coming into her own is...",
-            "choice_data_list": [
-                "Daitaku Helios's goddess.",
-                "The mother of all partyers.",
-                "The goddess of billiards."
-            ]
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Helios's goddess? ...Oh wait, you mean that Uma\nshe's basically got a crush on? Helios <i>does</i>\nworship the ground at her feet."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Like, Helios was literally just crying about how her\nbae left her on read. What was her name again?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Divine Rubert? Something like that? Welp, I can't\nremember it, but I guess I'll go pray to her and\nsee how things go."
-        },
-        {
-            "name": "Monologue",
-            "text": "\"Divine\" certainly has a goddessy ring to it, but\nRubert?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Hey, there she is! That's gotta be her, right?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Omigosh, there's no <i>way</i> her name is Rubert! She's\ntoo cute! She looks just like a doll!"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Let's go say hi."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Nuh-uh, no way! Her cuteness is so off the charts,\nI've got super cold feet now. I'm good just\nadmiring her from afar."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Wow... She's, like, perfect. Just looking at her is\nsoothing my spirit..."
-        },
-        {
-            "name": "Monologue",
-            "text": "The two of us offer up prayers from a distance.\nDoing so actually makes us feel like our hearts\nand minds are blessed."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "The mother of partyers? Hm, I guess we party gals\n<i>have</i> been around for ages."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "But, if we're talkin' about the mother of all party\nlovers..."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hiya, Palmer! Come on, let's cut a rug! ♪ Cha,\ncha, cha! Wahoo!"
-        },
-        {
-            "name": "Monologue",
-            "text": "Apparently, the mother of all partyers is\nMaruzensky, a high-energy Umamusume with a\nlove for all things retro."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "So, what's popping? You wanna ask me\nsomething?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Maruzen, could you teach me first-gen slang from\nthe golden days?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "First-gen slang from the golden days? Well,\nthere's superfly, neat, and grody!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Talk to the hand, wicked, and cowabunga! Oh,\nand totally tubular!"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Whoa, none made any sense to me, but the hype\nis real! So this is where it all began..."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Trainer! I think that worked! I feel totally stoked!"
-        },
-        {
-            "name": "Monologue",
-            "text": "We take in Maruzensky's bubbly expression, and\nMejiro Palmer seems a bit stronger for it."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "The goddess of billiards... Huh, yeah, I guess\nthere'd be suave and sharp goddesses, even\namong the party gods."
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "'Kay, let's go check out some pool tables and see\nwho we can find."
-        },
-        {
-            "name": "Sirius Symboli",
-            "text": "So you're the one who wants pointers on how to\nplay billiards, Palmer?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Y-yeah. Wow, the party vibes here are totes\ndifferent to what I'm used to..."
-        },
-        {
-            "name": "Sirius Symboli",
-            "text": "Billiards is all about strategy. You let your\nopponents hit the balls however they like, and\ncatch 'em off guard out in the end."
-        },
-        {
-            "name": "Sirius Symboli",
-            "text": "But that's not my style. I like to get up in their\nface and never let 'em take a shot. You're the\nsame, aren't you?"
-        },
-        {
-            "name": "Mejiro Palmer",
-            "text": "Hold up, how'd we get here? Are you just gonna\nkeep steamrolling me like this ooor..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Under the party god (?) and living billiard legend\nSirius Symboli's tutelage, Mejiro Palmer learns\nhow to be an aggressive billiards player."
-        }
-    ]
+  "title": "New Year's Shrine Visit",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Palmer",
+      "text": "Happy New Year, Trainer!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "All right! First shrine of the year! Let's go pray and\nget hyped for this year! Things are gonna be liiit!",
+      "choice_data_list": [
+        "You've gotten pretty good at using all that\nslang.",
+        "You've gotten pretty good at using all that\nslang."
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "I sure have! My bestie squad has been a big help\nwith that."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "And check it out! I'm in my senior year now! It's\nabout time we go get the crowds hyped in the\nbiggest events!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We've accumulated a good number of wins, and\nwe were able to watch Oguri Cap in action at the\nend of last year..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Mejiro Palmer has experienced a lot, and I'm sure\nshe'll be able to put all she's learned into good\nuse this year."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "By the way, it just occurred to me, but..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Do you think it'd be better for us to pray to party\ngods instead of regular gods?",
+      "choice_data_list": [
+        "P-party gods?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Yeah! I mean, there are plenty of Umamusume\ndown here on Earth who are practically party\ngods themselves."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Whaddya think? Should we give it a try?",
+      "choice_data_list": [
+        "That does seem interesting...",
+        "That does seem interesting..."
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I suppose she has a point. Modern problems may\nrequire modern solutions... like praying to party\ngods."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "All right, let's head out to meet our new patrons!\nBut hold up. There are tons of different party\ngods, right?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "There are some who know exactly how to live it\nup, and others who've got looksmaxxing down\npat... Who do you think we should pray to?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Among the wide array of party gods we choose\nfrom, I think the one Mejiro Palmer should pray to\nas she's coming into her own is...",
+      "choice_data_list": [
+        "Daitaku Helios's goddess.",
+        "The mother of all partyers.",
+        "The goddess of billiards."
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Helios's goddess? ...Oh wait, you mean that Horsegirl\nshe's basically got a crush on? Helios <i>does</i>\nworship the ground at her feet."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Like, Helios was literally just crying about how her\nbae left her on read. What was her name again?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Divine Rubert? Something like that? Welp, I can't\nremember it, but I guess I'll go pray to her and\nsee how things go."
+    },
+    {
+      "name": "Monologue",
+      "text": "\"Divine\" certainly has a goddessy ring to it, but\nRubert?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hey, there she is! That's gotta be her, right?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Omigosh, there's no <i>way</i> her name is Rubert! She's\ntoo cute! She looks just like a doll!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Let's go say hi."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Nuh-uh, no way! Her cuteness is so off the charts,\nI've got super cold feet now. I'm good just\nadmiring her from afar."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Wow... She's, like, perfect. Just looking at her is\nsoothing my spirit..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The two of us offer up prayers from a distance.\nDoing so actually makes us feel like our hearts\nand minds are blessed."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "The mother of partyers? Hm, I guess we party gals\n<i>have</i> been around for ages."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "But, if we're talkin' about the mother of all party\nlovers..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hiya, Palmer! Come on, let's cut a rug! ♪ Cha,\ncha, cha! Wahoo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Apparently, the mother of all partyers is\nMaruzensky, a high-energy Umamusume with a\nlove for all things retro."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "So, what's popping? You wanna ask me\nsomething?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Maruzen, could you teach me first-gen slang from\nthe golden days?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "First-gen slang from the golden days? Well,\nthere's superfly, neat, and grody!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Talk to the hand, wicked, and cowabunga! Oh,\nand totally tubular!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Whoa, none made any sense to me, but the hype\nis real! So this is where it all began..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Trainer! I think that worked! I feel totally stoked!"
+    },
+    {
+      "name": "Monologue",
+      "text": "We take in Maruzensky's bubbly expression, and\nMejiro Palmer seems a bit stronger for it."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "The goddess of billiards... Huh, yeah, I guess\nthere'd be suave and sharp goddesses, even\namong the party gods."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "'Kay, let's go check out some pool tables and see\nwho we can find."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "So you're the one who wants pointers on how to\nplay billiards, Palmer?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Y-yeah. Wow, the party vibes here are totes\ndifferent to what I'm used to..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Billiards is all about strategy. You let your\nopponents hit the balls however they like, and\ncatch 'em off guard out in the end."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "But that's not my style. I like to get up in their\nface and never let 'em take a shot. You're the\nsame, aren't you?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Hold up, how'd we get here? Are you just gonna\nkeep steamrolling me like this ooor..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Under the party god (?) and living billiard legend\nSirius Symboli's tutelage, Mejiro Palmer learns\nhow to be an aggressive billiards player."
+    }
+  ]
 }

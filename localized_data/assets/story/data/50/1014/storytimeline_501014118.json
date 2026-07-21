@@ -1,190 +1,190 @@
 {
-    "title": "Mile Secrets!",
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Monologue",
-            "text": "A few days after winning the Yasuda Kinen..."
-        },
-        {
-            "name": "Interviewer",
-            "text": "It's time for <i>Uma Secrets.</i> Today, I'm visiting\nTracen Academy, where I'm meeting with a very\nspecial guest."
-        },
-        {
-            "name": "Interviewer",
-            "text": "She's mastered the mile by winning the NHK Mile\nCup, the Mile Championship, and the Yasuda\nKinen..."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hola! I'm the world's strongest racer, El Condor\nPasa!",
-            "choice_data_list": [
-                "And I'm her trainer."
-            ]
-        },
-        {
-            "name": "Interviewer",
-            "text": "I'm here today to get the behind-the-scenes\nscoop on your journey!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hehe! You can ask me aaanything!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "My dream is to become the strongest racer in the\nwhole world! All you've seen from El Condor in\nthe Twinkle Series has been for that purpose!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "A few things came up during my classic year... but\nmy dream remains unchanged!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "And so, my current goal is to win the Japan Cup\nin my senior year!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "But before that... I need to make sure even more\npeople witness my power!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "After all, even in wrestling, more strength means\nmore excitement!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's the reason I ran in so many mile races! To\nmaster the mile!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "Oh, I see!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "...Yup!"
-        },
-        {
-            "name": "Monologue",
-            "text": "To be honest, we came up with that reasoning\nafter the fact... but there's no denying her\nachievements.",
-            "choice_data_list": [
-                "Um, yeah! Make no mistake!"
-            ]
-        },
-        {
-            "name": "Interviewer",
-            "text": "I see! This is getting more exciting by the second!"
-        },
-        {
-            "name": "Monologue",
-            "text": "After that, we move around the school and talk\nabout topics ranging from her debut to the other\nrunners in her generation. Then..."
-        },
-        {
-            "name": "Interviewer",
-            "text": "And finally, we've arrived at the trainer's office."
-        },
-        {
-            "name": "Interviewer",
-            "text": "This space holds every trophy the pair have\nearned, the road map they took to get here, and\nthe moments that led to miracles."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hehehe! You could call it our secret base!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "I imagine there must have been a roadblock or\ntwo you hit along the way, given how grand your\ndream is."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "I'm hella strong, so of course it was smooth sailing\nthe entire way!",
-            "choice_data_list": [
-                "Well, I wouldn't say that..."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué?!",
-            "choice_data_list": [
-                "But she always worked hard!"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Despite times of hesitation and occasionally\nhaving to change course, El Condor Pasa has\nalways kept to her ideals while taking on the\nTwinkle Series and made her mark."
-        },
-        {
-            "name": "Monologue",
-            "text": "I tell the interviewer about our experiences while\nchoosing my words carefully."
-        },
-        {
-            "name": "Interviewer",
-            "text": "I see... Even someone as optimistic and cheerful\nas El Condor Pasa can struggle sometimes."
-        },
-        {
-            "name": "Interviewer",
-            "text": "But she never lets those struggles show and works\nhard to entertain her audience. That's why we\nlove her!",
-            "choice_data_list": [
-                "That's exactly right!"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Heh... Hehehe! You know it!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's me, El Condor Pasa! I know how to get the\ncrowd going!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yup, everything my trainer said is true! But, well...\num..."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hearing Trainer compliment me like that <i>is</i> a bit\nembarrassing..."
-        },
-        {
-            "name": "Monologue",
-            "text": "The conversation continues for a while, and\nthen..."
-        },
-        {
-            "name": "Interviewer",
-            "text": "So, to wrap things up, could you two leave us\nwith a few final words?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yes! Okay, let's do this, Trainer!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Who's the Umamusume you're so proud of?!",
-            "choice_data_list": [
-                "El Condor Pasa!"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Who's the master of the mile?!",
-            "choice_data_list": [
-                "El Condor Pasa!"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Who's the Umamusume who'll take on the world?!",
-            "choice_data_list": [
-                "El Condor Pasa!"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Bueno!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "My Twinkle Series isn't over yet! Thank you for\nyour support!"
-        },
-        {
-            "name": "Monologue",
-            "text": "The program ends with a bright smile from El\nCondor Pasa."
-        }
-    ]
+  "title": "Mile Secrets!",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "A few days after winning the Yasuda Kinen..."
+    },
+    {
+      "name": "Interviewer",
+      "text": "It's time for <i>Horsegirl Secrets.</i> Today, I'm visiting\nTracen Academy, where I'm meeting with a very\nspecial guest."
+    },
+    {
+      "name": "Interviewer",
+      "text": "She's mastered the mile by winning the NHK Mile\nCup, the Mile Championship, and the Yasuda\nKinen..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hola! I'm the world's strongest racer, El Condor\nPasa!",
+      "choice_data_list": [
+        "And I'm her trainer."
+      ]
+    },
+    {
+      "name": "Interviewer",
+      "text": "I'm here today to get the behind-the-scenes\nscoop on your journey!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hehe! You can ask me aaanything!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "My dream is to become the strongest racer in the\nwhole world! All you've seen from El Condor in\nthe Twinkle Series has been for that purpose!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "A few things came up during my classic year... but\nmy dream remains unchanged!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "And so, my current goal is to win the Japan Cup\nin my senior year!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "But before that... I need to make sure even more\npeople witness my power!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "After all, even in wrestling, more strength means\nmore excitement!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "That's the reason I ran in so many mile races! To\nmaster the mile!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "Oh, I see!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...Yup!"
+    },
+    {
+      "name": "Monologue",
+      "text": "To be honest, we came up with that reasoning\nafter the fact... but there's no denying her\nachievements.",
+      "choice_data_list": [
+        "Um, yeah! Make no mistake!"
+      ]
+    },
+    {
+      "name": "Interviewer",
+      "text": "I see! This is getting more exciting by the second!"
+    },
+    {
+      "name": "Monologue",
+      "text": "After that, we move around the school and talk\nabout topics ranging from her debut to the other\nrunners in her generation. Then..."
+    },
+    {
+      "name": "Interviewer",
+      "text": "And finally, we've arrived at the trainer's office."
+    },
+    {
+      "name": "Interviewer",
+      "text": "This space holds every trophy the pair have\nearned, the road map they took to get here, and\nthe moments that led to miracles."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hehehe! You could call it our secret base!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "I imagine there must have been a roadblock or\ntwo you hit along the way, given how grand your\ndream is."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I'm hella strong, so of course it was smooth sailing\nthe entire way!",
+      "choice_data_list": [
+        "Well, I wouldn't say that..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Qué?!",
+      "choice_data_list": [
+        "But she always worked hard!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Despite times of hesitation and occasionally\nhaving to change course, El Condor Pasa has\nalways kept to her ideals while taking on the\nTwinkle Series and made her mark."
+    },
+    {
+      "name": "Monologue",
+      "text": "I tell the interviewer about our experiences while\nchoosing my words carefully."
+    },
+    {
+      "name": "Interviewer",
+      "text": "I see... Even someone as optimistic and cheerful\nas El Condor Pasa can struggle sometimes."
+    },
+    {
+      "name": "Interviewer",
+      "text": "But she never lets those struggles show and works\nhard to entertain her audience. That's why we\nlove her!",
+      "choice_data_list": [
+        "That's exactly right!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Heh... Hehehe! You know it!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "That's me, El Condor Pasa! I know how to get the\ncrowd going!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yup, everything my trainer said is true! But, well...\num..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hearing Trainer compliment me like that <i>is</i> a bit\nembarrassing..."
+    },
+    {
+      "name": "Monologue",
+      "text": "The conversation continues for a while, and\nthen..."
+    },
+    {
+      "name": "Interviewer",
+      "text": "So, to wrap things up, could you two leave us\nwith a few final words?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yes! Okay, let's do this, Trainer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Who's the Umamusume you're so proud of?!",
+      "choice_data_list": [
+        "El Condor Pasa!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Who's the master of the mile?!",
+      "choice_data_list": [
+        "El Condor Pasa!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Who's the Umamusume who'll take on the world?!",
+      "choice_data_list": [
+        "El Condor Pasa!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "My Twinkle Series isn't over yet! Thank you for\nyour support!"
+    },
+    {
+      "name": "Monologue",
+      "text": "The program ends with a bright smile from El\nCondor Pasa."
+    }
+  ]
 }
