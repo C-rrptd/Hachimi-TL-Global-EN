@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local game data extraction (don't publish the raw decrypted DB)
+meta_decrypted.sqlite
+
+# Logs / manifests generated locally during extraction runs
+_run_log.txt
+_error_manifest.json
+_hash_manifest.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/*.log
