@@ -1,9 +1,9 @@
 {
-    "localize_dict": "\\localized_dat\\localize_dict.json",
-    "text_data_dict": "\\localized_dat\\text_data_dict.json",
-    "character_system_text_dict": "\\localized_dat\\character_system_text_dict.json",
-    "race_jikkyo_comment_dict": "\\localized_dat\\race_jikkyo_comment_dict.json",
-    "race_jikkyo_message_dict": "\\localized_dat\\race_jikkyo_message_dict.json",
-    "assets_dir": "\\localized_dat\\assets",
+    "localize_dict": "\\localized_data\\localize_dict.json",
+    "text_data_dict": "\\localized_data\\text_data_dict.json",
+    "character_system_text_dict": "\\localized_data\\character_system_text_dict.json",
+    "race_jikkyo_comment_dict": "\\localized_data\\race_jikkyo_comment_dict.json",
+    "race_jikkyo_message_dict": "\\localized_data\\race_jikkyo_message_dict.json",
+    "assets_dir": "\\localized_data\\assets",
     "remove_ruby": true
 }
